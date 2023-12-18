@@ -1,0 +1,429 @@
+4:20-cv-05640-YGR
+ic am es nc .v.
+Expert Testimony of Professor Aviel Rubin
+
+Professor Aviel Rubin
+
+lP
+JOHNS HOPKINS
+
+Professor, Johns Hopkins University
+Technical Director, Johns Hopkins University Information Security Institute
+
+harborlabs Founder and Chief Scientist,
+CYBER. SCIENCE Harbor Labs
+
+Founder and (Former) President, Independent Security Evaluators
+~<>~ AT8cT (Former) Research Scientist,
+860coFe Bellcore & AT&T Labs
+
+EEFF
+
+Electronic Frontiers Foundation (EFF) Pioneer Award
+
+ST%
+
+B.S.,M.S.E., and Ph.D. in Computer Science and Engineering, University of Michigan
+Rubin 2
+
+Assignment
+Evaluate Apple's App Review and App Store distribution Research and evaluate real-world data
+
+Summary of Conclusions
+· Significant security benefits · Lower infection rates · Lower volume of malicious or untrustworthy apps
+
+ae
+rivac
+eia ii
+rus wo i n ess
+
+Direct Distribution
+
+Multiple App Store Distribution
+
+· a
+
+a
+
+· · a
+
+·
+
+·
+
+·
+
+LTT
+
+Rubin 7
+
+Centralized Distribution
+
+Sources of Apps
+· From a specific app store · Directly from the developer
+(including the web) · From any app store
+· From other users and sources
+
+NonCentralized
+
+Direct Distribution
+
+Direct Distribution
+
+· a
+
+a
+
+· · a
+
+Li
+LTT
+
+Rubin 11
+
+Direct Distribution
+
+· a
+
+a
+
+· · a
+
+Li
+LTT
+
+Rubin 12
+
+Multiple App Store Distribution
+
+· a
+
+a
+
+· · a
+
+·
+
+·
+
+·
+
+LTT
+
+Rubin 13
+
+Multiple App Store Distribution
+
+· a
+
+a
+
+· · a
+
+·
+
+·
+
+·
+
+5 R~
+
+Li
+r TT
+LTT
+
+Pl&E
+
+Rubin 14
+
+Multiple App Store Distribution
+
+· a
+
+a
+
+· · a
+
+·
+
+·
+
+·
+
+5 R~
+
+Li
+r TT
+LTT
+
+Pl&R
+
+Rubin 15
+
+Attacker Tools
+Multiple listings Multiple listings with different variations Listing in one and updating in another
+Imposter apps Imposter stores
+User infection
+
+Centralized Distribution
+
+Centralized Distribution
+
+· a
+
+a
+
+· · a
+
+·
+
+·
+
+Li
+
+Rubin 18
+
+Centralized Distribution
+
+· a
+
+a
+
+· · a
+
+ilR
+LTT
+Li
+
+Rubin 19
+
+Centralized Distribution
+
+· a
+
+a
+
+· · a
+
+ilR
+LTT
+Li
+
+Rubin 20
+
+Multiple App Store Distribution
+
+· a
+
+a
+
+· · a
+
+·
+
+·
+
+·
+
+LTT
+
+Rubin 21
+
+Multiple App Store Distribution
+
+· a
+
+a
+
+· · a
+
+·
+
+·
+
+·
+
+gE
+I@@
+Li
+gE
+
+Rubin 22
+
+iOS Distribution Model
+
+· a
+
+a
+
+· · a
+
+LTT
+
+W8/SOOYgR
+"4
+Rubin 23
+
+NOKIA
+
+U rs e c Noe tun f Cur
+
+CrsrNo 4rn ~
+
+YGR
+
+C 7 tl ~ l
+
+Rd bit uo DXN975
+
+Dstr E turd
+
+' RISKIQ
+
+Ql R I S K I Q'
+
+Case No 4;te-r dn44e.YGR Esbrbrt No DX-4934
+
+2020 Mobile App Threat Landscape Report
+Tumultuous Year Bred New Threats, But the App Ecosystem Got Safer
+
+DN4975.0ot
+DX-4975
+
+Exhibit 0555
+Mickena
+
+DX-4934
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+
+Page i of )4
+
+('suNo rn. SS SIOYRR
+
+aoasCyher Security Statlstlcs
+
+t I b IN obcrn u,l F t
+
+The Uttltrtate List OfStats, Qata St Trend's
+
+t obi ero tb I t stcrb o n in s5ds t t de r n b a s t r o c cd t
+
+~
+
+Up goo %Duo To COVID-50Pnndonde
+
+bnps://purplesec.us/resources/c... Rnps://purplesec.us/nsources/c... DXMS$.001
+DX-4956
+
+Rubin 24
+
+Infections by Device
+Total infections between various devices {2Q2Q}
+
+I
+
+·
+
+·
+
+'
+
+·
+
+·
+
+·
+
+·e ·
+
+1.72'/o iOS platform
+
+· ·
+
+I
+
+I
+
+·e ·
+
+·
+
+a
+
+DX-4975.008
+
+Rubin 25
+
+China Android Marketplace
+~mr~
+
+~~ QII7$4
+
+~
+
+China Mobile
+
+V'I V'C)
+
+JZFJ i%R
+
+iji +r~mmr~
+AP P . MI. COM
+
+Ill~tIr~INx
+OPPOV~e<tmr~
+8 iL~ 5 % I L ~ 8
+
+~9EO
+AN R H I
+
+- RJQ>%IIN
+
+XWVVIt '-$5J~~E<Hib>k
+
+I ·
+OSa
+
+AppChina.corn liii FA &
+
+Xe
+
+Rubin 26
+
+Attack Trends
+
+· I
+·
+
+Non-social engineering
+attacks 2%
+
+a
+
+a a
+
+·
+
+·
+
+840
+820
+800
+Number 780 of malware
+attacks
+(Millions)
+740
+720
+700
+680
+
+702M
+2017
+
+DX-4956
+
+812.6M
+2018 Rubin 27
+
+

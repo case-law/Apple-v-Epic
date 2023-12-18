@@ -1,0 +1,1165 @@
+ANALYSIS GROUP
+
+llnited attttos Distriot Court Northern District orcslifornia
+
+Case No. 4:26-ev-65649-'tit'GR
+
+C'ase Title F, is Crssrrlr,lrrssv.. Irk, tm,
+
+Exhibii No,9X-3129
+
+Date Ett<ere4
+ssssn Y. Soowg. etcst'
+
+ttv:
+
+. 1%psntlsrk
+
+Apple's App Store and Other Digital Marketplaces
+
+A Comparison of Commission Rates
+
+·
+
+·
+
+July 22, 2020
+
+Jonathan Borck, Ph.D. Juliette Caminade, Ph.D, Markus von N/artburg, Ph,D.
+
+Support for this study was provided by Apple. The conclusions and opinions expressed are exclusively those of the authors.
+DX-3120.001
+
+Apple's App Store and Other Digital Marketplaces
+Over the last two decades, with advances in digital and mobile technologies, digital marketplaces have emerged as a new type of business model. Digital marketplaces are platforms that use digital technologies and tools to connect buyers and sellers. They have become ubiquitous in many sectors of the economy: examples include retail marketplaces such asAmazon and Etsy,ridesharing apps such as Uber and Lyft,travelplatforms such as Airbnb and Booking.corn, and food delivery platforms such as Grubhub and Uber Eats.
+Digital marketplaces create value by facilitating and promoting valuable transactions between buyers and sellers. As a result, they typically share certain features that are critical to their management and success. Many digital marketplaces, for example, set up rules and policies to govern transactions and promote trust and reliability among both sellers and buyers. Some digital marketplaces also provide various services to users and invest in technology to improve the performance of the platform. In return, digital marketplaces typically charge fees based on the transactions they facilitate.
+Apple's App Store ecosystem facilitates interactions between app developers and nearly one billion Apple device owners globally. To promote its success, Apple provides developers with distribution, search, and review services, as well as a set of tools to build and monetize apps. Apple also invests in the safety of the App Store and in developing new technologies and functionalities. While Apple charges developers an annual fee to enroll in its Developer Program and upload apps to the App Store, Apple does not charge developers to offer each individual app on the App Store, to distribute updates to users, or to access Apple's app analytics, marketing, and developer tools. Apple receives a commissionfrom developerswhen usersdownload paidapps and make in-app purchases of digital content, services, and subscriptions."
+Study Goal The goal of this study is to compare the commission rates of Apple's App Store with those of other app stores and digital marketplaces, and to evaluate the App Store commission and associatedrules in thecontext ofthe business model used both by digital marketplaces and platforms in general.
+
+I ~· 0
+
+tlat
+
+I ·
+
+1
+
+Apple does not charge a commission on the purchase of physical products and services through the app.
+
+2
+
+Deve l o p ers set the price of apps on the App Store, and Apple does not charge consumers anything (beyond the
+
+price set by the developer) to obtain apps or digital content.
+
+ANALYSIS GROUP l I
+DX-3120.002
+
+Apple's App Store and Other Digital Marketplaces
+
+Findings Our study shows that Apple's App Store commission rate is similar in magnitude to the commission rates charged by many other app stores and digital content marketplaces. The commission rates charged by digital marketplaces most similar to the App Store, such as other app stores and video game digital marketplaces, are generally around 30%.
+Marketplacesthatdistribute digitalcontent such as videos,podcasts,eBooks, and audiobooks generally charge commission rates of 30% or more. Commission rates charged by e-commerce marketplaces vary by industry but sometimes exceed 30%.
+Many sellers currently sell (or previously sold) their goods through brick-and-mortar stores and marketplaces. We find that sellers generally earn a substantially lower share of total revenue from the distribution through brick-and-mortar stores and marketplaces than through digital marketplaces such as the Apple App Store.
+
+yy a
+
+e g
+
+y
+
+t0 '
+
+· I' 0 I ·
+
+0.
+
+I
+
+· I
+a r
+
+II I ' i ·'
+
+e e
+
+~· e' ~·e
+
+Digital Marketplaces and Their Business Models Digital marketplaces are relatively novel platforms. Some have disrupted entire industries such as hospitality, food delivery, or ridesharing. Some have expanded existing markets, while others created entirely new markets. All rely on improved technologies such as smartphones and video game consoles. Irrespective of their particular context, digital platforms share a set of characteristics and way of operating.
+· Di gital marketplaces are two-sided platforms that connect sellers and buyers and provide them with an environment in which to interact and trade. For example, travelersand hosts can connect and transact through the Airbnb platform. Passengers and drivers can connect through the Uber and Lyft apps. And app stores connect app developers with device owners who are interested in those apps.
+· A marketplace's attractiveness is determined primarily by its ability to bring on board enough buyers and enough sellers, in a way that preserves the platform's trust and integrity. By enrolling more high-quality sellers, a digital marketplace becomes more valuable to buyers. Similarly, by engaging more buyers, a digital marketplace becomes more valuable to sellers. This feature of digital marketplaces is known as an "indirect network effect."
+· Di gital marketplaces provide tools and services to facilitate and encourage valuable interactions between buyers and sellers, or between developers and users. This involves upfront investments to build the platform, as well as continued
+
+ANALYSIS GROUP I 2
+DX-3120.003
+
+Apple's App Store and Other Digital Marketplaces
+investments to enhance the platform with improved functionalities to maintain its appeal to all users of the platform. Such functionalities include helping users find productsthat match theirinterests and pay insecure ways. · Di gital marketplaces may provide more than matchmaking. Some invest in various tools and technologies to help sellers and developers offer innovative products and better ways to monetize them.
+Apple's App Store exhibits features of a digital marketplace:
+· Connecting developers and app users -- The App Store is a digital marketplace for app developers and Apple device users to interact and transact. The App Store enables developers of all sizes to distribute apps (and updates) to a large and valuable base of users throughout the world.' Users can download a variety of apps from many different developers.
+· Attractindgevelopers and engaging app users -- Users have access toa diverse library of almost two million apps that have gone through Apple's app review process. All apps submitted to the App Store must abide by the App Store Review Guidelines, which set out standards for safety, performance, business, and design, as well as legal requirements.4 The goal of this review process is to ensure that all apps on the App Store are safe, thereby preserving the trust and integrity of the ecosyste m.
+· Providing tools to encourage valuable interactions between developers and users -- Apple offers tools -- including secure payment services, app analytics, and reporting tools -- to assist developers in their marketing and sales efforts. Apple also continues to develop additional search functionalities and refine its search algorithm to help users find apps.
+· In vesting in the ecosystem -- Apple invests in its ecosystem to attract and incentivize developers to create and sell innovative apps. One way it does so is by providing developers with tools, compilers, programming languages, libraries, application programming interfaces (APls), and software development kits (SDKs) to create, test, configure, and upgrade their apps. In addition, Apple makes its innovations and intellectual property available to developers, for example, through the useofcustom chips,cameras, operating system and securityfeatures,and cloud services.
+Because the value of digital marketplaces comes from enabling and facilitating transactionsand making investments to support these transactions, digitalmarketplaces typically charge transaction fees. Transaction-based commission rates lower the barriers
+The user base of the Apple App Store tends to be more affluent and has a greater propensity to spend on apps. See Omdia, App Ecosystems Forecast 20I9 --2024. See Apple's App Store Review Guidelines (https://developer. apple.corn/app-store/review/guidelines) and Kif Leswing, "Inside Apple's team that greenlights iphone apps for the App Store," CNBC (June 21, 2019).
+ANALYSIS GROUP I 3
+DX-3120.004
+
+Apple's App Store and Other Digital Marketplaces
+to entry for small sellers and developers by minimizing upfront payments, and reinforce the marketplace's incentive to promote matches that generate high long-term value.
+Comparison of the Commission Rates of Apple's App Store with Those of Other App Stores and Marketplaces
+The Apple App Store's commission rates Apple chargesa commission when device owners download paidapps and make in-app purchases of digital content, services, and subscriptions.' Developers earn 70% of sales from paid apps and in-app purchases, and Apple collects a 30% commission. For in-app subscriptions, Apple charges a 30% commission for the first year. After that, Apple's commission falls to15%, meaning that developers' earnings increase to 85% of sales.
+Developers can also monetize digital content and services on their apps in ways that do not involve transacting directly through the App Store, in which case Apple collects no commission. Specifically, developers can sell digital content, services, and subscriptions outside of the App Store that can be consumed and enjoyed within apps on Apple devices. In a recent study, we estimated that the revenue driven by app users' engagement with music and video streaming apps on Apple devices in the US is roughly twice as large as in-apppurchases through the App Store.'Fornewspapers, magazines, and audiobooks, this discrepancy is even greater, and enterprise apps are usually paid for by businesses and institutions entirely outside of the App Store despite being used by many employees, students, and others on Apple devices. Additionally, developers can monetize their digital content and services through in-app advertising, which is a large source of revenue for developers. This is especially true for gaming apps: In 2019, US game developers made more money from in-app ad sales on the iOS ecosystem than from billings through the App Store.
+Developers can also monetize their apps in other ways, including through the sale of physical goods and services on their apps (such as grocery or food delivery apps). iOS apps facilitated more than $90 billion in sales of physical goods and services in the US in 2019. Apple receives no commission on such sales.
+Comparison with other marketplaces and distribution systems To put Apple's commission rates in context, we reviewed commission rates used by a diverse set of digital marketplaces. Our review included four types of digital marketplaces, grouped by their business model and ordered according to their similarity with Apple's App Store: (1) other app stores and software distribution platforms, (2) video game digital marketplaces, (3) marketplaces that distribute digital content, and (4) e-commerce mar-
+In addition, to upload apps, Apple charges developers a $99 annual fee for the Apple Developer Program and a $299 fee for the enterprise version. These fees are fixed and do not affect the commission rate on any individual app download, in-app purchase, or in-app subscription. Consequently, we do not consider these fees in our comparisons of commission rates in this report. These estimates are based on Apple data and the results of our earlier study LHow Large ls the Apple App Store Ecosystem: A Global Perspective for 201 9" (June 15, 2020).
+ANALYSIS GROUP I 4
+DX-3120.005
+
+Apple's App Store and Other Digital Marketplaces
+
+ketplaces (that sell physical goods and services).'We also reviewed brick-and-mortar marketplaces and distributors. In this process, we relied on public information provided by the marketplaces themselves when available, and from reliable third-party sources otherwise.'
+
+1. Other app stores and software distribution platforms
+The closest comparison to Apple's App Store is provided by other large app stores and software distribution platforms. We reviewed the commission rates charged by large app stores -- including the Google Play Store (Google's app store for certified Android devices), the Amazon Appstore (for Amazon and Android devices), and Samsung's Galaxy Store (an Android app store for Samsung devices) -- as well as broader platforms such as the Microsoft Store which distributes software and games for computers and tablets that run onWindows and forXbox consoles.
+
+As listed in Table 1, all these app stores charge the same standard commission rate as Apple (30%). Each has its own exceptions, particularly with respect to subscriptions. Commission rates of15% for subscriptions after12 months are on the low end of commission rates. For instance, similar to the Apple App Store, Google Play's commission rate for subscriptions is 15% after 12 months, and Amazon's commission is 20% for video streaming subscriptions. While the Galaxy Store charges a 30% standard commission rate, it explicitly states that this rate may be negotiable.
+
+For Microsoft's software distribution platform, the commission is also 30% for all gamesincluding subscriptions -- and on certain stores (such as the Microsoft Store for Business and the Microsoft Store for Education), although it otherwise charges15% for non-game software and subscriptions for computers, tablets, and consoles.'Some app stores also charge xfeid account fees."
+
+Table1: Commission Rates for Select App Stores
+
+Google Play Store
+
+· 30% (15% for subscriptions after 12 months)
+
+Amazon Appstore
+
+· 30% (20% for video streaming subscriptions)
+
+Samsung GalaxyStore
+
+· 30% (or otherwise agreed-upon)
+
+Microsoft Store
+
+· 30% on games · 30% on all sales in Business and Education stores · 30% for Windows 8 devices · 15% otherwise
+
+Apple App Store
+
+· 30% (15% for subscriptions after 12 months)
+
+A detailed analysis of the similarities and differences between Apple's App Store, and the services that it provides, and these other digital marketplaces is beyond the scope of this study.
+A detailed list of the commission rates, rules, and sources is included in the Appendix.
+Starting in March 2019, Microsoft briefly lowered the15/0 commission rate it charged on qualifying sales to 5/0, before increasing it back to 15/0 in January 2020.
+10 The Google Play Store charges a one-time $25 registration fee for a developer account. The Microsoft Store charges a one-time fee of $19 for individual developer accounts and $99 for company developer accounts.
+
+ANALYSIS GROUP l 5
+DX-3120.006
+
+Apple's App Store and Other Digital Marketplaces
+We also reviewed the rates charged by a few other app stores, such as Aptoide (an open source Android app store) and LG SmartWorld (an Android app store for LG devices), which charge commissions in the 25 --30% range.
+In China, in the absence of Google Play, dozens of competing Android app stores have sprung up. They include app stores from digital companies Tencent (MyApp) and Qihoo 360 (360 Mobile Assistant), from smartphone manufacturers (such as Huawei AppGallery, OPPO Software Store, Vivo App Store, and Xiaomi's MILII App Store), and from phone carriers (such as China Mobile's MM Store), among others. The commission rate charged by these app stores is often 50% or more."
+Not all app stores have been successful, and some of them have closed. This is not unexpected as app stores, and digital marketplaces in general, need to attract a sufficient user base and offer developers attractive opportunities to thrive. We reviewed commission rates charged by app stores that have closed down, such as BlackBerry World, the Windows Phone Store, the Nokia Store, and Handango. The commission rates for these four now-defunct app stores were very similar, at least 30%.
+2. Video game digital marketplaces Games represent a significant share of mobile apps, so video game digital marketplaces are a second natural comparison to app stores. In addition to being sold on mobile platforms, video games are also sold through the online stores of video game console makers such as Microsoft (Xbox), Sony (PlayStation), and Nintendo, or through digital video game distribution platforms such as Steam (owned by Valve) and Epic Games Store for PC gaming.
+We reviewed the commission rates charged by large video game console makers and video game distribution platforms. As shown in Table 2, their commission rates are generally 30%. Steam's commission rate is volume-adjusted (30% for games earnings under $10 million, 25% for earnings between $10 and $50 million, and 20% for earnings above $50 million). An exception is the Epic Games Store, which charges a commission rate of12%""
+
+Certain app stores may have lower rates (around 30/0). App stores that charge higher rates may provide expanded services,such as game promotion.
+
+12 The Epic Games Store offers fewer features than Steam, and relies on exclusive distribution deals to build its digital distribution platform. See, e.g., Nick Statt, "Epic vs. Steam: The console war reimagined on the PC," The Verge (April 16, 2019). Epic also charges a 5/0 royalty on games sold on other marketplaces if they were developed usingEpic'sgame engine.
+
+13
+
+I/e also reviewed the commission rates charged by smaller online gaming platforms, such as itch.io, Game Jolt,
+
+GOG.corn, Humble Store, and GamersGate. Their business models are more varied. GOG.corn, GamersGate, and
+
+Humble Store are most similar to the larger stores and charge commission rates on game revenues of 25 --30/o.
+
+Itch.io uses an open revenue sharing model, while Game Jolt charges at most10/0 on game revenue but 70/0 on
+
+advertising revenue.
+
+ANALYSIS GROUP l 6
+DX-3120.007
+
+Apple's App Store and Other Digital Marketplaces
+
+Table 2: Commission Rates for Select Video Game Digital Marketplaces
+
+Xbox PlayStation Nintendo
+
+· 30% (15% for non-video game subscriptions) · 30%* · 30%*
+
+Steam
+
+· 30% for sales below $10 million · 25% between $10 and $50 million · 20% above $50 million
+
+Epic Games
+
+· 12%
+
+* Commission rate from third-party sources, not disclosed by the marketplace.
+
+3. Marketplaces that distribute digital content
+Aside from video games, a variety of digital content is published by platforms. These platforms are often specialized and less similar to Apple's App Store. Platforms that distribute digital content generally charge commissions in the 30 --50% range, as reflected in Table 3. While some of those platforms take a commission on paid transactions, others take a commission on advertising revenue, or both. Examples of such platforms include the following:
+
+· Video content can be self-published and distributed through YouTube and Amazon Prime Video Direct. YouTube is reported to collect 45% of advertising revenues, while Amazon collects 50% of purchase and rental revenues. Video content can also be distributed through a "channel model," for example, through Roku. Roku collects 20% of purchases from viewers; it also collects the revenue from selling 30% of the advertising inventory of ad-supported channels.
+· EBooks can be self-published and distributed on Amazon's Kindle Direct Publishing, Barnes 8 Noble's Nook, or Kobo. Their typical commission rates are in the 30 --35% range.
+· Au diobooks can be self-published and distributed on Amazon's Audible platform, which charges a commission rate of 60 --75%,or on Kobo, which charges a commission rate of 55 --68%.
+· Podcasts can be created, distributed, and monetized through platforms such as Spotify's Anchor, which charges a 30% fee on sponsorships (from advertisers) and a 9.5% fee on donations from listeners.
+· Garners can livestream their play through Twitch, paying a commission fee of 50% on subscription revenue, in addition to a minimum of 25% on advertising revenue. Creators can post content and receive funding on Patreon's platform, for a commission of up to14.9%.
+
+ANALYSIS GROUP l 7
+DX-3120.008
+
+Apple's App Store and Other Digital Marketplaces
+
+Table 3: Commission Rates for Select Digital Content Platforms
+
+Anchor
+by Spotlfy
+
+· 30/o on sponsorships (advertising) · 9.5/o on listener donations
+(including 5/o payment processing fee)
+
+Twitch
+
+·50/oon netsubscriptionrevenue · 25/o (minimum) on advertising revenue
+
+Roku
+
+· 20/o on pay-to-install or in-channel purchases · 30/o of advertising inventory
+
+YouTube Amazon Prime Video Direct
+Kindle Direct Publishing
+
+·45/oon advertisingrevenue*
+· 50/o on purchase and rental revenue
+· 30/o for eBooks between $2.99 and $9.99 · 65/o otherwise
+
+Nook Kobo
+
+· 35/o for eBooks between $2.99 and $199.99 · 60/o otherwise
+· 30/o for eBooks $2.99 and above · 55/o for eBooks below $2.99 · 55 -- 68/for audiobooks
+
+Audible
+
+· 60/o for exclusive content · 75/o otherwise
+
+Patreon
+
+· 79/o, 10.9/o, ol'14.9/o depending on features
+
+* Commission rate from third-party sources, not disclosed by the marketplace.
+
+4. E-commerce marketplaces
+
+E-commerce marketplaces serve as our fourth comparison set. A multitude of online marketplaces have emerged in the last 20 years, facilitating transactions in a wide set of industries. An important aspect of e-commerce marketplaces is that they use a variety of business models, and (largely) involve physical goods and services rather than digital content and services.
+
+For e-commerce marketplaces, the commission rates and structure vary, as reflected in Table 4.'4 Examples of such marketplaces include the following:
+
+· Ge neral online retail marketplaces include Amazon, Walmart, eBay, and Etsy, which typically charge sellers standard commissions ranging between 5% and 20% of the product price."
+· Travel platforms that facilitate lodging include Airbnb, VRBO, and Booking.corn, which are reported to charge commissions of14 --20% of the total value of the booking.
+
+14
+
+So me e - commerce marketplaces charge separate fees to sellers and buyers.
+
+15
+
+On li n e retail marketplaces may assess additional fees, such as distribution and advertising fees, listing fees, or
+
+certain fixed fees. For example, Amazon charges sellers on its e-commerce platform a monthly $39.99 fee for
+
+a professional account. Online retail marketplaces may also charge membership fees on the buyer side (e.g.,
+
+Amazon Prime fees).
+
+ANALYSIS GROUP l 8
+DX-3120.009
+
+Apple's App Store and Other Digital Marketplaces
+
+· Ridesharing platforms such as Uber and Lyft are reported to charge fees amounting to about 20 --25% of the total ride prices.
+· Food delivery platforms such as Uber Eats and Grubhub offer delivery services for a commission of 30% or more. (Commissions on pick-ups and self-delivery are lower, in the 15 --23% range, approximately.)
+· Freelancing platforms for various types of workers include Upwork, TaskRabbit, and Spotify's SoundBetter, which charge fees between 5% and 20% of the service value.
+· Ti cket resale marketplaces such as StubHub or Ticketmaster are reported to charge around 30 --37% commissions on the total ticket price.
+
+Table 4:Commission Rates forSelect e-Commerce Marketplaces
+
+General Retail*
+
+Amazon eBay Etsy Walmart Poshmark
+
+· 8-17%
+· 10 --2%1 · 5% + 3% fol'
+Etsy Payment · 6-15% · 20%
+
+Airbnb
+Booking.corn VRBO
+
+· 17.2% · 14-20% for hotels · 20% for Experiences
+(including online ones)
+· 15% on average
+· 18 --9%1 *
+
+Rid esharing Uber Lyft
+
+· 2 50/ * · -20%*
+
+Ticket Resale Stub Hub
+
+· 3 70/ *
+
+Ticketmaster · -31%*
+
+Food Delivery*
+
+Freelancing Services
+
+Uber Eats
+
+· 15 -- 30%
+
+TaskRabbit
+
+· 15%
+
+Grubhub
+
+· 23 -- 33%+
+
+Upwork
+
+· 20% below $500 · 10% for $500-10,000 · 5% above $10,000
+
+SoundBetter
+
+· 5/,
+
+by Spotify
+
+* Commission rate from third party sources, not disclosed by the marketplace. ** Standard seller commission rates only.
+
+ANALYSIS GROUP i 9
+DX-3120. 01 0
+
+Apple's App Store and Other Digital Marketplaces
+5. Brick-and-mortar production, distribution, and marketplaces Examples of brick-and-mortar production, distribution, and marketplaces serve as our last comparison set. While their business models and cost structures vary significantly and are least similar to those of the Apple App Store, they nonetheless provide interesting insights.
+First, we reviewed products that are (or were) sold in both digital and physical formats. These productsare most relevant because digitization has transformed how content producers can distribute their work, often reducing brick-and-mortar costs and allowing for a streamlined supply chain.
+Depending onthe business model,coststructure,and supply chain organization,we reviewed and analyzed either (1) the share of the retail price that flows to content providers, (2) the commission charged by intermediaries, or (3) the costs of producing and distributing several products as physical goods when those costs are directly incurred by the content producer. Results from the second and third measure can be compared most directly with Apple's commission rate (30% or 15%), while results from the first method can be compared most directly with the share of revenues that developers receive after commission (70% or 85%).
+· When video games are sold in brick-and-mortar stores, developers and publishers jointly collect up to an estimated 45% of the retail price. The remaining 55% goes to retail and wholesale margins, other distribution costs, and royalty fees collected by console makers. By contrast, on most digital video game marketplaces, including the Apple App Store, developers and publishers receive 70% of sales, with 30% going to the digital marketplace commissions. (See Table 2.) Distribution costs on digital marketplaces are limited, as developers are able to self-publish.
+· Software developers typically received 30 -- 40o%f the retail price of boxed software before the advent of digital software downloads. The remaining 60 --70% went to distributors and retailers. By contrast, developers who distribute software via app stores or digital software distribution platforms typically collect 70 --85%of the sales price. (See Table 1.)
+· Book publishing program Kindle Direct Publishing (from Amazon) charges commission rates between 40% and 60% for paperback books, leaving a similar share for the content creators. Kindle Direct Publishing and Barnes 8 Noble typically charge a 30 --35% commission to publish books digitally as eBooks. (See Table 3.) These commission rates are higher than the commissions charged by digital marketplaces, including the Apple App Store.
+· For newspapers, physical production and distribution costs are estimated to be 50% ofrevenues,and formagazines, 60% of revenues. Newspapers and magazines sold as in-app purchases avoid these costs, and pay a15 --30% commission rate to distribute their product digitally. (See Table 1.)
+ANALYSIS GROUP I 10
+DX-3120. 01 1
+
+Apple's App Store and Other Digital Marketplaces
+
+Second, we reviewed examples of brick-and-mortar distribution of physical products. We included marketplaces that connect buyers and sellers and charge commissions, such asauction houses and consignment stores.Although these marketplaces are very different from online platforms like the Apple App Store, their business models have some resemblance to those of digital marketplaces. We also included more traditional examples of brick-and-mortar distribution, such as car dealerships and retail stores, reviewing costs and fees associated with selling via such physical distribution channels.
+· Art auctionhouses, such as Sotheby's,Christie's,and Bonhams, charge various types of fees, including a buyer fee of 20 --25% for amounts under $4 million and a seller fee estimated at10% on average. The sellers receive the rest.
+· Consignment storesoften charge commissions ranging between 50% and 75%.
+· Car dealerships often serve as intermediaries that sell used cars from old to new owners, with margins reported to be at least 20%. This means that the former car owners typically receive approximately 80% of the eventual resale price upfront. Just as in online markets for digital goods, trust is often difficult to ensure in used car markets. As a result, certain dealerships offer car certifications programs, which include car inspections and certain warranties."
+· Food manufacturers pay fees to retailers for store placement, as well as other promotional fees, known as trade fees. These trade fees are estimated to account for15 --20%of the manufacturer's total sales revenue.
+Digital marketplaces need rules and governance to thrive It is widely recognized that the success of digital marketplaces depends on their ability to connectbuyers and sellersand generate valuable interactions." Because trustand integrity are central to making buyers and sellers comfortable trading on the platform, digital marketplaces often employ common rules and enforcement strategies to foster such an environment. A lack of adequate policing and governance can undermine such trust and integrity, leading to an unsuccessful platform." Ridesharing apps perform background checks on drivers and use rating systems for drivers and riders. Apple, as m entioned aboveu,ses a strictvetting process to review the apps, ensuring that they are safe, reliable, and bring value to customers."
+
+16
+
+"Certified Pre-Owned Pros and Cons," Kelley Blue Book (2018).
+
+17
+
+See, e.g., Annabelle Gawer and Michael Cusumano, "How Companies Become Platform Leaders," MIT Sloan
+
+Management Review (January 2008); Avi Goldfarb and Catherine Tucker,"Digital Economics," Journal of
+
+Economic Literature (March 2019).
+
+18
+
+For example, in 1983, the video game industry crashed, causing more than 90% of game developers to go
+
+bankrupt. That collapse was linked to a proliferation of unreliable, low-quality games. However, Nintendo was
+
+able to resurrect the market a few years later, thanks to rules and policies aimed at expelling unauthorized games. These rules and policies were key to its success. See Kevin Boudreau and Andrei Hagiu, "Platform Rules:
+
+Multi-Sided Platforms As Regulators," in Annabelle Gawer (ed.) Platforms, Markets and Innovation (2009).
+
+Similarly, buyers are wary of using marketplaces riddled with seams.
+
+19 Apple's App Store Review Guidelines include rules addressing (among other things) the security of apps, their performance and compatibility, their business model, and their design.
+
+ANALYSIS GROUP I 11
+DX-3120.012
+
+Apple's App Store and Other Digital Marketplaces
+
+In addition, for their business model to be successful, digital marketplaces often have to rely on rules that prevent customers from free riding on their services. Free riding involves buyers and/or sellers avoiding fees after the platform has helped connect them, which m eans thathe platform isnot compensated forthe successfulmatch and the use ofthe platform's technology, tools, and services to facilitate and promote valuable transactions between buyers and sellers. A review of the policies and rules of large app stores and online marketplaces that distribute physical goods and services -- marketplaces for which the risk for free riding is particularly high -- shows that digital marketplaces routinely forbid behaviors aimed at avoiding fees.
+In addition to the commission on paid apps and in-app purchases of digital content, services, and subscriptions, Apple imposes guidelines that govern the use of the App Store. Among those policies are rules about in-app purchases to prevent users and developers from free riding on Apple's App Store services and investments. Apps cannot explicitly steer app users away from in-app purchases -- for example, by providing external linksthat bypass the App Store.
+For apps that operate across multiple platforms, users can access content, subscriptions, and features acquired outside of the App Store ecosystem, e.g., through a website or an app on another platform. For instance, a subscription to Microsoft Office 365 purchased on a computer can be used in iOS apps without Apple collecting a commission. However, the same content, subscriptions, and features need to be available as in-app purchases within the app, except in the case of "reader apps." Reader apps can include magazines, newspapers, books, audio, music, video, access to professional databases, VolP, cloud storage, and approved services such as classroom management. Examples of reader apps include Spotify, Netflix, and Kindle. Moreover, developers cannot direct iOS users to use another purchasing method, or discourage the use of in-app purchase.
+
+0 ' 0'~
+
+ya
+
+e y
+
+0 ·
+
+The most prominent app stores and software distribution platforms (Google Play Store, Amazon Appstore, Samsung's Galaxy Store, Microsoft Store, App Store) all use policies that require developers to pay commission fees, and use the platform's in-app payment system to purchase in-app digital products, with certain carve-outs for multi-platform apps. Additionally, most of those stores explicitly require that developers do not direct app usersto make purchases outside ofthe store.
+
+ANALYSIS GROUP I 12
+DX-3120. 01 3
+
+Apple's App Store and Other Digital Marketplaces Similarly, many e-commerce marketplaces use rules to prevent free riding, including the
+following exam pel s:
+· Am azon, eBay, Etsy, and Walmart all have rules to address fee avoidance from sellers, including rules that forbid sellers from redirecting buyers to visit external sites.
+· Ai rbnb's and VRBO's policies also address fee avoidance. For instance, Airbnb prohibits sellers from asking guests for contact information prior to booking, and controlshow hostsand guests communicate.
+· Ub er and Lyft include restrictions that forbid drivers from charging for rides outside of the app or from doing "off-app" pickups.
+· Freelancing services such as TaskRabbit, Upwork, and SoundBetter all use fee avoidance rules to ensure that payments are made through the platform.
+A NALYSIS GROUP I 13
+DX-3120.014
+
+Apple's App Store and Other Digital Marketplaces
+About the Authors Jonathan Borck, Ph.D., is a vice president at Analysis Group. Dr. Borck specializes in the application of statistics and economics in the areas of finance, health care, antitrust, and the environment. He is also an adjunct lecturer in public policy at the Harvard Kennedy School,where he teaches probability and statisticsto master'sdegree students.
+Juliette Caminade, Ph.D., is a manager at Analysis Group. Dr. Caminade specializes in the economic analysis of various antitrust issues and complex business disputes in multiple industries, including health care, pharmaceuticals, and consumer and industrial goods. Dr. Caminade has taught an undergraduate course on competition economics in the economics department of Dartmouth College.
+Markus von Wartburg, Ph.D., is a vice president at Analysis Group. Dr. von Wartburg specializes in the application of econometric methods and microeconomic theory to complex problems in antitrust and competition, commercial litigation, media and telecommunications, finance, and intellectual property.
+Analysis Group is one of the largest international economics consulting firms, with more than 1,000 professionals across 14 offices in North America, Europe, and Asia. Since 1981, Analysis Group has provided expertise in economics, finance, health care analytics, and strategy to top law firms, Fortune Global 500 companies, and government agencies worldwide.
+Boston Chicago Dallas Denver Los Angeles Menlo Park New York San Francisco Washington, DC · Beijing · Brussels· London · Mo ntreal· Paris
+ANALYSIS GROUP I 14
+DX-3120. 01 5
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A1: Commission Rates and Anti-circumvention Policies of App Stores and Software Distribution Platforms Current Examples
+
+Digital Marketplace
+
+Commission
+
+Anti-circumvention Policies
+
+[1] Google Play Store (Google's app store for certified Android devices)
+
+· 30% for apps and in-app products · Except15% for subscriptions after12
+months
+· Qne-time $25 registration fee for developer account
+
+For in-store purchases, Google's Developer Policy Center stipulates, "[d]evelopers charging for apps and downloads from Google Play must use GooglePlay'spayment system." For in-app purchases, developers "must use Google Play ln-app Billing as the method of payment" except if the payment is solely for physical products or "digital content that may be consumed outside the app itself (e.g. songs that can be played on other music players)."
+Additionally, the developer agreement stipulates that 'You may not use Google Play to distribute or make available any Product that has a purpose that facilitates the distribution of software applications and games for use on Android devices outside of Google Play."
+
+[2] Amazon Appstore (App store for Amazon and Android devices)
+
+· 30% for apps, in-app products, and in-app subscriptions
+· Except 20% for movies and TV in-app subscriptions
+· 30% of PC games and software retail price (or 80% of the list price if less)
+
+Amazon's Developer Services Agreement requires that if a "Mobile App charges endusers foranyContent intended to be used within [the] Mobile App, it may only do so by making that Content available as an lnApp Product. Other than through our ln-App Purchasing API or other methods we make available to [developers], [a] Mobile App may not facilitate, or direct customers to use, any other method of paying for Content intended to be used within your Mobile App."
+
+[3] Samsung Galaxy Store (App store for Samsung devices)
+
+· 30% (or otherwise agreed-upon rate)
+
+Samsung'sTerms and Conditions stipulate that "[y]ou shallnotuse customer information obtained from the Services to sell or distribute the Application without using the Services or STORE."
+Additionally, "All apps must meet the requirements in order to pass publication review for apps to be available in Galaxy Store for download, and have paid app and in-app item sales supported."
+
+ANALYSIS GRoUP I A-1
+DX-3120.016
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A1: Commission Rates and Anti-circumvention Policies of App Stores and Software Distribution Platforms Current Examples
+
+Digital Marketplace
+
+Commission
+
+Anti-circumvention Policies
+
+[4] Microsoft Store (Digital content store for Windows devices)
+
+30% of net receipts for games and in-app products in games 30% of net receipts for purchases in Microsoft Store for Business, Microsoft Store for Education, Microsoft Store on Windows 8 andWindows Phone 8 devices · 15% of net receipts for all other products 5% between March 2019 and January 2020 for qualifying app developers and apps · For Xbox purchases, see Appendix A2
+
+· Qne-time registration fee of $19 for individual developer accounts and $99 for company developer accounts
+
+Microsoft's App Developer Agreement states that "[n]ew App and in-App Product submissions to the Store are required to use Microsoft's commerce engine to support purchase of any ln-App Product(s) that are or can be consumed or used within [the] app."
+Microsoft Store Policies require that "[i]f your product includes inproduct purchase, subscriptions, virtual currency, billing functionality or captures financial information ... You must use the Microsoft Store inproduct purchase API to sell digital items or services that are consumed or used within your product. Your product may enable users to consume previously purchased digital content or services, but must not direct users to a purchase mechanism other than the Microsoft Store inproduct purchase API."
+
+[5] Aptoide (Open source app store for Android devices)
+
+25% for certified publishers (or otherwise agreed upon rate)
+
+[6] LG SmartWorld (App store for LG devices)
+
+30% (or otherwise agreed upon rate)
+
+ANALYsls GRoUP I A-2
+DX-3120. 01 7
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A1: Commission Rates and Anti-circumvention Policies of App Stores and Software Distribution Platforms Current Examples
+
+Digital Marketplace
+[7] Apple App Store (App store for Apple devices)
+
+Commission · 30% for apps and in-app products · Except15% for subscriptions after 12
+months
+· $99 annual fee for the Apple Developer Program; $299 annual fee for enterprise version
+
+Anti-circumvention Policies Apple's App Store guidelines stipulate: 1."If you want to unlock features or functionality within your app ... you must use in-app purchase. Apps m ay not usetheirown mechanisms to unlock content or functionality, such aslicense keys,...Apps and theirmetadata may not include buttons, external links, or other calls to action that direct customers to purchasing mechanisms otherthan in-app purchase."
+2. "Multiplatform Services: Apps that operate across multiple platforms may allowusers to access content,subscriptions,or features they have acquired in your app on other platforms or your web site,... provided those items are also available as in-app purchases within the app. You must not directly or indirectly target iQS users to use a purchasing method other than in-app purchase, and your general communications about otherpurchasing methods must not discourage use of in-app purchase."
+3. "Reader"Apps: "Apps may allow a user to access previously purchased content or content subscriptions (specifically: magazines, newspapers, books, audio, music, video, access to professional databases, VolP, cloud storage,and approved services such as classroom management apps), provided that you agree not to directly or indirectly target iQS users to use a purchasing method other than in-app purchase, and your general communications about other purchasing methods are not designed to discourage use of in-app purchase."
+
+ANALYSIS GRoUP I A-3
+DX-3120. 01 8
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A1: Commission Rates and Anti-circumvention Policies of App Stores and Software Distribution Platforms Historical Examples
+
+Digital Marketplace
+
+Commission
+
+[8] Windows Phone Store
+
+· 30% of net receipts, as of 2015 (pre-2015, 20% of app's net
+
+(App store for Windows devices, launched in 2011 and receipts for net receipts amount over $25,000)
+
+combined with Windows Store in 2015)
+
+[9] BlackBerry World (App store for BlackBerry devices, launched in 2009 and shut down in 2019)
+
+· 30% from 2011
+
+[10] Nokia Store (App store for Nokia devices, launched in 2009 and shut down in 2015)
+
+· 30% for credit card payments, 40% for payments through operator billing, in 2011
+· 30% from 2012
+
+[11] Handango (App store for mobile devices, founded in1999 and acquired in 2010)
+
+· 30 -- 40% from 2005
+
+Note: [1] Commission rates are based on publicly published terms and rates. Exceptions may apply.
+
+ANALYSISGROUP I A-4
+DX-3120. 01 9
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A1: Commission Rates and Anti-circumvention Policies of App Stores and Software Distribution Platforms App Storesin China
+
+Digital Marketplace [12] MyApp
+(Tencent's app store for Android devices)
+[13] Huawei AppGallery (App store for Huawei devices)
+[14] OPPO Software Store (App store for QPPQ devices)
+[15] Qihoo 360 (360 Mobile Assistant) (App store for Android devices)
+[16] Vivo App Store (App store for Viva devices)
+[17] MIUI App Store (App store for Xiaomi devices)
+[18] MM Store (China Mobile's app store for Android devices)
+
+Commission · 55% for games · 30% for new Tencent games starting 2019*
+50% forgame in-app purchases ·30% forpaid downloads and non-game in-app purchases · 20% for education apps · 30% for new Tencent games starting 2019*
+52.5% for games
+A tiered structure for games, calculated monthly: 20% below Y100,000
+· 40% from Y100,000 to Y1,000,000 · 60% from Y1,000,000 to Y5,000,000 · 64% over Y5,000,000* · 30% for new Tencent games starting 2019
+52.5% for games
+50% for games · 30% for new Tencent games starting 2019*
+· 52.5% +23.75% commission for promotion options
+
+Notes: [1] Commission rates are based on publicly published terms and rates. Exceptions may apply. [2] * Denotes commission rate from third-party sources, not disclosed directly by the marketplace.
+
+ANALYSISGROUP I A-5
+DX-3120.020
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A2: Commission Rates of Video Game Digital Marketplaces
+
+Digital Marketplace
+[19] Xbox (Digital content and video game store for Xbox devices)
+
+Commission
+· 30% forapps and in-app purchases, excluding non-game subscriptions
+· 15% for non-game subscriptions
+
+[20] PlayStation (Digital content and video game store for Playstation devices)
+
+-30%*
+·
+
+[21] Nintendo (Digital content and video game store for Nintendo devices)
+[22] Epic Games (Video game store for PC and Mac devices)
+[23] Steam (Video game and hardware store)
+
+-30%*
+·
+· 12% for all games · 5% royalty for games built on Epic's game engine "Unreal
+Engine" but sold on other platforms
+· 30% for sales below $10 million · 25% between $10 and $50 million · 20% above $50 million
+
+ANALYSISGROUP I A-6
+DX-3120.021
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A2: Commission Rates of Video Game Digital Marketplaces
+
+Digital Marketplace
+[24] itch.io (Video game store for indie games)
+
+Commission · Open revenue sharing model
+
+[25] Game Jolt (Video game store for indie games)
+
+0 --10%on game revenue 70% on advertising revenue*
+
+[26] GOG.corn (Film and video game store for Windows, Mac, and Linux devices)
+[27] Humble Store (Video game store for Windows, Mac, and Linux devices)
+
+· 30% 40% option to help fund completion of game*
+· 25%
+
+[28] GamersGate (Video game store for Windows and Mac devices)
+
+· 30%*
+
+Notes: [1] Commission rates are based on publicly published terms and rates. Exceptions may apply. [2] * Denotes commission rate from third-party sources, not disclosed directly by the marketplace.
+
+ANALYSISGROUP I A-7
+DX-3120.022
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A3:Commission Rates ofMarketplaces That Distribute DigitalContent
+
+Digital Marketplace
+
+Commission
+
+[29] Anchor by Spotify (Platform for podcast production and distribution)
+
+· 30% for sponsorships (advertising) 9.5%f o l listenel clonations (inclulcling plocessing fee)
+
+[30] Twitch (Livestreaming platform for video games)
+[31] Roku (Platform for media streaming on Roku devices)
+
+50% on netsubscription revenue · Advertising commissions vary, with a minimum of 25%
+· 20% on pay-to-install or in-channel purchases · 30% of advertising inventory
+
+[32] YouTube (Video-sharing platform)
+[33] Amazon Prime Video Direct (Video on demand platform)
+
+45% on advertising revenue*
+50% on revenue from purchases and rentals* · Royalties paid at fixed hourly rate for content viewed by
+Prime subscribers
+
+ANALYSISGROUP I A-8
+DX-3120.023
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A3:Commission Rates ofMarketplaces That Distribute DigitalContent
+
+Digital Marketplace
+
+Commission
+
+[34] Kindle Direct Publishing (eBooks) (Amazon's platform for eBook publishing)
+
+· 30% for eBooks between $2.99 and $9.99 · 65% for eBooks below $2.99 and above $9.99
+
+[35] Nook
+
+· 35% for e Books between $2.99 and $199.99
+
+(Barnes R. Noble's platform for eBook purchasing and · 60% for e Books between $0.99 and $2.98
+
+reading)
+
+[36] Kobo (Platform for eBook and audiobook purchasing)
+
+· 30% for e Books $2.99 or above · 55% for eBooks below $2.99 · 80% for public domain eBooks
+· 68% of list price for subscription audiobook purchases 55% for a la carte audiobook purchases priced $2.99 or above 65% for a la carte audiobook purchases priced below $2.99
+
+[37] Audible (Platform for audiobook production and distribution)
+
+· 60% for content distributed exclusively on Audible, Amazon, and iTunes (on top of production fees) · 75% for non-exclusive content (on top of production fees) · 80% under optional program with no up-front production fees
+
+[38] Patreon (Platform for online creators to receive fan funding)
+
+· Three commission tiers of 7.9%, 10.9%, ol 14.9%, which give access to differentiated features (includes payment processing fees)
+
+Notes: [1] Commission rates are based on publicly published terms and rates. Exceptions may apply. [2] * Denotes commission rate from third-party sources, not disclosed directly by the marketplace.
+
+ANALYSISGROUP I A-9
+DX-3120.024
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A4: Commission Rates and Anti-circumvention Policies of e-Commerce Marketplaces
+
+Digital Marketplace PQ8nera[grI[IA@Rgtall
+[39] Amazon (Online third-party marketplace)
+
+Commission
+
+Anti-circumvention Policies
+
+· 8-17% for most product categories
+· $39.99/month account fee for professional sellers · Additional fees for distribution and advertising may apply · Buyers pay subscription fees for Prime membership
+
+Amazon's Selling Policies and Seller Code of Conduct stipulates "[y]ou may not attempt to circumvent the Amazon sales process or divert Amazon customers to another website. This means that you may not provide links or messages that prompt users to visit any external website or complete a transaction elsewhere." While Amazon no longer prohibits sellers from offering products for lower prices on other platforms, it has been reported that they may penalize sellers who do so by making their
+product less visible (removing the "Buy Box").
+
+· 10-12% for most product categories ($750
+
+[40] eBay
+
+maximum)
+
+(Online third-party
+
+marketplace and auction · Listing fee of $0.35 per listing (excluding the
+
+platofrm)
+
+first 50 listings per month) for most
+
+categories
+
+eBay's Fee Avoidance Policy states "[s]ellers are prohibited from activities
+that avoid eBay fees, intentionally or not. This includes: - Making offers to buy or sell outside of eBay - Linking or promoting sites, items, or catalogs that can be used to
+order items outside of eBay"
+
+ANALYSIS GROUP I A-10
+DX-3120. 025
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A4: Commission Rates and Anti-circumvention Policies of e-Commerce Marketplaces
+
+Digital Marketplace
+
+Commission
+
+Anti-circumvention Policies
+
+[41] Etsy (Q nline third-party marketplace for handmade and craft items)
+
+5% commission onsales ·3% + $0.25payment processing fee when
+using EtsyPayments 12% additional commission on sales made directly from Etsy advertising for sellers with at least $10,000 of annual sales;15% for sellers with less than $10,000 of annual sales · Listing fee of $0.20 per listing
+
+Etsy's Fee R. Payment Policy states that "[a]ny action by a seller to avoid paying a fee is considered fee avoidance and is strictly prohibited by Etsy. This includes, for example, encouraging buyers to purchase an item in your Etsyshop through another venue. A transaction initiated on Etsy may not be completed off of Etsy."
+
+[42] Walmart (Online third-party marketplace)
+
+6 --15% depending on product category
+
+[43] Poshmark (Online third-party marketplace for clothing and accessories)
+
+· 20% commission on all sales over $15 · $2.95 for sales under $15
+
+Walmart's Prohibited Seller Activities and Operations page prohibits redirecting customer sales to outside websites, outside links in listings, and emails or calls to customers outside of fulfillment or customer service: "[A]ny attempt to circumvent any Walmart policy related to sales or to divert (redirect) Walmart customers to another website is prohibited ... Also prohibited is the inclusion of hyperlinks, URLs, or website titles in item listing content, description fields, and any seller email messages."
+
+ANALYSISGROUP I A-11
+DX-3120.026
+
+Apple's App Store and Other Digital Marketplaces
+
+Digital Marketplace
+
+Appendix A4: Commission Rates and Anti-circumvention Policies of e-Commerce Marketplaces
+
+Commission
+
+Anti-circumvention Policies
+
+[44] Airbnb (Platform for connecting lodging hosts and guests)
+
+17.2% (split between a 3% "host fee" and a 14. 2% "g u est fe e") · 14 -- 20%for hotels and software-connected
+property managers · 20% for Experiences (including Online
+Experiences)
+
+It is a violation of Airbnb's Terms of Service to "request, accept or make any payment for Listing Fees outside of the Airbnb Platform or Airbnb Payments." Airbnb also prohibits asking guests for contact information prior to booking.
+
+[45] VRBO/HomeAway (Platform for vacation home rentals)
+
+· 18 -- 19%(split between a 5% "owner fee," V
+
+RBQ' sTerms and Conditions require that "[m]embers agree not to
+
+a 3% payment processing fee, and a10 --11% encourage or advise a traveler to avoid or circumvent the service fee
+
+"guest fee")*
+
+charged by HomeAway."
+
+[46] Booking.corn (Online marketplace for hotels and accommodations)
+
+· 15% (global average)
+
+Booking.corn's Legal and Security help page describes the rate parity rule as follows: "[T]he accommodation partner should provide Booking.corn with the same or better rates, conditions R. availability for the same accommodation with (at least) the same features, as made available by the accommodation partner on any (online and off line) channel." This "wide parity" regime applies to select countries, including the US.
+
+ANALYSIS GRoUP I A-12
+DX-3120.027
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A4: Commission Rates and Anti-circumvention Policies of e-Commerce Marketplaces
+
+Digital Marketplace 88' 'arIng
+
+Commission
+
+Anti-circumvention Policies
+
+[47] Uber
+
+· About 25% commission (varies by market
+
+(Platform for connecting a n d other factors) and additional booking
+
+drivers and riders)
+
+fees*
+
+Uber's Community Guidelines ban off-app pickups or payments of fares outside the Uber system: "To enhance the safety of each experience, offapp pickups are prohibited.... Riders and customers should not pay for trips or deliveries in cash, and riders should not request trips from drivers outside of the Uber system."
+
+[48] Lyft
+
+· About 20% (varies by market and other
+
+(Platform for connecting
+
+factors)*
+
+drivers and riders)
+
+Lyft's Terms of Service state: 'You will not, while providing the Rideshare Services, operate as a public or common carrier or taxi service, accept street hails, charge for rides (except as expressly provided in this Agreement), demand that a rider pay in cash, or use a credit card reader, such asa Square Reader,to accept payment."
+
+Fpo De cry
+
+[49] Uber Eats (Food delivery platform for connecting restaurants to customers)
+
+· 30% for restaurants that use Uber Eats delivery services
+· 15% otherwise (pickup orders or if restaurants do their own delivery)
+· Additional service, delivery, and order fees may be charged to customers
+
+[50] Grubhub (Food delivery platform for connecting restaurants to customers)
+
+· -33% and above when using Grubhub delivery services (includes 3.05% processing fee)
+· -23% and above otherwise (includes 3.05%
+processing fee) · Additional fees may be charged to
+customers
+
+ANALYsls GRoUP l A-13
+DX-3120.028
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A4: Commission Rates and Anti-circumvention Policies of e-Commerce Marketplaces
+
+Digital Marketplace e @n ng i5fvlolIIs
+
+Commission
+
+[51] TaskRabbit (Platform for connecting freelance workers with tasks)
+
+Anti-circumvention Policies
+TaskRabbit's Payments on the TaskRabbit Platform page states that Taskers must refrain from "fee avoidance" such as "accepting a payment for hours worked outside of the platform," and "giving a Client your contact information (phone number, email address, or website) for the purpose of an off-platform payment."
+
+[52] Upwork (Platform for connecting freelance workers with projects)
+
+· For each client's lifetime billings: 20% below $500, 10% between $500 and $10,000, 5% above $10,000
+· Payment processing and administration fees may also apply
+
+Upwork'sUser Agreement includes a "non-circumvention" section that requires that "for 24 months from the start of an Upwork Relationship, you agree to use the Site as your exclusive method to request, make, and receive all payments for work directly or indirectly with that person or arising out of your relationship with that person and not to circumvent the Payment Methods offered on the Site unless you pay a fee to take the relationship off of the Site (the "Conversion Fee")."
+
+[53] Sound Betterby Spotify (Platform for connecting artists with music industry professionals)
+
+SoundBetter's Terms of Use specify that "after a project has been created/opened on the platform, you are strictly prohibited from negotiating and executing a freelance transaction related to that project outside of the platform. In addition, while you are a registered user of the platform,you may not enter into any agreement with any other users whom you met throughthe platform unlessyou do so through the
+platofrm."
+
+ANALYSIS GRoUP I A-14
+DX-3120.029
+
+Apple's App Store and Other Digital Marketplaces
+
+Digital Marketplace
+
+Appendix A4: Commission Rates and Anti-circumvention Policies of e-Commerce Marketplaces
+
+Commission
+
+Anti-circumvention Policies
+
+[54] StubHub
+(Platform for ticket
+rese l lni g)
+
+· -37% (split between a 22% "buyer fee" and a15% "seller fee")*
+· There is no set percentage for fees, which can change based on ticket price, time to event, updated event information, and supply and demand
+
+StubHub's Global User Agreement specifies that users will not "contact or invitecontact with other StubHub users forany reason other than the purpose for which you received the StubHub user's contact information or solicit sales outside of StubHub."
+
+[55] Ticketmaster (Platform for ticket
+reselling)
+
+31% (split between a 17% "buyer fee" and a 14% "seller fee")*
+
+Notes: [1] Commission rates are based on publicly published terms and rates. Exceptions may apply. [2] * Denotes commission rate from third-party sources, not disclosed directly by the marketplace.
+
+ANALYSISGROUP I A-15
+DX-3120.030
+
+Apple's App Store and Other Digital Marketplaces
+Appendix A5: Brick-and-Mortar Production, Distribution, and Marketplaces
+
+[56] Paperbacks (Kindle Direct Publishing) (Platform for paperback book publishing)
+[57] Video games (Physical video games sold via brick-and-mortar stores)
+
+' 40% commission when sold on Amazon marketplaces · 60% otherwise · Costs of printing physical books are not included in the
+commissions
+Video game developers and publishers jointly collect an estimated 45% of the retail price of games sold in brick-andmortar stores.*
+
+[58] Newspaper and magazine publishing (Production and distribution of physical newspapers and magazines)
+
+Newspapers'and magazines' physical production and d i s t ribution costs are estimated to be around 50% and close to 60% of their revenue, respectively.*
+
+[59] Boxed software (Historical production and distribution of physical installable software)
+
+Software developers received 30 --40%of the sale price of software before incurring production costs (disks, printing, duplication, packaging, shipping). The remaining 60 --70% was captured by distributors and retailers.*
+
+ANALYSISGROUP I A-16
+DX-3120.031
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix A5: Brick-and-Mortar Production, Distribution, and Marketplaces
+
+;AuctionHouses
+[60] Sotheby's (Broker of art, jewelry, real estate, and collectibles)
+
+· Seller's commission: -10% of the hammer price for most auctions - Additional 2% if sold for over the high estimate agreed upon · Buyer's premium for all sales categories excluding wine: - 25% for sales amounts up to $400,000 - 20% between $400,000 and $4,000,000 - 13.9% above $4,000,000
+
+· Seller's commission: Fixed percentage of the hammer price
+
+(rate undisclosed; industry standard is 'l0%)
+
+[61] Christie's
+
+· Buyer's premium for all sales categories excluding wine:
+
+(Broker of art, antiques and interiors, jewelry, and wine) - 25% for sales amounts up to $300,000
+
+- 20% between $300,000 and $4,000,000
+
+- 13.5% above $4,000,000
+
+[62] Bonhams (Broker of art and antiques)
+
+· Seller's commission: Decided in agreement with consignor · Buyer's premium for most sales categories: - 27.5% for sales amounts up to $3,000 - 25% between $3,000 and $400,000 - 20% between $400,000 and $4,000,000 - 13.9% above $4,000,000
+
+ANALYsls GRoUP l A-17 DX-3120. 032
+
+Apple's App Store and Other Digital Marketplaces
+Appendix A5: Brick-and-Mortar Production, Distribution, and Marketplaces
+
+[63] BuffaloExchange (for used clothes and accessories)
+[64] Crossroads Trading (for used clothes and accessories)
+[65] Beacon's Closet (for used clothes and accessories)
+[66] Play It Again Sports (for used fitness equipment and sports goods)
+[67] Wasteland (for used clothes and accessories)
+
+· 70 -- 75%commission (50% for store credit) · 70% commission (50% for store credit) · 65% commission (45% for store credit)
+50 --70%commission · 65% commission
+
+[68] Used car market (Sale of used cars at car dealerships)
+
+Margins on used cars sold by dealerships are reported to be at least 20%. Car certification programs such as Certified PreOwned can further increase the margins on those sales.*
+
+[69] Food manufacturers (Sale of consumer packaged goods at grocery and retail stores)
+
+Trade fees account for 15 --20%of the manufacturer's total sales
+revenue. These fees include placement fees to ensure shelf space in stores as well as other promotional fees paid to
+retailers*.
+
+Notes: [1] Commission rates are based on publicly published terms and rates. Exceptions may apply. [2] * Denotes commission rate from third-party sources, not disclosed directly by the marketplace.
+
+ANALYSISGRoUP I A-18
+DX-3120.033
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources
+.App sto®san'j[sof@eareOi<ti[Itutien Platfoewe,
+[1] Google Play Store "Google Play Developer Distribution Agreement," Google Play, effective as of June 12, 2020, available at https://play.google.corn/about/developerdistribution-agreement. html. "How to use the Play Console," Play Console Help, available at https://support.google.corn/googleplay/android-developer/answer/6112435. "Payments," Play Console Help, available at https://support.google.corn/googleplay/android-developer/answer/9858738. "Service fees," Play Console Help, available at https://support.google.corn/googleplay/android-developer/answer/112622.
+[2] Amazon Appstore "Amazon Developer Services Agreement," Amazon Developer, last updated July 7, 2020, available at
+https://d eve loper.amazon.corn/su p port/legal/d a.
+"Reach Millions of New Customers," Amazon Appstore, available at https://developer. amazon.corn/apps-and-games. [3] Samsung Galaxy Store
+"App Distribution Guide," Samsung Developers, available at https://developer. samsung.corn/galaxy-store/distribution-guide. html. "FAQ,"Samsung Developers, available at https://developer. samsung.corn/galaxy-games/faq.html. "Terms and Conditions," Samsung Galaxy Store Seller Portal, effective September 20, 2019, available at https://seller.samsungapps.corn/help/termsAndConditions.as. [4] MicrosoftStore "App Developer Agreement," Microsoft Store, effective July10, 2020, available at https://query.prod.cms.rt.microsoft.corn/cms/api/am/binary/RE4o4b H. "Get Registered," Microsoft Store, available at https://developer. microsoft.corn/en-us/store/register/. "Microsoft Store Policies," Windows Dev Center, October 1, 2019, available at https://docs. microsoft.corn/en-us/windows/uwp/publish/storepolicies. Microsoft Store Team, "Updated Microsoft Store App Developer Agreement: New Revenue Share,"Windows B/og, March 6, 2019, available at
+https://b logs. wind ows.corn/windowdseveloper/201 9/03/06/u pd ated-mic rosoft-sto re-ap p-developer-agree me nt-new-reve nue-s hare/.
+ANALYSIS GROUP I B-1
+DX-3120.034
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources
+[5] Aptoide "Aptoide Publisher Distribution Agreement," Aptoide, available at https://en.aptoide.corn/company/legal.
+[6] LG SmartWorld "Terms R. Conditions" LG SmartWorld Content Management System, effective April 29, 2020, available at http: //www.lgworld.corn/cms/Igworld.cms.etc.retrieveConditionsList.dev.
+[7] Apple App Store "Purchase and Activation," Apple Developer Support, available at https://developer. apple.corn/support/purchase-activation/. "Dedicated to the best store experience for everyone," Apple, available at https://www.apple.corn/ios/app-store/principles-practices/. "App Store Review Guidelines," Apple Developer, available at https://developer. apple.corn/app-store/review/guidelines/.
+[8] Windows Phone Store "App Developer Agreement: Windows Store and Windows Phone Store," Windows Dev Center, effective October 23, 2014, available at https://web.archive.org/web/20150118071753/http: //msdn.microsoft.corn/en-us/library/windows/apps/hh694058.aspx. "Microsoft Launches Windows Phone Marketplace Web Store," Wired, September 27, 2011, available at https://www.wired.corn/2011/09/windowsphone-marketplace/. "Windows Store Trends -- September 2015,"Windows Blog, Qctober12, 2015, available at
+https://b logsw. indows.corn/ windowdseveloper/201 5/10/12/windows-store-trends-september-2015/.
+[9] BlackBerry World "BlackBerry will kill its app store at the end of 2019, support BB10 for 'at least two' more years,"Beat, December15, 2017, available at
+https://venture beat.corn/2017/21/15/bl ackberryw-ill-kill-its-app-store-at-the-end-of-201 9s-upport-bb1 0-for-at-least-two-more-years/.
+"Frequently Asked Questions," BlackBerry Developer, available at https://developer. blackberry.corn/devzone/blackberryworld/faq.html. Sacco, Al, "BlackBerry App World 2.0 Unveiled: Images, Details," C/0, June16, 2010, available at https//www.cio.corn/article/2417468/.
+ANALYSISGRoUP I B-2
+DX-3120.035
+
+Apple's App Store and Other Digital Marketplaces
+
+Appendix B: Sources
+
+[10] NokiaStore
+
+Low, Aloysius, "Microsoft to shut down Nokia Store for feature phones," CNET, November18, 2014, available at https://www.cnet.corn/news/microsoft-to-shut-down-nokia-store-forfe-ature-phones/.
+
+"Ovi Store opens for business," Nokia, May 26, 2009, available at https://www.nokia.corn/about-us/news/re leases/2009/05/26/ovi-store-ope ns-forbusiness/.
+
+eveloper, "Terms and Conditions,"Nokia D
+
+available at https://web.archive.org/web/201203051351 03/http: //info. publish.nokia.corn/? p=422.
+
+"Terms and Conditions," Nokia Ovi, available at https://web.archive.org/web/20110602082212/https://publish.ovi.corn/login.
+
+[11] H and ango
+"Handango, the original app store," Open Attitude Blog, January14, 2010, available at https://openattitude.corn/2010/01/14/handango-the-original-
+ap p-store/.
+
+"Information," Handango, available at https://web.archive.org/web/20051212113802/http: //developer.handango.corn/Developerlnformation.jsp?siteld =1RCKey = DEV FAQ.
+Savov, Vlad, "PocketGear acquires Handango, becomes world's largest cross-platform app store," Engadget, February 23, 2010, available at https://www.e ngadget.corn/2010-02-23-pocketgear-acquires-handango-becomes-worlds-largest-cross-plat. html.
+
+[12] MyApp "Modes of Collabol ation." Tencent Open Platform, available at. https://wiki.open.qq.corn/wiki/%E5%90%88%E4%BD%9C%E6%96%B9%E5%BC%8F.
+
+"Seismic Shift, Redividing the Pie? Tencent Demand 70% Profit Share from Other Stores for Its New Games,"Qamelook, July 6, 2019, available at https://mp.weixin.qq.corn/s/HUbd JAvunLrCiHfvxiAgEA.
+
+[13] Huawei AppGallery
+"Huawei App Store Joint Operation Service Agreement," Huawei App Distribution Document Center, updated June 30, 2020, available at
+https://d eve loperh.u awe i.corn/co ns ume r/c n/doc/20204.
+"Seismic Shift, Redividing the Pie? Tencent Demand 70% Profit Share from Other Stores for Its New Games,"Qamelook, July 6, 2019, available at https://mp.weixin.qq.corn/s/HUbd JAvunLrCiHfvxiAgEA.
+
+[14] OPPOSoftwareStore "Process to Establish Game Access," OPPO Open Plat form, available at https://open.oppomobile.corn/wiki/index¹id=73452.
+
+ANALYsIsGRoUP I B-3
+DX-3120.036
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources [15] Qihoo 360 (360 Mobile Assistant)
+"Game Agreement," 360 Open Platform, available at http: //opengame.360.cn/wiki/8. "Seismic Shift, Redividing the Pie? Tencent Demand 70% Profit Share from Other Stores for Its New Games," Game/ook, July 6, 2019, available at https://mp.weixin.qq.corn/s/HUbd JAvunLrCiHfvxiAgEA. [16] Vivo App Store "Process to Establish Game Access," VIVQ Open Platform, available at https://dev.vivo.corn.cn/documentCenter/doc/251. [17] MIUI App Store Yanqu Chen, "Unbelievable, Xiaomi Is Grabbing Business from Tencent's Honor of Kings," Jiemian, July 25, 2017, available at https://www jiemian.corn/article/1497121.html. "Seismic Shift, Redividing the Pie? Tencent Demand 70% Profit Share from Other Stores for Its New Games," Game/ook, July 6, 2019, available at https://mp.weixin.qq.corn/s/HUbd JAvunLrCiHfvxiAgEA. [18] MM Store "Mobile Market Developer Service Agreement," MM Store, available at http: //dev.10086.cn/resource/%E3%80%8AMobile Market%E5%BC%80%E5%8F%91%E8%80%85%E6%9C%8D%E5%8A%A1%E5%8D%8F%E8%AE% AEV2.6%E3%80%8B.pelf.
+ANALYSIS GROUP I B-4
+DX-3120.037
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources
+,'II]deo Garneo[gltalINarwretpllaees
+[19] Xbox "App Developer Agreement," Microsoft Store, July 10, 2020, https://query. prod.cms.rt.microsoft.corn/cms/api/am/binary/RE4o4bH.
+[20] PlayStation "Report: Steam's 30% Cut ls Actually the Industry Standard," IQN, October 7, 2019, available at https://www.ign.corn/articles/2019/10/07/reportsteams-30-cut-is-actualyl-the-industry-standard.
+[21] Nintendo "Report: Steam's 30% Cut ls Actually the Industry Standard," IQN, October 7, 2019, available at https://www.ign.corn/articles/2019/10/07/reportsteams-30-cut-is-actualyl-the-industry-standard.
+[22] Epic Games "Welcome to Epic Games," Epic Games, available at https://www.epicgames.corn/store/en-US/about.
+[23] Steam "New Revenue Share Tiers and other updates to the Steam Distribution Agreement," Steam, November 30, 2018, available at https://steamcommunity.corn/groups/steamworks/announcements/detail/1 697191267930157838. Nick Statt, "Valve's new Steam revenue agreement gives more money to game developers," TheVerge, November 30, 2018, available at
+compteition. https://www.theve rge.corn/2018/11/30/181 20577/valve-steam-game-marketplace-revenue-split-new-rules-
+"73% of devs don't think Steam's 30% cut is fair," Game World Observer, January 29, 2020, available at
+https/:/gameowrid observer.corn/2020/01/29/steams-revenue-split/.
+ANALYSIS GRoUP I B-5
+DX-3120.038
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources [24] itch.io
+"Accepting Payments and Getting Paid," itch.io, available at https://itch.io/docs/creators/payments. [25] Game Jolt
+"5 best platforms to publish your indie game," Codes Who/esa/e, 2018, available at https://codeswholesale.corn/blog/5-best-platforms-to-publishyour-indie-game/. "Marketplace," Game Jolt, available at https://gamejolt.corn/marketplace. [26] GOG.corn "11 Places to Publish R. Release Your lndie Game,"Ninichi, September12, 2017, available at https://ninichimusic.corn/blog/2017/9/1/11-places-topublish-release-your-indie-game. [27] Humble Store "What is Humble Bundle?" Humble Bundle, available at https://www.humblebundle.corn/about. "Humble Bundle Developer Resources" Hunble Bundle, available at https://www.humblebundle.corn/developer. [28] GamersGate "11 Places to Publish R. Release Your lndie Game,"Ninichi, September12, 2017, available at https://ninichimusic.corn/blog/2017/9/1/11-places-topublish-release-your-indie-game.
+ANALYSIS GROUP I B-6
+DX-3120.039
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources
+~ Marketplace@ That Distribute Digital Corttent
+[29] Anchor by Spotify "Listener Support: accept monthly donations from your listeners," Anchor, July16, 2018, available at https://help. anchor.fm/hc/enus/artilces/360007452031. "Cashing out from your wallet," Anchor, August 8, 2018, available at https://help. anchor.fm/hc/en-us/articles/360012563112. Anchor, "Introducing Anchor Listener Support: Nowyou can get paid to podcast," Medium, August 9, 2018, available at https://medium.corn/anchor/introducing-anchor-listener-support-now-you-can-get-paid-to-podcast-64aefa5cfa9d.
+[30] Twitch 'Twitch Affiliate Agreement," twitch, October 7, 2019, available at https://www.twitch.tv/p/legal/affiliate-agreement/.
+[31] Roku Evan Niu, "How Roku Makes Its Money," The Motley Fool, September 8, 2017, available at https://www.fool.corn/investing/2017/09/08/how-rokumakes-its-money.aspx. "Roku Developers- Video Advertisements," Roku Developers, available at https://developer.roku.corn/docs/features/monetization/videoadvertisements.md. "Roku Developers- Roku billing services," Roku, April 7, 2016, available at https://blog.roku.corn/developer/roku-billing-services.
+[32] YouTube Eric Rosenberg, "How You Tube Ad Revenue Works,"lnvestopedia, June 4, 2020, available at https://www.investopedia.corn/articles/personalfinance/032615/how-youtube-ad-revenue-works.asp.
+[33] Amazon Prime Video Direct Todd Spangler,"Amazon's Prime Video Direct ls Cutting Royalty Fees for Low-Engagement Content," Variety, March 15, 2019, available at https://variety.corn/2019/digital/news/amazon-prime-video-direct-cut-royalty-fees-1203163736/.
+[34] Kindle Direct Publishing (eBooks) "eBook Royalty Options," Kindle Direct Publishing, available at https://kdp.amazon.corn/en US/help/topic/G200644210. "List Price Requirements," Kindle Direct Publishing, available at https://kdp.amazon.corn/en US/help/topic/G200634560. David Wogahn, "The 2020 Guide to Amazon Fees and Royalties for Kindle eBooks and KDP Print,"Author lmprints, March 10, 2020, available at https://www.authorim prints.corn/amazon-kd p-royalty-pricing/.
+ANALYBIBGRoUP I B-7
+DX-3120.040
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources [35] Nook
+"Barnes R. Noble Press Royalty and Payment Terms,"Barnes@Noble Press, available at https://press.barnesandnoble.corn/legal/royalty-paymentterms. [36] Kobo Tara Cremin, "What will my earnings be?,"Kobo Writing Life, updated June 26, 2020, available at https //kobowritinglife.zendesk.corn/hc/enus/articles/115001 056548-What-will-my-earnings-be-. [37] Audible "Audiobooks Through ACX,"Kindle Direct Publishing, available at https://kdp.amazon.corn/en US/help/topic/G201014330. "Production Earnings and Costs," ACX, available at https://www.acx.corn/help/what-s-the-deal/200497690. [38] Patreon "We only succeed when you succeed," Patreon, available at https://www.patreon.corn/product/pricing.
+ANALYSISGROUP I B-8
+DX-3120.041
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources
+e-t:on|merce Ifarketp]@eesl [39] Amazon
+"Let'stalk numbers,"Amazon, available at https://www.bonhams.corn/how to buy/16398/. "Selling Policies and Seller Code of Conduct,",Amazon Seller Central, available at https//sellercentral.amazon.corn/gp/help/external/G1801?language=en US. "SEC Filing Details,"Amazon, available at https://ir.aboutamazon.corn/sec-filings/sec-filings-details/default.aspx? Filingld =13875159. Fareeha Ali, "Amazon Prime has112 million members in the US,"DigitalCommerce360, January 24, 2020, available at
+https://www.digitalco mme rce360.corn/article/amazon-prime-membesrhip/.
+Karen Weise, "Prime Power; How Amazon Squeezes the Business Behind Its Store,"The New York Times, December19, 2019, available at
+https://www.nytimes.corn/2019/21/19/technology/amazon-se llers.html.
+Joseph Hansen, "The 12 Reasons Your Amazon Listing Has a Missing Buy Box -- and How to Get It Back,"BuyBox Experts, April 16, 2019, available at https://www.buyboxexperts.corn/12-reasons-amazon-listnig-missing-buy-box-how-get-back/. [40] eBay "Selling fees,"ebay, available at https://www.ebay.corn/help/selling/fees-credits-invoices/selling-fees? id=4364. "eBay fee avoidance policy,"ebay, available at https://www.ebay.corn/help/policies/selling-policies/selling-practices-policy/ebay-fee-avoidancepolicy?id =4354. [41] Etsy "Millions of shoppers can't wait to see what you have in store," Etsy, available at https://www.etsy.corn/sell. "Fees &. Payments Policy," Etsy, available at https://www.etsy.corn/legal/fees/.
+ANALYsIsGRoUP I B-9
+DX-3120. 042
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources [42] Walmart
+"Referral Fees for Contract Categories," Wolmort, available at https://sellerhelp.walmart.corn/seller/s/guide?article=000006011. "Prohibited Seller Activities and Operations," Wolmort, available at https://sellerhelp.walmart.corn/s/guide?article=000007968. [43] Poshmark "What are the fees for selling on Poshmark?" Poshmork, available at https://support.poshmark.corn/s/article/297755057. [44] Airbnb "What is the Aribnb service fee?,"Airbnb Help Center, available at https://www.airbnb.corn/help/article/1857/what-is-the-airbnb-service-fee. "How do I host an online experience?,"Airbnb Help Center, available at https://www.airbnb.corn/help/article/2785/how-do-i-host-an-onlineexperience. "Terms of Service," Airbnb, available at https://www.airbnb.corn/terms. "Airbnb's Qff-Platform Policy," Airbnb Help Center, available at https://www.airbnb.corn/help/article/2799/airbnbs-offplatform-policy. [45] VRBO/HomeAway "How is the pay-per-booking fee calculated?," VRBQ, available at https://help.vrbo.corn/articles/How-is-the-booking-fee-calculated. Jay Whiteley, "Vrbo vs. Airbnb vs. Booking.corn: Which Vacation Rental Listing Site is Best?,"Evolve Vacation Rental, January 31, 2020, available at https://evolvevacationrental.corn/b log/homeowner-tips/homeaway-vs-vrbo-vs-airbnb-vs-f lip eky-vs-tri padvisor-vs-booking/. "Terms and Conditions," Vrbo, available at https://www.vrbo.corn/legal/terms-and-conditions.
+ANALYSISGROUP I B-10
+DX-3120.043
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources
+[46] Booking.corn "How much commission do I pay?," Booking.corn Partner Hub, updated July15, 2020, available at https://partner. booking.corn/enus/he lp/commission-invoices-tax/how-muc h-commission-do-i-pay. "How does parity work?," Booking.corn Partner Hub, updated June 30, 2020, available at https://partner. booking.corn/en-us/help/legalsecurity/how-does-parity-work.
+[47] Uber "Tracking your earnings," Liber, available at https://www.uber.corn/gh/en/drive/basics/tracking-your-earnings/. Brett Helling, "Uber Fees: How Much Does Uber Pay, Actually?,"Ridester.corn, last updated March 24, 2020, available at https://www.ridester.conr/ube r-fees/. "Uber Community Guidelines," Liber, last modified April 22, 2020, available at https://www.uber.corn/legal/en/document/?name=generalcommunity-guidelinesRcountry= united-statesRlang =en.
+[48] Lyf't "Getting Started With Lyft," Ride Share Quy, available at https://therideshareguy.corn/getting-started-with-lyft/. "Lyft Terms of Service," Lyft, last updated November 27, 2019, available at https://www.lyft.corn/terms.
+[49] UberEats "Uber Eats U.S. Merchant Terms and Conditions," Liber, effective April 29, 2020, available at https://www.uber.corn/legal/en/document/?country= united-statesRlang =enR name =uber-eats-merchant-terms-and-conditions. "How do fees work on Uber Eats?,"Liber Help, available at https//help.uber.corn/ubereats/article/how-do-fees-work-on-ubereats? node Id= 65d 229e2-a2b4-4fa0-bO1f-b36c9546cf55. "0/ 0 Service Fee for Pickup," Liber Help, available at https://help.uber.corn/restaurants/article/0-service-fee-for-pickup?nodeld =613e8dle-c9b74dff-9541-5cff075e3cc5.
+[50] Grubhub "Fees,",Qrubhub For Restaurants, available at https://learn.grubhub.corn/archives/basics/what-fees-does-grubhub-charge. "Grubhub Pricing,"Qrubhub For Restaurants, available at https://learn.grubhub.corn/wp-content/uploads/2018/08/Grubhub Qne-Pager PricingQverview Final.pdf.
+ANALYSISGROUP I B-11
+DX-3120.044
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources [51] TaskRabbit
+"What's the TaskRabbit Service Fee?" TaskRabbit Support, available at https://support.taskrabbit.corn/hc/en-us/articles/204411610. "Payments on the TaskRabbit Platform," TaskRabbit Support, https://support.taskrabbit.corn/hc/en-us/articles/207814426. [52] Upwork "How It Works," Upwork, available at https://www.upwork.corn/i/how-it-works/freelancer/. "User Agreement," Upwork Legal Center, updated July13, 2020, available at https://www.upwork.corn/legal. "Fee and ACH Authorization Agreement," Upwork Legal, effective July13, 2020, available at https://www.upwork.corn/legal¹fees. [53] SoundBetterby Spotify Larry Crane,"SoundI3etter," Tape Qp, January/February 2019, available at https://tapeop.corn/interviews/129/soundbetter/. "Terms of Use for Soundbetter," SoundBetter, available at https://soundbetter.corn/terms-of-use. [54] StubHub "That's the Ticket, An FTC Workshop about Online Ticket Sales," FTC, June11, 2019, available at https://www.ftc.gov/system/files/documents/public events/1413898/slides-online-events-tickets-6-11-19.pdf. "Stubhub Marketplace Global User Agreement," Stubhub, updated March 25, 2020, available at https://www.stubhub.corn/legal. [55] Ticketmaster "That's the Ticket, An FTC Workshop about Online Ticket Sales," FTC, June11, 2019, available at https://www.ftc.gov/system/files/documents/public events/1413898/slides-online-events-tickets-6-11-19.pdf.
+ANALYSIS GRoUP I B-12
+DX-3120.045
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources
+Brie@-.ari'd-Merlrar Progluetlon,oigtHbutlen,.~ iIIli@rwretylaeeS [56] Paperbacks (Kindle Direct Publishing)
+"Paperback Royalty," Kindle Direct Publishing, available at https://kdp.amazon.corn/en US/help/topic/G201834330. [57] Video games
+"Anatomy of a $60 Video Game," Los Angeles Times Blog, February19, 2010, https://latimesb logs.latimes.corn/e ntertainmentnews buzz/201 0/02/anatomy-of-a-60-dollar-video-game.html. Daidj, Nabyla,Developing Strategic Business Models and Competitive Advantagein the Digital Sector, IGI Global (2014), p. 284 Marks, Tom,"Report: Steam's 30% Cut Is Actually the Industry Standard," IGN, October 7, 2019, available at https://www.ign.corn/artciles/2019/10/07/report-steams-30-cut-is-actually-the-industry-standard. Tomaselli, Fernando Claro, Luiz Carlo Di Serio, and Luciel Henrique de Qliveira,"Value Chain Management and Competitive Strategy in the Home
+Video Game Industry," PQMS 79th Annual Con ference, May 9 to May 12, 2008, available at https://www.poms meetings.org/Conf Papers/008/008-
+0286.pdf, pp. 21-22. Yin-Poole, Wesley,"Where does my money go?" Eurogamer, December19, 2011, available at https://www.eurogamer.net/articles/2011-01-10-wheredoes-my-money-go-article. [58] Newspaper and magazine publishing Vogel, Harold L.,Entertainment Industry Economics: A Guide for Financial Analysis, Cambridge University Press (2010), p. 371. [59] Boxed software "Selling software: Where have all the business models gone?"ZDNet, available at https://www.zdnet.corn/article/selling-software-where-have-allthe-business-models-gone/. [60] Sotheby's "Sotheby's Buyer's Premium Chart," Sotheby's, effective February 25, 2019, available at http: //www.sothebys.corn/content/dam/sothebys/PDFs/buyerspremium/February-2019-Buyers-Premium.pdf? locale=en. "Glossary,"Sotheby's, available at https://www.sothebys.corn/en/glossary.
+ANALYSIS GRoUP I B-13
+DX-3120.046
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources
+[61] Christie's "Selling at Christie's," Christie's, available at https://www.christies.corn/selling-services/selling-guide/before-the-sale. "Buying at Christie's," Christie's, available at https://www.christies.corn/buying-services/buying-guide/financial-information/. Graham Bowley,"The (Auction) House Doesn't Always Win," TheNew York Times, January15, 2014, available at https://www.nytimes.corn/2014/01/61/arts/design/christies-and-sothebys-woo-big-sellers-with-a-cut.html.
+[62] Bonhams "How tosellw ith us,"Bonhams, available at https://sell.bonhams.corn/. "How to buy," Bonhams, available at https://www.bonhams.corn/how to buy/16398/.
+[63] BuffaloExchange "Sell By Mail," Buffalo Exchange, available at https://sellbymail.buffaloexchange.corn/. "New Selling Process,"Buffalo Exchange, available at https://www.buffaloexchange.corn/how-it-works/.
+[64] Crossroads Trading "New Shopping R. Selling Procedures," CROSSROADS, available at https://crossroadstrading.corn/buy-sell-trade-2020/.
+[65] Beacon's Closet "How to buy sell trade," Beacon's Closet, available at https://web.archive.org/web/20191011064906/https://beaconscloset.corn/pages/how-to-buysell-trade.
+[66] Play It Again Sports "How We Buy R. Sell Used Sports Equipment," Play It Again Sports, available at https://www.playitagainsports.corn/home/howitworks.
+[67] Wasteland "Selling To Wasteland," Wasteland, available at http: //www.shopwasteland.corn/selling.
+ANALYSIS GRoUP I B-14
+DX-3120.047
+
+Apple's App Store and Other Digital Marketplaces
+Appendix B: Sources [68] Usedcarmarket
+Brett Camp, Kate McKay,"How to Negotiate For A Used Car,"Jalopnik, September 23, 2010, available at https://jalopnik.corn/how-to-negotiate-fora-used-car-557081 3. Doug Demuro, "How Much More Does a CPQ Car Cost?" Autotrader, October 31, 2014, available at https://www.autotrader.corn/carshopping/how-much-more-does-cpo-car-cost-231072. Mike Richards, "What is The Markup on a Used Car? How is it Calculated?" Auto Auction Mall, May 23, 2019, available at https://www.autoauctionmall.con/rlearning-cente r/what-is-the-marku p-on-a-used-car-how-calculated/. John M.Vincent,Nate Parsons, "Certified Pre-Owned Cars vs. Non-Certified Used Cars," U.S.News, January 31, 2020, available at https://cars.usnews.corn/cars-trucks/certified-pre-owned-vs-non-certified-used. [69] Food manufacturers Gary Rivlin, "Rigged: Supermarket Shelves For Sale," Center For Science ln The Public Interest, September 2016, available at https://cspinet.org/sites/default/files/attachment/Rigged%20report O.pdf.
+ANALYSIS GRoUP I B-15
+DX-3120.048
+
+

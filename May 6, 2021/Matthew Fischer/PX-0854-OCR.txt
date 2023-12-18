@@ -1,0 +1,171 @@
+Subject: Re : J105 3rd Party Disclosure proposal
+
+From: nShaan Pruden"
+
+Received(Date): Fri, 10 Feb 2017 23:18:47 +0000
+
+To: "Phil Schillern
+
+Cc: nRon Okamoto"
+
+,"Matt Ftsc er"
+
+nBrvan Johns"
+
+PLAINTIFF
+U.S. District Court- NDCAL
+4:25Nv4I5640-YGR-78H
+epicGames,Inc. c.Apple Inc.
+Ett.No. PX-0854
+Dale Sntsrsn By
+
+Date: Fr i, 10 Feb 2017 23:18:47+0000
+
+Understood. We would not make any promises until we see the final product.
+
+We will move forward with the technical discussions.
+
+Sheen
+
+On Feb 10, 2017, at 2:43 PM, Philip Schiller
+
+wrote:
+
+I am in agreement with briefin~. I am not in agreement with suggesting special pmmotion or treatment in the store.
+
+Whetherwe do any future promotion and placement on the storedepends on how theapps come out, when they come out, what we want to do in the store at that time, etc.
+
+We are not "bargaining" store placement for work. We never used to have to do that, the idea of seeing features early, getting to work with our engineers, to provide feedback to new APIs, and the possibility of placement in marketing, keynotes etc. was more than enough to interest developers in working with us.
+
+Sentfiom my iPhone
+
+On Feb 10, 2017, at 2:35 PM, Shaan Pruden
+
+wrote:
+
++ TunT
+Phil, Our idea around cross-promotion would be modeled on our efforts with the Minecrafi team. For example, placement in "What We 're Playing" on iOS App Store coinciding with the launch on tvOS App Store.
+It would be positioned as working with the developer across the ecosystem with details to be worked out later.
+If you' re in agreement, we 'd like to begin scheduling briefings as soon as possible. For developers traveling internationally we propose conducting briefings during GDC (March 1-3.) We have spoken to Apple Retail and they have a private and secure meeting space at Union
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+Exhibit PX 854
+PX-0854.1 APL-APPSTORE 00407864
+
+Square that would be ideal.
+
+Shaan
+
+On Jan 27, 2017, at 8:52 AM, Philip Schiller
+
+wrote:
+
+I am okay about disclosures (for both groups) and I cornered about what may be said regarding cross-promotion.
+
+On Jan 26, 2017, at 1:20 PM, Shaan Pruden
+
+wrote:
+
+Phil,
+
+We' ve arrived at a set of developers we 'd like to target for early J105 / B439 disclosure. We 've separated them into two groups:
+
+-- J105 / B439 Disclosure Only -- J105 / B439 Disclosure + Cross Promotion
+
+The Disclosure Only group (which includes the two primary game engine developers) already plan to support Apple TV. Early disclosure will ensure they are able to take advantage of new performance ofJ105 and B439 supportforlaunch atyearend.
+
+For the second group, we propose a more detailed discussion similar to our approach with Minecraft which would include cross-promotion with an iOS version of the title. They either do not currently plan to support Apple TV or have no iOS plans as yet.
+
+The briefings would be face-to-face and under NDA. Given most of these developers are firming their Holiday 2017 plans, we 'd like to start these briefings immediately.
+
+Seeking your approval.
+
+Shaan
+
+J105 / B439 Disclosure Only
+
+Shadowgun Legends Madfinger Games B439 N/A -- Game Controller Required
+An online fantasy first-person shooter with role-playing elements. Madfinger refers to it as "the Destiny of Mobile". It is coming to both iOS and tvOS this year and, in its current state, has better graphics than almost anything else on Apple TV. This talented studio is already at the limit of our current hardware and have the ability to push it farther.
+<PastedGraphic-2.png>
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0854.2 APL-APPSTORE 00407865
+
+Project Sky That Game Company
+Project Sky is a beautiful multiplayer exploration game coming to iOS and tvOS later this year.
+thatagmecompany 's proprietary engine uses Metal to create a distinct and approachable
+aesthetic. This game promotes cooperation, kindness and generosity.
+<PastedGraphic-4.png>
+Oceanhorn 2 Cornfox & Bros. B439 N/A -- Game Controller Required
+This game is a follow-up to one of the most renowned adventure games on iOS: Oceanhorn. The Cornfox team has spent the past four years building the sequel to take advantage of our latest hardware devices by pushing the graphics to the limit with Unreal Engine 4. This will be one of the most highly anticipated games for iOS and Apple TV.
+<PastedGraphic-5.png>
+Pyre Supergiant Games B439 N/A -- Game Controller Required
+The third and, arguably, most beautiful title from Indie darling, Supergiant Games. The game marks the first time Supergiant will build a local multiplayer game and this game has generated the most early buzz of any Supergiant title to date. Slated to launch this Summer on PS4, this game could be a great "statement" title for our platform.
+<PastedGraphic-6.png>
+Where Cards Fall Snowman B439 N/A -- Game Controller Required
+Beautiful puzzle adventure where the player is taken on a nostalgic, surreal journey through an eerie recreation of their hometown in which all of the buildings are loosely constructed by cards. The game will be launched as a Universal app that will support both iOS and tvOS.
+<PastedGraphic-3.png>
+Unity Engine Unity
+The most dominant 3rd-party engine on mobile, with very heavy penetration on console / PC. Most new developers we encounter are either already shipping a Unity title, or have Unity
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0854.3 APL-APPSTORE 00407866
+
+projects in the works. We 'd need Unity onboard to not only adopt any new technology, but also to help developers work through compatibility issues, so they 're ready Day One.
+<Unity.jpg>
+Unreal Engine Epic Games
+Trusted developer of very robust engine underpinning lots of popular iOS games. Long lead will help us target those titles. Additionally, they 'd need to help Cornfox & Bros. and 505 Games to bring Oceanhorn 2 and Abzu to the platform, respectively.
+<PastedGraphic-17.png>
+J105 / B439 Disclosure + Cross-Promotion
+Final Fantasy XV Square Enix B439 N/A -- Game Controller Required
+Final Fantasy XV is a deep and expansive role-playing game. It was one of the biggest launches on console this past holiday and Square Enix is working hard to recreate the same feel in their mobile version.
+<PastedGraphic-7.png>
+Asphalt 9 Gameloft
+One of the most successful arcade racing franchises ever. Gameloft has spent the last few years, and tremendous resources, building the "future of the Asphalt franchise." This game is the first game we 've seen that was built from the ground up to take advantage of Metal (and not retrofitted.) This has the potential to become the gold standard for high-fidelity games on our platform. Tech demo looked absolutely stunning.
+<PastedGraphic-12.png>
+NBA 2K18 2K Sports B439 N/A -- Game Controller Required
+One of the largest sports game franchises. 2K 's bread and butter has been console, but are increasingly including mobile in their strategy, with the NBA 2K games. They were bullish on Apple TV but, after launching NBA 2K16 on the platform with extremely disappointing numbers, they decided to focus only on iOS. Getting them back onto the Apple TV platform would be a huge win for our story in the living room.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0854.4 APL-APPSTORE 00407867
+
+<PastedGraphic-l.png>
+LEGO Worlds LEGO B439 N/A -- Game Controller Required
+Lego sandbox game developed by Traveller 's Tales and published by Warner Brothers Interactive Entertainment. Shipping in late-February 2017, the game catches the essence of Minecraft, and adds it to the LEGO universe by allowing players to build constructions in a 3D procedurally generated world. Will initially ship on PC, PS4 and Xbox One.
+<PastedGraphic-8.png>
+F1 2017 Exient / Codemasters
+F1 immerses you in not only the on-track excitement of a Formula One career, including the inclusion of the iconic Safety Car and also the Virtual Safety Car for the first time, but also uniquely offers the drama and vehicle development that goes on behind the scenes. The title is stunning on PC / Console, and although they did ship on Apple TV, Codemasters hit the limits of our hardware, and had to walk back some of the higher-fidelity elements of the game. Early disclosure would give them the ramp they need to take things to the next level.
+<PastedGraphic-14.png>
+Inside Playdead
+Inside is the second game &om Playdead, the developers behind the indie smash hit 'Limbo '. The gaming community had been clambering for this puzzle platform adventure for the past few years and it finally launched to rave reviews in the summer of 2016. The game is slated to come to iOS in the Fall of 2017 and would be a great addition to the Apple TV games portfolio.
+<PastedGraphic-9.png>
+The Witness Thekla, Inc.
+The Witness is a first-person puzzle exploration game. It was created by one of the top developers in the indie community, Jonathan Blow (Braid). Critically acclaimed on console and PC, The Witness is coming to iOS this year (and considering tvOS.)
+<PastedGraphic-10.png>
+Abzu 505 Games / Giant Squid
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0854.5 APL-APPSTORE 00407868
+
+One of the most highly anticipated console / PC games of 2016 in which the user explores a beautiful underwater world while peacefully interacting with aquatic animals. Stunning visuals made possible by the use of Unreal Engine 4.
+<PastedGraphic-15.png>
+Below Capybara Games
+A stylistic exploration adventure game made by indie studio Capybara Games This is one of the most anticipated indie games coming to console in 2017 with no current plans to come to iOS or tvOS. If we can disclose them early, they may consider our platform for simultaneous release.
+<PastedGraphic-1 l.png>
+Portal Knights 505 Games / Keen Games
+Described as "Zelda meets Minecraft", this game combines the crafting mechanics of Minecraft with the graphics typically found in adventure games like Zelda. The game will be coming to iOS and PC, but couldbe a huge win for Apple TV.
+<PastedGraphic-13.png>
+TBD Ubisoft
+Ubisoft releases several titles each year and continues to be one of the top AAA developers in the business. From Assassin 's Creed to Watch Dogs to Ghost Recon, Ubisoft has several huge consolefranchises -- none ofwhich are currently planned forApple TV. Early disclosure would help land one of these notable franchises.
+<PastedGraphic-16.png>
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0854.6 APL-APPSTORE 00407869
+
+

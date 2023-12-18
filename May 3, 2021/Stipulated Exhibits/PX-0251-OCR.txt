@@ -1,0 +1,52 @@
+From: To: CC:
+
+Eric Friedman Srinivas Vedula GP Fasoli
+
+Julian Lerouge
+
+Ritwik Kumar
+
+PLAINTIFF
+UA. Oleuloi Court - NOCAL
+4:2lhev45$40.YGR TSH
+divesemen,Ine. u.Apple Inn
+Ex.No. PX428
+cele Enlmnd
+sr
+
+BCC:
+
+Subject :
+
+Re:slides for review
+
+Attachments: Usecases ilaw diagrams.key;
+
+Sent:
+
+01/25/2016 03:38:38 PM 0000 (GMTI
+
+I can't do your Monday slot. Tuesday is no better. Wednesday is good at 1. But you don't need me to proceed.
+
+Regarding your rogue app scenario: this is phishing. For it to work, the phisher would have to have compromised the APNS send key of the spoofed service. That seems unlikely.
+
+Regarding review processes: please don't ever believe that they accomplish anything that would deter a sophisticated attacker. I consider them a wetware rate limigng service and nothing more. Yes, they sometimes catch things, but you should regard them as liNe more than the equivalent of the TSA at the airport. ThNir KPI is "how many apps can we get through the pipe" and not what exotic exploits can we detect?
+
+Enc
+
+> On Jan 24, 2016, at 12:39 AM, Srinivas Vedula wrote:
+> All,
+» Ihave added new flow diagrams and use cases. Please review.
+» I booked a slot on Augustin's calendar to update him. I am thinking of moving it to Tuesday. Let me know if you would rather do it on Monday.
+> Creating the use case for use on iOS brought upa quesfion in today's iOS apps.
+> How do we handle the possibility that a rogue app pretends to be a genuine app. Let's say a mgue app reversed all of e-trade's login flows and implemented it in their app. Essentially, it will be a proxy for e-trade. It will genuinely log you into e-trade but will just siphon the credentials while doing so. That should be pretty straightforward to do. If done properly a user can be kicked into downloading the app and giving it the login info.
+> Do you know how we deal with it today? We haven't seen an instance like that till now. That is probably what the review process is supposed to look at but it will be nice if we have a technical solution for it. We kind drcumvented the browser+HTTPs combination with binary apps.
+> - Srinivas
+
+CONFIDENTIAL
+
+Exhibit
+PX 0251
+PX-0251.1 APL-APPSTORE 09166610
+
+

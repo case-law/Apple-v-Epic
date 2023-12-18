@@ -1,0 +1,122 @@
+From: Ni c k Penwarde
+
+Sent: Fri , 11 May 2018 14:22:37+0000 (UTC)
+
+To: John Jack
+
+Cc: Tim S weeney Dana Cowley Daniel Vo el
+
+Josh Adams Kim Libreri Marcus Wassmer Jack Porter
+
+Subject: Re:quotes for wwdc
+
+Usher States District Court Nethem District of California
+
+CaseNo. 4:20-cv-05640-YGR
+
+Thanks all, these are great. PII pass these on to Apple! On Wed, May 9, 2018 at 11:05 AM John Jack
+
+wrote:
+
+Case Title E ic Gnsrcs,Inc a et re Inc
+
+Exhibit No.DX-309$
+
+Date Entered
+Sarar r. Sores. Ctrsk
+
+By.
+
+Dearer Clerk
+
+Here are the proofed and slightly cleaned up versions of both quotes, btw Metal was released in June 2014.
+
+We' ve been making use of Metal on iOS to great effect since its release in 2014. A fast, agile, feature-
+rich API like Metal is exactly what we need to bring a game designed for modern consoles and desktops to the battery-powered iPhone and iPad. As a developer, it blows away OpenGL in every way. We were able to get Fortnite ship-ready on iOS in a handful of months as we weren't hindered by graphics!
+
+Metal gave us the injectionof perforfnance required for shipping the full Fortnite: Battle Royale experience on
+iOS quickly, with no compromises. Porting a garne built for high-end gaming consoles to iOS was a greatly superior experience with Metal than OpenGL,
+
+John Jack (JJ)
+Lead Pmducer. Special Pmjecta
+
+On Wed, May 9, 2018 at 10:39 AM, Tim Sweeney
+
+ote:
+
+I like yours the best. Let's give both to Apple to let them mix and rnatch and attribute as they like.
+
+Tlm
+
+On May 9, 2018, at 10:37 AM, Josh Adams
+
+ote:
+
+A quote from scratch, in case it helps: We' ve been making use of Metal on iOS since its release in 2014 (?) to great effect. A fast, agile, feature-rich API like Metal is exactly what we need bring a game designed for modern consoles and desktops to the battery-powered iPhone and ipad. As a developer, it blows away OpenGL in every way. We were able to get Foftnite ship-ready on iOS in a handful of months as we aren't hindered by graphics!
+(I had wanted to put in a dig at Android, but felt implied dig was better, hehe)
+
+On Wed, May 9, 2018 at 7:28 AM Tim Sweeney More:
+
+wrote:
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3098.001
+
+EPIC 00011599
+
+Metal gave us the inj ection of performance required for shipping the thefull Fortnite: Battle Royale experience oniOS quickly, with no comprises. Porting a
+game built for hi gh-end gaming consoles to i OS was a greatly superior experience with Metal tlum OpenGL.
+
+Ttm
+
+On May 9, 2018, at 10:15 AM, Dana Cowley
+
+wrote:
+
+Punchier?
+Metal gave tu the injection of perfonnm>ce m>to(md for shipping the the full Portni tet Battle Borate esperience on i OS >prickly, n ith no comprises. This would not have been possible with OpenGL
+
+On Wed, May 9, 2018 at 9:52 AM, Kim Libreri
+
+rote:
+
+Whilst factually correct, It's a bit dry and not as hip as one would have expected from the coolest game developer on the planet. Pump it up. Dana and JJ are excellent wordsmiths.
+
+Sent from my iPad Pro
+
+On May 9, 2018, at 6:47 AM, Nick Penwarden
+
+ote:
+
+Jeremy Sandmel® Apple is looking for some quotes from Epic on
+
+how Metal aided us in shipping FNBR on iOS:
+5'e ant spec>lice(lv interns>ed in onything honest and uue highlighnag: -cosa of useIappraachability of Meta), especially compared to campeti th>e or od>er
+
+tIPls'platforms
+
+- perforasu>ce gains of Metal over OpenGL (or even compumd to H>lkm> /f)>(if relevant)
+
+broad)yam> -stability l>pmlltyofimplementarion
+
+>ss the plaftorm (idealtyiOS m>d>naeOS, bat whateveris uv>efor
+
+you), especiolly compared to what we assume to be fn>gn>entarion of quality and suppon across other p)a/onus
+
+- ease/speed ofadoptiau
+
+- abiiiry to levensge ploifonn speciftcfeant>us
+
+- anything elseabout the overall development envinmn>ant (pe>formance m>ddebugging taols, shodi ng language, etc).
+
+Perfonnancegain over OpenGL is the SIdifferentiator that allowed us to get PNBR running on iog faster and at higher quality than Android. Here is a starting point:
+
+The performance and features of Metal allowed tts to bring thefull Fortmte: Battle Royale
+experience toiOS quickly andat higher qttalitythanis possible with Open GL.
+
+Pm looking for feedback, wordsmithing, etc,:)
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3098.002
+
+EPIC 00011600
+
+

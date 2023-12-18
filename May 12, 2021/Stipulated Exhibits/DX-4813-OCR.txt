@@ -1,0 +1,17 @@
+Source: Apple transaction data
+
+Note: In the year following the App Store's launch (July 10, 2008), the transaction revenue for developers totaled $0.11 billion. In
+
+FY2019, the transaction revenue for developers totaled $10.85 billion. Apple's fiscal year begins in October, meaning Q4 starts in
+
+July and ends in September, For example, Ql FY2008 begins in October 2007, Transactions where Apple is the developer are
+
+excluded. Revenue is developer revenue from in-app purchases and initial downloads. See Appendix E for details regarding Apple
+
+transaction data processing.
+
+57
+
+DX-4813. 001
+
+

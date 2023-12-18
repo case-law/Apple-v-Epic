@@ -1,0 +1,247 @@
+From: To: CC:
+
+Matt Fischer Sheryline
+
+BCC:
+
+Subject:
+
+Re: Ne t flix Update
+
+Attachments:
+
+Sent:
+
+04/18/2018 07:44:13 PM 0000 (GMT)
+
+Thanks for the updates, Pete and Sher.
+
+Looking forward to our meeting with them on the 30th.
+' *" " " " " " :" *
+
+Eric Gray
+
+Carson Oliver
+
+wrote:
+
+Thanks for the update, Matt, myself, and Peter are meeting with Greg and Bill on the 30th.
+On a positive note,,Rob Caruso from what we can tell is likely going to be running our relationship with Netflix and he is very well respected by Bill and Greg and I don't think it has been finalized yet, but we are hearing Manrique may even report to him at some point. Rob is a neighborhood friend of mine and a great guy. Peter and I spent some time with Rob and he basically told us that he highly doubts that based on what he has seen on the data side that the tests would result in anything that would cause them to pull IAP. He clearly understands the implications of making that decision. Obviously we should keep that to ourselves and not say that to Manrique or even directly to Greg and Bill. But I think we have a good guy in there that will help us work through this and end in the right place. Even if the results weren' t conclusive, I don't think he would immediately jump to conclusoins.
+On a side note he facilitated a good meeting over there yesterday with their engineering team and ours to see if we can come up with a potential middle-ground solution for the TV app. Still early, but progress is being made.
+Pete
+
+On Apr 18, 2018, at 10:39 AM, Sheryline
+
+wrote:
+
+Hi all,
+
+Chris and I had lunch with Manrique yesterday and wanted to update you all on the latest plans for their IAP test. They are planning to begin the test on 5/14. Given the fraud issue we are still working through with them in LatAm, they are adjusting the test markets to replace Columbia vs. Peru with Germany / Italy vs. France / Spain. We' re concerned with the fact these four markets are larger than the two LatAm markets being replaced, and Carson is addressing this with Manrique to see if they'd consider adjusting markets. We' ll report back after that discussion. We' re also syncing with the international team on featuring plans and will circle back.
+
+Please reach out with any questions.
+
+Best, Sher
+
+El Sheryline Chapman l App Store Business Management
+
+On Apr 5, 2018, at 3:18 PM, Pete Distad
+
+wrote:
+
+Mtg is currently scheduled for April 30th in person with both Greg and Bill. Trying to pull in. Their schedules have
+
+CONFIDENTIAL
+
+PX-0197.1 APL-APPSTORE 06015804
+
+been the blockers. I am pinging Bill to see if we can pull in. On Apr 5, 2018, at 11:34 AM, Christopher Campbell
+
+wrote:
+
+Hey Pete,
+Just checking in to see if this meeting has happened. If so, anything to share?
+Also, I shared with Eric, but for others who may have been working with her, Netflix shared that Roma De is no longer with the company.
+Thanks, Chris
+Chris Campbell El App Store 1 One Apple Park Way 1 MS:923 4APP I Cupertino, CA 99014 l~
+Developer Resources: develo er.a l e . com/a -store
+This Electronic Mail (e-mail) contains confidential and privileged information intended only for the use of the individual or entity to which it is sent. If the reader of this message is not the intended recipient, or the employee or agent responsible for delivery to the intended recipient, you are hereby notified that any dissemination, distribution, or copying of this communication is STRICTLY PROHIBITED. If you have received this communication in error, please immediately notify the sender by reply e-mail or telephone.
+
+On Mar 15, 2018, at 8:02 PM, Pete Distad
+
+wrote:
+
+Looks like it is scheduled for the 26th. That was the soonest they were available.
+
+On Mar 14, 2018, at 8:56 PM, Carson Oliver
+
+wrote:
+
+Hi all,
+Following up on Chris' email, I wanted to check in to see if we' ve been able to schedule the executive meeting with Netflix. Also, given the close attention they' re paying to the proposed test markets, it seems like it may be advisable to avoid any editorial boosting in the upcoming weeks - it's likely to be pretty obvious to them. Let me know your thoughts.
+Thanks, Carson
+
+On Mar 9, 2018, at 3:52 PM, Christopher Campbell
+
+wrote:
+
+Hi All,
+
+I just met Manrique for lunch and wanted to share some key points from our discussion. I should caveat this by noting that Manrique and I have a solid relationship so he rarely holds back in terms of being forthcoming and direct. With that said, here are my notes:
+
+· Their IAP Test: o Overall: He made it very clear that this decision has been made and they' ve already started
+
+CONFIDENTIAL
+
+PX-0197.2 APL-APPSTORE 06015805
+
+work on the test, which is currently slated to start the first week of May. He reiterated that it will be nine of the eleven original countries; UK and Australia will not be part of the test. He was pleased with our efforts re: the test thus far, but noted that we should not do anything to try and upend or play any tricks with their test. In his words, "not doing the test is not an option." o Apple Escalation: We discussed escalation from the Apple side and he discouraged such a move, but knowing that it will likely still happen, asked that we give him a heads up prior to any calls/meetings with Reed, Bill, Greg or any other Netflix execs. Please let me know if you' re okay with giving a heads up to Carson, Sher and me prior to those conversations so we can let Manrique know. o Global IAP: We talked about IAP from a broader standpoint and he noted that removing IAP across-the-board is a "real possibility." That said, if the test nets positive, they likely will not test elsewhere and we' ll proceed as we are now. If it's flat, we will discuss. If it's negative, they will likely test in other regions. o Other platforms: Confidentially, he shared that they' ve tested other platforms and most (perhaps all) have come back negative. They are looking at billing across those platforms. They do think that the App Store is a different beast and they' re hopeful that they' ll see positive results. · Fraud in LatAm: They are currently seeing a large spike in fraudulent accounts per month across Costa Rica, Panama, Honduras, Chile, Peru and Colombia. They' re working with Aji and team on this, but they' re also addressing and exploring fixes from their side via Chris Fry @ Netflix. If they don't have a fix by the time Manrique returns from vacation, which I believe is on 3/19 (we' re confirming), they might pull IAP in all six countries. Again, Aji is engaged here and he's going to update us as soon as possible. · Un-grandfathering: He seemed pleased with the results here. Manrique and team are coming here on Tuesday to meet with Aji and team to share the results. He did note that he was planning to ask Eric for an updated timeline on un-grandfathering from a platform standpoint. · Business and Marketing: He repeatedly praised the editorial and marketing support from our side, calling out Sher, Jason and our editorial team for their support.
+
+Please let me know if you have any questions.
+Thanks, Chris
+Chris Campbell El App Store 1 One Apple Park Way 1 MS: 923<APP 1 Cupertino, CA 95014 1~
+Developer Resources: develo er.a l e . com/a -store
+This Electronic Mail (e-mail) contains confidential and privileged information intended only for the use of the individual or entity to which it is sent. If the reader of this message is not the intended recipient, or the employee or agent responsible for delivery to the intended recipient, you are hereby notified that any dissemination, distribution, or copying of this communication is STRICTLY PROHIBITED. If you have received this communication in error, please immediately notify the sender by reply e-mail or telephone.
+
+Jolie (not Jodi, I don't think my wife is gonna make it):-)
+
+wrote: wrote:
+
+Your not, they are, I may be the issue the week of the 19th in Asia..so if we need to have it fast, you guys should do it without me too. I will tell Jodi to have it as fast as possible
+
+CONFIDENTIAL
+
+PX-0197.3 APL-APPSTORE 06015806
+
+On Mar 6, 2018, at 8:01 PM, Peter Stern
+
+wrote:
+
+If I am the issue go without me On Mar 6, 2018, at 5:51 PM, Pete Distad
+
+wrote:
+
+Due to travel may be a couple of weeks before we get the mtg with Bill and Greg. But we are scheduling.
+
+On Mar 6, 2018, at 5:44 PM, Carson Oliver
+
+wrote:
+
+A quick update from Manrique: Based on the concerns with the IAP test we expressed to Netflix in our last meeting, they' re now planning to start in "smaller markets." They anticipate starting the test in "4-8 weeks," which is earlier than the May to June timeframe they initially proposed. I' ve asked for clarification on both the specific markets and the exact timing for those markets. Will follow up on this thread when I know more.
+Thanks, Carson
+
+On Mar 5, 2018, at 8:04 PM, Pete Distad
+
+wrote:
+
+Sounds good, working on setting up meeting. Rob called me because he heard I was trying to setup from Bill and Greg and was concerned it was about the other stuff. I told him it was a different discussion around our broader relationship status.
+
+On Mar 5, 2018, at 7:42 PM, Peter Stern
+
+wrote:
+
+Eddy has asked that before we agree to the A/B test (I.e., if Matt, Pete & I fail with Greg
+Peters and Bill Holmes), he wants to meet with Reed. I' ve let Eddy know how they feel, but he rightly points out that if we can't get it done, then we have less to lose.... -P
+
+On Mar 5, 2018, at 4:02 PM, Carson Oliver
+
+wrote:
+
+Hi all,
+
+Following up on our conversation this morning, here are the next steps from my notes:
+
+· Pete will set up time with Greg Peters, Bill Holmes, Matt and Peter to discuss Netflix's proposed IAP test. In the meantime, my team will pause any discussions on that topic with Manrique and the Netflix partnerships team.
+· We will work on boosting featuring in the 11 proposed IAP test markets. · We will continue with the planned store featuring A/B test from 3/8-3/14 in
+Germany and Mexico. We will exclude Australia. · We will continue to work with Manrique and his team on investigating the
+differences in voluntary churn.
+
+CONFIDENTIAL
+
+PX-0197.4 APL-APPSTORE 06015807
+
+Please let me know if I' ve missed anything.
+Thanks, Carson
+
+On Feb 23, 2018, at 12:29 AM, Matt Fischer
+
+wrote:
+
+Looking forward to getting us all in a room next week. Much to discuss.
+
+On Feb 21, 2018, at 6:45 PM, Carson Oliver
+
+wrote:
+
+Thanks all. Comments in line below.
+
+On Feb 21, 2018, at 10:44 AM, Peter Stern
+
+wrote:
+
+Thanks Carson. I still do not see how we are accounting for the issue of Apple IAP customers getting NFLX gift cards and churning out to browser. We need to track a group of such customers over time. That could explain the remaining difference, as well as why there are variances between countries.
+
+According to Netflix, they' ve looked into this issue and said it accounted for a very small share ((1%) of the difference in voluntary churn. They did not present their analysis, however. I agree with Eric that we should continue pushing on them to share more in this area.
+And I agree with Pete we should get in a room on the IAP toggle test.
+Agreed. Will book some time for next week.
+
+On Feb 21, 2018, at 12:05 AM, Pete Distad
+
+wrote:
+
+Maybe we should all get into a room (or a call) next week to discuss strategy/next steps?
+Great data on voluntary churn, you mention the engagement is slightly lower on iOS, how much lower?
+
+I don't have specifics differences in my notes, and Netflix didn't share this data. Chris/Sher/Eric - Do you remember the difference in time spent between app and in-app?
+
+CONFIDENTIAL
+
+PX-0197.5 APL-APPSTORE 06015808
+
+CONFIDENTIAL
+
+Also, curious if we see as substantial of a difference for churn on Debit card customers in iTunes vs. other forms of payments? Wondering if there is anything Netflix is doing differently in terms of retry's etc with their debit card customers?
+We were primarily talking about voluntary churn during this meeting so we didn' t discuss billing retry. Eric may have more information on general iTunes trends in churn for debit cards versus other payment methods.
+We should run this same CC/debit analysis on Hulu to see if we see the same delta.
+Chris and Sher are going to reach out to Hulu to start the voluntary churn discussion with them.
+Also, I noticed (if I understand the math correctly) that 65% of Netflix customers are CC+ Debit customers (44+21%) and you mentioned 15% are Gift Card. What are the other 20%?
+According to my notes, 10% are prepaid and 10% are PayPal.
+On Feb 20, 2018, at 10:52 PM, Carson Olive wrote:
+Hi Matt, Peter, We wanted to provide an update on a few important topics related to Netflix: First, we met with the Netflix team last Thursday to continue digging into the voluntary churn issue and made some good progress on that front. Second, during that meeting, Netflix proposed a test to turn off IAP in a select number of markets to measure the incrementally of IAP as a subscription acquisition channel. Third, we' re currently planning an App Store A/B test for early March to help evaluate the incremental impact of featuring on Netflix's app business. Below are the detailed updates for all three topics, along with proposed next steps and outstanding questions for you.
+· Update: As previously discussed, Netflix has raised concerns that the blended average voluntary churn rate for in-app subscribers on iOS is approximately twice the voluntary churn rate for web-based subscribers on iOS. In response to this concern, our analytics team worked with Netflix's analytics team to compare the behavior of
+PX-0197.6 APL-APPSTORE 06015809
+
+CONFIDENTIAL
+
+customers that subscribe via the app versus browser. We divided up the customer base into cohorts by payment method on file, geographic region, tenure and engagement (i.e. time spent). We found notable differences in voluntary churn based on PMOF, geographic region and tenure, which helps to explain the difference we' re seeing in the overall blended churn rate.
+o Payment Method on File: · We found that Netflix was including 2 PMOF segments (Netflix gift cards and "other") that had close to 0% voluntary churn and which accounted for 15% of total subscribers via browser. This inclusion is significantly depressing down their blended browser voluntary churn rate relative to in-app churn. We will need to remove these segments to create an apples-to-apples comparison. · We found that, for comparable PMOFs, in-app voluntary churn was generally 1-2% higher than browser churn. · Debit cards is the PMOF for the largest share of customers and is also the PMOF with the largest delta between the in-app vs browser churn rate. 51% of Netflix app subscribers pay with debit cards with a 6.0% voluntary churn rate (blended average for periods 1-20) versus 44% of browser subscribers with a 3.8% churn rate. · Credit cards account for 35% of Netflix in-app subscribers with a 4.5% voluntary churn rate (blended average for periods 1-20) versus 21% of browser customers with a 3.9% churn rate.
+o Geographic region: We compared the voluntary churn rates for the top 20 countries by billings. In the US and UK, the two largest markets by billings, in-app subscribers saw higher voluntary churn than browser subscribers. However, in some other markets, including Australia, Norway and Sweden, in-app voluntary churn was equal to or lower than in browser. This may be related to the PMOF issue identified above, or it may be due to other unrelated factors.
+o Tenure: We found that the in-app subscriber group had an average lower subscription tenure than the browser group. Since churn is naturally higher in earlier periods of a subscription tenure, this is also a contributing factor to the higher blended in-app voluntary churn rate.
+o Engagement: We looked at the relationship between voluntary churn and engagement to see if higher voluntary churn rates were correlated with lower engagement. As expected, we found a inverse relationship between engagement and voluntary churn. In-app subscribers skewed slightly lower in engagement than browser-base customers.
+· Next Steps: o Calculate the contribution of the Netflix-only PMOF segments on the difference in voluntary churn rates. o Calculate the contribution of tenure differences on the difference in voluntary churn rates. o Look into explanations for differences in in-app versus
+PX-0197.7 APL-APPSTORE 06015810
+
+CONFIDENTIAL
+
+browser voluntary churn for different markets. o Look into explanations for differences in in-app versus
+browser voluntary churn for debit and credit cards. · Outstanding Questions: None
+Nexflix's Pro osed IAP Test
+· Update: Outside of the voluntary churn issue, Netflix is concerned with understanding the incremental value of offering subscription via IAP on iOS. To measure this, they proposed a test that would remove the ability to purchase the subscription via in-app purchase in a select number of markets for a two-month period (see list of markets below). They would like to run the test in May and June, and estimate this test would impact 1.9% of annual in-app signups. We expressed our concern that running this test would create a bad customer experience for app users in those markets and limit co-marketing opportunities, including on-store featuring. o The countries they are planning to test include: · Australia vs Great Britain (Note: These are 2 of the top 3 markets by active in-app subscriptions.) · Austria vs Belgium · Columbia vs Peru · Japan vs Korea & Taiwan · Philippines vs Indonesia · (Note: They are using pairs of similar countries to create control groups for the test. Each country in the pair will have IAP turned off for one month during the two-month period.)
+· Next Steps: o Forecast the business impact of turning off IAP in the above test markets. o Provide a formal response to Netflix about the proposed test.
+· Outstanding Questions: o Do we want to take any punitive measures in response to the test (for examples, pulling all global featuring during the test period)? If so, how should those punitive measures be communicated to Netflix? o Do we want to ask Netflix to modify its test plan to limit the business impact? (They told us they would potentially be open to modifying the selected markets or test period at our request.) o Do either of you want to escalate our concerns about this test to your executive contacts at Netflix?
+A S t ore Featurin A/B Test
+· Update: We are planning an App Store A/B test for Netflix's next global featuring commitment, which is the Jessica Jones season 2 release on March 8. Our current plan is to turn off featuring for a limited number of customers in 3 markets outside of the US. During this one-week test, approximately 5-10% of App Store visitors in each market will not see the Netflix promotion on the Today and
+PX-0197.8 APL-APPSTORE 06015811
+
+Apps tabs. The remaining 90-95% of visitors will see the promotion. We are not planning on notifying Netflix of this test, but it is possible that they will see it on their own. · Next Steps:
+o Finalize the 3 markets for testing. o Confirm the alternative editorial placements for the test
+groups. · Outstanding Question:
+o We know that Netflix is playing close attention to featuring on the App Store to try to evaluate the impact of featuring. We' re concerned that Netflix may notice our test and will either want to see the test results or will use the test to justify their own proposed IAP test. Given these concerns, do you think that we should proceed with our test as planned?
+Apologies for the length of this email, but we wanted to make sure it covered all the important points. Please let me know if you have any questions.
+Thanks, Carson
+Carson Oliver App Store I Apple Inc.
+
+CONFIDENTIAL
+
+PX-0197.9 APL-APPSTORE 06015812
+
+

@@ -1,0 +1,143 @@
+PLAINTIFF
+U4. Dlphhn Coun- ffDChh
+4:2annhaaasa Yuarvatt Bplp BNhpp, 8th. v.Appltt 8th.
+· 8 .2LB822
+
+Subject: From:
+
+By
+Re : Google Drive - Rejected Rom AppStore - Planned Launch on web andAndroid Tuesday, April 24 VTom Reybum"
+
+Received(Date): Wed, 25 Apr 2012 20:41:31 +0000
+
+To: "Phillip Shoemaker"
+
+Cc: VAnders Baecklundn FISC em
+
+,"Richard Chipman"
+
+,BC ' s Bledsoen
+
+,"Matt
+
+, "Alex Rofinann
+
+Okamoton
+
+,"SteveMcGuigan"
+
+, BShaan Prudenn
+
+8f e
+
+er tl
+
+,VRon "Horst Govin"
+
+Date: We d, 25 Apr 2012 20:41:31+0000
+
+In light of what happened with SkyDrive this week, I'd like to be proactive in getting these developers in line. It's not fair that SkyDrive could be approved without IAP and then add purchasable items to their website the day after their app is reviewed. If the developers currently on the store never submit updates, they will never be in compliance.
+Thanks for revisiting this with the ERB again this week.
+Totn
+On Apr 25, 2012, at 1:08 PM, Phillip Shoemaker wrote:
+The guidance Irom the ERB is to catch them when they resubmit, nothing more. I can discuss this with them on Friday, but we just had this discussion last Friday. Regarding DropBox, there is no issue there, they do support IAP.
+On Apr 25, 2012, at 12:54 PM, Tom Reybum wrote:
+
+Thanks for the additional detail Phillip. We can address this with Microsofi and ask them to submit a new build with IAP for the upgrade items. Can we give all of these developers who are out of compliance a deadline (perhaps May 15?) by which they need to resubmit a build with
+IAP to be fair to everyone in this category?
+
+Box net
+
+o p B * l ' ph Google Drive SkyDrive Sugar Sync You SentIt
+
+'Ih lh y l t
+
+I f n hpt h I
+
+'hhl ~d h
+
+Are there any others we know about that we should be addressing as managed accounts?
+
+CONFIDENTIAL
+
+Exhibit
+PX 0827
+PX-0827.1 APL-APPSTORE 05248238
+
+Thanks, Tom
+
+On Apr 25, 2012, at 11:56 AM, Tom Reyburn wrote:
+
+It appears that a SkyDrive update was just approved (went live on the store 4/23/12) which should also be included in this category of apps that requhz IAP for the purchase of additional storage. They currently offer no IAP, yet SkyDrive storage plan subscriptions are sold through the SkyDrive website. This needs to be fixed. This is not consistent with what we are telling Google about Google
+Drive.
+
+S Drive
+
+< Screen Shot 2012-04-25 at 11 40 31 AM n >
+
+<Screen Shot 2012-04-25 at 11.49.18 AM. n >
+
+Begin forwarded message:
+
+From: Tom Reyburn
+
+Subject: R e: Google n ve - e l e e om App Store - Planned Launch on web
+
+and Android Tuesday, April 24
+
+Date: April 19, 2012 5:45:24 PM PDT
+
+To: Phillip Shoemaker
+
+, Anders Baecklund
+
+i c ar ipm a n
+
+c: a IS Cer
+
+ex o an
+
+Steve McGuigan
+
+, Ron Okamoto
+
+Shaan Pruden
+
+ns Bledsoe
+
+Miller
+
+Here are two more in the same category that will need to be addressed:
+
+You SendIt
+
+< Screen Shot 2012-04-19 at 5 41 45 PM n >
+
+<Screen Shot 2012-04-19 at 5.41.34 PM. n >
+~Su eric
+1- - 5 8 8
+
+< Screen Shot 2012-04-19 at 5 35 45 PM n >
+
+On Apr 19, 2012, at 4:01 PM, Ted Miller wrote:
+
+CONFIDENTIAL
+
+PX-0827.2 APL-APPSTORE 05248239
+
+Thanks for the heads up.
+So, just to be clear, what will the policy be moving forward for these types of cloud storage offerings?
+On Apr 19, 2012, at 3:13 PM, Phillip Shoemaker wrote:
+Yes, this is correct. Regarding dropbox, there is no guideline that says they must implement all upgrade options also available on their website. Regardingbox.net, once they resubmit, they will be handled accordingly, per Eddy.
+On Apr 19, 2012, at 2:58 PM, Tom Reyburn wrote:
+Heads up that we have rejected the Google Drive app (cloud storage) &om the App Store for not offering the purchase of additional storage space through the app as they do through the Google website. The app needs to be using IAP for a service that is allowing users to "upgrade" their storage size. We notified Google of this four weeks ago when the app was originally reviewed. Google appealed the ruling, but their appeal was rejected.
+Google plans to launch the new product on the web and for Android mobile devices on Tuesday, April 24.
+App Review is currently looking into the treatment of Dropbox andBox.net as other apps in this category which have not fully implemented IAP (Dropbox only offers one of several upgrade options through IAP, andBox.net does not offer any upgrade options through IAP).
+Just want to make sure you are all in the loop about why this app will not be launching on the App Store when it goes live next week based on Google's current plans.
+Tom
+
+CONFIDENTIAL
+
+PX-0827.3 APL-APPSTORE 05248240
+
+

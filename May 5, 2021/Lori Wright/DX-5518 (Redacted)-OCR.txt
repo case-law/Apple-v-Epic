@@ -1,0 +1,649 @@
+II Mi crosoft
+Microsoft Store Policies 8f. App Store Princi ples
+January 2021
+
+t Ite //1
+
+Nfii!a lflllll.1.
+lst Ial
+
+United States District Court
+
+«I
+
+NorthernDistrictofCalifornia
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games,Inc.v.Apple, Inc.
+
+Exhibit No. DX-5518
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+//ill/I
+
+MtcrosoIT Store
+Picture is non-editable
+
+Microsoft Confidential
+
+M« s ft C p t 4R gh ts s ' d M ICROSOFTM4KESNOIEI4RR4NTIES E <PRESS IMPLIE · ORST4TOTORY 4S TO THE INFORM4TIONIN THIS PRESENT4TION
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 001
+
+MSFT EPIC 00000095
+
+Principles for the Microsoft Store on Windows
+Public statement from President CELA
+For software developers,,app stores have tiecome a critical gatewayto some af the world's most papular digital platforms. We
+and others have raised questions and,,at times,,expressed concerns about app stores on other digitall platformsHowever, we
+recognize that we should practice what we preach. Sa, today, we are adapting 10 priinciples -- building on the ideas and work af the Coalition for A F a irness CAF -- to promote choice, ensure fairness and promote innovation ar Windows 10, our most popular platform, and our own Microsoft Store an Windows 10:
+1. Developers willi have the freedom to choose whether to distribute their apps for Windows through our app store. We willi not block competing app stores on Windows.
+2. We willi not block an app from Windows based on a developer's business modell or how it dellivers content and services,, includimg wtiether content is installed on a device ar streamed from the cloud.
+3. We willi not block an app from Wiindows based on a developer's choice of which payment system ta use for pracessing purchases made iin its app.
+
+For Discussion
+
+S. Every develaper will have access to aur app store as lang as it meets objective standards and requirements, including these for security privacy, quality, centare and digital safety E. Our app store wtlll charge reasonable feesthatrefiect the competrtion we face from other app stores an Windows and vnli not force a developer to sell within its app anything it
+daesn't ivant to sell. 7. Our app stare willi not prevent developers fronn connnnunicating dtrertly with their users through their apps for llegitimate business purposes. g. Ourappstarewillholdourawnappstathesamestandardstowhichithaldscampetingapps S. Miicrosoft willi not use ariynon publlic iinfarmation or data freon its app store aboirt a devetoper's appto connpete with it. 10. Our app store will be transparent abaut its rules and poliicies and opportunitiies tar promotion and marketiing,,apply these consistently and objectively,,provide notice at changes and
+make avaliablle a fair process to resolve disputes.
+microsoft Confiaantka
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 002
+
+MSFT EPIC 00000096
+
+Policies for the Microsoft Stores
+Areas where Windows and Xbox organizations longer term POR Conflict
+
+10.1.2: You r a pp must be fully functional
+
+10.1.5: You r a pp may promote or distribute SW only through the Store
+
+10.2A:
+
+Prod u c ts may depend on 3 "d party SW to deliver functionality, but that dependent SW must be disclosed and be available in the Store
+
+10.8.1: Use o f our billing platform
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 003
+
+MSFT EPIC 00000097
+
+Policies for the Microsoft Stores
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 004
+
+MSFT EPIC 00000098
+
+APPENDIX
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 005
+
+MSFT EPIC 00000099
+
+II Mi crosoft
+
+Microsoft Store Revenue Share 8 Exceptions Overview
+January 202'I
+
+ffff ffff //1
+
+Nfii!s lflllll... f
+rr Igl
+
+Nor for presenting Follow UP Ct & A
+///I///
+
+Mtcrosoft >tote
+Picture is non-editable
+
+Microsoft Confidential
+
+M « s f t C p t 4R gh ts s ' d MICROSOFTM4KESNOlsl4RR4NTIES E <PRESS IMPLIE · ORST4TUTORY 4S TO THE INFORM4TIONIN THIS PRESENT4TION
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 006
+
+MSFT EPIC 00000100
+
+Store Policy Session Overview
+
+Session Purpose
+
+Provide an overview oil both Ivlicrosoft Store Standard Fees and Revenue Share and Policy exceptions provided to our Top Apps and PC Games ISVs across Xbox encl PC. Partners
+ranked by gross sales faccounting for 9096 of est. total sales)
+
+Desired Outcome
+
+Understand Partner-types that Store provides exceptions iloi and why. Understand the key Policy exceptions provided and why.
+
+Strategic questions being addressed
+
+Why does Store provide Policy exceptions to select few partners? What are and why does. Store provide other contractual 'gives' to select partners?
+
+Itetttttttft otttfittttttitl
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 007
+
+MSFT EPIC 00000101
+
+Microsoft Store Standard Fees 8 Revenue Share Overview
+Across All 5torefronts"
+
+Microsoft Store on Windours 10
+
+Microsoft Store Revenue Share
+
+Applications
+
+All transactions (one-time app purcliase, sulbscriiptiions, in-app diigital content)
+
+15%
+
+Games All transactions (one-time game purchase, subscriptions, inapp diigital content)
+Ail games will move to 88/12 in CY21
+
+50% (today) 12% (H1 CY2'I)
+
+Microsoft Store on Xbox
+
+Microsoft Store Revenue Share
+
+Applications
+
+Dne-time app purchase/lin-app purchase of non subscription
+
+50%
+
+based digital content
+
+App Subscriptions
+
+Any recurring fee paid to access / consume app services
+
+15%
+
+Alii transactions (one-time game purchase, subscriptions, inapp digital content)
+Ail games will move to 88/12 in CY21
+
+50% 12% (H'l CY2'I)
+
+*the ADA also addresses the Windows 8 legacy platform as welt as Stare for Business and Education When we madethe update to reduce Microsoft rev share for apps from
+80% to 'l5% there were technical constraints preventing us tram updating the rev share model for transactions on those platforms/Storefronts, hence the carve out in the ADA. Tttese platforms account fora very small percentage of transactions and the SFB/EDU is going to deprecate its commerce functionality by the end of C)t CY 2021
+
+Micrcrrrat Crvuidsauu
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 008
+
+MSFT EPIC 00000102
+
+Store Policy Exception Summary -- Top Apps by Sales
+App Partners accounting for 90% of gross revenue
+
+Curt ant Exceptions Overview
+13 of the top Apps par tnen. have one or more pohcy exceptions
+Of Iht. 13 paftfif.fs wltti except lofts, 11 Fepfesefil. Islet»a stre dmffig pdflt'lets 3 fepfc sent prociuctlvlty patt riots
+Of Itic 11 media st tednurig purl riets10have Policy excepuor is fot boihbilling and siondnrd rev share fees paid I o MS I-'I
+nie otiiet media partnet was grarited a slaridard tev sl'tare fee exception
+'I he 3rpod»<tivity partnersbtoh have standard rev stiare feeex<cpoum
+
+Policy Exception Categories: Subscription Billing exceptmns provided to entert unment sewice providers as I result of 6 key ieaiure gaps in the MSFT subswip»on p4tform These features are requtr< d by th<'se ISVS to rim their btruness arxf for entering the MSI 'I Store (kxarnpte abillity to set introdtrctory pnre abihty to move customen a< ross Syus et<)
+Features are nienginreineg backlog 3+ years store r urrentiy has active subscnptfon tiilliing excr puons for 37 partners, Including koU and sMB panners wtio woutd otherwise not 4uncti In siore
+Standard Rev Share Fee ex< eptioru provided io r etc rtainrn ant servir e provi derber d nior< traditional w32 ISVs asmcenuve to 4»r ch m fvISI I' Store
+Policy Exception Rationale:
+ExceptionsC/ustom tnffm granted to ISVS based on value creation for partner in atignrnent with their business model. Granted to ISVS that meet ttie foiiowing cnt<nb Itic app/servic e drives mass <vstomer engageemnt andIs highiy sought after by <ustomers
+I'he app is strategicnlly impoitant to categoiy ori PC or ktsOx
+Are among top 10 gioball/iegiorial perforrmrig apps ni t tieir respectwr. <ategoiy iby revenue downloads, erigagernent. and active users)
+Has strut< gn Italo< Io tiroader Mr<fosoft iriitiatiire
+Other Contractuai Gives to Top Partners: Store Gives tcffici to tie coisf lit ll'ttedt ctlgltall fntafketlng Ifnpresslons across owfiticl fk Qpnf ate<i Stow/pafcl tinedla etta Quells maf'Iagecl ula 'ttw Apps Categon/ I eallfl
+to 5«ure day and date 4un< ti of the partner servi< e/app on kbox/PC retativr. to other <ornpeting pint forrm
+to mt ant the pa<trier to build on anoiher Msf'I storefront renmfn on piatfomi and/or to Intent to liuiid differen»died fratvres
+
+Saurnsntt Ccntidentul
+
+'siomtordstofdnpe RousnaffF<r tb/sefoftfonunfontonsbor 55715fortt wactrcntonPCofwdlintonfubfcnpbonpnco rocurnnancnttiironPCnndsbor
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 009
+
+MSFT EPIC 00000103
+
+Store Policy Exceptions -- Top Apps by Sales
+
+Pm A p p / Comp y Pl tfor
+PC B.Xb PC &Xbox
+Xbox PC & ybox
+
+FY20EN. 6 ms Salas
+5 202 6M I 37,1 M 5 35 IIA
+I 21.6tA
+
+FY20N t Sale
+5 03IA 53. M 5 3 5ta 5 1.6 tA
+
+P ot~tv p t o P ov dad
+Bdhng & Rev 5hare 8 Rmg & Rev Share
+Pevslsa<e
+
+Conte t AIR S ha
+
+C ot m I b f a g
+
+9tl/Ioofsub 0 e o X b o e c u g , N OPCfeestan gFY21 /32
+
+51 67 per month pe< newsub urbe (515 capl
+
+Leveragmg ownrubro<pbonb<llmg
+
+90/10 of rub< pnce 24 n<onttw
+
+Leverarpng onm uiwcnpbon b<llmg
+
+92 5/7 5 of tran act anal pr ce
+
+Leveragmg MSFTtransadrormlbuhng
+
+MSPrStore,Appscat go& Co tmct<ral Cwes
+& tens a n g lo I.Lago Permanency
+27M<mp<ers<onsx.Platfotms
+SgtAKboximpress ww
+
+10 12 13 15 16 17
+Totals
+
+PC P Xbo
+PC 6 Xb Xbo
+PC/ Xbox PC/ Xb
+XI<ox Ktsox XI<ox PC P+Xb
+PC B.Xbo
+
+5 20 5 I'I 5 19,5 IA I 166tl 5 5 6M
+544M 5" M 5" tA 5 3 3 tA
+531hl 530ti 5 9ti
+
+PC
+
+PC
+
+51 BM
+
+5392M 90N fT t I
+
+5 2 I t I
+5 2.0 IA
+5 I 7 t I
+5 o.a ra
+504M 5. 0.6 t I 5.0.f tA 5 0.5 tA 5 08 IA 5 0 3 td 5 0.5 ta 1 0.4 M 50.2 M
+5 0,2 IA
+5 0 ' ll 539.9M 71N fT t I
+
+8 RmglkRO Share 8 nmg&R Sh 8 0 ng & Re 5hare
+Pevshare tl 0 IgrkR Sh
+N/A B pmg&R 5 h 8 0 IgrkR 5t<
+tl/A 8 Pmg& Re Sha e
+R Sh
+
+eg 5'te &tow so Xrso»
+
+t i P I 5N Add.
+
+90/Ipof b r p <ce 24 months
+
+a5/15of ubpnce re< rrmglgrantedbefore tandardleewa 0 pp d f 70/ 3 0)
+
+90/10 f
+
+b p < 5 2p / t h p) 24
+
+Slmg tsar exlsenswepackagerl
+
+th ( I
+
+5tan dard 85/15 of sub5p<c<a, <ecurnng
+
+Standa<<185/I5afsub<pn ca,recurnng
+S5/15 of grassadvewangsales
+
+90/10 fr b p 24 nths 9 0/10 of: b p e 2 4 a n t h
+
+Sta da d 70/30Xbax 65/15 PC
+
+85/15ofg os'act en' gsale5
+
+C< e-t epaw em of2 0 thsloth p ce
+
+85/15 of sub, p«ca re<umngmyear one,925/7 5 of 5ubsor<ca rec mng nyea t~
+
+Stanrlard 15/ of <mr pnca, recurnng
+
+Le eragmg ows lwcnpbor b nmg
+Le crag ng ows b c <pbonb nmg Leveragmg t45FTtran «dmnalbnhng L e & m o m h e pt n b n g
+Leversgmg tISFT subs<nptmnb dang Leversgmg t45FTsulb<nphonbnbng
+Free app,na bdlmgmtegrat<on
+Leva ag gt15FTta smta alb Rng F eealsp, ot llmgmtegmt 5 Le e ag g o s ubsmpbo b 0 g
+Leveragmg MSFT ulbmpt anbnb<sg
+
+Pc<TQBEI manth <NW 57ti lmpress<ons,PC&&BE3 mantn n t dtdn/m L t 35MKbo Imp ew N<5
+50tAI p " 6 3 ths CCBE
+15AIXbarlmp<ersmns
+
+'Bo ntypartne agro 5 <ah a eestnsatedbasedonfee trmt e / Store('tletflaFY21sales nlbelo e dmtorenegohatedcontadatlewfa ombteterms the tgron alesprolectedat-Saotdb Red e as eat-SatA(
+
+" St d d s t Ap p R Sh F 70/ M f t d
+
+Xb , 85/15f t 5 N ".PC
+
+It : bs pb p e, « g mhty PC d xb
+
+Microsoft Confidanthd
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 01 0
+
+10 MSFT EPIC 00000104
+
+Store Policy Exception Summary -- Top Games by Sales
+Pc Gaming Partners accounting for 100o/o of gross revenue
+
+fi PCO
+
+g f i i i i g i I hf g g i i h C IO
+
+g» if
+
+- hii g fla k ~
+
+h
+
+contractual incentives other than short term Store merchandising during a game's launch for Top 200 mobile games that come to W'IO.
+
+King is the only Agency-model partner with a non-stan dard revenue share.
+There is a pmposal currently under Garmng Leadership Teafn consideration to adopt 88/12 as a pubhc PC games revenue share for oil garnes in exchange
+for the grant of streamingnghts to Microsoft
+is the unique exception to Casual Ganges partner's standaf'd terfrls ~ f ago t ( ated a 2 yr renewal (eff FY21. FY22) to receive a custom 80ff20 revenue sfiare and up to S1M per year redeemed CSV for use m~ exe c uted acquisition and i'eeflgagefllerlt cafriPalgns.
+Tlie business model ot advertising a game in other games via middleware ad platforms (Vungle, Ironsource) is a pillar ot the (OS and Google mobile gaming ecosystems. As a result, m heu of policy and payment terms exreptions, the PC Gammg rategory team, has effectwely used this co-op mar(feting approach with partlgei'h to accelerate glowth in the category.
+
+gffgrogoff Confiaonffof
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 01 1
+
+MSFT EPIC 00000105
+
+Store Policy Exceptions -- Top PC Games Publishers
+
+Partner App / Company
+
+% Gross/
+
+AnnuairzedOd Annuauzed Od
+
+PlatfoIm 20 Revenue 20 Net Revenu PolicyEaceptionProvided C o n tractualRevshare'
+
+IOO*123
+
+(Od 12)
+
+Contractual Billing
+
+I
+
+29%/57%
+
+5148 3tA
+
+SI48 3tA"
+
+IPP 5t d
+
+5574M
+
+S17 SM
+
+St d d 70/30
+
+M6 I tl
+
+S9 914 513 SM
+
+R Sh
+
+I N/2D p I M A t Standard 70/30
+
+St d d C
+
+API
+
+Stan daid Commerce l Pl
+
+54 5. 5M 534 OM
+
+513 7tA 510 tA
+
+Standard 70/30 5ta da d70/30
+
+Standaid Commerce l Pl Sta dadCo e c e A PI
+
+PC
+
+11 3tz
+
+S5,5M
+
+Standard ONO
+
+Stands d Comme ceAPI
+
+PC
+
+116 5tz
+
+S5 OM
+
+Standard 0/30
+
+StandardcommerceAPI
+
+514 3M
+
+54 3M
+
+Standarcl 70/30
+
+StandaidCwnmerceAPI
+
+10
+
+E59'/39%
+
+512 9tA
+
+5.3 914
+
+5101tA
+
+53 Ota
+
+5t d d 0/30 5t d d 0/30
+
+St d d C St d d C
+
+« API « API
+
+12
+
+52 714
+
+Standard70GO
+
+StanclwdCominerceAPI
+
+564M
+
+M.erz""
+
+GEOManagedPartner withe 88/12 per Gwrison
+
+G
+
+AOAAdd d
+
+Add d
+
+ted
+
+Stand dCO e ceAPI
+
+14
+
+PC
+
+56 2tA
+
+51 9M
+
+Standard 0/30
+
+StandardcommerceAPI
+
+15
+
+M 2M
+
+5tandard 70/30
+
+5tanda d CwnmerceAPI
+
+52 7ta S'4M
+
+SOSM
+
+5tandard 70/30 5t 0 d 0/30
+
+5tanda d Cwmne ceAPI
+
+St d d C
+
+« API
+
+52 I tA
+
+Sianclard 70/30
+
+StanclaidCommerceAPI
+
+1 9 Reit of Catalog/6% of flevenuel 6%/ 4 %
+
+531 5M
+
+594M
+
+51anclard 70/30
+
+StanclairlCommerceAPI
+
+otal
+
+5517M
+
+5259M
+
+(5369M 3PP) (511DM3PPI
+
+"St 0 d v / I OPCG i
+
+h 70/ 3 0 G EOM g dP n tl t h g d G
+
+Add d t th lip pD I pwl ig
+
+d (ADA)
+
+88/ 12 . OPCS t
+
+"IPP and Reielfei uusmenmodel pattnmtletRevenueiecognzdae11007ofGiossascompaiedtoAgencynodalputnei tecognizedat30%OIGiosstweiecognzeonlythestorefeel
+
+Microsoft Confidenthd
+
+MSFfatore,Gam scategory Co tadualgves
+SIM/y Store Csllfo rwnt mdvisihoh plo9r'ani5
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 012
+
+12 MSFT EPIC 00000106
+
+Movie Industry Climate
+COVID continues to alter hovv content reaches consumers
+
+IBoxOffice impact:tt)
+-82%VoV Dmp in Domestic Box Office Reve~us ($218 in 2020vs $11 38 in 20'19)' -50% VoV Drop in title releases (ddd titles in 2020 vs 911 titles in 2019)' -68% Voy in China Box Office, still surpasseci North Amen ca total in 2020 $30138*'
+Exhibitors/Theater Owners: Maionty of domestic tlieaters have been closed smce Marcli or opened at limiIed capaoty ".50% Regal has had all 600+ Theaters closed since early October
+AMC is trymg to avoid ban( vuptcystock dropped 75% in 2020
+Studios: Experimenting Content drought: Most production lialted m Spring, resumed in Fall; (.A, filming now stopped again
+Ma)orStudios are d atermimng ni diivdually whati s best for their content slate:
+o Finished big-budget Titles ($100M-$200M). Releasedelayeduntil more theaters open (e g, Bfacktyidow P Studios releasirig smaller titles on tlteirovm streaming services(Soul,Arterris Fovrl, eto), selling to other
+streamers (Coming2America, Greyhound, etc,) or selhng as a premium Video on Demand (PVOD) on trartsactionaf services (Troll s2, Scoob, etc )
+
+Boxoffciecom partson:2019vs.2020
+
+'r/////
+
+rr//"r////""' //'//r/'/r
+
+/r/r//
+
+//// ////
+
+/r/ /// '////
+
+I//// prr/r f r// / s///x
+
+CONSUMER SENTIMENT ON GOING TO THE MOVIES
+
+Consumers and Expansion:
+(2 Are liesitant to return to tiieaters Subscnber Volume: Netflix '195M Subs, +28M (Oct); Disney+ 868M Subs, +58M (Dec) Disney+ continues gol ttal roilout 6 will add FOX and library content to Disney+ via STARS' brand H BO MAX to expand internationally 2021
+
+More than S Months
+
+Microsoft Cootidsntisl
+
+Microsoft Movies g TV - Rental programs Key questions: · How effective are VOD sales at driving new users? · Which price point drove more new users? · What are the behaviors of these new users after they participate on discounted
+VOD?
+REVISE: Look at LIFT comparatively in .99c, we need to justify why we need to get.99c, look at
+· Look at quality type of users from · Percentage of difference from each tier, think from revenue to units to price
+point
+
+Determine what price attracts the most quality new users, First Time Purchasers "this will do no harm" aggressive discounts // significant // pulsing different sigiginit / we use rental sale to attrach most number of new users, attracting new users that continue to come in and by. Keep in mind, .99c good way to keep people
+
+M« s ft c p t 4R gh ts s ' d M ICROSOFTM4KESNOIEI4RR4NTIES E <PRESS IMPLIE · ORST4TUTORT 4S TO THE INFORM4TIONIN THIS PRESENT4TION
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 01 3
+
+MSFT EPIC 00000107
+
+in but better quality keep -- quality purchasers Going forward, 1.99 /.99
+Potential different hypothesis: · Aggressive rental discounts will attract First-time purchasers to MMTV platform · Aggressive rental discounts will attract quality First Time purchasers to MMTV
+platform · .99c8 1.99c rental sale campaigns will attract quality First Time purchasers to
+MMTV platform · Aggressive rental sale discounts on demo content with elevated merchandising will
+attract quality First-time purchasers into MMTV platform · Aggressive .99c rental discounts of on demo content will attract quality First-time
+purchasers to MMTV versus 1.99c rental discounts of off demo content
+· MM TV Rental Programs are effective new user drivers with .99c deals on new release AAA titles vs. MMTV.99c or 1.99 rental single SKU spotlight promotions
+· MM TV Rental Programs with .99c deals are more effective than 1.99c deals in new user acquisition
+More misc notes: · XX% sale participants bought $X.X VOD price point R $X.X EST price point
+· XX% or 0 sale participants bought more than one rental R EST purchase
+· In Sale: avg. of 27% participating users also bought EST R spent $10.50 (ARPU)
+· Outside Sale: avg. of 37% participating users spent $17.85 (ARPU) on MMTV
+· Duration of each sale, average of 23.96% participating users are only rental users on MMTV
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 014
+
+13 MSFT EPIC 00000108
+
+Store Policy Exceptions -- Theatrical Release Strategies are Fragmented
+Studios have broken the traditional release windows during C19 to optimize for their individual growth needs. Microsoft agreements have been amended to align with new business models.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-551 8. 01 5
+
+14 MSFT EPIC 00000109
+
+

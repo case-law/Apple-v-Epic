@@ -1,0 +1,79 @@
+Subject: Re :CNBC.cornstory on App Review process
+
+From: "Phil Schillere
+
+Received(Date): Fri, 21 Jun 2019 14:36:23 +0000
+
+To: eKrisdn Huguet"
+
+Cc: "Matt Fischer" Sainz e (
+
+>,eRon Okamoto" > , "Steve Dow g "
+>,nTammy Levine" >,eTom Neumayr" >,eTrystan Kosmynka" >,nBill Havliceke
+,ePedraum Pardehpoosh"
+
+Date: Fr i, 21 Jun 2019 14:36:23 +0000
+
+PLAINTIFF
+V rl. Dlrdnct Cccrl - NDCAC
+4:20wv%5040-YGR-TSH
+SpicDames, Inc.y.Apple inc.
+me,,~ndr 66
+Dere Bnlered By
+>,eFred
+
+Thanks for the heads up.
+
+It would be great to have something in here about how much we care about this team and act on input on how to make it a great place to work.
+
+The hours might be spun to make it sound like a sweat shop - which would be awful Everyone at Apple has periods where we get into heavy workloads (myself included). At the same time we have had to cap overtime when the team wanted too much, they wanted the extra income.
+
+Anyway, if they want help writing a story about how we do this right and other do Sonics do it wrong. Think it is great to help that. We might not be perfect but I hope everyone
+thinks we are really good at this.
+
+If you think I should go on the record with him about it I will. Sent from my iPhone
+
+> On Jun 21, 2019, at 7:27 AM, Kristin Huguet
+
+> wrote
+
+> Phil,
+
+> Following your meeting at CNBC, Kif Leswig, their new .corn reporter in the bay area who joined the meeting by phone, is planning a story about the App Review team and
+process. While it's obvious the meeting sparked the idea, he swears to independently sourdng this information from previous and current employees, including Shoemaker. The good news is he didn't find any horror stories among the team and the story is in line with your description.
+
+> This obviously follows the Verge's story about the terrible conditions for Facebook's content reviewers but Kif said it was very clear that, unlike FB, all our reviewers work for Apple, they are paid hourly and, while sometimes it means relatively long days, they almost never reviewed objectionable content -- to the extent he doesn't plan to even mention it.
+
+CONFIDENTIAL
+
+Exhibit
+0006
+PX-0006.1 APL-APPSTORE 04069843
+
+) They currently plan to mention Trystan, Ron and Bill Havlicek by name and will note Sunnyvale is the primary location. Kif promised he wouldn't get any more specific than that and I will keep pushing to exclude any particular name, although he argues they are already public. We' ve fact checked most of the points he mentioned with Trystan and the team (below).
+) We recommend declining to comment. He said it would run in the next few days.
+) *******
+) Fact Check: ) · App Review employees are Apple employees, not contractors ) - True
+) · App Review employees are paid hourly ) -True, however we have both exempt and non-exempt employees. Itdepends on role and depends on region.
+) · App Review is led out of Sunnyvale ) - True
+) · The App Review Operations Manager Trystan reports to Ron Okamoto) - True
+) · App reviewers typically each review 50-100 apps per day ) - True
+) ·App Review has established new offcies inCorkand Shanghai ) - Partially true. We actually have an App Review legal review team in Shanghai, they review licenses. They do not review apps. Cork does app review.
+) · App Review uses Watchtower software on employee computers to track productivity ) - We do have a reporting tool that reviewers have access to so that they can see how many apps they have reviewed and where they are with respect to their daily targets. Both reviewers and managers have access to this. This is not software running on their computer that makes it sound like it's spyware, not the case. It's simply a reporting tool (an internal website.
+) · Employee productivity is measured against our SLAs ) - No, employee productivity is messaged in a variety of ways, the main one being number of decisions made, but we also look at things like time on task, approval vs rejection ratios, errors, etc. ) - SLA is a service level agreement, our SLA is that 50% of apps should be reviewed in 24 hours, 90% in 48 hours. The number of apps we have, along with the availability 8 productivity of the overall team determines whether or not we hit our SLA.
+
+CONFIDENTIAL
+
+PX-0006.2 APL-APPSTORE 04069844
+
+) · Apps should be reviewed in 24-48 hours ) - Should be: ) 50% in ( 24 hours ) 90% in ( 48 hours ) Actually: The majority is ( 24 hours, 70-80% most days.
+) · In summer 2016, employees were notified that SLA dropped so until we catch up we' re opening up to 12 hour days (he has an email saying this) ) - Our standard day is 10 hours, the team works 5 days a week. We offer flex force hours for folks that would like additional hours to help process additional volume during busy times, or gaps in coverage (eg. Unexpected downtime, unexpected out of offices, we offer additional ours and folks that want them can take them).
+) · When an app is rejected (eg: parental controls, Spotify) an App Review employee calls the developer ) - Not true, we send developers messages in Resolution Center. We do also make calls to developers, not all rejections result in phone calls. We reject 40% of submissions (-40k a week), we do -1000 calls a week.
+) · Bill Havlicek has made several calls and mentions Phil, some were parental control apps and he also handled Spotify. His name is public, as his conversations have been recorded and shared online
+) · He plans to include an employee account of how we handled lnfowars that matches what Phil shared.
+
+CONFIDENTIAL
+
+PX-0006.3 APL-APPSTORE 04069845
+
+

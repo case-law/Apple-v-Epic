@@ -1,0 +1,2037 @@
+a~~eMi~~~ofa;
+CY2619 GBITlB PdLIStrg PfOf t
+Gaming Business Planning 5 Strategy Team May 2029
+
+Ueitod,StaM LNekriel Cowt bll@1t4Cnr Diekriet af C@4fOARN
+
+Case No. 4:K'-ev~-05649 YGR
+
+~
+
+~
+
+~ ~
+Case Tm~ tlleK 6rrrNes,r See.rr,
+
+,,) XNe.
+
+EIxhib~it
+
+No,9X+$23 ~
+
+Data Enteyedl
+
+Srrree Y. sou@ clerk
+
+By:
+
+Bepety Berk
+
+Microsoft Confidential
+
+Select Lexicon
+
+Revenue
+Profit
+Segments usiness Madel
+Sources
+
+Reported Gaming Software & Services Revenue · Reported (GAAP or equivalent) calendar-year revenue directly attributable to video game software & services for public companies · Estimated gross revenue (i.e. consumer spend before platform fees and other deductions) for private companies · Includes game video & in-game advertising where applicable (e.g. Zynga serves ads on both Mobile & Browser games, YouTube ads for gaming content) · Excludes non-gaming revenue(e.g.merchandising, theme parks), dedicated Hardware (unless otherwise noted) and ag other advertising (e.g.app stores) Adjusted Gaming Software & Services Net Revenue · Reported revenue adjusted for platform fees & YoY change in deferred revenue (to avoid double-counting & approximate actual consumer spend) · For platform companies (e.g. Apple, Valve), adjusted revenue includes only the retained share of 3P transactions, not gross consumer spend
+Reported Gaming Software & Services Operating Profit (a.ke. Earnings Before Interest & Taxes, "EBIY') · Pr e-tax operating profit taken by publishers, developers, & plafform-holders; excludes used games & retail margin · Reported (GAAP or equivalent) calendar-year EBIT directly attributable to video game software & services for public companies · Estimated operating profit (based on comparable public companies with appropriate adjustments) for private companies Adjusted Gaming Software & Services Operating Profit · Adjusted EBIT for any change in deferred revenue/costs as well as a proportional share of any unallocated operating expenses (based on adjusted revenue)
+Console:Games & services on home consoles (e.g. Xbox & PlayStation) and handheld/hybrid consoles (e.g. Nintendo Switch) PC Client Games & associated services executing locally on a PC form factor (e.g. League of Legends); primarily Windows Mobge:Games executing locally on a phone/tablet form factor (e.g., Clash of Clans); primarily iOS and Android Browser:Games operating entirely in the browser (e.g., Zynga); though technically device agnostic, most consumption happens on a PCform factor Cloud StreamincpGames & associated services delivered through cloud compute from a data center to the end device (e.g. Project xCloud, Google Stadia) Game Video:Game-related internet video including streaming (e.g.,Twitch) and video-on-demand (e.g.,YouTube); includes both browser & application · Pay-to-Play (P2P):Garnes with an up-front pay gate that provides perpetual access; includes spend on base game and subsequent add-ons (e.g., Halo) · Free-to-Play (F2P):Games with no pay gate; includes ag transactions and advertising associated with those titles (e.g., Fortnite) · Subscriptions (Subs):Games and services with a time-based access gate or content portfolio (e.g., Xbox Live Gold, World of Warcraft, EA Access)
+Public filings (e.g. 10-X), Wall Street equity research,5&P Capital ICLAlpha Sense, internal Microsoft estimates
+Microsoft Confidemiai I t
+
+DX-5523.002
+
+Executive Summary
+
+Publishers captured the majority of total industry profit (66%); platforms in closed ecosystems/networks (e.g., Console, Mobile, Browser)
+
+segmenpt generated 39-46% Gf
+
+rofits while platfol'ITls In open ecosysteITls (I.e. PC Client) genel'ated only 5% Gf segment proflit
+
+Platforms' relatively low share of PC Client segment profit (5%) reflects revenue flowing directly from consumers to publishers -- 83% of worldwide PC Client revenue
+
+Free-to-Play remains the industry's primary business model (70% of total revenue), is the largest driver of profit (74% of total),,and sees the healthiest profit margins (32%), a function of publishers' ability to invest with demonstrated market success
+
+Tencent" is the largest company in the industry, generating an estimated $19AB in revenue and $6.38 in profit
+
+ln addition to Tencent, 9 other companies generated more than $18 in profit' from so~are R services including Apple ($528), Sony ($4.18),
+
+Google (SB.28), Netease (f2AB), Nintendo (S2.BB), Microsoft ~
+
+Act i v i sion Blizzard (5'I.BB), EA (fl.20), and Epic (S'I.OB)'
+
+I'emalns a key enablel' Gf softwal'6 8, sel'vices pal'tlclpa'tlon fol' Sony,
+
+(1J Tencent menue Et protlt figures above areadJusted ta ret)ect intra-valuechain revenue Brpmfit shares (eg.
+
+platformfees fardigital appstores). excludenon~am)ng revenue,andad)ustforVovchange indeferredrevenue.
+As such, theywill notie ta Tencentsreparted revenue 8 profit, Seeslide 40 for mare detail an Tencent's gaming
+
+parL (2)ReflectsFartnlte, Rcc)retLeague.andEpic GarnesStare only; excludesUnreal Engine, etc. [BJConsumer
+
+spend in CY2019; hardwaremanufacturers recag nized ~f
+
+thi sas repartedrevenue
+
+Microsoft Confidential l 3
+
+l3X-5523.003
+
+Revenue 8 Profit by Segment
+Microsofr Con ficicnual
+
+CY2013-CY2019:Software 8 ServicesRevenue Growth
+
+Software & Services (SW&S)hasgrown at 16%CAGRsinceCY2013
+USD Billions; Software Br Services *(SW&S ) only, excludes dedicated Hardware
+
+$136.7
+
+$152.5
+
+$168.4
+
+$69.7
+
+$79.4
+
+$102.7
+
+$111.2
+
+Soaware & Services CAGR:
+
+CY13A
+
+CY14A
+
+CY15A
+
+CY16A +16%
+
+Microsoft Confidential i S
+
+CY17A
+
+CY18A
+
+CY19A
+
+DX-5523.005
+
+CY2013-CY2019 Game Industry Profit Margins
+USD Billions; Software 5 Services ("SWRS"3 profit only, excludes Cloud Streaming and dedicated Hardware profit
+
+CY1 5A Microsoft Confidential I 6 l3X-5523.006
+
+CY1 8A
+
+CY2013-CY2019 Game Industry Operating Profit
+Operating profit has grown steadily as revenues have increased
+USD Billions; Software 5 Services ("SWRS"3 profit only, excludes Cloud Streaming and dedicated Hardware profit
+
+CY'i4A
+
+CY'i 5A
+
+Microsoft Confidential I 7
+
+l3X-5523.007
+
+CY2019 Game Industry Revenue by Segment
+Mobile saw surge in growth, generating more than half of the industry revenue in CY20'lg,,while Console declined as expected from drop in Fortnite
+USD Billions I Share of Total; $16BAB Sofhvare 6 Services ("SW8 S ) only,,
+
+y'oy'Growth %
+
+Mobile
+
+sourcecvz019GameIndus~ sizing
+
+Console
+
+PC Client
+
+Game Video
+
+Microsoft Confidential I 8
+
+l3X-5523.008
+
+$9.3 I 9% Cloud Streaming
+
+CY2019 Game Industry Profit by Segment
+Mobile continues to lead in industry profit bysegment, while overall industry proift marginis
+gs.s ·i
+
+$'iOA l
+
+Console
+
+ro.s·i
+Game Video
+
+] ASS4IIABS0 0 SfTIRIIYlll1 s BO lYl8ll1II1g U ply t I l1
+
+Microsoft Confidential l 9
+
+l3X-5523.009
+
+CY2019 Profit Margin by Segment
+PC exhibited the highestsegment profit margin in CY2N9,,margins remained stableYoYacrossallsegmentsexcept Console
+
+ti ] YoY iigusesbasedon ~
+
+CYZ QS8figures.
+
+Mobile l'f ppt)
+
+Game Video 0 ppt
+Microsoft Confidential l 10
+
+oppt
+
+l3X-5523.616
+
+Publisher vs Platform Share of Profit by Segment
+Platforrri-holders in closed device ecosysterns at networks capturemeannigfulprofit share I39%-46%), while open ecosysterns favor publishers
+USD Billions;~ Soft w are 8 Services ( SWKS') profit only, excludes $0.5B in game video profit and dedicated Hardware profit
+$>O.4B
+
+Mobile
+Nate platform revenueend profit includes subscrpitians,platform sharefrom digital stare. snd rnsnugrctunng raysIties onphysicaldiscsbut errcludesfirst-party publishing (eq, Xbos GsmeStudies),
+
+Console · Platform · 1P at 3P Publishers
+Microsoft Confidential
+
+Mobile: Flow of Profit by Platform and Publisher
+
+Mobile platforms remained profit leaders despite declinedshareof profit YoY
+USD Billions; $26.58 Mobile Software & Services ('SW&S*) profit
+
+$26.58
+
+$16.1 8
+
+$10AB
+
+Share of Segment ProfiL Segment Margin:
+
+Total Mobile Ptofit
+100% 31%
+
+Note ptatfom revenueend profit inclucastuhsoiptionr. ptatfonnsharefromdigital storehut uuludastmt. partypuhit shing (egtencent t pi.ltlinciudec5!UlgotesomatedunotnammtprohcFormaredatai it onthe methodologyusedto catcutatethisunohsmvedprofit, seeslide30.
+
+1P Bt 3P Publisher Profit 61%
+Microsoft Confidential i 12
+
+Platform Ptofit
+39% 38%
+
+Publishers
+
+Tencent Netease
+
+$1.58 $1.48
+
+Supercell
+
+$0.68
+
+ActivisionBliuard $0 . 58 15 Others w/ >$0.18 $3.1 8
+
+Others'
+
+$9.18
+
+Platforms
+
+A pple G oogl e T encen t
+
+$5. 28 $2 .78 $ 2.58
+
+DX-5523.012
+
+·
+
+· e- · a -
+
+- . . e-
+
+-t e » ·
+
+.
+
+.
+
+. · e- · . - - - e · . «
+
+-e e
+
+0
+
+· ·
+
+I · -'.
+
+0
+
+8 0
+
+1 I I
+14I
+
+Revenue by Sales Channe
+Microsofr Conficicnual I f s
+
+e e - ' . e le
+
+g ·
+
+0
+
+8
+
+0
+
+--
+
+·
+
+· 0
+
+4 S- e
+
+·
+
+·
+
+Revenue and Profit by Business Model
+Microsofr Conficicnual I 1 8
+
+CY2019 Game Industry Revenue by Business Model
+FPP contniuesto betheindustry'sprimary business rnoclel,,generating 70% cf total SW85 revenue
+USD Billions; $168AB Softvvare 5 Services ("SW8 S'3 only,
+
+VoY GroWA%
+
+P ]YoY iigusesbasedon ~
+
+CYZ QS8figures.
+
+Microsoft Confidential I 19
+
+Subscriptions
+
+CY2019 Game Industry Profit by Business Model
+In CY2U'l9, F2P profit drov- of total industry rofit
+
+YoV Growth M
+
+ti ] YoY iigusesbasedon ~
+
+CYZ QS8figures.
+
+Microsoft Confidential I 20
+
+$3.6 I 6% Subscriptions
+
+l3X-5523.626
+
+CY2019 Margin by Business Model
+F2P busniessmodel hasthehighestmarginass a result of aligning investment tflfith successcfengageemnt 8tmonetization
+
+ti ] YoY iigusesbasedon ~
+
+CYZ QS8figures.
+
+Microsoft Confidential l 21
+
+Subscriptions (6 ppf)
+
+l3X-5523.02'i
+
+Company-Specific Analyses
+Microsofr Con ficicnual I 22
+
+CY2019 Reported SWSS Revenue vs. Profit Margin by Company (1 of 2)
+
+of+ Ten largest companies (ranked by reported revenue) reported an average profit margin
+Reported Reventie and Profit Ivlargins excltide dedicated Hardware
+
+56% I
+
+0
+
+I
+
+I
+
+I
+
+46%
+
+I I
+
+Seeried sffde l
+I r s
+
+II0 I
+
+0,
+
+I
+
+36% I
+
+0t m
+
+I
+
+I I
+
+26% II
+
+0
+
+I
+
+00
+16%
+I I
+
+0 0 0
+
+·' s s I r
+
+6%
+
+$16.6
+
+$15.6
+
+f 26.6
+
+0' Z//nga
+
+[1l CVZGI g Repormd Revenueand progpmay"doublewount' due to variousrevenue recognition policies le.g. platform fees for digital app stores)andwilnl ot tieto adjusuat revenuedt adjusted profit,
+
+Microsoft Confidential l 23
+
+l3X-5523.023
+
+CY2019Reported SWRSRevenuevs.Profit Margin by Company (2 of 2)
+
+When evaluating profit margin, smaller publishers stand out despite lower reported revenue"
+Reported Revenue and Profit Margins exclude dedicated Hardware
+
+50% 45% 40% 35% 30% 25% 20% 15% 10%
+
+Paradox Interactive
+
+· Sea Limited (Garena)
+
+CD Prxjsekt
+
+Facebook · Sup ercell
+
+Doubleu
+
+gIGG p Mi xi
+· C 2 u 5 · Gung ho
+
+NCSoft d Konami
+
+Scientific Games · Embracer (THQ)
+
+· Square Enix · CyberAgent
+
+g Digital Bros. ~ Rovio · Gree
+
+Perfect World
+
+Netmarble ~ Ubisoft
+
+Bandai Namco ~Take Two
+
+· Glu 0%
+
+~ Amazon (Twitch)
+
+$0.5
+
+$1.0
+
+$1.5
+
+$2.0
+
+$2.5
+
+$3.0
+
+$3.5
+
+$4.0
+
+· Epic Games
+
+$4.5
+
+$5.0
+
+it lCvae1gReportedRevenueandprost mar dontae«nuncduetovarioui revenuemosgni sr on poiioet(ed. platformfeesfordigital eppnares) andvdgnot ontoadjustedavenueia adjustedprofit.
+
+Microsoft Confidential l 24
+
+DX-5523.024
+
+CY2019 Reported Revenue Rank by Company
+
+The tOp 1G companies
+
+onsiclereel in this sample set accounted for over 55% of total garne industry revenue
+
+USD Billions; $106.2B Software Bt Services ("SV/8sS") revenue only,,excludes $S6.BB unobserved revenue'
+
+$3.1 $29 $2.3 $>,P 1 9
+t
+
+$1'6 $1*5 $1 S $ l A$1,3 $1.3 $1 1 $1 0 $1 0 $1 O$0B
+
+(ij Ansbeis observes-66% of SwrSSrevenuesegregated unobservedrevenueisralsulaied on a per-segment basis. Revenue figures abovesre metr double-sount' dueto various revenueresognition polities(eg. platiorrn feesfor digitalappstores)andwillnotteito adjustedrevenue dtadjusted progt,
+
+Microsoft Confidential l 25
+
+l3X-5523.025
+
+CY2019 Reported Profit Rank by Company
+
+The top 7comapnies
+
+considered in this sample set account for over half of total profit in the garne industry
+
+USD Billions; $36.6B Software 5 Services ('SV/KS'I profit only, excludes $13.7B unobserved profit'
+
+$1.6 $1.2 S1 0$0.9$0.9
+$0.6)0 S$0A $0A $0A $0A SGASGASG3 SG>SG>SG>
+· $5aaa a a a ~ ~ ~
+
+1 ~~~ ~~~~~~~~~~~~~~0 ~~~0 ~~~0 ~~~0 ~~~0
+
+l > iAnslteis observes>70%of SWSSprofit Esdrnstedunobserved profit is tsiaulsted an e per-segmenbtasis,
+prarit figuresabavemay  "double-taunt'due tavsriaus revenueresagnitian palisies (eg. platform fess for diigtelsppstares>snd w illnottie taadjusted revenuedtadjusted prost,
+
+Microsoft Confidential l 26
+
+l3X-5523.026
+
+Health of Key Console Players
+Robust SW8t5 profit marginsfor all key Console players except Ubisoft,,Activision Rlizzard is the least dependent on Console
+LISD Billions; excludes dedicated Hardware
+
+Ml cl'osoft Nintendo
+Actlvlslon Elllzzard EA
+Epic Games Take Two Ubisoft
+
+Nate Reported revenue StproSt abovewill nottie to adjusted revenue Stadjusted profitmarginspresented
+elsewhereinthesematerials. It ]For ptstbrrn-holders,defined asthe ratio of reported revenuefrom Consoleto
+totalreported gaming revenue.Foragpublehers exceptSpicGarnesd, efined asthe ratio of puhilsla disclosed Console-attributable"net bookings"(i,e. including impact ofchange in deferred revenue) tototal reported CV19
+sofhvere Ssrervices revenue.Spicgamesreported revenue. consoleshare, andprofit marginbasedoninternal estimatesandcomparbalepubliccom panies
+
+Microsoft Confidential l 27
+
+l3X-5523.027
+
+Appendices
+Appendix 1 I Revenue 8t Profit by Segment Appendix 2 ) Adjusted Revenue Reconciliation Appendix 3 ) Company Profiles Appendix 4 J Additional Analysis Appendix 5 J App Store Profit Appendix 6 J Console Generation 8 Retrospective
+Microsofr Con ficicnual I 28
+
+Appendix1 ~ Revenue R Profit by Segment
+Microsofr Con ficicnual I 29
+
+Profit Breakdown: Mobile
+
+Analysis observes 60% of Mobile revenue 8567% of Mobile profit
+
+USD Billions
+
+0 ., ;,,. Le
+
+5pm ·. A d
+
+· O I 'IM Oi
+
+$$55
+
+-SleemluyMen»I
+
+Commentary
+
+% G~
+
+02%
+
+Appu
+
+o~l
+
+0
+
+Temml Tmd Nwf
+
+I
+
+'7 M
+Te»l 10OOMbhip
+
+$11.0
+
+552
+
+IS»
+
+$00
+
+527
+
+34%
+
+577
+
+525
+
+32%
+
+545
+
+51 5
+
+SLS
+
+Nuo
+AIVI Nu bl
+eledei N KO Supvmll
+
+5 U Odla *»0 Cyb Ai » Epic 5EUI I bl NCS h M'
+G Mh Ke EA IGG 0 deuw Id Evun I N Gl Mbk 0 iu UGI
+comms
+5 II G N le»lb G Ie
+
+Tk 7 UI' R
+
+Mn fl
+
+0
+
+Puedo I'Imecl I unobeemd Nedeuc»
+
+Tmd N I%me
+
+533
+51.5 512 512 SLI $7% 50.'I 5QO SOO 50O $0.7 50.7 Slm 50 0 %1'I
+50.5 $04 504 MS 503 503 50.3 50.3 $02 $02 502 50.1 501 50.1 Spo $350 May
+
+514
+505
+$02 502
+sad l leel
+504
+502 5lo
+50.1
+sal
+502
+sal sal
+50.1 502
+50.1
+5$2
+sao
+5dl
+SQI
+5QI OM
+5QI
+500
+iao sao sao Iloo) se.o sae
+SILO
+
+4»l
+32% 13%
+21% S3% .3% 4% 2/%
+M»
+17% 3S% 2S»
+Gm
+33% 23»
+Gm
+23% 41% 2%
+22% 30% SS» 24%
+Nm
+0% 12A N» .23%
+2S»
+
+ill isle%ion included eil mobile publishe» with 5500M oi Mljusied Ievenue in ouccmmese univeue.
+
+O Source: IDG,NewZoo, AppAnnie I Pla tform revenue Bt margins are net of publisher share payout for
+digital transactions and may differ from reported margins
+I Tencent 1P Mobile revenue includes global iOS revenue per AppAnnie
+and estimated Tencent revenue from all Chinese Android app stores
+© Applied selected observed publisher margins (P2P: -13'yoF, 2P:27%) to 53SB in unobserved revenue'
+Microsoft Confidential l 30
+
+DX-5523.030
+
+Profit Breakdown: Console
+
+Analysis observes 90% of Console revenue 5 95% Qf Console profit
+
+USD Billions
+
+9 Consumer Spend +Ads ~ - Retail Margin
+
+I
+
+- Secondary Market
+
+537.6 f$4. s) f53.1)
+
+O 16 Observed
+Sany Microsoft Nintendo
+9 Tobsl Platform
+
+$1,9
+
+Sany
+
+$1.3
+
+Micrasa h
+
+Totsl 1P Pubashling
+
+EA
+
+$3,6
+
+$0,9
+
+Take Tvm
+
+$3.1
+
+$0.2
+
+Epic
+
+SPG
+
+50.6
+
+ATVf
+
+$1.9
+
+gt6
+
+Ubisaft
+
+$1,1
+
+$0,1
+
+Hsndsi Names
+
+$13)
+
+Sctusre Enis
+
+$0.6
+
+$0.1
+
+Kansmi
+
+50,3
+
+Embrscer GraupfTHC))
+
+$02
+
+SM
+
+PerfectWorld Entertainment $0.1
+
+gl.G
+
+CD Projekt
+
+gl.1
+
+gl.G
+
+PSI'edos interactive
+
+50XI
+
+gl.G
+
+Digital Bras (SGE Garnes)
+
+gM
+
+gl.0
+
+Unobserved Publishers
+
+53Xl
+
+O Tote) Publisher
+
+Nintendo
+Sa ay
+9 Micrasaft Tobsl Hsltfsrsre
+
+9 So u rce: iDG, NewZoo, PwC, SuperData
+9 25 % retail margin for software and 20% retail margin for subscriptions sold through retailers (60% ofP2P8E22%of Subscriptions).
+O S ource: t amestop financials ancl analyst commentary
+O ob s e r ved revenue calculation deducts $'i.58 of retail disc royalties from Platform revenues (to avoid double-counting)
+O P l a t form margins are net of publisher share payout for digital transactions and may differ from reported margins
+O App l i ed observed publisher margins(P2P:20%, F2P: 22%, Subs: 23%) to S38 in unobserved revenue
+
+Note:Opersti~pf t Msrgin 9)calculatedsss percentageofAdjustedNet Revenue.Overall Console segmenOpterating
+Profit Margin ~
+
+Microsoft Confidential l 31
+
+Profit Breakdown: PC Client
+
+Analysis observes 63% of PC Client revenue S. 62% of PC Client profit
+L)SD Billions
+
+Careumer Spend sAds
+9 - - Retail Margin - Secondary Market
+
+O So urce: IDG, NewZoo, PwC, SuperData
+
+rri re
+
+9 25 % retail margin for software sold through retailers (12% of P2P)
+
+6 CD Prajekt Epic
+
+O Total Platform
+
+o Tenterrt
+
+$7.2
+
+$1.2
+
+Epic
+
+SQA
+
+Micro srto
+
+CD Praekt
+
+Total 1P Publlshln
+
+Neteme
+
+$1.$
+
+Nexa n
+
+$1.7
+
+ATVI
+
+f 1.7
+
+EA
+
+$1.0
+
+L) bisoft
+
+$0.$
+
+Take Tva
+
+$0s
+
+NCSaft
+
+fQA
+
+Perferx Warld Ereertslnrnere SQA
+
+SquareEnix
+
+SUA
+
+Bendai Names
+
+SUG
+
+Embrscer Group (TrrC))
+
+$02
+
+paradox Interacbve
+
+$0.1
+
+Ses Limited (Gsrens)
+
+$0.1
+
+Netmerble
+
+$0.'I
+
+Digits I Bros(SQSGemes)
+6 Gumbo · Unobserved Publishers
+Total Pubesher
+
+SU.U
+$0.0 $1'l.B
+
+$1.0 $0.7 f 0.$ $0.2 $0.1 $0.1 $02 $0.'1 $0.1 f 0.0 $0.0 $0.0
+$0.1 SQ.Q $0r) $0.0 $4.0
+
+O Inc luded Epic's PC store under platforms captured starting in 2019
+O Pl a tform margins are net of publisher share payout for digital transactions and may differ from reported margins
+O Te n cent PC Client revenue is considered IP given their ownership of WeGame and publisher-of-record status for licensed IP (e.g. Tencent operates the PRc version of P/oyerfjr)kr)owr)'s BottfegroL)r)dh)
+O A p p lied selected observed publisher margins (P2P: 21%, F2P: 36%, Subs: 27%) to $11.88 in unobserved revenue'
+
+Note:operatingProfit Margin % calculated ss apercentage oAf djustedNetRevenue.pverak PCClient segmentoperating
+
+Pra5TMgin isBB~,n) ~m~ pub ishers inc uAde~L N~n. A ubim<N~ t l u s rEenia TakeT~, CQngfau Bendsi NarncrxNetinarble, Perfect Warld Entertainment, EmbracerGroup. Paradax)nteractive, Sea Limited.Digital Brae,,(k Gungha
+
+Microsoft Conf(dent jal I
+
+32
+
+l3X-5523.032
+
+Profit Breakdown: Browser
+Analysis observes 43% of Browser revenue 8 58% of Browser profit
+USD Billions
+
+0
+
+Consumer Spend + Ads - Retail Margin
+
+54.1
+
+- Secondary Market
+
+% Observed
+O Facebook Total Platform
+
+50%
+51.0 $9.0
+
+DeNA
+
+$03
+
+50.0
+
+15%
+
+Square Enbr
+
+50.2
+
+50.0
+
+1796
+
+Gree
+
+$0.1
+
+50.0
+
+79v
+
+Ztnga
+
+50.1
+
+1500)
+
+-3%
+
+Scientific Games
+
+$0.1
+
+50.0
+
+35%
+
+Unobsenied Pub(ishers
+
+52.4
+
+50.3
+
+f4%
+
+Toml Publisher
+
+$3.9
+
+Stta
+
+94%
+
+Commentary
+O So urce: IDG, NewZOPOw, C,SuperData
+O Pl a tform margins are net of publisher share payout for digital transactions and may differ from reported margins
+O Ap p lied observed publisher margins (FZP: 14%) to $2.4B in unobserved revenue
+
+Microsoft Confidential l 33
+DX-5523.033
+
+Profit Breakdown: Game Video
+Analysis observes 49% of Game Video revenue and 100% of Game Video profit
+
+goggle
+0 Amazon 0 Unobserved Pla rs
+Total Players
+
+$2.0
+
+($0A)
+
+$1.5
+
+$0.5
+
+26%
+
+$1.8
+
+($0.2)
+
+$1.5
+
+$0.0
+
+1%
+
+$3.9
+
+$0.7
+
+0%
+
+$7.7
+
+($ILT)
+
+$3.0
+
+$0.5
+
+7%
+
+Commentary
+0 Estimated YouTube (k Twitch net revenue per public filings and Wall Street research
+I Assumes no meaningful profit for other players in the segment; preliminary research indicates most Chinese players are running at close to breakeven
+
+lil ror tmohmrvadPrayers nm hemrmenynCrePresents eshmatertgrossPrart Perequie resesrnn givm tint ~ or + is category is tuned in china tha monahtation a hoe of fundsmeshanimmayhadigerent for thesegamevideoplayers.
+
+Microsoft Confidential l
+
+34
+
+DX-5523.034
+
+Browser: Flow of Profit by Platform and Publisher
+Browser continues to be a declining segment and exhibits the lowest segment margin overall (19%)
+USD Billions; $0.8B Browser Software & Services ("SW&S") profit
+
+$0.88
+
+$0AB
+
+$0AB
+
+Total Browser Profit
+
+Share of Segment ProSt: Segment Margin:
+
+100% 19%
+
+scot« Ptadonnrevenueand profit includessubscripuom, piatfonnsharetromdig tet storeandmanuiacturing roy>ities onphysisoidocsbut excludesiae party pubiithing(eg. xbox gamastudios>. it l inciudas 5033ofeso mateduonha«vedprose. sarmoredstarisonme mtehadoiogy usedto cateutate des un esb«ved profit see side 33.
+
+1P Bt BPPublisher Pnrlit 55% 14%
+Microsoft confidential i ss
+
+Platform Profit 45%
+
+Publishers
+D eNA $0.0 8 Others' $0 .4B
+Platforms racebook $0AB
+
+DX-5523.035
+
+Appendix 2 ~ Adjusted Revenue Reconciliation
+Microsofr Con ficicnual I 36
+
+Platform Holder Adjusted SWKS Net Rev Reconciliation (LlSI3 Billions)
+Analysisadjustsforvariousrevenuerecognition rriethociologiesancihardwarerevenueacrossplatformholders
+
+Apple Alphabet
+
+Value-Added Senrices Sprvlces
+Gaming8. Network services
+Google
+
+Nintendo
+
+All, excluding "Playing Cards"
+
+Exdudes mobile platform fees(eg. iOS) and income from associates (which co-minglesgaming8inon-gamingincome)A, ddsbackYoYchange in deferred revenu e to better align reported revenue with CY18 consumer spencl, Apple does not report iOS App Store as a separate segment Gaming
+revenueestimatedperAppAnnie, Reportedrevenueindudesonly platform share (30%) and exdudes publisher share (70%) as confirmed via public filings,ExcludesAppleArcadegiven small size. Exducleshardware(eg, Playstation 4, PSVita)andaccessories(controllers, PSVR), Alsoexdudesadvertisingfromdigital store, retail discroyaltiesand
+third-party publisher share of publidy disdosed digital transactions (i.e. 70%) to avoid double-counting, G~ le Play gaming revenue estimated per AppAnnie and includes only platform share(30%),YoTuube revenuebased onpublicSings and agocated to Gaming via Newzoo survey data, adjusted for total acquisition
+s't T , Sta la revenueetl a O ' I ' IXi I'ese r'
+Exdudes hardware (eg. Switch) and accessories. Also exdudes mobile platform fees,advertising fromdigital store, retail eliseroyaltiesandthirdpariy publisher share of estimated (per equity research) digital transactions (i.e. 70%) to avoid double-counting.
+Microsoft Confidential l 37
+
+l3X-5523.037
+
+Appendix 3 ~ Company Pfofi es
+Microsofr Con ficicnual I 38
+
+0
+
+Profile: Sony
+
+'i P Console Software
+3P Console Software
+Console Subscriptions
+Cloud Streaming'
+Console Ha f'dwe f'e
+Tetefl
+SOS Only
+
+$3,001
+
+Qperating Profit
+
+Note:Dogarsin Millions. Totals sre roundedto thenewest million and msynot de /PY convertedto I/SDat 12/2I/I g spot rate, ExcludesSQABofsdssndnon-gaming revenue(see slide Sg for mom detailbtotal GflrNSsegment reported review is O'lit/tg.
+
+n] Net of retailer rrergins,Reflects 100%ofconsumerspend in Sony digital store adjusted revenue calculadonadjusts for Yo'Y changein deferred revenueandintra value-chain payments lag.spp store economicsht2j IncludesPSNowsubscriptions as
+
+well as 'I P/Sp transactions on garnestmnsscted through Sots/s streaming service. Giventhe nascency of the segment, wehave
+
+captured streaming revenuein our analysisbutdo not believe Sonydrives material profit through streamingat thistime.
+Source Companfyilings, IDGResearch,XboxFinance, WWMP.[S] N/A: NotApplicable per footnote 2.
+
+Microsoft Confidential l 4 0
+
+I Obtain revenue R profit for the Game 8. Network segment from public financials
+O Allocate publidy disclosed Rj3tl3 and implied SS.M
+by Segment AdjustedRevenue
+
+l3X-5523.646
+
+Profile: Sony Breakdown
+lCY 2019 FlflafICIBIS BreaikCIQwfl iI$8)
+
+6arrIe Software: $10.58
+1P [st 3P Physical and Digital
+Transactions
+
+Network: $3.28"
+PS+, PSNovrr,,Advertising, Digital
+Non-gaming Sfevices
+
+Other: $1.38
+Console Accessories (controllers, PSVR)
+
+Nate:Dollarsin Bll lie nrcreparted revenue arprafn abave includes nang erning items end will not tie ta net revenue aradjusted
+
+prafit elsewherein thesematerials. SPYconverted to USDet 12/S'I/'le spat rate. [1 lIncludesSEASrevenue framedssnddigital
+
+nan-gerningservicesge. PS Vue, PSVideo, PSMusic). g] Disclosed PS+ average subscriber count for Q4 CV'lg.Perpublic
+
+disclasure PSNaw hes elteast 22M subscribers. [S[ inaudesPSVR.Source:Cornpersf filings. Publiclyavailable infonnetiars Xbos Finance,,VAVMP.
+
+Microsoft Confidential l 4 1
+
+Profile: Nintendo
+
+Segment 1P Software
+
+0 Recognized Revenue'
+f 3,821
+
+I
+A djusted Gro ss Revenue Pro f it
+
+© Operating Profit
+
+$ 3,82 1
+
+$3,5 5 9
+
+$1,865
+
+3P Software
+
+$826
+
+$665
+
+$619
+
+$324
+
+Subgcriptions
+
+$227
+
+f227
+
+$150
+
+$79
+
+Mobile
+Console/HH Hardware'
+SW835 Onl
+
+$5,926 $5,228
+
+$24 8 $5,926 $4,960
+
+$115
+
+$60 $332 $2,329
+
+Total
+
+$ 11,155
+
+$10, 8 8 6 $5,0 7 8
+
+$2,66 1
+
+Adj. Profit Margin %
+49% 49% 35% 17%
+47%
+
+Methodology:
+O Obtained revenue broken out annually by Platform and used Goldman Sachs Research mix to breakout HW/SW, 1P/3P, digital/physical sales. Blended GS and Morgan Stanley Research figures for Nintendo Switch Online
+I Obt a ined gross margin % for mobile, hardware, subscriptions from Goldman Sachs Research. Split remaining reported Gross Margin across segments proportionally by adjusted revenue
+© Split implied Opex proportionally by Gross Margin.
+
+Nota 03DNigi onai PYconverted to0 3Det13/31/19spot mto I 1INet ol retailer mergmaalso mrdudasrevenue e prost from
+
+playing cardsandIPlicensingbusinescigg1bi. NatmmnueregattaYoychangeindafened revenueand intra value chain paymenm gourcecompany gtfngs, publicly aiiailable infonnation Nsm hnanoswwmegaplvot Wag gumtmmemh
+
+Mtcrnsnff Confidential l 42
+
+DX-5523.042
+
+Profile: Google
+
+· US-based search company that owns and operates the Google Play store, YouTube, and Stadia
+· Google Play continues to be the primary driver of gaming revenue for the company with near-ubiquitous global presence
+Google recently released Stadia, a cloud streaming service, in 2019 with 2 price tiers (Basic and Pro) and a selection of 3P games, along with a 1P controller. The company is working on forming internal studios to develop and publish 1P games
+
+·
+
+·
+
+O Google Play
+I YouTube O Stadia
+
+$7,954 $1,934 $11
+
+$7,954 $1,527
+$11
+
+$2,704 $502 N/A
+
+·
+
+·
+
+.
+
+.
+
+·
+
+34% 33% N/A
+
+Methodology.
+O Play Store:Obtained gaming-related mobile store adjusted revenues from App Annie and estimated operating profit based on equity research
+I YouTube:Built bottoms up model leveraging Google financial disclosures and equity research, estimated % attributable to gaming
+I Stadia: Estimated using syndicated research on cloud streaming providers. Assumes no meaningful profit due to relative size and OPEx heavy consumption by segment
+
+sourcenoose snendal enclosures AppAnne wall street equity research syndicatedresearch ill Aeponedrevenuefor the PlopSawsI· considered net revenue io the Sdfa pladonn fee paid bp publnhws whosell throudh dw Plapeorn Voupube reported wvwrua includesCAC.
+
+Mjcfpspif Cpltfjfjdntjdj i 4 3
+
+DX-5523.043
+
+Profile: Tencent
+
+· Chinese holding company whose subsidiaries provide social networking, messaging, gaming, multimedia, mobile & PC value-added services, and advertising
+· In addition to 1P gaming titles (e.g. Honoor f Kings, League of Legends), owns substantial stakes in many international gaming companies including Supercell (-85%), Epic (48%), Hi-Rez (30%), Ubisoft (5%), and others
+· As of 12/31/1 9, Enterprise Value of -$4758 with -40% of company revenues coming from gaming
+
+Revenues
+Q si ss
+
+Gaming (Value-Added Services')
+
+·
+
+$20,264
+
+1P Software 3P Software
+
+$7,181
+
+-
+
+'
+
+·
+
+·
+
+4 ·
+
+1P Software
+0
+3P Software
+Total
+
+$4,534 $7,719 $19,484
+
+O Reported revenue per segment from public filings
+Adjust reported revenue for deferred revenue Bt platform fees where applicable
+
+I
+
+Calculate Gaming gross margin based on public disclosure of VAS profit
+
+© Allocate opex based on Gaming's share of Tencent's total reported revenue to calculate operating profit
+
+sonic ten centfinoneisisdtinvestorpressntetionr wall streetEquityResmrna,convertedet spot rateol 1a/s1/19 dgd RMS/ Uso ill Yatumnddsd savices indudesgmning amnue fmmboth 'onsomGaming' end 'social Natnorks' sub. segmentsourashmand adujstedrevenueeteludes nongaming revenuein senal Neaser ks; ios GGoodieplayplariorm fees(Stagsincomefrom associatesorminority inlmest stakes[eg.Epic.Ni RealandaddsbackYoYchanges mdefared ravanual+Sgagl.
+
+Microsoft Confidential I 44
+
+$3,808
+$2,404 $4,093 $10,805
+
+$2,323
+$1,467 $2,497 $6,287
+
+DX-5523.044
+
+Profile: Valve
+
+US game developer and digital distribution company founded in Bellevue in 1996 by two ex-Microsoft employees. About 700 employees to date, including CEO and founder Gabe Newell.
+· Owns and operates PC software distribution platform Steam, also makes consumer hardware (Steam Controller, VR)
+· Adjusted net revenues remained flat Yo Yas, an increase of 1P revenue (+10% YoY)was offset by a decrease in Steam store revenue (-10%)
+
+· DOTA 2 · Counter-Strike: Global Offensive · Team Fortress 2 · Garry's Mod · Left 4 Dead · Portal · Half-Life
+
+·
+
+·
+
+1P Publishing 3P Platform
+
+$1,279 $4,541
+
+$1,279 $1,226
+
+$403 $498
+
+·
+
+·
+
+.
+
+.
+
+·
+
+32% 41%
+
+Methodology: Reported revenue estimated using Superdata research for key 1P titles (e.g. DOTA 2, Counter-Strike: Global Offensive, Team Fortress 2) and for all Steam business
+Adjusted net revenue on 1P games and Steam storeafterplatform fees
+Estimated operating margin for 1P business based on Activision PC EBIT %, for Steam store based on iOS / GP platform EBIT%
+
+Note lleported rmrenue refleds total consumer spend; «Ijusted revenue dcdums the estinwted T3N share paid lo publishers
+from Valve's3Pdigital store Sources Superdate,Steemspf, ffl Cahuletsd ofl adjusted rmenue; emumes 1obusiness s «m hr loncuvhto 's pc businessendsteamscorch simper tomobile appstores fgl Total doesnotinduda 'droit pnm tl! freermine
+buuness, which is assumml to be immaterial
+
+Mjcfpspff cpftfjddntjgj i 4 5
+
+DX-5523.045
+
+Profile: Activision Blizzard
+
+· Holding company for subsidiaries Activision, Blizzard Entertainment, and King Digital · Key franchises include Call of Duty (Activision), Candy Crush (King), Starcraft, Warcraft, Diablo, and Overwatch (Blizzard) · 409M monthly active users in Q4 CY2019, led by King (249M), Activision (128M), and Blizzard (32M)
+
+r · ·
+
+·
+
+·
+
+.
+
+.
+
+·
+
+Console PC Mobile Gaming Total
+
+$1,920 $1,717 $2,204 $5,641
+
+$1,867 $1,662 $1,548 $5,077
+
+$588 $524 $488 $1,600
+
+Methodology. 1) O btain reported revenue and operating income by segment from Form 10-K and ATVI investor disclosures 2) A djust reported revenue to account for publicly disclosed YoY change in deferred revenue as well as estimated mobile platform fees 3) A l locate reported operating income to each segment proportional to adjusted revenue
+
+Source: Actisision discard 10 K. Il I rxcludind Othwr which rnclucha msdw network», studior, dhtdbution businesser, end
+ttcenstnd/marchsndistnb. Sot>iredonedmmnue (includind Othew) tor pc0010wacSe0 billion. Ikl AdJustedwuenue redects
+You change in delenwl mmnue and mobile phil'orm fees.
+
+Mjprpsp ff ( pp fjtfdntjdj l 4 0
+
+DX-5523.040
+
+Profile: EA
+
+· US developer, marketer, publisher and distributor among top 3 gaming companies. Owns other major gaming studios, including BioWare, Criterion Games, Tiburon, Maxis, Respawn and DICE
+· Significant contributors to revenue in CY1in9cluded FIFA 20, Star Wars Jedi: Fallen Order Bt Madden NFL 20
+· EA Access at SM+ subscribers; adopted quicker on PS4 than Xbox One
+
+~Co so ei FIFA, Madden NFL NBA Live, NHL, UFC, Battlefield, Star Wars Battlefront, Need for Speed, Titanfall
+PCEBattlefield, Mass Effect, Sim City, The Sims, FIFA
+Mobile: Star Wars Mobile, EA Sports Mobile, Sim City
+
+Re orted Revenues
+nci U
+EA Reported Revenue $5,388
+
+Ma in to Verticals
+
+ic I
+
+hhs1ssUisyssucM
+
+Console Bt Handheld
+
+$3,830
+
+PC Client
+
+$987
+
+Mobile / Tablet
+
+$545
+
+$886 $228 $126
+
+$5,362'
+
+$1,240
+
+Methodology:
+O Obtain revenue Bt changes in deferred revenue from 10-K I Revenue breakdown by Console, PC, and Mobile supplied in earnings releases. YoYchange in deferred revenue added to the top and bottom lines.
+I Allocate reported operating income to each segment proportional to adjusted revenue
+
+Sourcu EAFrnanciats. [l l Similar to EA'sreported Nat gooldnga' but ascludes S14SMofmobrla platform fees (eg. lOS.gangle Pbpl. Adjustment is intended ta better aitgn mportsd revenue uilb actual Crt 4 consumer spend.
+
+Microsoft Confidential I
+
+47
+
+DX-5523.047
+
+Profile: Epic Games
+Following a standout year in CY2018, Fortnite revenue declined by one-third; the title remained a standout performer across multiple segments · Epic acquired Psyonix and its Rocket Leogue (RL) IP in May 2019 to diversify its 1P content portfolio
+In January 2019, Epic launched the Epic Games Store on PC; given the company's public commitment to a 12% platform fee, we believe the store makes a minimal financial contribution to Epic's overall business
+
+Console PC Client
+iOS Android
+Total
+
+$4,678 $997 $510 $181 $6,365
+
+$2,885 $429 $450 $490 $4,254
+
+(38%) (579o) (12%) 171% (33%)
+
+Console PC Client
+iOS Android
+Total
+
+Souter« AppAnnia Epic Gamespre» «leam Sup«dote Research,ShouFinance.Anat@is essumcsthat Epic recopnices tdpef
+
+of sonrumer spmdas revenueanddodec« «lmunt plauonn feesasCOGSinline with other major US.Samepuhlisha«. Epic GamesStore Adjusled Revenue' reEectsEpic's 13ff platformfeeasopposml to tha rndustry standard 30th
+
+M
+
+i f C f d f i I 40
+
+$251 $251
+
+$30 $50
+
+DX-5523.048
+
+Profile: Netease
+
+Chinese technology company whose portfolio primarily consists of gaming, ecommerce, media, and education services
+· In addition to mobile and PC 1glpaming titles (e.g. Fantasy Westward Journey, Rules of Survival), Netease licenses games from Activision Blizzard for distribution in China (e.g. World of Warcraft, Hearthstone, Overwatch)
+Approximately 60% of the company's revenues are associated with gaming.Fantasy Westward Journey,its most popular title, generated nearly $800M in reported revenue on mobile platforms in CY2019
+
+·
+
+·
+
+Mobile PC
+
+$4,762 $1,905
+
+$3,302 $1,923
+
+$1,366 $1,041
+
+·
+
+·
+
+.
+
+.
+
+·
+
+41%
+
+Methodology: 1. Reported revenue from Netease financial
+filings
+2. Adjusted net revenue excludes mobile platform fees and accounts for changes in deferred revenue
+3. Allocate reported operating income to each segment
+
+Source tseteasefinanciersrainvestor presentations. WallStreetEquity ReseerctsApp Annie. Coruerted at spot rate or ta/61/t96.96RM E/USo.
+
+Microsoft Confidential I 49
+
+DX-5523.049
+
+Top CY2019Companies Ranked by Reported SWES Revenue
+
+CY20'lg Reported Revenue and Proht'; may 'double-count' due to various revenue recognition policies iIe.g. platforrri fees for digital app stares)
+
+USD BilliOnS; eXCludeS dediCated Hardware
+
+'I
+2 3 4 5 6 7 8 9 10 11 12 13
+
+i1J FXsaSasas ssf12731/2819.
+
+15 'l6
+17 18
+19 28 2'I
+22 23 26 25 26 27
+28 29 38 3'I
+32 33 34 35 36 37 38
+39 88
+Microsoft Confidential l s0
+
+l3X-5523.050
+
+Top CY2019Companies Ranked by Adjusted Net SWRS Revenue
+Adjusted Revenue figures reflect intra-value chain revenue 5 profit shares (e.g. platform fees for digital app stores, Console disc royalties)
+USD Billions; excludes dedicated Hardware
+
+Fx ratesIsof12f31/20i9
+
+Microsoft Confidential l 51
+
+Appendix 4 Additional Analysis
+Microsofr Con ficicnual I 52
+
+CY2019 Game Industry Revenue by Segment by Business Madel
+USI3 Billions; $168AB Sofhvare 5 Services ("SW8 S") only,
+
+a SUbscriptions
+
+Mobile
+
+Console
+
+PC Client
+
+f 7.7 i- $O.]
+Game Video
+
+$4. i Browser
+
+clo Lid streaming
+
+l3X-5523.053
+
+CY2019 Game Industry Profit by Segment by Business Model
+
+· Subscriptions · F2P · PZP
+
+Mobile
+(tl Assumes dousfstreerninghedno rneeningfulprofit in CY2Ã 9
+
+Console
+
+PC Client
+
+Game Video
+
+Microsoft Confidential I s4
+
+Browser
+
+l3X-5523.054
+
+CY2019 Publisher vs Platform Share of Profit
+In 2019, Publishers took rciijghly 2/3 of the gaming industry profit
+
+1P 8. 3P Publisher
+
+trhter piatfermrevenue andprefit includes subscriptlens, platform share fran digital stare, and manufacturingroyalties en physicadl iscs but excludesrrrst-party publishing (e.g. Xbes GameStudies).
+
+Microsoft Confidential I s 5
+
+l3X-5523.055
+
+CY2019 Publisher vs Platform Share of Profit by Segment
+In 2019, Publishers took rciughly 2/3 of the gaming industry profit
+USI3 Billions; SSO38 Software 8 Services ("SWM"3 profit only, excludes dedicated Hardware profit
+
+Game Video · Brovvser · PC Client a Console a Mobile
+
+To 3 Publishers in PC
+
+Tencent
+
+$2.38
+
+Netease
+
+$1.08
+
+Valve 1P
+
+$0.9B
+
+To 3l Publishers in Connie
+
+Nintendo
+
+$1.9B $1.3B
+
+EA
+
+$O.BB
+
+1P 8. 3P Publisher
+
+$1.58 $1AB $O.SB
+
+30%
+
+hhter piatformrevenue and profit includes subscriptlons, platform share fran digital store, and manufacturingroyalties on physicadl iscs but excludesrrrst-party publishing (e.g. XbosGameStudios).
+
+Microsoft Confidential I 66
+
+Platform
+
+Microsoft Nintendo Te 3 Plgitferrns in Mobile Apple Google Tencent
+
+40%
+
+l3X-5523.056
+
+Publisher Concentration by Segment
+The top 5 publishers in the Console segment capture the majority of segment revenue USD Billions; $115.2BSoftware 8 Services I"SWaiS) revenue from publishers anlv, excludes $42.58 fram paltfomrs,,f7,78afgarnevideo,$0,38ofcloudstreaming,
+
+Mobile
+
+Console · Publisher (top 5) mi Publisher (remainder)
+Microsoft Confidential l 57
+l3X-5523.057
+
+CY2019Adjusted SW8tS Revenue Rank by Company
+Tencent generated more adjusted gaming revenue than EA,,Activision Blizzard, anci Nintenclo cornbineci in CY2N9
+USD Billions; $106.2B Software Bt Services ("SW8sS") revenue only,,excludes $S6.BB unobserved revenue' and dedicated Hardvvare profit
+
+$54$5.2$s.] gS OSso $33
+
+$'2S$2A$2] f) B
+
+B~ ~~~~~5
+
+·
+
+I
+
+a
+
+a
+
+a
+
+i
+
+a
+
+a~
+
+m~ ~
+
+a~
+
+~
+
+~
+
+~
+
+o ~
+
+B ~
+
+4o ~
+
+BsoB
+
+~
+
+~
+
+~ ~
+
+lo
+
+~ ~
+
+~
+
+7$o
+
+~ ~
+
+~ ~
+
+~
+
+7~ ~ S~~o~6~g~~o~~5~~~~~~~
+
+~~~~~
+
+~~~~
+
+~~~~~
+
+~~~~
+
+~~~B~~~2
+
+~~~2 ~~~2
+
+lii Ansbeis observes -d7% of SwrSSrevenue Esdrneted unobserved revenueis rebuleted on e per-segment basis. Revenuefiguresabavesreadjusted far deremedrevenue 8, pletrann feesend will not tie to reported revenue Seeslides 39-34 far mare detail on methodology usedta aslculete unobserved prafib
+
+Microsoft Confidential l 58
+
+l3X-5523.058
+
+CY2019 Adjusted SW8tS Profit Rank by Company
+
+The top 7comapnies
+
+considered in this sample set account for roughly half of profit in the garne industry
+
+USD Billions; $36.6B Software fit Services ('SWBrS'3 profit only, excludes $13.7B unobserved profit' and dedicated Hardware profit
+
+$2AS,2B
+$1.6 $1.2 ~1*6$6.9 $6,9 $66 6S
+· aaae
+
+6B 62 S62~6 *2~62 $62$6-2$61$,61$61 f611 ~ ~~~~~~6 ~~~6 ~~~6 ~~~6 ~~~6 ~~~6 ~~~~~~~I
+
+l > lAnslrsisobserves>70%of SWSSprofit Estimatedunobserved profit is osculated an e per-segmenbtasis,
+profit figures abaveareadjusted for dei'erred revenue itr unelloteted corporate apexend will nattie to reported
+progt See slides30-34 ror moredetsil anmethodology usedto aslsulste unobservedprofit
+
+Microsoft Confidential l sg
+
+l3X-5523.059
+
+CY2019 Adjusted SW8tS Revenue vs. Profit Margin by Company g of 2)
+
+Ten largest oompanies (ranked by adjusted SW8 S revenue) reported an average profit margin of~
+Reported Reventie and Profit Ivlargins excltide dedicated Hardware
+
+6W
+
+e 5W
+®
+
+4M i QN
+
+,'·
+
+e
+
+3M ~· I®
+
+2W i a e
+
+1W I g ~%·
+oss r -- ·
+t
+-'i Q%
+
+$5.Q
+
+Is2Q.Q
+
+[1 l CV2N9 Adjusted isevenue and p rolit; figures above are adjusted tor defamed revenue 8 unegoosted corporate open and will not tie ta reported profit,
+
+Microsoft Confidential l 60
+
+l3X-5523.666
+
+CY2019Adjusted SWRSRevenuevs.Profit Margin by Company (2 of 2)
+
+Ten largest companies franked by adjusted SW8tSrevenue) account for -80% of observed adjusted profit
+Reported Revenue and Profit Margins exclude dedicated Hardware
+
+60%
+
+Doubleu
+
+· Supercell
+
+Com2US
+IGG ~ Gungho ~SeaLimited (Garena) · e'
+NCsoft ~ · Scientific Games
+
+· Nexon
+
+· Valve
+
+30%
+
+p c I t ui
+
+K
+
+Facebook
+
+· -- CD Projekt
+
+CyberAgent
+
+Embracer (THQ)
+
+20%
+
+Mixi
+
+[ T ri;;,,ie,,.
+
+r c.iw acj u" " ci'
+
+~ · Square Enix
+
+10%
+
+~ G ree -- DeNA
+
+· Ubisoft
+
+Ban daf Namco · Take Two
+
+Rovio ~
+
+Glu
+
+0%
+
+$0.5
+
+$1.0
+
+$2.5
+
+$3.0
+
+-10%
+
+· Epic Games $3.5
+
+ili cvaolp Rdjucled Rouwueaud pter fisurec a»cueareedjucted for defeued avenue a uualloceted corporate opec aud will uot tie 1» reporttd profit
+
+Microsoft Confidential l 61
+
+DX-5523.061
+
+Appendix 5 ~ App Stejre Profit
+Microsofc Conficicnual I 62
+
+iOS and Google PlayGaming P8L
+Excludes any in-game and in-store advertising revenue on Mobile / Tablet platform(s)
+
+O G r o ss Gaming Revenue (User PDL 8t IAP) I Pub l isher Share of Digital Transactions
+Net Revenue
+© 0 crating Marin (%) Operating Income (EBIT)
+
+$38.6 ($27.0) $11.6 45% $6.2
+
+·
+
+·
+
+·
+
+$26.5
+
+($18.6)
+
+34%
+
+Methodology / Assumptions
+O AppAnnie adjusted gaming revenue grossed up. Excludes any in-store advertising revenue (captured in total segment mobile advertising revenue)
+I Assumes70is of consumer spend is paid out to game publishers
+I Operating Margin assumption based on Morgan Stanley bottoms-up methodology
+
+Microsoft Confidential i 63
+DX-5523.063
+
+Appendix 6 ~ Conso e Generation 8 Retrospective
+Microsofr Con ficicnual I 6a
+
+Platform Holder CY2015-CY2019 Gaming Profit Trend
+
+Nintendo has grown profit -9X since CY201S with the successful launch of the Switch
+Indexed Total Gaming Profit Iincluding hardware subsidies), CV2015=1.0x
+
+S ony
+
+Nint e n d o
+
+Micro s o ft
+
+CY20'l5
+
+CY20'l6
+
+CY20'l7 Microsoft Confidential l 65
+
+CY20'IB
+
+CY2019
+
+l3X-5523.065
+
+Top 5 Console Publishers:CY2014-CY2019RevenueTrend
+Of the top 5 CY2019console publishers, only TakeTwo (+12%CAGR)hasgrown revenue faster than the overall Console segment (+9% CAGR)
+Adjusted SW8 S Console Revenue,USD Billions · Activision Bliuard · Electronic Arts · Take Two · u bisoft · Epic Games $1 0.9
+$2.0 $7.8
+isni ~
+ttn
+· sn
+
+CY14
+Nota Comole »venuefiguresereedjustedlordelemsdrevenueendyorintro velue-cl»in paymentsend» II not t» to opoltod »venue dltcloturr
+
+(4%)
+Microsoft Confidential i 66
+
+CY19
+
+DX-5523.066
+
+Top 5 Console Publishers: CY2014-CY20'l9 Console Revenue Share (%)
+Only Activision Blizzard and Ubisoft have been able to materially reduce their console exposure since CY2014
+Adjusted SW8 S Console Revenue Share (66)
+
+· ·
+Activision Blizzard Electronic Arts Take Two Ubisoft Epic Games
+
+I '
+
+·
+
+· -'
+
+.
+
+55%
+
+71o/
+
+79%
+
+86%
+
+N/A
+
+I ' ·
+
+'
+
+·
+
+-
+
+·
+
+·
+
+37%
+
+71%
+
+76/
+
+64%
+
+62%
+
+(18%) 0%
+(3%) (22%)
+N/A
+
+Nota console rwwnue tsarebasedonadjusted twonoestsliwandwill not ti · to retrorssd revenuediedosura
+
+Microsoft Confidential i 67
+
+DX-5523.067
+
+

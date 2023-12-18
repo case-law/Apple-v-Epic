@@ -1,0 +1,131 @@
+From:
+
+Carson Oliver
+
+To:
+
+Adrian Ong
+
+CC:
+
+BCC:
+
+Subject:
+
+Re: Follow up
+
+Attachments
+
+Sent:
+
+01/26/2019 05:09:08 AM 0000 (GMT)
+
+Hey Adrian,
+
+Agree with you that we should find another time to talk next week. Are you free at 3pm PT on Tuesday or 12:30pm PT on Wednesday?
+
+Carson
+
+On Jan 24, 2019, at 1:42 PM, Adrian Ong
+
+wrote:
+
+Hey Carson
+We' ve got a call scheduled on Tuesday at noon with Michael and Tom but not sure that's the best audience for a rev share discussion.
+
+Also just to prep you for Tuesday, I' ve got two new issues that have been brought to my attention:
+
+1. Tinder app being rejected for asking users who signed up using Facebook for phone numbers (this is the new primary auth method): an appeal (that contains our reasoning) has been submitted 2 weeks ago but the Tinder team has not heard back
+2. We launched a new app called Ablo that allows users around the world to talk to other users in any language. It was rejected for 2 reasons: i) Asking for phone number and email on sign up ii) Asking for gender cannot be required (I believe bc default search results were not gender specific - however there's an option to filter by gender ... which won't work if we don't have gender)
+
+Let me know if we should setup a separate time to discuss the rev share topic. I'm actually quite open on Tuesday so we can do it anytime before or after our 12pm meeting.
+
+Thanks -AO
+
+On Jan 24, 2019, at 3:30 PM, Carson Oliver
+
+wrote:
+
+Hi Adrian,
+Nice to hear from you. I'm traveling this week but we should find time to talk about this topic early next week.
+Please let me know what times work best for you. Thanks, Carson
+
+On Jan 24, 2019, at 10:41 AM, Adrian Ong
+
+wrote:
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0864.1 APL-APPSTORE 06147190
+
+Hi Carson,
+I'd like to pick up on the below thread I had opened up with Sheree -- specifically on rev share.
+In thelastcouple ofweeks, ithascome to my a en on that Ne lxiand Apple had an agreed upon rev share deal at 15'Yo (but obviously they' re no longer using in-app billing for new customers -- an interes ng approach that more of us are pondering for our strongest brands). Can you confirm if this is true? The main point and why we feel strongly about discussing rev share is that we' re driving almost 100'Yo of the revenue growth for you and that we' re episodic and therefore never truly benefit from the 15'Yo terms for subscribers ) 1 year (vs companies like Ne lix that were probably achieving roughly an 18'Yo rev share assuming the 30'Yo based on avg customer reten on).
+I think this would also go a long way to alleviate the revenue impact from the rate card issue and make it less of an issueforour execu ve team.
+Thanks -AO
+
+From: Adrian Ong Sent: Thursday, June 7, 2018 6:11 PM To: Subject: Follow up
+
+Hi Sheree Pleasure to meet you and the team in Cuper no and my team looks forward to working with you all.
+
+I wanted to follow up on several topics that we touched on during our mee ng / dinner:
+
+IAP reconcilia on
+
+o We need toensure we have awayto reconcilethe transac ons we see our end and payments you make to us
+
+o As discussed, our figures from Apple for just our Tinder business can be off as much as -$1M at any me during the year which is a concern
+o According to Erin, this is brought up frequently by other partners
+
+o Can we iden fynext steps and dates to ensure we are seeing trac on on this? FYIWe do not have this issue on Android
+
+Rev share
+
+o As discussed over dinner and per our presence on, we drove~
+
+in rev s hare revenue for Apple,
+
+up
+
+and we expect to con nue our solid growth
+
+g Apple drove minimal new discovery~ ourapps~
+
+whil e the majority were users organically looking for
+
+$ Our new product features such as Tinder Gold drove subscriber growth resul ng in the app
+
+shoo ng upthetop grossing charts to ¹1outside ofgames lastyear g Therefore, while we understand the value of the pla orm historically, we are the ones driving
+
+the YoYgrowth and incrementalvalue add -notApple (i.e.thisw asn'tfrom increased phone
+
+sales or features you offered) while your pla orm reaps the benefit. This feels somewhat one-sided.
+
+o Da ng asa category isepisodic
+
+$ The averagesubscriberstays only4-5 months
+
+$ As atop grossing partner,we never are ableto takeadvantage ofthe 15'Yorev share since the
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0864.2 APL-APPSTORE 06147191
+
+intentof our apps isto actually have people meet and leave our apps g Other top grossing partners such as our colleagues at Ne lix have an average subscriber length
+of 43 months, which means their average rev share works out to be approximately 18'Yomuch closer to the 15'Yo than the 30'Yo commissions we pay o Channel op miza on $ Historically, Tinder grew up as an app first business and never had their own payment system. Therefore,they had no choice but to u lize IAPon both IOS and Android. Late lastyear, Tinderlaunched an interna onal web product and itsown payment system. g None of the Match Group brands u lize IAP on Android except for Tinder- however this is likely to change g Therefore looking forward at channels, user acquisi on and conversion -Apple becomes the only businessthat charges 30'Yoand the leasta rac ve since 30'YoROI justto break-even isa
+highhurdletocross(e itherfrom a conversion and/orreten on perspec ve) rela ve to our
+other pla orm op ons. In the spirit of a true and effec ve partnership, we should be u lizing your pla orm and driving growth based purely on its effec veness- rather than because we haveto and/or looking atother channels due toyour legacy rules around the 30'Yo and ROI impact. All of this would lead to more app downloads and growth. g Being in the payments space for a very long me, we also know that the 30'Yo rate is arbitrary sincei)we know thatother categories are not forced to use IAP and ii)the costofaccep ng payments is only (2-5Yo o I don't know if you' ve already discussed the above with Ma per our discussion at dinner, but I'd like to get the dialogue going about poten ally modifying our rev share given that we' re a top grossing partner and especially because of the episodic nature of our business. I'd like to propose that the da ng category and/or other similar episodic categories are either a) included in the exclusion list (since our subscribers are with us for such a short period of me + this may be easier since an exclusion list already exists for physical goods, etc) or b) we define a separate category for da ng that isable to take advantage ofthe 15'Yoimmediately due to the short term and episodic nature ofour businesses 2-factor Authen ca on (new topic) o DoesApple havea solu onfor2-factorauthen ca o n f o r i t sapps? We' re lookingatintroducingthis func onality for several of our brands. o I spoke to an old colleague who now works at Hilton and they informed me about Business Chat via Messages. Isitpossibleand/or do some apps use Business Chat for 2FA ordoyou have an alterna ve solu on? The other op on is obviously to engage a third party like a Nexmo or Twilio.
+I look forward to collabora ng with you and the team on this partnership and these are the large cket items on the top of my mind right now. As I men oned during our mee ng, we could have an extremely beneficial rela onship where we share best prac ces and work together to drive growth for both our businesses. I believe we can provide a lot of value given that we' ve been running subscrip on / recurring / auto-renewal businesses for longer than almost any digitagloods+ servicesbusiness out there today and so whether it'saround payment/conversion op miza on to reten on toauto-renewal best prac ces,we can assist.
+Look forward to hearing from you and I propose we get something on the calendar to touch base at least once a month.
+Best, -AO
+Adrian Ong SVP, Opera ons match group
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0864.3 APL-APPSTORE 06147192
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0864.4 APL-APPSTORE 06147193
+
+

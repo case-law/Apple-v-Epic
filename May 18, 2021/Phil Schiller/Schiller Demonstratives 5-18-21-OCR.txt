@@ -1,0 +1,163 @@
+Alegat
+
+Malt'claus
+
+Unforeseen
+
+LIfYlltBtl orl S7
+
+Privacy
+
+StBvB Jobs SDK 2008 (DX-4287)
+
+Apple Develops a Plan
+
+nohjeet: Re: Yahoo eddeet> Front t "Philip Sehiger"
+tteeeiedtpaten hton.3Ifan3008 la:aat09-0800 To: "SeanForetell"
+Irate: Moa. 31 fan3008 18:aaid9-0800
+
+PLAINTIFF ·:a>e>Orant>Voa.
+Eja Oo>> rr
+sa.aw
+er
+
+We spoke about this last week and I shll think it is a homble idea.
+
+There are many APls out there for apps. By the same logic why not let Sun have Java on the iPhone? Why not Adobe's Air? Why not Micrceoft's Stiverlight? Why not Oualcomm's Brew? eic etc
+
+Wtth one API (ours} we can manage what is on our products and what is noL If we open it up then we don't sign all apps, we don't distribute all apps. etc. Which is the same as lhrowing out the whole plan we have in place.
+Anti in the grand scheme of APIs we could cheese to supporl beyond our own. if we ever did support another (which I don't recommend}. Yahoo's Widget API is not even close to the most important one we would pick. some of the ones I listed above (like Flash} are way more imporlantr valuable to us.
+Besides, we have a way to do Widgels that competes with theirs. so who cares? This sounds like a relationship issue not worth constdedng.
+
+On Jan 21. 2008, at 5:33 PM. Scott Foretell wrote:
+> Marco wants to meet wgh you and me to talk about why we should > allow Yahoo to build their widget engine on the iPhone.
+> They Needy want to push their widget API as0 cross-platform way > to build widgets. While I would prefer developers to use web > standards like HTML and AJAX. or go native if Ihey want more,, I'm > nol sure we shouldn't take the high ground and let them build it and > compete.
+
+> Thoughts?
+
+> -S.
+
+CONFtpeteTtaL
+
+Exbib(t PX 882
+PXd}aa? I
+
+Subject: Re: Yahoo widgets
+From: "Plilip Schiller"
+Receive(1(Bate) i Moo, 21 Jau 2008 18:44:49 -0800 To: "Scott Forstall"
+Bate: Mo o, 21 Jao 2008 18:44:49 -0800
+
+We spoke about this last week and I still think it is a horrible idea.
+
+There are many AP
+
+Sun have Java on t SilverlightV Why no
+
+whole
+
+plan
+
+we
+
+have
+
+in
+
+place
+
+With one API (ours) we can ma not. If we open it up then we don't sign all a all a s, etc. Which is the same as throwing out the whole plan we have in place
+
+Besides, we have a way to do Widgets that competes with theirs, so who cal es?
+PX-o882
+
+Innovations & Investments
+2007: Accelerometer 2010: Gyroscope 2010: Retina Display 2014: Taptic Engine 2016: Stereo Speakers 2017: Neural Engine 2020: LiDAR
+2008: 3G 2012: 4G LTE 2020: 5G
+
+LiDAR - 2020
+g Cancel
+
+magicplan
+Developer: Sensopia
+
+Innovations & Investments
+
+2010: A4 Chip
+2011: A5 Chip
+2012: A6 Chip
+2013: A7 Chip
+2014: A8 Chip
+lh
+CL
+2015: A9 Chip 0
+2016: A10 "Fusion" Chip
+2017: A11 "Bionic" Chip
+2018: A12 Chip
+2019: A13 Chip
+2020: A14 Chip
+
+First Apple-designed chip
+Upgraded graphics, better processing power
+Upgraded graphics, longer battery life First 64-bit chip, supported upgraded OpenGL Support for Metal, better frame rates 90% faster than A8 P-cores and E-cores, upgraded graphics, longer battery life Multiple cores, neural engine, in-house GPU, secure enclave First 7-nanometer chip, 50% faster GPU 40% less power, faster graphics optimized for Metal Performance and battery improvements, enhanced machine-learning
+
+Innovations & Investments
+
+SDK
+SDK
+
+I
+Core Motion 2010
+
+0®
+·~ O
+Sprite Kit 2013
+
+ReplayKit 2015
+
+ARKit 2017
+
+Core ML 2017
+
+Metal 2014
+RealityKit 2019
+
+O
+0 +
+GameplayKit 2015
+I I
+Reality Composer 2019
+
+Metal - 2014
+DX-3462
+
+Epic Zen Garden
+Developer: Epic Games
+
+ARKit - 2017
+
+e,
+iC
+
+X
+
+·
+
+·
+
+0
+
+Animal Safari AR
+Developer: LightUp
+
+Core ML - 2Q17
+
+la.
+iaag
+I %!IF
+
+la.-
+
+Home Court
+Developer: NEX Team Inc.
+
+

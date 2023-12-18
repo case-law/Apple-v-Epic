@@ -1,0 +1,281 @@
+4/16/2021
+
+ZERODIUM - How to Sell Your Oday Exploit to ZERODIUM
+
+in
+
+· l Li ~ (httpr:rrzerosiom.com)
+Home (https://zerodium.corn) F o r Researchers ~ (https://zerodium.corn/program. html)
+
+United States DistrictCourt
+NorthernDistrictofCalifornia
+
+Case No. 4!20-cv-05640-YGR ('asc Title E Ie Garrres, iree. n-4ppk', Iree.'
+
+Exhibit No Dx-ss61
+
+Date Etttcrcd
+
+Sesea Y. Soosg, Clerk
+
+By:
+
+. Depue Clerk
+
+For Clients ~ (https://zerodium.corn/solutions. html) Ca r e ers ~ (https://zerodium.corn/careers. html)
+
+About Us ~ (https://zerodium.corn/about. html)
+
+Our Exploit Acquisition Program
+
+You are here: Home (https://zerodium.corn)» Program
+
+Program Overview
+ZERODIUM is the world's leading exploit acquisition platform for premium zero-days and advanced cybersecurity capabilities. We pay BIG bounties to security researchers to acquire their original and previously unreported zero-day research. While the majority of existing bug bounty programs accept almost any kind of vulnerabilities and PoCs but pay very low rewards,at ZERODIUM we focus on high-risk vulnerabilities with fully functional exploits and we pay the highest rewards (up to $2,500,000 per submission).
+Eligible Research
+
+https://zerodium.corn/program. html
+
+1/8
+
+DX-5561.001
+
+4/16/2021
+
+ZERODIUM - How to Sell Your Oday Exploit to ZERODIUM
+
+ZERODIUM is currently acquiring zero-day exploits and innovative security research related to the following products:
+O' Operating Systems Remote code execution or local privilege escalation, or VM escape:
+- Microsoft Windows - Linux / BSD - Apple macOS - VMware ESXi
+
+O' Web Browsers
+Remote codeexecution,orsandbox bypass/escape,or both:
+- Google Chrome -MicrosoftEdge - Mozilla Firefox - Apple Safari
+
+O' Clients / Files
+Remote code execution or sensitive information disclosure:
+- MS Office (Word/Excel) - MS Outlook/ Mail App - Mozilla Thunderbird - Archivers (7-Zip/WinRAR/Ta r)
+
+O' Mobiles I Smartphones
+Remote code execution, or privilege escalation, or any other exploit type:
+- Apple iOS - Apple watchOS - Android - Windows Mobile
+
+https://zerodium.corn/program. html
+
+2/8
+
+DX-5561.002
+
+4/16/2021
+
+ZERODIUM - How to Sell Your Oday Exploit to ZERODIUM
+
+O' Web Servers Remote code execution or sensitive information disclosure:
+- Apache HTTP Server - Microsoft I IS Server - nginx web server - PHP /ASP
+-OpenSSL /mod ssl
+O' Email Servers Remote code execution or sensitive information disclosure:
+- MS Exchange - Dovecot - Postfix - Exim - Sendmail
+O' WebApps I Panels Remote code execution, or SQL injection, or information disclosure:
+- cPanel / Plesk/ Webmin - WordPress /Joomla / Drupal - vBulletin / MyBB / phpBB - IPS Suite / IP.Board - Roundcube / Horde
+O' Research I Techniques Any other security research, exploits, or techniques related to:
+- WiFi / Baseband RCE - Routers / loT RCE - AntiVirus RCE/LPE - Tor De-anonymization - Mitigations Bypass
+
+https://zerodium.corn/program. html
+
+3/8
+
+DX-5561.003
+
+4/16/2021
+
+ZERODIUM - How to Sell Your Oday Exploit to ZERODIUM
+
+O' Eligible Mobile Brands Apple, Google, Samsung, LG, Huawei, OPPO, Sony, HTC, Xiaomi, and BlackBerry.
+O' Eligible Linux/BSD Distributions CentOS, Red Hat Enterprise Linux, Fedora, Ubuntu, Debian, Tails, NetBSD, OpenBSD, and FreeBSD.
+O' Eligible Router Brands MikroTik, ASUS, Ubiquiti, Cisco, D-Link, Huawei, Linksys,, Netgear, and TP-Link.
+NOTE:If you have zero-day exploits for other products or systems not listed above, feel free to submit (https://submit.zerodium.corn) minimal details and we will be glad to discuss the opportunity.
+
+ZERODIUM Payouts
+ZERODIUM payouts for eligible zero-day exploits range from $2,500 to $2,500,000 per submission. The amounts paid by ZERODIUM to researchers to acquire their original zero-day exploits depend on the popularity and security level of the affected software/system, as w ell a s t h e q u ality o f t h e s u bmitted exploit (full o r p a r tial chain, supported versions/systems/architectures, reliability, bypassed exploit mitigations, default vs. non-default components, process continuation, etc). For more information, please read our ~FA (faq.html).
+The payout ranges listed below are provided for information only and are intended for fully functional/reliable exploits meeting ZERODIUM's highest requirements. ZERODIUM may pay even higher rewards for exceptional exploits and research.
+
+https://zerodium.corn/program. html
+
+4/8
+
+DX-5561.004
+
+4/16/2021
+Up to 91',990,00 9
+Up to 9590,00 9
+Up to $259,966
+Up to 9296,669
+Up to 9190,000
+
+ZERODIUM - How to Sell Your Oday Exploit to ZERODIUM
+
+ZEROI3IUM Payouts for l3esktops/Servers*
+
+~ W indows
+~ m acOS ~ L l nux/BSD ~ Any GS
+
+R C E: RermCootdee Execution
+LPE: L ocal Privilege Escalation S BX: Sandbox Escape or Bypass VI E:V i r tual Machine Escape
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Up to $56.969
+
+Up to
+
+·
+
+·
+
+$1i0,900
+
+·
+
+·
+
+' A// p eyeutssre suh/ect kachange ar cenceihationwithout notice.A// trademarks are the praperty of their respechire a wners.
+
+s · 2019/Qt @zerodlum.corn
+
+https://zerodium.corn/program. html
+
+5/8
+
+DX-5561.005
+
+4/16/2021
+Up to $2,,666/IIGQ
+Up to $2,066AtGQ
+Up to gi+00,00 9
+Up to 91',000,00 Q
+
+ZERODIUM - How to Sell Your Odey Exploit to ZERODIUM
+
+ZEROI3IUM Payouts for Mobiles*
+
+FCP: Full Chain with Persistence RCE: RemoteCode Execution LPE: Local Privilege Escalation SBX: Sandbox Escape or Bypass
+
+~ iO S ~ A n droid ~ An y OS
+
+·
+
+·
+
+Up to
+
+@.96,669
+
++ · ·
+
+Up to
+
+·
+
+·
+
+-
+
+Q190,000
+
+·
+
+·
+
+.
+
+'A/t peyoutsera subject ta change creance//etion tarthout notice. Air tredarner/rs era the property of their respective arrnare.
+
+2019/OS CI zerodiurn. corn
+
+Submission Process
+
+ZERODIUM reviews and validates all submissions within one week or less. Payments are made in one or multiple installments by bank transfer or cryptocurrencies (e.g. Bitcoin, Monero, Zcash). The first payment is sent within one week or less.
+For inquiries and/or exploit submissions, pleasecontact us (https://submit.zerodium.corn).
+
+https://zerodium.corn/program.html
+
+6/8
+
+DX-5561.006
+
+4/16/2021
+
+ZERODIUM - How to Sell Your Oday Exploit to ZERODIUM
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+I ·
+
+·
+
+·
+
+·
+
+ZERODIUM
+
+SUBMISSION
+
+PROC E88
+
+' · I
+
+$ ·
+·
+
+154%+
+
+·e e
+
+I'
+
+Oc zerocit Um.con
+
+Copyright i ZERODIUM (https://zerodium.corn) Home (https://zerodium.corn) S o l utions (https://zerodium.corn/solutions. html) Program (https://zerodium.corn/program. html) F A Q (https://zerodium.corn/faq.html) S u b mit (https://submit.zerodium.corn) Careers (https://zerodium.corn/careers. html) E v ents (https://zerodium.corn/events. html) Contact (https://zerodium.corn/contact. html) A b out Us (https://zerodium.corn/about. html)
+
+https://zerodium.corn/program. html
+
+7/8
+
+DX-5561.007
+
+4/16/2021
+
+ZERODIUM - How to Sell Your Oday Exploit to ZERODIUM
+
+https://zerodium.corn/program. html
+
+8/8
+
+DX-5561.008
+
+

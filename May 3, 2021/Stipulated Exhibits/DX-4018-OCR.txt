@@ -1,0 +1,1812 @@
+Unitrst States District Court
+
+ol
+
+Northern District ofCslifomis
+
+Case No. 4:20-ev-0564DYGR
+
+Case Title E isGarrroaIac. u.ri Is, Iae
+
+Exhibit No. DX-4018
+
+Date Entered
+
+Sluro Y. Sosllc, Clsrk
+
+aa
+
+DsosryOlsrk
+
+Project Liberty Update
+May 13, 2020
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX4018.001
+
+EPIC 04040095
+
+Project Liberty Update
+Plan of Record
+· Pla y e rs will have the option to useEpic Direct Payment to purchase V-Bucks at a discounted rate (-20%) versus Apple and Google payment options.
+· Pay m e nt on console (PlayStation, Xbox, Switch) and Samsung Pay devices would be at thesame discounted rate used by Epic.
+Development Update
+· Tot a l remaining development time is two calendar weeks. Ul design 90% complete and not a limiter. · Due t o Fortnite season launch and company vacation planning, however, expected go-live date isJune 29.
+Legal Update
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 002
+
+EPIC 04040996
+
+Speaker Notes for Slide 2
+REDACTED FOR PRIVILEGE
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 003
+
+EPIC 04040997
+
+Communications Scenarios - Hotfix Update
+
+Phase t-a
+
+Reaction
+
+Proposed Messaging
+
+· I
+
+· Sentiment will be largely positive.
+· P layers and press will highlight 20%savings.
+· Sentiment will be negative in certain regions where Epic Direct Payment is unavailable.
+
+· L ean intoplayer savings as the primary benefit and secondarily payment choice.
+· Ne ed to avoid exposing ourselves thoypocrisy comments with regard to our position on Epic Games Store exclusives.
+· Mu st be clear that console savings araeutomaacally appliedto all players.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· Sen timent will bepositive to neutralas long as players can continue to play on their devices.
+· Pre ss will beginspeculatingaround the potential legal battle that looms.
+
+· Em phasize that Epic Direct Payment offers playergsreater savings and choice in how Fortnite content is purchased.
+· As we enter a public legal battle, state that we believe Apple/Google do not have thleegal right to deny players these savings.
+
+· F ree players(55% oniOS)will react negativelyto being blocked from the game (no benefit).
+· P aid players(45% oniOS)may understand the benefit to thebattle (20% savings), but will also be blocked from playing something they love, creating mixed sentiment.
+
+· Em phasize that savings from the new payment system would have gondeirect to the playerbut Google and Apple have blocked this.
+· I f we are entering a protracted batae,we will enter into a Paragon situation:need to offer refunds for all Apple/Google users as they can no longer play the game.
+
+Full proposed blog messaging can be foundhere.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.004
+
+EPIC 04040998
+
+Slide 4
+
+Where in the doc should we show that about 75% of mobile players have cross platformed played on a non-mobile devices? Note we don't know they did this at a friend's house. Reassigned to Matt Weissinger
+rd Zobrist,3/13/2020
+
+Maybe
+players?
+Matt Weissinger, 5/13/2020
+
+can pull together a quick slide that outlines play patterns on mobile among paid, free, and cross-play
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX-4018.005
+
+EPIC 04040999
+
+Speaker Notes for Slide 3
+· Co u ld be seen as a capricious chanqe
+· REDACTED FOR PRIVILEGE
+L
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 006
+
+EPIC 04041000
+
+Press and Player Narratives if the Game is Blocked
+n this scenario, players on Apple/Google are blocked from the app. Examples ofpro-Epicmessaging will be:
+· Ep ic Fights for the Players and DevelopersE:pic's battle against store monopolies means greater savings for players via Epic Direct Payment and greater rewards for developers with the Epic Games Store.
+· Th e App Store, Google Play and Steam are Anti-Consumer MonopoliesE:pic has proven that a better model exists that removes the middle man and creates a more fair ecosystem for players and developers.
+· Sa ving Money is GoodE:pic's actions have a clear player benefit. Google and Apple's stance does not.
+Examples ofanti-Epicmessaging will be:
+· Ep ic Thinks they are SpecialP:layers and gaming press will point out that Epic thinks the rules should not apply to us. Does E ic reall think the 're s ecial?
+· Ep ic is GreedyS:ome players will think that Epic only seeks to profit off of Epic Direct Payment. Why else would we be implementinga new payment system? Wh does E icneed more mone ~
+· Pl ayers are Pawns in Epic's BattlesA:ny new negative consequences for players (e.g. no longer able to play, or additional friction in their experience) will be seen as Epic's fault for pushing this cause and they were given no choice in the matter.
+· Ap ple/Google Own the Platform":We welcome any developer that recognizes the value of Google Play and expect them to participate underthe same termsas otherdevelopers."(Google's December 2019 response to press)
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.007
+
+EPIC 04041001
+
+Slide 6
+Example of tiny edits I made here and prior slide. mostly to tweak up the danger level. JLcsigned to Nick Chester
+td Zobtist 5/13/2020
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX-4018.008
+
+EPIC 04041002
+
+Speaker Notes for Slide 4
+Nick C
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 009
+
+EPIC 04041003
+
+Alternative Scenario Summary
+
+Outcome
+
+Legal POV
+
+Marketing POV
+
+· ·
+
+· ·
+
+·
+
+·
+
+· Fo rtnite removed from App Store+ GP. · Re venue damage from price-reduction
+across all otherplatforms (apx 20%}
+· I R EDACTEDFOR PRIVILEGE l
+
+· Mixed sentiment between paid (some benefit) and free (no benefit) players.
+· If players are blocked from the game for any time, they will require compensation.
+· Potential for "Paragon Scenario" where Epic is forced to issue refunds due to protracted downtime.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· For tnite continues with current approach to pricing.
+· For tnite issues statement to press with screenshot of multiple payment choices.
+
+; REDACTED FOR PRIVILEGE :,'
+
+· Avoiding the scenario of the app being blocked is a major positive advantage.
+· Helps win the sentiment battle for "Epic
+Fights for Players and Developers". · Allows the press to write the monopoly
+story on their own.
+
+! REDACTED FOR PRIVILEOE: REDACTED FOR PRIVILEGE I
+
+· Potentially decreased player counts could hurt our leverage vs faster scenarios.
+· Avoids potential negative sentiment during elevated Fortnite play rates.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.010
+
+EPIC 04041004
+
+Speaker Notes for Slide 5
+Nate A
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 01 1
+
+EPIC 04041005
+
+2020 Fo)tnite Revenue
+Latest projection is $2.5bn Net compared to original Board-approved plan of $2.2bn iOS and Google Play are projected to account for 6.5% of net revenue in 2020 and 6.8% ($114M) for June-Dec. Console I PC net losses expected to range from $125M-$200M for 2020, $21 OM-$350M annualized Total net losses expected to range from $190M to $272M (2020), or $322M-$465M annualized (12.9%-1 8.6% ongoing)
+
+2020 Fortnite Baseline Revenue (Updated Projections and Plan)
+
+-20% Price Discount Cases
+
+Plafform
+
+Jan-May 2020
+
+Jun-Dec 2020
+
+2020 Total
+
+Purchase Frequency
+
+2020 Plan
+
+Projected ~ % of Total
+
+iOS I GP
+
+iOS I GP rev transfer
+
++5% Shut down
+30%
+
+10% Shut down
+30%
+
+PS4 Xbox One
+Switch PC
+Android iOS
+Google Total
+
+$440.2M $246.3M $152.2M $124.7M $10.7M $63.7M $0.3M $ 1.038 B
+
+$595.0M $1035.2M $903.1M 41.3%
+
+$353.8M $600.1M $530.4M 24.0%
+
+$226.6M $378.8M $339.4M 15 . 1%
+
+$184.2M $308.9M $286.0M 12 . 3%
+
+$7.2M $17.9M
+
+0.7'/o
+
+$82.6M $146.2M $125.9M 5.8%
+
+$16.8M $ 17.1M $1 0.8M 0.7 %
+
+$1A 66 B $ 2 .504B $ 2 .210B 10 0.04/o
+
+Latest
+
+2020
+
+P rojections Pla n
+
+2020 Impact Annualized (12mo)
+Ongoing %
+
+-$76.0M -$45.2M -$28.9M -$21.9M -$0.9M -$82.6M -$16.8M 4272.2M 4464.9M -1 8.6% Base w/o iOS+ GP
+
+-$51.9M -$30.&M -$1 9.8M -$21.9M -$0.9M -$82.6M -$1 6.8M 4224.6M 4383.6M
+-1 5.34/a High case wlo
+iOS+ GP
+
++5% Stay live
+-$89.0M -$52.9M -$33.9M -$27.5M -$1.1M $12.7M $2.6M 4189.0M 4322.8M -12 9% Base wl iOS+ GP
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.012
+
+EPIC 04041006
+
+Speaker Notes for Slide 6
+Projections assume gross GP revenue has a 3x relative increase from current levels Purchase Frequency- (i.e., elasticity). How does purchase frequency change in response to a 20% discount? 100% elasticity (-24% purchase frequency increase) needed to fully counteract price reduction. We currently observe fairly low price-elasticity iOS / GP transfer- this refers to the among of iOS and Google Play gross revenue that would transfer onto other platforms, if iOS and GP were shut down. This is based on analysis that -44% of iOS and GP revenue in April came from cross-players, and that a majority of this would move to other platforms.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 01 3
+
+EPIC 04041007
+
+APPENDIX
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 014
+
+EPIC 04041008
+
+Case Study: Google Play Sentiment
+
+Incident
+
+Sentiment
+
+Sample Reactions
+
+Fortnite will Bypass Google Play for Android
+(8/3/18)
+
+· Sp ike Trap Sentimen4t:4/100 lMIXEol
+· He avy debate on whether or not Epic can be successful on Android without the support of the Play Store.
+
+· Th e Ver<L".e..:the announcement marks a bold departure from the widespread industry practice of using mobile operating system makers like Apple and Google for app distribution."
+· A nti-Epic This is literally the worst possible solution, forcing customers to allow installation of APKs from unknown sources."
+· P ro-Epic:"Wait, so you think that one of the biggest games in history, at the height of its popularity. and
+ed' likely the single most anticipated Android game launch, will be a flop because it isn't on Google Pl
+
+Google Denies Fortnite an Exemption to 30% policy (12/9/19)
+Fortnite Releases on Google Play (4/21/20)
+
+· Sp ike Trap Sentiment: 9/1 00 lNEGATIVEl
+· Hi gh negativity and cynicism directed towards Epic.
+· Sp ike Trap Sentiment: 50/1 0[0MIXEol · Mi xed sentiment that Epic "gave up
+begrudgingly in their fight against Google. · Fu ll sentiment report here.
+
+· T~he Ver e: "Epic and Google are in a standoff over Fortnite" · An ti-Epic: "So basically Epic discovered the cost/benefit of requiring Android users to sideload their
+game wasn't working out as planned versus having it in the store, but they still don't want to play by the same rules that everyone else has to." · P ro-Epic:"Epic doesn't get to bully every company they want into giving them more money. I'm all for them having their own store. Go for it! But beyond that, meh."
+· Th e Verrle: "Epic says it's doing so because Google puts third-party software at a disadvantage by warning users of potential security issues..."
+· A nti-Epic Tve been on Epic's side in this little tiff, but to brush off security measures designed to prevent people from installing any old malicious APK they get from Totally-Legit-Cracked-APKs-1 23.cc so flippantly is extremely irresponsible."
+· P ro-Epic:"Epic giving up after 18 months tell me less about Google's anti-competitive practices and more about how difficult it is to build an ecosystem.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.01 5
+
+EPIC 04041009
+
+Speaker Notes for Slide 8
+· Co u ld be seen as a capricious change
+· ! REDACTED FOR PRIVILEGE .
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 016
+
+EPIC 04041010
+
+Current Plan of Record I Potential Outcomes
+
+Mobile Platform Reaction
+Console P[afform Reaction
+Player Price Elasticity
+
+Player Experience
+
+Public Relations
+Strategic implications for Epic
+
+I
+
+·
+
+Best Case
+Google Play and iOS allow all apps to bring in their own payment solution with no fee Reduce their own plafform fees to 12%
+Significant Forinite growthonmobile
+Playstation, XBox etc have neutral economics but greater frequency of spend Driving increased active users onto their plafform
+100% price elasticity Playersincrease spending frequencyas new "low payersenterthefunneland existing payers spend more
+Love the cheaper v-bucks Plays more than ever
+· Po sitive press about Epic breaking down another walled garden and monopoly
+Break monopolies/stop unfair practices Google Play and iOS allow all apps to bring in their own payment solution with no fee Epic Game Store to expand onto mobile digital storefront
+· + 5% Impact $733mm 2020 EBITDA
+
+Middle Case
+· No reaction from Google Play and IOS · Al l mobile payments move to Epic
+payments
+· Re duction in plafform free revenue · So ny and MSFT question Epic's long term
+intention with differentiated pricing
+· Pa rtial player price elasticity · Demand incraesesby25% ofpricedrop
+
+Worst Case
+· Go ogle Play and iOS remove Fortnite
+-20%reduction in platform fee revenue
+·
+· St rained relationship given revenue impact · Qu estion of Epic's long term intention with
+differentiated pricing
+· No player price elasticity (i.e. revenue) drops -20% across the board)
+· In ability to raise V-Buck paces in the future
+
+· Co nfusing interface · Ch oice in payments and pricing discounts
+
+· In ability to play on mobile
+
+· No reaction from Apple and Google · Pl ayer complaints on confusing interface
+-$148mmof EBITDA impact with [2.5)
+·
+years of cash on balance sheet · Ne ed to disclose to current and potential
+investors limiting ability to raise capital
+-24ts impact: $533mm 2020 EBITDA
+·
+
+· Ap ple and Google crushes Epic with their PR machine and hurting player sentiment
+· -$326mmof EBITDA impact with [2l years of cash on balance sheet
+· Li mited ability to do more M&A · Li miting ability to raise capital · Po tential for multi-year legal battle
+-53ts impact: $375mm 2020 EBITDA
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-401 0.017
+
+EPIC 04041011
+
+We Do Not Have Full Price Elasticity in Fortnite
+Today
+
+To get a sense of price-elasticity in the current FN economy, we can examine purchase-likelihood among players with varying V-Buck balances compared to the cost of a given outfit in the Shop.
+What happens when the difference between players' VB balance and an outfit's price moves to within 1000 VB? (i.e., the out-of-pocket cost lowers from $24.99 to $9 99)
+Conversion increases 30-35%, on a 60% reduction in out-of-pocket costs.
+(i.e., conversion does not shift up to the same magnitude that cost goes down).
+We expect, at best, a similar effect (i.e., only partial elasticity) on the proposed 1820yo price reduction of VB SKUs.
+
+Tranailion from $24.99 to SS.99ol4-of-pooka't coat
+
+512 Outfit Conversion by Balance-Price Delta
+
+Balance-Price Delta IDroup) sufficient Silence -100 .200 .300 -400
+$9.99or4crfpockat
+600 -700 .$00 900 -1MO -1100
+
+1300 .1400 .1500 .160O -1700 .1$00 .1900 .2000
+
+$24.99outerfPocket
+
+$ 00
+
+PCICC
+12M 15DD
+
+20D O
+
+·
+
+'
+
+.
+
+D ip!i 0 7 5 % 1 17 % 0 64 i
+
+D 42% 0 35 % 05 9 % 03 5 % 0 33% 0 3M o 055 % 0 29%i
+
+0.32% 0.2 9%i 0 .5 3CC 0 . 2 5.r
+
+0.32ii 0.2 9 % 04. e 022a i
+
+0.30ti 0 29ei 0.44% 0 22%
+
+0 33% 0 27 .c 0.4 0 ii 0 .2 0%r
+
+0 46% 0 2SC' 0 4 3 t i 0 19 t i
+
+0 25% O 44c4 O Zokr
+
+0 26% 0 . 44 % 0 1 9 % 020% 0 . 33% 0 . 14%
+
+0 26% 0 29% 0 13%t
+
+0 27% 0 1 3% 0.29%i 0 1 3%
+
+0.40% 0, 13 7 0.13ti
+
+0.127
+
+0 12%r 0 13%
+
+0 19%
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.018
+
+EPIC 04041012
+
+2020 EBITDA (Latest Fortnite Projections)
+
+$700mm re-forecasted EBITDA down to $375mm EBITDA (no price elasticity) implies -$6bn of forgone enterprise value
+
+Assumes no change in Fortnite Forecast (Fortnite holds at $2.2bn net) $ in millions
+
+Revised FN to $2.5bn net
+
+Project Liberty Impact
+
+2020
+
+Tfu/ SSITDAMunlore
+
+i lrllrr
+
+5Sar l55SI
+
+Srxa
+
+5roi
+
+68ITDA 5.7x 1 0 .0x 15 .0 5 19 . 35
+
+$200 S1,140 $2,000 S3,000 $3,860 We are
+
+curmnsy $350 St,ms 53.500 $5.250 Ss.TSS aakin0 for a
+
+Srra
+
+5555
+
+19x $2,850 55,000 S7.5co 59,650 mulDplaon
+
+2020
+
+$3,705 $6,500 $9,750 511,545 EBITOAto
+
+hold flat to
+
+54,5N SS.DDDS12.0CD 515.440 our 2018 valuation
+
+S95D $5.415 59.500 S14.250 $28.335
+
+15514I
+2876mm EBITDA assuming 0%
+price elasticity and kicked off mobile platforms
+
+$1,1N $6,270 $11,000 S16,5CD $21,230 51.250 57,125 522$N 518,750 524.125 $1,4M S7,9SD $14,000 S21,000 S27,D20
+
+$1,550 SS.NS 515,500 523,250 S29.915
+
+$1.7N 59.690 $17.000 $25,5M 532.810
+
+51,850 S10,545 $18,,500 $27,750 $35,705
+
+52,2N 512,540 2 ,000S33,000 $42,460
+
+202DEBITDA +Hosting & +
+
++ Net
+
+board
+
+playe r Hou separty EGS
+
+approved plan su pport UA
+
+impact
+
++O pex
+
+Other
+
+2020aanDA ' (assuming no change in FN)
+
+~ e " F N2020 EBITDA E+N0@56NPitric&e + 2556Price
+
+EBITDA impact
+
+(assuming M~~ l rt f Etsstlfsty& revised FN) MMobb.ille Stay in Mobile
+
+2p0o20t uEabnrDtA
+
+52,4M 513.6SD 524,0N 536,0DD $56,320
+In2 015w, e were priced 5.7x EBITDA multiple
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-401 S.019
+
+EPIC 04041013
+
+Speaker Notes for Slide l'l
+Dara
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 020
+
+EPIC 04041014
+
+2020 EBITDA (Fortnite 2020 Plan)
+$454mm EBITDA down to $130mm EBITDA (no price elasticity) implies -$6bn of valuation at risk
+
+Assumes no change in Fortnite Forecast (Fortnite holds at $2.2bn for 2020)
+
+Project Liberty Impact
+
+S in millions
+
+15551
+
+ISSS)
+
+IS551
+
+55
+
+ISSSI
+
+2020 EBITDA + Hosting & board pla yer support
+approved plan cos ts
+
++
+
+Houseparly UA costs
+
++
+
+Het EGS im pact
+
++ Ooex Other
+
+2020
+
+TEV/EDITCA Multiple
+
+$130mm EBITDA assuming 0% price elasticity and kicked out of mobile
+
+ESITOA $200 $350
+$650
+
+S.fx 1 0 .05 15 .0x 19 Sx We are $1,140 52,000 $ 3.000 $3,$60 currently
+asking for a $1.995 $3,500 55.250 56,755 1gx muiEple
+on 2020
+$2,$50 55,000 $ 7,500 $9,650 EBITDA to hold flat to
+$3,705 $6,500 S9,750 $12,545 our2018 valuation
+54.5N 5 $,000 $12.00D$15,440
+
+$950 55.415 59,500 $14,2$0 51$,335
+
+51,100 $6,270 $11,00D 516,500 521,230
+
+$1,250 sr,us su,soo s1$.7so s24,us
+
+$1,400 $7.9$0 514.000 $21,000 527.020
+
+(5555I
+
+$1,550 $S,$35 $15,5N $23,250 529,915 $1,70D 59,690 517.0N 525,500 532,$10
+
+$1,$50 510,545 $1$,50D $27,750 535,705
+
+2020 EBITDA
+(ass uming nopoked change in PN) Mobile
+
+$2,200 512,540 522,000 $33,000 542,450 2020 EBITDA Stayin Mobile Post Liberty S2 4N 513,6N 524,00D 536,0N $46,320
+In 201 8, we were priced at a 5.7x EBITDA multiple
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.021
+
+EPIC 04041015
+
+Speaker Notes for Slide 12
+Dara
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 022
+
+EPIC 04041016
+
+Revenue Implications of Price-changes
+Impact on Net Revenue will be determined mainly by:
+Purchase frequency changes o i. e ., elasticity -- responsiveness of demand to lower price o Pu r chase frequency increase of -20% (complete elasticity) required to offset losses
+IOS and Google scenarios (stability, growth, or shutdown)
+
+· Complete nonelasticity
+
+Partial elasticity
+
+Complete elasticity
+
+2020 Net Revenue
+(Price-change on sll platforms, stsrhng June 2020)
+
+iOS+ GP
+Scenarios
+(If)that happens to these platforms sitar pricechanges?)
+
+No iosl GP
+
+$2.0908 +I
+
+Current Projections +$2.1948 ·
+
+iOS+50%
+
+$2.2378
+
+Google Play 10x
+
+$2.2358
+
+ios+ 50% and GP 10x $2.2788
+
+p $2 .1458 $2.2 5 48 $2.3006 $2.2988 $2.3438
+
+Cunent 2020Projection Net:
+
+Purchase Frepuency Change
+
+(Hovr oiten an: players spending money?)
+
+1P
+
+$2.2018
+
+$2.2568
+
+$ 2.311 8
+
+$2.3158 $2.3636
+
+$2.3768 $2.4266
+
+82'4378 i
+$ 2.489 8
+
+$2.3616
+
+$2.4248
+
+$ 2.487 8
+
+$2.4086
+
+$2.4738
+
+$2.539 8
+
+$2.5 04B
+
+2020Plan Net:
+
+20% $2.3 67 8
+82'4988 J
+$2.5 52 8
+
+25% $2.4 2 28 82'5598 $2.6 1 58
+
+$2.5 49 8
+
+$2.6 128
+
+$2. 6048 Q $2.6698,
+
+$2.208B
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.023
+
+EPIC 04041017
+
+Speaker Notes for Slide 13
+Nate A
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 024
+
+EPIC 04041018
+
+Revenue Implications of Price-changes
+
+While we lack a perfect proxy for assessing price-elasbcily in response to a permanent price-change, wallet-sensibvity analysis suggests that purchase-frequency would not increase at a magnitude that ofhets discounts.
+
+Assuming current trends for iOS and GP continue, a purchase-frequency increase of 5-1 0/o would produce 2020 revenue losses of: o O n goinlgosses:8.7% -12.9% o An nual losses (at current run-rate): $220M-$320M o 20 20 losses: $1 30M-$190M
+
+A purchase-frequency increase of 10% represents -50% priceelasticity (against 18-20% price reducbon). This is the expected upper bound of purchase-frequency increase, with 5'/o being a base case.
+Additional viewsin appendix (annualized, % impact, etc.)
+
+Expected bounds of priceelasticity for 20% discount
+
+2020 Net Revenue
+(Pdce-change on all platforms, stanyng June2020)
+
+iOS+ GP
+Scenarios
+(trt/hat happens to these
+
+No iosl GP Current Projections
+ios +50%
+
+platforms after pnce-
+
+Google Play 10x
+
+changes?)
+
+iOS + 50% and GP 10x
+
+-5ok $ 2.090 B $ 2.194 B $2.237B ; $ 2.235 B $ 2.278 B
+
+0% $2.1 45B $2.2 54B $2. 300B $2.2 98B $2.3 43B
+
+Current 2020 Projection Net:
+
+Purchase Frequency Change
+
+(How olten are players spending money?)
+
+5% $2.201 B
+
+10%
+
+15%
+
+$2.256B : $2.311B
+
+$2.315B
+
+$2.376B : $2. 437B
+
+$2.363B
+
+$2.426B . : $2 .4896 g
+
+$2.361 B
+
+$2.424B : $2.4876
+
+$2.408B
+
+$2.473B : $2. 5396
+
+$2.5046
+
+2020Plan Net:
+
+20ok
+
+25%
+
+$2.367B , $2.422B
+
+$ 2.498 6
+
+$2.5 596
+
+$ 2.552 B
+
+$2.6 15B
+
+$ 2.549 6
+
+$2.6 12B
+
+$ 2.604 B
+
+$2.6 69B
+
+$2.266B
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.025
+
+EPIC 04041019
+
+Speaker Notes for Slide 14
+Nate A
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 026
+
+EPIC 04041020
+
+Revenue Implications of Price-changes
+
+While we lack a perfect proxy for assessing price-elasbcily in response to a permanent price-change, wallet-sensibvity analysis suggests that purchase-frequency would not increase at a magnitude that ofhets discounts.
+
+Assuming current trends for iOS and GP continue, a purchase-frequency increase of 5-1 0/o would produce 2020 revenue losses of: o O n goinlgosses:8.7% -12.9% o An nual losses (at current run-rate): $220M-$320M o 20 20 losses: $1 30M-$190M
+
+A purchase-frequency increase of 10% represents -50% priceelasticity (against 18-20% price reducbon). This is the expected upper bound of purchase-frequency increase, with 5'/0 being a base
+case.
+
+Expected bounds of priceeiasticiiy for 20% discount
+
+Ongoing Net Revenue vs Baseline (%)
+
+iOS+ GP
+Scenarios
+
+No iOS / GP Current Projections
+ios +50% Google Play 10x
+Both
+
+-5'Yo
+
+p
+
+283 % l 24 5%
+
+- 21.2% : -17. 0 %
+
+-18.2% : -13.9%
+
+-18.4% ,: -14.1%
+
+-15 4% ' -11 0%
+
+Purchase Frequency Change
+
+5% 20. 7% -12.9% -g.6 -g.8 -6.5%
+
+1P 16.9% '. -8.7% -5.3% -5 2.1%
+
+-13.2% -4.6'Yo -1 0'/o -1.2'Yo 2 4%
+
+20% -9.4 -p.4 3.3% 3.1% 6 8%
+
+25%
+3.7%
+7.4 11.3%
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.027
+
+EPIC 04041021
+
+Speaker Notes for Slide 15
+Nate A
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 028
+
+EPIC 04041022
+
+Revenue Implications of Price-changes
+
+While we lack a perfect proxy for assessing price-elasbcily in response to a permanent price-change, wallet-sensisvity analysis suggests that purchase-frequency would not increase at a magnitude that ofhets discounts.
+
+Assuming current trends for iOS and GP continue, a purchase-frequency increase of 5-1 0/o would produce 2020 revenue losses of: o O n goinlgosses:8.7% -12.9% o An nual losses (at current run-rate): $220M-$320M o 20 20 losses: $1 30M-$190M
+
+A purchase-frequency increase of 10% represents -50% priceelasticity (against 18-20% price reducbon). This is the expected upper bound of purchase-frequency increase, with 5'/0 being a base
+case.
+
+Expected bounds of priceelasticity for 20% discount
+
+2020 Net Revenue (Delta from Proj.)
+(Pricewhange on all platforms, starting June 2020)
+
+iOS+ GP
+Scenarios
+
+No iOS/GP Current Projections
+tQS +50% Google Play 10x
+ios+50/o and GP 10x
+
+-$414.4M ~, -$310.6M ' -$267.5M :. - $269.6M : -$226.5M
+
+0% -$359.1M -$249.8M -$204.4M -$206.7M -$161.3M
+
+Cunent 2020 Projection Net:
+
+Purchase Frequency Change
+
+-$303.7M -$189.0M -$141.3M -$143.7M -$96.0M
+$2.504B
+
+10
+
+15%
+
+20%
+
+-$248.4M -$193.0M -$137.7M
+
+- $128.2M ; -$78.3M
+
+-$67.4M i - $6.5M
+
+- $15.2 M
+
+$47. 9 M
+
+-$80.7M . : -$17.7M
+
+$45. 2 M
+
+-$30.8M : $34 . 5 M
+
+$99. 7 M
+
+2020 Plan Net:
+
+$2.206B
+
+25% -$82.3M $54. 3 M $111 .0M $108 .2M $164 . 9M
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.029
+
+EPIC 04041023
+
+Speaker Notes for Slide 16
+Nate A
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 030
+
+EPIC 04041024
+
+Revenue Implications of Price-changes
+
+While we lack a perfect proxy for assessing price-elasbcily in response to a permanent price-change, wallet-sensisvity analysis suggests that purchase-frequency would not increase at a magnitude that ofhets discounts.
+
+Assuming current trends for iOS and GP continue, a purchase-frequency increase of 5-1 0/o would produce 2020 revenue losses of: o O n goinlgosses:8.7% -12.9% o An nual losses (at current run-rate): $220M-$320M o 20 20 losses: $1 30M-$190M
+
+A purchase-frequency increase of 10% represents -50% priceelasticity (against 18-20% price reducbon). This is the expected upper bound of purchase-frequency increase, with 5'/0 being a base
+case.
+
+Expectedbounds of priceelasticity for 20% discount
+
+Annualized Revenue Impact
+(Net delta at $2.5B run-rate)
+
+iOS+ GP
+Scenarios
+
+No iOS/GP Current Projections
+iQS +50% Google Play 10x iOS+50% and GP 10x
+
+-5% -$707.9M ~, -$530.6M '
+
+0% -$613.3M -$426.7M
+
+-$456.9M :. -$349.2M - $460.6M : -$353.0M
+
+-$386.9M -$275.5M
+
+Cunent 2020 Pioj ectfon Net:
+
+Purchase Frequency Change
+
+5%
+
+10'Yo '
+
+15%
+
+-$518.8M -$322.8M
+
+-$424.2M . : -$329.7M - $218.9M ; -$115.1M
+
+-$241.4M -$245.4M
+
+- $133.7M : -$25.9M - $137.9M : -$30.3M
+
+-$164.0M
+
+-$52.6M : $58 . 9 M
+
+$2.504B
+
+2020 Plan Net:
+
+20'Yo -$235.1M - $11.2M $81. 8 M $77. 3 M $170 .3 M
+$2.208B
+
+25% -$140.6M $92. 7 M $189 .6M $184 . 8M $281 .7~
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.031
+
+EPIC 04041025
+
+Speaker Notes for Slide 17
+Nate A
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 032
+
+EPIC 04041026
+
+Revenue Implications of Price-changes
+
+While we lack a perfect proxy for assessing price-elasbcily in response to a permanent price-change, wallet-sensisvity analysis suggests that purchase-frequency would not increase at a magnitude that ofhets discounts.
+
+Assuming current trends for iOS and GP continue, a purchase-frequency increase of 5-1 0/o would produce 2020 revenue losses of: o O n goinlgosses:8.7% -12.9% o An nual losses (at current run-rate): $220M-$320M o 20 20 losses: $1 30M-$190M
+
+A purchase-frequency increase of 10% represents -50% priceelasticity (against 18-20% price reducbon). This is the expected upper bound of purchase-frequency increase, with 5'/0 being a base
+case.
+
+Expected bounds of priceelasticity for 20% discount
+
+Annualized Revenue Impact
+(Net total vs $2.5B run-rate)
+
+IOS+ GP
+Scenarios
+
+N oiOS / G P Current Projections
+iQS +50% Google Play 10x iOS+50% and GP 10x
+
+-5%
+
+0%
+
+$1.7968 ~ $1.9748 '
+$2.0478 : $2.0448 : $2.1178 :.
+
+$1. 8918 $2.0788 $2. 1558 $2.1518 $2.2298
+
+Cunent 2020 Pro)cotton Net:
+
+Purchase Frequency Change
+
+5% $1.9858 $2.181 8 $2.2638 $2.2598 $2.3408
+$2.504B
+
+1 0% : 15'Y o
+
+$2.0806 ; $2 . 175 8
+
+$2.2856 ;
+$2.3718 .
+$2.3666 :
+$2.4528 '
+
+$2 . 389 8 $2 .4788i $2 . 474 8 $ 2.563 8
+
+2020 Plan Net:
+
+20% $2 .2 69 8 $2 .4 93 8
+$2. 5868 $2 .5 82 8 $2 .6 75 8
+$2.208B
+
+25% $2.3 6 46 $2.5 9 76
+$2. 6948 $2.6 8 96 $2.7 868
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.033
+
+EPIC 04041027
+
+Speaker Notes for Slide 18
+Nate A
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 034
+
+EPIC 04041028
+
+Proposed Pricing Structure
+
+1,000 V-Bucks 2, 8 00 V-Bucks 5, 0 00 V-Bucks 13, 500 V-Bucks
+
+1st Party Pricing
+
+$9 99
+
+Epic Pricing on Mobile/PC $7.99
+
+%Epic Discount
+
+20%
+
+Net Revenue on First Party $6.99
+
+Implied Net Revenue'
+
+$7.03
+
+$24.99
+$19.99
+20% $17.49 $17.59
+
+$39.99 $32.99
+18% $27.99
+$29.03
+
+$99 99 $81.99
+18%
+$69.99
+$72.15
+
+' Implied Net revenue erfuivalent to charging a 12% platform fee on Epic at cunent mobile pncing *Assume pricing discount applies to mobileand PC
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.035
+
+EPIC 04041029
+
+Speaker Notes for Slide 19
+Nate A, Dave N., Brian C Redo the analysis based on the intent to pass payment-processing savings on to consumers. The savingsis roughly 18%.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 036
+
+EPIC 04041030
+
+UX FLOW
+
+IHNCKS + Qh gg ~ Q pa ~ qCI
+
+V-BllCKS
+
+12k RDRUI
+
+26SSUDRUR
+
+UOS UDRU'I
+
+gs 2OO
+
+11000 V-BUCKS
+
+2,800 V-BUCKS
+
+Rsg ls p less@how . Docsuhtsmsyls
+
+00 KS
+
+13s500 V-BUCKS
+
+Regular pri s ap ar on the RMTscreen.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.038
+
+EPIC 04041032
+
+tats Bdllva
+2s800 VmBUCIls
+
+How do you want to payP
+Q C a PAY Gangle Play
+0 Q Epi c direct payment
+
+D ecr payment methods ece e a spec att scount
+
+$24.99
+Regula p Ice
+919.99
+0 scount appl ed
+CONTINUE
+
+· No thi n g s e l e cted by default. "Epic direct payment" is not vvritten in title case.
+·
+· Stack ing order puts Epic at the bottom.
+
+·
+
+·
+
+Speaker Notes for Slide 22
+Specific platform first Then google Epic last
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 040
+
+EPIC 04041034
+
+2,800 II-SUCKS
+
+How do you want to payP
+QO GspAY Gangle Play Q Q Epic direcptayment
+
+D cct sarment e t hacls ece e a sacs a · let'a
+
+QR
+$24.99
+Regular price
+819.99
+Discs nt appl ec
+CONTINUE
+
+Google Play is selected.
+
+·
+
+·
+
+2,800 V-SUCKS
+
+How do you want to payP
+P Q pa y Gangle Play
+
+QO Q
+
+Epic d irect payment
+
+D rcr payment methorls ece e a spec a · let'0
+
+C] Rememt orselection you can airways change this later
+
+Qg
+$24.99
+Regula price
+819.99 Discount appuad
+CONTINUE
+
+"Remember selection" checkboxis available for the Epic direct payment option (not marked by default).
+
+·
+
+·
+
+· e ' e.
+
+~ V+UCKS + g A g ' Pe ~ O ,
+
+V-BllCNS
+
+le BONUS
+
+OI 2 0 0
+
+1,000 V" 8 UCKS
+
+2P800 V-BUCKS
+
+5,000 V-BUCKS
+
+13,500 V-BUCKS
+
+Ois o tad prt *s stow is E pi O l taot Pay a t
+
+V-Bucks screen shows discounted prices after the player has opted to use
+Epic and marked the checkbook.
+
+·
+
+·
+
+2,800 V-SUCKS
+D ectpat e t methodt ceca e a opec o' rl ace let
+
+How do you want to payP
+Qo mt Sams u n g
+P g p a v GooglePlay
+O g Epic direct payment
+
+S19.99
+Dlacooot applied
+S24.99
+Rat 16 P k e
+819.99
+Disco t ap plied
+CONTINUE
+
+An example including Samsung, placed at the t op of the stacking order.
+
+·
+
+·
+
+' vaucxs
+
+rue
+
+epoee
+
+A 0
+
+·
+
+·
+
+· ·
+
+I
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-401 S.043
+
+EPIC 04041039
+
+Speaker Notes for Slide 27
+How to make players aware that they are getting the discounted price?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 046
+
+EPIC 04041040
+
+. ' a.aaaaa
+
+o-
+
+o 4$8.88
+
+Sarah'
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.047
+
+EPIC 04041041
+
+Speaker Notes for Slide 28
+How to make players aware that they are getting the discounted price?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 048
+
+EPIC 04041042
+
+·
+
+·
+
+4
+9
+
+0
+l 999.
+
+Itow do yoo want to pay?
+Q EaPay GOOgla Play Qa Q Epic Oi act pay 9 t
+
+$5 99 g
+99.99 oa
+
+Qx·
+
+3 CO NTINUE
+
+RMT off e thati ncludes multiplei tems.
+
+Strike Team Leads 8 Discussion on Next Steps
+· O v e rall Program Management: Ed Z · Legal:Gena F/Kayla P · St r ategy/ FinanceR: andy G / Dara L / Nate A · C o m municationMs:att W · D e velopmenPt:hil B (Jeremy A producing) · 1 s t PartyN:ate N
+· Pa r tnershipsN:ate N with Thomas K (Samsung)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 050
+
+EPIC 04041044
+
+Speaker Notes for Slide 30
+EcI Z
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 051
+
+EPIC 04041045
+
+Currency Support - Current Market
+
+North America LATAM
+
+USD, CAD
+BRL MXN (Mexico), ARS (Argentina), COP (Columbia), CRC (Costa Rica), PEN (Peru), UYU (Uruguay), CLP(chile) BOB (Bolivia), PYG (Paraguay)
+
+Europe, Russia / Central Asia
+
+EUR, GBP, SEK, DKK, NOK, PLN, RUB, UAH CHF (Swiss) BG N (Bulgaria), CZK (Czech), HUF (Hungary), RON (Romania), RSD (Serbia), HRK (Croatia)
+
+Asia Pacific Afdca & Middle East
+
+AUD, JPY, KRW CNY(china), HKD (Hongkong), IDR (Indonesia), INR (India), MYR (Malaysia), NZD (New Zealand), PHP (Philippine), SGD (Singapore), THB (Thailand), TWD (Taiwan), VND (Vietnam) BDT (Bangladesh), LKR (Sri Lanka), MMK (Myanmar), MOP (Macau)
+TRY SAR (Saudi Arabia), AED(united Arab Emirates), ZAR (South Africa), ILS (Israel), KWD (Kuwait), KZT (Kazakhstan), QAR (Qatar) KZT (Kazakhstan), PKR (Pakistan), EGP (Egypt), MAD (Morocco), GEL (Georgia), JOD (Jordan), IQD (Iraq), LBP (Lebanon), DZD (Algeria), KES (Kenya), TZS (Tanzania), GHS (Ghana), NGN (Nigeria),
+
+Black ones are supported by Epic Games (15 currencies)
+Blue ones are additional currenciesSteamsupports (39 currencies)
+Green ones are additional cunencies~Goo ie Storesuppose (62cunenciesj
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.052
+
+EPIC 04041046
+
+Slide 50
+~s i gned to Thomas Ko
+Ed Zobrist, S/10r'2020
+
+REDACTED FOR PRIVILEGE
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX-4018.053
+
+EPIC 04041047
+
+Communications Scenario: Game Blocked
+In this scenario, players on Apple/Google will be blocked from accessing the app. Sentiment will trendnegative towards Epic.As players are no longer able to access Fortnite on their preferred platform, Epic will be seen as the instigator of a series of events that led to the title being blocked. Examples of anti-Epic messaging will be:
+· Ep ic thinks they are SpecialP: layers and gaming press will point out that Epic thinks the rules should not apply to us. Does E ic reall thinkthe 'res ecial?
+· Ep ic is GreedyS:ome players will think that Epic only seeks to profit off of Epic Direct Payment. Why else would we be implementinga new payment system? Wh does E icneed more mone ?
+· Ap ple/Google Own the Platform":We welcome any developer that recognizes the value of Google Play and expect them to participate underthe same terms as other developers." (Google's December 2019 response to press)
+How We Combat this Sentiment
+· Emp hasize that savings from the new payment system are goindgirect to the player. · Pro vide a compellingfree incentive to all playersas an Epic "thank you" due to the downtime (free Battle Pass?). · Thi s is a step removed from the more directed nuclear alternativea:ccepting refundsfor all Apple/Google users. · Foc u s attention on the fact that we think Apple/Googlelegally do not have the rightto deny players these savings.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.054
+
+EPIC 0404104S
+
+Speaker Notes for Slide 32
+Nick C
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 055
+
+EPIC 04041049
+
+Communications Scenario: Launch
+Expected Community Reaction at Launch:
+Sentiment will belargely positiveamong the community at launch, as nearly all players will have a path to discounted prices. In regions where Epic Pay is unavailable, the community response will be negative. Smaller communities (r/fuckepic) will remain cynical, but will not have ammo to fight.
+Expected Press Reaction at Launch:
+Press headlines will lead with theupto20%savings,with more technical outlets highlighting the obvious payment
+conflicts with Apple and Google. Initial articles will paint a picture of an impending battle between Epic and
+Apple/Google regarding payment policies.
+Proposed Epic Communications:
+Our initial comm's will lean intoplayer savingsfirst, with a secondary highlight on paymentchoiceasbeing proconsumer. Leaning into choice too heavily, though, will expose us tohypocrisycomments with regard to our position on EpicGames Storeexclusives.Proposed announce blogcopycanbefound here.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.056
+
+EPIC 04041050
+
+Speaker Notes for Slide 33
+Nick C
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 057
+
+EPIC 04041051
+
+Communications Scenario: Updates Blocked
+In this scenario, all players can still access their content and friends on their preferred platform of choice.Overall
+sentiment will be positive to neutral until a build update arrives that would split the community, with two core messaging
+camps arisingamong coregarners:
+· Pr o-EpicT:his group supports Epic's payment position as being pro-consumer, as they benefit directly from the passed-on savings. Nobody is denied access yet, and (almost) everyone is receiving the savings benefit.
+· An ti-EpicT:his group is skeptical of Epic's position. They will begin to push the perspective that Epic is not the "little guy," that they should play by the same rules as everyone else, and that they are greedy.
+Proposed Epic Communications:
+Emphasize that Epic Direct Payment offersplayers greater savingsandchoice in how Fortnite content is purchased, and that we believe Apple/Googledonothavethelegal right to deny players these savings. Proposed messaging here.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.058
+
+EPIC 04041052
+
+Speaker Notes for Slide 34
+Nick C
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 059
+
+EPIC 04041053
+
+Partner Update
+Affected Partners
+· Sa m s ung is the only current mobile partner with its own storefront and IAP solution · Di r ect Carrier Billing partners (current and future candidates), use the Epic Games Store as their
+billing platform, so this move will not directly affect them
+Addressing Samsung
+· Sa m s ung is already requesting a renegotiation on the rev split for both Fortnite and all other game titles including Spyjinx (percentages have not yet been broached)
+· Un t il we are able to share more detail regarding our broader strategy and plans, Samsung's interest in renegotiating the financial terms likely will not change
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 060
+
+EPIC 04041054
+
+Speaker Notes for Slide 35
+Nate NIThomas K
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 061
+
+EPIC 04041055
+
+Public Perception
+· Ep i c is not seen as the "little guy"; we are seen as being largely and extremely successful working within thecurrent model.Why do we need more money?
+· Thi s "fight" is seen only for the benefit of "large corporations who want to pocket more money." o O utside of abstract concepts, they have not seen how this can benefit them, therefore they' re not inclined to or have any desire to take our side.
+· Ep i c is not unique; we should have to play by the same rules everyone else does. We should not get an exception. We are not special. o E xample: r/fuckepic -"Do the reall think the 're s ecial?" o "We welcome any developer that recognizes the value of Google Play and expect them to participate under the same termsas other developers."(Google's December 2019 response to press)
+· Pl a yers do not want to get caught "in the middle" of this battle. Any negative consequences for them (i.e. them no longer having the ability to play the game or friction in their experience) will be Epic's fault for pushing this cause.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.062
+
+EPIC 04041056
+
+2020 Fortnite Revenue
+
+0 Ol Ssrlat Al on tanlou held hkdfme undmltand ho tofeld tlfb tabb'. Ford mk rrollolat to anon mohlk aktfonn andof tl rue aatd ok ere I
+
+2020 NetRevenue by Plafform
+· Lat e st projection is $2.5bn Net compared to original Board-approved plan of $2.2bn · iOS and Google Play are projected to account for 6.5% of net revenue in 2020 and 6.8% ($114M) for June-Dec.
+
+f. Aaron amlekh f
+h rtoudti«null I ddkam ate Cfomtnod emt 5 4· frh t Oatefd
+0 edr4bflal e bo abo t halt · I Ihe monte olater\ fm elme ale loron monte lflalfo
+
+2020 Fortnite Baseline Revenue (Updated Projections and Plan)
+
+4
+
+-20oA Price Discount
+
+Platform
+Xbox One Switch PC Android iOS Google Total
+
+Jan-May 2020 $440.2M $246.3M $152.2M $124.7M $10.7M $63.7M $0.3M $1.038B
+
+Jun-Dec 202 0
+$595.0M $353.8M $226.6M $184.2M $7.2M $82.6M $18.8M $1.466 B
+
+Projected % 202 0 Total 2 020 Plan of Total
+
+$1035.2M $903.1M 41.3'Yo
+
+$600.1M $530.4M
+
+24.0'Yo
+
+$378.8M $339.4M
+
+15 1%
+
+$308.9M $286.0M
+
+12 3%
+
+$17.9M $14 . 7M 0.7%
+
+$146.2M $ 1 2 5.9M 5.8'Yo
+
+$17.1M $10 . 8M
+
+0.7%
+
+$2.5 04 B $2. 2 10 B 100. 04/o
+
+0% Elasticity 25% Elasticity 100% Elasticity No Mobile Wi t h Mobile With Mobile
+
+$ 922.2 M
+
+$948 .3M
+
+$1035.2M
+
+$532.9M $547 .2M
+
+$600.1M
+
+$335.7M $344 .9M
+
+$378.8M
+
+$273.9M $281 .3M
+
+$308.9M
+
+$ 16.5M
+
+$16. 8 M
+
+$17.9M
+
+$ 63.7 M
+
+$159 .0M
+
+$175.7M
+
+$ 0.3M
+
+$19. 7 M
+
+$23.1M
+
+$ 2.145 B
+
+$2.3 15B
+
+$2.540B
+
+Updated Projections: 2020 Plan:
+
+given YTD
+
+board
+
+performance a pproved plan
+
+Worse Case Scenario
+
+Medium Case Scenario
+
+Best Case Scenario
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4018.063
+
+EPIC 04041057
+
+Slide 60
+
+Sure thing. Price elasticity will be the predominant determinant of outcome, so that should remain at the core of assumptions we make I can present it in a different way though, combined with iOS/GP outcomes and referenced against platforms. Revenue change (not total) is how I originally presented these outcomes -- feedback was to show totals. That's on 17-19. I' ll pivot back.
+I' ll have this for you tomorrow.
+Nate Adams, 5/13/2020
+Hey Nate, Adam would like another pass at estimated impact. Rather than give ranges of possible elasticity, can you show here, or on another page, a bunch of assumptions (ones you feel a most likely) and resulting change (not new forecast, what is the delta) to revs by platform. He'd also like you to take the image I' ll paste here into account. Reassigned to Nate Adams
+td Zabrist,5/13/2020
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX4018.084
+
+EPIC 04041058
+
+Speaker Notes for Slide 37
+This assumes gross GP revenue has a 3x relative increase from current levels
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-401 8. 065
+
+EPIC 04041059
+
+

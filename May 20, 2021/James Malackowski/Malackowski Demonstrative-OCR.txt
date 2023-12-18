@@ -1,0 +1,621 @@
+4:20-cv-05640-YGR
+ic am es nc .v.
+Expert Testimony of James E. Malackowski
+
+James E. Malackowski
+
+~ O C E AN TOM O ' · Co-Founder and CEO of Ocean Tomo LLC,
+
+~
+
+s
+
+INTE L L E C TUAL CAPITAL EQUITY
+
+an IP-focused valuation, strategy and investment banking firm
+
+· Past President, Licensing Executives Society International,
+world's largest technology transfer professional association
+
+· Current / former Board Director for leading technology firms and research organizations, including Ford Global Technologies, Inc.
+
+UNI V E R S I T Y O II
+=::= NOTRE DAME
+
+· Frequent instructor for graduate studies on intellectual property management andmarkets
+
+~EELIC 4c
+o~
+
+IL
+
+UJ
+
+CP
+
+'V
+
+*
+
+*
+
+'c4cco
+
+· Certified Public Accountant (CPA) and Certified Licensing Professional (CLP)
+
+Malackowski 2
+
+Overview of Opinions
+Apple's substantial and sustained investment in research and development results in valuable IP.
+App developers and consumers of apps benefit from Apple's
+ongoing innovation and its willingness to license its exclusive IP.
+Epic made substantial use of Apple's licensed IP.
+Epic's requested remedies would result in a compulsory license without compensation to Apple for its existing IP and ongoing innovation.
+Malackowski Rebuttal Report g 9 --30; Written Direct Testimony ffg 1 --10
+
+Overview of Opinions
+Apple's substantial and sustained investment in research and development results in valuable IP.
+App developers and consumers of apps benefit from Apple's ongoing innovation and its willingness to license its exclusive IP.
+Epic made substantial use of Apple's licensed IP.
+Epic's requested remedies would result in a compulsory license without compensation to Apple for its existing IP and ongoing innovation.
+Malackowski Rebuttal Report g 9 --30; Written Direct Testimony ffg 1 --10
+
+Apple's RED Investment and Resulting Patents
+
+Apple's Sustained Commitment to
+Research and Development
+
+$20,000 $18,000
+
+II
+
+I I ·.
+
+$16,000
+
+I ' · II I I I I
+
+$14,000
+
+ln $12,000
+Millions
+$10,000
+
+$8,000
+
+$6,000
+
+$4,000
+
+$2,000
+
+· · · I
+
+gb gh gA gb gQ gQ g4 g4 gb gb gb gh gA gb gQ gQ ~Q ~Q ~Q ~Q ~Q ~Q ~Q ~Q ~Q ~Q ~Q ~Q ~Q ~Q ~Q ~Q
+
+· Apple RB D Expenses
+
+Apple's Patent Applications and
+Grants Protecting Its Innovations
+
+5,000 4,500 4,000 3,500 3,000 2,500 2,000 1,500 1,000
+
+·
+
+-
+
+·
+
+·
+
+.
+
+· i
+
+·
+
+·
+
+i ··
+
+i
+
+·
+
+a · ·
+gb gh 5 gb gQ gQ g4 g4 gb gb gb gh gA gb g Q gQ ~Q ~Q ~6 ~ Q ~ Q ~ Q ~ Q ~ Q ~ Q ~ Q ~ Q ~ Q ~ Q ~ Q ~ Q ~ Q
+· U.S. Grants -- Utility · U.S. Grants -- Design · U.S. Applications -- Utility
+
+Malackowski Rebuttal Report, Schedules 1.0, 1.1, 1.2, 1.3, 6.0
+
+Malackowski 5
+
+Apple's Investment in R&D Has Resulted in a Substantial and Growing Patent Portfolio
+
+5,000
+
+4,500 4,000
+
+·
+
+-
+
+·
+
+·
+
+· e
+
+e · ·
+
+3,500
+
+3,000
+
+2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+~ ma R
+,
+2005 20 0 6 2007 2008
+
+2 009
+
+2 010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+· U.S. Grants -- Utility · U.S . Grants -- Design · U.S . Applications -- Utility
+
+2018
+
+2019
+
+2020
+
+Malackowski Rebuttal Report, Schedules 1.0, 1.1, 1.2, 1.3
+
+Malackowski 6
+
+Patent Study of Apple Developer Frameworks and Tools
+
+Search
+
+Test Results
+
+Database and Revise
+
+Using Terms Terms
+
+Search Database
+Using
+Revised Terms
+
+Malackowski Rebuttal Report, Schedule 3.2
+
+Select. Technologies Covered by Apple's IP
+
+Un!ted State! Patent 9 7376.543
+
+! Ih
+
+)0, PIN
+
+tin!te!dtate!Patent 97376543
+
+5 Ih
+
+1 le, !en
+
+Un!te!dtate!Patent 94376,543
+
+! Ih
+
+1 10n,ln
+
+Un!ted StatesPatent 93176,543
+
+! Ih
+
+Ie, 100!
+
+·
+
+-
+
+-
+
+·
+
+·
+
+-
+
+·
+
+·
+
+Un!ted Stater Patent 9 7376,543
+
+! Ih
+
+1 leU, IU
+
+Un!te!dtate!Patent 93376,543
+
+5 Ih
+
+1« le, U IN
+
+1,237 559
+U.S. patents U.S. patent applications
+
+1 65 9 1
+U.S. patents U.S. patent applications
+
+2,515 696
+U.S. patents U.S. patent applications
+
+-4,900
+US copyrights
+
+-1,500
+US trademarks
+
+Malackowski Rebuttal Report, Schedules 2.0, 2.1, 3.0, 4.0; Written Direct Testimony g 23
+
+Malackowski 8
+
+Apple Has Patents on a Variety of Software
+
+Search Term
+
+U.S. Patents
+
+AirPlay [2] AirPrint [3]
+API [4] App Sto~e [5] Apple Pay [6]
+Architecture [7]
+ARKit [8]
+A.udio Toolbox [9] Authentication [10] Authorize/Authorization [1 1] AVFoundation [12] Business Chat [13] CarPlay [14] Cloudlet [15] CoreAudio [16] [17] CoreGraphics [17] [18] CoreVideo [17] [19]
+CoreMedia [20] CoreMotion [21] CoreML [22]
+Face ID [23] Foundation [24]
+Framebuffer and Security [25] GameController [26] Gamely [27]
+Healthiest[28] HomeKit [29]
+iAD [30]
+
+51 4 2,263 165 22 79 1
+47 35 2
+22 1
+41 79 20 26
+4
+18
+2 61 8
+3 11 4
+
+U.S. Applications
+574 91 23 67 5 37 41 1 2 11 1
+4 7 1
+4 1
+9 5 7 2
+
+Total
+62 4 2,837 256 45 146 6 2 84 76 3 2 33 2 45 86 21 30 5 1 27 31 15 8 1 6 18 5
+
+Search Term
+
+U.S. Patents
+
+In-App Purchase [31]
+
+5
+
+Messages Extension [32]
+
+12
+
+Metal [33]
+
+11
+
+MultipeerConnectivity [34]
+
+Network Extension [35]
+
+PassKit [36]
+
+Push Notification [37]
+
+71
+
+Quartz [38]
+
+QuartzCore [39]
+
+5
+
+SDK [40]
+
+67 1
+
+StoreKit [41]
+
+Subscription Service [42]
+
+10
+
+Touch ID [43]
+
+25
+
+UIIGt [44]
+
+22
+
+UserNotifications [45]
+
+12
+
+Webl&t [46]
+
+52
+
+Widgets [47]
+
+61
+
+Xcode [48]
+
+31
+
+U.S. Applications
+12 5 4 1
+11 1
+27 1
+31 1
+15 25 6
+3 10 52 15
+
+Total
+17 17 15
+1 18
+1 98 23
+5 98 2 25 50 28 15 62 113 46
+
+Malackowski Rebuttal Report, Schedule 3.1
+
+Malackowski 9
+
+Overview of Opinions
+Apple's substantial and sustained investment in research and development results in valuable IP.
+App developers and consumers of apps benefit from Apple's
+ongoing innovation and its willingness to license its exclusive IP.
+Epic made substantial use of Apple's licensed IP.
+Epic's requested remedies would result in a compulsory license without compensation to Apple for its existing IP and ongoing innovation.
+Malackowski Rebuttal Report g 9 --30; Written Direct Testimony ffg 1 --10
+
+Exponential Growth in Available Apps
+
+1,800,000 1,600,000 1,400,000 1,200,000
+
+e-
+
+--
+
+I I. · I I
+
+e e e·
+
+e· ·
+
+-
+
+'
+
+·
+
+·
+
+I I '
+
+·
+
+-
+
+,
+
+·
+
+·
+
+·
+
+·
+
+1,800,000
+
+1,000,000
+
+800,000
+
+600,000
+
+400,000
+
+350,000+
+
+O QU OO
+
+200,000
+500
+0 2 008
+
+20 0 9 2010
+
+2011
+
+2012
+
+2013
+
+2 014
+
+2015
+
+© ~Caus
+2016 2017 2018
+
+2019
+
+2 02 0
+
+Malackowski Rebuttal Report, Figure 8
+
+Malackowski 11
+
+Dramatic Growth in Consumer Adoption
+
+200,000,000,000 160,000,000,000 120,000,000,000
+
+App Store Downloads
+130,000,000,000
+
+180,000,000,000
+
+80,000,000,000
+
+40,000,000,000
+
+25,000,000,000
+
+0 2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Malackowski Rebuttal Report, Figure 8; Written Direct Testimony g 21
+
+Malackowski 12
+
+Apple's Investment in R&D Dramatically Increases Innovation and Output
+
+Apple'sResearch and Development
+
+Apple's Patent Applications and Grants
+
+· aII
+Available App Store Apps
+mo ® Q L ~ P
+auee O
+Schedules 1.0, 1.1, 1.2, 1.3, 6.0; Figure 8; Written Direct Testimony g 21
+
+aaI
+App Store Downloads
+Malackowski 13
+
+Apple's Investment in R&D Dramatically Increases Innovation and Output
+
+Q5
+
+Q6
+
+Q7
+
+'08
+
+'09
+
+'10
+
+'11
+
+'12
+
+'13
+
+'14
+
+'15
+
+'16
+
+'17
+
+'18
+
+'19
+
+'20
+
+Schedules 1.0, 1.1, 1.2, 1.3, 6.0; Figure 8; Written Direct Testimony g 21
+
+Malackowski 14
+
+Overview of Opinions
+Apple's substantial and sustained investment in research and development results in valuable IP.
+App developers and consumers of apps benefit from Apple's ongoing innovation and its willingness to license its exclusive IP.
+Epic made substantial use of Apple's licensed IP.
+Epic's requested remedies would result in a compulsory license without compensation to Apple for its existing IP and ongoing innovation.
+Malackowski Rebuttal Report g 9 --30; Written Direct Testimony ffg 1 --10
+
+Epic Has Made Substantial Use of IP Licensed From Apple
+
+0+ ·
+
+'
+
+0OO) +
+
+U.S. Patents
+Malackowski Written Direct Testimony g 45
+
+Patent
+applications
+Malackowski 16
+
+Overview of Opinions
+Apple's substantial and sustained investment in research and development results in valuable IP.
+App developers and consumers of apps benefit from Apple's ongoing innovation and its willingness to license its exclusive IP.
+Epic made substantial use of Apple's licensed IP.
+Epic's requested remedies would result in a compulsory license without compensation to Apple for its existing IP and ongoing innovation.
+Malackowski Rebuttal Report g 9 --30; Written Direct Testimony ffg 1 --10
+
+

@@ -1,0 +1,170 @@
+Subject: Re :Epic + Apple Payxnent From: "iTC Internal"
+Received(Bate): Thu, 14Nov 2619 18:55:56+6666 To: D avxd Wendland · Apple Cc: "Jocel Kixn"
+Bate: Thu, 14 Nov 2619 18:55.56+6666
+Some answersiniine.
+
+PLAINTIFF
+U.B. Otetdet Cettrt - NDCAL
+4:20ev~$5640-YGR-TSH
+Epic Qernee, ine. vA. ppie ine.
+Ex No PX-2362
+Dete Entered By
+,"Apps Qps Engineering" "Mike Schxnid"
+
+ASC Gpss 7. GveraH FX conversion rate for aH the currencies and total FX fees in 2619
+Pajyments4 Financial Reports displays detailed infoxxnationfor eachtexritory, suchajsthe nuxnber of unitssold, the axnount eaxned in that territory's currmcies, taxesand adjustxnents, the exchange rate applied. to the payxnent, and the total proceeds owedto you displayed in the cuxxencyof youx bank account. h s://hei .a le . com/a -store-connectN/dev3a16f3fe6 Thstnks, Mustafa Qn Nov 12, 2619, at 11:68 PM, David Wendland Apple + Apps Gps, Joce, ASC Qpsto all weighm. Mike - 1'm not surewe cau/would answer many ofthese. But comments intum ALlL - Pllease review, if you have inputplease chixne in for Mike.
+1. GveraH payment xnethods per country breakdown m 2619.
+We don *t have a fuH breakdown yetbut actuaHythis is a WIP, tho unclearif we wiH lbe exte~ y sh a ring tlhat.thIink it wiH be helpM to know why this infoxxnationis neededl.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-2362.1 APL-EG 65053613
+
+2. Currency breakdown in 2019 ASC Ops? 3. Overall authorization ratio per country per payment methods in 2019
+Not sure this is something we can or would provide to a 3rd party. 4. Any &aud behaviors and patterns
+Not sure this is something we can or would provide to a 3rd party. 5. Overall fee structure for agent/commissionaire countries and what was total fee in 2019 Not sure what this is referring to 6. Overall Tax structure for agent/commissionaire countries and what was total tax in 2019 Joce? 7. Overall FX conversion rate for all the currencies and total FX fees in 2019 Anyone? 8. What are the common errors and rejections do we see in 2019 From what pov? Maybe App review or transaction risking? 9. How much was monthly chargebacks/refunds and overall trends in 2019 Not sure this is something we can or would provide to a 3rd party.
+
+David Wendland App Store Ops · Global Technical Advocate
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-2362.2 APL-EG 05053614
+
+On Nov 12, 2019, at 2:58 PM, Mike Scbmid
+IBk S~ IAp p S I~
+
+wrote:
+I O Appl PM W Y , Op h , a l 850 1·
+
+Begin forwarded message:
+
+From: Thomas Ko
+
+Subject:Re: Epic+ pp e aymen
+
+Date: November 12. 2019 at 2:41:42 PM PST
+
+To: MikeSchmid
+
+Cc: Mark Grimm
+
+Haseeb Maiik (
+
+ec o In
+
+Here are the high level questions. l. Overall payment methods per country breakdown in 2019. 2. Currency breahlown in 2019 3. Overall authorization ratio pcr country per payment methods in 2019 4. Any traud behaviors and patterns 5. Overall fee structure for agent/coinmissionane countries and what was total fee in 2019 6. Overall Tax shucture for agent/connnissionaire countries and what was total tax in 2019 7. Overall FX conversion rate for aR the currencies and total FX fees in 2019
+8.What aretheconnnon errorsand rejections dowe seein 2019 9. How much was monthly chargebacks/refimds and overall trends in 2019
+
+Best,
+
+On Wed, Nov 13, 2019 at 7:10 AM Mike Scbmid
+
+wrote:
+
+In the meantime, do you have a list of aR the specitic questions you plan on asking7 This way they can be prepared to answer them fuRy. Thanks,
+
+rrkke Sdrmid IAppSkrre I On Nov 12, 2019, at 1:30 PM, Thomas Ko
+
+I One Apple Park Way, Cuperbno, CA 95014
+wrote:
+
+No apologynecessary.Please do directusto have a person we can have a discussion on overall flows around the world for Epic as quickly as possible as the year end of coming quickly and I would like to have a meaningful plan for 2020. Best,
+
+On Wed, Nov 13, 2019 at 6:02 AM Mike Schmid
+
+wrote:
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-2362.3 APL-EG 05053615
+
+Hi Thomas,
+
+This is an atypical request and we 've been told to direct you to the support documentation on
+
+r
+
+4
+
+4
+
+k
+
+something any specific team typically deals with and many of us have been out of office.
+
+So I apologize for the delay but if you 'd like a person to speak with, I 'll need a little bit more time to secure that. My initial ETA was unfortunately not realistic as so many people have been away.
+
+Thanks,
+
+Mike Sohmia t App Store t~
+
+t One App l e Park Way, Cupertino, CA 99014
+
+On Nov 12, 2019, at 12:59 PM, Thomas Ko
+
+wrote:
+
+Mike and Mark, with all due response, it seems like Epic's request is NOT getting any attention &om Apple. Is this how you handle customer's request? When can we expect for you to be able to find a sufficient support person for us to have a meaningful conversation on the payment that is currently being processed for Epic?
+
+If you cannot provide sufficient support, please escalate within your organization to be able to get the response.
+
+Will look forward to your response.
+
+Best regards,
+
+On Wed, Nov 6, 2019 at 12:06 AM Mike Schmid
+
+wrote:
+
+Hey Thomas! Sorry for the delay. Trying to find the best person on my side for you to connect with. I' ll get someone today to give me a time&arne.
+
+Thanks, Mike
+
+Sent &om my iPhone
+
+On Nov 5, 2019, at 6:18 AM, Thomas Ko
+
+wrote:
+
+Just a gentle reminder. Could you suggest a time to synch up please this week? I am in the Eastern time zone and available until Thursday. Best,
+
+On Fri, Nov 1, 2019 at 2:56 PM Thomas Ko
+
+wrote:
+
+Thanks Haseeb for the introduction.
+
+Mike and Mark, it is very nice to meet you. I understand you are our main contacts at Apple.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-2362.4 APL-EG 05053616
+
+I joined as a Head of Business and Strategy for Online Services where eCommerce capability is under my domain for Fortnite. So I just want to get additional understanding as how these countries are set up with Tax, Fx as well as other payment methods besides CC/DC.
+
+We could start with a quick intro call perhaps next week?
+
+Looking forward to hearing &om you.
+
+Best regards,
+
+On Fri, Nov 1, 2019 at 2:43 PM Haseeb Malik
+
+wrote:
+
+Hello,
+
+Id like to introduce you to Thomas Ko, who recently joined Epic. He is reviewing Apple's invoices to understand international revenues, fees and foreign exchanges
+
+etc.
+
+For us to decide what are the additional currencies to expand to so that we can get more coverage. And found some questions based on what the invoices saidagent vs commissionaire, FX fees are all born by Epic.
+
+Can we set up a call with David, so Thomas can run through a few questions? Or maybe kick off an email to discuss the questions first?
+
+Haseeb Malik Marketing Director Mobile Publishing ) Epic Games
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-2362.5 APL-EG 05053617
+
+

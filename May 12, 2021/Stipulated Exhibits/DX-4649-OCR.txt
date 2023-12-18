@@ -1,0 +1,1501 @@
+Update to
+
+In-App
+
+Ullaca Ststc5 DlsalCiCOUfl Noiibern Diaaici of ciiliroriiis
+
+Case No. 4:ZO-cv-05640-YGR ~P Case Title ie 6siaer, lac a 3 l e. fae
+
+E+ibiI No. DX-4649
+
+'""'" -
+
+-
+
+-
+
+--
+
+"
+
+-
+
+Purchase Programming
+
+Guide
+
+Update Release R3: Includes information about managing in-app subscriptions
+
+Developer
+
+CONFIDENTIAL
+
+DX-4649.001
+
+APL-APPSTORE 00292669
+
+Contents
+Introduction 5 Who Should ReadThis Document 6 Organization of This Document 6 See Also 6
+Overview of In-App Purchase 7 Products 7 Registering Products with the App Store 8 Feature Delivery 9
+Built-in Product Model 9 Server Product Model 11
+Retrieving Product Information 14 Sending Requests to the App Store 14
+SKRequest 14 SKRequestDelegate 14 Requesting Information About Products 15 SKProductsRequest 15 SKProductsRequestDelegate 15 SKProductsResponse 16 SKProduct 16
+Making a Purchase 17 Collecting Payments 17
+SKPayment 18 SKPaymentQueue 18 SKPaymentTransaction 18 SKPaymentTransactionObserver 18 Restoring Transactions 19
+Adding a Store to Your Application 20 The Step-By-Step Process 20 Where to Go Next 24
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+
+CONFIDENTIAL
+
+DX-4649. 002
+
+APL-APPSTORE 00292670
+
+Contents
+Verifying Store Receipts 25 Verifying a Receipt with the App Store 25 The Store Receipt 26
+Testing a Store 29 The Sandbox Environment 29 Testing in the Sandbox 29 Validating Receipts in the Sandbox 30
+Auto-Renewable Subscriptions 31 Adding Auto-Renewable Subscriptions to Your Store 31 Designing your Client Application 32 Verifying an Auto-renewable Subscription Receipt 32 Restoring Auto-Renewable Subscriptions 34
+ln-App Auto-Renewable Subscriptions 35 In-App Subscription Purchasing 35
+The verifyReceipt Request 37 The modifySubscriptionPayment Request 40 The paymentDetails Request 42 extendAutoRenewDate 43 statusUpdateNotification 44
+Document Revision History 47
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+
+CONFIDENTIAL
+
+DX-4649. 003
+
+APL-APPSTORE 00292671
+
+Figures and Tables
+
+Overview of In-App Purchase 7 Figure 1-1 In-App Store model 7 Figure 1-2 Built-in product delivery 10 Figure 1-3 Server product delivery 12
+
+Retrieving Product Inforeation 14 Figure 2-1 S t o r e Kit request model 14 Figure 2-2 A r e q uest for localized product information 15
+
+Making a Purchase 17 Figure 3-1 Add i n g a payment request to the queue 17
+
+Verifying Store Receipts 25 Table 5-1 Pur c h ase info keys 27 Table 5-2 Rec e ipt attribute types 28
+
+Auto-Renewable Subscriptions 31 Table 7-1 St a t u s codes for auto-renewable subscriptions 33 Table 7-2 Aut o - r enewable subscription info keys 33
+
+In-App Auto-Renewable Subscriptions 35
+
+Table 8-1 In-a p p purchase requests and notifications 35
+
+Table 8-2 Table 8-3
+
+In-a p p subscriptionmessage error codes 36 In-a p p subscription keys for verifyReceipt 37
+
+Table 8-4 In-a p p purchase receipt attribute types 37
+
+Table 8-5 Addi t i onal verifyReceipt response keys 38
+
+Table 8-6 modi f ySubscriptionPayrnent request keys 40
+
+Table 8-7 modi f y SubscriptionPayrnent response keys 41
+
+Table 8-8 paym e ntDetails request keys 42
+
+Table 8-9 paym e ntDetails response keys 42
+
+Table 8-10 e x t e ndAutoRenewDate request keys 43
+
+Table 8-11 s t a t usUpdateNotification keys 45
+
+Table 8-12 s t a t usUpdateNotification timeouts 46
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright©201SApplelnc. All Rights Reserved.
+
+CONFIDENTIAL
+
+DX-4649. 004
+
+APL-APPSTORE 00292672
+
+Introduction
+NOTICE OF PROPRIETARY PROPERTY: THE UPDATED INFORMATION CONTAINED HEREIN IS THE PROPRIETARYPROPERTY OFAPPLEINC. THEPOSSESSORAGREESTO THEFOLLOWING: (I) TO MAINTAIN THIS DOCUMENT IN CONFIDENCE, (11) NOT TO REPRODUCE OR COPY IT, (111N) OT TO REVEAL OR PUBLISH IT IN WHOLE OR IN PART, (IV) ALL RIGHTS RESERVED. ACCESS TO THIS DOCUMENT AND THE INFORMATION CONTAINED THEREIN IS GOVERNED BY THE TERMS OF THE MFI LICENSE AGREEMENT AND/OR THE IPOD-IPHONE AIS EVALUATION AGREEMENT. ALL OTHER USE SHALL BE AT APPLE'S SOLE DISCRETION. In-App Purchase allows you to embed a store directly within your application. You implement ln-App Purchase in your application using the Store Kit framework. Store Kit connects to the App Store on your application's behalf to securely process payments from the user. Store Kit prompts the user to authorize the payment, then notifies your application so that it can provide items the user purchased. You can use this in-application payment functionality to collect payment for enhanced functionality or additional content usable by your
+appilcation.
+For example, you could use In-App Purchase to implement any of the following scenarios: A basic version of your application with additional premium features. A book reader application that allows the user to purchase and download new books. A game that offers new environments (levels) to explore. An online game that allows the player to purchase virtual property.
+Important: In-App Purchase only collects payment. You must provide any additional functionality, including unlocking built-in features or downloading content from your own servers. This documentation details the technical requirements of adding a store to your application. For more information on the business requirements of using In-App Purchase, see the App Store Resource Center. You must also read your licensing agreement for the definitive treatment of what you may sell and how you are required to provide those products in your application.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+
+CONFIDENTIAL
+
+DX-4649. 005
+
+APL-APPSTORE 00292673
+
+Introduction Who ShouldRead ThisDocument
+Who Should Read ThisDocument
+You should read this if you are interested in offering additional paid functionality to users from within your
+appilcation.
+Organization of This Document
+This document contains the following chapters: "Overview of ln-App Purchase" (page 7) introduces the functionality offered by ln-App Purchase. "Retrieving Product Information" (page 14) describes how your application retrieves information from the App Store about products it offers. "Making a Purchase" (page 17) explains how your application requests payment from the App Store. "Adding a Store to Your Application" (page 20) is a walkthrough that describes how to add a store to your
+appilcation.
+"Verifying Store Receipts" (page 25) describes how your server can verify that a receipt came from the App Store. "Testing a Store" (page 29) discusses how to use the sandbox environment to test your application. "Auto-Renewable Subscriptions" (page 31) describes how your application can implement subscriptions using the Apple Store to manage the renewal process for you. "In-App Auto-Renewable Subscriptions" (page 35) describes APls that you can use to manage auto-renewable subscriptions directly through your application.
+See Also
+The App Store Resource Center describes the business side of using In-App Purchase, as well as the steps you need to take to sell a product within your application. The irunes Connect Developer Guide describes how to configure products and test accounts on the App Store. The Store Kit Framework Reference describes the API for interacting with the App Store.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+
+CONFIDENTIAL
+
+DX-4649. 006
+
+APL-APPSTORE 00292674
+
+Overview of In-App Purchase
+
+Store Kit communicates with the App Store on behalf of your application. Your application uses Store Kit to receive localized information from the App Store about products you want to offer in your application. Your application displays this information to users and allows them to purchase items. When a user wants to purchase an item, your app calls Store Kit to collect payment from the user. Figure 1-1 shows the basic store model.
+
+Figure 1-1 In- A p p Store model
+
+© App Store
+
+/ Mac or iOS Device
+
+My App
+
+~< S t ore Kit
+
+~ Req u est ~ Res p onse
+
+The Store Kit API is only a small part of the process of adding a store to your application. You need to decide how to track the products you plan to deliver, how your application presents a store front to the user, and how your application delivers the products users purchase from your store. The rest of this chapter explains the process of creating products and adding a store to your application.
+Products
+A product is any feature that you want to sell in your application's store. Products are associated with the App Store through iTunes Connect in the same way that you create new applications. There are four supported kinds of products that you may sell using In-App Purchase:
+Content includes digital books, magazines, photos, artwork, game levels, game characters, and other digital content that can be delivered within your application. Functionality products unlock or expand features you' ve already delivered in your application. For example, you could ship a game with multiple smaller games that could be purchased by the user.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+
+CONFIDENTIAL
+
+DX-4649. 007
+
+APL-APPSTORE 00292675
+
+Overview of In-App Purchase Registering Products with the App Store
+Services allow your application to charge users for one-time services, such as voice transcription. Each time the service is used is a separate purchase. Subscriptions provide access to content or services on an extended basis. For example, your application might offer monthly access to financial information or to an online game portal.
+In-App Purchase provides a generalmechanism for creating products, leaving the specifics of how your products are implemented up to you. However, there are few important guidelines to keep in mind as you design your application:
+You must deliver a digital good or service within your application. Do not use ln-App Purchase to sell real-world goods and services. You may not offer items that represent intermediary currency because it is important that users know the specific good or service they are buying. Items you offer for purchase may not contain, or relate to, pornography, hate speech, defamation, or gambling (simulated gambling is acceptable).
+For detailed information about what can be offered using In-App Purchase, consult your licensing agreement.
+Registering Products with the App Store
+Every product you wish to offer in your store must first be registered with the App Store through iTunes Connect. When you register a product, you provide a name, description, and pricing for your product, as well as other metadata used by the App Store and your application. You identify a particular product using a unique string called aproduct identifier. When your application uses Store Kit to communicate with the App Store, it uses product identifiers to retrieve the configuration data you provided for the product. Later, when a customer wants to purchase a product, your application identifies the product to be purchased using its product identifier. The App Store supports many types of products:
+Consumable products must be purchased each time the user needs that item. For example, one-time services are commonly implemented as consumable products. Non-consumable products are purchased only once by a particular user. Once a non-consumable product is purchased, it is provided to all devices associated with that user's iTunes account. Store Kit provides built-in support to restore non-consumable products on multiple devices. Auto-renewable subscriptionsare delivered to all of a user's devices in the same way as non-consumable products. However, auto-renewable subscriptions differ in other ways. When you create an auto-renewable subscription in iTunes Connect, you choose the duration of the subscription. The App Store automatically
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+
+CONFIDENTIAL
+
+DX-4649. 008
+
+APL-APPSTORE 00292676
+
+Overview of In-App Purchase Feature Delivery
+renews the subscription each time its term expires. If the user chooses to not allow the subscription to be renewed, the user's access to the subscription is revoked after the subscription expires. Your application is responsible for validating whether a subscription is currently active and can also receive an updated receipt for the most recent transaction. Free subscriptionsare a way for you to put free subscription content in Newsstand. Once a user signs up for a free subscription, the content is available on all devices associated with the user's Apple ID. Free subscriptions do not expire and can only be offered in Newsstand-enabled apps. Non-renewing subscriptionsare a mechanism for creating products with a limited duration. Non-renewing subscriptions differ from auto-renewable subscriptions in a few key ways:
+The term of the subscription is not declared when you create the product in iTunes Connect; your application is responsible for providing this information to the user. In most cases, you would include the term of the subscription in the description of your product. Non-renewing subscriptions may be purchased multiple times (like a consumable product) and are not automatically renewed by the App Store. You are responsible for implementing the renewal process inside your application. Specifically, your application must recognize when the subscription has expired and prompt the user to purchase the product again. You are required to deliver non-renewing subscriptions to all devices owned by the user. Non-renewing subscriptions are not automatically synchronized to all devices by Store Kit; you must implement this infrastructure yourself. For example, most subscriptions are provided by an external server; your server would need to implement a mechanism to identify users and associate subscription purchases with the user who purchased them.
+Detailed information about registering products with the App Store can be found in iTunes Connect Developer Guide.
+Feature Delivery
+The delivery mechanism your application uses to provide products to users has significant implications on its design and implementation. There are two basic models you should expect to use to deliver products to users: the built-in model and the server model. In both models, you track the list of products offered in the store and deliver products successfully purchased by users.
+Built-in Product Model
+In the built-in product model, everything required to deliver products is built in to your application. This model is most often used to unlock functionality in your application. You could also use this model to deliver content provided in your application's bundle. A key advantage of this model is that your application can promptly deliver products to the customer. Most built-in products should be non-consumable.
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+
+CONFIDENTIAL
+
+DX-4649. 009
+
+APL-APPSTORE 00292677
+
+Overview of In-App Purchase Feature Delivery
+
+Important: In-App Purchase does not provide the capability for your application to be patched after a successful purchase. If your product requires changes to your application's bundle, you must deliver an updated version of your application to the App Store.
+To identify products, your application stores the product identifiers in your application's bundle. Apple recommends using a property list (plist) to track product identifiers for your built-in features. Content-driven applications can use this to add new content without modifying the source for your application.
+After a product is successfully purchased, your application must unlock the feature and deliver it to the user. The simplest way to unlock features is by changing your application preferences. See "Implementing Application Preferences". Application preferences are backed up when users backs up their iOS-based devices. Your application may want to recommend to users that they back up their devices after making a purchase to ensure that purchases are not lost.
+Figure 1-2 shows the series of actions your application takes to deliver a built-in product.
+Figure 1-2 Bu i l t -in product delivery
+
+App Store
+OThe App Store returns pd t f t ~
+
+Application
+O The application retrieves the iisf of product identifiers from its bundle
+OThe applicaticn sends a request to the App Store fo gef information on the products
+OT he application uses the p d t f t t d pl y a store to the user
+I The user seiects an item from The store
+
+OT he application sends a I ,- payment request to the
+App Store
+
+Td Appdt P
+
+] O td
+
+TA ppll tl
+
+d td
+
+OPT t d t
+
+~p
+
+,, t; ,, ,, d d l; t d
+
+completed transaction
+
+' I p u r chased content
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+10
+
+CONFIDENTIAL
+
+DX-4649. 01 0
+
+APL-APPSTORE 00292678
+
+Overview of In-App Purchase Feature Delivery
+Server Product Model
+In the server product model, you provide a separate server that delivers products to your application. Server delivery is appropriate for subscriptions, services and content, because these products can be delivered as data without altering your application bundle, For example, a game might deliver new play environments (puzzles or levels) to the application, Store Kit does not define the design of your server or its interactions with your application, You are responsible for designing a/i interactions bet ween your application and your server. Further, Store Kit does not provide a mechanism to identify a particular user. Your design may require you to provide a mechanism to identify a user, If your application requires these (for example, to track which subscriptions are associated with a particular user), you need to design and implement this yourself.
+Figure 1-3 expands the built-in model to show interactions with a server,
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc, All Rights Reserved,
+
+CONFIDENTIAL
+
+DX-4649. 01 1
+
+APL-APPSTORE 00292679
+
+Overview of In-App Purchase Feature Delivery
+Figure 1-3 S e r ver product delivery
+
+App Store
+O The App Stole returns prnduntintannati n
+
+Application
+
+Developer Server
+
+OThe a'pplicafton sends a
+
+ttoth
+
+t
+
+retnBVB a liat pf product
+
+idan5flers
+
+6 &The server retturns arlist off
+product I dentlfIars
+
+OThe applicafiori sends a request to the A j j Store to ffet information for the products
+OThe applicatfon' Uses the
+. prnddht i rnnh'srt'ntsrtiajriay a store-to the user
+
+I The user selects an. item:from tffe. store
+
+I Th e application sends a payment request to the App S'fore
+
+O The App Store processes the
+Payment and raturna a completed transaction
+9 The App Store- parsee the receipt data and returns- bath the receipt and whether the receipt is valid
+
+OT he application retrieves the m raaaiPt data fram the ~
+transaction and sends it to the server
+~
+
+OThe server records the ran e iPt data tn Satanitah an audit trail
+The server sends the receipt dafa to the App Store to verifjj that this is a valid transaction
+OT he server reads the returned receipt data to determine what the user purchased
+I
+OT he server delivers the p h d t t t th application
+
+Apple recommends you retrieve product identifiers from your server, rather than including them in a property list. This gives you the flexibility to add new products without updating your application.
+In the server model, your application retrieves the signed receipt associated with a transaction and sends it to your server. Your server can then validate the receipt and decode it to determine which content to deliver to your application. This process is covered in detail in "Verifying Store Receipts" (page 25).
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+12
+
+CONFIDENTIAL
+
+DX-4649.012
+
+APL-APPSTORE 00292680
+
+Overview of In-App Purchase Feature Delivery
+The server model has additional security and reliability concerns. You should test the entire environment for security threats. SecureCoding Guide provides additional recommendations.
+Although non-consumable products may be recovered using the built-in capabilities of Store Kit, non-renewing subscriptions must be restored by your server. You are responsible for recording information about non-renewing subscriptions and restoring them to users. Optionally, consumable products could also be tracked by your server. For example, if your consumable product is a service provided by your server, you may want the user to retrieve the results of that request on multiple devices.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+13
+
+CONFIDENTIAL
+
+DX-4649. 01 3
+
+APL-APPSTORE 00292681
+
+Retrieving Product Information
+
+When your application is ready to display a store to the user, it must populate its user interface with information from the App Store. This chapter details how to request product details from the App Store.
+
+Sending Requests to the App Store
+Store Kit provides a common mechanism to request information from the App Store. Your application creates and initializes a request object, attaches a delegate to it, and starts the request. Starting a request transmits it to the App Store, where it is processed. When the App Store processes the request, the request's delegate is called asynchronously to deliver the results to your application. Figure 2-1 shows the request model.
+Figure 2-1 S t o r e Kit request model
+Store Kit
+
+Request
+
+>O
+SKRsqusstosligttts
+
+Response
+
+© App Store
+
+If your application quits while a request is pending, your application needs to resend it.
+SKRequest
+SKRequest is an abstract base class for requests sent to the store.
+SKRequestDeleg ate
+SKRequestDelegate is a protocol that your application implements to handle requests that completed successfully and requests that failed because of an error.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+14
+
+CONFIDENTIAL
+
+DX-4649.014
+
+APL-APPSTORE 00292682
+
+Retrieving Product Information Requesting Information About Products
+
+Requesting Information About Products
+Your application uses aproducts request to retrieve localized information about a product. Your application creates a request that contains a list of product identifier strings. As described earlier, your application might embed product identifiers inside your application or it might retrieve the identifiers from an external server.
+When you start the products request, the product identifier strings are transmitted to the App Store. The App Store responds with the localized information you previously entered in iTunes Connect. You use these details to populate the user interface of your store. Figure 2-2 shows a products request.
+
+Figure 2-2 A re q u est for localized product information Store Kit
+
+ProductsRequest
+Product identifier: "Expansion"
+
+Request Response
+
+Q l App Store
+
+SKProdtIctsRecltrestCleiegste
+
+QKProductsResponse
+SKProduct Name: Expansion Pack Description: New levels to explore! Price: $0.99
+
+Important: You must make a product request for a particular product identifier before allowing the user to purchase that product. Retrieving product information from the App Store ensures that you are using a valid product identifier for a product you have marked available for sale in iTunes Connect.
+
+SKProductS Request
+An SKProducts Request object is created with a list of product identifier strings for the products you want to display in your store.
+SKProductSRequestDeleg ate
+The SKProductsRequestDelegate protocol is implemented by an object in your application to receive the response from the store. It receives the response asynchronously when the request is successfully processed.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+
+CONFIDENTIAL
+
+DX-4649. 01 5
+
+APL-APPSTORE 00292683
+
+Retrieving Product Information Requesting information About Products
+SKProducts Response
+An SKP roduc t s Res ponse object contains a SKP roduc t object for each valid product identifier in the original request as well as a list of the product identifiers that were not recognized by the store. The store might not recognize the identifier for a number of reasons; it might be misspelled, marked unavailable for sale, or changes you have made in iTunes Connect have not propagated to all of the App Store servers.
+SKProduct
+An SKProduct object provides localized information about a product you' ve registered with the App Store.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+16
+
+CONFIDENTIAL
+
+DX-4649. 016
+
+APL-APPSTORE 00292684
+
+Making a Purchase
+
+When the user is ready to purchase an item, your application asks the App Store to collect payment. When your application asks for payment, the App Store creates a persistent transaction and continues to process the payment, even if the user quits and relaunches your application. The App Store synchronizes the list of pending transactions with your application and delivers updates to your application when the status of any of these transactions changes.
+
+Collecting Payments
+To collect payment, your application creates a payment object and queues it on the payment queue, as shown in Figure 3-1.
+
+Figure 3-1 Ad d i ng a payment request to the queue
+Application
+SKPayment Product Identifier "Sword" Quantit
+
+IO addPayrnent
+
+,Qgy
+
+i O paymentQueue:updatedTransactions: SKPaymentTrarttaftctloitQfaeeiver Examine all completed purchases and deliver purchased items
+O fi nishTransaction',.
+
+SKPaymentTransaction SKPayment
+Product Identifier "Sword" Quantit
+SKPaymentTransaction
+SKPayment Product Identifier "Shield" Quantit
+SKPaymentTransaction
+SKPayment Product Identifier "S ear" Quantit
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+17
+
+CONFIDENTIAL
+
+DX-4649. 01 7
+
+APL-APPSTORE 00292685
+
+Making a Purchase Collecting Payments
+When the payment is added to the payment queue, a persistent transaction is created to hold it. After the payment is processed, the transaction is updated with information about the payment collection. Your application implements an observer that receives messages when transactions are updated. The observer should provide purchased items to the user and then remove the transaction from the payment queue.
+SKPayment
+Collecting payment starts with a payment object. The payment object includes a product identifier and optionally includes the quantity of that product to be purchased. You can queue the same payment object more than once; each time a payment object is queued results in a separate request for payment. Users can disable the ability to make purchases in the Settings application. Before attempting to queue a purchase, your application should first confirm that payment can be processed. You do this by calling the payment queue'scanMakePayments method.
+SKPaymentQueue
+The payment queue is used to communicate with the App Store. When payments are added to the queue, Store Kit transmits the request to the App Store. Store Kit presents dialogs to ask the user to authorize payment. The completed transaction is returned to your application's observer.
+SKPaymentTransaction
+A transaction is created for every payment added to the queue. Each transaction has properties that allow your application to determine the status of the transaction. When payment is collected, the transaction includes additional details about the successful transaction.
+Although your application can ask the payment queue for a list of pending transactions, it is more common for an application to wait until the payment queue notifies the payment queue's observer with a list of updated transactions.
+SKPaymentTransactionObserver
+Your application implements the SKPaymentTransact j.on0bse rve r protocol on an object and adds it as an observer to the payment queue. The observer's primary responsibility is to examine completed transactions, deliver items that were successfully purchased, and remove those transactions from the payment queue. Your application should associate an observer with the payment queue when it launches, rather than wait until the user attempts to purchase an item. Transactions are not lost when an application terminates. The next time the application launches, Store Kit resumes processing transactions. Adding the observer during your application's initialization ensures that all transactions are returned to your application.
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+18
+
+CONFIDENTIAL
+
+DX-4649. 01 8
+
+APL-APPSTORE 00292686
+
+Making a Purchase Restoring Transactions
+Restoring Transactions
+Once a transaction has been processed and removed from the queue, your application normally never sees it again. However, if your application supports product types that must be restorable, you must include an interface that allows users to restore these purchases. This interface allows a user to add the product to other devices or, if the original device was wiped, to restore the transaction on the original device.
+Store Kit provides built-in functionality to restore transactions for non-consumable products, auto-renewable subscriptions and free subscriptions. To restore transactions, your application calls the payment queue's res toreCompletedTransact i o n s method. The payment queue sends a request to the App Store to restore the transactions. In return, the App Store generates a new restore transaction for each transaction that was previously completed. The restore transaction object's o rig ina LT ran sac t jon property holds a copy of the original transaction. Your application processes a restore transaction by retrieving the original transaction and using it to unlock the purchased content. After Store Kit restores all the previous transactions, it notifies the payment queue observersby calling their paymentQueueRestoreCompletedTransactionsFinished: method.
+If the user attempts to purchase a restorable product (instead of using the restore interface you implemented), the application receives a regular transaction for that item, not a restore transaction. However, the user is not charged again for that product. Your application should treat these transactions identically to those of the original transaction.
+Non-renewing subscriptions and consumable products are not automatically restored by Store Kit. Non-renewing subscriptions must be restorable, however. To restore these products, you must record transactions on your own server when they are purchased and provide your own mechanism to restore those transactions to the user's devices.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+19
+
+CONFIDENTIAL
+
+DX-4649. 01 9
+
+APL-APPSTORE 00292687
+
+Adding a Store to Your Application
+This chapter provides guided steps for adding a store to your application.
+The Step-By-Step Process
+When you set up the project, make sure to link to StoreKit . f ramework. You can then add a store by following these steps: 1. Decide what products you wish to deliver with your application.
+There are limitations on the types of features you can offer. Store Kit does not allow your application to patch itself or download additional code. Products must either work with existing code in your application or must be implemented using data files delivered from a remote server. If you wish to add a feature that requires changes to your source code, you need to ship an updated version of your application. 2. Re gister product information for each product with iTunes Connect. You revisit this step every time you want to add a new product to your application's store. Every product requires a unique product identifier string. The App Store uses this string to look up product information and to process payments. Product identifiers are specific to your iTunes Connect account and are registered with iTunes Connect in a way similar to how you registered your application. The process to create and register product information is described in irunes Connect Developer Guide. 3. De t ermine whether payments can be processed. A user can disable the ability to make purchases inside applications. Your application should check to see whether payments can be purchased before queuing new payment requests. Your application might do this before displaying a store to the user (as shown here) or it may defer this check until the user actually attempts to purchase an item. The latter allows the user to see items that they could purchase when payments are enabled.
+if ([SKPaymentQueue canMakePayments]) // Display a store to the user.
+) else ( // Warn the user that purchases are disabled.
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+20
+
+CONFIDENTIAL
+
+DX-4649. 020
+
+APL-APPSTORE 00292688
+
+Adding a Store to Your Application The Step-By-Step Process
+4. Retrieve information about products. Your application creates an SKProducts Request object and initializes it with a set of product identifiers for the items you wish to sell, attaches a delegate to the request, and then starts it. The response holds the localized product information for all valid product identifiers. Keep the array of valid products from the response. When the user selects a product to buy, you will need a product object to create the payment request. (void) requestProductData
+SKProductsRequest w r e quest = [[SKProductsRequest alloc] in itWith P roduct Ident if ie rs:
+[NSSet setWithObj ect: kMyFeatureIdentif ier]]; request. delegate = sel f ; [request start];
+(void) productsRequest: (SKProductsRequest w) request didReceiveResponse: (SKProductsResponse w) response
+NSArray wmyProducts = r esponse. product s ; // Populate your UI from the products List. // Save a reference to the products List.
+5. Add a user interface that displays products to the user. Store Kit does not provide user interface classes. The look and feel of how you offer products to your customers is up to you!
+6. Re gister a transaction observer with the payment queue. Your application should instantiate a transaction observer and add it as an observer of the payment queue.
+MyStoreObserver wobserve r = [[MyStoreObserver alloc] init]; [ [SKPaymentQueue defaultQueue] addTransactionObserver: observer];
+Your application should add the observer when your application launches. The App Store remembers queued transactions even if your application exited before completing all transactions. Adding an observer during initialization ensures that all previously queued transactions are seen by your application. 7. Implement thepaymentQueue: updatedTransactions: method on MyStore0bserver.
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+
+CONFIDENTIAL
+
+DX-4649. 021
+
+APL-APPSTORE 00292689
+
+Adding a Store to Your Application The Step-By-Step Process
+The observer's paymentQueue: updatedTransact ions: method is called whenever new transactions are created or updated.
+-- (void)paymentQueue:(SKPaymentQueue *)queue updatedTransactions:(NSArray w) transactions
+for (SKPaymentTransaction wtransaction in transactions)
+switch (t r ansaction. t ransactionState)
+case SKPaymentTransactionStatePurchased: [ self completeTransaction: transaction] ; break;
+case SKPaymentTransactionStateFailed: [self failedTransaction:transaction]; break;
+case SKPaymentTransactionStateRestored: [ self r e st oreTransaction: transaction] ;
+d efault : break;
+8. Yo ur observer provides the product when the user successfully purchases an item. (void) completeTransaction: (SKPaymentTransaction w) transaction
+// Your application should implement these two methods. [self recordTransaction:transaction]; [self provideContent: transaction. payment. productIdentifier];
+// Remove the transaction from the payment queue. [ [SKPaymentQueue defaultQueue] f i n i s hTransaction: t r a nsaction ] ;
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc, All Rights Reserved,
+22
+
+CONFIDENTIAL
+
+DX-4649. 022
+
+APL-APPSTORE 00292690
+
+Adding a Store to Your Application The Step-By-Step Process
+A successful transaction includes a t ransact ionI dent if i e r property and a t ransact ionReceipt property that record the details of the processed payment, Your application is not required to do anything with this information, You may wish to record this information to establish an audit trail for the transaction, If your application uses a server to deliver content, the receipt can be sent to your server and validated by the App Store, It is critical that your application take whatever steps are necessary to provide the product that the user purchased. Payment has already been collected, so the user expects to receive the new purchase. See "Feature Delivery" (page 9) for suggestions on how you might implement this. Once you' ve delivered the product, your application must call f ini shT ransact ion: to complete the transaction. When you call f ini s hTransact io n:, the transaction is removed from the payment queue. To ensure that products are not lost, your application should deliver the product before calling f inishTransaction:. g. Fi n ish the transaction for a restored purchase,
+(void) restoreTransaction: (SKPaymentTransaction w) transaction
+[ self r e cordTransaction: t r ansaction] ; [self provideContent:
+t ransact ion.originalTransact ion. payment. productIdent if ier];
+[ [SKPaymentQueue defaultQueue] f i n i s hTransaction: t r a nsaction ] ;
+This routine is similar to that for a purchased item. A restored purchase provides a new transaction, including a different transaction identifier and receipt, You can save this information separately as part of any audit trail if you desire. However, when it comes time to complete the transaction, you' ll want to recover the original transaction that holds the actual payment object and use its product identifier. 10. Finish the transaction for a failed purchase,
+(void) failedTransaction: (SKPaymentTransaction w) transaction
+if (transaction. error.code ! = SKErrorPaymentCancelled) // Optionally, display an error here.
+[ [SKPaymentQueue defaultQueue] f i n i shTransaction: t r a nsaction ] ;
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc, All Rights Reserved,
+23
+
+CONFIDENTIAL
+
+DX-4649. 023
+
+APL-APPSTORE 00292691
+
+Adding a Store to Your Application Where to Go Next
+Usually a transaction fails because the user decided not to purchase the item. Your application can read the error field on a failed transaction to learn exactly why the transaction failed. The only requirement for a failed purchase is that your application remove it from the queue. If your application chooses to put up an dialog displaying the error to the user, you should avoid presenting an error when the user cancels a purchase. 11. With all the infrastructure in place, you can finish the user interface. When the user selects an item in the store, create a payment object and add it to the payment queue.
+SKProduct x selectedProduct = (¹f rom the products response List¹); SKPayment x payment = [SKPayment paymentWithProduct: selectedProduct]; [[SKPaymentQueue defaultQueue] addPayment:payment];
+If your store offers the ability to purchase more than one of a product, you can create a single payment and set the quantity property.
+SKProduct x selectedProduct = (¹f rom the products response List¹); SKPayment x payment = [SKPayment paymentWithProduct: selectedProduct]; payment. quantity = 3 ; [[SKPaymentQueue defaultQueue] addPayment:payment];
+Where to Go Next
+The code provided in these steps is best used for the built-in product model. If your application uses a server to deliver content, you are responsible for designing and implementing the protocols used to communicate between your application and your server. Your server should also verify receipts before delivering products to your application.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+24
+
+CONFIDENTIAL
+
+DX-4649. 024
+
+APL-APPSTORE 00292692
+
+Verifying Store Receipts
+Your application should perform the additional step of verifying that the receipt you received from Store Kit came from Apple. This is particularly important when your application relies on a separate server to provide subscriptions, services, or downloadable content. Verifying receipts on your server ensures that requests from your application are valid.
+Important: On iOS, the contents and format of the store receipt is private and subject to change. Your application should not attempt to parse the receipt data directly. Use the mechanism described here to validate the receipt and retrieve the information stored inside it. On Mac OS X, the contents and format of the store receipt are described in Validating Mac App Store Receipts. Mac OS X supports both the server validation method described in this chapter and the local validation method described in Validating Mac App Store Receipts.
+Verifying a Receipt with the App Store
+When Store Kit returns a completed purchase to your payment queue observer, the transaction's t ransact i o nReceipt property contains a signed receipt that records all the critical information for the transaction. Your server can post this receipt to the App Store to verify that the receipt is valid and has not been tampered with. Queries transmitted directly to the App Store are sent and received as JSON dictionaries, as defined in RFC 4627. To verify the receipt, perform the following steps: 1. Retrieve the receipt data from the transaction's t ransact i o nReceipt property (on iOS) or from the
+receipt file inside the application bundle (on Mac OS X) and encode it using base64 encoding. 2. Cr eate a JSON object with a single key named receipt -- data and the string you created in step 1. Your
+JSON code should look like this:
+" receipt -- data" : "i recei pt bytes here) "
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+25
+
+CONFIDENTIAL
+
+DX-4649. 025
+
+APL-APPSTORE 00292693
+
+Verifying Store Receipts The Store Receipt
+3. Po st the JSON object to the App Store using an HTTP POST request. The URL for the store is ht tps: //pa rtne r.it uncs. apple. corn/ve rifyReceipt.
+4. The response received from the App Store is a JSON object with two keys, status and recei pt . It should look something like this:
+" status" : 8 , "receipt": ( (receipt here) )
+If the value of the status key is 8, this is a valid receipt. If the value is anything other than 8, this receipt is invalid.
+The Store Receipt
+The receipt data you send to the App Store encodes information about the transaction. When the App Store validates a receipt, the data stored in the receipt data are decoded and returned in the receipt key of the response. The receipt response is a JSON dictionary that includes all of the information returned to your application in the SKPaymentTransact i o n object. Your server can query these fields to retrieve the details of the purchase. Apple recommends that you send only the receipt data to your server and use receipt validation to retrieve the purchase details. Because the App Store verifies that the receipt data has not been tampered with, retrieving this information from the response is more secure than transmitting both receipt data and the transaction data to your server. Table 5-1 provides a list of keys that you may use to retrieve information about the purchase. Many of these keys match properties on the SKPaymentTransact i o n class. All keys not specified in Table 5-1 are reserved for Apple.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+26
+
+CONFIDENTIAL
+
+DX-4649. 026
+
+APL-APPSTORE 00292694
+
+Verifying Store Receipts The Store Receipt
+
+Note: Some keys vary depending on whether your application is connected to the App Store or the sandbox testing environment. For more information on the sandbox, see "Testing a Store" (page 29).
+
+Table 5-1 Pu r c h ase info keys
+
+Daslcl"lPtlorl
+
+q uanti t y
+
+The number of items purchased. This value corresponds to the quantity
+property of the SKPayment object stored in the transaction's payment
+property.
+
+p roduct i d transaction id
+
+The product identifier of the item that was purchased. This value corresponds to the product I d e n t i f i e r p r operty of the SKPayment object stored in the transaction's payment property.
+' The transaction identifier of the item that was purchased. This value corresponds to the transaction's transact i o n I d e n t i f i e r p r operty.
+
+purchase date
+
+The date and time this transaction occurred. This value corresponds to the transaction's transact ionDate property.
+
+o riginaL transaction id
+
+For a transaction that restores a previous transaction, this holds the original transaction identifier.
+
+origi naL purchase -- date
+
+For a t ransaction that restores a previous transaction, this holds the original purchase date.
+
+app item id
+version exte ma L -
+identifier
+
+A string that the App Store uses to uniquely identify the application that created the payment transaction. If your server supports multiple applications, you can use this value to differentiate between them. Applications that are executing in the sandbox do not yet have an app -- item --id assigned to them, so this key is missing from receipts created by the sandbox.
+I An arbitrary number that uniquely identifies a revision of your application. This key is missing in receipts created by the sandbox.
+
+bid
+
+I The bundle identifier for the application.
+
+bvrs
+
+A version number for the application.
+
+Table 1 in the Apple article "Validating Mac App Store Receipts" is extended as shown below.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+27
+
+CONFIDENTIAL
+
+DX-4649. 027
+
+APL-APPSTORE 00292695
+
+Verifying Store Receipts The Store Receipt
+
+Table 5-2 Rec e ipt attribute types
+
+T)f pra
+
+98 f fFJ itlCt Jt
+
+2
+
+Bundle identifier
+
+Application version
+
+Opaque value
+
+SHA-1 hash
+
+Purchase date
+
+17
+
+In-app purchase receipt
+
+18
+
+Original purchase date
+
+19
+
+Original application version
+
+20
+
+The charge country code
+
+(conforming to the ISO 4217
+
+specification).
+
+21
+
+Web order number. Seen by
+
+customers in their invoice.
+
+22
+
+Unique customer ID.
+
+Interpreted as an ASN.1 UTFBSTRING. Interpreted as an ASN.1 UTFBSTRING. Interpreted as a series of bytes. Interpreted as a 20-byte SHA-1 digest value. Interpreted as an AST.1 UTFBSTRING containing an RFC 3339 date. Interpreted as an in-app purchase receipt, as described in "Validate In-App Purchases". Interpreted as an AST.1 UTFBSTRING containing an RFC 3339 date. Interpreted as an AST.1 UTFBSTRING containing the value of CFBundleVersion (on iOS) or CFBundleShortVersion (onOSX) fortheapp when the purchase was originally made. Interpreted as an ASN.1 UTF8STRING
+Interpreted as an ASN.1 UTF8STRING
+Interpreted as an ASN.1 UTF8STRING
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+28
+
+CONFIDENTIAL
+
+DX-4649. 028
+
+APL-APPSTORE 00292696
+
+Testing a Store
+During development, you should test your application to ensure that purchases are working correctly. However, you do not want to charge users while testing your application. Apple provides a sandbox environment to allow you to test your application without creating financial transactions.
+Note: Store Kit does not operate in iOS Simulator. When running your application in iOS Simulator, Store Kit logs a warning if your application attempts to retrieve the payment queue. Testing the store must be done on actual devices.
+The Sandbox Environment
+When you launch your application from Xcode, Store Kit does not connect to the App Store. Instead, it connects to a special sandbox store environment. The sandbox environment uses the infrastructure of the App Store, but it does not process actual payments. It returns transactions as if payments were processed successfully. The sandbox environment uses special iTunes Connect accounts that are limited to In-App Purchase testing. You cannot use your normal iTunes Connect account to test your store in the sandbox. To test your application, create one or more special test accounts in iTunes Connect. You should make at least one test account for each region that your application is localized for. Detailed information about creating test accounts can be found in iTunes Connect Developer Guide.
+Testing in the Sandbox
+Follow these steps to test your application in the sandbox. 1. Log out from your iTunes account on the test device.
+Before you can test your application, you must first log out of your regular iTunes account. iOS 3.0 includes a Store category in the Settings application. To log out of your iTunes account, exit your application, launch the Settings application and click the Store icon. Sign out from the currently active account.
+Important: Do not sign in with your test account in the Settings application.
+2. La u nch your application.
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+29
+
+CONFIDENTIAL
+
+DX-4649. 029
+
+APL-APPSTORE 00292697
+
+Testing a Store Validating Receipts in the Sandbox
+Once you have signed out of your account, exit Settings and launch your application. As you make purchases from your application's store, Store Kit prompts you to authenticate the transaction. Log in using your test account to approve the payment. No financial transaction takes place, but transactions complete as if a payment was made.
+Validating Receipts in the Sandbox
+You may also validate receipts created by the sandbox environment. The code to validate a receipt received from the sandbox is identical to that for the regular App Store, except your server must direct the request to the sandbox URL.
+NSURL xsandboxStoreURL = [ [NSURL a[[ oc ] i ni t W i t h S t r i n g : Ia"https://sandbox. itunes.app[e.corn/verifyReceipt"];
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+30
+
+CONFIDENTIAL
+
+DX-4649. 030
+
+APL-APPSTORE 00292698
+
+Auto-Renewable Subscriptions
+Note: Subscriptions are available only on iOS. In-App Purchase provides a standardized way to implement auto-renewable subscriptions. Auto-renewable subscriptions have a few notable characteristics:
+When you configure an auto-renewable subscription in iTunes Connect, you also configure the duration for the subscription and other marketing options. Auto-renewable subscriptions are restored automatically using the same Store Kit functions used to restore non-consumable products. The original purchase transaction as well a transaction for each renewal are sent to your application. See "Restoring Transactions" (page 19). When your server verifies a receipt with the App Store and the subscription is both active and has been renewed by the App Store, the App Store returns an updated receipt to your application.
+Adding Auto-Renewable Subscriptions to Your Store
+To implement auto-renewable subscriptions, follow these steps: Connect to iTunes Connect and use it to create a new shared secret. A shared secret is a password that your server must provide when validating receipts for auto-renewable subscriptions. This shared secret provides an additional layer of security to your transactions with the App Store. Seei Tunes Connect Developer Guide. Configure new products in iTunes Connect with the new auto-renewable subscription type. Modify your server's receipt verification code so that it adds the shared secret to the JSON data it sends to the App Store. Your server's verification code must parse the response to determine whether the subscription has expired. If the subscription has been renewed by the user, the most current receipt is also returned to your server.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+31
+
+CONFIDENTIAL
+
+DX-4649. 031
+
+APL-APPSTORE 00292699
+
+Auto-Renewable Subscriptions Designing your Client Application
+
+Designing your Client Application
+In most cases, your client application should require minimal changes to support auto-renewable subscriptions. In fact, your client application is now made simpler, as you can use the same code to recover auto-renewable subscriptions as you do to recover non-consumable products. Your application receives a separate transaction for each period of time where the subscription was renewed; your application should verify each receipt separately.
+
+Verifying an Auto-renewable Subscription Receipt
+Verifying a receipt for an auto-renewable subscription is almost identical to the process described in "Verifying Store Receipts" (page 25). Your application creates a )SON object and posts it to the App Store. The )SON object for an auto-renewable subscription receipt must include a second parameter -- the shared secret you created earlier on iTunes Connect:
+
+" receipt -- data" : " ( r ecei pt b y t e s h e r e ) " ,
+
+"password"
+
+" (shared secret by tes here) "
+:
+
+The response includes a status field that indicates whether the receipt was successfully validated.
+" status" : 8, "receipt": ( (receipt here) ), "Latest receipt": " (base -- 64 encoded r e c ei p t h e r e ) " , "Latest receipt info": ( (Latest receipt info here) )
+
+If the user's receipt was valid and the subscription is active, the status field holds 8, and the receipt field is populated with the decoded receipt data. If your server receives a non-zero status value, use Table 7-1 to interpret non-zero status codes.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+32
+
+CONFIDENTIAL
+
+DX-4649. 032
+
+APL-APPSTORE 00292700
+
+Auto-Renewable Subscriptions Verifying an Auto-renewable Subscription Receipt
+
+Table 7-1 Stat u s codes for auto-renewable subscriptions Status Cede Das e riptlon
+
+21000
+
+The App Store could not read the JSON object you provided.
+
+21002
+
+The data in the receipt-data property was malformed.
+
+21003
+
+The receipt could not be authenticated.
+
+21004
+
+The shared secret you provided does not match the shared secret on file for your account.
+
+21005
+
+The receipt server is not currently available.
+
+21006
+
+This receipt is valid but the subscription has expired. When this status code is returned to your server, the receipt data is also decoded and returned as part of the response.
+
+21007
+
+This receipt is a sandbox receipt, but it was sent to the production service for verification.
+
+21008
+
+This receipt is a production receipt, but it was sent to the sandbox service for verification.
+
+Important: The non-zero status codes here apply only when recovering information about a auto-renewable subscription. Do not use these status codes when testing responses for other kinds of products.
+The receipt field on the JSON object holds the parsed information from the receipt. The receipt data for an auto-renewable subscription includes one additional key, and some other key previously described in Table 5-1 (page 27) are modified slightly for subscriptions. See Table 7-2 for details on the new and modified keys.
+
+Table 7-2 Auto- r e newable subscription info keys
+
+Description
+
+expires dat e
+o riginaL transaction id
+
+The expiration date of the subscription receipt, expressed as the number of milliseconds since January 1, 1970, 00:00:00 GMT. This key is not included on restored transactions.
+II
+This holds the transaction identifier for the initial purchase. All subsequent renewals of this subscription and recovered transactions all share this , identifier.
+
+origi naL purchase -- I T h i s holds the purchase date for the initial purchase; it represents the start
+
+date
+
+date for the subscription.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+33
+
+CONFIDENTIAL
+
+DX-4649. 033
+
+APL-APPSTORE 00292701
+
+Auto-Renewable Subscriptions Restoring Auto-Renewable Subscriptions
+
+purchase date
+
+Deseriptiorl
+This holds the billing date when this transaction occurred. For a transaction for a renewable subscription, this would be the date when the subscription was renewed. If the receipt being parsed by the App Store was the latest receipt for this subscription, this field holds the date when this subscription was most recently renewed.
+
+In addition to the receipt d a t a field, the response may also include two new fields. If the user's subscription is active and was renewed by a transaction that took place after the receipt your server sent to the App Store, the Latest r e c e i p t f i eld includes a base-64 encoded receipt for the last renewal for this subscription. The decoded data for this new receipt is also provided in the Latest e x p i r e d r e c e i p t i n fo field. Your server can use this new receipt to maintain a record of the most recent renewal.
+
+Restoring Auto-Renewable Subscriptions
+The App Store creates a separate transaction each time it renews a subscription. When your application restores previous purchases, Store Kit delivers each transaction to your application. To restore the content for this purchase, your application should combine the purchase date of each transaction with the length of the subscription. The length of the subscription is not provided in by the SKPaymentTransact ion object or in the receipt data returned by the App Store receipt validator. You should use a different product identifier for each subscription length so that your application can convert a product identifier into a subscription length. Then, use this length and the purchase date to determine the interval over which this receipt was valid.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+34
+
+CONFIDENTIAL
+
+DX-4649. 034
+
+APL-APPSTORE 00292702
+
+In-App Auto-Renewable Subscriptions
+
+This chapter extends the previous chapter to describe how your iOS application can let users make in-app purchases and renewals of auto-renewable subscriptions.
+Note: The in-app purchase process normally follows the server product model described in "Server Product Model" (page 11).
+
+In-App Subscription Purchasing
+To support in-app subscription purchases, you need to register your application with iTunes Connect. This will require you to create a shared secret, which must be a 32-character string of hexadecimal digits. The App Store will use this secret string, along with your app's Bundle ID, to authenticate your app's requests and to authenticate its notifications to your app. After registration, your app's communications with the App store must consist of posting JSON dictionaries, as defined in RFC4627; see "Verifying a Receipt with the App Store" (page 25).
+Table 8-1 (page 35) lists the Store Kit APls that your application can use for in-app subscription purchases, in addition to the APls described elswhere in this programming guide.
+Note: When you are testing your app in a sandbox, replace the host names in Table 8-1 with sandbox. it unes. apple. corn.
+Table 8-1 In-a p p purchase requests and notifications
+
+ve rifyReceipt
+modifySubscription-
+Payment
+
+Your application verifies the validity of a receipt with the App Store by posting a JSON message to ht tps://buy. itunes. apple.corn/Web0bj ects/ MZFinance. woa/wa/verifyReceipt.
+Your application authorizes the App Store to refund all or part of a subscription payment by posting a JSON message to https://pa rtner. itunes. apple.corn/WebObj ects/ SRVPa rtne r.woa/wa/modif ySubs c ript ionPayment.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+35
+
+CONFIDENTIAL
+
+DX-4649. 035
+
+APL-APPSTORE 00292703
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+
+paymentDetails
+extendAutoRenewDate
+statusUpdateNot ification
+
+AftIoll
+Your application asks the App Store to provide details of a payment made , by a customer by posting a JSON message to
+https://pa rtner. itunes. apple.corn/WebObj ects/ SRVPartner.woa/wa/paymentDetails.
+Your application authorizes the App Store to extend the current time of an auto-renewable subscription by posting a JSON message to https://pa rtner. itunes. apple.corn/WebObj ects/ SRVPa rtne r.woa/wa/extendAutoRenewDate.
+The App Store notifies your application of user actions that affect the ,,status of a subscription. It posts this message to a URL that your application
+designates by implementing external St a t u sUpdateCall b a ckURL().
+
+The error codes that the App Store can return for in-app subscription messages are listed in Table 8-2 (page 36).
+
+Table 8-2 In-a p p subscription message error codes
+
+Error cottditioTI
+
+1103 All m e ssages
+
+INVALID RECEIPT: Invalid receipt in message.
+
+1104 All m e ssages
+
+INVALID CUSTOMER: Invalid customer info provided.
+
+1105 All m e ssages
+
+MISSING PARAM: Required parameter missing.
+
+1107 All m e ssages
+
+INTERNAL ERROR: An internal error occurred.
+
+110 6
+
+ext e n d AutoRenew or modifySubscriptionPayment
+
+INVALID DATE: Invalid date provided.
+
+1108 modif y SubscriptionPayment
+
+DISABLE FAILED: Disabling auto renew failed. No cancellation attempted.
+
+1109 modif y SubscriptionPayment
+
+CANCEL FAILED: Failed to disable or cancel subscription.
+
+1110
+
+modifySubscriptionPayment
+
+DISABLE SUCCEEDED CANCELLATION FAILED:Auto renew disabled, but attempt to cancel failed.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+36
+
+CONFIDENTIAL
+
+DX-4649. 036
+
+APL-APPSTORE 00292704
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+
+The verifyReceipt Request
+The general ve rif yReceipt request is described in "Verifying Store Receipts" (page 25), with its keys listed in Table 5-1 (page 27). When you use it for in-app subscriptions, you can include the additional keys shown in Table 8-3 (page 37).
+
+Table 8-3
+
+In-a p p subscription keys for verifyReceipt Deserlptlon
+
+web o rde r i d
+
+Order number that users see on the iTunes purchase history page associated with their purchases. Multiple purchases can be associated w ith a single web o rde r i d .
+
+web order L i n e item id
+
+A unique id for a receipt.
+
+c ustomer i d
+
+A unique ID for each customer. Its value is the same across renewals for a single subscription and for all subscriptions from that customer. This value appears on the App Store receipt.
+
+item id
+
+A unique ID assigned by Apple to each product sold by an application.
+
+expires dat e
+
+Time when the subscription expires, in milliseconds since the system epoch.
+
+expires dat e formatted
+
+Time when the subscription expires, formatted to be human-readable.
+
+c anceLLation d a t e
+
+Subscription cancellation date, formatted to be human-readable. Posted only if the subscription was refunded.
+
+Table 2 in the Apple article "Validating Mac App Store Receipts" is extended as shown below.
+
+Table 8-4 In-a p p purchase receipt attribute types Type Defi n ition
+
+1 701 Quan t i t y
+
+Interpreted as an ASN.1 INTEGER.
+
+1702 Prod u ct identifier
+
+Interpreted as an ASN.1 UTF8STRING.
+
+1703 Tra n saction identifier
+
+Interpreted as an ASN.1 UTF8STRING.
+
+1704 Purc h ase date
+
+Interpreted as an ASN.1 IA5STRING containing an RFC 3339 date.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+37
+
+CONFIDENTIAL
+
+DX-4649. 037
+
+APL-APPSTORE 00292705
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+
+Tjjpe
+170 5 170 6
+171 0 171 1
+171 2 171 3 171 4 171 5 171 6
+
+Gef lr i l tloll
+
+Value
+
+Orig i nal transaction identifier
+
+Interpreted as an ASN.1 UTF8STRING.
+
+Orig i nal purchase date
+
+Interpreted as an ASN.1 IA5STRING containing an RFC 3339 date.
+
+Ite m I D
+
+Interpreted as an ASN.1 INTEGER.
+
+Web o r der line item ID
+
+Interpreted as an ASN.1 INTEGER.
+This is the primary key for identifying subscription purchases.
+
+Canc e lation date
+
+Interpreted as an ASN.1 IA5STRING containing an RFC 3339 date.
+
+Whet h e r the receipt is for a trial period purchase.
+
+Interpreted as an ASN.1 UTF8STRING
+
+The a m ount charged to the customer. Inte r p reted as an ASN.1 UTF8STRING
+
+The e s timated tax amount.
+
+Interpreted as an ASN.1 UTF8STRING
+
+The r e ceipt currency code (conforming to the ISO 4217 specification).
+
+Interpreted as an ASN.1 UTF8STRING
+
+In addition to the responses described in "The Store Receipt" (page 26), the response to a ve rif yReceipt request for an in-app subscription may contain the keys listed in Table 8-5 (page 38).
+
+Table 8-5 Add it i o n al verifyReceipt response keys
+
+Deserlptieii
+
+status
+
+Zero if successful, nonzero for any error condition; see Table 7-1 (page 33).
+
+Latest receipt info
+
+A plist that is sent only if the status value is 0. For plist keys, see Table 8-3 (page 37).
+
+Latest e x p i r e d receipt info
+
+A plist that is sent only if the status value is 21006 (inactive). For plist keys, see Table 8-3 (page 37).
+
+Latest receipt
+
+A blob of text that is sent only if the status value is 0.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+38
+
+CONFIDENTIAL
+
+DX-4649. 038
+
+APL-APPSTORE 00292706
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+
+c anceLLation d a t e
+
+Description
+The subscription cancellation date, formatted to be human-readable.
+
+You might use these veri f y Receipt keys in the following scenarios:
+The current date is past the subscription period end date known to your application. Your application uses ve rif yReceipt to see if a new receipt for the next subscription period is available.
+The content provider has changed a subscription, using modifySubscr i p t i o n Payment. When the customer visits the provider's website, the website should display the date on which the subscription is expected to end.
+Any other scenario where your application wants to determine the current status of the customer' s subscription.
+
+Sample verifyReceipt JSON Object for in-app subscriptions
+A typical JSON object to verify an in-app subscription receipt might looks like this:
+
+"receipt": ( "o riginaL t ran sact ion id": "128888886543377", "expires dat e " : " 1 385411365888", "expires date formatted":"2811 8--9 --24 83:36:38 Etc/GMT", "app item id":"411516732", "t ransact ion id": "128888886672919", " quantit y " : " 1" , " bvrs" · "] 8 6 " "version exte ma Lident ifier":"3629887", "product i d " : "TD81182811813", "purchase date": "2811-85-87 22: 16:85 Etc/GMT", "originaL purchase date":"2811 --85 --87 22:16:88 Etc/GMT", "bid": "corn.mymag. ipad", "item id":"415584888", "canceLLation date":"2811-85-89 11: 16:88 Etc/GMT", "web order Line item id": 128882326672919, "web orde r i d " : " M ERP7X44Y",
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+39
+
+CONFIDENTIAL
+
+DX-4649. 039
+
+APL-APPSTORE 00292707
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+"customer i d " : ( T EXT),
+
+The modifySubscriptionPayment Request
+A content provider may allow customers to cancel their subscriptions on its website, even if the customer signed up via your app. In this case, the provider uses the modif ySubs c ript ionPayment JSON object. This API lets the provider modify or refund a subscription payment without cancelling service. The provider must tell Apple how they expect the modification or refund to be made.
+The modif ySubsc rip t i o n Payment JSON object is sent via an HTTP post. The content provider posts any receipt that was generated during the subscription, using the request keys listed in Table 8-6 (page 40). The App Store response keys are listed in Table 8-7 (page 41).
+
+Table 8-6 receipt
+
+mod if y s ubscriptionPayment request keys
+M a.rtdatr4yt/optical
+mandatory
+
+c ustomer i d web o rde r i d password
+
+mandatory mandatory mandatory
+
+disabLe auto r enew
+
+optional
+
+c anceL subscri p t i o n
+
+optional
+
+partiaL canceLLation » optional
+
+Besjcriytlon
+A receipt blob taken from a veri f y Recei p t response.
+Text taken from a ve rif yReceipt response.
+Text taken from a ve rif yReceipt response.
+The same password string that was used with ve rifyReceipt.
+A Boolean value that turns off auto-renew if t rue. If not t rue, the auto-renew setting remains unchanged.
+A Booleanvalue.IfcanceL subscription is trueand partiaL canceLLation is f aLse, the App Store cancels the customer' s subscription and makes a full refund.
+A Boolean value. If both partiaL canceLLation and canceL subscription aretrue, the App Store cancels part of a subscription. To cancel an amount less than the remainder of the subscription, post ef fect i v e d a t e also.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+40
+
+CONFIDENTIAL
+
+DX-4649. 040
+
+APL-APPSTORE 00292708
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+
+effective date
+
+Manclatory/optlortal optional
+
+Des c ription
+A long integer representing a timestamp in milliseconds since the system epoch. For example, 1332632322001 = Sat, 24 Mar 2012 23:38:42GMT. IfpartiaL canceLLation is t rue, The App Store uses this value to calculate how much refund to give. If partiaL canceLLation istrue and this value is not sent, the App Store refunds the unused portion of subscription. For example, if a full month was purchased and the customer decides to cancel after two weeks, the refunded amount would be payment for two weeks.
+
+Note: Cancelling a subscription does not automatically disable its auto-renewal. If the intention is to erase a subscription completely, it must be cancelled and its auto-renewal must also be disabled.
+
+Table 8-7
+
+mod if y S ubscriptionPayment response keys D'eSCrtptlCrn
+
+success
+
+t rue if the subscription modification was successful, f aLse otherwise.
+
+error code
+
+Error code if success is f aLse
+
+error message
+
+A des c r iption of the error if success is faLse
+
+c anceL st at e
+
+If cancellation was requested, this reports the status of the cancellation: CANCELLED CANCEL PENDING CANCEL FAILED
+
+A successful modif ySubs c ript ionPayment response passes true: ("success":t r ue)
+A modifySubscr i p t i o n Payment response that indicates a problem passes an error code:
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+41
+
+CONFIDENTIAL
+
+DX-4649. 041
+
+APL-APPSTORE 00292709
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+
+" success": f a l s e , "error code": 1923, "er ro r message" : "Subscription is older then 7 days, cannot cancel"
+
+The paymentDetails Request
+Your application posts a paymentDetai l s JSON object that queries the App Store for the actual amount charged and other related attributes of an in-app transaction.
+T he unique web order i d r eference from the veri f y Receip t request is passed in the payment Detai l s request, as shown in Table 8-8 (page 42). The fields of the paymentDetai l s response are shown in Table 8-9 (page 42).
+
+Table 8-8 payme n tDetails request keys
+
+Mandatory/optional Des c ription
+
+receipt
+
+mandatory
+
+A receipt blob taken from a veri f y Recei p t response.
+
+c ustomer i d
+
+mandatory
+
+I Text taken from the veri f y Receip t response.
+
+password
+
+mandatory
+
+I The same password string that was used with ve rifyReceipt.
+
+w eb o rde r l i n e item id
+
+~ mandatory
+
+A string taken from the veri f y Recei p t response.
+
+Table 8-9 payme n tDetails response keys
+
+amount charge d tax amount tax rate currency code
+
+Amoun tc harged to the customer (including taxes) for the subscription. Amount of taxes charged. Total tax rate as a percentage. The ISO currency code of the money used in the transaction.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+42
+
+CONFIDENTIAL
+
+DX-4649. 042
+
+APL-APPSTORE 00292710
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+
+charge countr y amount re mi t t e d
+
+&list:rlption
+Country under which the charge was processed; normally, the iTunes country in which the customer resides.
+Amoun t to be remitted to the content provider after fees.
+
+Sample paymentDetails response
+The App Store responds to a paymentDetai l s request with specific figures:
+
+" amount c h a r ged" : 7 . 4 8 , " tax amount": . 4 9 , " tax rat e" : 7 , " cur r ency c o d e " : "USD", " charge count r y " : "US", "amount remitted": 5.94
+
+extendAuto Renew Date
+Your application posts this JSON object to extend the date of an auto-renewable subscription. A typical reason for doing this would be to compensate a customer in order to resolve a dispute. The request keys are listed in Table 8-10 (page 43).
+
+Table 8-10 ext e n dAutoRenewDate request keys
+
+tw@rtd@tory/eptietia l
+
+Pe sc r i pt1011
+
+receipt
+
+mandatory
+
+A receipt blob taken from a veri f y Receipt response.
+
+customer id Im a ndatory
+
+Text taken from a veri f y Receipt response.
+
+web o rde r i d
+
+manda t o ry
+
+Text taken from a veri f y Receipt response.
+
+password
+
+mandatory
+
+The same password string that was used with ve rifyReceipt.
+
+extendTo
+
+mandatory
+
+A timestamp in milliseconds since the system epoch. For example, 1332632322001 = Sat, 24 Mar 2012 23:38:42 GMT.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+43
+
+CONFIDENTIAL
+
+DX-4649. 043
+
+APL-APPSTORE 00292711
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+
+The extendAutoRenewDate responsekey is:
+
+success:
+
+Pescriptkrrl t rue if successful, f a use for any error condition
+
+A successful extendAutoRenewDate response passes true: ("success":t r ue)
+
+An extendAutoRenewDate response that indicates a problem passes an error code:
+
+" success": f a l s e , "error code": 1184, "er ro r message" : "Invalid customer info provided"
+
+statsUUpdateNotification
+Your application must parse and interpret statusUpdateNotificat ion JSON object posts. Apple may post
+one under any of the following conditions: A customer has successfully renewed. A renewal failed and the associated subscription has ended. A customer cancelled a subscription mid-period (e.g., by contacting customer service). A customer bought a subscription on the iTunes management page after an existing subscription had expired.
+The statusUpdateNot i f i c a t i o n is an HTTP post. The body ofthe post contains the data elements listed in Table 8-11 (page 45).
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+44
+
+CONFIDENTIAL
+
+DX-4649. 044
+
+APL-APPSTORE 00292712
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+
+Table 8-11 s t a t usUpdateNotification keys
+
+Deserijtiorl
+
+envi r o nment
+
+Specifies whether the notifications is for a sandbox or a production " environment:
+SANDBOX
+PROD
+
+notification type
+
+Describes the kind of event that triggered the notification. Possible values are:
+INITIAL BUY CANCEL RENEWAL
+INTERACTIVE RENEWAL
+
+password o riginaL transaction id c ustomer i d
+c anceLLation d a t e
+web order L i n e item id Latest r e c e i p t i n fo
+
+RENEWAL is sent when a subscription lapses and is ready for renewal. This notification is sent even if renewal is tried and fails or AutoRenew is
+disabled.
+INTERACTIVE RENEWAL indicates that the customer renewed a subscription interactively after it had lapsed, either by using your application's interface or through iTunes. The content provider is asked to turn on service.
+This is the shared secret you post when validating receipts.
+This ID is the same for all receipts ever generated for the same subscription.
+A unique ID for each customer. Its value is the same across renewals for a single subscription and for all subscriptions from that customer. This value appears on the App Store receipt.
+Subscription cancellation date, formatted to be human-readable. Posted only if the notif i c a t i o n t y p e is CANCEL.
+A string taken from the ve rif y Receipt response. Posted only if the notification type isCANCEL.
+A plis t . For plist keys, see Table 8-3 (page 37). Posted only if the not if i c a t i o n t y p e is RENEWAL or INTERACTIVE RENEWAL and only if renewal was successful.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+45
+
+CONFIDENTIAL
+
+DX-4649. 045
+
+APL-APPSTORE 00292713
+
+In-App Auto-Renewable Subscriptions In-App Subscription Purchasing
+
+Latest e x p i r e d receipt info
+Latest receipt
+
+Description
+A plist. For plist keys, see Table 8-3 (page 37). Posted only if the not if i c a t i o n t y p e is RENEWAL or CANCEL and only if renewal was successful.
+A blob of receipt text. Posted only if the not if ica t i o n t y p e is RENEWAL or INTERACTIVE RENEWAL and only if renewal was successful.
+
+Note: A notification specifies the status of a subscription at the time the notification was sent. To o btain later information, the application should use veri f y Recei p t .
+
+Your application is not required to return a data value from a statusUpdateNoti f i c a t i o n post; to indicate success, it should just send an HTTP status code of 200. If your application sends a 50x HTTP code, the App Store will retry the notification. The timeouts for notifications are shown in Table 8-12 (page 46).
+
+Table 8-12 sta t u sUpdateNotification timeouts
+
+Spec'fA'c@tlort
+
+C onnection timeout 1000 m s
+
+Read timeout
+
+5000 ms
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+46
+
+CONFIDENTIAL
+
+DX-4649. 046
+
+APL-APPSTORE 00292714
+
+Document Revision History
+
+This table describes the changes to Update to In-App Purchase Programming Guide.
+
+2015-02-26 2013-02-08 2012-08-02
+
+Updated Table 8-1 (page 35) and Table 8-11 (page 45).
+Added Table 5-2 (page 28) and Table 8-4 (page 37).
+First release: Added chapter "In-App Auto-Renewable Subscriptions" (page 35) to existing In-App Purchase Programming Guide.
+Changed URL buy. ituncs. apple. cornto pa rtner. ituncs. apple. cornthroughout.
+
+2014-02-26 -- APPLE CONFIDENTIAL I Copyright © 2015 Apple inc. All Rights Reserved.
+47
+
+CONFIDENTIAL
+
+DX-4649. 047
+
+APL-APPSTORE 00292715
+
+Apple Inc. Copyright © 2015 Apple inc. All rights reserved.
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, mechanical, electronic, photocopying, recording, or otherwise, without prior written permission of Apple inc., with the following exceptions: Any person is hereby authorized to store documentation on a single computer for personal use only and to print copies of documentation for personal use provided that the documentation contains Apple's copyright notice.
+No licenses, express or implied, are granted with respect to any of the technology described in this document. Apple retains all intellectual property rights associated with the technology described in this document. This document is intended to be used in the development of solutions for Apple-branded products.
+Apple Inc. 1 Infinite Loop Cupertino, CA 95014 408-996-101 0
+Apple, the Apple logo, iTunes, Mac, Mac OS, OS X, Sand, WebObjects, and Xcode are trademarks of Apple Inc., registered in the U.S. and other countries.
+App Store and Mac App Store are service marks of Apple Inc.
+IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license.
+Even though Apple has reviewed this document, APPLE MAKES NO WARRANTY OR REPRESENTATION, EITHER EXPRESS ORIMPLIED,WITH RESPECT TO THIS DOCUMENT, ITSQUALITY, ACCURACY, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. AS ARESULTT,HIS DOCUMENT IS PROVIDED "AS IS," AND YOU, THE READER, ARE ASSUMING THE ENTIRE RISK AS TO ITS QUALITY AND ACCURACY.
+IN NO EVENTWILL APPLE BE LIABLE FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM ANY DEFECT OR INACCURACY IN THIS DOCUMENT, even if advised of the possibility of such damages.
+THE WARRANTY AND REMEDIES SET FORTH ABOVE ARE EXCLUSIVE AND IN LIEU OF ALL OTHERS, ORAL OR WRITTEN, EXPRESS ORIMPLIED.No Apple dealer, agent, or employee is authorized to make any modification, extension, or addition to this warranty.
+Some states do notallow the exclusion or limitation of implied warranties or liability for incidental or consequential damages, sothe above limitation or exclusion may not apply to you. This warranty gives you specific legal rights, and you may also have other rightswhich vary from stateto state.
+
+CONFIDENTIAL
+
+DX-4649. 048
+
+APL-APPSTORE 00292716
+
+

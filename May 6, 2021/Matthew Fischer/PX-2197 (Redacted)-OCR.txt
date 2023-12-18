@@ -1,0 +1,155 @@
+Subject: R e: HOT Fwd: XcodeGhost Apps
+
+From: "Matt Fischer"
+
+Received(Date): Mon, 21 Sep 2015 23:00:29 -IOOOO
+
+To: "Dale Bagweli m
+
+Cc: uRon Okamotom
+Blumsack m pts
+
+, eTom Neumayr u mC tme Monaghan"
+."Phillip Shoemaker" ."G J u "~
+,nAyman Khalil n , "Matt Railo n ale Bagwellm
+
+Date: Mo n, 21 Sep 2015 23:00:29 +0000
+
+PLAINTIFF
+U.S. Dlutrlot Court - tdDGAL
+4t20ev45040 YGR TSH
+Epte Gemee,Ine. u.Apple Ine.
+Sx.N~P J~9
+Dete Entered sy
+. "Emily ,"Glenn
+
+Thanks Dale. That's very helpful information.
+
+Joz and PR - let us know what you want to do.
+
+Best,
+
+Matt
+
+On Sep 21, 2015, at 3:55 PM, Dale Bagwell
+
+wmte:
+
+Thanks Matt-
+
+Just want to set expectations correctly here. We have a mass-request tool that will allow us to send the emails, however we are still testing to make sure that we can accurately include the names of the apps for each customer. There have been issues with this speci5c functionality in the past.
+Also - I want to be clear that the tool is very limited in the number of emails it can handle. With a batch this big (128M) we would likely have to spend up to a week sending these messages, so after localizing the emails (which will take several days) we 'll need at least a week for the sendif we are using the mass-request tool.
+I' ll let you know the results of our testing of the functionality as soon as they 're complete.
+
+Dale
+
+Dale Bagwell ITunes I Apple Inc.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-2197.1 APL-APPSTORE 09300035
+
+On Sep 21, 2015, at 3i48 PM, Matt Fische
+
+wrote:
+
+Privileged and Confidential
+
+Adding Joz, per Phil and Ron's request. I' ve also added Emily, as well as Matt, Glenn and Dale from iTunes Operations.
+
+On the customer front, Ayman has concluded his analysis, and in total, 128M customers have downloaded the2500+ apps thatwere affected LTD. Those customers drove 203M downloads of
+the 2500+ affected apps LTD. More details below.
+
+Joz, Tom and Christine - due to the large number of customers potentially affected, do we want to send an email to all of them?
+
+If yes, Dale Bagwell from our Customer Experience team will be on point to manage this on our side. Note that this will pose some challenges in terms of language localizations of the email, since the
+downloads of these apps took place in a wide variety of App Store storefronts around the world (e.g. we wouldn't want to send an English-language email to a customer who downloaded one or more of these apps from the Brazil App Store, where Brazilian Portuguese would be the more appropriate language).
+
+Best,
+
+Matt
+
+On Sep 21, 2015, at 3:20 PM, Matt Fischer
+
+wrote:
+
+FYI - in total, 128M customers are impacted based on the 2500+ apps. More details from Ayman below.
+
+Best,
+
+Matt
+
+Begin forwarded message:
+
+From: Ayman Khalil
+
+Subject: Re: HOT Fwd: XcodeGhost Apps
+
+Date: September 21, 2015 at 3:07:56 PM PDT
+
+To: Matt Fischer
+
+Cc: Emily Blumsack
+
+Phillip Shoemaker
+
+128M customersareimpacted based on the 2.5K apps.These customers drove 203M downloads.
+
+China represents55% of customers and 66% of downloads. As you can see,asignificantnumber (18M customers) are affectedin theUS.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-21 97.2 APL-APPSTORE 09300036
+
+Below are the top 10 markets by customers:
+
+<Screen Shot 2015-09-21 at 2.47.33 PM.png>
+
+We have addedtothe spreadsheet:
+
+-The share ofdownloads fortheChina storeto thespreadsheet
+
+- The comprehensive list of customers by country
+
+<XcodeGhost Affected Apps List. numbers> On Sep 21, 2015, at 1:59 PM, Ayman Khalil
+
+wrote:
+
+Hi Matt,
+
+We are workingon the totalcustomers affected number. Below has the download datawe were able to gather quickly.
+
+These 2.5K apps have 203M downloads LTD. We have attached things broken out by app in the below spreadsheet.
+
+Pleasenote that 9 ofthe apps have never been downloaded (1023349938,1000316840,1012852987,1038003495,993438173,992069055,972961604,1034631068,1016840838).
+
+<XcodeGhost Affected Apps List - EXPORT numbers>
+
+On Sep 21, 2015, at 12:40 PM, Matt Fischer
+
+wrote:
+
+Privileged and Confidential
+
+Ayman,
+
+Per our conversation, please run a report on LTD downloads of the following apps.
+
+Then we need to know the total number of customers that have downloaded these apps to determine the potential totalnumber ofcustomers affected.
+
+Thanks,
+
+Begin forwarded message: From: Phillip Shoemaker
+Subject:XcodeGhost Apps Date: September 21, 2015 at 12:35:38 PM PDT To: Matt Fischer
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-21 97.3 APL-APPSTORE 09300037
+
+(XcodeGhost Affected Apps List numbers>
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-21 97.4 APL-APPSTORE 09300038
+
+

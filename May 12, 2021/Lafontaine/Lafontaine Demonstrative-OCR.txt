@@ -1,0 +1,162 @@
+4: 20-cv-05640- YG R
+Epic Games, Inc. v. Apple Inc.
+Expert Testimony of Professor Francine Lafontaine
+
+Professor Francine Lafontaine
+
+UBC
+
+PhD Economics, 1988
+
+University of British Columbia, Vancouver, Canada
+
+Honorary Doctorate at University of Rennes, Brittany, France
+
+AssociateDean for Business+ Impact, Ross School of Business at the University of Michigan
+
+William Davidson Professor of Business Economics and Public Policy, M'.....,.'...,",... Ross School of Business at the University of Michigan
+
+IO
+Society
+
+Former Director, Bureau of Economics, US Federal Trade Commission (Nov. 2014 --Dec. 2015)
+President, Industrial Organization Society (2010 --2012)
+
+Lafontaine 2
+
+Principles of Market Definition
+· Market definition starts with identifying reasonable substitutes for the product at issue
+· We look at substitutes from the perspective of customers of the product
+-- The customers in this case are consumers and developers
+-- The focus is on substitution, not conduct
+· The market Epic defines is both too broad and too narrow
+
+An "iOS App Distribution" Market Is Too Broad
+X Ail i OS app transactions arenot good substitutes for one another
+· Other types of apps {food, maps, coupons, weather, dating,
+messengers...} do not meet the same consumer need
+· A spreadsheet app is not a reasonable substitute for a cooking app X Clu s tering "ail apps" is not appropriate given market conditions
+· Dr. Evans does not attempt to define a cluster market
+
+Clustering Is Not Appropriate Where Competitive Conditions Differ
+
+· lll I I
+IIIIII
+
+Office uzx oT
+· SSE55
+hlllll
+
+·
+
+·
+
+·
+
+·
+
+·
+
+e ·
+
+e
+
+· ·
+
+·
+
+· ·
+
+·
+
+e
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+e
+
+· · ·
+
+·
+
+Clustering Is Not Appropriate Where Competitive Conditions Differ: Wine Sold at the Supermarket Example
+
+IQUORSTOR a ~ a a
+
+QUOR STOR
+)Qh~ Q~
+
+Supermarket
+I 'I~' F,II I','I~ 0
+
+~$ ' > SIST I
+I ~ke ermarket
+- II
+
+Il
+HH ~~ HH
+
+Limits of a "SSNIP" Without Proper Data
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+e
+
+Lafontaine 7
+
+Dr. Evans' Alleged Single-Sided "SSNIP Tests" Are Flawed
+Dr. Evans agrees that the App Store is a two-sided transaction platform, but his SSNIP tests do not account for indirect network effects
+The "tests" ignore the most important type of substitution available to consumers and to developers -- the ability to shift transactions to a website or other platform
+Dr. Evans does not use prices that are actually charged for the products he tests
+Dr. Evans asserts, with no real world data on price changes, that there would be no switching from a price increase
+
+The Foremarket/Aftermarket Framework Does Not Apply
+The foremarket/aftermarket framework does not apply because...
+· Co nsumers do not need to incur the cost of a new device or even switch devices in order to transact
+· Game consumers nad game developers m ulti-home and can reach each other outside of the App Store (e.g., web browsers, computers, consoles)
+
+Anticompetitive Concerns are Not Present, Even Assuming A Foremarket/Aftermarket Framework
+To determine whether anticompetitive concerns arise in cases where the foremarket/aftermarket scenario might apply, economists consider... · Whether there is competition in an appropriately defined foremarket · Whether information is available about aftermarket terms/costs before
+making foremarket purchase
+· Whether there are unexpected adverse changes in aftermarket terms
+
+Epic Has Failed to Identify a Relevant Product Market Reflecting Customer Substitution Possibilities
+Epic's product market is:
+· Too broad because it includes all apps that are not reasonable substitutes; and
+· Too narrow because it fails to take into account all of the substitution possibilities -- from the perspectiveof consumers ofgames and game developers -- for game transactions
+-- If transactions are substitutable across
+platforms,there can be no iOS-onl market
+
+

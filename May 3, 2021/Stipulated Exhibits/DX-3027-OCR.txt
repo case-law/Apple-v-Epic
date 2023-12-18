@@ -1,0 +1,2393 @@
+Epics6.uINm, III,c. v. Appk hIe., Xo.4:20-cv-05640-YGR-TSH (N.B. Cal.)
+
+Forsta8 Scott ol. 01 - March 8 2021
+
+'I CLIP (RUNNING 01:08:58.057)
+
+82 SEGIIIIENTS UNNING O'I:08:58,0'57
+
+1. PAGE 13:18'TG 13=15 (RUNNING GC,:06*.08$00)
+
+13
+
+8CGTT FGRS'TALL,
+
+1 4 h a v i n g ht een erirrlin i . s t e r e d B n o a ' t h e i sles e x a m i n e d B n d
+
+15 testified Bs follows:
+
+2. PAGE 'l4r05 T0 14'.C8 (RUNNING 00106'.04.878)
+
+05
+
+Please state your full n BnrrsfQr the reoezd'.
+
+0,5
+
+A. Se ratt James Forstall.
+
+8. PAGE 88:88T0 %:05 (RUNWNG OC'.OO:Cr8',758)
+
+0:2
+
+Q.. And so going haaek to the date I mentioned
+
+03' e ar l i e i " r y rnur c l epa r t u r e f r oam Appl e '@as pukali d l y
+
+04 Bnnounoed in late Qetolser 2012; is 'that righter
+
+05.
+
+A . Co r r ec t ,
+
+4. PAGE 87%8 To 88l81 (RUNNING 80-::OLC7.715)
+
+23
+
+Q.. Understood. so let me Clarify. Was xotode
+
+24 .Bn integrated development environment when it was
+
+25. r e l e a sed i n 2 0 0 37
+
+00038:01
+
+A . Ye s.
+
+8. PAGE 3848 TG,88s08(RUNNING 00:.00k08.027)
+
+0 5
+
+Q . Itr td MBS Xc'odeused i.nteina.lly Bt Apple to
+
+07 d e v e l o p B p p l i c a . t i o rl s f o r t he I eiact
+
+0..8
+
+A . Ye s .
+
+8 PAGE 40.08 T0 40l08 (RUNNING CO'.OC'.08d5'l5)
+
+0'8
+
+Did Apple Rw'er 'Charge tlil.rd party de'veltppers
+
+09 for GSX7
+
+7. PAGE 40;18 T0 40l15 (RUNWNG OC'.OOr18A88)
+
+1,2
+
+So ts'hile I was 'theres you' re asking tsras the
+
+13' IDE B f r e e . d o tsrnloadep
+
+Q.. Ye sr t hB t ' 8 w h a t 1 ' r tt asking
+
+15,
+
+A. Ye s ,, I helieve it 'NBS.
+
+8. PAGE 4044 To 4'1:84 (RUNNINS 80-::0048.080)
+
+24
+
+Q.. And you understood Bt the time that the
+
+2S' more - -- the hetter BpglioationS' that developers' CQuld
+
+,00041:01 Offer-for Maes that Would help Apple make' itS
+
+'02 Customers its Hae ouatOmlerS, hBPPier and hopefully
+
+· i03$ enlarge th number of lyIBC -- -- I4BC euStomers tAit Apple
+
+0 4 h a e I, r O o r r e
+
+~
+
+/
+
+9. ~AG 41M8% 41:48 (RUN NG 00:.90:24.588)
+
+0 Q +
+
+rtIe azraasat Having eorm xoeust eiseeorm
+
+.7 'With reeraint'lB BPplicetiolis fivm Apple Bnd third part +
+
+08 deve p e r s is good for the. platform, the customers 0-9' ' nd e v e l ' v p e r s·
+
+1 Y I4 1
+
+d when y o u s ay l t ' 8 g oQdI f or the plat f ormr
+
+1 it ' s g oo" fer Apple it'8 going te sell more
+
+aBQmputer si e r i g h t 7
+
+United States District Court Northern District of California
+
+Case No. 4:20-cv-05640- YGR
+
+Case TitleEpic Games, Inc.v.Apple, Inc.
+
+Exhibit No. DX-3027
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+DX-3027.001
+
+Epic Games, Inc.w.Apple Iwe., Wo. 4:2O-cv-05640-YGR-TSH (N.D. Cal.)
+
+10. PAGE41:15 TO 41:18 (RUNNING 00:00i07.887)
+
+15
+
+THE WITNESS: It would likely sell mare
+
+18 computers. lt also may make customers wha've a.lready
+
+1 7 bought a computer happier because they have tha.t
+
+18 applicati.on.
+
+11, PAGE 5821 TO58:28 (RUNNING 00;,02:DL800)
+
+21
+24 25 00053:01 02
+04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22
+
+Q. Wh e n did you become involved with development, af the iPhane?
+A. Yo u ' re asking when I heaame or when Apple started or the year, pax''ta,f the project, what- -
+Q. I ' m asking when yau became, that was my
+question. When did yau become invalved? A. Wel l , I helped start the project itself. So
+from day one. Q. A n d what year was that? A. I t h i n k it would - it's hard to capture
+exactly when you consider the iPhone piece of it,, 'cause we actually started by developing for a tablet
+and then we shifted to developing a phone and put the
+tablet on hold and then came back and developed the iPad post i P h ane.
+I think it was around 2003, 2004, when that w ork began .
+Q. W h e n you say "that work began,"' yau're
+referring to the early work an a tablet? A . Cor r ec t . Q. A n d when did that work morph into a work--
+intc work an a p h one? A . 20 04 , 20 0 5 ,, 1 t h i n k . Q,. And were ycu tasked with creat.ing the
+operating system for that phone? A. ye s . I w a s ta,sked wx'th create.ng the
+operating system and the user interface far all the software .
+
+12. PAGE '54:08 TO 54:18 (RUNNING M:,00:44.&8)
+
+06
+
+Q. A n d was macOS 10 used as the basis fax that
+
+07 operating system Chat you oversaw building?
+
+08
+
+A. B r o a dly speaking, yes. Ther'e's many a.spects
+
+09 of macOS 10. Some of those code bases were modified
+
+10 to be used as the basis of iPhone OS 1.0. Some of
+
+ll the code bases were cleaved. Some of the code bases
+
+12 were replaced. IC was on a functionality and module
+
+13 basis .
+
+18. PAGE57:02 TO 57:05 (RUNNING 00:00:11.888)
+
+02
+
+Q. A n d who was the main proponent of using the
+
+Q3 macOS 10 as the basis fax the operating System for
+
+Q4 the phone?
+
+5 ~ ~ A-~ I . was  .
+
+14. AGE '88:07TO 88:17 (RUN ING 00:00:80AD8)
+
+07 + ~ 3 W at did yau view as the main advantage of
+'88~usxng macO 1 0 a.s the basis fox a phone operating
+
+0.9 sys,tern?
+10 Q A . W built macOS 10 specifically to be a.
+117 modern operating system as different fram, as we
+12 t alked ea.rlier, macGS 7, macOS 8, macOS 9. So many
+
+13 of t
+re
+1
+
+fa .ciliti.es far protected memory, preempti.on
+)le in macOS 10. So it had exactly the modern operating
+
+1
+
+st m
+
+ili tie s w e wauld want, ta use in any
+
+17 proj ect.
+
+DX-3027.002
+
+16. PAGE82 11 To 82:14 (RUNNING 00:00:09.840)
+
+11
+
+Q.. Mr . Forstall, let. me miark as Exhibit 869
+
+12 doCument BateS Stamped API-EG 00422472.
+
+13
+
+(E »xhibit .869 was marked for identification
+
+14
+
+and is attached heieto. }
+
+18. PAGE83:02 To 83."05 gNNNING 00;,00."17.841)
+
+02
+
+Q. M r . Farstall» do you see this is a December
+
+03 31, 2006 e-mail fram Rs. Merika Borogave ta yau and
+
+04 Copying same athers2
+
+05
+
+A .. Ve s .
+
+17. PAGE 84;18 To 84:21 (RUNNING 88NC:12.8128)
+
+19
+
+Q. w a s tl1e ultimate phone- iel&a.seel with a.n
+
+2'0 operating 8ystlsm that 8 based on 'mac05 102
+
+21
+
+A . Ye s.
+
+18.. PAGE 85:1'O'TQ88:10 (RUNNING 00:01;04.580)
+
+18 19
+'2S 00066: G.l
+04
+10
+
+Who was Ns. B o r o g ove>
+
+A. S h e wa.s anengineering manager 1n my t.earn.
+
+Q. A n d she 'writes in, the SecY3nd par'agraph (as read} :
+
+Gur sec'urity model arou1ld
+
+preventing third part1.es from,
+
+installing auld running their own
+
+c'ode
+
+*
+
+And she continues D o y ou, see that sentence' »
+
+A
+
+1
+
+Q And 'so at that time» the security appx'oach
+
+taken by Apple was t'o not allow' any thl.rd party apps
+
+to b'e installed en the phoxle» corxe'ct2
+
+MG. AGEE: C b ject tc the form.
+
+THE ÃITMES'8'1 Gur plan for the f'irst release
+
+of the iphene was not tc enabl e native compiled thixd
+
+party apps tc install and run a n the iphone.
+
+19. PAGE 88:12 To 88:29 (RUNNING 88NC:89,.883)
+
+12
+
+Q. A n d Xs. Borogave 'the'dne.scribe»d some of the
+
+13 steps that were- taken by Apple to make .sure that
+
+14 native compiled apps cannot .be installe»d cn the-
+
+1 5. phone, c o r r e c t y
+
+16
+
+A . COr r e c t .
+
+17
+
+Q.. And Apple needed to take many:steps to
+
+18 prevent .such installation because mac4S 10 was built
+
+19' in pait to allow native compiled 'applicatinos
+20 installed crl it, correct>
+
+20. PAGE88122To 88:28 .(RUNNING00:80:08442)
+
+2
+
+HE WITNESS: MacGS 10 eriabled developer.s to
+
+2 . co I I lpi 1 8» 1 5 8 t a 1 1» and r u n a p p l i ca t i o n s.
+
+AGE 77'.18 TC 77:20 (RUN ING CCRC:28.871)
+
+,-16
+
+P A d so my, questi.on was: With respect te
+
+17 t h l@Z part a p p l1.cat1.ons» was theze a dif ference of
+
+1-8 view among executives at Apple as to whether Apple
+
+le fail-l.or wi 1 nat open the iPhane fax Such
+
+applici~aians aftex it had relea.sed the first iPhane2
+
+NING 00:08:.04.880)
+
+2,
+
+E WITNESS: ,Gn this particular question»
+
+2 r t ' 8 . a t e x am p l e w h e i e . t h e s p e c i f i c i t y m a t t e r s ·
+
+DX-3027.003
+
+23. PAGE 77':42To 78:.1.2 .R(VNNING M:80:88885)
+
+'2S GGG78: G.l
+G4
+10
+
+Ther'6 wer'e:executive8 at Apple that thQught we Should
+n ever 1 e l e @se t h e ability fer th11d pa1 t i e s t a de an y
+natively O'Gmpiled applicatiens.
+There MB16 ezecu'tives Who thG'ugh't a n d they thaught we should. just have web applications
+and then websltes runnlngr with web' standards inside Qf the browser Qr brewsers on the platform,
+browser. There weve executives w'h.o thought we sheu3.d
+h.ave a hybrid. mede3. Gf some web technologies and same native abilities. A nd. then there were executives who
+thaught we shauld provide a p3.a.tfarm to enable third par'ties 'to builcl fully native applicaticns on the
+pl at f Gas
+
+24. PAGE 78; 18 TQ 79:88 (RUNNING 88N1".88.187)
+
+16 17
+21 22
+GGG79:Gl
+
+Ãho are the executives who fell into the firat bucket that you mentioned, that felt that Apple
+sheulcl never apen up the platform to third party native appll.catiQnsy
+A., steve Jobs was the mos't prominent Qf those · I don't remember' Specifically who else argued that point. But steve --- Steve thaught that we should not enable third party apy developmerlt at all, .as needed app development
+Q.. And 1.8 1t fa.lr to say that yGu 'Stood Gn ether,s ide 5 f th18,, the other send Q'f the Spec't 1'um tha.t particular 185uey
+A. I w a 5 probably the -- -- the most vocal
+advocate for enabling third party app develorpment
+an APP 'Storer and this 15 discussi'vn8 Steve and I had multiple t.imes, heated ways.
+
+26. PAGE 81'.82 TQ 84:88 (RUNNINQ MRS:25230)
+
+G2
+
+Q. A n d y o u believed tllat native aug'8 a re g o i ng
+
+GS tQr as you say here r provide B: better Bxp'eriellce fo' r i Phone us e r s , c er x e c t7
+
+A . t er r 'e c t .
+
+Q. A n d 3.oaking back 15 years later., de you have
+
+any doubt- that you were right rlt the timey
+
+08
+
+A .. Ã G.
+
+Q.. And why did you, think. that native. Bpp'5 will
+
+provide a better experirende7
+
+13.
+
+A.. There. are many, many reasons.. If you build
+
+12 a nat i v e app,,yQu get to 'u86 the bu1lt-in frameworks
+
+13 as they were intexldedr as 'they wer& designed f Qx a,
+
+14 touch interface-. *Sou have- all the facilities, we
+
+15. built to Quickly bu1ld, 1terate-, debug these nat1'v&
+
+16 a PP 1 1 c B. t 1.Qn 8 . I mean,r I Can go Qn and QO and Qn fo1 the
+
+s
+
+19'I applicaf io and tlley Br'6 voluminou'8'. They -- -- they Gl.are fa8ter Tlley u:Se Ie ' 58 memory- T h e y Ca' n ta .lre
+
+2 1 a d v a n t a g e f tile native g1aphlc'5,, libraries ,, in 8 way
+
+-2~ltfh'a't/is ei her not available Gr would have to be
+
+.2.3 Sho'ehorned in f'ex a Web apy or a different lcind Of
+
+24y applicatio ~M Q you c a n g o - - y e u c a n g o t h r o ugh and we
+
+GGG82:Gl ca n
+
+thro u gh fer hours the advantages, but I would
+
+G2 say
+Gg , e Gg 11 G er e
+
+6 Gst t e lling reaS'on 15 when we were building
+'g~i 1 iphene, we were building most of the n Bp p s B 8na t i v e a p ps · Se m a l 1 r ca 1'enda r r we
+us i n g ' t h ese 8.8 na,'tl.ve Bpps · And 'they
+
+G8 per formed fanta.stically, the behavior felt. right.
+
+DX-3027.004
+
+13 14 15. 16 17 1.8 20 21 22 23 24 00083:Gl
+11 12 13 15
+20 21 22 23
+0-0084: 01 02
+
+They loaded. quickly. They -- -- you could switch.
+between applications quickly. It was an Bxoeptional ezper ? i ence..
+We wan teel web appl 1dations'< bBoause .Steve had not agreed with. me te enable thir? 5 part y , :apps i n t he. f i r s 't . v e r s i o n , I st i l l h ad t h e ' t e a m b u i l d i n g i t
+as .a platform so that we .cauld quickly enable thir'd par ty apps. This was par't of my direction tQ 'the
+team the whole time,,even though Steve had, said no. 3ut we- wanted. to make it so third party apps
+tha,t were based on web technclogies and would be enabled rn version 10 wculcl.werk as -- a s best a s w e
+Could poiszble make them,, beCause I still wanted
+theee tC be a. good experience,, the best experience t hey Could 5 6 .
+So we blI rid a f e w of o u x " own apps · I t hank wai lake Weather, Stocks,,maybe the calculat'ex, I
+think there Was like three. Of those that we built web t e c hn'ol ?sgy appsr,encl they were simr 1 ? ax' to' what 8 , third party cauld. have built when we shipped.
+A1%d~ zn f a c t r i n J an u a r y B f 2 0 G 7 when we h a cl the keyncte and launched the il? ho?ne,, thos e w e r e web basBcl apps at the tim'B: Bf 'that 18unchr a nd t h e y did nct, perform well. WB could tell using it t.hat,
+were xlet a.s g'o'od as per f'Ormzng as the: built -- ln apps
+Now ? y'ou caII al'ways through sof'tware start
+to try to improve throngs, make its launch a little
+hetter., use a little less memory, get. a fa.ster
+preceiser,, get more memory in the next iteration of
+t he i r e n e . 'lou can do things, to try te make it can
+bett e r . 3 ut ' b e c a u s e Bf the architecture., it sits as
+an Bxtx'a layer Ml top of the native layer,, thereforer it's never? gc.ing t o . b e f a s t e r t h a n t . h e native layer. There might. be some aclvantages about
+how th6 cote loacls in a moclular fas'hion. Br Somethrng else. 3 ut. it just ? for us, it wasn't as good as the native Qne-8
+And therefore, .after we announced the iPhone and demQXIstrated th?B iI?hOne between, that and J'une 29'r 'we rewr'Qte-all thgs& apps a.s na.ti'v& apps, and they they' Shipped as natrVB apps cn the first version of
+i phone., So even thcugh there are a r'gumen ts peop 16
+can and did ma,ke for using web technologieS a.s the sole way fcx <hard parties to burld apps, my
+experience. was very clear that those apps would not 5 6 as g ood .as n a t i v e a p p s , .and I wa'nted tc have the best possible apps in the platf'exm we co?uld..
+
+2III. PAGE.Bj?c01 TO 85".08(RUNNING 00:00,"42.8M)
+
+Q 0085 : 0 1
+
+I l . F' i r t o .s a y t h a t p r et t y qu i c k l y a f t e r ' t he
+
+02 launch c?f he iPhone,, it became. pretty clear that ' 'p 3 there Was uge demand f ro'm 'developers f or the abrlxty
+
+0 4 t o ,'bu2'ld n tr've apps. for the 1Phene~
+
+=25 ~
+
+A. Y s.
+
+..01? QQ . A d o n e of the wa.ys that thzs became clear
+
+07~ w~ t h a t t I rdI party developers approached y ou and
+
+03 a s k ed- whether they could de tha.t,, is that,- right?
+
+0.9
+
+A . ye s.
+
+R7. . 8
+
+~ t I 5 : ' ~ ING 0 0 .'OO:28-'145)
+
+1] (
+
+. ~ d wa s one indic'atc.r that there were.
+
+20 constant attempt by hackers to essentia,lly remove a,ll
+
+2'1 ;th& ProtectiQns;that Ãi. 3orQgove preserlted to us
+
+DX-3027.005
+
+22 a w h ile -- -- in the e -- mail we reacl a 3 iitle bii Bgo and 23 start leading third party applications, native 24 applications on to jail broken phones"l
+
+28. PAGE 8801 TQ88:05 (RUNNING MN0:21,781)
+
+00086:0'1
+
+THE WITNESS: After we- shipped,, developers
+
+02 started jailbrea.king phones and writing natiVe
+
+03 applicatl.Qns and 1 took thai Bs' an l.ndicat1Qn of
+
+04 their pasrai on to bu 1 lcl Bcpl ications,,native
+
+05 .Bpplicaii.ons, for ihe iphone.
+
+29.. PAGE 87;18 TG 88:14 (RUNNING 00:82:18.871)
+
+13 14. 1S 16 17 1.8 19 '20 '2 l
+24 00,088: 0,1
+10 11 12
+
+Q.. Fa ir to sa'y tha.tat tile time you undterstood tha.t ihe attempts to bio'c'k thrs tsunam1 of Btt&YÃpt e f - - of third party Obligations 'was flltile and
+better for .Apple its join in, rather than fig'ht these
+attempts" ) MS. MGfyE: Object to the form. THE WITNESS: 'So I would not .say it that
+way. 3f MR. EVEN:
+Q . How w o u l d y o u A. 1 wo ul d say w e 'w e re v e r y c on c e r n e d a b o u t people bui.ldi.ng vi.ruses or malware for. the phone, Bnd
+so Bny a'ci1V3.ty that I s'Bw thai lnv'olved 3 al.lbreak1ng and then trying io create malicious, cede~ we would vigilantly respond to Bnd were not concerned, even if
+it were B tsunami that we wou3d give up on that.
+We were going to be vigilant fc.r all time Bs pro'tecting people in the security,:ancl the privacy, of
+phones . I thought as I ' dargued B year ear lier'
+a nd - - a nd beyond t h a t , 'that we. should be craaiing a pla'iform and both. enable and encourage developexs
+build native apps for the phones. SQ I clid. not Se& this as B, bad thing 'that
+developers 'wanted io declica;te their time and energy and lives to,building something cool for our
+platform. If thai cool thing was nct malware or a virus Qr' SOmkaihing problematic.
+
+38..PAGE 88:82TG 88.28 (RUNNING 00:81:82.988)
+
+02
+
+Q.. And o n e conctern with jai,lbreaking I take it
+
+03 WBS that just like the mechanisms that MS. Borcgcve
+
+G4, wrtste about that 'wer'eno't discriminating between 05 ,malware encl.so-called go'ocl applications~ 'once a p hone
+
+06 is jail broken, all third party applicaticns can gts
+
+G 7 en ii 'without any di8 tkngui shzng between ma lware 0'r
+
+08 m a Iicious app Iicati'o'ns encl gv'od appl z.cation5~ 09 correct 2
+
+10
+
+MS. MGfyE: Object to the form.
+
+11
+
+THE WITNESS: T he. danger with jailbrea.king
+
+r e'aks down, d e p endin g o n h o w i i ' s d on e ,
+
+I3 p o t enii:all all ef the consumer protections bui.ld
+-14$ into th'e o crating system.
+.
+
+j.5 I ~ J N w, jailbreaking in general li.ke this can' t , X6~-be done ac idenia13.y. So consumers, are still
+
+17 p r o tected n g e n eral, but- if you do; these certa.in
+
+18 <Kings whi h. involve plugging into B computer B.nd
+
+198 and.-gol.ng hreugh B set of machinatiens, it does not,-
+
+20 only allow maybe some pcsitives the. consu'mer eight
+
+21 beli e e r the. cleveleper might perceive ef inst.ailing
+
+n a ~ tion ,. a game in this case, bui it has the. 2 ery y ' p ~ o u s Bnd significant clownsi@es fcr
+
+24 clone. e~~of opening their phone up to potential
+
+25. v i r u se s o r ma l ware.
+
+DX-3027.006
+
+Epic Games, Inc.w.Apple Iwe., Wo. 4:20-cv-05640-YGR-TSH (N.D. Cal.)
+
+31. PAGE 90:19 TO90:22 (RUNNING 00:00:09.891)
+
+19
+
+Q. G o t it . W h at was your official title at the
+
+20 t ime?
+
+21
+
+A. S e n ior vice-president of software, iphone
+
+22 software something.
+
+M. PAGE 88:18 TO 'l09:18 (RUNNING 00:09:40.810)
+
+15
+17 18 19 20 21 22 23 24 25 00099:01 02 03 04 05 Q6 Q7 Q8 09 10 11 12 13 14 15 16 17 18 19
+21 22
+25 00100:01
+02 03 04 05 06 07 08
+s 0~ -3.0
+14 1-5
+17 18
+
+Q. M r . Forstall, let me mark as Exhibit 873 a
+
+document Bates. stamped APL-EG 00460878, and. this is
+
+an October 1 chain between yourself and Nr. Lamiraux, I'm pronouncing 'that right, and 'the subject is:
+Re' Cocoa. Touch apps.
+
+(Exhibit 873 marked for identification and is attached hereto. )
+
+By NR. EVEN: Q. N y f irst quest.ion is, is this an e-mail
+
+chain you exchanged with Nr. Lamiraux in early October 2007 in the ordinary course of your work at Apple?
+A. Gi v e me a minute to look it over.
+
+Q. Sur e .
+
+A. Ok a y . Y e s , this is an ema--il I received during the normal course of business.
+
+Q. T h i s is an e-mail you received and an e-mail that you sent., right, it's an exchange of e-mails
+
+between you and Nr. Lamiraux, correct? A. T h e re is an e-mail that I sent to Henri and
+
+there is his response as well.
+
+Q. S o l et's start with the .subject. What is 'Coc'oa Touch?
+
+A. Co c oa, Touch is a name we used ofr'' the frame
+
+works, notably normally the high level frame works for Cocoa cn the iphones, the native frame works.
+
+Now, it's used. in multiple ways,,sometimes, it's used to mean all the frame works, sometimes it' s
+
+used Qust to mean the us«sr 1nt&rf ace le'v'el.
+
+Q. Oka y . An d w h e n y o u w r o t e h e r e : Coco 'a. Touch apps as the subject of your e-mail, that pertains to
+
+native apps, third party apps on the iPhone, correct? A. Ri g h t . I ' m dist.inguishing here between web
+
+apps which we had and continue. to have and this is talking about natively compiled iPhone apps for third
+
+parties using the Cocoa Touch frame works. Q. An d -- y ou ' r e w r i t i ng (a s r e a d ) :
+I'm trying to capture the issues
+
+with taking Cocoa Touch public. what am I missing.
+
+Do you se e t ha t .'2 A . I do .
+
+Q. A n d so -- and below,, you try t.o capture the issues with, that you. ve identified with opening 'up
+
+1I e ~-=- -- - he.,iphone for third party native apps,, cor r ect '?
+A . ! C r r ec t .
+Q,.' A d 'what was the role 'ef Nr. Lamiraux?
+
+Hknri led the team,, the engineering team, he
+w a s,'an eng )neering director,, reporting directly to m e'; H e w a] reSponSible fcr some of the native fr'ameworks,and many of the native apps.
+
+Q. W h e n you say "the native apps" you mea.n
+
+Appl developed native apps, c'orrec't? he apps that. shipped on the iphone as part
+
+f i
+
+-- S, cor r e c t .
+
+d first you point to several risks in
+
+making Cocoa Touch public, correct? A . Co r r e ct .
+
+DX-3027.007
+
+Epic Games, Inc. v. Apple Inc., No. 4:20-cv-05640-YGR-TSH (N.D. Cal.)
+
+24 25
+0 0101 : 0 1 02
+03
+
+Q. A n d you say, for example, the risks of
+viruses. T h at's one you identify, correct? A . Co r r e c t . Q. Ano ther one is: Harder to switch
+p rocessor s .
+
+04
+
+Why is it harder to switch processors?
+
+05
+
+A. Ye a h , this is a really big deal. W h e n you
+
+06 have a native app, it is compiled into the 07 i nstruction set of a specific processor. F o r
+
+08 instance, if you' re on a Windows machine now-a-days, 09 it's probably compiled into an Intel instruction set.
+
+10
+
+And what w e h a d f o u n d w he n I -- you k n ow,
+
+11 I' ve worked at NeXT and we had actually switched
+
+12 processors and then at Apple we had switched
+
+13 processors again, if you have natively compiled apps
+
+14 out there, that native binary will not just run on
+
+15 your new processor. Y o u have multiple options for
+
+16 t hi s .
+
+17
+
+And so we talked earlier about this when we
+
+18 brought up macOS 10 that we had, you know, like
+
+19 Classic, but that's this, this blue box Classic 20 emulation mode that tries to take those processor
+
+21 instructions and convert them into one that can run 22 o n th e n e w p r o c e s s o r .
+
+23 24
+25 0 0102 : 0 1
+02 03
+04
+
+So in this case when I'm talking about was a risk, well, if Apple is building only natively compile applications and third parties are building web applications, a huge advantage to those third parties of those web apps is no matter what Apple does with the processor, those keep running, because they' re interpreted.
+
+05
+
+So each time you get a new, if Apple
+
+06 s witc he s i P h o n e -- this is true today. I f A p p l e
+
+07 switches to a new processor those web apps have this
+
+08 big advantage that they just keep running going
+
+09 forward, because interpreted on the -- o n t h e
+
+10 p rocessor .
+
+11
+
+And if Apple is running all - - all native
+
+12 apps come from Apple, then to introduce a new phone
+
+13 with a new processor, all you need to do is Apple 14 will recompile every one of those apps, the source 15 code to those apps, to the new processor and then 16 r elease i t .
+
+17
+
+The liability here is if you now have third
+
+18 party natively compiled apps and you want to bring 19 out a new processor which you think will be faster,
+
+20 more security, whatever, and there will be advantages 21 this new processor might have, and there are third
+
+22 party native apps in the marketplace that customers
+
+23 are relying upon, you have to find some solution for
+
+24 t hose c u s t o mer s .
+
+25
+
+The solution could be convince the
+
+s,to take that source code and recompile it
+
+processor. W h ich might work. j3ut if
+03 $ th at , j , e t ' say that company is out of business or no -E4 l. l onger' i s taffing that app any more, doesn't want to
+,05 ~ ' t j . n t he amount of money and time and effort it
+
+0 6 w o u l d t ake to recompile that, you get stuck.
+
+07 /
+
+S t hen y o u - - l oo k , d o you simulate it also
+
+081 or -d.c you ave customers now who are left not being
+
+09 able t~o uy a new iPhone because doing so would then
+
+10 disa e f u nctionality in the form third party apps
+
+hey
+
+me to rely upon for their business.
+
+1
+
+essentially you get breakage with some of
+
+1
+
+e z p ar ty a p p s potentially if you switch
+
+14 processors?
+
+15
+
+A . Co r r e c t ?
+
+67
+
+DX-3027.008
+
+Epic Games, Inc.w.Apple Iwe., Wo. 4:20-cv-05640-YGR-TSH (N.D. Cal.)
+
+33. PAGE 108:22TO 108:24 (RUNNING 00:00 I0.324)
+
+Q. L e t me now mark Exhibit 87'5,,API -- EG 0098292. (Exhibit 875 was marked for identifica.tion
+and is attached hereto' )
+
+34. PASE 108:12 TO 108:23 (RUNNING 00."00:30.342)
+
+12
+
+Q. Fi r s t questi.on wa.s, what i.s"MacOS X
+
+13 Embedded"'?
+
+14
+
+A. I t h ink the authors of this document took it
+
+15 to mean iPhone OS which would be used on the iPhone
+
+16 and it, was to be used to iPod T'ouch. at the time, but
+
+17 I think they.'re taking i't. to mean the same, thing.
+
+18
+
+Q. O k a y . A n d rs thrs a document you, had
+
+19 received in the ordinary course, of your work at
+
+20 Apple?
+
+21
+
+A. Li k e ly . I mean, I don't see a e-mail trail
+
+22 anything, but this -- I would have expected to have
+
+23 received this document.
+
+35. PAGE 110:08 TO 110:13 (RUNNING 00:00:15.871)
+
+08
+
+Q. A n d the document is prepared, by three
+
+09 people, I4itch Adler, John Wright, and Dallas
+
+10 De At l ey.
+
+11
+
+D o you See t h a t s
+
+12
+
+A . We l l , i t sa y s "'et a l . " S o i t ' s p r e p a r e d b y
+
+13 more than gust them, but three named authors.
+
+38. RAGE 111".02 TO 111;08 (RUNNING 00:00:33;828)
+
+02
+
+Q. A n d were they -- was part, of their --wa,s
+
+03 part. of their gob to oversee security2
+
+G4
+
+A. Pa r t of thei,r job was te oversee security,.
+
+G5
+
+Q. A n d drd they oversee security on beth
+
+06 macOS 10 and iPhone or just one of them2
+
+07
+
+A. I b e l i eve they, were in groups tha.t oversaw
+
+08 security on both. platforms and I do: believe they
+
+09 oversaw security on both. platforms.
+
+37. PAGE 111:10 TO 112:20 (RUNNING 00:02;18.81'I)
+
+10
+
+Q. S o g o ing to the first page~ do you see that
+
+11 the document begins by saying (as read):
+
+12
+
+The transit.ion from a closed
+
+13
+
+system to one with a more open
+
+14
+
+developer model demands answers to
+
+15
+
+questions of control and security.
+
+16
+
+D o you see t h a t s
+
+17
+
+A . I do .
+
+18
+
+Q. G o i ng further down under applications, they
+
+19 say t hey a ssume the (aS read) :
+
+20
+
+Existence of a robust sandbox to
+
+s 21 22 23
+
+contain applications and developers. D 'o you see t h a t s
+. , A . B the w ay, I would not have characterized
+
+.g4.$ the way th y characterized that first statement, for
+
+25 8 the,: rebord
+
+0 12zGl~
+
+Q S w hat's y o ur secsnd question.
+
+02
+
+,iQ. W a t do you. mean by you would not have
+
+03 characteri ed the way they characterized,, sorry2
+
+04<
+
+-A.~T e s t atement you read said: The transition
+
+05 from a closed system to one with more open
+
+0 6 d e v e p e r --- a more open developer model demands
+
+nsw G,I) 0,4
+
+questions of control and security. ot 'nd I would chara.cterize ours as not a.
+
+10 closed system, because we did have both a web
+
+DX-3027.009
+
+11 bx o wsex'. So all web applications zan,q ancl
+
+12 s u pported these web apps I d o n ' t remember i f the
+
+13 web apps by this time coul@ be placecl on the home
+
+14 screen as well,. which. I 'thought was impcztant enough
+
+15 that. 1 think I m the lead patent holcler cn that
+
+18 patent So t hat was an important thing.
+
+17
+
+So - -- so calling it a, closed. system,,which
+
+18 is their words, not mine,, I would not say that. I
+19 would. say that we were going to. a --- maze devel oper 2'0 opportunities, with na.tiv& apps-
+
+88.. PAGE 117:13 TO 117:18 (RUNNING 66:QQNSA18)
+
+A nd they sa y ( a S r e a d ) :
+
+Distribution through the web
+
+should be supported, but Apple will
+
+prQVide no transfer pr'otection.
+
+17
+
+D o you. see t h a t )
+
+18
+
+I do'.
+
+39. PAGE 117";28 TO 118$8 (RUNNIN'8 60:.00%8.834)
+
+'25
+
+Q.. And "through the web" here means through a
+
+00118:01 website operated by the developer or through a stor'e
+
+02 operated by a th.izd party, correct'P
+
+40. PAID 118:04 TO 118:68 (RUN'N(NG QQ::00:68.018)
+
+0,4
+
+THE ÃITMES'8'. Well, it doesn' t sa.y, but it
+
+05 w o uld be through a, mechanism that is not iTunes.
+
+41. PAGE 118:07 T6118;68 (RUNNING 60:QQ;68.768)
+
+Q.. And not the App Store. cQzzectl A. A n d not the App Store. The Apple- App Store.
+
+42.. PAGE 118:,85 TG 118:1T '(RUNNING 68:QQ,:88808)
+
+2 5'
+
+Q . And i f you, go to appendix, C, devel oper
+
+0 0119:01 s c e n a r i o s , .t h e f i r st o n e i s : Guy i n h i s ba s e ment .
+
+02
+
+D c you. See t h a t 7
+
+03
+
+A . I do .
+
+04
+
+Q .. A n d I ga t h e r t hi s i s t he i r spe a k f o z s m a l l
+
+05. time de'velcpers, stand. alcne developer, ccrxect'?
+
+G6
+
+A . yes .
+
+G7
+
+Q · And under 3': Decide you have final version
+
+GB to deploy, do you see that they say what the
+
+0 9 d e v e l o p e r n e e d s t o d o , A - - or 3 . 1 ,, s or r y (as r ea d ) :
+
+10
+
+'Submit to Apple f' or 5 1 gnz, ng a ncl
+
+11
+
+'then get signed 7.mage and deploy as
+
+12
+
+ycu wish.
+
+13
+
+Do y'ou se e t h a t ~
+
+14
+
+A . 1 do .
+
+15
+
+Q . And dep l o y as you wash here' again~ means
+
+1 6 distribute in whi chevez 'way you believe b'est serves
+
++ ~ ~ ~- 1~ +st s r ' corr e c t ~
+
+46 .AGE 118:1'870118;84'(RU NING 00:0914~ )
+
++ 3 a19
+
+T E WITNESS: I C ould clefine it as you wish,
+
+-2G~but you, ge as'3'igned image. ancl you,deploy
+
+.21 y o uzsel f.
+
+2~ 3K le . EVE
+
+23
+
+'Q~ A n d de p lo y h e re- means dietzibute~ correct7
+
+2'4
+
+A . o'o z z & c t ,
+
+44.. ~~GEP ~
+1
+
+Q1 2 INNING66:'00:01.878)
+k h i ' 8 7 . A nd ta b 8 7 7 --- scuzzy, PX877 is
+
+DX-3927.0't 0.
+
+SPY. 6uwm, Inc. v. APPk Ine., %0.4:20-cv-05640-YGR-TSH (N.B. C81.)
+
+45. PAGE 128:.18Tio 128:15 (RUNNING 00'CO:85.781').
+
+13 A P L -- EG 01025133.
+
+14
+
+(Erxhibit .877 was marked far identification
+
+15
+
+and is attached heretoe}
+
+48. PAOE 187:"0370187$8 (RUNNING'M M:84,474)
+
+03
+
+Q
+
+And t h 1. s t 'oo 'came f r o l l l y o u r ' f ' l . l e s r f ai r t 'o
+
+0 4 a ssume tha t this r toor is a document that you would
+
+0 5 h a lre r e ce i v e d b a c k i n 2 0 07 2
+
+0,8
+
+A. If y G 'u ' re cerx'ec.t a.bG'ut the da,te it wa.s
+
+07 Cx e a t e dr I W o u ld h aeee X'eceilred it Sometime aro'llnd
+
+08 when it was dreated, 1'll expec't.
+
+47. PAGE 129".88 7018844 (RUNNING 'M:M.4%278).
+
+GC8
+
+Q. U n d er DistribUtioxl Method on page 2' yousee
+
+09 that it says (as read}
+
+10
+
+We will distribute thircl p'axt'y
+
+11
+
+applications through the iTunes
+
+12
+
+I4uaic: Store. HOWBVer r Our model
+
+1.3
+
+w1 11 a 11Qw' for th1rd parties to
+
+14
+
+distributte their cwn applications
+
+15,
+
+and fcr enterprise customers to
+
+16
+
+deploy' to their own devi ce's.
+
+17
+
+D c you. See t h a t 2
+
+18
+
+A . I do.
+
+19
+
+Q. A n d 'cly'oou, recall that ther'6'was a tzme
+
+20 artsUnd Gc'tober or Movember ef of 2 GGr,7serryr
+
+21 where that was ihe plan c f record at Apple, thai
+
+22 thz.rd peril:es c'ould Sign their applicat2.'ons as Me ve
+
+23 s een bef'D'r'6and then dl.,stribute as they wishr a.s this
+
+24 last clocument we,saw
+
+48. PAGE 138:85 7>0 131:18 (RUNNING 88.:81.28MS)
+
+05
+
+THE Ã1TNE88: L e t me start with the fi,rst.
+
+0.8 This Statement says, (as read}:
+
+0,7
+
+We will distribute thircl party
+
+0,8
+
+applicatiens through the iTunes
+
+09
+
+Music 5 t o r e .
+
+10
+
+Okay · S e c on cl ,sentence. says ( a s r e a cl} '
+
+11
+
+However r our model will allow for
+
+1,2
+
+th1rd parties trs clrstribute their
+
+13
+
+own:applications
+
+14
+
+It does not Say our policy is to a.liow that.
+
+15. This is .a technical document from a, technical team.
+
+16 who i.s .building the security infrastructure, and so
+
+17 their statement here is that the model -- the
+
+18 technical infrastructure they' re builcling will allow 19' f Qr other distribution mechanisms.
+
+20 I3y NR. EVEN:
+
+2 1
+
+Q. G Q Qd . Thank yoU,.
+
+22~ ~
+
+An d t he n i t go e s --- if you gc further below,
+
+W3 do y'ou gee i t sa y s ( a s r e ad.):
+
+24Q 0
+
+g Signing do es not imply 8 specif ic
+
+00131 rG1 0. 0.3
+04/
+05 05
+G..
+0(
+
+d stri@ution method, and it" S left
+
+a . a p o 1 2 c'y cleci 8 1 en as t t s w he'i li e r
+
+A pie signed applicatzon a.r'6po'Sted the Online st'ore r'or 'we all oow
+
+dkvelopers io distribute tsn their 'wn .
+
+Do y'ou se e t h a t 7
+
+A.
+
+dv .
+
+CIA. . d do you, recall that. there was a time
+
+c oo p o t, ol e o o z Ã o o e eb 20 07 e A o O A o p o l i r
+
+d ecl.s1on h a s n o t ye ' t be e n m a d e r r t l .s up z n t h& a i r y
+
+11
+
+A
+
+Th er e 'was a tlmEL'when that decrsaon had no't
+
+1 2 y et be B n m a d e .
+
+49. PAGE $42:24 To 148'48 (RUNNING '66 08'38 76$)
+
+24
+
+Q. D Q yo'u recall tha.t there was 8,debat& within
+
+25 Apple about whether Apple should.allow distribution
+
+00143: 01 only through, the App Store- or whether it should allow 02 developer''8'to distrxbut& native apps' thx'o'ugh other
+
+0.3 mea,n s 'P
+
+04
+
+A., so t1lere were dx'8'cussxens abQut w1lat the
+
+05 distr 1butxon mech'an1.sm5 could be,,and 'as you poxnted
+
+out in one. Of the white papers we lc'eked at,, it
+
+07 talked. abcut pctential mechanisms in the cperating
+
+08 system for how to make each of these secure in
+
+09 different ways.
+
+10
+
+And. then there were discussioris absut how
+
+11 effective those different me'chanisIIIScoulcl be snd.
+
+121 whiat me'chanlsIILSwe shoul'd enablB for' our customers.
+
+13
+
+Q. F a i r to ,siay that there was 8co'ntxngent
+
+14 within Apple that thought that developers should be 15 able to distribute their apps through a different
+
+16 mechanism than the App 'Store'?
+
+17
+
+MS. M0 iyE: O b je ct i on t o t he f or m.
+
+THE WITNESS,: Tiler'e were discussions a@Gut
+
+how we could enable developers te d ixstrxbute thel.r
+
+apps, one bei.ng the App St;ore, another. being
+
+distribute theI11 sort of direc'tly the way, say~ peoplB
+
+do on Windows. A l though, I think Windows might have
+
+an App Stare also now. 13ut distribute, you know,
+
+through Window s Ba c k in the cla(y y l3'u h a d
+
+distribute througll shrink wx'ap at 8 physical stisre.
+
+00144:01
+
+Ss we llad discus'sions' about. th& merit's and
+
+dangers of distiibu'ting in differen't.ways,. within:a
+
+company, and then beysnd the company.
+
+3T MR.. EVEN:
+
+Q. A nld you den't reca.ll argumentS .about whether
+
+018 Apple should or should. not allow distribution through
+
+07 t he web,, f o r sample>
+
+0:II)
+
+A. I r e member going through the various,
+
+09' options. I can't pcint to .a SPecific ccnversation
+
+about 5OIIIB Qf these mechani 81Tls, but I can 1 BC8 11
+
+11 thinkxng Qn t1le reasons f Qr do xn'gci ertaxn way s a n d
+
+12 why cextai.n mechanisms mi.ght be better cr worse than
+
+13 others, and. why we came to the conclusion that we
+
+14 dr c1 ·
+
+15,
+
+And I'm Cex'tain there Were people. giving
+
+16 input ancl opinions on the merits fax each cf these
+
+17 different me'chanisIIIS, and that's gust responsible 18 consicler cli f f e x'Bnt IILechanxsms and. the p r o s a n'cl csns
+
+19 sf t h e m.
+
+M R.. EVEN: J e s s i c a , c a n y o u . b r i n g u p 4 7 8 , '2 l plea.se
+
+Q.. Whe were the main proponents of distxibut,ion
+
+s
+
+2S· ce Xy ter ! Ou h t h ,e Ap p S t o r e 7
+
+S 'rr y
+· 254 be 1 o oki ll g a t l
+
+I s th e re a doc'ument I m sLlpp's'eod
+
+i 00145 : 0 1
+
+Q ,;~' N p ' e .
+
+Z2
+
+,A
+
+O ay · SQrry I th o u ght you sar d w he
+
+. 03 w e r e the p eponents'2 After. we had gone threugh the
+
+0 ~ d d s c ussion I t h ink basiically all of the execs were
+
+0 5 p r o p ~ ents' of the App Store, plus oux enterprise
+
+distribution models, as being the two best mecha.nisms
+
+0 7 to p ' tee t our mutual Bus tclmex's 8nd get wide
+
+i s t . ' ~~ en f o r de v e l o p e r s .
+
+56.Mk II 8 4 8 C 58 '8 ~ N ING 0 0:M..42AN).
+
+20
+
+Q. D Q yo'u recall yo''guavB- 8 presentation~ I
+
+DX-3027.0't 2
+
+Epic Games, Inc.w.Apple Iwe., Wo. 4:20-cv-05640-YGR-TSH (N.D. Cal.)
+
+21 22 2 3'
+24 25 00162:01 02 03 04
+
+think we discussed that earlier, in March 2008,,
+introducing the SDKs for the iPhones A. I n 2 00 8 , w e h a d a n e v e n t w h e r e w e , l a u n c hed
+and publicly. announced. the. iPhone,.SDK, in App Store. Q. A n d you personally presented in that --- in
+that eve~t and specifically the. portion about the S DK, co r r e c t s
+A . Cor r e ct .
+Q. I f you look at EKhibit 880.
+
+51. PAGE 182:85TO 182'.12 (RUNNING 00::00:18.728)
+
+05
+
+(Exhibit 880 was marked for identification
+
+06
+
+and i.s attached hereto.)
+
+07 BY NR. EVEN:
+
+08
+
+Q. D o you, recognize this as a transcript
+
+09 prepared by Apple of the event on Naroh 6, 2008,
+
+10 launching the iPhone SDKP
+
+11
+
+A. Y e a h . T h i s appears to be a transcript of
+
+1 2 t h at ev en t .
+
+52. PAGE 182:13 TO 162:16 (RUNNING 00:00:1 2'.098)
+
+13
+
+Q. Af t e r you were done introducing the SDKs,
+
+1 4 y o u t u r n e d t h e -- -- the baton over to Mr. Jobs to
+
+15 present the App Store; is that rights
+
+16
+
+A . Ye s .
+
+55. PAGE 183:14 TO 184.'11 (RUNNING 00:01,"I7..544)
+
+14 15
+16 17 18. 19 20 21 22
+23 24
+25 00164:01
+02 03
+04 05
+06 07
+08 09
+10
+11
+
+Q. I f y ou go 'to the page. ending in 075. A. Okay
+Q.. And you see tha't, in the fouith pa.ragraph b eginn i n g ; " Wow, devel o p e r s . "
+Do you see t h a t p a r a g r aphs A . I do . Q. A n d in the middle- of the paragraph,, Nr. Jobs s ays (a s r e a d ) :
+When we sell the app through the
+App Store,, the developer gets 70 percent of the revenues right off
+the top. We keep 30 to pay for r unning the App St or e . Do you s e e t h a t P A . I do .
+Q. A n d going to the next paragraph he says, second full sentence after the second question mark (as read) :
+So when a d e v e l o pe r w a nt s t o distribute their app for free, there
+is no charge for free apps at all. D o you see t h a t s F oll owed b y " a p p l a u s e . " 'Yep.
+
+54, PARE-184-12TO-164:25+RUNNING 00:00:38.304)
+
+/ 12i y Q. A d do you see t,-hat in the next paragraph,
+
+) 13$Nr. J obs s id -- talks about some apps that will not
+1 4 b ~ h l l owe And t h en he sa y s ( as r e a d . ) :
+
+'-'1-5~
+
+we have exactly the same
+
+.16
+
+terest;as th& vast ma)ority,of our
+
+17+
+
+d velopers, which, is t.o get a ton of
+
+18'
+
+pps out, there for the. iPhone and we
+
+19
+
+th.ink we' ve invented an incredibly
+
+2.0
+
+reat way to do it
+
+>22a
+
+y ou see t h a t > Yes.
+
+2
+
+ou were there and heard all that being sai.d
+
+24 at the time, rights
+
+DX-3027.013
+
+Epic Games, Inc.w.Apple Iwe.sWo.4:20-cv-05640-YGR-TSH (N.D. Cal.)
+
+25
+
+A . Ye s .
+
+55. PAGE 185:01 TO 188:14 (RUNNING 00:02:04.050)
+
+00165:01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+0 0166 : 0 1
+03 04 05 06 07 0'8
+09 10 11 12 13 14
+
+Q. N o w , if you ga to the page ending in 079. A . Oka y . Q. A n d Mr. Jobs is, being asked what sorts of --the bottam half of the page (as read):
+Wha.t sorts of safeguards' hBVe yau built in to make sure that all these
+apps and applicatians that are going to be coming on to the iphone are sec'ure 2 D o you. See t h a t 2 A. I do. Q. A n d Mr. Jobs says how are we going to da that, and first he explains the way we Sr e go i n g t o d o it is that developers have to register with us, and
+for tha,t $99 that they paid to join the program they actually get an electronic certificate, and that
+tells us who they are, and so if they write a malicious app we can track them down, we can tell t heir pa r e nts .
+Do you se e t h a' t 2
+(Reparter clarification.)
+E!Y MR. EV EN: Q. Do y ou s e e t ha t ? A . I do. Q. A n d that is a version of the same signing
+mechanism that we have discussed naw over multiple d ocuments, c o r r e c t 2
+A.. That is part of thiss yes.
+Q.. And then an the next page, Mr. Jobs says (as read) :
+The other thing we. can do since the distr'ibution of their
+applications is going to,be through the App Store, if we' re a,lerted to a
+malicious app that we didn 't catch,, we' ll turn off the .spigats so no
+more peaple download it. D o yau see t h a t ' ? A . Ye s .
+
+58. PAGE 171:05 TO 171:18 (RUNNING 00:00:57.801)
+
+05
+
+Q. S o l e t 's look at that question, and that' s
+
+0 6 on page 081. And the question is at the top third --
+
+07 third sort of bullet, third paragraph (as read):
+
+08
+
+Isn't the fact that Apple is
+
+09
+
+going to be the exclusive
+
+10
+
+distributar far a.ll these
+
+11
+
+applicatians raise same questions
+
+2
+
+gout monapclies and so farth? What
+
+1-
+
+a developer doesn t want to
+
+14$ 0
+
+d'strrbu t e through the App Store2
+
+' 15 $
+
+3 D you see that question' ?
+
+1 6
+
+A'. I da. I dzCln t realize that you atte'nded
+
+7 I S7 i/AGE 17S:Oli7017 : 7( R4UO1NINEOO:Ol:SS'SSO1
+
+05
+
+-Q. ~Mr. Forstall, going dawn the page,, yau see
+
+there's some back and forths .and then Mr. Jabs
+
+(as read)':
+
+Bl
+
+Also, just to make it a, little carer, we den't intend to make oney off the App Store.
+
+Do you see that statement' ?
+
+DX-3027.014
+
+12 13
+17
+18)
+19 20 21 22 2.3 24 25 00174:01 02
+04 G5 G6 G7
+
+A. I s e e that statement on the page
+Q. A n d d o yo u see that then Mr. Jcrhs then explained that Apple daesn't make:a lot af money off
+of iTunes. Do. you see that2 A .. I do · Q.. And then he says -- I'm reading Ias read): in the case Qf the 1Tunes
+Music Gtore:, we give all the money
+to the- contexlt owners and we ar& ha.sically grvrng a.ll the money to.
+the develaperS here and 1f that 30
+percent of 1t pays f Qr'runn1ng the s t oi e r well that will be great. D o you see -- drd I read that correctly' A · Ye s Q.. And the 30 perCent that Mr. Jarha iS alluding to is the 30 percent commission that Applla keeps when
+8 a d1st1igutian of a paid Bpp thr'ough t116 ster'er 'cor're'ct2
+A. I t 8 3G per'cent 'of the gross revenue 'of an app thr ough t h e , App 5 tore
+
+58. PAGE 174x08 TG 174:1 0 (RUNNIN'6 00:.00:12.882)
+
+0..8
+
+Q.. You uxlde1 3ta xrd that far the pa st decade or'
+
+09 so, the 3G percent that Apple keeps does much maze
+
+1 0 than Pay f Qr running t'h'6Bt'orer 'corr ec t y
+
+88. PASE 174 l8 To 174:1'8 (RUNNING '00 002)SASO)
+
+12
+
+TH'E ÃITMES'8'. I under'stand tha,t app -- -- the
+
+13 30 percent is making Apple a profit.
+
+80. PAGE 18%22 70184'.81 tRUNNING ''Nl:00".12.1M).
+
+22 23
+24 25. 0-0184: 01
+
+Q. S o w ith that, Mr. Forstall,, if you can go to Exhi bi t 88 2 r whroh i s A PL-EG 00280094.
+(Exhibit 882 was marked. for identification
+and 18 a t t a c hed h e r e t o.. ) M H. EVEM: T h i s d o c ument 1 8 a 6 - m a i l
+
+81.. PAGE 184182 70 184N7 tRUMNING 00:08.2$.783)
+
+02 c o r r e s p o ndenc re between Mr. Forstall and Mr . Schiller,
+
+03. d a t e d J a n u ar y 2 1 ,, 2 0 G 8.
+
+04
+
+Q.. Mr. For'stall, is this an e --mail chaixr that
+
+G 5 you, sent and recerved as part 'of the orclinary course
+
+G6 ef your employment at Apple' ?
+
+G7
+
+A . Ye s .
+
+82. PAGE 187':21 70188N7 (RINISIÃ6 00.:00:42x051)
+
+2 1
+
+Q Okay . AndI I t h 1 nk yo u ment1 oxxe'd earl r e r
+
+2 2 t odlay wh'Bn talk1zlg ahoutr f er rxlsta:neer somethrng
+
+23 li.ke HTML5, you mentioxxed that HTML5 is sort of
+
+-25 the develo ers, write for HTML5,, rig'ht2 And. sxa HTML5 ~pGIB8x01 $ is a cross platform platform in that,- Sensey
+-))2 I, +A.,> H ML5 standards a.re interpreted. cede so they I
+,03 a&6 agnost C to the specifiC prooessor en which they G4 run,
+55 ~Q . A 4. 1D that. sense. they Serve as a
+06+ cross-plat orm platform for web, app clevelopersr 07 c Q r re c t V
+
+88.. A . : $8.7 0 1 8 12 UN N I NG 88:00:12.8N)
+
+09
+
+E ÃI TMESS: Fo r Wrah app deVel o p er S an d Weh
+
+1 . eve p i n g en er a l , t he y c a n s e r v e a s a
+
+11 c r o s s - p l a t f o i m devel opment. pl a t f o r m,, whic h s ometimes
+
+DX-3027.01 5
+
+12 can waxk very well .
+
+84. PAGE 188:18 To 189:03 (RUNN(NG 08:01:8L080)
+
+13 14 15.
+17 1.8
+20 21 22 23
+00189:Gl
+
+Now,, they run inside Qf a, hrowser generally, and )orowsers have,)3een .built up with an enormous a'mount Qf Seou1i;ty Over time. I 'meanr eVen though
+you see Vi.rusee scmetimeS Come through .Web hiorWSers,, I nput tl1e more ma.ture Qne's a1e g e t t i n g h e t t e r a n d hetter Bt it.
+oust B.s 'an a.side, s o meti me's' that w ar'k'8' reallyr great and it's intereSting like tcday we."re
+doing this depcsition encl we are using a native .Bpp, which iS,Zoom s'e we can See each Other, and. then we' re using a w'e5 app to excha'nge dccuments.
+Mell,, those documents, you knowr that's an important way to go anct.they r& Sec'ure ancl that S
+heing clan& through an Bpp insicle of 8 'wel3Browser, toor HTMLS an'cl )3eyond .Btanclar'cls, .Bo )3oth mechanisms e f )3uildlng can work well ·
+
+86. PAGE 188:91 T0180N8 (RUNN)NG80::00@7AM),
+
+21
+24 00190: 0,1
+04
+07
+GO8
+
+(3' An d so k3ack then,rt&'or yQ'u' thought that wh'at they' re planning is really B cross -- platform platform B s yo''2 ea 1 1 ed i t 7
+A yes ·
+Q . And ya u t h e n s a y ( B s r ea d ) While I would pr'efer developerS
+u ae wet s t a n d a r d s -- you, mentio n B couple -- Qr ge native if they want mcrer I ' m n o t . s u r e w e . Shaul cl n' t t ake
+the high. ground and let them )suil@
+and CQmPlert& . Do yo'u s ee
+A . I dQ.
+
+88.. PAGE 198".;2870 183".C! (RUNNtNG 88:00:17.488)
+
+2.3
+
+Q. A n d Mr. Schiller has taken --- upas hear i n g
+
+2 4 i t ha S t a k e n t h e i n i t i a l Op p c Si.te V i e W t c y o u r S ,
+
+25 ccrreot7
+
+00193:01
+
+A. I t S ounds like his initial QPinion is very
+
+02 dif ferent from mine.
+
+87. PASE188:03TiQ 184308 (RUNN(NG 00:01.23.878).
+
+G3
+
+Q. A n d Bt the end of the day,,Mr. Schill&r also
+
+04 says (as read):
+
+GS
+
+ln the grand scheme. Qf things
+
+06
+
+af API 8 'we eau lcl c h crose t'v S upp'Q'rt
+
+0:7
+
+6eycrnd eur Qwn r i f w e ev e r c l i d
+
+0'8
+
+support another (which I don
+
+09
+
+recommend)'r yahoo s gadget API
+
+0
+
+Qt even close to the mast 1mportant
+
+1-1
+
+o e we would pi.ckr some Qf the Other
+
+12%
+>1143$
+'-15
+..16
+
+y
+H j
+.A.
+QQ .
+
+o es I listed. BI3ave (like Flash) are w y mare important D ' y ou se e t ha t 7 I de .
+F a s h. was another cross-platform platform7
+
+1 ~ ~ A . I Same WayS.. I meanr Flaeh iS a prettv I3ig CQnversati6n in and of itself .
+
+19
+
+. I u n dexstancl.. I 'm not. trying to hear the
+
+'0 entif ~FBSh story.
+
+$. ~~ 1 1 , there's a long Flash story in here 2 2 i c: p~ - I mean , ye a h . ' cause we t r i e d t o w o r k
+
+2 wi t h them a.iso. yes. F l ash, can )38 uSed BS a
+24 c r o s s-pl atform platform as well.
+
+DX-3027.0'(6
+
+00194: 0,1 0:2 03 04
+06 07
+GT8
+
+Q. A n d then Nx. Schiller (as read):
+3esi des,,~ we have B w a y t o W idget.s t h a t c o m p e te s w i t h . t h e 1 r s , ' s'o who ca r e s 7
+Do you see A .. I do · Q. A TId did. Apple end up supporting the yahoo w 1dget e n g i n e 7 A . We c1 1cl xl e t .
+
+88. PAGE 184T08 TO 18446 '(RUNNlNG 60:QQA4.080)
+
+09'
+
+Q.. Did ycu end up .Suppcrt.ing Flash2
+
+10
+
+A. Ã e d id not ship Flash. We triecl to make
+
+11 FIBSh Werk. We. helped. Adobe. We - - We Clef i n i t el y
+
+12 were ixlterestced. Aga1X1, th18 is one Where I thought
+
+13 if we could. help IIal'ke it wcrk, this cculcl be great.
+
+14. Flash has been suoh a prcblem because it -- the way
+
+15 that it hcoks into systeXIIs, 1t'8 been a, virus
+
+16 nightmare on -- en W1ndows, even on the Nac.
+
+17
+
+And When Me go't 1 t runn1ng on. iOS ~
+
+18 per forTItaxlce was gust abysmal BTld embarrassing Bnd
+
+19 could never get to something which would be cclnsumer
+
+20 value Bdcl.
+
+88. PAGE 184:81 To 18442 (RUNNlNG 00::00.03.8M),
+
+21
+
+(l. An d so you never shipped wi.th Fla.sh either7
+
+22
+
+A . We d, id n ot .
+
+70. PAGE 185:01 T0 18'5, l0 (RUNN(NG 00:M;88.088)
+
+00195:Gi.
+08 09'
+
+D id you support J a v a 9 W e d1d n o t . And he. B,ls'o ment1M1&d Adobe 8 Air.. Do VQu A dobe Ai r y I do Tlot be li eves So.
+What about Microso ft s1lverlight 7 W e c11cl xlet S u p p o1't t h a .t , I d Qn t evi l kxl o w
+exTists anymcr'e,,but .we did not:support that.
+A Tld Qualc QIllm 8 B r e w 1 We d1d not suppcrt that.
+
+71. PAGE 188:22 TQ 188:M (RUNNlNG 00:00:28.778),
+
+22
+23 24.
+2S 00.198 I G.l
+02 0.3
+
+Q. I wa,sn,"t suggesting that. I asked. whether you, recB11 that ther'e 'were cross-coXIIpiler'8 B'va11able froXIIth1rd part1es that allowed people tc develop Bpps thBt weulcl run on. iOS.
+A. I t h 1nk people were trying tc create
+c1clss --comp11ers. I d o n" t reTIlembe1 1f Bxly ofthose were used in the real world.
+
+72. PAOE 188:04T0188:07 (RUN'N(NGQQ 00l4.,580)
+
+s
+
+04~
+
+~
+
+D o y o'l l recall that Apple Bt s QI I IEL peix l t ;
+
+-G5 decided,to ban the use ef cross-compilers for
+
+0.8 delxelepc ng apps f or the -- -- for i0ST7
+
+78 WAGE 18880 T0188;14 (RU N(NG 00:M54,1312)
+
+15p G.
+4 egmen, 11 deve'l
+
+2 09 8--C TIGP11SZS. B I ! ! t l S a d fO Y PZ OS S - P l a t for m '5
+right 7
+
+12
+
+A. I n g eneral they .canb,e- used fer B Couple
+
+e 1 3 t h 1n , but yes, they can be used. for cross-platform eve pmm
+
+74.~ - I ( 0 1.4 .0208+mNN(Neae:08:ee42)
+
+(Fxhibit el)6 'was marked fear identification
+
+DX-3027.0't 7
+
+15
+
+and is attached hex'eto.)
+
+16 EY'ÃR. EVEN:
+
+17
+
+Q.. Do you see this is an e-mail from, Philip
+
+18 Schiller ta youiself, copying Nr-. Johs,cn July 16,
+
+18 2011'?
+
+20
+
+A.. Gi ve m e a m i n u t e . T h e e ' 5 a l c. 't . B f e .-- mails
+
+21 in here,,so I'm going to scan through it briefly.
+
+76.. PAGE 207".81 To 207:08 PtUNNING 88:00:14.$87j
+
+0-02,07: 01
+02 0.3 04 05,
+
+Q.. Mr. For'stall, is this an e-mail that you rBC'eivBdy
+A . Ye s .
+Q.. And is in an e --mail that you received as part cf the ordinary course of your wcrk at Apples
+A · Yes
+
+78. PAGE 208 02 TQ 298%8 (RUNNIN'6 60:.GCN8.'828$
+
+Mark here again is, Mr. Zuckerherg'? A . Ye p .
+
+77. PAGE208:04To 298'0.8 (RUNNING CC::CC l8.282),
+
+04
+
+Q An d 'so Fa c e'book wanted to have Bather an
+
+05 embedded web vi,ew or li.nks to web apps in its i.Pad
+
+0 6 n at i ve ap p q cor r e ct ?
+
+78. PAGE 208:087020818 tRUNNING 00:08;22.882)
+
+08
+
+THE WITNESS: Fac'cbook was leaking in their
+
+08 iPad app ta Bnahle emheddeci .apps with. inside of tha't. 10 app.
+
+11 H Y MP'. EVEN:
+
+12
+
+Q. A n d you told. them they can't do that,
+
+13 Correct7
+
+14
+
+A. W e .said. they should not include embedded.
+
+1 5' app'!5' i nside o f the na tive app ·
+
+78.. PAGE 208;;28 TG 210:11 (RUNNING 00;0897.290)
+
+00210:01 09
+
+Q.. And the concern is that if Facehook did thiS, if it did include theSe linkS, then it wculd Oper'ate Bs a 5torefr'ont fo'r web apps correct7
+MS . MGYE . Oh) ectien to the form THE WITNESS: The idea is if they were doing thrs -- I mean, there'.5many issues,, it coulcl be very confuaing to users if they' re making it, appear te be an app,store, hut it" 5 not taking you to the native apps you c' an downlead on 'to B platform. I t ,s unclear ezactly what the pvint of that dhrectory of links wl.th 1 n s l .d e o f an appall.eat 1 .en woul d - - w ould p r B s e n t rt 'sel f a5.
+
+80. PAGE 811:08 T0 212:01 (RUNNING CC:01:07.8M)
+
+08
+
+Q.
+
+. Forstall, what you told Mr. Zuckerherg
+
+08 is, not go ndlucle emhedded apps in 'the Fac'cbook iPad
+
+. 1 0 app either 1n an embedded web view er- as a directory
+
+1 I 0f , '1inks t at weuld r6direct to Safari. Th15 speaks
+
+- 12~'Qd HTML5 w b a p ps < c o r r e c 't ?
+
+.13
+
+A. N
+
+Dhiection to the fo».
+
+15
+
+T E WITNESS: T hia .sp, eakS to what Facebook
+
+16 would do in its native ipad app. Fac&bcck when using
+
+1 7 HTML, HT'NL5 ,,al 1 weh s t a nds rd 5, 8 5 8, websu.te wh i c h
+
+s,,
+
+ow, how y cu p i c b a b l y a c c e s s F a c e bock w hen
+
+19' Qu ' p i t t i ng o n y o u r w 1 ndQws mach1ne or ' y ou r Mac,,,
+
+20 that .5 ~ weh standards and. Works exactly hew they
+
+21 built Facebook from day one.
+
+DX-3027.018
+
+22
+
+This is talking aloft w'hat 5o they da; in the
+
+23 n a t ive iPhcne or zQ'8 R'gp and i&ad app,~ in this, cas&
+
+2-4 3 T MR.. FVZN:
+
+25
+
+Q.. I unde<st:ancl that, hut tha't.wasn't my
+
+00212: 01 question, Nr. Ferstall.
+
+84. PAGE 212".02 76 21R'.l4 (RUNNING ''00:00'.t5~855).
+
+02
+
+My question was,: Xou told Mr. ,Zuckerherg
+
+03 that Facebook should not earthed er link to HTMI5 .alps
+
+04 from its native alop,, coirectT
+
+82.. PAGE 21R;fS 70 212NS tRUMNW'8 OO:N:$9.344)
+
+06
+
+THE WITNESS': I said - - the mesaage that I
+
+07 deliver&'d was that Facetook in their native B'gp
+
+GB should not redireot to links that Mould take you to
+
+09 Safari in this directory..
+
+DX-3027.0't 9'
+
+SPY. 6u7wm, Inc. v. APPk Ine., Xo.4:20-cv-05640-YGR-TSH (N.B. Cal.)
+
+Forsta8 Scott ol. 02 - March 8 2021
+
+'I CLIP (RUNNING 66.:07 40.818)
+
+18 SEGNIENTS UNNING 00:67:40,818
+
+1. PAGE 236."65 TQ 256:11 (RUNNING 60:56".44.188)
+
+05 Q. Ã r . Forstall, do you recall that after the.
+06 App BtGre opened, there were devel'opers who depleyecl
+07 mechanisms for collection c f pa.yments within their asap;
+O'B f or i n s t a n c ei thresh opening an eml3edded wet a p p ~ 0 9 c o l l e c t p atient, things of that; nature2 10 A . I re m e m ber there was some sert of payment thing.
+11 I d!on t remember the sp'e'cz.flo's I rememl3'er'ge'nerally
+
+2. PAGE 2X:$8 To 280:18 (RUNNIN6 00:60:18;148).
+
+18 Q. O ka y ~ hnt yoiiwere aware that de'welopers fonnd 17 ways to -- -- to make sales within theiz' appz ancl collect
+18 payment fcr those sialesy
+
+8, PAGE 2WOC TQ AC~ (RUNNING 8ILCC:98.51@
+
+20
+
+THE KITÃEss: I rememher .a genera,l concept
+
+2'1 ;that some dev&lope18 were tryirig to collect payment
+
+2 2 t h r ongh t h e l r app s .
+
+4. PASEO'M:24.TQ 251!M (RUNNINO 66:66:18.824)
+
+24 Q . An d d c you, recall there came a time when Applte
+25. decided tc offer itS own payment mechanism, for 00231:01 applicaticns that sold. digital ccntent7
+G2 .A . y es .
+
+5. PAGE 231".08 TQ 231!68 (RUNNING 60:56:12.281)
+
+05 Q. A rid applications that sold physical goods remained. 07 free to use whatever ether mechanisms they want.ed.
+GB They veuldn't use the Apple mechanism. C orrect7
+
+8. PAGE 2Ã:15 To 281:18 (RUNNIN6 00:00:18,,788).
+
+15
+
+THE WITIqE'SS: Apps could not use Apple' s
+
+18 in-app purchase for the sa.le ef physical goods.
+
+17 B T I4R.. EVEN:
+
+18 Q. B u t t h ey Could uae anther meChaniamS. C e r reCti '
+
+1 9 ,A . Ye. s.
+
++ 7, PAGE232;05 TQ 232:67 (RUNNING 86®C:17.53i
+
+05. g. B u t apps, that sold digital content were required. tO -- ~o -- n8ing the IAP API. C c rredty
+A . Co r ' r e 0
+I. ' AOE KN'Ol TQ 1S4:.OS$R N|NO lie:OO.'.0%1RI)
+
+10~8-g.-. ~lf yo lack at Exhibit 988, Exhibit 888 is Bates
+®". 9. AGE 234'.08 TQ 17 (RU NING 66:66".43.244)
+
+stamped -- Apf --APPSTQRE 10080247. A n d i t ' , s a . e arner
+
+10 emai a t t aching 8 what a ppears t'DI'ae a. slide: deck,,
+
+tikgline App ComY'merce Nede18 Do y 'os see
+
+1 I/ at
+
+o
+
+1 (I
+
+rs that an emarl that yell recezvs'd to'gether'
+
+15 with its - - w ith i t s at t ac h ment; en 1 1 D e cem)ser 2 00 8 i n
+
+DX-3027.020.
+
+16 the ordinary cour'se of your werk at ApplB?
+
+1 7 A.
+
+yeah,
+
+10. PAGE252:08 TO M2,.'10 tRUNN[NG '06'.00'.28,053).
+
+0»6 g. O k a y . Ã e discussed earlier that there were some
+07 apps QTI the App Store pr1or to the releas& of IAP 010) t h a t W e r e u. s i n g t h & 1r Q WTI p a y men t I I I &c'haT11STIIS for
+0»9 different kinds of purchases made in the app.. CorrBCt> 1 0 A . Co r r e ct . 11 Q. A n d some of those theN needed te switch over to 1 2 I A P o n c e I A P Was r e l e a p ed . Ca r r ' e c t V 1 3 A . At .S o m et i m e f r a m e .
+
+11. PAGE 252."10 T'0' 264:10 (RUNN)NG 00:03:25.791).
+
+16
+
+Do you recall,,wl.thout dlvulglng any legal advice,
+
+17 all the reaso'ns why Apple de'cided to require that 8.11 18 digital ss.les must use API [sic]'?
+
+19
+
+MS. MOTE". Do you mean tTT say "IAP"''?
+
+'20
+
+MR. EVEN". I A P . Sor r y .
+
+'2 l
+
+THE WITNESS'. 1 mean, there are a number
+
+'22 1easoTIS we: added IAP. l t w a s 'to TIIake lt Ba51er' for'
+
+devaloP»ers to sB11 dlgl.tal gG'ods.
+
+24
+
+If you re 8 gaIIIB developer and! yo u l l a v e S ITIBz t r a
+
+25 level that; you'd li.ke ta sell, hut the sustemer has to
+
+00253:01 enter 8 'c r e d 1 . t c a z d I » t h a t c au l d k» e 8 h ug E L' lmped1ment t o
+
+the customer' huyiTIg that extra level» whBreas 1f
+just,- Says,, "Hey» c3ick this huttoTI, and, for 99 Cents»
+
+yau get another level»" the user is, much. mere like3.y ta
+
+Click it. A n d App3.e already ha.s your credit ca.rd en
+
+file, se it -- it really streamlines it. And it's a
+
+07 huge win for the developer te have an easy mechanism
+
+08 huilt in to -- -- to sB11 grrocls inside th6 app. S o that
+
+was' -- that wa'5 the main reason we dicl 1 t.' To make
+
+10 much, much easier for developers to have another
+
+11 Revenue 8 t r e a I II.
+
+12
+
+ATTd» 8 8 t h e A p p 5t Qr B--- -- 8 5 apps 'mat'ured » we
+
+13 just learned 8, lot more .ahout different mechanisms for
+
+how to help developer'8 make money. 15 Hy MR., EVENT
+
+16 Q. A n y other r'easons that you recall,, without 17 divulging any legal advice>
+18 A. Any Et h e r r e s ?pons f o r w h a t ' ? 19 I2. For requiring the use. of IAp for in --app pales of
+
+20 digital goads.
+
+21 A. w e l l, .Another reason was t'e ma'ke it ccnsistent
+
+22 ever'ywhere. Sa 1f users were to,see 8 'cons1stent
+
+23 panel» they:d he mrlr'B likely t'a acc'Bpt that.
+
+24.
+
+again » e v e r y t h i n g 5 d l f f er ' B n t 6' v e r 'y tl IT 16»
+
+25 user'8 might he afraid to' cl1'ck» you know», one -- one 00254: 0.1 p lace and Tlat another pie Be b e cause they might thl TIk
+02 they" rB gol.ng to get 8 credit --c'81d form added · And so
+
+8 standard paTIB1 acr'oss everythingT» that was
+
+sTTTTther .,
+
+L oath r wa.s we did have thi.s 70T30 revenue spli.t .th&' sto '6 for 58:les A T Id l.twa'5 to avoid apps from
+
+tryrng to a p i c ally circumvent that hy having 8. flea d ownload t at wasn" t actually free. I t w a s -- -- Aypla
+
+wo~ld pay o r errexything for the download,, and then C har'ge t h e C u s t o m e r
+
+1k P GE 254:117020 14 tRUNNING 00:0»0:08.133)
+
+t he r r e astoTI'2
+
+1
+
+.
+
+'
+
+re ther'e are more that I'm not thinking of
+
+1 l gh n -
+
+DX-3027.021
+
+13. PAGE 2M:18TC258:02 (RUNNING 00:00:M.050).
+
+1.8 19 '2G '2 l
+24 O0256: G,l
+
+O'Q QoL1 r&c'81.1 the pe B.r thB.t the App Stere MRs
+1 BUnch e d ~ A . 20 08 . Q . Ar i d i n ' 2 G'C8 whet w e r e . your --- fr y e h i gh l eve l ,, whst were penr gener&i dnt1es Rnd r&sjsQn5151.11t1es Bt Apple~ A. I r a n a l l software for. the iPhone QS., so iO9,
+glG5 I was respon5151e for IQBcGS 10 relesses, Rnd 8:11 design cf safitware used interfere design, and a. set of other t hi ng s.
+
+DX-SO27.022
+
+

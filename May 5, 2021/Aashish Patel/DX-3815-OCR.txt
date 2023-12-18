@@ -1,0 +1,130 @@
+From: Fr edrik Liljegren <
+
+Sent: Wed , 4 Mar 2020 20:42:40+0000 (UTC)
+
+To: Tim S weeney
+
+Cc: Has eeb Mali Mark Smith
+
+; Mark Rein ; Keita Iida(
+
+Subject: RE: NVIDIA steaming Fortnite on Google devices
+
+Dear Tim,
+
+I wanted to give you an update on where we are with Fortnite on GFN and future platform support.
+
+We have now launched the commercial version of GFN to the public supporting PC/Mac/Android/Shield and soon Chromebook. We have had overwhelming positiveresponse from thecommunity acrosstheglobe.The
+primary positive response has been that GFN as a service offers players to option to play the games they own on additional platforms, something I believe you are a big supporter of as well. While there has also been some negative news especially around publishers requesung their games be removed from the service, we feel that GFN is gathering great momentum moving forward as an open service that allows users to play the games they own on their device of choice as well as access to playing with high fidelity settings including ray tracing on low end hardware.
+
+During the initial 2 weeks after public launch we saw 2.4 Million registrations (1M new users and 1.4M beta access converts). Fortnite has continued to be the biggest game on the service seeing over 600,000 Unique players during February, playing over 2.4M hours.
+
+Following up from our previous conversations we would now like to demonstrate to you and your team two new upcoming ways of playing Fortnite on GFN.
+
+1. Fortnite PC Version running on GFN servers streamed using WebRTC protocol to Safari on an iPhone. No App Store! You would use a Mobile Bluetooth gamepad to play.
+2. Fortnite Mobile version running on an Android etnulator streamed via GFN to an Android Phone using touchpad inputs. Enables play without an external gamepad.
+
+For 2. Above we do need some technical support from Epic to make it happen, I will reach out to the fortnite development teatn on a separate thread about what we would need to enable this.
+
+For 1, we are open to demonstrate this to you and your team at your earliest convenience.
+
+On a dilferent note, in your previous email below, you offered to support the GFN launch with marketing support and at this point we would like to discuss with you and Epic if this offer still stands. It would be great if Epic could offer public support of GFN or Fortnite on GFN, however you choose to do so.
+
+I also wanted to let you know that we have signed anagreement with Steam to support GFN as a streaming
+platform for Steam games, this news is not yet public so I kindly ask you to keep it under NDA for now.
+
+We would love to have a tighter integration with the Epic Game Store as well, and we have reached out to your
+
+store team to highlight the areas we would like to work on, We are willing to put our own engineering resources
+
+to help make it happen. I look forward to your reply.
+
+United StatesDistrict Court Nonttem District of California Case No. 4:20-cv-05640-YGR
+
+Best,
+
+Case TitleE ieGnnres,Ine go fe , l n e Exhibit No.DX-3815
+
+Date Entered
+
+arear Y. Soooot1 ra
+
+an
+
+. Doaotr clerk
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3815.001
+
+EPIC 00191283
+
+Fredrik
+
+-- --Original Message- ---
+
+From: Fredrik Liljegren
+
+Sent;Friday,Jan IO 2020 3:07 PM
+
+To: Tim Sweeney
+
+Cc: Haseeb Malik
+
+; Mark Rein
+
+Subject: RE: NVIDIA steaming Fortnite on Google devices
+
+Hi Tim,
+
+I did speak to Mark about this prior to your email and we have a call setup for Monday at noon with Mark to give him so more details, if you are interested feel free to join that call (I can forward invitation if you want participate).
+
+We are happy to hear you are supportive of our GFN strategy on mobile.
+
+Our cloud strategy is to extend the GeForce PC ecosystein to all garners. Just like a physical PC, we are not a store, publishers keep their community and economics. Garners subscribe to GeForce hardware in the cloud.
+
+We are currently in a semi closed Beta with restricted access, we plan to move out of Beta in Ql. This will establish a paid tier, which we plan to offer at $4.99/month. We will also keep a free tier for gainers who want to come try the service, but they will have to queue for seats to open. Exact dates for when we go out of beta is still up in the air and we are excited Epic is interested in supporting with marketing so will keep you and your team update once we get firmer dates laid out.
+
+We currently have clients for Mac, PC, Android TV, Android mobile and Chromebook (coming), At the same time, we are investing in our WebRTC client expecting this will provide us access to iOS and Android devices outside of their stores.
+
+Regarding Google, they are currently supporting GFN client. The specifics on the discussions is something I am not up to date on but we will update Mark around this on Mondays call.
+
+As you may be aware Fortnite is really popular on GFN today, we would also like to work with Epic to offer all Epic store games on GFN and do a full store integration to speed up access and playing games your customers buy on the EGS.
+
+Best,
+
+Fredrik
+
+-- --Original Message---
+
+From: Tim Sweeney
+
+Sent: Thursday, Janus 9 20207:28PM
+
+To; Fredrik Liljegren
+
+Cc: Haseeb Malik
+
+; Mark Rein
+
+Subject: NVIDIA steaming Fortnite on Google devices
+
+External email: Use caution opening links or attachments
+
+Hi Fredrik, I assume you' re hearing this through other channels, but Epic is supportive of NVIDIA streaming Fortnite from
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3815.002
+
+EPIC 00191284
+
+PC servers to mobile. As long as it's using Epic's in-app payment, we don't seek to tax or regulate the service's streaming of Fortnite whether it's free or paid.
+I'm personally very curious about the state of the platform as we' ve been arguing with Google over their 30% tax.
+Can anybody sign up now and get in, or is it a closed beta whereNVIDIA individually decides who can join?
+When will there be a big marketing push? If NVIDIA is successfully escaping the Google and/or iOS paywalls, Epic would like to participate in marketing sooner rather than later as soon as the service is publicly open and has good server availability, as long as the service isn't seeking to control or tax in-app payments.
+Has Google pressedNVIDIA to use Google payment and pay the 30% tax as a condition of distributing through Google Play, or are they hands-off? We'd love to sync up and compare notes.
+Tlm
+This email message is for the sole use of the intended recipient(s) and may contain confidential information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-381 5. 003
+
+EPIC 00191285
+
+

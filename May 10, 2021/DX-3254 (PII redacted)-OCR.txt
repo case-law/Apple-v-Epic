@@ -1,0 +1,342 @@
+From: Jo seph Sozio
+
+Sent: Fri , 1 Feb 2019 21:28:17+0000 (UTC)
+
+To: Dani el Vo el Sredl
+
+>; Peter Axt >; John Jack
+
+Cc: John Abercrombie
+
+>; Ben Hinchliffe
+
+; Ben Woodhouse
+
+Ben amin Crocker
+
+>; David Nlk el
+
+; Dom Acquarulo
+
+Graeme Thornton
+
+; Jacob La e r
+
+>; Joe Barrett
+
+>; Matthew Coleman
+
+Mlc aoskl
+
+>; Pau S an
+
+Phil i Buuck
+
+>; Sean Hamilton
+
+>; Sha K avarian
+
+appens
+
+>; Tim Sweeney
+
+Subject: Re: Concert Music Leak
+
+>; Jon
+; John Jack >,, Paul >; ShitH
+
+L S H l i t I h Ip i g t t k
+
+hy
+
+On Fri, Feb I, 2019 at 4:06 PM Joseph Sozio
+
+gi g d I g
+
+gi g pl t wrote:
+
+H at .
+
+Chatted with r Dominic Ac uarulo real quick and I have added the following items to the Festivus run of
+show: · 1:00 PM - Hotfix off replays tab (not replay recording) · ASAP aAer concert and having services healthy enough to do so - Hotfix replays tab back on
+
+CC M l th C I igtPte a t aJ S SI Q J h J k
+
+«I
+
+HIoJnanhcemdSIlaltintimDeioatlncCloClt afnoalmh
+
+CaseHo. 4:2lhec4S544ahVGR
+
+On Fri, Feb 1, 2019 at 3:38 PM Daniel Vogel Let's do it.
+
+> v-rote:
+
+Echllnt Ho.DX-M54
+
+Dale Enacted
+
+S m amm atm
+
+ac
+
+, Ito t he
+
+And to be 100% clear, we are talking about removing the replay tab, not replay recording.
+
+-- Daniel, Epic Games Inc.
+
+On Fri, Feb 1, 2019 at 3:37 PM John Abercrombie
+
+wrote:
+
+Did we verify the sequence will actually play under those conditions in replay?
+
+Yes, that was a prerequisite for turning back on Replays after we disabled them on Wednesday. QA tested
+going to the Pleasant using a cun ent replay made in 7.30.1, and also going to Pleasant using the 7.30.1 client with a replay created in 7.30.0. In both cases they could not hear the audio on console.
+
+Should we just pre-emptively disable replay tab from 1 till after concert? Minimal player impact and removes a big attack vector.
+
+I don't know of a particular reason to do so Currently, but your Minimal player i nrpaci Ssnd remolds a bi g armck vecror statement sounds very appealing. We should probably just disable replays at Ipm.
+
+On Fri, Feb 1, 2019 at 3:30 PM Daniel Vogel
+
+> wrote:
+
+CONFIDENTIAL
+
+DX-3254.001
+
+EPIC 03360992
+
+Should we just pre-emptively disable replay tab from 1 till after concert? Minimal player impact and removes a big attack vector.
+
+On Fri, Feb 1, 2019 at 3;27 PM John Abercrombie
+
+wrote:
+
+The replays will only work in the Concert playlist, the movie can be leaked during that time window though.
+
+On Fri, Feb 1, 2019 at 3;26 PM Daniel Vogel
+
+wrote:
+
+I understand the video being leaked at that time, but why do we expect the sequence to be leaked? If we do we should disable replays from 1 PM till after the concert.
+
+On Fri, Feb 1, 2019 at 3: 17 PM David Nikdel
+
+wrote:
+
+Timing and expectations update:
+
+The concert goes live at 2 p.m. With the latest MCP, regular clients will decrypt the content at I:30 p.m. Which I believe corresponds with the enabling of the LTM. They may be able to view the concert video replays at that time. Intrepid leakers may leak the background video as early as 11:30 a.m. All of
+this is expected, so we probably don't need a shit happens for it but inight be worth posting in the ¹sh01-30-marshleak02 channel just so we know if people see stuff.
+
+On Thu, Jan 31, 2019 at 11:25 AM Sean Hamilton
+
+wrote:
+
+Community will prepare inessaging to inform players that Replays will once again be watchable on supported platforms.
+
+On Thu, Jan 31, 2019 at 11:15 AM Philip Buuck
+
+wrote:
+
+For visibility to everyone, the career tab will be enabled on all platforms in 7.40 with the release of statsV2, but replays will continue to be hotfixed off for switch and inobile.
+
+On Thu, Jan 31, 2019, 11:13 AM Matthew Coleman
+
+wrote:
+
+Confirmed internally re-enabling Replays won't atfect IOS as they have no career tab.
+
+~ PI Shank Chg k t f 1 k
+
+Pl y k 1d k
+
+dl kl kd
+
+PP d' g
+
+platforms.
+
+On Thu, Jan 31, 2019 at 10:37 AM Daniel Vogel
+
+Durr - good point
+
+On Thu, Jan 31, 2019 at 9;50 AM Ben Hinchliffe
+
+wrote:
+
+We don't support user replays on mobile or switch anyway, so do we actually need to wait for IOS to catch up before reenabling them?
+
+On Thu, 31 Jan 2019 at 12:48, Joseph Sozio
+
+wrote:
+
+7,30,1 is indeed lagging behind for iOS and has not yet passed cert. Hazel or I can own giving the update when all platforms are forced to be on 7.30.1.
+
+CONFIDENTIAL
+
+DX-3254.002
+
+EPIC 03360993
+
+On Wed, Jan 30, 2019 at 10:03 PM Daniel Vogel
+
+wrote:
+
+Minor nuance - but not when 7.30.1 is live but rather when 7.30,1 is forced require for iOS if it lags behind. Aka, replay tab should remain hotfixed off fill then, right?
+
+On Wed, Jan 30, 2019 at 9:59 PM Dom Acquamlo
+
+wrote:
+
+Last Update: · We have been unable to reproduce this issue on the 7.30.1 client build we should
+consider this particular leak resolved once this build goes live.
+
+Other Callouts
+
+· We do think there is some risk that players inight be able to extract content (specifically
+the MP4) via Switch but can't definitively say if it is possible or not. · Adjusting to distribute encryption key 2-3 hours before the concert (original plan was 6
+hours before) · Meeting next week to discuss "event best practices" and encryption on consoles so we
+can avoid similar leaks in the future
+
+Thanks everyone, Dom
+
+On Wed, Jan 30, 2019 at 12: 56 PM Dom Acquarulo
+
+wrote:
+
+Update: · We met briefly to discuss next steps and the status of this issue in 7.30.1. · We believe this issue to be resolved in that build as a result of a playlist check added
+after the initial 7.30 was shipping
+ai ne garrett is investiganng for any vuinerabiiities that would allow players to bypass the playlist check by editing their replay file and to confirm players can't easily get replays on/off of consoles. . Q p u l l l 6 h a l t ' i t i ' g t t t g ' t y yn t i i t t W thi i i i d, i t di g
+testing older replays against this new build.
+
+the start of the event.
+
+-Dom
+
+On Wed,Jan 30,2019 at12:27 PM Graeme Thornton
+
+wrote:
+
+For the current encryption pak files we generate, we split out the asset registry entries for the
+items within and store them inside the encrypted pak. When the key is delivered, we mount that pak and register those new items with the asset manager. We just need to make that part of it work within the exisfing console data scheme and we'd get the effect we want. There' d
+needto besome token decryption ofgsomething*,justto make sure nobody spoofsabogus
+key, but that would only be small and have no performance considerations. Having said that, the festivus movie wouldn't have been helped by that because it's not an engine asset and isn't referenced by the asset manager at all. We'd need to encrypt some proxy
+objectfurther up the chain (and deal with the inissing reference problems that would cause),
+or have some bespoke means of restricting access to files in the pak at a lower level (as Ben mentioned above). In the future, movies could be wrapped in their own asset type and then they'd fit within the scheme described above naturally.
+
+CONFIDENTIAL
+
+DX-3254.003
+
+EPIC 03360994
+
+On Wed,30 Jan 2019 at17:06,Ben Woodhouse
+
+wrote:
+
+· enable encryption on consoles to protect ourselves against bugs like this (BenW/Joe B)
+o some performance concerns (Switch?)
+
+I'm not overly worried about performance if we approach this sensibly, We don't need full
+asset encryption on consoles to solve this - the filesystems are already encrypted so decrypting the twice would be overkill.
+
+We just need to prevent consoles from loading protected assets. We can achieve that by simpler means, e.g just by encrypting pak indices for selected assets. We' ll discuss options with the Core team, but this should be achievable without encrypting evetything twice.
+
+On Wed, Jan30, 2019 at4:30 PM Sean Hamilton
+
+wrote:
+
+All regions, included CN, have published messaging on social channels, Messaging:
+~Twi r Reddit
+Forums
+
+Xbox App+Discord
+
+On Wed, Jan 30, 2019 at 10:52 AM Daniel Voget
+
+wrote:
+
+Video is encrypted on untrusted clients (PC, Mac, iOS, Android), but not on consoles (Xbox One, PS4, Switch). There is some sort of bug in replays that triggers the sequence, which on console will play the music. We have local repro. We are hoffixing off the replay tab (playback only, they will still record) till we have a better understanding of details as we want to reduce the risk of the entire sequence playing. E.g. right now the stage etc is not loaded which is why only the music is heard.
+Urgent action items · hoffix cff replay tab(JacobL) · communicate us turning off replay playback, but not recording (Nathanl) · identify exact nature of replay bug resulting in triggering of sequence (JohnA)
+
+Other action items · enable encryption on consoles to protect ourselves against bugs like this (BenWI JoeB) o some performance concerns (Switch?) · figure out a way to prevent replays from triggering the sequence before event (JohnA) o special hacky code? o encrypting the actual sequence? · figure out next steps for upcoming client patch before concert and what needs to be induded (JohnA) · can we reduce time between decryption keys being sentand event? (GregL)
+
+While not used in this leak (yet?), replays run fully on the client so even though the BP code triggering the sequence is wrapped in "is server", it in theory should be
+
+CONFIDENTIAL
+
+DX-3254.004
+
+EPIC 03360995
+
+possible to bypass and play the sequence (without music) on the PC. We need to plug that hole. Encryption doesn't necessarily solve everything while our grace period for delivering key is 6 hours before the event. We need to investigate reducing that. RMW, had this been found a few days later the entire concert would have most likely leaked as the stage would have been loaded. -- Daniel, Epic Games Inc.
+
+On Wed, Jan 30, 2019 at 10:30 AM Dom Acquarulo
+
+wrote:
+
+Update: Meet call discussing options -htt s //meet oo le com/wdh-hfwi-okb
+
+· Current theory is that this is a console specific issue o Video was shipped un-encrypted on those platforms as the are considered secure
+· Talking through options to prevent this moving forward
+· Assumption is that once the stage is complete the at least the video would also play using this method.
+
+I will follow up again once we have a clear path forward.
+
+-Dom
+
+On Wed, Jan 30, 2019 at 9:48 AM Jacob Lawyer
+
+Dominic A u arulo please pull relevant folks over into this channel to chat through next steps. Beyond that let's please make sure we follow up on outlining the full state of encryption and content delivery systems.
+¹sh-01-30-marshleak02 h s ://e ic.slack.com/messa es/CFTS EHMZ/
+
+On Wed, Jan 30, 2019 at 9:45 AM Tim Sweeney
+
+wrote;
+
+Christ.
+
+What happened to our plans to encrypt content? Can we not put relevant content into asset packages and encrypt them together with music?
+
+All of these events will be ruined by leaks if we don't get this tech together.
+
+Tlm
+
+On Jan30,2019, at3:41 PM, Dom Acquarulo
+
+wrote:
+
+Hey All, For awareness players have managed to get the concert set to play using replays. They cant see the stage or any other elements of the event.
+
+CONFIDENTIAL
+
+DX-3254.005
+
+EPIC 03360998
+
+egghhdttdh ' a s i i k f o is, should · tC t o g ettas i d eotake do ? h //w w w o u b e corn/wat h2=vHzBAue 89YE
+-Dom
+You received this message because you are subscribed to the Google Groupsu shithappens-notify ugroup. Tou suhse'hs&omthis o u e ndsto teoei i e aii s f o it, s e dane a t?to~ To post to this group, sen emat to To view this discussion on the web visit
+Sean Hamilton Fortnite Community Coordinator
+n~
+Epic HQ-
+Graeine Thornton Epic Games
+Sent from mobile
+Sent from mobile
+Maffhegr Coleman IgA Analyst I Epic Gamesinc.
+Sean Hamilton Fortnite Community Coordinator
+Epic HQ-
+Sent from mobile
+Sent from mobile
+
+CONFIDENTIAL
+
+DX-3254.008
+
+EPIC 03300997
+
+

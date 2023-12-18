@@ -1,0 +1,50 @@
+Subject: Re: Please read: Key developer trends that I am seeing
+From: sRon Okamoto" Received(Date): Tue, 22 Jan 2013 18:21:00 -I0000
+To: uEshwar Vangalau Date: Tu e, 22 Jan 2013 18:21:00 -IOOOO
+
+PLAINTIFF
+U rt. Dlslrim Court- NDCAL
+4:20cv45540 YGR TSH
+aptsGames,tes. s.Apple trm.
+5 .ND. NL00~
+Dele euterpe etr
+
+This ls vety good. Thanks.
+
+On Jan 20, 2013, at 8:57 PM, Eshwar Vangala (
+
+wrote:
+
+Ron,
+
+In the course of conversations with dozens of developers, end-users, publishers, outsource shops, over the past few weeks these are the trends that I broadly 'am seeing. PII summarize into a separate deck for you and use some of these for our App Summit. I will coordinate with Nitin on a list of developer asks that I have collected.
+
+-- Production values for high end titles are 15x of200$ levels: For apps to stand out, especially in the gaming space, developers are creating incredibly rich assets and these are
+pushing up production costs. In 2008 you could get a game out for $100K..now a high quality title is anywhere fiom $1m to $3m to develop and publish. This is sustainable by the likes of EA, Gsmelofl, Natural Motion but is squeezing out some of the smaller players.
+
+-- The rise of Unity: I am seeing many more developers adopt Unity for apps and this is bringing parity between iOS and Android titles and in some cases we are seeing richer content on Andmid. Innovation to de'erentiate seems to be a challenge with this modeL
+-- Rise of Social Networks for app discovery and margin compression: This is predominantly ad driven and developers parlicipating see it as a double edged sword. On one hand they are seeing the benefits of cross app advertising and via social networks but at a significant cost. They are ofien forced to spend another 30% to pay the Social networking companies and their gross marlp'ns are dropping to 40%s in many cases. The concern is that all the elements that give our platform an edge in terms of UX, innovation etc are in danger of being commoditized because of this blitz via social network advertising. Customers will click on app link that fiiends on Facebook/Gree/Kakao push to your device rather than engage in the process of app discovery.
+
+-- Android is free to try: I keep hearing this phrase over and over again. I think our developer programs too need to be fic fordevelopment but you pay only when you areready to deploy on the App Store. Several people are experimenting with Android dev tools despite how tenible the quality of the toolchain is.
+-- Social as an integral feature of the app still drives success ex. Clash of Clans
+
+CONFIDENTIAL
+
+Exhibit
+0042
+PX-0042.1 APL-APPSTORE 00320915
+
+-- Fledgling developers publishing on Android first: Many developers claim to "test market" on Android as they feel they can build a buzz for their app on Android and then monetize on iOS. Especially given that the quality of Android apps isn't that high, it's easier for a good app to stand out in the Android community
+-- iOS Fragmentation: Developers claim that QA costs are creeping up on iOS on account of the range of hardware devices we have. Also they are struggling to maintain compatibility for apps to span iPhone 4 to iPHone 5. They would much rather support just iPhone 4S and 5 via one binary especially for performance titles.
+-- Rich long tail thanks to Freemium: Developers have shifted &om the "Premium Release and Move On" model to the Freemium model. The Freemium model has given rise to a long tail customer engagement model which is beneficial to devs. Customers keep coming back for updates and developers are forced to create them causing a long tail that monetizes well. This is almost akin to a Software as a service model.
+-- Lessrisk to innovate on Android: This is a consistent theme I am hearing from good developers across EMEIA. Developers are willing to test the waters and experiment with new app ideas and peripherals on Android as they believe their app won't be rejected. We have to combat this fear.
+-- iOS consistentlyisthe monetization platform of choice: A s onedeveloper said"A pple is the interstate to get to the goal of monetizing successfully. Google Play has too many dead ends but if you do get onto a side-road you may make some money via presence on Amazon, mobile carrier stores and Google Play like stores in China"
+-- Android fragmentation is a non-issue: By focusing on a hero brand and 3 Android phones and 3 tablet devices, developers seem to be covering a sizeable chunk of the Android market.
+Regards
+Eshwar
+
+CONFIDENTIAL
+
+PX-0042.2 APL-APPSTORE 00320916
+
+

@@ -1,0 +1,132 @@
+Subject: Re: A Medium story for you: "10 Things Google Play Does Better than the App Store"
+
+Fromi R i cardo Cortes (
+
+Received(Date): Thu, l9 Mar 2015 l l:53:48 +0800
+
+Cc: Je fF Robbin P ar e o o s as urn Murphy
+
+, Payam Min ashidi
+
+eve
+
+'an
+
+, Pedraum
+
+i
+
+, Alex Rofman
+
+«Tanya
+
+,Steve c iu gan
+
+iver chusser , Trac Pirnac
+,Matt Railo ric Gray
+
+Julian
+, Tyler Strand on Okamoto
+
+, Phillip o ei n e r
+
+To: Ma tt Fischer
+
+Date: Th u, l9 Mar 20 l 5 l l:53:48 +0800
+
+Thanks Matt. Great article. Few comruents:
+
+* Short description would be pretty easy to add in iTC, DJ and App Review tools
+
+* I like the idea of a download counter on each app details page
+
+' Installing directly from the web - not sure we'd want this; has this been vetted in the past?
+
+* 8 screenshots instead of 5 - sounds great but multiply that by the number of devices and the developers have an even bigger headache
+
+o App Previews are 30 seconds, true; but we could have a secondary video for App Trailers which could be longer
+
+* Changing metadatalscreenshots at any time: we' ve been there and slowly locked just about everything down except app description
+
+' Highlighting a review on the app page: not sure that is rocket science but seems su sight forward
+
+* Staged rollouts: I' ve heard this asked several tiines from developers myself. I'd be curious if more developers are asking for this one.
+
+* Developers issuing refunds directly to customers - any idea if this has beena prevalent ask
+
+from developers?
+
+* Our App Analytics: coining soon
+
+Unitol States District Court Noahom District of California
+CaseNo. 4:26-cv-05646-YGR
+
+Case Title E ic Garrras,Iac, s. d ia,Iae
+
+Exhibit No.DX-3396
+
+Date Entered
+
+susan v. So«as, clos
+
+By
+
+nsssly Clark
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3390.001
+
+APL-APPSTORE 09416561
+
+On Mar 14, 2015, at 2:33 PM, Matt Fischer
+
+wrote:
+
+Here's a thoughtful list of "10 Things Google Play Does Better than the App Store" lrom one of our developers. There are many good ideas in here (including several we' ve discussed).
+
+Best,
+
+Begin forwarded message:
+
+From:Philip Schiller
+
+Date: March 13, 201 To: Matt Fischer
+
+, Phillip Shoemaker
+
+Ron Okarnoto
+
+Cc: Eddy Cue
+
+Subject:Fwd: e turn storfyor you: "10 Things Google Play Does Better than theApp
+
+Store"
+
+FYI
+
+Begin forwarded message:
+
+From: Tim Cook
+
+Subject: A Medium s ory or you: Th i ngs Google Play Does Better than the
+
+App Store"
+
+Date: March 13 2015 at 3:31:59 PM PDT
+
+To: Eddy Cue
+
+), Phil Schiller
+
+"10 Things Google Play Does Better than the App Store" by Carlos Ribas htt s //medium cpm/ /fefd1844cd7
+
+Sent trom my iPhone
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3390.002
+
+APL-APPSTORE 09416562
+
+

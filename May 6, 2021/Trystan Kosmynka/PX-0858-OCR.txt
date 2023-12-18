@@ -1,0 +1,66 @@
+From:
+
+Trystan Kosmynka
+
+To:
+
+Tom Reybum
+
+CC:
+
+Sheen Pruden
+
+BCC:
+
+S ubject: Re:Apple Apps & IAP policy
+
+Attachments:
+
+Sent:
+
+05/01/2019 11:10:29 PM 0000 (GMT)
+
+PLAINTIFF
+Us. olelnet ceca-Nocnt 4:2Mv4I5040 YGR TSH
+Eple oe/INn es n Appre Inn
+e . e . sr-eyes
+cate selene sr
+
+CONFIDENTIAL
+
+Exhibit
+PX 858
+PX-0858.1 APL-APPSTORE 03180357
+
+Thanks for sharing On May1, 2019, at2:29 PM, Tom Reyburn (
+
+) wrote:
+
+Thanks Shaan.
+Amazon is also complaining about this. We need to have one set of rules that all apps follow whether they are from Apple or third-party developers.
+Thanks, Tom
+
+On May 1, 2019, at 2:21 PM, Shaan Pruden (
+
+wrote:
+
+Trystan,
+
+Developers (latest Linkedln) cannot fathom why our apps are permitted to do things they are not ..
+
+Just wanted to pass along the feedback.
+
+Shaan
+
+Begin forwarded message:
+From: Sofia Andrianakou Subject: Re: Apple App Review Issue Date: April 30, 2019 at 1:14:19 PM PDT To: Tom Reyburn
+-just us
+Hey Tom, I' ve reviewed a number of trial flows over the last few days and no ced that Linkedln's design is very much in line with Apple's own flows/language. Can you please help me understand what Apple is doing differently from our flows? I can ask the team to move the fine print above the CTA as that is the major difference I see.I'd appreciate any guidance you have on the below.
+Sofia
+(pastedlm age.png) (pastedlm age.png)
+
+CONFIDENTIAL
+
+PX-0858.2 APL-APPSTORE 03180358
+
+

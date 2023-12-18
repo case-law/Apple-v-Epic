@@ -1,0 +1,66 @@
+Subject: Re : Magazine subscription write up From: "Steve Jobs"
+Received(Date): Suu, 06 Feb 2011 21:19:57 +0000
+T : "eeryc
+Cc: "Philip Schillern
+Date: Su n, 06 Feb 2011 21:19i57+0000
+
+PLAINllFF
+ue. Olslrlet Ceurl - IIOCAL
+4t20ev40040 YGR TeH
+EIs'e serves, Ine. v.AelrerIne.
+as. No. PX-0438
+Outs Enterot
+ev
+
+I think this is all pretty simple - iBooks is going to be the only bookstore on iOS devices. We need to hold our heads high. One can read books bought elsewhere, just not buy/rent/subscribe from iOS without paying us, which we acknowledge is prohibitive for many things.
+Sent from my iPad
+
+On Feb 6, 2011, at 11:17 AM, Eddy Cue
+
+wrote:
+
+> I am also looking forward to discussing whether we require in-app for books. At first
+this doesn't seem that bad not to require but the more I think about it, ff will be very problematic. It will be difficult to limit this to books. What about Nefflix, WSJ, MLB, Pandora, etc? They will all do it it. Where do you draw the line? And many other would want it (e.g. magazines and games). The problem is many can afford 30% but others will say they can' t. This is going to be a huge decision for us. We don't want to lose the apps from iOS and at the same time we don't want to compromise the app experience that we
+have (e.g. don't have to enter your info or payment everywhere).
+
+> Eddy
+
+> Sent from my iPhone
+
+> On Feb 6, 2011, at 12:27 PM, Philip Schiller
+
+wrote:
+
+» One interesting point: magazines and newspapers argued that they don't like our
+offering because they want to get a lot of customer data (mostly name, email, address, phone number) but one of the big things they get by offering an app is a ton of customer data that they never had before - they can leam what stories customers read, how often
+and long they read, where they are (weather), what teams they follow (sports), when they were born (horoscopes), what companies they follow (stocks and business), what games they play (crosswords, suduko, etc), what ads they dick on, etc. It is very impressive all they can leam about customers without forcing the customer to provide anything that they do not want to share.
+
+» On Feb 6, 2011, at 1:11 PM, Eddy Cue wrote: »> I thought we should meet to go over the rules. We need to decide what we want to
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+Exhibit PX 438
+PX-0438.1 APL-APPSTORE 07175768
+
+do with books. I have asked Lanita for a meeting with Phil, you and I this week.
+») The basic premise is if the publisher brings a subscriber we get nothing and if we bring the subscriber we get 70/30. Apps must offer our in-app subscription offer and can not link out to any other. Publisher can offer subscriptions through any of their mechanisms (e.g. print, web site).
+») Here are the rules with all the fine details for subscriptions») · Only form agazine and newspaper apps ») · Offer can be weekly, monthly, bi-monthly, quarterly, bi-yearly or yearly (you can offer more than one) ») · Customer is automatically charged each time (e.g. weekly) until they indicate that they no longer wish to subscribe. At that point, they will receive any pending issues to the end of their paid subscription. ») · When customer buys a subscription, they will be asked if they want to share their name, email and zip code with the publisher. In addition, the publisher can offer a free incentive based on their offer (e.g. extra month for monthly or 2 weeks for weekly) if customer agrees to send the information. ») · Newspaper or magazine publisher sets the subscription pricing (can be free if they want to) ») · Subscription rates must be equal or less than other digital rate offered elsewhere ») · If publisher changes the subscription price, it applies to all existing subscribers at the time of renewal (if the price is higher than the customer was paying, they will be notified and will need to agree to the higher rate). ») · Revenue split is 70/30 for all subscription payments (Apple is not involved with any transaction that happens outside the store) ») · Subscription can include any other digital access (e.g. access to paid web site) ») · Su bscription can not include any physical product (e.g. print)»> · App can not require sign in or personal information at launch but can optionally ask the customer if they wish to register with their site (existing rule already) ») · In the app, you can make other product offerings (e.g. buy a calendar, signup for an email list) transacted directly with the publisher ») · Newspaper or magazine publisher can give free access to existing print subscribers (publisher does authentication) ») · Newspaper or magazine publisher can sell digital subscriptions on their properties and Apple does not get any payments (publisher does authentication) ») · The app must have a subscription offer using Apple's recurring subscription (can not link out from the app to any subscription offering).
+») This may sound complicated but it addresses their needs and bounds the box which we must do. Without it, some will try to do things that are not appropriate or fair.
+») For books, it is less complicated except book stores will claim this model doesn' t work because they pay 30% to the publisher already. For those with which this is the case,they would break even. They have other ways tomake money using theirown sites and cutting better deals. If I want to sell my Android book app on their new Android store I only get 20% so Amazon is getting a better deal!
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0438.2 APL-APPSTORE 07175769
+
+») T h e book rulesare») · App must include Apple in-app purchases for new books (can not link out to buy a book) ») · App may read books purchased outside the app.
+») We will get you a draft of this by tomorrow.
+))) Eddy
+») On Feb 6, 2011, at 10:38 AM, Steve Jobs wrote:
+»» I h ave seen nothing yet. We need a few paragraphs clearly stating our philosophy, and how this directly translates into our new policies.
+»» S e nt from my iPhone
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0438.3 APL-APPSTORE 07175770
+
+

@@ -1,0 +1,41 @@
+Snhject: Re : MS Update From: "Philip Schillern
+Received(Date): Fri, 13 Apr 2012 20:47:57 +0000 To: nRon Okamoto" Cc: "Eddy Cne"
+Date: Fr i, 13 Apr 2012 20:47:57+0000
+
+PLAINTIFF
+UAL Dfcefct Ccdn NDCAL
+4:20cv415540 YGR TSH
+Epfc eemcnfnc.npppfe Inc.
+aft.no.PJL00di 6
+Dcte Entered efr
+
+Sure, we should have a meeting with them I don't think there is any chance we would agree with that business model We run the store, we collect the revenue
+
+On Apr 13, 2012, at 1:44 PM, Ron Okamoto
+
+wrote:
+
+> Phil and Eddy,
+> I spoke to Eric Wilfred today about this week's internal meeting for the next Office launch.
+> Here's the take sways:
+> - All of the iOS and Mac products will be folded into the greater Oflice launch. Eric's team is responsible for engineering so all of the marketing for the launch of Oflice will be handled by the Ofhce marketing VP, Kirk Koenigsbauer (as a result, Eric may not be able to share as much info going forward because all of this has to go through the marketing team). I' ll be meeting with their marketing folks on Tuesday.
+> - They will not be able to share anything publicly about Olfice on iOS or Mac Office in the WWDC timeframe. Eric said it's too early for them since they are changing their launch timing to more closely model ours. They are holding their cards close until they are much closer to shipping than they' ve done in the past.
+> - They want us to think about an idea they have to handle signing up for subscriptions for Office from within their iOS app. Instead of using IAP, they would like to send users out to their "sign-up for Oflice" website. They would then give us percentage of the revenue for each user that signs up for an account that comes from our devices.
+> Their rationale is that they want to be able to have a consistent experience for signing up users (assume they can present offers for students, individuals, businesses etc.) and still have us receive a portion of the revenue as we would if they used IAP. They know that the current guidelines won't allow this but wanted to float it.
+> I' ll be able to get more info when I talk to their marketing team on Tuesday.
+
+> Finally, William and Eric wanted to see if you and Eddy would like to meet again with them and Kirk Koenigsbauer later this month to discuss the business model and launch.
+
+Exhibit 0046
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-0046.1 APL-APPSTORE 00325135
+
+Let me know if you'd like me to schedule it. ) Ron.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0046.2 APL-APPSTORE 00325136
+
+

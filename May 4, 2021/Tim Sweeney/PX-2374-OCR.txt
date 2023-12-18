@@ -1,0 +1,34 @@
+Subject: Fw d : iOS as an open platform From: eTim Cook"
+Received(Date): Fri, 26 Juu 2015 02:38:16 40000 To: "Phil Schillere
+Date: Fr i , 26 Juu 2015 02:38:16 t0000
+
+, "Eddy C
+
+Is this the guy that was at one of our rehearsals? Sent Irom my iPad Begin forwarded message: From: Tim Sweeney Date: June 25, 2015 at 3: 57:36 PM PDT
+
+PLAINTIFF
+U.S. Oleefel Ceeyl - NOCAL
+4:20mv410040.YGR.TSH
+Spiceeeyee.Iee. e Apple lee.
+gs. Ro PX-2374
+Oete Eydeyee sy
+
+Subject: IOS as an open platform
+Hi Tim,
+Y'K should think about separating iOS App Store curation Irom compliance review and app dishibution. The App Store has done much good for the indusIry, but it doesn't seem tenable for Apple to be the sole arbiter of expression and commerce over an app platform approaching a billion users.
+Compliance review could be limited to API compatibility, safety, data privacy, and fair disclosure practices. Compliant apps could be signed to allow open distribufion via web or by confirmed invocation Irom another app, with no restrictions on engaging in commerce directly with users.
+By separating these processes &om the App Store, it becomes infinitely more reasonable for Apple to curate its store according to its values and ensure a seamless Apple-controlled commerce experience within App Store apps.
+Compliance review would keep iOS fee of malware, while open distribution would combine the best aspects of the App Store with the best aspects of open platforms. It would be extremely positive for Apple to take this approach proactively before the topic is overly complicated by opposing political, regulatory, moral, and competifive forces.
+Best Regards,
+Tim Sweeney
+Epic Games
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-2374.1 APL-EG 05723365
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-2374.2 APL-EG 05723366
+
+

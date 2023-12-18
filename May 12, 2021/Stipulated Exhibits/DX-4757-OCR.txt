@@ -1,0 +1,4 @@
+Source: Apple transaction data Note: Only paid transaction types are included. Only originaltransactions fromin-app purchases are included. Apple's FYbegins in October, meaning Ql starts in October and ends in December. For example, Ql FY 2011 begins in October 2010. See AppendixE fo r details regarding Apple transaction data processing.
+DX-4757. 001
+
+

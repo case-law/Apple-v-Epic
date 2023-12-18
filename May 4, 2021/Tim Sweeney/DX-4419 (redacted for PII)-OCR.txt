@@ -1,0 +1,102 @@
+From: Mar k Rein
+
+Sent: Mon , 11 May 2020 17:47:17+0000 (UTC)
+
+To: Dan i el Vogel
+
+Cc: Ed Z ob r ist Adam Sussman
+Chester
+
+Tim Sweeney ; Canon ence
+Matt Weissinger
+
+Subject: Re:Apple / Google approach (attorney client privilege)
+
+; Nick
+
+We should also, especially after what happened this weekend «tth Houseparty, realize that there's a better than 50'r'o chance Apple and Croogle will immediately rcmove the games fmm their stores the minute we do this. Theymay also suc us to make an example.
+Do we know if they can invalidate our apps in a way that makes them inoperntive on devices that have than installol? Do our apps possibly um APls they can use to make them inoperative? Are there any sort of backdoor things they can turn on that make the apps unworkable?
+
+On Mon, May 11, 2020 at 1:42 PM Daniel Vogel
+
+wrote:
+
+My gut feeling is that a brief brainstorming meeting with this group to align us all is going to be
+
+more fruitful than going over formed plans. I don't think people are going to have enough time to really think
+
+things through by Wednesday. The worst meeting is a meeting with partial plans that people didn't have
+
+enough time to think through but have invested enough time in presentation / slides to defend thein:-)
+
+My $0.02
+
+Uaitot States Disthct Cotlh Nohbom District of California
+
+-- Daniel, Epic Games Inc.
+
+Case No. 4:20-cv-0564DYGR
+
+Case Title g ic Garnes,lac a Hpp/c.Iac
+
+On Mon, May 11, 2020 at 1:09 PM Ed Zobrist Hey Tim,
+
+wrote:
+
+Exhibit No.Dx-4419
+
+Date Entcrcd
+
+slarll V. scoria, clark
+
+Brr
+
+. Dspalr clos
+
+Sorry, I should have been more clear. Fm repurposing the Wed 11:30 meeting currentlyon your calendar and we' ll present you with Legal, Comms and Strategy materials.
+
+Ed
+
+On Mon, May 11, 2020 at 12:44 PM Tim Sweeney
+
+wrote:
+
+Hi Ed, I don't seem to be invited to a Wednesday meeting. Please add me to all meetings on the topic. Please keep
+me in the loop on this topic 100%. Please feel free to come to me directly in email or otherwise anytime to
+get clarification on anything. Otherwise it heads off the rails and I have to fix it and undo a bunch of work.
+-Tim
+
+On Mon, May 11, 2020 at 12:03 PM Ed Zobrist
+
+wrote:
+
+Daniel and I discussed this an hour ago and I coinpletely agree. I think this ineans taking a few days to fully explore legal/comm implications, and I'd add strategic as well. Then we' ll follow up with a broader executional plan next week. Unless there is a disagreement, I' ll reset the Wed meeting to a smaller group, and I' ll coordinate with leaders of these three areas to bring materials for a deep discussion of the options
+and outcomes. Ed
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4419.001
+
+EPIC 02289233
+
+On Mon, May 11, 2020 at 11:25 AM Daniel Vogel
+
+wrote:
+
+Making sure we are all in alignment on approach and what to focus our limited mindshare on. Tdehpeerendaerencaymoynrigaodinogf elivdegewcithasoeusrtVoBsUolCveKSlikperiicmepraecdtuocntioSnAeCff,oPrtOsSisAficnadridnsg, tehtec,mboustttheeffeccrittiivceal way to get Apple and Google to reconsider without us looking like the baddies. Here is my understanding of the plan: We submit a build to Google and Apple with the ability to hotfix on our payment method that passes the savings on to customers. We flip the switch when we know we can get by without having to update the client for 3 weeks
+OI' SO.
+Our messaging is about passing on price savings to players. Google and Apple will immediately pull the build for new players and potentially take an even more aggressive stance. What comes next is less well defined and IMO should be our focus. What is our detailed communication and legal plan at that time? What is our approach when FN goes offline on mobile devices due to lack of ability to update. How do we not look like the bad guys and what is our strategy to counter Apple and Google's lobbying as I assume that will be in overdrive as they will treat this as an existential threat. Etc. Development and other work is all proceeding, I just don't want to dilute our time with updates on the execution front and focus it entirely on the big elephant in the room in the next week or two.
+Any disagreement on this? If no, I would suggest there to be small and short brainstorming
+sessionson communication and legalapproach.
+-- Daniel, Epic Games Inc.
+
+Head of Publishing E ic Games
+
+Head of Publishing E ic Games
+
+Mark Rein, Epic Games, Inc.
+Visit us at h / / w ww e ic ames corn
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4419.002
+
+EPIC 02289234
+
+

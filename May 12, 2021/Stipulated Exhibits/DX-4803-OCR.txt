@@ -1,0 +1,7 @@
+AVel'8ge ColllllllSSloll I'8tC.
+V 4 >3 9 4 > 4 Qgle
+Source: Apple transaction data Note: Commission rate is calculated for each transaction, and a simple average is calculated across transactions per quarter. Commission rate is set to 0% for all transactions with no total revenue. Apple's fiscal year begins in October, meaning Q4 starts in July and ends in September. For example, Ql FY2008 begins in October 2007. Only original transactions categorized as initial downloads are included. Transactions where Apple is the developer are excluded. Only apps categorized as games are included. See Appendix E for details regarding Apple transaction data processing.
+47
+DX-4803. 001
+
+

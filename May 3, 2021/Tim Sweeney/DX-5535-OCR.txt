@@ -1,0 +1,163 @@
+From: Aak ash Gupta
+
+Sent: Tue , 4 Feb 2020 17:16:32+0000 (UTC)
+
+To: tosn t -statuS
+
+; Project-Status owe sughen <
+
+Subject: Analytics Insights Weekly - 2/4/20
+
+; Onjtne-Leads <
+
+; Online-Analytics <
+
+Key insights frfom Analytics the Past Week: · Split screen functionality in Fortnite continues to drive new players and is responsible for about2.3 million new accounts since feature launch. · Forlnite players who play on mobile are the most likely to play on other platforms (-38%). Players who play on PS4 are least likely to cross progress (-29%). · By plafform, PS4 has the highest acfive percentage of players in Fortnite Arena mode. But PC has the highest percentage having played in a tournament.
+
+; Walter Kong
+
+United SutcsDistrict Court NortbcmDistrictof Cnlifomis
+
+CaseNo. 4:20-cv-0564OYGR
+
+CaSeTitle Epic Games, /ac fi:,dppk, la«
+
+Exhibit No. DX-5535
+
+Date Entered
+
+Sumi Y. Sooag, Cttut
+
+ay:
+
+, n eely «tet
+
+Complete Status Update: Products:
+Forlnite:
+Analyzed the latestslatsfor sglit wzeen. The funcdonality continues to drive new players and is responsible for about one Ihird of our additions sinus launch. In squads b duos splitscresn usage has stabilized at abouttfi tfin.
+
+t~ haps / / Ih6.googleusercontentcom/a710JiHXWaZ97lb7MGkb-hfzXfA tse6QDlstQSIwnGR009uggGqeAqUUOBJduizxrhjfGfWMTHdvt9NGjLQKsmtllhtuck1 NXI39Asacrb5 7xyPMzdllEUmzPKl/Wt-
+· Queried cross progression (cross progression = you play on different plafforms) data. Players of mobile (read from the left column) are the most likely to have cross progressed (38%), while players of PS4 are least likely (29%).
+
+[g ag httpskf/Ih5.googleusercontentcom/DswvdfsgtavdSW5hzwwglnszyhTVVhiNSjxcxteUyahHxQNQBRI5WROLDQtscskG5fmsazyjqL
+
+· Built initial views for competitive (arena, cash cups, etc)KPls. Selected Insights: 1) Forlnite has 65M accounts that have played at least one arena game. 43M (63%) remain actve in the last 30 days. 2) Countries like Israel, Denmark,
+
+and France
+tournament.
+
+index
+
+highly
+
+on
+
+Arena
+
+play,
+
+while
+
+countries
+
+like
+
+Korea,
+
+Indonesia,
+
+and
+
+Philippines
+
+index
+
+lowly.
+
+3)
+
+By
+
+platform,
+
+PS4
+
+has
+
+the
+
+highest
+
+active
+
+percentage
+
+of
+
+players
+
+in
+
+Arena.
+
+But
+
+PC
+
+has
+
+the
+
+highest
+
+percentage
+
+having
+
+played
+
+in
+
+a
+
+· Built internal editor analyticsworkbook. Displays: records by P4 stream, loading trends by loading name and build, LoadMap Ieaderboard by map name, LoadMap trends by map, OpenAssetEditor leaderboard by asset type,
+
+SlowTask leaderboard, TotalEditorStartup leaderboard by whether Live Coding is enabled and using Fast Load, and CPU InitializeEditor leaderboard. Can help identify bottlenecks and slow loads.
+
+· DraftedMVP funnel anal ties for Valk rie. Would allow creators to create their own funnels for specific steps they are hoping players to follow within their game modes.
+
+Verifiedka arbeamCldnotha cthe~lou estsolomatch Hehadac stomgame ilhfollowersf nnelnghimhealngfiems S thewssbeate eninnonc stommatches fore ample h enthemwasab g t astcdob I h tletpl y
+
+get super fast infinite healing by walling against a player built wall in Slurpy Swafnp. Many players exploited this for free wins - in some cases, mulbple players were attempting this in the same game and held a standoff.
+
+Updt d t h tsd m , d d d o th- I I sk i , d t» t . u t h t d t kb k h
+
+t l l p dm li Cl t 'b h , II di t t d d. fil d t h.l I sti l l y rkt k h h l CI t i b t d , p l
+
+t fi
+
+survival, inedian ELO & MMR, damage, eliminaaons, building, and sodal metrics.
+
+· Delivered template cLueuto assist in ModSquad'6 traflicking of crea5ve islands.
+
+Battle Breakers: · Investigated traffic driven by the Battle Breakers SAC program. Createddashboards for deep dive into supporter populations, including creator level SACmetrics. FG3000 and VashenZ are top creators.
+
+Teams:
+E-Commerce & Fraud:
+Qcried I~ raonncclaiems.Po ndlhat penal sly granted co pons are less effec' sin con erfing.
+· Queriedfree holida ames b IP data to inform what rate limitation is most useful, The current rate limitation is 3 orders per IP in 5 minutes. The data shows over118Kaccounts who had daimed inofe than 3 orders in a single minute. The team is considering changing the threshold to a minute as a result. · Analyzed Xsolla payfnent methods in Korea and Indonesia, shorllisted payment methods with fewer transactions and high fees that can be removed. · Built a workbook formax s end er u rchase. Will help inform pricing decisions based on areas where we can infer the sensitivity curve.
+
+Data Science: · ELO prediction model: finalized feature generation and target definitions.
+· Chum model: Deployed chum model improvements targeted at performance increase to elder accounts.
+Upcoming Projects to Flag:
+· Coordinating with publishing, engineering, and community to solidify insight into MOTD impact, and perhaps introduce basic experimentation. · Building quest recommender proposal, to use data science modeling to recommend specific quests for players based on their history. · Strike team further investigating mobile funnels.
+
+What can we help your team with this year? Let us knowat anal ties-re uests e i am e s.com. As a reminder, the contents of this email are highly confidential. Feel free to reach out with questions, feedback, or requests.
+
+CONFIDENTIAL
+
+DX-5535.001
+
+EPIC 00184598
+
+

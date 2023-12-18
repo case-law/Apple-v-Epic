@@ -1,0 +1,126 @@
+Subject: Re : Facebook From: "Philip Schiller"
+Received(Date): Sat, 16 Jul 2011 11:58:59 +0000 To: "Scott Forstalin Cc: "Steve Jobs"
+Date: Sa t, 16 Jul 2011 11:58:59+0000
+
+PLAINTIFF
+Dec Dlatrlct Court - NDCAL
+4:20-Dv45640-YGR-TSH
+tsrrc Semen Inc. u.Apple Ine.
+ctt.ttD. PX-0886
+Date Snlmee Str
+
+I paste in a URL directly info a tweet or message (and the services use their automatic shorteners and filters) and I use other iOS apps that post URLs (lnstagram, Best Camera, Soundtrachng, Ping, etc).
+
+I think "like" buttons Irom websites should be fine, the issue is to figure out how not to allow apps like Zynga, Scrabble, Mafia Wars, Texas Hold em, Birthday Cards, Happy Pets, etc. maybe the Teo rules of no currencies, and link to native apps will cover most, it is just bard to teH, and in the case of other developers (e Google) that may not be the case and we can't review and track what apps they will be providing.
+
+On Jul 16, 2011, at 2:24 AM, Scott Forstall
+
+wrote:
+
+How do you link to websites in Facebook? By copy/pasting a URL or pushing a Like button on the site? Or something else?
+
+They claim that any website that adds a "Like" button must join their developer program and that is the way most links get posted on Facebook. So there is not a distinction between an app and a website. Today some things appear in their app directory, but according to Facebook this is based on whether a developer has requested it to appear and they plan to change this. Even if we used the flag of whether sn app appears in their current directory as a trigger, a developer could get around a native rule by setting the flag to say they are not an app even if they are.
+
+On Jul 15, 2011, at 6:13 PM, Philip Schiller wrote:
+
+I think the ditference is between linhng to websites (I do it all the tune in FaceBook and Twitter)and apps thatFacebook themselves even Sinks ofasapps -they have an app progranL
+they have app specs,they have an app catalog. Of course they know what are spps and what are user generated web links (and yes I think that their NYT app is an app, that is different than a
+user linhng to the NYT website on their own).
+
+On Jul 15, 2011, at 10:59 PM, Scott Forstall
+
+) wrote:
+
+The question is to what should we say no?
+
+They currently have an embedded WebView where they display the NYT, blogs, etc. Can they continue to display these sites in-line? Flipboard does this; would we ask them to stop?
+Exhibit PX 886
+
+CONFIDENTIAL
+
+PX-0888.1 APL-EG 00747958
+
+I'd like to say that apps must be native, but I haven't figured out how to define "apps" vs. things like blogs and news sites. That is where the Facebook Credits rule came &om. I agree we don' t want to open up a slippery slope for Google, Adobe, or even Amazon to start linking out to a Kindle store in Safari. But I also don't want to prevent Facebook &om having a native app at all that makes sense (I wouldn't use the native app if I couldn't see links to news stories that my friends post).
+Do you have a better suggestion about how to distinguish what we should require to be native vs. what web links can be viewed --either in-line in a WebView or linked out to Safari?
+
+On Jul 14, 2011, at 8:17 AM, Steve Jobs wrote:
+
+I think we should say no for now and see how this unfolds.
+
+Sent &om my iPhone
+
+On Jul 14, 2011, at 7:57 AM, Philip Schiller
+
+) wrote:
+
+I understand why FaceBook wants to create a market of 3rd party HTML 5 apps that users run &om a native FaceBook app on the iPad, and realize that they can always run FaceBook on
+
+the iPad in Safari and have these apps in Safari as well anyway, but if we approve of this
+
+(regardless of the credits issue) we would then need to allow all developers to do the same thing.
+
+So, for example If Adobe comes in with an app that links to new web apps that they promote we need to allow that "app store" in, even worse Google could come up with an app that runs all their 3rd party Chrome web apps and we would need to allow that in too! I don't see why we want to do that. All these apps won't be native, they won't have a relationship or license with us, we won't review them, they won't use our APIs or tools, they won't use our stores, etc.
+
+Maybe this is inevitable and there are going to be many Safari based HTML 5 apps and we will only be hurting ourselves if we were to hold back FaceBook (and have a worse experience on the iPad than on Android). But this is a big deal and FaceBook will accelerate the move to these web apps.
+
+I'm really tom over it. My gut says we should say "no" but it is not an easy decision.
+
+On Jul 14, 2011, at 3:22 AM, Scott Forstall
+
+) wrote:
+
+Mark and I had a long conversation about this today. He claims eliminating (3) doesn't really work because there is no clear distinction between what makes an "app-related link" and a "non app-related link". I had thought that it would be relatively clear which links in Facebook are app-links and which are non app-links. App-links would be things like a poker game. Web links (non app-
+
+CONFIDENTIAL
+
+PX-0886.2 APL-EG 00747959
+
+links) would be things like the NYT. But according to Mark, there is no obvious way to distinguish between a poker game and the NYT. Both are Facebook developers and provide Facebook integration. This is also true of many bloggers. He claims they have over 100,000 developers/points of web integration.
+It would be unfortunate to disallow any web post in the Facebook app, including blog posts. I don't think they would ship the native app if that were the case.
+The one distinction we came up with are developers that take Facebook Credits . There is a distinction between an app/website like FarmVille that takes Facebook Credits &om a blog site or NYT that does not.
+One possible rule would be to allow linking out to sites that do not take Facebook Credits or have a native iOS app, but require native apps for any developer that uses Facebook Credits (and would presumably then use iTunes in-app purchase).
+This means Facebook would fast switch to the native FarmVille and not go to the web site. But it would use the website for NYT. Note that this means linked-to sites can charge outside of in-app purchase (like a NYT subscription on the website). And a developer could create a web-based game and take credit card payments. But my first reaction is that these are acceptable risks.
+Thoughts? Are there edge cases or slippery slope issues with this? Does it confuse any of the ruleswe have fordevelopers today?
+
+On Jul 11, 2011, at 8:03 PM, Steve Jobs wrote:
+
+I agree - if we eliminate Fecebooks third proposal it sounds reasonable.
+
+Remove: - Tapping on one of these app-related links would (3) link out to Safari otherwise.
+
+Steve
+
+Sent &om my iPad
+
+On Jul 11, 2011, at 6:52 PM, Philip Schiller
+
+) wrote:
+
+I think the proposal all makes sense with the exception of the third item on the last bullet
+
+(linking to apps in Safari) we need to think hard about that one.
+
+On Jul 11, 2011, at 6:31 PM, Scott Forstall
+
+) wrote:
+
+I just discussed with Mark how they should not include embedded apps in the Facebook iPad app --neither in an embedded web view or as a directory of links that would redirect to Safari.
+
+CONFIDENTIAL
+
+PX-0886.3 APL-EG 00747960
+
+Not surprisingly, he wasn't happy with this as he considers these apps part of the "whole Facebook experience" and isn't sure they should do an iPad app without them. Everything works in Safari, so he is hesitant to push people to a native app with less functionality, even if the native app is better for non-third party app features.
+He had a few suggestions about how to compromise on our positions:
+- As requested, do not include a directory of apps in the Facebook app, links or otherwise.
+- Do not have third party apps run in the embedded web view (that would continue to be used only for web stories and other links).
+- Allow user posts in the news feed related to apps (like a Farmville post to ask for a cow; these are filtered today because tapping on them would do nothing).
+- Tapping on one of these app-related links would (l) fast switch to a native app if one exists and the user has it installed, (2) take the user to the app store if a native app exists and the user has not installed it, (3) link out to Safari otherwise.
+I think this is all reasonable, with the possible exception of ¹3.
+Thoughts?
+
+CONFIDENTIAL
+
+PX-0886.4 APL-EG 00747961
+
+

@@ -1,0 +1,36 @@
+8«aanY, Soon@C>ark , Daputy Clark
+
+U&t'A4 Wh»4MVIMIWsl~nh'nlaL«al UW»labile~ «pp
+tie~ ui d tlat WIq 5[aar« lvtitttr F'r'gege
+
+Vie elder«l»~ris»l »AM « 'Y»m-ale" aPli tlt r»ug'h the Ayy Stadiala~@tlt« fhivt I,lay 1st FYgasg
+
+Source: Apple transaction data
+
+Note: The treatment group is any user that downloaded a "Console" app available prior to FY2018 for the first time in FY2018. A
+
+user that downloaded any "Console" app prior to FY2018 is not included in the treatment group. The control group is any user that
+
+never downloaded a "Console" app prior to or in FY2019, including those released in FY2019. Both the treatment and control group
+
+are limited to users that have at least one original in-app purchase or download games transaction in FY2017, FY2018, or FY2019
+
+and limited are to users that appear in the data prior to FY2017. "Console" apps released prior to FY2018 include PlayStation App,
+
+Xbox, Nintendo Switch Parental Controls, Nintendo Switch Online, and Steam Mobile. Console apps released during FY2018 are
+
+PS4 Second Screen and Oculus. Users that download PS4 Second Screen or Oculus as their first "Console" app in FY2018 are
+
+excluded from both the treatment group and control group. "Console" apps released in FY2019 are PS Remote Play, Steam Link,
+
+Steam Chat, Xbox Events, and Xbox Game Pass.
+
+36
+
+The average spend is calculated as total spend for the respective fiscal year divided by the total number of person ids in the
+
+treatment or control group. The number of person ids in each group is kept constant over all three years. There are 102.8 million
+
+DX-4792. 001
+
+

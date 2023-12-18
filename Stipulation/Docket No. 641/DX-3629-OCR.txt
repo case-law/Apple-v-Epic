@@ -1,0 +1,382 @@
+I NTERACT I V E E NTERTAINM E N T BUSINESS
+Xbox LIVE Games Marketplace -- Guiding Principles, Mission and Vision
+June, 2022
+Mscrosof't CON FDI ENTIAL
+
+Outline · Introduction and Methodology · Guiding Principles, Vision and Mission · Sample Use of Principles · Detailed Guiding Principles and Data · Appendix
+( < IE'0)
+
+XERmOXarKkel'VtpIlaEc.e
+Microsot't CON F IDENTIAL
+
+Introduction
+
+XBQmXaKrkle'VtpIlEac.e
+
+· The purpose of this presentation is to outline the Guiding Principles, Vision and Mission for Xbox LIVE Marketplace
+
+· The presentation is intended for internal Microsoft use only
+
+· The Guiding Principles, Vision and Mission can be shared with Xbox ecosystem partners but are not intended for the end user of Marketplace (i.e. consumers)
+
+( < IE'0)
+
+Microsot't CONFIDENTIAL
+
+XERmOXarKkel'VtpIlaEc.e
+Over the course of 3 months, the Marketplace team worked to develop the Guiding Principles, Mission and Vision.
+
+Feb, 2011
+Set Charter
+· Develop actionable Guiding Principles, Mission and Vision
+· Principles, Mission and Vision to be forward looking based on market, consumer and competitive trends
+
+Trends Analysis*
+Market Analysis · Enabling technology · Content · Devices · Consumer
+Competitive Analysis · Revenue models · Consumer experience · Pricing and positioning
+
+Team Reviews
+· Identification of key business questions
+· Evaluationof business implications and considerations
+Core Attendees (A-Z): · James Burns · Jessica Cui · Adam Fossa · Jason Ing · Jenn McCoy · Chad McFadden · Marissa Mierow · Alexandru Teodorescu-Badia · Chris Young
+
+Today
+Final Output
+· Guiding Principles · Mission · Vision · Sample Implementation Tools
+
+( > IE'0)
+
+Note: * Detailed sources for Trends Analysis are included in the appendix
+
+Microsoft CONFIDENTIAL
+
+Outline · Introduction and Methodology · Guiding Principles, Vision and Mission · Sample Use of Principles · Detailed Guiding Principles and Data · Appendix
+( < IE'0)
+
+XERmOXarKkel'VtpIlaEc.e
+Microsot't CON F IDENTIAL
+
+Xbox LIVE Marketplace Guiding Principles
+
+XEROmXaKrlk'VetIpEla. ce
+
+Guiding Principle
+Marketplace will strive to maintain the equal or higher value of digital entertainment versus its physical counterpart Marketplace will position the Xbox LIVE brand in a premium manner as well as deliver on Principle 1 by focusing first on content, then on merchandising, and lastly, discounting
+Marketplace will experiment with and evolve new business models and marketing levers that focus on the benefits of digital products (e.g. promo of back catalog, targeting, content customization, windowing)
+Marketplace will act as an advisor to publishers to evaluate and experiment with methods to deliver against Marketplace's complete digital content roadmap Marketplace will price competitively, without becoming the low price leader, to ensure overall sustained financial health of the ecosystem Marketplace will evolve retailer relationships to sell to customers where they want to buy and include retailers in the move to digital if/when warranted Marketplace will dynamically balance its focus between core and non-core garners as the subscriber base changes, while also optimizing for geographic variances Marketplace will collaborate with current (i.e. WP7, PC and .corn) and future platforms to drive Marketplace revenue
+Marketplace will focus on Xbox LIVE subscribers. Non-connected Xbox owners are a distant second priority
+10 Marketplace will strive to be ahead of evolving customer behaviors and partner business model needs
+
+Short Descriptor Drive Digital Value
+Discount Last
+Experiment Often
+Advise Partners
+Price Competitively
+Evolve Retail Dynamically balance
+Core &. Broad Include Future
+P latforms Focus on Connected
+Users Ensure Future Success
+
+( < IE'0)
+
+Microsot't CONFIDENTIAL
+
+Vision and Mission Statements
+
+XEROmXaKrlk'VetIpEla. ce
+
+Vision · Createthe industry leading marketplace for games and digital entertainment services by
+delighting customers, evolving the entertainment ecosystem and rapidly innovating new business models.
+Mission · Employ an unmatched level of customer and partner insight to drive the success of the LIVE
+Marketplaceand the Xbox ecosystem.
+
+( < IE'0)
+
+Microsot't CON F IDENTIAL
+
+Outline · Introduction and Methodology · Guiding Principles, Vision and Mission · Sample Use of Principles · Detailed Guiding Principles and Data · Appendix
+( < IE'0)
+
+XERmOXarKkel'VtpIlaEc.e
+Microsot't CON F IDENTIAL
+
+XEROmXarIIkI'eVtpIEla.ce
+The Guiding Principles can be made actionable as a checklist cover on any proposal submitted for Marketplace consideration.
+
+Example Checklist Marketplace Proposal Cover Page
+Guiding Principle Drive Digital Value Discount Last Experiment Often Advise Partners Price Competitively Evolve Retail Differentiate Core from Broad Include Future Platforms Focus on Connected Users Ensure Future Success
+
+Meets?
+
+· Evaluate proposal based on the number of Principles met · Weigh the unmet Principles in the order listed · Establish a guideline for the minimum number of principles that
+must be metto obtain approval
+
+( < IE'0)
+
+Microsoft CONF IDENTI AL
+
+Outline · Introduction and Methodology · Guiding Principles, Vision and Mission · Sample Use of Principles · Detailed Guiding Principles and Data · Appendix
+( < IE'0)
+
+XERmOXarKkel'VtpIlaEc.e
+Microsot't CON F IDENTIAL
+
+Customer Segment Guiding Principles
+
+XERmOXarKkel'VtpIlaEc.e
+
+Guiding Principle
+Marketplace will strive to maintain the equal or higher value of digital entertainment versus its physical counterpart
+
+Supporting Market Data
+· Core garners have high engagement, low price sensitivity and affinity for a small number of hit tiles
+· Steam maintains a premium digital position with marketplace features valued by garners
+
+Implications
+· Marketplace will not expedite the "race to zero" that is happening with games on non-console platforms
+· Marketplace will work closely with 1" party and 3" party publishers to define and demonstrate the value of digital games
+
+Marketplace will position the Xbox LIVE brand in a premium manner byfocusing firston content, then on merchandising, and lastly, discounting
+
+· Core garners have high engagement, low price sensitivity and affinity for a small number of hit tiles
+· Most marketplaces focus on core garners · Steam trains customers into 'lower margin' behavior by
+running frequent promotions
+
+Determine quality of games based on customer belief of quality (i.e. this will vary across a new user vs. a casual user vs. a core gamer) · Marketplace will emphasize high quality content when merchandising · Greater needfordata and analyticsto better use content and merchandising as primary levers over discounting or price
+
+( < IE'0)
+
+Microsot't CON F IDENTIAL
+
+Guiding Principle
+Marketplace will experiment with and evolve new business m odels and marketinglevers that focus on the benefitsof digital products (e.g. promo of back catalog, targeting, content customization, windowing)
+
+Supporting Market Data
+· Emerging gaming platforms provide alternative revenue models -advertising based models on mobile phones and micro-transaction based models in social games
+· More gaming options provided on cheaper, more powerful technology on non-console devices
+· Digital marketplaces attempting to find ways to differentiate
+· Zynga made over $500M on Facebook in 2010 · Rovio has sold over 12M copies of the paid version of
+Angry Birds in the Apple App Store
+
+Implications
+Developdynamic bundles based on customer usage/preferences · Personalize presentation of title selections based on customersegment orspecific consumer preferences · Manage relationship with retailers to minimize impact on sales of other Microsoft products via retail channels · Conduct ongoing experimentation with merchandising to ensure that XBLM stays relevant and is able to tailor offerings to its customers as they evolve · Experiment with 1st party and 3rd party content, such as avatars, to include time based exclusives for premium tiers etc. · Create new product cyclesto extend sales lifespan for game titles · Work closer with 1" party to develop evaluate new businessmodels to enhance monetization offranchises
+
+( < IE'0)
+
+Microsot't CON F IDENTIAL
+
+Guiding Principle
+Marketplace will act as an advisor to publishers to evaluate and experiment with methods to deliver against Marketplace's complete digital content roadmap
+
+Supporting Market Data
+· Higher cost, complexity and risks associated with console game development
+· Doubling game development costs across generations from $4M to $11M for lower end games
+· 'Hit-based'gaming business driven by lower-risk game sequels
+· Mobile and social platforms compete for game developers
+· Development across platforms is crowding distribution of games
+
+Implications
+· Evangelizeand educate publishers with MGS data to help extendfranchises,and to offerfeatures(suchasavatars, consumablesetc.),add-ons and transactional in-game apps thatcustomers seek
+· Investigate new partnership options to generate greater revenues and re-evaluate current partnerships based on salesdata vs.costto supportanalysis
+
+Marketplace will price competitively, without becoming the low price leader, to ensure overall sustained financial health of the ecosystem
+
+· Doubling game development costs across generations from $4M to $11M for lower end games
+· Higher cost, complexity and risks associated with console
+game development · Core garners have high engagement, low price sensitivity
+and affinity for a small number of hit tiles
+
+· Do not focus on volume pricing, or commoditized pricing strategiesas a core strategy
+· Track competitive pricing across platforms to ensure that games will be priced to compete with equivalent games in other console marketplaces
+· Price and promote within guidelines of publisher contracts
+· Avoid undercutting other channels
+
+( < IE'0)
+
+Microsot't CON F IDENTIAL
+
+Guiding Principle
+Marketplace will evolve retailer relationships to sell to customers where they want to buy and include retailers in the move to digital if/when warranted
+
+Supporting Market Data
+· Development across platforms is crowding distribution of games
+· Successofgam eson App Storesdriven by developer supply and consumer demand
+· Growing consumer time spent on social networks and social games make it an important marketing and future transactionchannel
+
+Implications
+Evaluationof ways to engage the retailchannel more through products/services to help bridge physical and digitalcontent as a method of customer engagement, customer retention and branding · Developdynamic bundles based on customer usage/preferences · Personalize presentation of title selections based on customersegment orspecific consumer preferences · Manage relationship with retailers to minimize impact on sales of other Microsoft products via retail channels
+
+( < IE'0)
+
+Microsot't CON F IDENTIAL
+
+XEROmXarlkIe'VtpIlEac.e
+
+Guiding Principle
+Marketplace will dynamically balance its focus between core and non-coregarners asthesubscriber base changes,while also optimizing for geographic variances
+
+Supporting Market Data
+· Since 2006, more females aregaming but no change in age demographics
+· Females tend to play non-core games · Most marketplaces focus on core garners · Game play innovation is engaging a wider more casual
+gamer · Core game marketplaceslackofsuccessin m onetizing
+casualgamer segment
+
+Implications
+· In the short term, focus on core garners (e.g. 80% on core today) but will change over time (e.g. less focus on core gamer)
+· Determine a way to distinguish casual vs. coreagrners
+(e.g.Kinect usersasa proxy forcasualgarners,presenta different featured titles for Kinect vs. non-Kinect users) · Correct issues in existing markets to ensure that offerings
+are localized · Set up processes to ensure application of local
+understanding in product offerings · Set up a partner evaluation process to identify
+geographicrequirements and subsequent partner selection process
+
+( < IE'0)
+
+Microsot't CON F IDENTIAL
+
+Guiding Principle
+Marketplace will collaborate with current (i.e. WP7, PC and .corn) and future platforms to drive Marketplace revenue
+
+Supporting Market Data
+· Mobile and handhelds lead growth in gaming devices at a rate of 18.5% between 2010-14
+· Slowing console games market declining at a rate Of 2.4% between 2010 and 2014
+· Game play innovation is engaging a wider more casual gamer
+· Downward pressure on pricing from games on emerging platforms
+
+Implications
+· Work with leadership to guide the platform strategy to ensure optimization of revenues
+· Short term focus on .corn and console · Mid term, expand focuson the Windows Phone 7,
+dependent on executive focus for XBLM · Long term focus on any additional platforms (e.g.
+streaming on TV etc.) determine the XBLM and Xbox LIVE
+strategy groups
+· Work with engineering and MCB to develop mobile apps
+to drivepush-to-box purchases; keep inmind potential expansion to non-Xbox platform · Develop marketing campaign to educate customers on cross channel tools · Determinehow tocreatea gam ingexperience across
+platforms that encourages additional purchases, or employs new revenue models (such as advertising)
+
+( < IE'0)
+
+Microsot't CON F IDENTIAL
+
+Guiding Principle
+Marketplace will focus on Xbox LIVE subscribers. Nonconnected Xbox owners are a distant second priority
+
+Supporting Market Data
+· Xbox LIVE gold subscribers contribute the majority of
+Marketplace's revenue
+· Silver members on market place can be better monetized
+
+Implications
+· Work with engineering to develop new capabilities needed to enable easy targeting, tracking and reporting across different customer segments
+· Short term, work with CRM group to develop means to use sign-upand usage data to appropriately time and customize consumer communications
+· Longer term, work with CRM group to experiment with messagingand targeting to gather better data to enable more effective targeting of customer segments
+
+10
+
+Marketplace will strive to be ahead of evolving customer
+
+behaviorsand partner business model needs
+
+· Mobile and handhelds lead growth in gaming devices at a
+rate of 18.5% between 2010-14 · Slowing console games market declining at a rate Of 2.4%
+between 2010 and 2014 · Downward pressure on pricing from games on emerging
+platforms · Growing consumer time spent on social networks and
+socia I games
+
+· Periodic refresh and evaluation of the industry, competitiveand consumer landscape
+· Enhanced analyticsto m onitorand track changes in consumer behavior
+· Need for close publisher and retailer relationships for an exchange ofdata to be ahead oftrends
+
+( < IE'0)
+
+Microsot't CONFIDENTIAL
+
+Outline
+· Introduction and Methodology · Guiding Principles, Vision and Mission · Sample Use of Principles · Detailed Guiding Principles and Data · Appendix -- Market Analysis and Pricing Analysis details
+
+XEROmXaKrlk'VetIpEla. ce
+
+( < IE'0)
+
+Microsot't CON F IDENTIAL
+
+Market Analysis Summary -- Details HERE
+
+XERmOXarKkel'VtpIlaEc.e
+
+Drivers
+
+Key Points
+
+Key Implications to XBLM
+
+· WW video game market will grow at a 10.5% CAGR from $51B in 2009 to $84B in 2014 · Online game segment will grow from $11.7B in 2009 to $30.6B in 2014, a CAGR of 21.3%,
+driven by growth in APAC · Wireless game segment will grow from $7.3B in 2009 to $13.1B in 2014, a CAGR of 12.3% · PC Games isthe only decliningsegment
+· Traditional physical retailers are expanding their digital presence in games · All major competitors have digital offerings · Competitors typically price digital games at a lower price point than physical games · All digital retail websites focus on targeting the core gamer · New competitors are on emerging gaming platforms such as mobile devices, social networks
+and cloud services
+· Fast improving technology on mobile phones make it a strong alternative to consoles for non-
+core garners
+· Developer community on emerging platforms is fast growing resulting in an abundance of games on these platforms
+· Downward pressure on price is driven by freemium and ad-based games available on mobile and social platforms
+· The Wii, Move, and Kinect coupled with social game publishers developing games for consoles, drives more non-core garners to consoles than ever before
+· New revenue models are being explored on mobile and social platforms that compete for gaming mind and wallet share
+
+· Online and wireless games present strong growth opportunities where XBLM can leverage areas of Microsoft's broader portfolio
+· A key point of differentiation is required to carve a unique value proposition for XBLM users
+· Segmentation is becoming more important with the growth of non-core garners on XBLM who are more price sensitive
+than core garners
+· There is a need for a strong developer value proposition for games on XBLM to counter developer focus on mobile and socialgames, and also maintaindepth and breadth of games that appeal to XBLM's newer customer segments
+· Low priced and free online social games and wireless games challenge traditional gaming price models
+· Pricingschemes should be evaluated tocombat popular, emerging revenue models being employed on competing gaming platform marketplaces
+
+/~
+Source: Multiple sources as referenced on slides within "XBLM Future Strategy -- Market Analysis" presentation, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+Pricing Analysis Focus of Evaluation -- Details HERE
+
+XBLM Levers and Value Chain Impact
+High
+
+Short Term
+
+Value Levers
+
+Price · Bundling
+-- Multi-game -- Add-on -- Multi-service -- Cross platform usage · Discounts -- Standard (e.g. % off, $ off) -- Group discounts (e.g. Groupon
+model) · Promotions(e.g.buy 1get1free,
+other) · Rewards /Awards
+
+Ability for XBLM to Impact
+
+Experience · Cheats,hints,w alkthroughs · Community/ Network · Cross device usage · Customer Support
+· Demonstrations · Display of Achievement / Leader
+Boards · Information on Game · Personalization · Trial versions
+
+Content · Game Options
+-- Disaggregation -- Map packs, extras etc. -- Packaging -- Virtual Goods · In Game Dynamics -- Game Play -- Graphics -- Level of Difficulty -- Multi-player -- Social Elements -- Uniqueness
+
+XERmOXarKkel'VtpIlaEc.e
+NON-EXHAUSTIVE
+Low Long Term
+Hardware · Consoles
+-- Processing power -- Storage -- Cross usage · Controllers -- Ease of use -- Uniqueness/ novelty · Other add-ons
+
+XBLM Value Chain Impact
+
+/~
+
+~l
+
+Development · Level of game play · No. of developers · Types ofgam es,add-ons,virtual
+goocls
+Source: Accenture analysis.
+
+Publishing · Categorization of games · Recommended pricign
+
+Distribution · Retailer channel
+-- Physical -- Digital
+
+Consumption · Frequency of visits · Inclination to buy · Price Sensitivity · Purchase volume
+Microsot't coNFIDENTIAL
+
+

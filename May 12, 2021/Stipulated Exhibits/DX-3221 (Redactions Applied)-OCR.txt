@@ -1,0 +1,1240 @@
+e
+o !to
+
+,Srss '.'
+o
+
+0 0∑
+o r
+
+Uratod Status Dislrist Court NorlbamDistort oi'Catitomia t
+Case 14o. 4t20-cv-09640-YGR
+
+CaSCTiUCSiaDooras, roc a.a ts, Ioo
+
+Exhibit No.DX-3221
+
+Dale Entcrcsl
+
+atoaa x. aooa.stoa
+
+uo
+
+. txaaa tª a
+
+Perln'er: Dev Rei: Android Devttel:
+s. sr,
+THIS DECK ISDESIGNED TO BE CONSUMED WITH THE SPEAKER NOTES.
+Most Googlers' understanding of Android in China (AiC) are limited to the phrase "it' s complicated", but when you ask them to explain HOW it is complicated I different from rest of world (RoW), they draw a blank.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX 3221.001
+
+GOOG-APPL-00100237
+
+Our goal in this presentation is to give you a sufficiently deep understanding of how Android in China (AiC) actually works, and how it is different from RoVV; just getting
+an understanding of where things are.
+The goa! of this presentation is NOT to present solutions to the problems described
+here (that would be for a different presa).
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.002
+
+GOOG-APPL-00100238
+
+If you have not already, I highly recommend signing up for the guided tour at the China Experience Lab (go/celab) in 844. It provides a fantastic consumer experience of AiC,,and would give you more insight into how the dynamics described in this deck end up affecting Chinese Android users.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.003
+
+GOOG-APPL-00100239
+
+First, let's talk about general perceptions of Aic. The words "parallel universe" comes up a lot.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.004
+
+GOOG-APPL-00100240
+
+In Googie, we hardly ever think about a world where Play is not Android's distribution mechanism and policy enforcer. VVe design and build Android where Play's existence is somewhat assumed.
+The problem with is.... this is simply not. true for a HUGE percentage of mobile users.
+Using revenue as a proxy for usage, AiC is about just as big as Android on Play.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.005
+
+GOOG-APPL-00100241
+
+Here is more data showing the same thing. But then again, you probably already know that "China is important".... that's not the questIon.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.006
+
+GOOG-APPL-00100242
+
+The question is.... VVhat works in China'? VVhat doesn' t'? VVhat is actuallY different about China'? VVhat is similar' ?
+There's a cognitive barrier when one thinks of China.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.007
+
+GOOG-APPL-00100243
+
+You look at a typical Chinese phone, and you l3G NGT RECGGNiZE any of these app Icons.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.008
+
+GOOG-APPL-00100244
+
+You might have heard of the names of some Android GEMs from China, but you' ve never given more than a passing thought about them.... Nor could you teil one apart from the other.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.009
+
+GOOG-APPL-00100245
+
+OK,,Google Play is not in China, so other Android app stores must fill the void. You probably have not heard of most of these stores though....
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 01 0
+
+GOOG-APPL-00100246
+
+And what are the nuances for a developer building for AiC'7 Not clear either ....
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 01 1
+
+GOOG-APPL-00100247
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.012
+
+GOOG-APPL-00100248
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 01 3
+
+GOOG-APPL-00100249
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.014
+
+GOOG-APPL-00100250
+
+This deck is super long, so we' ll just set the stage at a very high level with a quick 5minute summary.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 01 5
+
+GOOG-APPL-00100251
+
+In case you didn't know already, China is: The most populous country on Earth Roughly the same physica! size as the US Lots of users with lots of devices on very fast networks.
+If you' ve been to China as a tourist, you might think that the network is slow. That is almost certainly only because you were trying to access services that are throttled (or outright blocked) by the firewall. Connectivity to local services are all just as fast as you would expect in a developed country.
+By the way..... "China' * in this context means '*mainland China", and explicitly excludes Taiwan, Hong Kong, and Macau.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.016
+
+GOOG-APPL-00100252
+
+And the number of internet users in China is still growing rapidly. The growthrate is+"l2'/0 Y/Y in 26i6, vs. I'l'/0 in 26'l5
+And hit well over 766M by EOY 2617.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 01 7
+
+GOOG-APPL-00100253
+
+More China facts, when compared with the US Mobile payment penetration is far higher Android market share is higher Being online and highly-engaged with digital content is a fact of life
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 01 8
+
+GOOG-APPL-00100254
+
+A (vasily) simplified picture of the Aic ecosystem looks somewhat like this. li is mainly made up of 2 camps who have an outsized influence on the ecosystem: ihe biggest app developers ("3P Whales" ) like Tencent, Alibaba,,Baidu ihe Android GEMs like Xiaomi and Huawei
+There are obviously other players like carriers and long tail developers, but we' ll leave them out for now for simplicity.
+(Google services are on the outside looking in).
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 01 9
+
+GOOG-APPL-00100255
+
+Tenc nt 8'aa
+s´k,s "-. sl'ass
+
+D EM d RP~D I
+
+t papd . k
+
+whales) naturaily havecorn etin interests.
+
+GEMs and 3P devs naturally have competing interests. GEMs want to sell more devices and/or sell more users onto services proprietary to said device, while 3P apps want more reach across many different devices.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.020
+
+GOOG-APPL-00100256
+
+Outside of China, Google Services (specifically - GMSCore, Play store, and FCM) together therefore play an important function in putting the right incentives in place in making sure those 2 forces are held in tension without. breaking. l3evs by-and-large only worry about 3 distribution and update channel, 1 main reengagement mechanism, and i consistent way in which policies are enforced.
+Incidentally, this also puts Google in a powerful position in the ecosystem.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.021
+
+GOOG-APPL-00100257
+
+The fact that these critical services do not exist in China means the loss of a de-facto arbitrator, and that incentives that are placed in the ecosystem are not necessarily aligned.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.022
+
+GOOG-APPL-00100258
+
+renQe ntr:8.''sa
+Google Services not being in China is just a power vacuum begging to be filled. 3P devs and OEMs all rush in to fill it, and then they one-up each other to get into the best position possible.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.023
+
+GOOG-APPL-00100259
+
+Case in point 1: All major app stores are backed by either a 3P whale or an GEM.
+GEMs wield great power in favoring their own stores; while 3P stores, without the power of pre-installation and system defaults, pile on features and turn up the notification dial to try to get users to re-engage.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.024
+
+GOOG-APPL-00100260
+
+Case in point 2: push notification service! Again, all major push notification services are either a 3P push service or an GEM push service.
+Everybody wants to be the arbitrator of push service. GEMs have the distinct advantage of also controlling how/whether such notifications actually get through to their own device, and so wield great power in getting devs to fall in-line.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.025
+
+GOOG-APPL-00100261
+
+DBV81OP8l 8 8rld UP g8ttlng CBugh1: Irl 1hIS ClOSS-fll"8.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.026
+
+GOOG-APPL-00100262
+
+And devs end up having to handling multiple everythingDifferent stores have different policies and requirements for store listing artifacts Some push services are more effective on some devices than others Stores scrape other stores for APKs, so a dev's app might end up on another store Etc.
+A dev has to find other ways, even sub-optimal ones,, to work around this cross-fire.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.027
+
+GOOG-APPL-00100263
+
+Sub-optimal ways by developers include: Using Webviews for major parts of the app Using app protection techniques (sometimes also called "obfuscation", but in China this term means a lot more than just using Proguard) to protect apps from being unpacked / decompiled then modified / repacked and uploaded to all app markets Dynamically loading code so that apps reduce reliance on stores Using the superpowers of Accessibility service to take things into their own hands
+These are all considered anti-patterns in RoVV, but in China these are necessities. All 4 of these sub-optimal ways are used outside of China as well, but the extent to which it happens is way higher in CN than in RoW.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.028
+
+GOOG-APPL-00100264
+
+The eCOSQStem l8 Bjj juSt WBQ too PBIAfuj, BAd lS APe fol dlSI UPtlOA. But by whom7
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.029
+
+GOOG-APPL-00100265
+
+rene nt 8'sa
+WeChat with its hu e user base - 100'/o user enetration in China is the most like! candidate. And the 've launched Mini-Pro rams to do ust that.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.030
+
+GOOG-APPL-00100266
+
+This is a shot across the bow for OEMs, and so they respond by building their own platform (QuickApps).
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.031
+
+GOOG-APPL-00100267
+
+And this is the big one .... As both the 3P whales and the GEMs get bigger and sell more devices internationally, the issues that are typical in China also start showing up in international markets.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.032
+
+GOOG-APPL-00100268
+
+OK,,on to the details. Let's start with this - How do Android apps get distributed in China'7
+As you' ll see, the problemhere is that each developer has to contend with many,
+many stores.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.033
+
+GOOG-APPL-00100269
+
+Outside of China, we know the mechanism through which apps end up on users' devices - it's the Play Store. The Play store exerts a tremendous amount of control - how apps are distributed, how they are updated, how policy is enforced, etc.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.034
+
+GOOG-APPL-00100270
+
+In China, the Play store does not exist, so there is an obvious power vacuum.. So who fills this gap7
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.035
+
+GOOG-APPL-00100271
+
+You might have heard that there are many Android app stores in China.... and that is 'tl ue. By and large,, these app stores play the role of app distribution and app updates, just like you would expect.
+The app store fragmentation is not THAT crazy though; despite there being hundreds to more than a thousand stores, consolidation is happening, and there are "only" -20 that really have meaningful scale.
+Now, nobody likes missing out. Every China app store obviously wants the richest app catalog possible....
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.036
+
+GOOG-APPL-00100272
+
+g @ p; AAQj 'U gf @
+But you can already see the first problem - a developer is going to have a hard time keeping up with so many stores (even if they only care about the top 20). In this example, just comparing 2 of the stores (Huawei store and Tencent store) and you can immediately see that screenshot requirements are a little different.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.037
+
+GOOG-APPL-00100273
+
+And of course, different stores have differences in their listing images, descriptions, app review timeframes, SDKs allowed (and not allowed), etc......
+So if you' re a top-10 store, developers might (and it's still only a "might") put in the work to publish to your store.
+lf you' re in the iong tail, then good luck with developers organically publishing there.
+So how do stores try to keep the fullest catalog possible' ?
+Sources: https://my.oschina.net/wmy1988/blog/83965 https://blog.csdn.net/chenyufeng1991/article/details/48979459 https://www.zhihu.corn/question/21281842 http: //www.zesmob.corn/blog/12139.html
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.038
+
+GOOG-APPL-00100274
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.039
+
+GOOG-APPL-00100275
+
+Answer: Stores often scrape other stores for apps (and app updates).
+They do so by comparing the version code of an app store with what they currently have in their own store; if what they have is of an older version, they will grab the newer version'ed app and host that instead.
+As an app developer, this means that once you publish a newer version of your app to a store, you lose a lot of control over how / where users actuaiiy get that app from...
+Source: https://went.zhihu.corn/question/22353976
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.040
+
+GOOG-APPL-00100276
+
+... and it's obviously not really possible to then fully recall the app update if it turns out there are critical bugs. The app developer can push out further app updates to fix, but it's anyone's guess if that update will make its way to the end user.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.041
+
+GOOG-APPL-00100277
+
+Devs vesPOAd bg:
+Now how do Aic devs mitigate this multi-store situation, where stores are out there scraping apps'7 There are a few ways.... Let's walk through that one by one.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.042
+
+GOOG-APPL-00100278
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.043
+
+GOOG-APPL-00100279
+
+Almost every major app out there maintains a website with their APK download link, which is their way of saying what their "source of truth" is. (This example screenshot shows UC Browser's website,,but. the same goes for every other major app).
+VVebsite downloads typically do not drive a ton of traffic by themselves; however, app stores are known to also monitor these websites for updates.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.044
+
+GOOG-APPL-00100280
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.045
+
+GOOG-APPL-00100281
+
+And most app stores provide a way for devs to claim an existing listing (e.g. if the store has previously scraped your APK from somewhere else) as your own.
+lt's fairly straightforward - they give you an empty APK, you sign it, and then upload it back to the store along with some proof of your ll3. In a few days, the listing is officially yours. (The UX flow shown here is for Huawei store, but most other stores are also fairly similar).
+There are anecdotes of some stores asking the dev for really weird proof, like providing 20 lines of their source code.
+Other links: https://open.oppomobile.corn/wiki/doclid= "l 0002 https://www.zhihu.corn/question/2 i 281842 http: //wiki.open.qq.corn/wiki//o E5 /oBA /o94 /o E7 /o94 /oAB /oEB /oAE /oA4 /oE9 /OA2 /o86
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.046
+
+GOOG-APPL-00100282
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.047
+
+GOOG-APPL-00100283
+
+Because Play does not scrape other stores, a developer building for both CN and RoVV (i.e. a "hybrid developer" ) needs to make sure they get their version ordering correct. Specifically, developers have to publish to Play last, otherwise the APK will end up on Chinese stores.
+Version ordering matters here especially if the developer has a feature that is just for non-CN users.
+True story -- VVeChat launched a feature in -early 20'i 7 called "VVeChat Out", which is a way for non-CN users to pay to call a phone number (similar to Google Voice). VVhen VVeChat launched this, they messed up their version ordering...... and this feature began showing up on CN users' phones.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.048
+
+GOOG-APPL-00100284
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.049
+
+GOOG-APPL-00100285
+
+∑ ServiceiiskeA~a ,Pa",';(baal
+& g) offer 8pp pUbII8hIAg
+8WIC6 8Ad 88WIC88 f<√ 8
+fee.
+
+All this complexity means that some devs prefer to just let someone else, or something else, handle it.
+3P tools like Kuchuan has seen rather rapid adoption. In 2014 (2 years after launch), they: had -50K developers on the platform, claim to make up 50% of all app uploads in Aic. l3evs upload the APK (or APKs, if some stores require specifically customized ones), pick the stores that they want to publish to (30+ stores are available), fili in customization metadata per store, optionally select meta-data tags to edit in the manifest(e.g. different analytics tag for each store), and they' ll sign i modify / publish on your behalf.
+Other services like AppPark (http: //www.apppark.cni) offer app publishing services for developers who want to outsource this complexity.
+http:/iwww. pingwest.corn/demo/coolchuan-developer-s-distribution-channels/ https:/iwww.v2ex.comit/231207 https://blog.csdn.net/u013758961/article/details/23815755
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.050
+
+GOOG-APPL-00100286
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.051
+
+GOOG-APPL-00100287
+
+And stores are largely run as ads businesses, instead of just as a merchandising hub as we think about it in Play. There are many spots in stores that devs can pay for for prime placement. Typical paid spots (by keyword auction) include: Splash screen on launch Front page -- top carousel Category pages - top carousels 3 out of 4 (or 5) search results
+Some (e.g. Xiaomi) might sometimes denote these as ads,,but many do not.
+This is NOT possible on Play (not without a clear note that. something is an Ad); AiC developers are typically shocked when they hear that Play does not really offer such a thing (and vice versa for non-AiC developers when they hear about AiC).
+http: //developer.huawei. corn/consumer/cn/devservice/doc/60203 https://dev.mi.corn/doc/p=1196/index. html http: //www.zesmob.corn/ideas/36525.htm https://www.jianshu.corn/p/829688053b48l
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.052
+
+GOOG-APPL-00100288
+
+In Play, BD relationships with developers do not involve money changing hands, and do not involve the Play Store doing special customizations.
+ln China stores, pretty much anything goes - stores showing push notifications to users for certain apps, faster review times, customized themes for an app listing, etc. Many of these would be unthinkable on Play.
+Stores (and 3P webpages) also explicitly list app store contacts for developers to reach out. Check out the long list of contacts here and here that someone can call if they want to talk to a BD person from the app store.
+http: //developer.huawei.corn/consumer/cn/devservice/doc/60803 https://dev.mi.corn/doc/p =799'l/index. html
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.053
+
+GOOG-APPL-00100289
+
+For all the work that developers do to get their app onto different stores, on many stores they often do not get as favorable share of rev split as they do on Play (or iGS app store). lt used to be a 30:70 split (devs get only 30%(!!)) pretty much across all Aic app stores, but since then the trend has moved towards giving devs a more favorable split, though as you can see from the table above in many cases it's still trailing Play.
+(As a reminder: Gn Play, the developer: store split for lAP is 70:30)
+
+http: //www.youxituoluo.corn/23937.html http: //m.jiemian.corn/article/872781.html http: //developer.huawei.corn/consumer/cn/wiki/index.php7title =%E4%BB%98%E8 /DB 4 lo B9% E5% BA%94% E7%94%A8 /o E6%94%AF% E4% B B% 98% E6% B8%A0% E9%8 1%93% E6%89%8B%E7% B B%AD% E8% B4% B9% E5%8F%8A% E6%94% B6% E7%9 B%8A% E5%88%86% E6%88%90% E8%AF% B4% E6%98%8 E http: //m.kdnet.net/share-12296463. html http: //wiki.open.qq.coITI/wIkI/%E8%BF%90%E8%90 loA5%E6%84%BB%E5%8A%A8 %E9%85%8D yo E7%BD%AE%E6%8C%87%E5%BC%95 http: //www.xinhuanet.corn/tech/2015-03/1 9/c 127598526.htm
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.054
+
+GOOG-APPL-00100290
+
+~ Me, ~e g~ 4 e r e eeWtake -M%.H ew~r ~~ ~ M 4p pi m p s e ke ~ B R ~ eM ~ 5 (~ m , g~ m w ,, ~ ~ , ~ ) ~ ~ ~ ( ~ t8,, 8 %
+W m ~ ~ ~ ~ ~ e e ~ e 4 y ' t ~ ~ ~ ,~ ~ f~ M e~ ME%4%44%38% 1~√a+BR%%$7 '
+
+√QM g) 80$ 52:22 ) gMW ~ ~ (@ ~ ltd ks.' ~ ~ WQ ~ g% 4 4 p ) 8W 4f~ ~1 (8g& 8 p p 4 %8, ~ ~ 4 C% ~ , Æ ~ W$ M ,~ W ~ 8~ )~ , B C ); Sp kgb K ~ S O (C ~ % / ~ 8~ 8 "~4m8 ~e %m,
+
+~7 P√$8 g2:52:,& +A
+
+,C~ fs g &(8 & ~ $ 6 f ~ SCC M S (g Mt @gag
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.055
+
+GOOG-APPL-00100291
+
+That's a lot of work for developers.... But how about the stores themselves' ? VVhat are the dynamics between the stores'? And how is app discovery in Aic app stores different. from Google Play' ?
+As you' ll see, as app stores fight among themselves to be the user's store-of-choice, user experience suffers.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.056
+
+GOOG-APPL-00100292
+
+What might not be obvious are the characteristics of these app stores. The/ malnip fall Into 3 buckets - GEM8, and 3P Whaies, ancl Carriers.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.057
+
+GOOG-APPL-00100293
+
+These are the top 3 0 app stores in China in Feb 203 8. You can see that they are dominated byone of 2 buckets --3P whales and GEMs. There are also smaller 3P app stores, but they are getting squeezed out.
+Note: "coverage" in the table = "active users I all users". The definition of "active users" is a lil fuzzy (unclear if it's DA or MA), but should be sufficient for this slide's purposes.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.058
+
+GOOG-APPL-00100294
+
+Without the ability to be pre-installed on devices (unlike OEM stores), 3P app stores have to figure out other means to get on a user's device. How do they do that'7
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.059
+
+GOOG-APPL-00100295
+
+The first is just through organic / paid means. VVe don't frequently hear of 3P app stores buying Google search traffic (through ads)
+to market themselves, primarily because of Play's dominance. This practice is SUPER CGMMGN in China, where they are all fighting for users.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.060
+
+GOOG-APPL-00100296
+
+This is what a typical search result for the query "Assistant ( N 4 ) " l o o ks like. The first 3 results are paid results for 3P app stores. Altogether, the first 8 are all results for 3P app stores.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.061
+
+GOOG-APPL-00100297
+
+3P whales, being whales, means that they are more than just a one-(store) pony. They are large corporations that have businesses (or invested in businesses) in discovery channels, e.g. browsers and search channels.
+They leverage these channels to cross-sell their own app stores.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.062
+
+GOOG-APPL-00100298
+
+'Idf'DU" f'@@%<i~
+
+SfDD√f,"f" fqf fI Uf P if'f CiO Bf'i'.*,I'A'idi',U
+Sk".,~3Pf.,h PDf DUf.fI( t8 Dd' I',k;iVV f"f I<':,iA'k~f,')f DU BDD UUDid ii I IP I;,fPf@f,f"f(
+
+Ud!dd! U W + d D 4 " I d K Add ed'd B
+
+U D B D
+
+VC Bfows&f" (A88 to dDUB~PPB > BIDDBUBBUB
+i S UBUff"f'lI'i ")iffy'.FIIf fff
+vc Bv..ivy",<:.",
+
+Fi'df.".'IfVftftUdP43f::I'ftif di'tf
+I f ff1fI.)'A'i'f 10f::if1 !jf8k')9
+f√Bfff(;I;U Bi I,"IdfiVff(C>UJ'ff ~PP A;fP, SRcifii, ff'fsB."k√3
+Cff (Ifif 8)P;'3
+
+Here are 2 examples.
+QQ Browser's default search engine is Sogou Search (Tencent builds QQ Browser, and owns 44'/0 of Sogou). Search results that would have led to APK downloads might instead lead to a download of Sogou App Store instead, where users are then encouraged to continue their app download and user engagement there.
+Alibaba owns both UC Browser and PP App Store. Search results in UC Browser lead to prominent CTA to download the PP App store instead.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.063
+
+GOOG-APPL-00100299
+
+3P whales app stores also frequently have a desktop client counterpart. It acts similarly to iTunes on macGS - it coordinates the installation of an APK onto an Android device that's plugged in to the desktop machine. Gn top of that, it's also an effective way to install the mobile app store onto the user's device.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.064
+
+GOOG-APPL-00100300
+
+M%e
+
+W~vk <';:BAhQ$( i10ick iA$49il $CiiP($ PiiiVkk;,,, (lk 3P ii(kp S4.,>Pi;,,)0
+k'iiiB'cjii$k4'>(')web$)ti~$
+Cla:.k Qk N i : : ! l i lith!.'~De:"ktoi Alii i ($ ) Aii4$V Ki'i.,iii(.'$ Oii iiiF4-',:GS)
+
+Di!$$k(G~$8f)P $(CA'e i':.Ikkii( CGF'! iiVW kikti'ik l4i; AR(Al(ii~!i5 $,i $$C!A~ (>~'i kd! Iitkk i Cik 44t~i >Pi 'g√'i'd( 3P i'iP('6 iki B3 i ksef' $ ikkvKe
+
+This is an example from Tencent store.
+A developer can generate a "quick install script" from Tencent app store, which they then host on their desktop website as a button as a CTA for users to click on and download. Clicking it will install the Tencent app store desktop client onto the user's machine, which now manages the user's app installation onto their mobile device.
+In addition, this also triggers the installation of the mobile app store onto the user's device, which grows the store's user footprint.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.065
+
+GOOG-APPL-00100301
+
+This is an exaggerated view of what you might see on a user's phone - i.e. multiple stores on one phone. GEM stores (e.g. Huawei store) are pre-installed (on a Huawei phone), and the user may also download and install other 3P stores. The key dynamic here is that... and the GEM wields A LGT of power (by virtue of being the device manufacturer) to favor its own store, while 3P stores think of various ways to grab a piece of the user engagement pie. The next logical question is.... How is user experience affected by this'7
+http: //news.zdwang.corn/a/201 607/022272'i.html
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.066
+
+GOOG-APPL-00100302
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.067
+
+GOOG-APPL-00100303
+
+3P stores try to constantly use notifications, or set persistent notifications, in an attempt to get the users to engage.
+GEMs obviously hate this (after all, they don't want these stores running foreground services and flooding the precious real estate on the notification panel), so they might actively block such notifications.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.068
+
+GOOG-APPL-00100304
+
+Here's a screenshof. of what your phone would look like affer you download a few 3P stores.
+Each one of them (in this case, Baidu store, Tencent store, and 360 store) maintains its own persistent notification, and they also consistently monitor the app versions on device and matches that to see if they have a newer version in their catalog. lf they do, if. is a mad rush towards prompting the user to "zomg click me to updafel"
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.069
+
+GOOG-APPL-00100305
+
+GEMs obviously try to limit this.
+As an example, this Huawei phone has a special device setting called "filter unimportant notifications" that is turned on by default. (AFAIK this is unrelated to Android framework's notification priorities). VVhen turned on, the GEM might actively hide notifications which it deems spammy, including some of the app store notifications.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.070
+
+GOOG-APPL-00100306
+
+3P stores, lacking the power of pre-installation, resort to adding in as many features as they can in an effort to prove their value to users.
+GEM stores, on the other hand, want their pre-installed GEM stores to get said user engagement, and so they insert themselves in critical user journeys for app installs.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.071
+
+GOOG-APPL-00100307
+
+In a bid for increase user engagement, 3P stores are really not just stores anymore.,,
+they all aspire to be super-apps that do EVERYTHING for users - manage
+connectivity, kills background processes, manage downloads, cross-sells other apps that purport to help save battery, etc.
+Stores become one part of a greater super-app strategy that: Replicates system Ul functionality, Claims to be the guardian of user's device health, Cross-sells other apps, etc.
+These added functionality are typically shown in the persistent notifications that these 3P stores show.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.072
+
+GOOG-APPL-00100308
+
+Meanwhile,,OEM stores try to get users to use their store instead to install apps,,often times without the user knowing.
+Take this example: A user (on their Huawei phone) searches fora music app in Tencent store, and attempts to install the QQ Music app. Huawei device's OS throws up a big scary "app is not safe warning". TBF, this is comparable to "3P sources" warning in typical Android OS; what is different is that the most conspicuous button is one that says "Official Recommendation" and that leads the user to the Huawei store instead. The actual APK install path is just a tiny checkbox.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.073
+
+GOOG-APPL-00100309
+
+GEMs, being the ultimate power broker on a device, often makes it very difficult for 3P stores to install apps.
+3P stores fight back by using Android APls that grant superpowers (i.e. Accessibility APl) to bypass some Qf these Iestr'Ictlons.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.074
+
+GOOG-APPL-00100310
+
+OEMs treat 3P app installs like all other unsafe APK installs, and throw up big scary signs all along the critical user journey. Installing app from: 3P store -5 clicks (!) OEM store - i click
+To be fair, this is comparable to the "3P sources" warning in typical Android OS; the result is a HUGE difference in number of clicks
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.075
+
+GOOG-APPL-00100311
+
+The Accessibility Service API in Android is the great equalizer (sort of) - once a user grants Accessibility Service privs to an app/service, it has the ability to do pretty much anything.
+3P stores try to get around the install barriers put up by OEMs by prompting the user to enable Accessibility Service (this usually being sold as a feature called "quick install" or "easy install" ); once a user has enabled Accessibility, the store will automatically click through any dialog popups and prompts thrown up by the OEM.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.076
+
+GOOG-APPL-00100312
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.077
+
+GOOG-APPL-00100313
+
+We have mostly only talked about OEM app stores and 3P app store so far, because they are the biggest players in the app store world. However, let's not forget about the (smaller) carrier app stores.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.078
+
+GOOG-APPL-00100314
+
+Disclaimer: Data about carrier stores and their size tend to be quite old (circa 2013-14), so it' s difficult to teil where they stand today in terms of market size, except to say they they are probably smaller than GEMs and 3P whales.
+That said, carrier stores do have unique (and obvious) advantages to them - they are well-funded, and typically use bandwidth savings / credits as a hook to get users to engage with the store. Downloads without incurring bandwidth costs, and promotions within carrier app stores in exchange for bandwidth credits, are all pretty common.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.079
+
+GOOG-APPL-00100315
+
+Now if you' re an Aic developer, you try to work with work around chaos as best as you can.
+How so'7
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.080
+
+GOOG-APPL-00100316
+
+The easiest way that apps can take things into their own hands is... to distribute their
+own appthemselves! Take for example, e-commerce giant Taobao (owned by Alibaba).
+ln this series of screenshots, when the user opens the app, Taobao does the following: Prompt the user to update (in this example - "big sale upcoming!"). User shows intent to update by clicking through the dialog prompt.... Downloads the APK, then prompts the user to click install... which begins the sideloading of the app. ... which brings them to the OS' untrusted install warning screens.
+Not perfect as QEMs are still in the critical user journey, but at least now the app has more control of its UX.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.081
+
+GOOG-APPL-00100317
+
+The other way is.... to just dynamically hot-patch their binary! Dynamic Code Loading (DCL) is SUPER COMMON for AiC devs and apps.
+ln fact, it is so common that all the 3P whales in the ecosystem (Tencent, Alibaba, Didi, etc.) have developed and open-sourced their own DCL frameworks.
+imagine the furor that would have been generated if Facebook and Amazon each announces that developers can now use their SDKs to dynamically load code to circumvent stores and OEMs; that's pretty much what has happened in China.
+VVe won't go into the details of how DCL is done in this preso; see this doc fora deeper analysis into various DCL techniques in Android overall, and here for DCL in China specifically.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.082
+
+GOOG-APPL-00100318
+
+88tIve app
+
+WebS It p.
+
+Viewed from this lens, it is no wonder why WebViews are SUPER PGPULAR in China apps.
+l couldn't find any official statistics, but open basically any well-known app in China, and you' ll see what you see in this slide (using food ordering giant Eie.me and ecommerce giant TMall as 2 examples) - major parts of the app are built with WebViews. i could have made 20 more slides showing exactly this with every major app out there.
+Gn Play, this is enforced centrally - use of WebViews is heavily discouraged, and apps which rely a ton on WebViews for their main content will never have a chance of getting merchandising featuring on Play. Without such central enforcement, apps quickly fallback to the fastest+ cheapest option to roll out updates -- i.e. WebViews.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.083
+
+GOOG-APPL-00100319
+
+WebView's importance in China cannot be understated, and so updatability of WebViews becomes critical for bug fixes, security patches, etc. Outside of China, the system WebView's gradual progress towards (in Lollipop) being updatable through the Play Store and then (in Nougat) being tied to Chrome's updates works because we can easily distribute updates (thru Play and Chrome). But in China, there is no Play, so System WebView updates are still tied to super slow OS updates. (Example: 360 put up a bulletin asking users to manually update their WebView in the 360 store after a bug surfaced with their OS update rollout).
+Google also stopped supporting webviews prior to 4.4: "If the affected version tof WebView] is before 4.4, we generally do not develop the patches ourselves, but welcome patches with the report for consideration. Other than notifying OEMs, we will not be able to take action on any report that is affecting versions before 4.4 that are not accompanied with a patch."
+UC claims that, as of Jan 2017, 40'/o of their users are still on Android 4.0-4.4. This means that Android System Webview, as-is, is inadequate for China.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.084
+
+GOOG-APPL-00100320
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.085
+
+GOOG-APPL-00100321
+
+Others rush to fill the void. The major 3P whales (Baidu, Alibaba, Tencent) all provide their own popular alternatives to the system webviews that 3P apps can use (X5 for Tencent,,U4 for UC, T7 for Baidu). l3evelopers include this 3P VVebView Sl3K into their app for the benefits that come with app compatibility.
+Since these 3P whalesalso own and investin many apps, these apps also end up using one ofthese 3P VVebViews.
+X5 metrics: https://x5.tencent.corn/news.htm VVdetail/6 X5 deepdive and benchmark: https://juejin.im/post/5a3522f2f265da431440c632 T7 benchmark: https://item.btime.corn/m 9ac8d6245689dbbcf
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.086
+
+GOOG-APPL-00100322
+
+The many app stores, and misaligned incentives between GEMs / their stores and other 3P stores, is just one problem.
+Gnce an app gets onto a device, a 2nd form of incentive misalignment occurs - that between app developersand GEMs.
+An app is always trying to stay awake as much as it can, while GEMs are always trying to keep apps asleep as much as possible.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.087
+
+GOOG-APPL-00100323
+
+We' ve already seen how 3P app stores include shortcuts to kill long-running app processes. There are many, many cleaner apps that do the same thing, all in the name of speeding up the device and/or saving battery. Many of them use System Ul settings to add floating screen widgets to let the user quickly get to to it, and then use Accessibility APl to automate the clicking through of various screens to force stop apps ands services.
+And judging by how popular cleaner apps are (-550M users), this problem is real in users' minds.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.088
+
+GOOG-APPL-00100324
+
+This fight between apps and the OS is nothing new even outside of China - this is the motivation behind the power saving enhancements introduced in the framework throughout the various Android versions starting from Lollipop onwards.
+(Android P further drives that home with App Standby buckets, Battery Saver Mode, and Background Restrictions).
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.089
+
+GOOG-APPL-00100325
+
+In particular, l3oze introduced in Marshmallow is explicit in giving the GS the ability to kill apps, while also giving apps the ability to circumvent that with FCM high priority messages.
+Essentially, FCM resolves this tension between developers and GEMs by putting the right incentives into the ecosystem.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.090
+
+GOOG-APPL-00100326
+
+This is further buttressed by the presence of the Play store ~ Play store policy helps ensure that things that things which are allowed in the framework (e.g. apps asking for Battery optimizations whitelisting) can still be disallowed through policy enforcement.
+Gutside of China, this combination has two super important properties that means devs can relyon itto wake up as needed: FCM (more generally, Play Services) is on essentially all devices FCM (more generally, Play Services) is whitelisted for Battery Gptimization excep'tlons
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.091
+
+GOOG-APPL-00100327
+
+Now in China, FCM does not exist, so just like in the app store case without Play, a power vacuum exists..... So who fills this gap to resolve the tension between developers and GEMs't
+(lt is first useful to note that Doze mode is disabled by default in AGSP).
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.092
+
+GOOG-APPL-00100328
+
+Unsurprisingly, there are many push service providers that try to fill the gap here.
+They can broadly be grouped under 3 buckets: OEM push service 3P push service Aggregators
+Let's walk through their characteristics....
+https://~ .j i a n s hu.corn/p/05760efb5b07
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.093
+
+GOOG-APPL-00100329
+
+Starting with OEM Push Service.... The Xiaomi Push / Huawei Push / etc..
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.094
+
+GOOG-APPL-00100330
+
+GEMs typically all have their own push services that are tightly aligned with the interests of its own devices (rather than with the Android ecosystem as a whole). Devices also aggressively kill services running on devices, so for a msg to get through you really NEED to use the GEM's push service.
+E.g. The Huawei Push Service is whitelisted by Huawei on Huawei phones, so messages sentwith that service will get through to a Huawei phone.
+This model is very similar to FCM + Doze mode, just working on subset of Android devices rather than across the entire ecosystem.
+For developers, the trade-off is clear: if you want your push msg to make it to a Huawei device, use the Huawei Push SDK. All bets are off if you use any other push service. But,, there are so many GEMs in market, and l can't possibly integrate with (and maintain) them all.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.095
+
+GOOG-APPL-00100331
+
+And then there are the 3P push service providers, which typically (but not always) are provided by the 3P whales (e.g. Tencent, Alibaba, etc.).
+They do not have the advantage of OEM whitelist, and so need to use other tricks to maximize their delivery rates.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.096
+
+GOOG-APPL-00100332
+
+There are lots of tricks that 3P push services employ to try to keep themselves awake. The most obvious one is just .... Maintaining a long running service.
+A more interesting phenom is called "chain starting" ("f54~'RZh"), or more informally k nown as "family bucket" ("NI Q " ) .
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.097
+
+GOOG-APPL-00100333
+
+A more interesting phenom is called "chain starting" ("kif A~P Zh"), or more informally known as "family bucket" ("NN8").
+VVhen an app withthe 3P push SDK is launched, the app might send a broadcast intent that would attempt to wake up other apps that are using the same SDK. There is a bit of a network effect going on here.... The more popular the 3P push SDK, the more likely there will be apps on-device that can then wake up other apps (hence the name chain-starting).
+(BTVV, here is an unfortunately-named github project which a dev can use to wrap their Context objects to prevent chain starting)
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.098
+
+GOOG-APPL-00100334
+
+From an GEM's perspective, chain starting is obviously a problem as it negates GEMs' efforts to save battery on their phones.
+So they start to fight backSorne GEMs like Xiaomi are known to be particularly aggressive towards disallowing this behavior by implementing a heavy-handed version of Doze. For example, in the latest MlUl 8, unnecessary "chain starts" are no longer allowed (user can turn this feature on in settings). This was headlined (on their homepage) as their main battery saving feature.
+This goes way beyond anything that Doze is doing currently so far.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.099
+
+GOOG-APPL-00100335
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.100
+
+GOOG-APPL-00100336
+
+And lastly, the push aggregators - these really function as convenience wrapper SDKs that try to reduce the complexity for developers building, e.g. by switching between GEM push services providers and 3P push services under (ideally) 'i SDK.
+Not the easiest though... e.g. for U-Push, developers still have to go sign up for various GEMs service keys in their console, then add the SDK and relevant configuration metadata into the U-Push SDK in the project. XKCD summarizes the risk pretty well.
+Ultimately, whoever holds the whitelist holds the power ..... and GEMs hold the whitelist.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 01
+
+GOOG-APPL-00100337
+
+And this is the big one .... As these GEMs get bigger and sell more devices internationally, the issues that are typical in China also start showing up in international markets.
+Apps on Play obviously will be using FCM (and not Huawei Push or Xiaomi Push) to send messages, but if the GEMs do not conduct compatibility testing to the fullest on the international SKUs of these GEM's devices before they ship,,serious problems will arise. What was once a problem in China will have spilled out into the international scene as well. Examples: Gverall: http: //b/30760529 Huawei: http: //b/30945093 Xiaomi: http: //b/30945344
+More data: https://www.androidheadlines.corn/20 "l 7/I 'i/top-4-android-oems-
+experience-growing-sales-in-q3-2017-data. html
+Quoting from UC Browser: *'Xiaomi, Gppo and Vivo are building overseas app stores and push channels, which also brings the painful experience of domestic developers."
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 02
+
+GOOG-APPL-00100338
+
+Now if you' re an Aic developer, again you try to work with this chaos as best as you How so'7
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.103
+
+GOOG-APPL-00100339
+
+How do AiC devs actuallysend push messages in China then'7
+It's essentially a list of switch statements.... If the device is a popular GEM like Huawei or Xiaomi - integrate with the GEM's push SDKI Else, try to keep a long running service up, and/or integrate with a some 3P push service. This is not very effective, but hey, you gotta try.... Else, you might also ask your BD team to go talk to GEMs, and get your app whitelisted in their devices. Money might change hands here.
+The kicker here is that no GEM wants to sell a phone where the most. popular apps don't work as expected. So.... WeChat is pretty much always whitelisted by default, and so their own in-house push solution works great.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 04
+
+GOOG-APPL-00100340
+
+Gn to the next big challenge in Android in China - App compatibility (or rather, incompatibility) is a hoge pain for developers and GEMs alike.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.105
+
+GOOG-APPL-00100341
+
+When talking about app compatibility in China, it's typically referring to a large subset of apps being not compatible with newer versions of Android. To be clear, this issue also exists in RoW, but the severity of it is in a different ballpark in China
+VVhen Android O was in DP, the app incompat testing team tested the top 1000 apps on Play and on local Chinese app stores, and compared their incompat rates; the China app incompat rate is WAY HIGHER at 32.7'k vs "just" 1 3.7% in RoVV.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 06
+
+GOOG-APPL-00100342
+
+There are 2 big reasons why app compatibility is such a big problem in China -- (1) Obfuscation services *, and (2) Dynamic code loading libraries are very, very popular in China apps. Per our testing of top 1000 CN apps in 0 timeframe, about 70'/o of compatibility issues are due to obfuscation and DCL.
+* In China, "obfuscation" means a lot more than just using Proguard) to protect apps from being unpacked / decompiled then modified / repacked and uploaded to all app markets
+These have similar characteristics in that they both: Use numerous hidden APls Directly invoke dex2oat Manipulate and modify dex / so files Depend on concrete dex format (such as odex / vdex / cdex) beyond public dex layout Interfere with the platform's dex loading logic
+Because obfuscation and DCL use a lot of internal knowledge of the Android platform, which often changes in new Android builds without public notification,, the apps built on top of such technologies often break on new Android OS upgrades. E.g. Android N introduced odex,,whose AOT compilation broke many DCLs thai inject some custom data into dex. As a result, many popular apps including VVeChat and Alipay suddenly crashed after being installed for a few days,,and developers spent -2
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.107
+
+GOOG-APPL-00100343
+
+weeks to understand and fix the problem. WeChat's l3CL framework "Tinker" published a detailed article on this issue.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.108
+
+GOOG-APPL-00100344
+
+Let's look deeper into the 2 main culprits for app incompatibilitY. Starting with obfuscation services ...
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.109
+
+GOOG-APPL-00100345
+
+Here "obfuscation" means much more than features provided by Pro ouard. lt often involves one or more of the following techniques: Dex / SO / resources encryption VMP / security sandbox Anti- decompilation / debugging / screen capturing / Ul hijacking Root / emulator/ hacking detection Environment check
+For details, check out go/china-obfuscation-report
+(There's also been an analysis done on whether these obfuscators are common on Play or not. Short answer is: not as of now - we see 302 apps using 9 of the obfuscation solutions, with Tencent and Qihoo360 accounting for -70%)
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 1 0
+
+GOOG-APPL-00100346
+
+There's no public report of obfuscations statistics,,so we asked each individual obfuscator to provide their estimated stats. Note: these numbers are confidential and
+un auth oritativel
+Note that all the obfuscation services are provided as a cloud service - developers
+upload an apk, wait for processing to happen, and then download the obfuscated APK.
+
+Original replies (in Chinese) from these obfuscators: Bangcle
+AORBr@: 8Z, XW <CWr~@~000+,WAND-: ( $ < -I ~ f@ % 0 8 ) g j ( 12306, g % 4 ) j m= I m ( NZhSDK, It√SSDK%) k"' PILY: IS 7 'AOI S N I % % 8/Z,8 MAU: @~~ANN% K W S / tlat'jm√==T N ~~ I <> -- ~IRMA f/i%I2/E@J 3 2 3 0 6 4 4 2 1ZWR ; % % ~ % $ l ~ 4 8 $ 6
+RNN1~ S I j 1~% ∑ @f√>if@ % $ Wz-==IeC I . ' S ~ N X N S NI'ej%4% $ % 4 3 ' j I . S % X i R %~e. ~;%Pl 3'j
+(From Huawei) 2000+ customers,800K apps, 800M devices
+
+1-T +ªW 36@
+
+Ijiami NRW>>Pi,HI2018W~Jr44NAI3I R FH@: 3 w+
+8 tG>h'j SPA,md@.~ 9 /Z,+ MAU: R I FRFP~Hi4 LEI~RRNERiJKBSBJVAZ Kh S / I 'jWJG>%%861~√% ~ 6 I 1 , T A RT~'LR ~~ NA YJ T ~i'~%fb 7
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 1 1
+
+GOOG-APPL-00100347
+
+appGuard R/I'>e PASX & A R I R~N. Zld@. %<44I8.8.-- hRPKPHCS. NIR~NK~@SNt AX
+-- "=' RV-fIN Y~'l5: 1 g~~appGuardE f4441/U~g P%R 1 Tt~] E@%%487%APPK ~C>%%
+QX4% Fi4Ha ppGuard(%gAPP Wg kauser@jg2+4 g ÆMAUNDY-(KP Z%8/+)
+LeGu SZhtu>EHAtiW rb~8 Jjtl5%$100wC~)200wRi@.
+II5%,$$8hRRMRREHEHt" = i ~ 1 0 / Z C NIi%% RR i~@/Z
+Alibaba 5DIIG~EHhg I N(30000+)
+QPJLR (5<Z+, @ I Nfl%B R )Rjl 8 / iJ@i>topR%<tI.<iieet'~hGRP%EHF'%1%RIJhG) MAU (@ I K/I JMITt l 4 >Z~H i'rTNR< I NfISR<R>CT%EK5 )
+360
+1 a~K~/i JXH-%% 780Z+RNNMRFR MAUD(Z,8
+Baidu ADINRFHN = R 5 ~ 0 8
+8 TRAR1~+NII@% %VARAR1tI.ICN%)IN 7
+LeBian 1 a~)RFHR/I'JMRh'lapp<'j150 I
+%P8 F'%1.7<Z HFj Y3R X800Z
+AljmR% $'j530@ %%~I ~'j280% MAU~'j820/Z~~K ( iNR√A - ggj Pgt" ) 8. a Nr14 JL~81% . unIty3D 57%8t4 ∑ uz-=-W ∑ jFQ jgpgjFQ ∑ g g 4 y ∑ >tt,,p~
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.112
+
+GOOG-APPL-00100348
+
+In RoVV: as there's only 1 app market (Google Play), it's very easy for original developer to track pirate apps there and request Play to turn them down.
+Some government regulations: China List of financial software standards: http: //~ .bz m f xz.corn/biaozhun/Soft/ JR J RBZ/List 1. html Chinese Central Bank file 0192 (with highlights): https://drive.goog le.corn/open? Id=1dr7SXIc7AVVfYJeLopspLVV4EkrFk9Pnuw Taiwan (Financial Supervisory Commission + industrial Bureau of Ministry of Economic) Regulations Governing the Standards for Information System and Security Management of Electronic Payment Institutions Chinese: http: //Iaw.fsc.gov.tw/Iaw/LawContent.aspx?id =GL001541 English: https://Iaw.banking.gov.tw/Eng/FLAVV/FLAVVI3AT0202.aspx? Isid=FL076769 Regulations of mobile apps provided by financial institutions: http: //www.rootlaw.corn.tw/LawArticle.aspx? Lawlo=A04039004 "I 063200-1060620 Mobile apps security regulation v1.1: https://drive.google.corn/open?id =10Xg JKhRCrvujgBBRATb9uhiPXFg OzSZ
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 1 3
+
+GOOG-APPL-00100349
+
+DCL is the other main reason why app compatibility is such a pain.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.114
+
+GOOG-APPL-00100350
+
+And the reason why DCL is used is simple... too many storesll
+And worse,,as we have already explained, GEMs stores fight 3P stores for attention.... So devs have to figure out a way to take things into their own hands. Refer to this slide for more details.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 1 5
+
+GOOG-APPL-00100351
+
+To get a sense of how big this issue of app incompatibility is, consider this:
+After we announced that Android P will start to enforce constraints on non-SDK interfaces (blog, DAC), Chinese developers filed requests for -800 (out of -1200) private interfaces for exemption requests during P preview. Requests from CN developers: https://b.corp.google.corn/hotlists/1 027617 (some FR contains many APls) Requests from RoVV developers: https://b.corp.google.corn/issues7q =componentid:328403'/o20-hotiistid ! 027617
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.116
+
+GOOG-APPL-00100352
+
+As we have already established, there are many GEMs in China (-10 big ones, plenty of small ones). These devices also lack GMSCore and suffer from intentional / unintentionally inconsistent. behavior. (e.g. on some meizu device it just crashes when app tries to read phone book.)
+(We also set up a dedicated project to prompt CN app compatibility. If you have any questions or feedback, please feel free to contact cn-app-compatcore@.)
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 1 7
+
+GOOG-APPL-00100353
+
+The complexity in Android in China (so many app stores to distribute to, app stores fighting with one another, GEMs having a lot of leverage in the ecosystem but also contributing massively to fragmentation, etc.) makes things very difficult for developers, and users frequently see this pain.
+Developers and users naturally gravitate towards an ecosystem with reduced complexity, but without sacrificing user reach......and it would be a pius if such an ecosystem were cross-platform too.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 1 8
+
+GOOG-APPL-00100354
+
+When we think of "user reach" in China, WeChat is the king of the hill. WeChat's prowess as a user engagement black hole is well-known, so this is just meant to be a simple overview.
+What is less well-known is how WeChat services the "content creator" side of the equation - the publisher / business side.
+Before 2017, there are 2 primary ways - as "subscription accounts", or "service accounts .
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 1 9
+
+GOOG-APPL-00100355
+
+Before 2017, there are 2 primaryways thru which businesses engage with users on
+VVeChat- as "subscription accounts" (iIIR]% ), or "service accounts" (%%% ) . l won't go into too much detail on what the differences between s ubscription accounts" and "service accounts" are. VVhat is important are what they both are -- they are templatized Ul with customizable menus for businesses to build on (Think Facebook pages for businesses.)
+This means developers don "t have full control over the canvas - they are largely bound by the templates' look and feel. Devs can provide their own URLs that open in webviews in VVeChat - in essence, they are a dynamic bookmark of web links, laid out. in an orderly fashion.
+That's great, but it's not really an app. Developers want more control.
+(Feei free to read on the details with subscription and service accounts (and other nitty-gritty stuff) at this deck here.)
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.120
+
+GOOG-APPL-00100356
+
+In Jan 2037, WeChat launched Mini-Programs - their take of a platformand
+ecosystem, and essentially introducing an GS layer inside the outer Android GS. Discovery happens through a prominent tab within WeChat.
+I' ll recommend checking out the go/wechat-miniprograms for a deep-dive, so this is a very high level overview of what it is.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.121
+
+GOOG-APPL-00100357
+
+After a slow start, it's now doing GREAT. Users now spend 20'/0 of all WeChat time in Mini-Programs.
+New capabilities have also been added, e.g. off line-online scenarios (hyperlocal / nearby detection, proprietary 2D barcodes),,ads support, 3P extensions, etc.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.122
+
+GOOG-APPL-00100358
+
+Mini-Games (essentially just games on Mini-Programs) followed about 12 months later, and it drove quite a bit of growth as well. Data point: Nike paid 3M US dollars for an advertising spot in the Mini-Game hit "Jump Jump"
+Mix of titles as well: Home-grown titles e.g. "Jump Jump'* - hundreds of millions uf users accumulated, with 7 day retention rate of 52'/0. Well-known titles, e.g. "Monument Valley 2" -- 4.8M users accumulated by March 2018, 2 months after launch
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.123
+
+GOOG-APPL-00100359
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.124
+
+GOOG-APPL-00100360
+
+Ultimately, the big reason why it's doing weil is .... It's integrated into VVeChat! But besides that obvious reason..... VVhy is it doing wellV
+My analysis for why VVeChat Mini-Programs have gotten the success that it has gotten so far. VVell-defined web-like framework, so devs don't have to deal with the complexity of the underlying layer. This makes it truly cross-platform. lt's also backward compatible, since VV eChat takes care of that part.
+VVhen speaking of CN devs, they frequently mention how fast it is to build. Statements like "-3 day for a professional outsourcing company on a non-complicated job" are pretty common.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.125
+
+GOOG-APPL-00100361
+
+∑ ln th e beginning, devs were not so hot about the platform, and a well-defined rollout process turned out to be important that shows VVeChat's commitment to the platform
+∑ Supp o rt for payments and identity (WeChat Pay and WeChat signin) ∑ A2HS w orks (as long as OEM device allows for it)
+∑ The f i r st 4 points mirror AMP's merits. ∑ The l a st 2 points mirror where PVVAs want to get to but are not close to solving
+across the whole mobile web ecosystem, especially in China but also more generally around the world.
+∑ Stil l , IMO all of that pales in comparison to VVeChat's network effects+ prominent placement within VVeChat.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.126
+
+GOOG-APPL-00100362
+
+If you think Facebook (and Google) are aggregators, per Ben Thompson's aggregation theory, then WeChat is stepping right into aggregation on steroids.
+GEMs and other3P apps are obviously threatened by WeChat's dominance; so how do they fight back'7 GEMs and other 3P Whales (those not named Tencent) scramble for a response to Mini-Programs.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.127
+
+GOOG-APPL-00100363
+
+To say that Tencent/ VVeChat's competitors in China are worried about VVeChat being a user engagement black hole is an understatement.
+Alibaba actively tries to take user out of VVeChat and into their own properties.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.128
+
+GOOG-APPL-00100364
+
+Baidu is under even more threat from Wechat's ubiquity.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.129
+
+GOOG-APPL-00100365
+
+AliPay and Baidu have both announced their own Mini-Programs ecosystem to get into the game.
+AliPay has a massive user base as well with their Payments integration (which Wechat does not support), so it might be interesting.
+(lt is harder to see how Baidu's take on this can succeed... they have neither the social graph nor the payments piece in place for users to re-engage).
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.130
+
+GOOG-APPL-00100366
+
+As we have seen throughout this preso, a common theme is this ~ GEMs will insert themselves into critical user journeys to get a piece of the action.
+VVith VVeChat getting a bigger and bigger slice of user engagement,,we see GEMs doing things thai only they can do through changes and event interception on ihe GS layer.
+Let's look at some examples.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 31
+
+GOOG-APPL-00100367
+
+User experience: User receives a restaurant name in a VVeChat message Restaurant name (the plain String text) in message is changed by the OS to become a URL User clicks on URL, and is brought outside of VVeChat into Dianping (similar to Yelp) app
+Huavvei has temporarily disabled this feature after pressure from VVeChat
+The major philosphical question: VVhose user is it'7 Is it Huawei's user'7 Or VVechat's user'7
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 32
+
+GOOG-APPL-00100368
+
+Another example, this time on Xiaomi's MIUl9 User experience: 0:00 - User receives a restaurant name ("JI >j'3%$") in a Nt'eChat message 0:02 - Pop-up window shows at the bottom of screen, with the l3ianping (Yelp of China) link to the restaurant 0:04 - User clicks on link, gets brought to l3ianping app
+Xiaomi has temporarily disabled this feature after pressure from Nt'eChat
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.133
+
+GOOG-APPL-00100369
+
+Another Xiaomi example,,also on MIUI9. Users get their VVechat payments automatically recorded into a Xiaomi app. User Experience 0:03 - User sends V0.02 to friend thru VVechat 0:07 - User confirms transaction 0:10 - Notification from Xiaomi's "My Expenses" app that "transaction is recorded" 0:13 - Xiaomi's "My Expenses" app shows transaction recorded 0:16 - Transaction also shows up in Xiaomi's GSA equivalent
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 34
+
+GOOG-APPL-00100370
+
+VVith Bixby 2.0's launch in China in 20 "l 7 November, Samsung took things one step further. Users can use their voice to basically command Bixby to click through screens and take actions on other apps (presumably using Android's Accessibility Service).
+Note that there is NG APl integration here between Samsung and VVeChat (or other 3P apps). lt is unilaterally (AFAIK) something that the GEM (Samsung) has done. There is an opt-in function when a user enables Bixby, but once that happens, everything is fair game.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.135
+
+GOOG-APPL-00100371
+
+As we have seen throughout this deck, GEMs is where things get most interesting.
+They do not just want to become a dumb pipe for bits to flow through, but rather want to get a slice of the user engagement pie. Viewed from this lens, N/eChat's Mini-Programs is an existential threat to them.
+Their answer - an alliance of GEMs supporting a new standard - launched abouts year after VVeChat Mini-Programs, and it's dubbed "Quick Apps".
+A longer English explanation: https://medium.corn/Npandaily/huawei-xiaomi-and-7other-manufacturers-launch-unified-quick-app-nvaling-wechat-df537526d28
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 36
+
+GOOG-APPL-00100372
+
+In terms of developer experience, the similarities between Mini-Programs and Quick Apps are apparent: They both follow the "install-less" user interaction model (which really, is the same goal that both Instant Apps and PVVAs are striving towards, though thru different technical paths) l3evelopment will feei familiar to JS developers (CSS for styling, Node.js and NPM to pull in modules, etc.) Support for Payments, Auth, and Analytics
+VVhere the technical advantages (and disadvantages) lie are also apparent: VVeChat Mini-Programs are truly cross-platform (works on Android and iGS, since VVeChat is the layer) Quick Apps, being blessed by the GEMs themselves, have a clear path towards solving those developer-facing problems described in this deck by abstracting away the underlying complexity. (e.g. letting Quick Apps be installed without friction, supporting Push, etc.)
+(Not sure if this is official, but) some of the docs and example code are hosted on this domain https://www.w3cschool.cn/quickapp/, which goes to show how tightly coupled web development now is for such proprietary frameworks.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.137
+
+GOOG-APPL-00100373
+
+The fact that Quick Apps are GEM-blessed is HUGE. It means that GEMs' apps (which are all pre-installed on those GEM devices) can serve as discovery channels for Quick Apps.
+For Huawei, the Huawei App Store now shows Quick Apps in search results, and they have a curated section just for Quick Apps. Every time a Quick App is opened, there will also be a prompt for the user to add it to home screen, which then serves as the primary re-engagement mechanism.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.138
+
+GOOG-APPL-00100374
+
+6'
+For Xiaomi, in addition to the Xiaomi app store, they have also enabled the Xiaomi Browser as a discovery channel for Quick Apps. A search within the Browser will allow users to get to a Quick App in one-tap. For screenshots of other stores (I don't have all GEMs' phones unfortunately), check out this forum link.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.139
+
+GOOG-APPL-00100375
+
+Now the fear is.... 8/ill this phenomenon of Quick Apps and Mini-Programs also be exported abroad as these GEMs sell more and more devices outside of China (just like how it happened for Push Notifications)7
+There are no official stats yet on how well (or not well) Quick Apps are doing, but there seems to be reasonable developer interest: Huawei and Xiaomi app stores both have hundreds of Quick Apps in the curated sections. Github has -600 repos with the term "(WIG>PH" (Github search doesn't allow specifying exact String matches though, so the actual number is probably fewer) https:iigithub.corn/search7q ='/OE5'/ OBF'/ DAB'/0 E5'/OBA'/094'/OE7'/094'/OA8 Google crawl of Github for exact match of the String "(PIG>N"
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.140
+
+GOOG-APPL-00100376
+
+We have talked about this at some length, but it bears reiteratingAccessibility Service provides apps with the power to perform actions that would otherwise not be possible (without rooting anyway) ..... Click through other apps, read notifications, add floating Ul, etc. The Android framework gives freedom to users to decide if a particular app is "worthy" of getting this superpower; the user has to click through the Settings menu to grant an app access to this superpower.
+This lends the Accessibility Service to abuse; as long as an app can convince a user to grant it access to the Accessibility Service, the app abusing the Accessibility Service (abuser) can pretty much do anything,, including going accessing the data of another app (abusee app).
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.141
+
+GOOG-APPL-00100377
+
+Most use cases come down to the abuser app helping the user perform tasks in another app (abusee). (As we shall see, some examples include: automatically skipping through ads, receiving red packet money quicker than anyone, etc.).
+It should be acknowledged that many abuser apps that (ab)use Accessibility Services (besides actual accessibility-related use cases) do so with the intention of providing real user value. N/hile both the user and the abuser app have control over the experience, the abusee app has nocontroland no say over how the abuser app handles its data. The abusee app relies on the Play Store to enforce policy to restrict the behavior of abuser apps......
+(Useful link: https://sspai.corn/post/43889)
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.142
+
+GOOG-APPL-00100378
+
+I
+l
+t
+I
+l I
+tl.
+ttt t
+
+I
+
+f
+
+4'
+
+t
+I
+t
+t
+t
+
+... but as we already know, this doesn't work in China without such an enforcement across all the different stores.
+VVe have already seen Accessibility Service being used in 3 different ways times in this preso for China-specific use cases: 3P stores (Link to section) using Accessibility to automate clicking through app install barriers put up my OEMs Cleaner Apps (Link to section) using Accessibility to force-close other a pps Samsung Bixby (Link to section) using Accessibility to automate the clicking through of apps on a Samsung phone
+Let's look at more examples.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.143
+
+GOOG-APPL-00100379
+
+Æ A d - G A L I S beAAed OA G~ Ie Pley, but eveiIebIe en ether happ stGres (e.g. CeoIAPK Store]
+Ad-skippingis one common abuse. On Ad-Gone (Jk4,M4) for instance, a user can configure the automation of tapping when the Activity loads; user would typically configure that to tap on skip-ad buttons (which is also the primary use case for this app). (See http: //www.iapps.me/archives/121 for more screenshots)
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.144
+
+GOOG-APPL-00100380
+
+Red packet snatching is probably the most prominent example of Accessibility Service abuse.
+(Background: it is Chinese tradition for folks to give money as gifts to others in the form of "red packets/envelopes". This is most common during Chinese New Year, in addition to other celebratory occasions - weddings, birthdays, etc. WeChat Pay gamified this experience ~ I can send V'lo to a WeChat group of 5 people, and set it. such that only the first 3 people get any money at all, first-come-first-served. Users are trained to keep checking their phone for incoming red packets, and this drove huge user engagement. AliPay and others soon followed suit with such a feature.)
+There are A TON of red-packet snatching apps in market, the majority of which are using some form of Accessibility Service abuse to automate the process of receiving. This causes a lot of angst with WeChat/AliPay etc., as it essentially renders gamification as a form of user engagement tactic irrelevant.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.145
+
+GOOG-APPL-00100381
+
+0 ~Auto. ":.is a 3P Ui Autamator spp that
+
+Butvwetee ple@Ag cf Jump, helpfAg ueef'8
+
+quickly chub the IeederMerd
+
+JVFAp ~A~Iifii-c'pi√9 bpVBg plpy8d 8Uto&8tiC8pg-
+LOAg-piness88d58I88M' t0 lv√p v8fpAg 6Istsptp8
+
+Game playing automation through Accessibility Service is also emerging as a trend, especially with games which only require simple gestures to play.
+Jump (It -- It) is one of the biggest hits on VVeChat Mini-Games platform, with 310M users on 7DAU of 52%. Its gameplay is super simple - users simply use a press-holdrelease gesture, and the figurine jumps a distance proportional to how long the user pressed-and-held the screen, trying to jump from one platform to another.
+its success led to automation tools popping up (e.g. Auto.js), which uses Accessibility service to automate the gameplay.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.146
+
+GOOG-APPL-00100382
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.147
+
+GOOG-APPL-00100383
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.148
+
+GOOG-APPL-00100384
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.149
+
+GOOG-APPL-00100385
+
+Domestic developer resources generally have good SEO on Baidu search. Not so much for Google developer resources. Couple of reasons: Created in Simplified Chinese from the ground up instead of getting translated afterwards; developers don *t have the habit of using Google stuff. Though many top developers turn to Google for info. No guarantee that technical articles conform to current best practices. E.g. many are advocating using background services rather than Job Scheduler for scheduling tasks.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.150
+
+GOOG-APPL-00100386
+
+4 8 o w & rd d e v s w it h fOK+ 80dl8Ac8 coAfereAc88 53BKAV C.F8<3(8, A~V~UA C~GP' Bled(A+ C CBAf8~ Cf'iCP;, (SP8AS S clif88 ) X´wG(7)l cGAf6r&Aces F~US 8t'688 h8Ve eVQIVed khrQUghQUt the $68rS (tO Wh8t8V8r J8 hGt ) Deskto p M GL I I 8 ~ 8 I g D Bt8,'CIoud -- ' AR/VP IGT """'~ 810CIi'<ChBIA '~ AI
+Not all SDKs and libraries conform to Android best practices. This problem isn' t contained in China -- many developers export to ROVV markets and preferusing the same SDKs for China + ROVV. Some of these apps get flagged on Google Play thus affecting ROVV users as weil. These anti-patterns to some extent hinder global adoption of current Android best practices.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 51
+
+GOOG-APPL-00100387
+
+4 NU W 6 r &V8dI8tf'IbUt6d W66f-UPS thrGUgh004 the 988f"
+e.g. Baidu r'ti r'."rttr trr'.i . -'OO ∑ r i . I~ re.-",rerm, meet- rre"
+Not all SDKs and libraries conform to Android best practices. This problem isn' t contained in China -- many developers export to RGW markets and prefer using the same SDKs for China + RGW. Some of these apps get flagged on Google Play thus affecting RGW users as well. These anti-patterns to some extent hinder global adoption of current Android best practices.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 52
+
+GOOG-APPL-00100388
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.153
+
+GOOG-APPL-00100389
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 54
+
+GOOG-APPL-00100390
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.155
+
+GOOG-APPL-00100391
+
+Oevejopeve eenjog CN ()sefe
+
+'l
+
+4'
+
+~
+
+'
+
+'4
+
+,,,IIjlIf)~jti!f~[>Ij'~~i'i)~I/~j(>Iij(i/II
+
+First things first, AiC developers can be divided into 3 buckets, depending on where they choose to distribute their apps.
+"Domestic" - distribute only to local CN app stores. "Export" - distribute only outside of China (i.e. mainly to Play). For all intents and purposes, there is nothing different about them since the users that they serve are not in China. "Hybrid" - distribute to both Play and local CN stores .
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221. 1 56
+
+GOOG-APPL-00100392
+
+"Domestic" and "Hybrid" AiC devs are the focus of our discussion here. VVhenever you see "AiC developer", mentally substitute it with "Android developers building for China users".
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.157
+
+GOOG-APPL-00100393
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.158
+
+GOOG-APPL-00100394
+
+Chinese vendors market share http: l/news.timedg.corn/2018-04i28/20656994.shtml
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.159
+
+GOOG-APPL-00100395
+
+This is just a sample of the very, very long list of Bixby commands available.
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.160
+
+GOOG-APPL-00100396
+
+GOOGLE HIGHLY CONFIDENTIAL - OUTSIDE COUNSEL EYES ONLY DX-3221.161
+
+GOOG-APPL-00100397
+
+

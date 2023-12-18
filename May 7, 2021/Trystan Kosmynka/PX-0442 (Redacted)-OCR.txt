@@ -1,0 +1,92 @@
+Subject: Re : HEADS UP: Fortnite Battle Royale dr, ERB
+
+From: uTrystan Kosmynka"
+
+Received(Date): Wed, 14 Feb 2018 01:46:55 -HIOOO
+
+To: uSheen Pruden"
+
+CC: uC.K. Hauno
+Ramsbottom" u JOhn GeleVnaeh
+
+hRon Okamoto" Gnmm h
+oB an Johns" ,"Allan Schafferu
+
+Date: We d, 14 Feb 2018 01:46:55 -HIOOO
+
+PUUNTIFF
+U.B. Dihtriot Court - NDCAL
+4t204v45040-YGR-TSH
+ul/h ehhthh, Ihh.V.Aptrth lith.
+Ex.ND. PX-0442
+Doth aruortut By
+, "Paul
+
+Looks like an exciting title, happy to discus the policy challenges. One thing that immediately
+pops out is that their concern over review times seems to be focused on aligning releases across all the platforms they target. This won 't work they way they seem to think it will, regardless of how quickly a review occurs. It can take several hours for App Review to even receive a app, it 's not the norm but it does happen (eg. thinning delays). After an approval it can take up to several hours for a new app or update to make it through the iTunes pipelines to customers.
+
+On Feb 13, 2018, at 5: 34 PM, Shaan Pruden
+
+> wrote
+
+Forlnite: Battle Roysle is coming to mobile in mid-March and has the potential to be the biggest
+game on iOS. App Store is very excited about this release and is prepared to get behind it in a big way.
+
+However, there are a few potenfial policy issues that we 've outlined below.
+
+Background
+
+Fortnite: Battle Roysle is the hottest thing in the games industry right now. It is being developed by Epic's studios (including ChAIR) and is currently live on Xbox One, PS4, PC, and Mac. They' ve pulled every resource they can find off of other projects to work on Fortnite because it 's
+gaining players so rapidly (see DAU graph below.)
+
+This has allowed them to dedicate a ton of resources to building the full experience on mobile. The game is nearing completion and they hope to launch in mid-March. They currently have
+50M players and peak around 3.5M concurrent. After launching on mobile, they hope to double those numbers.
+
+Key Features:
+
+· 100 person mtrlnploJrer lyorrles between teams of 1, 2, or 4
+
+CONFIDENTIAL
+
+Exhibit
+PX 442
+PX-0442.1 APL-APPSTORE 00208918
+
+· Free to play with In-App Purchases to unlock aesthetic items and emotes, none of which impact competitive balance
+
+· Cross-platform multi@layer: you can play with anyone on any other platform -- Epic has arranged deals with Sony and Microsoft to be the first game ever to allow this
+
+· Cross-platform progression: unlocked or purchased aesthetic items follow the user seamlessly between devices
+
+· Child friendly cartoon violence that parents are comfortable with their kids playing
+
+Challenges:
+
+1. We' ve asked them what it would take to make Fortnite exclusive to iOS on mobile (for a limited time) and they had one clear answer: 2-hour App Review. In the long run, Tim Sweeney
+(Epic CEO) wants a more elegant "trusted developer" program, but in the short-term our App Review, even with a 48 hour SLA, would be a bottleneck for their entire ecosystem of updates. They have to update every platform simultaneously or the cross-platform matchmaking breaks. Sony and Microsoft have guaranteed a 2-4 hour SLA. With a weekly content update cadence, getting stuck in App Review is their single biggest concern/risk.
+
+2. With history as our guide, their seamless cross-platform item transfer could clash with our policies. For example, Minecraft 's cross-platform currency plan was a careful discussion with the ERB overthecourse ofseveralmonths. Hopefully thatcan serve asa precedent.
+
+boarding 3. Epic is concerned about the potential massive uptick in on-
+
+with their mobile launch.
+
+They are considering a pre-registration or invite only system to meter the new users at launch.
+
+We will submit storyboards on items 2 & 3 for your review ASAP.
+
+Trystan, we' ll put some time on your calendar to kick off the conversation.
+
+Shaan
+
+Fortnite's DAU graph and Epci's pitch deck included below...
+
+<Screen Shot 2018-02-12 at 7.03.21 PM.png>
+
+<Fortnite Mobile Apple 2.1.18 (1).pdf>
+
+CONFIDENTIAL
+
+PX-0442.2 APL-APPSTORE 00208919
+
+

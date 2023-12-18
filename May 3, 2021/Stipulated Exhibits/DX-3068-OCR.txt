@@ -1,0 +1,69 @@
+From: Sent: Tos Cc:
+
+Ti m Sweene
+
+Thu , 19 Apr 2018 10:22;15 +0000 (UTC)
+
+Jere my Sandmel
+
+Ki m Li breri
+
+Nick Penwarden
+
+Subject: Re: Metal success stories and porting FortNite to iOS
+
+ttaitcri States District Court
+
+es
+
+NorthernDistrcitofCalifornia
+
+CaseNo. 4:20-cv-05640-YGR
+
+Case TitleE fc Garaas,Iac. a 4 fc, lac.
+
+Exhibit No.DX-3068
+
+Date Entered
+
+Sueuer. Seeeg.CIek
+
+Btr
+
+Deceit Clerk
+
+Yes, we'd be happy to share quotes on Metal, which had been a dream to work with compared to other things, and we' re happy to either share or support Apple in sharing any technical details about Fortnite performance optimization and feature usage on iOS and Mac (though we' re in pretty sad shape on Mac right now and ought not make a point of it unless we' re able to improve by then.) There's nothing we seek to keep secret regarding Fortnite features and performance on MetaL
+If there's an opportunity for Fortnite inclusion in the WWDC keynote, we'd be happy to participate. However, given priorities it's not possible to do something large and unplanned, particularly with Fortnite and AR.
+
+> On Apr 18, 2018, at 10:50 PM, Jeremy Sandmel
+
+wrote:
+
+> Thanks Kim!
+
+» O n Apr 18, 201 8, at 7:38 PM, Kim Libreri
+
+ote
+
+» Hi Jeremy, » L et me add Tim and Daniel to this discussion. » Kim
+
+» Sent from my iPad Pro
+
+»> On Apr 18, 2018, at 10:09 PM, Jeremy Sandmel »> Nick, Kim,
+
+ote:» >
+
+»> It was good to catch up with you at GDC, and it looks like Fortnite on iOS is heading for the stratosphere, congrats!:)
+
+»> As we are starting to ramp up owWWDC discussions, we are thinking about messages that our developers would like to hear about Metal and graphics on the platform.
+
+»> N ick had mentioned to me some of your positive experiences regarding the Fortnite development effort and the role Metal and our iOS GPU HW/SW played in that effort, in general, and in particular, in comparison to your experience with other platforms.
+»> I ' m wondering if you would consider sharing some of that experience publicly with our developers. There' s a range of options we' d been thinking about from some quotes we could use in a session or possibly the afternoon Keynote, or a demo we could do in one of the sessions showing Fortnite running on a range of devices from iPhone to iPad to Mac (maybe on everything from MacBook+ eGPU to the iMac Pro), or possibly even technical "developer adoption" post-mortem section in our Metal technical session.
+
+»> W ould you be interested in any/all of these and if so, what's the best way to get started brainstorming7 »> - Jeremy
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3068.001
+
+EPIC 01020438
+
+

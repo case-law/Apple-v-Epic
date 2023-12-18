@@ -1,0 +1,26 @@
+Subject: Re : Yahoo widgets From: "Philip Schillern
+Received(Date):Mon, 21 Jan 2008 18:44:49 -0800 To: "Scott Forstalln
+Date: Mo n , 21 Jan 2008 18:44:49 -0800
+We spoke about this last week and I still think it is a homble idea.
+There are many APls out there for apps. By the same logic why not let Sun have Java on the iPhone? Why not Adobe's Air? Why not Microsoft's Silverlight? Why not Qualcomm's Brew? etc etc
+With one API (ours) we can manage what is on our products and what is not. If we open it up then we don't sign all apps, we don't distribute all apps, etc. Which is the same as throwing out the whole plan we have in place.
+And in the grand scheme of APIs we could choose to support beyond our own, if we ever did support another (which I don't recommend), Yahoo's Widget API is not even close to the most important one we would pick, some of the ones I listed above (like Flash) are way more important/ valuable to us.
+Besides, we have a way to do Widgets that competes with theirs, so who cares? This sounds like a relationship issue not worth considering.
+On Jan 21, 2008, at 5:33 PM, Scott Forstall wrote:
+) Marco wants to meet with you and me to talk about why we should ) allow Yahoo to build their widget engine on the iPhone.
+) They clearly want to push their widget API as a cross-platform way ) to build widgets. While I would prefer developers to use web ) standards like HTML and AJAX, or go native if they want more, I'm ) not sure we shouldn't take the high ground and let them build it and ) compete.
+) Thoughts?
+) -- S.
+
+vs. aP|nLeAetIcNeTenIF-aFocee. 4:20ev45040-YGR-TSH
+Eplosemen,Ine. nApple em.
+ae.No. PXW882
+oete enleme ep
+
+CONFIDENTIAL
+
+Exhibit
+PX 882
+PX-0882.1 APL-EG 00280094
+
+

@@ -1,0 +1,75 @@
+From:
+
+Tyler Stone
+
+To:
+
+C.K. Haun
+
+CC:
+
+Amy Louv
+
+SCC:
+
+Subject:
+
+Re: Violation? Unbound Medicine - another biz model?
+
+Attachments
+
+Sent:
+
+04/22/200909:54:36 PM 0000 (GMTI
+
+Thishas been corrected.The Unbound Medicine app used to have an order form within the app which was actually a WebKit view loading en opfimizedwebshe. They have, as instructed by us, changed that so now their app instead launches Safari and the customer proceeds on the Unbound Medicine website.
+
+Apple Worldwide Developer Relations
+On 17 Apr 2009, at 21:02, C.K. Haun wrote:
+> No, this is NOT ok and is not what has been desaibed. > -ck > On 4/17/09 Amy Louv wrote: » " Apple Confidential
+» Begin forwarded message:
+»> From: Cindy Lawrence »> Dattz March 31, 2009 9:39:19 AM PDT »> To: Amy Louv »> Subject Violation? Unbound Medicine - "another" biz model?
+»> How did this get through?
+»> Cindy
+»> Begin forwarded message:
+»» H ave you had a chance to step through the app as it is now »» a ppearing on the App Store. It looks like it continues to »» v iolate the Ts end Cs, specilically with In App Commerce. - Nots »» t he screen shots below.
+»» I t also has a portion where there is an in App Demo and then it »» t akes you on the the purchase and registrafion.
+»» N ote the description on the app store where it says" New 5»» M inute Clinical Consultant users will need to purchase a »» s ubscription ($79.95) before content can be viewed. This can be »» d one on your device alter the epplicefion is installed or from »» o ur web site."
+
+CONFIDENTIAL
+
+PIAINTIFF
+u.s. Dleltietcputt - tee cAL
+4:20 m 4 5 040-YGR-TSH
+sptesemenIne.u.Apple Ine.
+Ez.No. PX-1 709
+cute snleme sy
+PX-1709.1 APL-APPSTORE 02126655
+
+It also says " If you are a new user and interested in learning more about 5-Minute Clinical Consult, you may download the application and view a short demo or visit the Unbound Medicine website. I' ve shown that below in the screen shots - not sure that's within the current Ts and Cs. »» C
+»» IMG 0018 »» IMG 0021 »» IMG 0022 »» IMG 0024 »» IMG 0025 »» IMG 0026 »» IMG 0027 »» IMG 0028 »» IMG 0029 »» IMG 0030 »)) IMG 0036
+CONFIDENTIAL
+
+PX-1709.2 APL-APPSTORE 02126656
+
+» ""Apple Confidential""
+» Begin forwarded message: ») From: Cindy Lawrence ( ») D ate: March 31, 2009 9:39:19 AM PDT ») To: Amy Louv ( ») Subject: Violation? Unbound Medicine - "another" biz model?
+») How did this get through?
+») Cindy
+») Begin forwarded message: »» H ave you had a chance to step through the app as it is now »» a p pearing on the App Store. It looks like it continues to »» v i olate the Ts and Cs, specifically with In App Commerce-.Note »» t h e screen shots below.
+»» I t also has a portion where there is an in App Demo and then it »» t a kes you on the the purchase and registration.
+»» N ote the description on the app store where it says" "" New 5»» M i nute Clinical Consultant users will need to purchase a »» s u bscription ($79.95) before content can be viewed. This can be »» d one on your device after the application is installed or from »» o u r web site."
+»» I t also says " If you are a new user and interested in learning »» m ore about 5-Minute Clinical Consult, you may download the »» a p plication and view a short demo or visit the Unbound Medicine »» w e bsite. I' ve shown that below in the screen shots - not sure »» t h at's within the current Ts and Cs. »» C
+»» IMG 0018
+»» IMG 0021
+
+CONFIDENTIAL
+
+PX-1709.3 APL-APPSTORE 02126657
+
+»» IMG 0022 »» IMG 0024 »» IMG 0025 »» IMG 0026 »» IMG 0027 »» IMG 0028 »» IMG 0029 »» IMG 0030 »» IMG 0036 > -- CKH
+CONFIDENTIAL
+
+PX-1709.4 APL-APPSTORE 02126658
+
+

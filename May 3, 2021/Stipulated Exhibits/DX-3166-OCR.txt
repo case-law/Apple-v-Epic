@@ -1,0 +1,125 @@
+From: Sent: TQ: Subject:
+
+Adam Sussman Fri, 24 Jan 2020 01:40:03 +0000 (UTC) Haseeb Malik Re: EPIC ONLY: email to Google execs
+
+Uaitcri StatesOistrict Court
+
+es
+
+NorthernDistrcitofCalifornia
+
+CaseNo. 4:20-cv-05640-YGR
+
+Case TitleE fc Garaas,Iac. a 4 ic, lac.
+
+Exttibit No.Dx-3166
+
+Date Entered
+
+Sueuer. Seeeg.CIek
+
+Btr
+
+Deoelr Clerk
+
+thank you for sharing! And for your time today
+
+On Thu,Jan 23,2020 at1:48 PM Haseeb Malik
+
+ote:
+
+Hi Adam, Here is the email that Titn sent to Google Play leadership. For background, we had submitted a build of Google Play that included Epic payment only. Initially, we were flagged for two violations, one was for appearing to direct players to our sideload experience on web and the second for not including Google Play
+payment services. We submitted a second build which was cleared of the 1st violation but still blocked due to violation of their payment policy.
+
+This is where we stand now.
+
+----------Forwarded
+
+From: Tim Sweeney
+
+Date:Mon, Jan 13,2020 at6;43 PM Subject: EPIC ONLY: email to Goo e execs
+
+To: Canon Pence
+
+, Ka la Pa e
+
+Matt Weissinger Randy Gelber
+
+Haseeb Malik k Rein s a cock
+
+The clock is ticking!
+
+- Forwarded message-- -- ---
+
+From: Tim Sweeney
+
+D ate:Mon, Jan 13,2020 at6:40PM
+
+Subject: Re: Fortnite on
+
+Pl
+
+To: Hiroshi Lockheimer
+
+Cc: Jamie Rosenber
+
+Canon Pence
+
+ona am s on
+
+Kent Walker
+
+Hi Folks,
+
+Thank you for considering Epic's two Fortnite submissions to Google Play.
+
+Following Epic's appeal of Google'srejection oursecond (December 18)submission,we'vereceivedthe written response below and verbal confirmation that the sole reason for the rejection was Fortnite's use of non-Google payment processing services, and that there are no violations of the Google Play Developer
+Distribution Agreement section 4.5.
+
+If the current rejection stands, it establishes that the terms on Google's payment policy web page h s / / l a oo l e com/about/monetization-ads/ a ments/),,though notwrittenintheformof alegal agreement, are strictly-enforced conditions of access to Google Play and not just recommendations or wishes.
+
+Since the forced tying of a digital payments monopoly to a consumer sotbvare distribution platform with
+
+CONFIDENTIAL
+
+DX-3166.001
+
+EPIC 00431667
+
+majority marketshare is illegal in numerous territories where Google Play operates, we ask Google to either:
+1) accept our latest submission of Fortnite for release on Google Play; or
+2) agree to pursue acceptance contingent on a timely review by Google of Epic's payment processing services and its customer protections.
+Epic requests a decision in writing by Feb 3, 2020,
+Best Regards,
+Tim Sweeney Epic Games Inc
+- - - - - F orwarded messa e-- - - From: Date: u, Jan 9, 2020 at 7:38 PM Subject: Re: OOO - Holiday break. Will return Jan 6. Happy Holidays! Re: Your message about Google Play
+[0-3017000028863 To:
+Hi Haseeb,
+Thank you for your patience.
+Status of Fortnite (corn.epicgames.fortnite): Suspended from Google Play due to policy violation
+Unfortunately, we cannot accept your appeal at this time because multiple submissions of the app [corn.epicgames.fortnite] contained Developer Program Policies violations, including after the initial appeal was conditionally granted on December 17th, 2019 4:52pm (PST).
+The last enforcement notice for Developer Distribution Agreement (DDA} Section 4.5, Malicious Behayjor, and Payments policy violations was in reference to your previous submission made on December 17th, 2019 6:28pm (PST). The most recent version of your app was submitted after our app review of the above.
+Please note that all app submissions must comply with the Developer Progfam Policies. We' ve reviewed your appeal, including your latest submission, and found that your app still violates Google Play Policy, Specifically, your app continues to violatePaymentspolicy, which generally prohibits games published on Google Play from providing a payment method other than Google Play Billing to purchase in-app virtual currency or in-app digital downloads.
+Please see the attached screenshot for reference. You can read through the Pgyment0 policy for more details and examples of common violations.
+Please note that suspensions count as strikes against the good standing of your Google Play Developer account. Egregious or multiple policy violations can result in suspension, as can repeated app rejections or removals.
+If your developer credentials are still in good standing with Google Play, you can publish a new compliant version of the app by following these steps:
+1. Make all necessary changes to your app to address the issue described above. 2. Double check that your app complies with all other Developer Program Policies. Additional enforcement could occur if there are further policy violations 3. Signin toyourPl~a Console and u~load a new ayp using a new package name and anew app
+
+CONFIDENTIAL
+
+DX-3166.002
+
+EPIC 00431666
+
+name.
+Please let me know if you have any other questions. Thanks for your continued support of Google Play. Regards, The Google Play Team
+C«« compliant and high quality apps.
+Haseeb Malik Director i Mobile Publishing i Epic Games
+
+CONFIDENTIAL
+
+DX-3166.003
+
+EPIC 00431659
+
+

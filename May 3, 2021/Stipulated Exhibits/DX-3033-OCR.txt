@@ -1,0 +1,348 @@
+HIGHLY CONFIDENTIAL UNDER THE PROTECTIVE ORDER
+
+UNITED STA T ES D ISTR IC T COU RT
+
+NORTHERN D ISTR ICT O F CA L IFORN IA
+
+OAKLAN D D I V I S I ON
+E PIC GA M E S , IN C . , P laint i f f , Coun t e r - d e f e n d a n t ,
+
+United States District Court
+
+CI
+
+Northern District of California
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games, Irrc.v.Apple, Iree.
+
+Exhibit No. DX-3033
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+, Deputy Clerk
+
+vs A PPLE I N C .
+,
+
+Case N o . 4 : 2 0 - c v - 0 5 64 0 YGR
+
+Def e n d a n t ,
+
+10
+
+C ounterclaimant .
+
+12
+
+I N R E A P P L E I P HON E
+
+A NT I T R U S T L I T I GA T I ON
+
+13
+
+14
+
+15
+
+Case N o . 4 : 1 1 - c v - 0 6 7 1 4 YGR
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+(capt i o n c on t ' d )
+
+Veritext Legal Solutions 866 299-5127
+
+Page 1
+
+DX-3033. 001
+
+HIGHLY CONFIDENTIAL UNDER THE PROTECTIVE ORDER
+
+D ONALD R . CA M E R O N , e t a l . , P laint i f f s , vs
+A PPLE I N C . , Def e n d a n t .
+
+Case N o . 4 : 1 9 - c v - 0 3 0 7 4 YGR
+
+* * H I G H L Y CON F I DE N T I A L UN DE R T H E PR O T E C T I V E ORD E R * *
+
+10
+
+Z OOM D E P O S I T I ON O F D A V ID N I K D E L
+
+( Reported R e m o t e l y v i a V i d e o & W e b V i d e o c o n f e r e n c e )
+
+12
+
+Raleigh, North Carolina (Deponent's location)
+
+13
+
+Monday , F eb r u a r y 8 , 2 0 2 1
+
+14
+
+Volume I
+
+15
+
+17
+
+18
+
+19
+
+20
+
+S TENOGRA P H I C A L L Y R E PO R T E D B Y :
+
+21
+
+R EBECC A L . ROMA N O , R P R , CS R , C CR
+
+C alifornia CSR No . 1 2 5 4 6
+
+22
+
+Nevada C C R N o . 8 2 7
+
+Orego n C S R N o . 2 0 - 04 6 6
+
+23
+
+Washi n g t o n CCR N o . 3 4 9 1
+
+24
+
+J OB NO . 4 4 3 5 3 2 8
+
+25
+
+P AGES 1 - 227
+
+Veritext Legal Solutions 866 299-5127
+
+Page 2
+
+DX-3033. 002
+
+10
+THE CQURT REPORTER : I f y o u could raise your x.ight hand for me, please.
+THE DEPQMENT: ( 'Complie e . ) TH3 CQURT REPORTER : T c u d a eo l emnly state, under penalty of perj'ury, that the teatimony yolk. are al)orat tc give in thie de p o 8 iticn Shall l3e the truth, the whole truth and, nothing hut 'the
+Ver itext Legal Solutions 866 299-5127
+DX-3033.003
+
+Veritext Legal Solutions 866 299-5127
+DX-3033.004
+
+HIGHLY CONFIDENTIAL UNDER THE PROTECTIVE ORDER
+Q. A l l r i ght . Te l l me what your current position is at Epic.
+A. M y cur rent position at Epic is as senior online and game play programmer. T hat means that I work on the back-end services for Fortnite curren t l y .
+Veritext Legal Solutions 866 299-5127
+DX-3033.005
+
+10
+direct ye)ur attentiee te the do cument that w e ~~e 1DaX'kent QS EXhibit 16 1 Vh l C K i S B a t88 -- QUMeX'Bd, E piC QQ429862 .
+A . Oka y . Q. A nd t h i s i s an e m ail frorh Hd Zebxist an
+Ver itext Legal Solutions 866 299-5127
+DX-3033.006
+
+HIGHLY CONFIDEM'IAL UNDER THE PROTECTIVE ORDER
+April 24, 2020; is that correct'P A . That i s cor r ect . Q. Do you remember receiving this email at
+A . Yes , I d o .
+
+Q. A nd w h a t w a s th e r ole that, you had with respect to Project Liberty'
+A. I w a s brought in to assess technical f easib i l i t y .
+Q. A n d w hat do you. mean by '"technical feasibility"~
+Veritext Legal Solutions 866 299-5127
+
+0 1:36 : 5 9 0 1:37 : 1 6
+
+HIGHLY CONFIDEM'IAL UNDER THE PROTECTIVE ORDER
+A. W ou l d it technically be possible to provide Epic payments on these platforms and whet he r o r n o t - - a nd how much t im e it w o uld t a k e
+Veritext Legal Solutions 866 299-5127
+l3X-3033.008
+
+10 A Q5 BQ p a r t Gf y o u r x o l e 3 x l P r o p e c t
+Liberty waB to make aux"e that Epic would be able to imylement a. payment mechanism that would. function p roperly '
+A. Tba t ' 8 O'Qx'x'ect . Well, Bpecif ically, we 8 lx'eady h a cl. 8, p ayment m e e h a n j BITt tha't f u n c ' t i o n e d
+px'Qpex"1+, The, in'tention va8 to expo8e i't Gn that
+p ax'ticular platfo rm . 'Q . An @ a no t h e x ' Q'b j Pct i%'e @oil h a d i n
+d eeign i n g - - in evaluatix1g technical feaeibility of Px'Qject Liberty waB w h e t her it c c u ld. be done in. a way that. would not be obviouB to Apple"P
+A. Tha .t waB Bomethxng tk43t we had invegtigated to ge e if i t w o uld 1Tlake Benge to pu't e f fart towaxda aa a m e ar a o f c o n t i ngency p l ann i n g .
+Velitext Legal Solutions 866 299-5127
+
+inveS'tigatian7 A . SG t b e - - t h e e nd canclusion wa s t hat w e
+decided not to da anything Gut af the ordinary with
+e 'mplem nt t'cns w'th respect ta, 1'k ,
+obfuscating the code other than having it nat 'enabled 8,'t the, time th8t. we subiTLittecl..
+Q. What were the abfuscatian tactias that
+THH I3EPOMEMT: W e l l - - s orry . We generally looked at - - sa w e d a e n c r y p t so me p i e c e s a f - - af tbe build fax' preventing users fram inve'stigating 'them until we 'x'6 ready ta ga l i v'e wit h t h e m. We 1 o' o k e d B t mB+ be d o i n g t h a t . We deaided not 'tG da tha.'t .
+The - - 'thex'6 was g enex'all + gus't s a x"t Gf l ike, 8 quest ion Gf haw. abv.ious, would it be f r a m a nyb od y w h o w ' B s 'tQ duTYtp string'9 Gn "the a'pp, f Gr instBnce, which was B N e c h a n isfA thB,t usex'8 would G f ten u s e 'ta laak 8t 8. build.
+notwithstanding,, anybody, users included, ta - - t a understand that we were thinking about .doing this until we dec ided 'ta BctuBlly pull the tx'iggex' Bnd
+Velitext Legal Solutions 866 299-5127
+DX-SO33.0't O.
+
+enable it . B u t I @ a n ' t t h ink that d e c i8ioxi mac made until pxetty late in the process.
+Veritext Legal Solutions 866 299-5127
+
+A nd e a -- sa what Hpid wanted. tc nat he chvicus ta Apple was the ability of Ver@ion 13,40 ta add the interface far the weh payment pracees'P
+
+an tnnltiple payment prcaessars wae nat enabled in
+
+1 3 4.9 . SQ we did nest want ta Ve
+
+--- we di@ nat want
+
+that to be. part af the. evaluation.
+
+Q. And if it wae part af the evaluation,
+w ould B p i c h a v e ; effected Apple 5a re]eat that app,
+the updat e'P
+
+A. If w e h a d e nBLbl e'0 mut1jpie payment
+
+pxoviders and then submitted it,, I believe, Apple
+
+wag.ld ha%'e r'ejI6-ct ed i' t, yes .
+
+Ver itext Legal Solutions 866 299-5127
+DX-3033.012
+
+10
+Q . (B y M 'e. Yang ) I f y e n c cu.ld. ogen E~ i h i t 162,, which ie the document beax'i' Batee Numhex' EPIC Q4Q49995 . A n d j u e t let me knew when you. are there.
+A . Oka y .
+Ver itext Legal Solutions 866 299-5127
+DX-3033.013
+
+Veritext Legal Solutions 866 299-5127
+
+g
+
+Any Ep i c d i dn rt i Np l e 5 e n t i t 8 p a p T Llent
+
+it'8 Hpic direct payment hc)tfix into any cf the
+
+ccx18cle'8» i8 thQt ccxro'ct P A . Th e -- -- the 1 3 . 4Q b uild. di5 technically
+
+ccxltain 'the Ba17ic code f Gr 'guppGrt in@ multiple
+
+payment prcvi6ers that was auhmitted, to the ecnscles, but we haven't hctfixed on mere than one
+
+p ayment p r o'v i der Qn an y Q t her QQQsol 8 o t h e r i h e n
+
+Apple an@ Qocgle.
+
+Ver itext Legal Solutions 866 299-5127
+DX-3033.01 5
+
+Q. .Ie i.t cqnsiatent ~itb your u n d e rstanding that iG9 iB a r e la tivelp 91Tl81 1 market f Qr Fortnlte~>
+A. I m ea n , the iGS is a very large market in general. C o m p a red to the a'ther consoles in Fortnite in particular, ye8, it ' s -- -- it ' s cQBlparati&e small .
+Q. R i g h t . S o looking at this chart,,P54,,
+that pl atform has almost 40 percent of all
+A . Tha t ' G c or r ec t .
+g . M d , s im i l a r l y , Xbax Gn e i s '24.0 percent 7 Q. ~ 5 tha t '8 multiple8 higher than i087 A. T 'hat is faux' t.imes highex' than iGS.
+Velitext Legal Solutions 866 299-5127
+
+10
+ox not iCB an@. Qoogle Play glayere would. migrate to other platforms if Fox'tnite became unavailable in iQS and Geo@le. Play'2
+i'Nportant distinction - -- I think it ' 8 Bn ihgortant dietinction to look at the fact that what'8 actually being Said hexe ia that 44 pex'cent of
+yl a y er a al r ea d y y l ay e d o n m u l t i p l e pl atforms. So
+the expectation we had. waa that anyone who waa already on more than one platform would, be able to
+Ver itext Legal Solutions 866 299-5127
+DX-3033.017
+
+cqntinne to play on the other platforme that they
+
+ayers already pl
+
+Qn. T h e r e ' 8 nc etateITlent ag tc
+
+e~pectationa for nacre to migrate.
+
+Q. ' (By Xa . F a n g ) A nd . t h a t ~a b e c a u s e
+
+Fortnite i8. a ga@e that enables erose-play and.
+
+cro88-pxogxeggion~ ig that correct P
+
+A. I f y o u 'xe lucky enough to have more than
+
+one clevice to play Gn p y e@.
+
+Q. An d i t ac+ma like 44 percent of the revenue in April 2029 came from people @ho had, 'more
+
+than one elevi ce "2
+
+people who alao had another device, yea. Q . A B cl f Gr' thoae 'peopl e it wonlcl, have 13een @
+fairly aeamleaa e~ er i e nce to tranafer from playing Fortnite on iG8 to tran8fer to play cn whatever ether platform they had'P
+
+T H3 3EPGSENT : y ea h , 1 th i n k i t ' a reaaonahle to aasnme that they Started plagix1g Qn one of the other pl a t forme Since -- aince iQS ie
+a - - was a later release target fox ue. T he fact
+t ha t t h e r e -- it' a poaaible to make purchaeea us ing
+ay 1Tlo@i1e i5 sGmewhai at tract iv'e to pe'Qp le @ho pl
+cenaole primari ly . B U t I d o n ' t think that ~ f or
+
+DX-3033.018
+
+Veritext Legal Solutions 866 299-5127
+DX-3033.019'
+
+HIGHLY CONFIDENTIAL UNDER THE PROTECTIVE ORDER
+
+Q. Wa s th e Project Libexty team given
+
+0 2:35 : 1 3
+
+specific instructions not to reveal Epic direct
+
+payment plans to A p pl e b e f ore it, launched' ?
+
+A. Ou r g e neral instructions fox - - f a x all
+
+of Fortnite are not to talk about anything until
+
+it's launched outside of the company . Th a t ' s ju.st
+
+g enera l p o l i cy .
+
+Q. We re there any specific instructions
+
+given about sensitivity of Project Liberty in
+
+p art i cu l a r ?
+
+0 2:3 5 : 4 5
+
+A . Th e r e we r e - - i t wa s o n a n e e d - t o - k n o w b asis . Th at ' s t r u e .
+
+Veritext Legal Solutions 866 299-5127
+DX-3033.020
+
+'(Exhibit Q164 w88. marked f or
+A . L e t ' 8 Se e . Yes, I believe I reeell this one.
+Veritext Legal Solutions 866 299-5127
+DX-3033.021
+
+

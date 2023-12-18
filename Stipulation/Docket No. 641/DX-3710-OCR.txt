@@ -1,0 +1,1204 @@
+ANDY WU CHRISTOPHER Z H A N G
+Epic Games
+
+N9-719-494
+MARCH 13, 2019
+
+United States District Court
+NorthernDistrictofCalifornia
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games, Inc.v.Appte, Inc.
+
+Exhibit No. DX-3710
+
+Date Entered
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+In 2019, Epic Games was on a roll. Its hit title, Fortnite, was one of the fastest growing games in history. The company released a free-to-play, BattleRoyate version of the game in September 2017.1 By November 2018, the game boasted 783 million monthly active users (MAUs) and 200 million total registered users.2 Epic Games was also long well-known for developing and maintaining Unreal Engine for other developers to license. Excluding AAA ( utriple-A" ) developers and publishers such as Activision Blizzard and Electronic Arts (EA) that develop their own game engines in-house, Unreal was widely-cited to be the most-used game engine by developers.3
+Yet, Epic Games pushed into a market that many believed was won long ago: a digital storefront for externally-developed PC games. Valve's Steam was the incumbent storefront since its 2003 launch. Steam, known as the "Apple of the PC-gaming market," historically collected 30%e of sales of each game and in-game transactions on its platform. On the console front, console OEMs such as Microsoft's Xbox and Sony's PlayStation hosted digital storefronts for games on their platforms and collected similar fees. In December 2018, Epic Games unveiled its PC game storefront, the Epic Games Store. The revenue sharing policy of the new entrant left 88% of games sales for developers. Steam seemingly could see into the future; it had changed its revenue sharing model from a flat, 30/70 split with developers to a more generous tiered one only a few days prior,4
+The questions for Epic Games was whether it could dethrone an incumbent and for what prize: digital storefront market share or control of the platform for the uncertain future of game streaming. Should Epic Games continue to pursue becoming a platform? Could Epic Games be the first game developer to build a platform for content distributed on consoles? Should it rather continue to focus on being a developer of highly-lucrative, hit titles like Fortniteand the Unreal Engine? Was it sensible to do both?
+Video Games in 201S
+Video games were digital and interactive entertainment software. There was a distinction between console/PC and mobile games; popular games developed for console were usually adapted for PC, or vice versa, and cross-platform play was more often enabled between consoles and PC. Video games had many genres, but two broad categories were single-player campaign and online multi-player. Examples of the former included titles such as Ubisoft's Assassin'5 Creedfranchise and Nintendo's Super
+
+HBS Professor Andy Wu and Christopher Zhang (Swarthmore College) prepared this case. This case was developed from published sources. Funding for the development of this case was provided by Harvard Business School and not by the company. HBS cases are developed solely as the basis for class discussion. Cases are not intended to serve as endorsements, sources of primary data, or illustrations of effective or ineffective management.
+Copyright Oc 2019 President and Fellows of Harvard College. To order copies or request permission to reproduce materials, call 1-800-545-7685, write Harvard Business School Publishing, Boston, MA 02163, or go to www.hbsp.harvard.edu. This publication may not be digitized, photocopied, or otherwise reproduced, posted, or transmitted, without the permission of Harvard Business School.
+
+CONFIDENTIAL
+
+DX-371 0. 001
+
+EPIC 03363727
+
+719-494
+
+Epic Games
+
+Mario Odyssey, whereas the latter included t it les such as Activision Blizzard's Overwatchand Riot Games' League of Legends.Single-player campaign involved solo gameplay and typically didn't require Internet connection for periodic content updates. Online multi-player games catered to multiple users playing against one another and featured live content updates, both requiring Internet connection. Many games featured both single-player campaign and online multi-player modes. But game developers, particularly the largest, had begun to favor the latter.s In 2018, Activision Blizzard released the newest installment of its Call of Duty franchise, Black Ops 4, which solely contained an online multiplayer game mode for the first time in the series' history.
+VideoGames Supply Chain
+The video games supply chain primarily involved game developers, publishers, game console OEMs and manufacturers, and, to a decreasing extent, the video game retailer (see Exhibit 1 for video games supply chain visual). Game developers could be categorized into triple-A -- large developerpublisher hybrids such as Activision Blizzard, EA, and Ubisoft -- and independent ("indie") studios: smaller developers such as Supergiant Games and Mojang, before being acquired by Microsoft, that partnered with publishers to distribute their titles. Some developers did not fall into either category. This included studios that partnered with console OEMs, such as 343 Industries with Microsoft, or with triple-A developers, such as Treyarch with Activision Blizzard. The console OEM market was highly consolidated; the dominant console platforms, from most prevalent to least, were Sony's PlayStation, Microsoft's Xbox, and Nintendo's Wii and Switch (seeExhibit 2 for console market share). The gaming PC OEM market was fragmented, with independent and dedicated gaming PC manufacturers such as Razer and MSI, divisions of PC OEMs such as Alienware within Dell, and other PC manufacturers such as Lenovo competing.
+The foundational software packages that developers used to create games were game engines. Engines determined the physics, graphics, sounds, networking, logic, and artificial intelligence within games.7 Developers either developed their own engine in-house or licensed one that was developed and maintained by another company. The licensing model typically involved the developer's paying the game engine provider a royalty on sales generated from a game built with the licensed engine. The former included Activision Blizzard and EA, whose proprietary engines saved them the costs from licensing an externally developed game engine. The latter included companies such as Unity Technologies and Epic Games. Epic Games has developed and maintained iterations of its engine, Unreal Engine, for external developers since 1998. Together, Unity Technologies and Epic Games had the lion's share of the licensed engine market of notable games on Steam (seeExhibit 3 for game engine market share). Parties other than game developers were increasingly using game engines. Some movie p roducers had begun u sing engines in t h eir creative processes, and in dustry experts noted th e application of game engines in television production and architecture (see Exhibit 4 for game engine market forecas)t.8
+Digital distribution channels, or sales via Internet download vs. in-box retail sales, comprised a higher percentage of revenues for all game developers by 2019. Digital sales also encompassed the digital distribution of extra downloadable content (DLC) and add-on items to players that had already purchased a game. For example, digital online sales channels comprised 32% of Activision Blizzard's FY2013 net revenues; whereas in FY2017, digital sales accounted for 78% of net revenues. T h i s trend towards digital sales lead to margin expansion for game developers, as digital game sales had lower associated costs of production and distribution. Furthermore, the development of additional content, building on top of a n already-developed and already-distributed game, had lower costs than producing an entirely new game. The decline of the game retailer was another effect of this industry trend. GameStop, the largest pureplay game retailer in the world, reported a 16.4% year-over-year
+
+CONFIDENTIAL
+
+DX-371 0. 002
+
+EPIC 03363728
+
+Epic Games
+
+719-494
+
+decrease in holiday season sales in 2017. The performance of GME, GameStop's ticker symbol, reflected this struggle and in 2018, the company announced it was reviewing strategic alternatives (see Exhibit 5 for GME performance).11
+Monetization
+In the 1990s, developers sold games in physical cassette or CD form. By the early 2000s, home gaming systems were ubiquitous through PCs and consoles such as Microsoft's Xbox, Sony's PlayStation, and N i n tendo's GameCube. P u b l ishers continued to use retailers for distributing physical game copies, evidenced by the fact that GME's ticker price reached an all-time high in 2007. Digital distribution -- users' downloading full games online through digital storefronts -- became the prominent form of game distribution during the 2010s. Patrice Desilets, a director at Ubisoft, admitted in 2013: "nobody cares about not having CDs anymore... The future is digital, and there's nothing you can do about it." 14 In the mid-2010s, game publishers increasingly monetized games beyond their initial sale through extra content such as DLC composed of new multiplayer maps or campaign plot lines.
+Besides DLC, extra content included in-game "microtransactions" (MTX). Typical MTX included cosmetic items, without affecting in-game ability, that users could purchase for their in-game avatars: such as "skins" for weapons, emoticons, costumes, dance moves, catchphrases and other sound-based actions. Such items were either purchased with in-game currency earned by the user during gameplay or the user's cash. In the United States, mobile video game developers implemented this model before triple-A console and PC game developers. Mobile games such as Zynga's Farmville and Supercell's Clash of Clansreceived credit for bringing "freemium" or "free-to-play" (F2P) games mainstream; these titles monetized solely through MTX . B y 2 0 18, triple-A developers incorporated MTX into their model, requiring more frequent game updates and patches. For example, 62% of EA's FY2018 revenues of S3.538billion came from "live services", or DLC/MTX in excess of proceeds from full game downloads and other revenue streams (see Exhibit 6 for FY2018 revenue breakdown).17
+However, many developers received criticism for excessive, "pay-to-win" MTX. Another delivery method of MTX was often targeted: loot boxes, which were in-game transactions that users paid for without knowing beforehand what item they would receive. Its harshest critics equated loot boxes to gambling. B e l gium banned loot boxes and an international coalition began investigating loot box practices in 2018. T h e U n i ted States' Federal Trade Commission also claimed it was probing loot boxes' link to gambling that year. In 2017, EA faced backlash from users for what was perceived as "pay-to-win" MT X an d u nfair loot box tactics in beta gameplay of Star Wars Battlefront II. T h e company responded by initially removing in-game transactions upon release.
+Video game developers long tried to come up with a monetization model that resembled recurring revenue stream as closely as possible. Commenting on EA's prominent sequels of sports titles in 2005, video games analyst Michael Wedbush said, "It's the closest thing there is to recurring revenue in this business." The monetization of games by the industry's largest developers through MTX and extra DLC embodied an overall industry shift from retail to Games as a Service. While presenting Square Enix's financial results for FY 2017, the game publisher's President Yosuke Matsuda admitted:
+Titles that have become global hits recently have tended to be offered via the 'Games as a Service' model, and we believe this is going to be the mainstream model for gaming in the future. In developing future titles, we will approach game design with a mind to generate recurring revenue streams.24
+Video games developers also increasingly monetized through esports -- competitive video gameplay between both amateurs and professionals -- and related revenue streams. Goldman Sachs
+
+CONFIDENTIAL
+
+DX-371 0. 003
+
+EPIC 03363729
+
+719-494
+
+Epic Games
+
+analysts forecasted global esports revenue to reach S3 billion in 2022, up from S655 million in 2017. Revenue streams primarily i n cluded sponsorships, advertising, media ri ghts, and ti cket sales (see Exhibit 7 for breakdown of traditional sports and esports revenues). Esports events were lucrative for professional players as well; the largest-purse tournament was Dota 2's The International event, which boasted S38 million in prize money for 2017.
+Unlike traditional sports, video game developers were unique in that they owned the "sport" and rights to it: the video game IP. This enabled vertical integration for publishers such as Activision Blizzard, which developed Overwatchand launched a corresponding esports league, OverwatchLeague, in January 2018. I n i t s second season, theOverwatch League featured 20 franchises based in cities in North Am erica, Asia, and Europe. Activision Blizzard charged each team a franchise fee of $20 -- 60 million.27 The Overwatch League featured A-list sponsors -- such as Coca-Cola, Toyota, T-Mobile, and State Farm -- that were not lim i ted to vi deo gaming hardw are companies as esports event sponsors traditionally were. I n t erms of media rights, Activision Blizzard signed a $90 million streaming deal with Twitch.tv, the video-game-focused live video streaming platform, and a broadcasting deal with ESPN networks for the league's inaugural season.
+Streamers
+By 2019, video game live streaming remained a quickly-growing form of engagement for the gaming industry. There were 743 million viewers globally of gaming video content in 2019, up from 609 million viewers in 2016. T w i t c h .tv, the live video streaming platform that Am azon acquired for $970 million in 2014, was the most popular website for video game streamers and their followers with 84% of live-streaming viewership in North America. T w i t ch boasted 140 million MAUs and 15 million DAUs as of December 2018. T w i tch users were especially engaged, as the average viewer watched 95 minutes of gameplay daily.~ The revenue streams for Twitch and other video game live streaming platforms included banner advertisements, subscriptions to streamers' channels, and merchandise sales through popular streamers.34 Other social media companies, such as YouTube and Facebook, operated their own dedicated game video streaming websites: You Tube Gaming and Facebook Live. Chinese competitors included Huya and Douyu.
+Game video streaming sites broadly enabled the meteoric success of indivi dual streamers, also known as "influencers." Twitch boasted 27,000 creator partners -- broadcasters who profit from their video content -- in 2018. Th e most prominent Twitch influencer was Tyler Blevins: username, "Ninja." Blevins primarily played Fortnite. Ninja excelled at streaming his gameplay; he was the first Twitch streamer to surpass 10 million followers on the platform and had 13.6 million followers as of March 2019. Ninja's fame went beyond user count; he became a celebrity for earning over S500,000 monthly from streaming video game highlights in 2018, being the first video game player to be featured on ESPN's magazine, and for breaking Twitch's most-viewed stream during a match with NFL player JuJu Smith-Schuster and hip-hop artists Drake and Travis Scott.
+Epic Games History
+Founder/CEO Tim Sweeney liked to retroactively frame Epic Games' history as a four-phase story: each phase was called Epic 1.0, Epic 2.0, and so on. T h e company had a successful history of reinventing itself to pursue new opportunities in response to broad industry trends.
+
+CONFIDENTIAL
+
+DX-371 0. 004
+
+EPIC 03363730
+
+Epic Games
+
+719-494
+
+Epic 1.0: 1991-1997
+Epic Games was founded in 1991 as Potomac Computer Systems in the childhood bedroom of Tim Sweeney. The company originally served as a computer consultancy. But Sweeney's roots were as a game developer wunderkind; an early business of his was individually mailing games to customers he found online. The one-man company was renamed to Epic MegaGames in 1992 to give it a sense of clout, and Sweeney sought an outgoing Mark Rein from competitor id Software to be his business partner. Sweeney and his early team of developers initially developed a series of games, such as ZZT and Jill of the Jungle, that kept the company operating.
+Epic 2.0: 1998-2005
+id Software popularized the first 3D first-person shooter games (FPS) with its launch of Doomand Quake,in 1993 and 1996, respectively. Epic MegaGames turned to focus on the new genre. Sweeney developed the underlying 3D engine of the new FPS titles, the team's early developers created the games, and Rein focused on sales and marketing. The company released a series of FPS games: of which Unreal earned critical acclaim in 1998. T h e release also brought the underlying engine, Unreal Engine, to relevance and external developers began to license it. Epic continued to create its own games with Unreal Engine.
+The company, which was then a collection of developers and artists across the globe, moved into its first and current office in Cary, NC and was renamed Epic Games in 1999. Later that year, Unreal Tournament,which was codeveloped by Epic Games and Digital Extremes, was published. Although it was a sequel to 1998's Unreal, Unreal Tournament was a milestone itself; it solidified Epic Games' success in developing multiplayer-based games. The company also continued to iterate its game engine, releasing Unreal Engine 2 in 2002.
+Epic Games noted that successful shareware was a significant part of its early distribution strategy. Shareware broadly i n v o l ved d i stributing software thr ough m ai l o r b u l l etin b oard systems free of charge, in hopes that the recipient would pay for it later and provide feedback. The company credited the success of its shareware strategy to distributing fully-capable games and to incentivizing purchase through further and related content. A 1997 Epic MegaGames recruiting packet revealed how much the company prioritized, even in its early days, reducing initial cost barriers and providing add-on content for users:
+We sell [customers] something they want to buy: More games, game levels, hint sheets, cheat codes, bonus games ... Many of our games are trilogies -- a three-volume series of games. We give away part one as shareware, as we sell parts two and three. Yes, we have to work harder to create three episodes of a game, but it pays off. Customers love the episode of our games, and are happy to order the other episodes from us.41
+Epic 3.0:2006-2011
+By 2006, the gaming industry was focused on the new r eleases of consoles that raised the technological and user experiences: Sony's PlayStation 3 and M i c rosoft's Xbox 360. Both consoles introduced high definition graphics, networks for online gameplay and sales, and secondary storage for downloaded content. Additionally, software piracy brought uncertainty to developing for the PC games market. Epic Games, which had been focused on PC games up to that point, shifted to developing for consoles. Epic Games' engine was made compatible for consoles with Unreal Engine 3. The company released the first title of the Gears of War series in 2006 as an Xbox exclusive, and the game flourished. Gears of War became the face of Epic Games. The game's main designer was Cliff Bleszinski,
+
+CONFIDENTIAL
+
+DX-371 0. 005
+
+EPIC 03363731
+
+719-494
+
+Epic Games
+
+a star developer who joined Epic Games in 1992 at 17 years old. The success of Gears of War brought Bleszinski to fame.42
+Of note besides its commercial success, the Gears of War franchise was primarily a collection of single-player campaign-centric games. Bulletstorm, released in 2011, further displayed Epic Games' focus on that game mode during Epic 3.0. The phase was also one for hardware platform exploration; Epic Games code veloped a mobile game,Infini ty Blade,and released it in 2010. With a successful Infini ty Blade,Epic Games gained competency in developing mobile games and adapted Unreal Engine 3 for a mobile platform for the first time in the engine's history. Foreshadowing the future, Epic Games revealed FORTnITE --another concept of Bleszinski's and what would be Fortnite --in 2011.43
+Epic 4.0: 2012-Present
+After releasing Gears of War 3, Epic Games confronted a question described by Sweeney: "Do we enter into a new generation of publisher company agreement and continue the way we were?" 44 The company chose not to. After witnessing the successes of digital distribution in PC games, pioneered by Valve's Steam, and of Games-as-a-Service as a monetization model, modeled by Riot's League of Legends, Epic Games focused attention back on PC games with fresh perspective.
+The company decided to take external investors for the first time with Tencent's acquisition of a 40% stake in 2012 for S330 million. Sweeney pointed to, in addition to time and capital, Tencent's expertise in operating "[live] games on the large scale" as reasons for accepting the investment.~ Moreover, Epic Games furthered its strategic shift by selling off the Gears foWars IP in 2014.
+Epic 4.0 was reminiscent of the company's early strategy behind shareware: give users fullydeveloped products for free and monetize on further content. The company announced that Fortnite, which was still in development, and 2015's Paragon would be F2P for users. Unreal Engine 4 originally cost external developers a monthly subscription and 5% royalty on game revenues. In 2015, Epic Games made the engine free to use, leaving the revenue share in place for games that made more than $3,000 per quarter. E p i c's monetization of Unreal Engine evolved over the years: from an upfront licensing fee, to a monthly subscription, and then finally fr ee-to-use up until a p r oject's revenue threshold. Decisions such as these kept Unreal Engine successful and a "stabilizing factor" for the company; CEO Tim Sweeney admitted, "If we didn't have the engine, we would have died. We would have died three
+times."47
+Not everyone at Epic Games agreed with the company's new direction. Bleszinski decided not to renew his contract in 2012, and started an independent studio, Boss Key Productions, in 2013. The list went on with a series of executives and long-time developers and employees leaving the company over the following few years. Sweeney continued the course: "Epic may never release a single-player, campaign driven game like Gears foWar or Bulletstorm again."48
+Epic Games Present (2017-2019)
+By the beginning of 2017, the company was well into its 4.0 phase. Epic Games made Unreal Engine free-to-use for all types of licensees. In 2016, McLaren, the luxury sports car manufacturer, announced a partnership with Epic to incorporate Unreal Engine in auto design. M o r e recently, Fox Sports began using Unreal Engine for it s h y per-realistic, NASCAR v i r tual studio in O c tober 2018. E p i c a l so launched F2P games such as Paragon. The company constantly responded to hardware and game development trends during its history. In 2017, another example of the latter type of trend emerged: battle royale gameplay. Battle royale was a type of online multi-player, shooter gameplay; it involved
+
+CONFIDENTIAL
+
+DX-371 0. 006
+
+EPIC 03363732
+
+Epic Games
+
+719-494
+
+up to a hundred players starting out without weapons on a map, the collecting of weapons and materials, and then players' eliminating others until a final user/team remained. Players' Unknown Battlegrounds (PUBG, pronounced "pub-gee" in the gaming community), a game developed by Korean studio, Bluehole, was released as an early access beta in March 2017. PUBG was a fast hit; it broke records for concurrent players on Steam, was known as the archetypal battle royale game, made Bluehole a unicorn company, and brought its creator to fame. I t w a s unequivocally the hottest game in the world: until Fortnite Battle Royalecame on the scene.
+'For tni te'
+Fortnite was originally released for PC and console users in March 2017, with just a player-versusenvironment game mode. Epic Games quickly took note of PUBG's success and released a F2P Fortnite Battle Royale in September 2017. T h e n ew Fo rtnitemode also incorporated "building" a bilities for users, akin to Minecraft developed by Microsoft Studio, Mojang. The release of its F2P, battle royale game mode brought Fortni teto the mainstream; the game had only 1 million registered users in August 2017. Following Battle Royale'srelease, the game reached 30 million users by December 2017. Epic Games continued to reach as many users as possible by launching Fortnite for iOS and And roid in March and August 2018, respectively. W i t h each additional platform, Epic Games maintained crossconsole -- across PC, Microsoft/Nintendo/Sony consoles, and mobile -- compatibility and play. Fortnite's po p u la rity e v e n m a d e S o n y 's P l a y Station, w h i c h h a d n e v e r a l l o w e d c r o s s-console compatibility with Microsoft's Xbox before, concede by integrating full cross-console play in September 2018. The subsequent user growth was rapid, with the game's reaching 200 million registered players
+in November 2018 (see Exhibit Sa for Fortnite registered user count over time ).
+Fortnite's reach surpassed just the gaming community. In May 2018, the game featured a crossover event with Marvel Studios' Avengers: Infinity War that included a temporary Fortnite character based on the film's Thanos.s4 Fortnite featured other mashups with companies such as Samsung, for which Epic Games created in-game items -- the "Galaxy" skin and the K-pop star based "iKON IK " skin -- that were exclusive for Samsung Galaxy device users. C elebrity references, front-page articles in the mostcirculated publications, and partnerships with organizations such as the NFL made it clear that Fortnite was a cultural phenomenon.
+Fortnite's success was also evident in its estimated financial results. TechCrunch approximated that Epic Games generated around S3 billion in net income in 2018.s7 Because it was F2P, Fortnite's sole revenue stream was i n -game M TX . Thr ough that channel, Fortnite excelled. Fortnite reportedly contributed S2.4 billion in revenue for 2018 (seeExhibit 9 for select games' 2018 revenues). A June 2018 survey of 1,000 Fortnite users found that 69.9% of the players had purchased MTX before. A m o ngst those spending users, the average dollar amount of MTX purchased was S84.67. Only 39% of U.S. garners spent more than $50 on MTX in 2016. Additionally, 37% of those MTX customers credited Fortnite to be the first game they made in-game transactions within. Epic's estimated average revenue per user (ARPU) for 2018 reflected its monetization success; Fortnite's ARPU was S96, compared to Google's ARPU of S27 and Facebook's $19.
+O ther triple-A d evelopers continuously received criticism for e xcessive or p r edatorial M T X . Activision Blizzard's competing 2017 FPS, Call of Duty: WWII, faced bad press over its implementation of loot box displays that resembled slot machines. Users also condemned Call of Duty: Black Ops 4's addition of MTX a month after the game's release: once Activision had observed user habits within the game and was better-informed to monetize in-game transactions. G i v en the game was F2P and a user could play with out ever paying, Fortnite and its MTX practices stayed relatively clear of such criticism. Projected growth of worl d w i d e in-game transaction sales -- from S22 billion to S32 billion from 2015 to
+
+CONFIDENTIAL
+
+DX-371 0. 007
+
+EPIC 03363733
+
+719-494
+
+Epic Games
+
+2020 -- boded well for Fortnite's ability to mo netize most of its users and turn the average, casual gamer into an MTX consumer.~
+Fortnite's inability to officially generate revenue in China, the world's largest gaming market by revenue, due to a Chinese government freeze on new game licenses made that profit figure even more impressive. S u ccess on mobile platforms significantly contributed to the game's profit figure;Fortnite was the highest grossing iOS game in the U.S. for eight consecutive months as of December 2018.~ Additionally, Epic Games sidestepped sharing 30% of the revenue earned on Android devices with Google's Play Store by only allowing Android users to download the game directly from Fortnite's website and ow n l a u n cher. For t n i t e'sand t he c o mpany's success caught in v estors' attention; in October 2018, Epic Games raised $1.25 billion from KKR, Kleiner Perkins, Lightspeed Ventures, and ICONIQ Capital at a $15 billion valuation, up from S8 billion only 4 months prior.
+The game's success was credited to an amalgam of reasons. The F2P and cross-console play of Fortnite made the game extremely accessible and promoted social networks. Popular mobile games found success in the F2P model, but triple-A console developers typically charged users $30-60 to download their games. Fortnite enabled, for the first time, users to interact with peers across all console platforms for no up-front cost. Increasing its wide-spread attraction was the gameplay itself; Fortnite was known for, despite being a shooter game, lacking gore and for featuring almost-whimsical graphics. This contrasted with PUBG and made the game less "hardcore"; Fortnite was the ultimate game for both the casual and more competitive user.
+Additionally, Fortnite'sgameplay was known to be exciting and varied game by game. The nature of battle royale games led to unpredictability in the outcome and users were eager to play round after round. Fortnite was most engaging among video games; Netflix's Q3 FY2018 investor letter admitted, "We compete (and lose to) Fortnite more than HBO" in capturing consumer screen time. N e a r ly 50% of surveyed users spent more than 11 hours a week playing, compared to reported average viewing times of Netflix users of 10 hours per week (seeExhibit Sb for Fortniteuser time spent). Epic Games also significantly updated the game more frequently than developers behind comparable titles, evidencing the company's focus on maintaining "live games" that CEO Sweeney emphasized. Between September 2017 and July 2018, Fortnite underwent 34 major game updates, vs. PUBG's and Overroatch's 15 and 11 updates, respectively (See Exhibit 10 for game updates data). Live services such as updates and patches kept users engaged and the game up-to-date, in terms of both pop cultural and technological references.
+Fortnite's prevalence among streamers and Epic Games' commitment to competitive Fortnite both evidenced and contributed to the game's popularity. Since March 2018, Fortnite was frequently the most-streamed game on Tw i tch each month (See Exhibit 11 for Twitch viewership by game). For esports events, Epic Games provided two $100 million prize pools for competitive Fortnite during the 2018 and 2019 seasons. For 2019, S30 million of the overall prize pool was dedicated to the live For tnite World Cup finals that took place July 2019 in New York City.
+As it became more popular, Fortnite faced concerns over young user addiction and uncertainty regarding monetization in China. 21% of U.S. users were between ages thirteen and seventeen and 30% w ere students, according t o SuperData research.72 Parents worried that t h eir ch ildren w ere n o t spending enough time on schoolwork or ou tdoor activities, but conceded that the social aspects of Fortnite allowed t h eir c h i l dren t o s p end t i m e w i t h f r i e nds. Concerns surrounding u sage w ere especially relevant after the W o rl d H e alth O r ganization first classified video gaming ad diction as mental health disorder in June 2018.73 As of January 2019, however, much of the potential Fortniteusage concern hadn't m a terialized in th e w o r l d's hotbed of g a m in g a d diction and r elated regulation.74
+
+CONFIDENTIAL
+
+DX-371 0. 008
+
+EPIC 03363734
+
+Epic Games
+
+719-494
+
+Fortnite was not released in China, home of a S38 billion dollar video gaming market, via Epic Game's partnership w it h T e ncent du e t o a C h i n ese government freeze on ne w g a m e a p provals. The government ended its freeze in December 2018 but left out Tencent's games in new approvals. Analysts expected Tencent and other Chinese developer NetEase, however, to receive the green light later in 2019.75
+
+Unreal Engine
+
+On the engine side of the business, Epic began to lead in tw o areas of growth: VR and fi lm production. For VR, Epic's interests were twofold, both as a developer of VR content and as a provider of Unreal Engine for VR developers. In terms of content, Epic mainly created demos of VR games by adding new features with each iteration. The development of demos culminated into Epic's release of the free game RoboRecall for Oculus platform in 2017. D e veloping VR-centric games also allowed Epic to improve Unreal Engine for VR developers. Unreal Engine had implemented 'VR within VR" or a Minecraft --a building-block game -- approach to its VR development tools: allowing the developer to add, delete, or scale objects in the game from the perspective of the end user during the creative process. CEO Tim Sweeney emphasized Epic's focus on VR/AR. He claimed that Epic would likely build a b igger VR game in the future. Sweeney also outlined his optimistic, long-term vision for VR/ A R :
+
+I think it's a stepping stone to the future of the industry, I believe we' re in this longt erm transition to au gmented reality, that in 10 years we w o n't be sitting in f r ont of monitors or smartphones or using keyboards or mice at all... That way everything from gaming to computing to professional work is all going to be completely rethought. VR is the stepping stone to that. Right now we' re putting on this really big helmet and there's a bunch of really big cables that run to a computer. That's the starting point but, as with the smartphone evolution, the end point is pervasive technology that's in the hands of billions of people.~
+
+Epic Game had grand visions for Unreal Engine in film p r o duction. By 2019, game engines were
+
+rojects primarily used by smaller animated film p
+
+or by film sets in showing actors on set real-time what
+
+would be added to the scene in postproduction. But Epic CTO Kim Libreri saw much more interactive
+
+applications for the engine:
+
+There's no reason why ... an animated movie can't be... rendered on demand and generated on your cellphone with your specific preferences, like the princess dress that you bought for your kid is the one she gets to see in the movie. Her house can be in the background. People will start to see the power of real-time graphics and we' ll start to see experiences, more personable, more editable.78
+Epic Games acquired Cloudgine, a startup that used cloud computing for the demanding physics and animation calculations of high-graphics games, in January 2018 to further enable on-demand rendering for projects developed with Unreal Engine. S w eeney added to Libreri's vision, claiming that "Right now what you output is a video file or video game, but everything in between is yet to be explored."
+
+Epic Games Store
+Aside from Fortniteand Unreal Engine, Epic Games had released a new offering indicating the company wanted to be m ore than a developer. The company launched the Epic Games Store on December 6, 2018, offering a flat 12/88 revenue sharing agreement with external game developers on the platform. A dd i t i onally, if the developer used Unreal Engine in the creative process, Epic Games didn't charge the client engine royalties. Sweeney, with origins as a developer, had stated that reducing
+
+CONFIDENTIAL
+
+DX-371 0. 009
+
+EPIC 03363735
+
+719-494
+
+Epic Games
+
+costs of development for smaller content creators was a priority. Valve, a digital storefront competitor, caught wind of Epic's move beforehand. It had changed its revenue sharing plan to be more generous to larger developers on November 30, 2018. D e spite Valve's effort to retain larger developers, however, Epic Games Store quickly scored a victory in partnering with triple-A developer/publisher Ubisoft to release Tom Clancy's The Division 2 in January 2019. Although the publisher would also sell The Division 2 on its own storefront, Ubisoft announced that the game would not be on Steam, despite initially having a product page on Steam that was later taken down. A dd i t i onally, Epic and Ubisoft announced that they would integrate social aspects of their respective digital storefronts and continue to exclusively partner in future PC game releases.
+Epic Games Store tallied another victory with Deep Silver's highly-anticipated Metro Exodus,which would be released exclusively on the storefront in February 2019. N o t ably, the game was listed on Steam for pre-sales until the abrupt Epic Games Store announcement in January 2019. Valve voiced its disappointment shortly after the announcement, claiming the game's delisting from Steam was unfair, "especially after a l ong pr e-sale period." Co n s u m ers also expressed discontent with th e decision, claiming Deep Silver misrepresented the product by originally listing it on a different storefront. This initiated a wave of negative comments toward the game on Steam.87 Deep Silver's decision, however, led to a cheaper sales price of S50 in the United States: $10 lower than Metro Exodus'historical price. The CEO of Deep Silver commented on the Epic Games Store exclusive release:
+Epic's generous revenue terms are a game changer that will allow publishers to invest more into content creation, or pass on savings to the players. By teaming up with Epic we will be able to invest more into the future of Metro and our ongoing partnership with series developer 4A Games, to the benefit of our Me tro fans.
+Epic Games released its storefront with streamer influencers as a significant part of their strategy to help smaller developers. Epic Games already had a broader relationship with influencers or streaming content "creators" through its Support-A-Creator program, which l aunched in October 2018. The program shared a portion -- at least 5% -- of in-game MTX wi t h o ver 10,000 verified creators when a user designated a creator during their purchase. F o r t h e storefront, Epic Games Store provided developers referral links to their games. T h i s enabled creators to earn a portion of game sales from the link and provided less well-known developers an effective way t o a d vertise new t i tles. Epic Games Store disallowed developers from communicating with streamers directly through the store's interface; instead, Epic Games Store connected developers with creators.
+Despite its early s u ccess with E pi c G a mes Store, the company f aced a h i g hl y c o m petitive environment in the digital storefront and game engine segments of the gaming industry.
+Competitive Landscape
+Digital Distribution Platforms
+There were many competitors in the digital store front race. The market could be bifurcated into console and PC game storefronts. On the mobile front, Apple's App Store and Android's Google Play Store were the dominant platforms. By 2018, the largest game publishers had begun to launch their own PC game storefronts, defecting from incumbents. Console OEMs had also been bulking up their own content development through existing in-house studios and acquisitions. B ecause the console market was highly-consolidated, external developers were forced to distribute their games through the
+10
+
+CONFIDENTIAL
+
+DX-371 0. 01 0
+
+EPIC 03363736
+
+Epic Games
+
+719-494
+
+console platforms, through which console OEMs collected fees. Thus, there was not yet a developer that had gone direct-to-user in distribution of console games.
+Microsoft The second-largest gaming console OEM by user base released the digital storefront Xbox Games Store with the Xbox 360 console in 2005. Since then, Microsoft released Xbox One and renamed the digital storefront Mi crosoft Store to also support transactions for games played and consumer applications (apps) used across all Windows 10 devices. There was no up-front cost to access the Microsoft store; users paid for games and associated MTX. Xbox users subscribed to the Xbox Live membership in order to access online gameplay. As of Q1 FY2019, Xbox Live had 57 million MAUs.
+Aside from games developed by Microsoft Studios and its partners, Microsoft Store also distributed externally-developed t i t l es. Th e r e v enue sh are a greement b e tween M i c r osoft an d a l l e x t e rnal developers was a flat 70/30 split, with 70% of game/app purchases and associated in-app transactions going to the developer. In May 2018, Microsoft updated the agreement for only non-game consumer apps. The new revenue share gave developers 95% of app revenues, if the consumer used a deep link to buy the app. F o r other consumer app developers, Microsoft collected 15% of revenues from a user who had subscribed to the app for more than 12 months.
+Microsoft introduced a subscription-based membership that gave users untethered access to hundreds of Xbox games with Xbox Game Pass in 2017. Game Pass cost users S9.99 per month. Perhaps to i n crease Xbox On e p enetration and f u r t her p r im e c onsumers to m o n t hl y p a y m ents, Microsoft introduced Xbox All Access in August 2018. A l l A ccess provided users with an Xbox One console and two-year Xbox Game Pass/Xbox Live memberships at either S21.99 per month. Although t he original offer expired into 2019, Microsoft stated there was "an expansion planned" for t h e following year.
+By early 2019, Microsoft's gaming division experienced consistent growth. Microsoft reported a 44% year-over-year increase in overall Gaming revenues for Q1 FY2019. For Xbox software and services, Microsoft reported 36% growth, "mainly from third-party title strength." This attribution echoed Q3 FY2018 results. I n t hat quarter, many credited Xbox's in-game transaction sales growth to "the Fortnite effect": manic in-game spending by Fortnite users.
+Sony Th e largest console OEM by user base launched its game storefront, PlayStation Store, with the release of PlayStation 3 in 2006. Like most storefronts, there was no cost for users to access the storefront besides game-related purchases. Contrasted with Microsoft's Xbox Live membership, Sony's online gameplay membership, PlayStation Network, was free for all users. PlayStation network had 80 million MAUs in March 2018, up from 70 million one year prior.
+PlayStation Store, like Microsoft Store, distributed both games developed in-house and those that were not. In 2009, Sony charged external publishers fees based on games' size on top of licensing fees for PlayStation Store distribution rights. Th e r ate was $0.16 per gigabyte of downloaded content. By 2018, many assumed Sony had a revenue share agreement with third-party publishers in line with Microsoft's 70/30 split.
+Sony was historically well-known for having a larger selection of PlayStation-exclusive games on its platform than Microsoft did for Xbox.1~ This balance was shifting by 2019, however, as Microsoft a cquired a series of indie game studios for the purpose of bringing content in-house. Th r o u g h i t s console exclusivity strategy, Sony built a r e p u tation of b eing anti-cross-platform i n tegration. The Fortnite community's pleas caused Sony to enable cross-platform play w i t h m o b i le, PC, Nintendo Switch, and archrival Xbox users -- for the first time in PlayStation's history -- in September 2018.
+
+CONFIDENTIAL
+
+DX-371 0. 01 1
+
+EPIC 03363737
+
+719-494
+
+Epic Games
+
+Sony introduced a subscription-based membership for users in 2013. With PlayStation Plus, players enjoyed discounts on Store purchases and access to a periodically-updated selection of games known as the "Instance Game Collection." Pl a y Station Plus cost users S9.99 per month. A ft e r 2019, only PlayStation 4 users had access to the Plus offering. Sony's other subscription-based membership, PlayStation Now, was launched in 2014 and provided users access to a larger selection of games than PlayStation Plus' for S19.99 per month.
+Valve T h e Bellevue, Washington-based developer of games such as theCounter-Strike series, Team Fortress 2, and Dota 2, launched Steam in September 2003. Steam served as a digital storefront for PC games and game launcher, provided a game ratings system and Early Access for developers to receive pre-launch feedback, and hosted a forum in which users connected with developers to request features. By 2018, the storefront was the largest digital distribution platform for PC games in the world with an estimated 50-70% market share of PC games distribution. I n O c t ober 2018, Valve disclosed that Steam had over 90 million MAUs and 47 million daily active users (DAUs), up from 67 million and 33 million year-over-year, respectively. St e a m t ransactions similarly experienced recent growth; Steam transacted S43 billion in game sales revenue in 2017, up fromS3.5billion year-over-year. In July 2018, Valve partnered with a Chinese developer, Perfect World, to release Steam in China in an official capacity. Pri o r t o t h e p artnership, Chinese users had limited access to the Steam and risked government ban.
+Steam primarily featured externally-developed games. Under Steam's long-standing revenue share agreement with developers, Valve collected a 30% share of all revenues earned by externally-developed games. In November 2018, Steam updated its flat, 70/30 revenue share agreement to be a tiered one. Under the new agreement, games that made over S10 million in total revenue would have a 75/25 split. Developers of games that made over S50 million in total revenue would further enjoy an 80/20 split, leaving developers under the $10 million sales threshold with the old 70/30 agreement. The new tiered system immediately faced backlash from smaller, indie developers. F o r those developers, who didn' t have the large advertising budgets of triple-A publishers, Steam was the best storefront to introduce and popularize their games.
+A rising defection from Steam among larger game developers partially caused the updated revenue share agreement. For example, Bethesda Softworks, a long-time Steam partner, announced its highlyanticipated Fallout 76 would initially be available on console platforms and the company's own digital storefront, Bethesda.net, for PC. O n t h e Steam user end, there were reports that the"Fortnite Effect" caused a decrease in player activity in 2018(See Exhibit 12 for average daily players on Steam).
+Despite recent setbacks, the success and high user count of Steam provided it with natural network effects, as articulated by a Polygon reporter:
+Buying a game on Steam, for most players, is the path of least resistance. It's an account they have already set up at a place that already houses most of their PC games. A developer or publisher is betting that their game is going to be w orth the inconvenience of signing up for another service if they decide not to launch on Steam, and that's assuming they' re confident enough to believe players will even know the game exists. Steam isn't just where players go to buy games, it's where many players go to shop for games.
+Xbox Game Studios' March 2019 decision to release six titles from its famed Halo series through Steam evidenced the prominence of the platform's brand and network. Prior to their release on Steam, Halo titles had been exclusive to Xbox consoles since 2004's Halo 2.
+12
+
+CONFIDENTIAL
+
+DX-371 0. 012
+
+EPIC 03363738
+
+Epic Games
+
+719-494
+
+Steam attempted to compete in the gaming console market in 2013, when it announced the release of Steam Machine. The c o nsole combined the benefit of gaming PCs, which allowed modification unlike Microsoft's Xbox and Sony's PlayStation, with the traditional living-room comfort of game consoles. Steam reportedly partnered with tw elve gaming PC OEMs such as Dell's Alienware and Origin PC to launch multiple Steam Machines in 2015. The c ompany also released the Steam Controller and Steam Line: a gaming controller that combined abilities of gaming console controllers and PC mice and a PC-to-television game streaming device, respectively. However, by April 2018, Valve removed Steam Machine from its website after the console failed to gain traction.
+Activision Blizzard Th e f if th-largest game publisher by revenue had originally launched Battle.net in 1996. I t w a s n't until 2017 that the PC platform was rebranded as Blizzard Battle.net and served as a d i g ital storefront for g ames produced across the company's A ctivision and B l i zzard divisions. Bl i z z a r d B a t t le.net wa s t h e d e sktop l a u n cher fo r s u c h g a mes an d p r o v i de d s o cial networking capabilities for users as well. The storefront was free to access; users only paid for the games and associated in-game transactions.
+Electronic Arts Th e eighth-largest game publisher by revenue launched its Origin platform for Mac users in 2013. In 2014, it was launched on console exclusively for Xbox users and transactions went through Xbox's billing system . Si m i l a r l y t o B l i zzard Battle.net, Origin p r i m arily f eatured games published by its parent company and EA's partners. At first, cost of access to the Origin client was like that of Blizzard Battle.net; users only incurred the cost of the game and related in-game transactions.
+In 2016, however, EA incorporated a subscription-based membership called Origin Access for Xbox and PC users. The membership initially provided unlimited access to a selection of older, EA-published games called "The Vault" and limited access to pre-release titles. Origin Access' price was S4.99 per month or S29.99 with an annual subscription . Or i g i n A c cess also gave subscribers a 10% discount on associated MTX and p u r chases of EA games outside of The Vault. Users described on The Vault's selection of games' as outdated, given the fact that they were only available if they had been released roughly nine months before or earlier. EA responded in July 2018 by announcing a new subscription service: Origin A c cess Premier . In ad d i t i o n t o t h e b enefits of basic Access membership, Access Premier membership gave users full, unlimited access to all new EA-published games five days ahead of their release dates. O r i g i n A ccess Premier cost users $14.99 per month or S99.99 annually.
+Ubisoft Th etwelfth-largest game publisher by revenue originally launched Uplay in 2009 as a social network, allowing users to connect with each other and earn rewards wi t hin certain Ubisoft games. Uplay's desktop client was launched in 2012. Its newest form served a similar purpose to users as Origin and Blizzard Battle.net did. Additionally, Ubisoft was a client of Epic Games and licensed Unreal Engine until 2017, when Ubisoft decided to develop its own game engine in-house (see Exhibit
+13 fora summary of digitalgames storefronts).
+GameEngines
+Unity Technologies Th eprivate company released its game engine, Unity, initially for Mac OS X in 2005 . U ni t y T e c h n ologies' original m i ssion wa s t o p r o v id e a g am e d e velopment t ool f o r independent developers via the Web. Unity was one of the first game engines adapted for mobile game development in 2008 and was known for its mobile-centric focus thereafter. 50 % o f m obile games reportedly used Unity in 2016. By 2019, Unity supported development on mobile, desktop, Web, and consoles. Unity also supported VR platforms such as Oculus Rift and had established a VR/AR division called Unity Labs in 2016.
+13
+
+CONFIDENTIAL
+
+DX-371 0. 01 3
+
+EPIC 03363739
+
+719-494
+
+Epic Games
+
+Unity was, by some surveys, the most popular game engine among developers (seeExhibit 14 for game engine market share survey results). These surveys likely included more indie developers, as Unity was long-known as the go-to game engine for smaller and more budget-constrained teams. Whereas Epic Games had originally released Unreal Engine for use by triple-A developers that demanded higher graphics capabilities, Unity entered the market as a more approachable game engine. Unity incorporated features such as its use of higher-level programming languages -- compared to C++ in Unreal Engine -- and support for 2D game developers.
+Unity Technologies offered the engine with three price plans. It was free for beginner, individual developers whose Unity-based project didn't have revenues or funding exceeding $100 thousand annually. F o r m ore advanced developers, a plan called Unity Plus provided training courses and access to Unity for S35 per month or S300 for an annual subscription. For commercial developers, Unity Pro included more personalized engine support and workflow analytics services for $125 per month. Unity did not take royalties or require a revenue share agreement with developers.
+Amazon Th e E-commerce giant developed Lumberyard, a cross-platform game engine based on Crytek's CryEngine. Lumberyard was released in 2016 but was in beta mode as of January 2019. Amazon integrated other Amazon Game Studios products for Lumberyard licensees: Amazon Web Services (AWS) cloud hosting for game development, Twitch for game streaming, and GameLift for dedicated game servers for online multi-player games. A m a zon notably did not charge developers a licensing fee or share of project revenues. Amazon admitted that it monetized Lumberyard through AWS hosting fees from developers who chose that infrastructure. Lumberyard had not grabbed significant share of the game engine market as of 2019.
+Epic... 5.0?
+By 2019, Epic Games made a series of decisions that perhaps signaled a new phase in the firm's history. Epic 4.0 focused on live services to keep the customer engaged by constantly updating Fortnite/Paragon and by providing Engine as a free-to-use game engine for developers. With Epic Games Store, however, the company unveiled its aspirations to be a p l atform. Those aspirations required Epic 4.0, which had built up the largest and most-dedicated user base of garners and created a critical client base of game developers. On the gamer side, Epic Games had 200 million users from Fortnite alone: a group of users that was willing to make F2P triple-A games successful with high MTX purchase rates. On the developer client side, Epic's decision to remove Unreal Engine's subscription fee in 2015 was proving to be a successful one. Sweeney commented in 2018, "last year was our biggest engine year ever, by a significant margin." 1~
+Epic Games Store appeared to have a chance against Steam. The storefront won rights to distribute games from well-known developers such as Ubisoft and Deep Silver. Epic Games' user base boded well for the Epic Games Store, even compared to Steam's. Fortnite alone boasted 783 million monthly users in August 2018: just shy of Steam's 90 million MAUs in October 2018.1~ With both sides of the market, Epic Games' viability as a platform, in theory, became reality (see Exhibit 15 for Epic Games
+Store in a platform ecosystem visual ).
+But the company's vision was filled with challenges. During the Game Developers Conference, in 2019, most surveyed developers indicated that they di d n't believe Steam deserved its larger cut of revenue.1~ Epic Games' and CEO Ti m Sw eeney's origins were as developers; Epic Games Store reflected a vision of benefiting that side of the market. Sweeney, in a December 2018 interview, claimed "stores charging 30 percent [of game revenues] are marking up their costs by 300 to 400 percent" and that Epic "hoped competition between stores means better deals for all developers!" Tha t s aid, a
+14
+
+CONFIDENTIAL
+
+DX-371 0. 014
+
+EPIC 03363740
+
+Epic Games
+
+719-494
+
+majority of surveyed developers admitted high revenue cuts would not stop them from distributing
+through Valve's platform: as long as Steam continued hosting the critical mass of garners it needed to
+make their games popular. Thu s ,despite its recent success on the developer side of the platform through deals with Ubisoft and Deep Silver, Epic Games' real challenge lay in convincing individual
+garnersto join its platform.
+To spur user migration from Steam, Epic signaled, through its exclusivity deal with Deep Silver, a future tendency to host games exclusively on its platform. This caused discontent from users on online forums who felt that being forced to leave their long-time, primary platform in order to purchase a game through Epic Games Store was unfair. M a n y claimed that Epic, which had prided itself on being user-centric through distributing content at no upfront cost, used exclusivity as a mean to a profit-centric end. Impassioned users also criticized the relatively limited features of the nascent Epic storefront. Compared to the mature Steam, Epic Games Stores lacked features such as cloud saves, user reviews, forums, account sharing, and others (see Exhibit 16 for Epic Games Store features as of January 2019).
+In response to user criticism, CEO Tim Sweeney announced that Epic was working on a review system as of late January 2019. S w e e ney cited Epic Games Store's launching without enabling user reviews to avoid "review bombing": biased and negative comments written for games out of response to unrelated publisher or storefront actions. Deep Silver's Metro Exodus quickly faced such review bombing on Steam. Merely 28% of comments written in January for a related Deep Silver title, Metro 2033 Redux, were positive and many criticized the publisher's decision to exclusively distribute through Epic's storefront.
+Sweeny also addressed user criticism of Epic's exclusivity deals with early content on its storefront, drawing comparisons to video content producers:
+Love us or hates us, we are certainly fostering economic competition between stores,
+out of a firm belief that this will ultimately benefit all developers and g arners... Compared
+to how Amazon Prime Video, Netflix, HBO, and others fund unique content to provide reasons to use their services. If everyone offers the same exact selection, then the most established store typically stays dominant for decades.
+Sweeney's primary argument for users to make the shift from Steam to Epic Games Store was that developers, with h i g her m a r gins thr ough Ep ic's offering, w o ul d b e m o r e a bl e t o r e i nvest in t o development and p r o v ide users more content at a l o wer p r i ce. In February 2019, Sweeney also addressed Epic Game Store's relative lack of features, claiming that the company would soon integrate offline store access and an opt-in review system for developers.
+Although Epic initially released the storefront for PC and Mac in December 2018, the company quickly voiced ambitions for mobile platforms. Sweeney commented that an Android launch of Epic Games Store was planned for later 2019. On that platform, Epic had successfully avoided Android's distribution cut of i n -game revenues by listing Fortnite has a sideloaded app. L au n c h i ng on i O S , which had a long-standing policy that listed apps could not distribute third-party game content, was more uncertain . C on s i d e r ing Fo rtnite for i OS h ad 8 2.6 mill ion d o w n l o a ds and w a s t he h i g h est grossing app on the App Store, as of and in January 2019, accessing its gamer base on Apple's platform was critical for Epic Games Store.1~ Tides were shifting, however, in the Apple ecosystem. Netflix, the App Store's top grossing app in the United States in 2018, and music-streaming app Spotify had stopped supporting Apple's in-app payment system for new users by the start of 2019.1~ This bode well for Epic Games Store, which aimed to redistribute revenue cuts collected by platforms such as Steam and Apple to content developers.
+15
+
+CONFIDENTIAL
+
+DX-371 0. 01 5
+
+EPIC 03363741
+
+719-494
+
+Epic Games
+
+Risks, Near and Far
+Aside from even a blue-sky scenario for Epic Games Store, a steep challenge in it of itself, the company's vision faced broader uncertainty. Epic 4.0 was defined by providing content at zero upfront cost to expand the user base, enabling Epic to monetize from those users who were willing to spend. However, subscription models gained traction in monetizing video game distribution. Industry experts expected such growth to pick up; Morgan Stanley analysts forecasted game subscriptions would make up 33% of Global Console Game Spend in 2025, up from 3% in 2018. ~ Although Fortnitehad excelled more than any comparable game with a F2P MTX-centric model, Epic Games showed no intention of monetizing the game or Epic Games Store through subscriptions. Who knew how Epic users would react to such a change?
+Beyond subscription-based distribution, the industry was fixated on the potential of cloud gaming: games hosted on and streamed from external servers, enabling users to play from nearly any Internetconnected device. The market for cloud gaming was enormous; it potentially could bring anyone in an Internet-connected region of the w orld i nto the new casual gamer segment. By 2019, the largest technology companies, by market capitalization, had each signaled interest in providing game s treaming services. Sony an d M i c r osoft, th e i n c u mbent c onsole m anufacturers m ost a t -risk t o disruption by cloud gaming, were early movers. Sony's PlayStation Now already provided video game streaming for years, but featured a very l i m i ted selection of games that excluded new r eleases. Microsoft planned 2019 public trials for its Project xCloud game streaming technology, which supported both PC and mobile.147
+Outside of the video game hardware market, companies such as Google and Amazon had also begun building game streaming services. The former had launched a limited trial for its Project Stream service in November 2018 that allowed users to play Ubisoft's Assassin's Creed:Odyssey through the Chrome browser . A m az o n w a s the most recent entrant. Reporters wrote in January 2019 that the company was beginning to ask game developers for rights to distribute their content through a future game streaming service. W i t h t h e i m m i n ent arrival of 5G technology, which would broadly enable the low latency required by online multiplayer games, and such companies' increasing cloud computing capabilities, a future of cloud gaming seemed certain. Yet the role for a digital game storefront such as Epic's was less clear. As the cloud gaming distribution model was not yet tested, the potential relationship between Epic Games Store and a game streaming service was in question. Would Epic have to resort to paying such services a share of revenues to distribute its store's content -- a model analogous to the developer/publisher model that the company strove to escape in its Epic 4.0 phasein the future of cloud gaming?
+In the more immediate term, however, Epic also faced the risk of a deteriorating user base. Garners' interest in content was broadly known to be ephemeral and games to be hit-driven. Industry experts claimed that the video game development industry was increasingly less reliant on hit games, with triple-A developers and publishers monetizing games longer than ever before. Ye t ,Fortniteitself proved game popularity still fragile and prone to disruption. After reporting holiday quarter results in February 2019, Take-Two Interactive Software and EA p a r tially credited Fortnite for missing both internal and Wall Street's guidance. The results caused their shares to fall 14%, bringing peers such as Activision Blizzard and Ubisoft down 10% with them that day (see Exhibit 17 for competitors' stock price histories)151
+Although Fortnite had garnered 200 million users faster than any game before, its longevity and popularity beyond 2018 were yet to be determined. Competitors were quickly integrating battle royale modes into their games, such as Take Two's Red Dead Redemption II did two mo nths after its October
+16
+
+CONFIDENTIAL
+
+DX-371 0. 016
+
+EPIC 03363742
+
+Epic Games
+
+719-494
+
+2018 release. Tr i ple-A publishers were beginning to launch F2P games as well; EA suddenly released Apex Legends,an F2P battle-royale title, in early February 2019. Further evidencing its copycat strategy, EA also announced intent to m ak e th e g ame cross-platform across PC, console, and m obile platforms.1~ Apex Legendshad a successful launch, largely in part due to its surprise release and corresponding Tw i tch streamer marketing campaign. The Respawn-EA t i tle garnered 50 m i l li on players in four weeks; it took Fortnite four months to reach 45 million users.1~
+Creating the Metaverse
+Despite these challenges, Epic Games had proven ability to reinvent itself in response to industry trends across its 25-year history. With such a prolific career in the industry, CEO Tim Sweeney was in a unique position to predict the future of video games. In 2017, he saw the gaming experience accelerating toward the "M etaverse": a concept of digital and social media's future that encompassed all of virtual worlds, augmented reality, and the Internet's social networks. ~ Epic unveiled Fortnite's potential in the theoretical Metaverse; in February 2019, the popular electronic dance music producer, Marshmello, performed in a v i r tual concert -- attended by r eportedly 10 million users -- within Fortnite. In l i n e w i t h E pi c's monetization model, the virtual concert was free to attend for Fortnite users and Epic sold MTX designed specifically for the event. Epic Games also acquired 3Lateral, a Serbian developer that provided ultra-realistic animation and modelling of humans, in January 2019.
+Yet, when h e sp oke i n 2 0 17, Sweeney w arned against the p o tential of t h e f u t ur e M e t averse platforms' being locked down by private companies who would have "far more power over our lives, private data, and private interactions with other people than any platform in previous history" to the end of monetization . Sw e e ney had a vision for the optimal Metaverse of the future:
+It should not simply be a means for the developer to suck money out of the users. It should be a bi-directional thing where users participate. Some pay, some sell, some buy, and there's a real economy....in which everybody can be rewarded for participating in many different ways.
+In the near term, however, with ambitions for Epic Games to become a digital game platform in mind, CEO Sweeney claimed he was "more excited now about the future... [and saw] more opportunities for the company now than ever before."
+
+CONFIDENTIAL
+
+DX-371 0. 01 7
+
+17 EPIC 03363743
+
+719'-494
+
+Epic Games
+
+Exhibits
+Exhibit 1 V i d eo Game Supply Chain Visual
+
+U Alta
+Game Engine Developer
+
+BH~4K%9
+
+T All E T W D I N I E II 4 C 1 I V j
+
+Game Developer/Publisher
+
+@ XBOX Playbtatiort Gaming Hardware OEM
+
+Digital dtstribution
+Digital Storefronts
+
+UBISOFT
+Retail distribrrtirxn
+Walmart -'," Retailer I n l l l eSlOP PV'Wn TQINIh PLAnu
+
+Direct to CarESB.rrter Dr s trr brt tio rE
+
+Souxce: Adapted. by casevvxiter from "Re d ' TheValue Chain of The Video Games Industry," Kunnskapsvexket, January 2017, https:// ~ kaps v erketmrg/lit teraturdataba/speubiikasjon/redefining-value-chain-video-games-industry2017, accessed February 2019.
+Exhibit 2a Gl o b a l Game Console Market Share,,2016 -- 2018E
+
+Nintendo Microsof t
+
+· 2018E · 20 17 · 20 16
+
+10,000
+
+15,000
+
+Sales (Sm)
+
+20,000
+
+25,000
+
+Source: A d apted by casevvritex from "Games Console Market 2017, Nintendo Drives Market to 18 percent Growth," IHS Markit, March 7, 2018, https;//technology.ihs,corn/600640/games-console-market-2017,accessed January 2019.
+
+CONFIDENTIAL
+
+DX-3710. 01 8
+
+EPIC 03363744
+
+Epic Games
+
+Exhibit2.b Global Game Console Market Shareby Units Sold,,2008 -2018
+
+~6 3 0
+~ 25
+PR .20
+
+· Sony PlayStation · Microsoft Xbox · Nintendo Wii/ySwitch
+
+719-494
+
+2008 20 0 9 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Source: A dapted by' casewxiter fxom "Global Unit Sales of Current Ceneration Video Came Consoles from 2008 -- 2018," Statista, https:// www.statista.corn/statistics/276768/global-unit-sales-of-video-game-consoles/, accessed February 2019.
+
+Exhibit 3 Ga me Engine Market Share on SteamJ,uly 2018
+
+11 lo Unity
+
+59n/n CIther
+
+~ 23 1 0 Unreal
+3/n ~ Cry E r tgirte
+
+Adapted by casewiiter fr'om Reddit user research,,7uly 2018, https://www,reddit.corn/ r/ gamedev/ corn mnt's/gs20q
+
+of~arne p/i resmxched the market shaxe
+
+engines on/, accessed7anuary 2019.
+
+Data compilex identified game engines used to develop notable games on Steam; notable. game defined by a game's having a V/ikipedia page.
+
+CONFIDENTIAL
+
+DX-3710. 01 9
+
+EPIC 03363745
+
+Exhibit 4 Pr e dicted Growth in Global 3D Game Eny'ne Market, 2016 - 2022
+
+Epic Games
+
+E
+1500
+1000
+500
+
+2017 E
+
+2018F
+
+2019F
+
+2020 F
+
+2021F
+
+2022F
+
+Source: A d apted by casewriter from "Game Engines Market Is Expected to Reach USD 3 Billion by 2022, Growing at a GAGR of 10% ,," Digital Journal, ht tp:// www. digitaljournal.corn/pr/3520776, accessed January 2019.
+
+Exhibit 5 P e rf'ormance of GameStop's stock (NYSE: GME), January 2014 --January 2019
+
+25 20
+
+Jul-14 Jan-15 Jul-15 Jan-16 Jul-16 Jan-17 Jul-17 Jan-18 Jul-18 Jan-19
+Source: Adapted by casewiiter from Yahoo! Finance data, accessed January 2019,
+
+CONFIDENTIAL
+
+DX-3710.020
+
+EPIC 03363746
+
+Epic Games
+
+719-494
+
+Exhibit.6 E l ectronic Arts Digital Net Revenues by Type
+
+FY18Y' Y Chan e Full Game Downloads: -6% Live Services: +31% Mobile: +5/0
+
+· Mobile · Liv e Services · Fu l l Game Downloads
+
+ee: 2000 1500
+
+2,196
+
+FY2018
+Source: A d a pted by casewriter from "Electronic Arts Inc." Q4 FY18 Results Investor Slides, p. 5.
+
+Exhibit 7 R e venue Breakdown for Traditional Sports and. Esports, 2017
+
+100/0 90/0 80/0 70/0 60/0 50/0
+
+27%
+
+14%
+
+17%
+
+29%
+
+19/0 9%
+
+11/0
+
+38/0
+
+-- 48% 38%
+
+NFL
+
+MLB
+
+· Media rights · Sp o n sorship · Lic e nsing · Tic k et Revenue · O t h e r
+
+Source: A d apted by casewriter I rom "eSports: I rom Wild West to Mainstream," Goldman Sachs 'Equity Research, October 12, 2018, ht tps://www. goldmansachs.corn/ insights/ pages/infographics/ e-sports/ report.pdf,,accessed. March, 2019.
+
+CONFIDENTIAL
+
+DX-3710.021
+
+EPIC 03363747
+
+Epic Games
+
+Exhibit sa Fo rtniteRegistered User Count, August 2017- November 2018
+
+Registered Users (in millions)
+
+August 2017 D ec e mber 2017 January 2018. 30
+
+June 2018 Nove m ber 2018 200
+
+Souxc: A d a pted bycasewxiter from "Numbex of Registered Users cFfortnite Worldwide from August 2017 to August 2018," Statista, https:/ /wwwatatista.corn/statistics/746280/ fortnite-players/, accessed January 2019
+
+Exhibit 8b Fo r tniteUser's Surveyed Time Spent In-Game, November 2018
+
+Percentage of Surve ed Users
+
+Spent 0-5 hours/week
+29ok
+
+Spent.6-10 hours/week
+
+Spent 11-15 hours/week
+
+Spent 15-20 hours/week
+13a/q
+
+Spent over 21 horns/week
+
+Source: A d a pted by casewriter from "Fortnite By the Numbers: How Many Hours Are Y'our Playing Each Week'/"' PCMag.corn,
+October 2, 2 0 18, h t tps://www,pcmag.corn/news/364107/fortntte-by-the-numbers-.how-many-hourwaxe-youplaying.-each, accessed January 2019.
+
+Exhibit 9 To p Earning Free-to-Play (F2P) ancl Premium Games (Revenue in billions USD)
+
+Free-to-Play (F2P) Category
+
+Premium Category
+
+Fortnite Dungeon Fighter Online
+
+Developer R e venue
+Epic Games Nexon
+
+League of Legends Pokemon GO
+
+Riot Games Niantic
+
+Crossfire Honour of Kings
+
+Neowiz Games Tencent
+
+Fate/Grand Order
+
+Aniplex
+
+Candy Crush Saga
+
+King
+
+Developer R evenue
+
+Bluehol e
+
+1.0
+
+F/FA 78
+
+Electronic
+
+Arts
+
+Grand Theft Auto V
+
+Take-Two
+
+0.6
+
+Interactive
+
+Call of Duty: Black Qps /lit Activision
+
+Blizzard
+
+Red Dead Redemption 2 Take-Two
+
+0.5
+
+Interactive
+
+Call of Duty: WW//
+
+Activision
+
+Blizzard
+
+FlFA 79
+
+Electronic
+
+Arts
+
+Monster Hunter: World
+
+Ca pcorn
+
+0.5
+
+Monster Strike
+
+1.0
+
+Rainbow Six Siege
+
+Vbisoft
+
+0.4
+
+Clash Royale
+
+Supercell
+
+Overwatch
+
+Activisio n
+
+0 .4
+
+Blizzard
+
+Source: A dapted by casewxiter from Tom HoggIns,"Fartnite Earned Record $24bn in 2018,, the 'Most Annual Revenue of' Any
+Game in History'," The Guardian,January 17, 2019, https://www.telegraph.co.uk/gaming/news/foxtnite-eaxnedannual-revenue-game-history-2018/, accessed March 2019.
+
+CONFIDENTIAL
+
+DX-3710.022
+
+EPIC 03363748
+
+Epic Games
+
+719-494
+
+Exhibit.10 G ame Update Frequency of Fortnite, PUBG,and Overroatck from September 2017october 2018
+
+Weeks in operation
+
+43
+
+Total updates
+
+41
+
+Major updates
+
+34
+
+Major 1 total
+
+83%
+
+Total updates 1 week
+
+1.Q
+
+Major updates 1 week
+
+Q.B
+
+43 64 15 23% 1.4 0.3
+
+Overmatch
+11 42olo 0.6 0.3
+
+Source; Adapted by casewriter fmm analysis by Martin Yang and Andrew Uerkwitz, Oppenheimer k Go. Equity Research Note: "Major update" according to Oppenheimer k Co. methodology
+
+Exhibit 11 T w i tch Viewership by Gtmae,,November 2016 --February 2019
+
+90 la
+
+80olo
+
+70 lo
+
+60 lo
+
+50olo
+
+40 la
+
+30 lo
+
+20 lo
+
+10 lo
+
+0 /0
+S ep-17 N ov - 1 7 J an-18 Mar - 1 8 M ay - 1 8 J ul-18
+
+Sep - 1 8 N ov- 1 8 Jan-19
+
+· League of Legends · For t n i te · PUB G A ll V th e r Games Combined
+
+Source: Adapted by casewriter from "Top Games Through Histor'y By Week," TwitchTracker.corn, https:// twitchtracker.corn /statistics/games, accessed February 2019.
+
+CONFIDENTIAL
+
+DX-3710.023
+
+EPIC 03363749
+
+Exhibit 12 Av e rage Daily Players on Steam by Quarter,,Q2 2015 - Q2 2018
+
+Epic Games
+
+12 10
+
+2 Q15 3 Q1 5 4 Q 1 5 1 Q 1 6 2 Q 1 6 3 Q 1 6 4 Q 1 6 1 Q 1 7 2 Q 1 7 3 Q 1 7 4 Q 1 7 1 Q 1 8 2 Q 1 8
+Source: Adapted. by c'asewriter from "Steam Sees Surprising, Significant Usage Dip in 2018," Ars Techmca, August '1,,2018, https://arstechntca.corn/gaming/2018/08/is-fortnite-to-blame-for-steams-falIing-user-numbers-this-year/, accessed January 2019.
+
+Exhibit 13 Su mmary of Digital Games Storefronts
+
+Activision Blizzard
+
+Storefront Bat t l e.net
+
+Developer Revenue Share Pr ic e( for applicable service) Free
+
+Electronic Arts
+
+Origin
+
+Access Premier: $14.99/month
+
+Microsoft
+
+N/indows Store
+
+70/30
+
+Game Pass: $9,99/month
+
+Sony
+
+P layStation Store 70 / 3 0
+
+PlayStation Now: $19.99/month
+
+Ubisoft
+
+Free
+
+Valve
+
+70/30, 75/25, ar 80/20
+
+Sourc: A d a pted bycasewriter from "Digital Distribution Platforms" section,
+
+CONFIDENTIAL
+
+DX-3710.024
+
+EPIC 03363750
+
+719-4'94
+
+Exhibit 14 P r i mary Game Engine Development Tool (2015)
+Unreal Engine Adobe Air Cocos2d
+Custom Solutron Native Code only
+
+· Primary · Us ing
+
+0 /o 5 /o 10 % 15%o 20 /o 25% o 30 / o 35 /o 40 /o 45 % 50 /o Percentage of Surveyed Developers
+Source: Adapted by casewriter from "The Unxeal Platform for Game Developers;" HBS Digital Initiative, February 24, 2017, https://digit,hbs:oxg/submission/the-.unreal-platform-for-game-developers/, accessed January 2019.
+Note: Results of game engine market share survey of 10,000 developers.
+Exhibit 15 Ep i c G a mes Store in a Platform Ecosystem
+A platform provides the infrastructure and rules for a marketplace that brings together producers and consumers. The players in the ecosystem fill four main roles but may shift rapidly from one role to another. Understanding the relationships both within and outside the ecosystem is central to platform strategy.
+
+Creators of the platform's offerings (such as Ubisoft and Deep Silver)
+Controller of platform UP and arbiter of vvho may participate and in what mays (Epic Games for
+Epic Games Store }
+
+Value and data exchange and feedback
+
+Users of the platform's offerings
+
+Interfaces for the platform
+(PCs nov/ and mobile in the future for Epic Games Store)
+
+Source: A d a pted by casewriter from M, W. Alstyne, G. P. Parker, S. P. Choudary, "Pipelines, Platforms, and the New Rules of Strategy," Harvard Business Review, April 2016, https://hbr.oxg/2016/04/pipelines-platfoxms-.and-the-.new-.rulesof-strategy, accessed, February 2019.
+
+CONFIDENTIAL
+
+DX-3710.025
+
+EPIC 03363751
+
+Epic Games
+
+Exhibit16 Epic Games Storevs.Steam Features,January 2019
+
+Feature
+Use! levievys User profiles Forums Groups Friends list and chat User-create guides Account sharing Streaming to other devices Screenshot capture/sharing Broadcasting Cloud saves Modification distribution Item trading Library sorting Wish lists
+
+E pic Games Store S t e a m
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+Family Sharing
+
+No
+
+Yes
+
+Steam In-Home Streaming
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+Steam Workshop
+
+No
+
+Yes
+
+Steam Marketplace
+
+No
+
+Yes
+
+No
+
+Yes
+
+Source: A d apted by casewriter from "How the Epic Games Store Compares to Steam Right Now," PCGamer.corn January 17,
+2019, https:// www.pcgamer;corn/how-the-epic-games-store-compares-to-steam-right-now/, a ccessed February 2019.
+
+Exhibit 17 Co m petitor Stock Prices, Ju1y 2014 -- January 2019
+
+UBI.PA
+
+Jul-14 Jan-15 J u l -1 5 Ja n - 16 Jul-16 Jan-17 Jul-17 Jan-18 Jul-18 Jan-19
+Source: A d a pted by casewriter from Yahoo! Finance data, accessed January 2019,
+N ote: 5 0Inlay,Simple Moving Average. ATVI is Activisicn Blizzard Inc, EA is Electronic Arts Inc, MSFT is Microsoft
+Corporation, SNE is Sony Corporation,,UBI.PA is Ubisoft Entertainment SA, and A~ i sA m azon,corn Inc.
+
+CONFIDENTIAL
+
+DX-3710.026
+
+EPIC 03363752
+
+719-494
+ElldIloteS
+'"Tortnite,'* Wikipedta,,https;//enwikipedia.o'rg/wiki/Fortnite, accessed January 2019,
+"Number of Registered. Users ofFur tni feWorldwide From August 2017 to. November 2018," Statista, https://www,statista.corn/statistics/746230/fortnite-players/, accessed February' 2019.
+"Top Game Engines In 2019," Instabug Blog, December 7, 201'8, https/;/instabug,corn/blog/game-engines/, accessed Januar'y' 2019.
+Nick Statt, "Valve's New Steam Revenue Agreement Gives More. Money to Game Developers," 7)teVerge,November 30, 2018,https;//www.theverge,corn/2018/11/30/18120577/ valve-steam-game-maxketplace-revenue-.split-new-xulescompetition,accessed January 2019.
+5 Dave Thier, "Yes, AAA Single-Player Games Axe Dying, and. That's Fine,'"Forhe's,Octobex 18, 2017, https://www.forbes.corn/sites/davidthier/2017/10/18/ st -wars-visceral-yes-aaa-single-player-games-axe-dying-thatsfine/¹50fed3c268aa,accessed January 2019.
+6 Chxis Plante,"CalL foDu ty BlackOps4 Won't Have Traditional Single Player Campaign," Polygon,April 17, 2D18,
+https;//www.polygon. corn/2018/4/17/17248230/ call-of-duty-black-ops-4-single.-player-ccd.-blops,accessed January 2019.
+7 Oppenheimer 8r Co. Equity Research, July 24, 2017; "Game Engines --How Do They Woxk2" Unity Technologies,, https;//unity3d.corn/what-is-a-game-engine, accessed January 2019.
+8 Chxis Plante, '"Why Video Game Engines May Power The Future of Film and Architecture,'"The Verge,March 4, 2D15, https://www.theverge.corn/2015/'3/4/8150057/unreal-engine-4-epic-games-tim-sweeney-gdc-2015,accessed Januaxy 2019; Christophex Dring, "Neill Blomkamp: 'It's Inevitable that the Uncanny Valley Just Goes Away,,'" GamesIndustry.biz, November 30, 201?, https;// w ww,gamesindustxy,biz/ articles/2017-11-30.-neill-blomkamp-its-inevitable-that-the-uncannyvalley-just-goe~away, accessed January 2019; Animated film Adam created. with Unity Engine,,You Tube,,June 21, 2016, https://www.youtube.corn/watch2v=HaOOWK14pgs, accessed January 2019,
+9 "'Activision Blizzard, Inc."' Annual Report2,013 p. 5
+I "Activision Blizzard, Inc." Annual Report, 2017 p. 92
+I Patrick Thomas, "As Videogame Market Shifts, GameStop Struggles to Boost Sales,"Wnll Street Jourxtal,January 3, 2019, https://www,wsj.corn/articles/as videogame-market-shifts-gamestop-stxuggles-to-boost-sales-11546561467, accessed January 2019; Maria Halkias, "GameStop Names Financial and Legal Advisers, As It Reviews Its Future Options,'"Dallas¹ws, September 6, 2018, ht tps://www. dallasnews.corn/ business/ xetail/2018/09/06/ gamestop-identified-advisers-workingxemew-could-resul-tsale,,accessed January 2019.
+12 Eli Epst'ein, "Tech Time Machine," Mashable, January 8. 2015, https://mashable.corn/2015/01/08/gaming-techces/ ¹bpDPUOBFhsqx, accessed February 2019. t~ "GameStop Corp.(GME)," Yahoo! Finance, ht tps:// finance. yahoo. corn/quote/ GME/, accessed February 2019.
+Matthew Handrahan, "Desilets: 'Eventually AAA Games Will Make Money Again'," GamesIndustxy.biz, June.27, 2013,, https://www.gamesindustxy.biz/articles/2013-06-27-desilets-eventually-aaa-games-will-make-money-again, accessed February 201 9.
+15 Alexander Jones; "The Rise (and Fall) of Premium DLC: Why Publishers Are Finding New Ways To Charge For Games," GamesRadax+, September 4, 2017, https://'www.gamesradar.corn/ the-rise-and-fall-of-premium-dlc-why-publishers-arefinding-new-ways-to-charge-fox-games/, accessed February 2019.
+t6 Prateek Agaxwal, "Economics of Microtransactions In Video Games," Intelligent Economist,December 20, 2017, https://www,intelligenteconomist.corn/economics-of-micxotxansacttons/, accessed January 2019. t7 "Electronic Arts Inc." Q4 FY2018 Results Slides, May 2018, p, 5
+Netherlands Gaming Authority, "Study Into Loot Boxes: A Txeasuxe ox a Burden>" May 4, 2018,, https:// www.slideshare.net/OliviexOostexbaan/netherlands-gaming-authority-study-into-loot-boxes-a-txeasuxe-or-a-burden, accessed January 2019.
+
+CONFIDENTIAL
+
+DX-3710.027
+
+EPIC 03363753
+
+Epic Games
+
+Devin Coldewey, "Loot Boxes FaceScrutinyFrom an International Coalition of Gambling Autho'rities,," TechCxunch.corn,
+Septembex 2018, https://' techcrunch.corn/2018/09/17/loot-boxes-face-scrutiny-from-an-international-coalition-of-gamblingauthoxities/, accessed January 2019; Liz Lanier, "Sixteen Euxopean, U.S: Gambling Regulators Teaming Up to Tackle Loot Boxes, Skin Gambling," September 17, 2018, https:// vaxiety.corn/2018/gaming/news/ euxopean-us-gambling-regulatorsagainst-loot-.boxes-1202943991/, accessed Januaxy 2019.
+
+~ Brian Fung, "U.S. Consumer Watchdog tc Investigate Video Game Loot Boxes," Woshington Post,Novembex 28, 2018, https:// www.washingtonpost. corn/ technology/2018/11/28/us-consumer-watchdog-investigate-video-game-loot.boxes/?utm term =. 0779ed53ed90, accessed February 2019.
+~t Sarah Needleman and Ben Fritz, "Electronic Arts Pulls Microtransacti'ons from 'Star Wors Bottlefronf II' After Fan Backlash," Wall Street Journal,updated. November 17, 2017, https:// w ww,wsj.corn/articles/electronic-arts-pulls-microtransactions-fromstar-waxs-battlefront-ii-after-fan-backlash-1510936871, accessed January 2019,,. Michael McWhertor, "At EA Play, Loot Box Contrcarersy Still Loomed Over Electxonic Arts," Polygon,June 9, 2018, https://www.polygon.corn/'e3/2018/6/9/17444894/ ea-play-lootboxes-anthem-star-wars-battlefront-andrew-wilson, accessed January 2019.
+
+Tae Kim, "Wall Street Is Freaking Out as EA Caves Again to Social Media Outrage Over its 'Star Wars' Game,," CNBC, November 17, 2017, https:// www,cnbc.corn/2017/11/17/ wall-street-is-freaking-out-as-ea-caves-again-to-social-mediaoutrage-over-its-star-wars-game. html, accessed Januaxy 2019.
+
+~~ Matt Richtel, "Relying on Video Game Sequels,"New York Times,August 8, 2005, https;//www.nytimes.corn/2005/08/08/ technology/relying-on-video-game-.sequels.html, accessed January 2019.
+
+~4 "Square Enix Holdings," Management Interview following Annual Report, May 201?, p. 9, http://www hd.squareenix. corn/ eng/news/pdf/17q4outline.pdf.
+
+~5 "eSports: From Wild West to Mainstream," Goldman S'achs Equity Research, Octobex 12, 2018, https;//www.goldmansachs,corn/insights/pages/infographics/e-sports/report,pdf, accessed March, 2019.
+
+January "OverwatchLeagueTM Inaugural Season Begins Today,," Activision Blizzard,
+
+10, 2018, https://investor,
+
+actlvision.corn/news-releases/news-release-details/overwatch-leaguetm-inaugural-season-begins-today, accessed March
+
+2019.
+
+~7 Jacob Wolf, "OverwotchLeague sells Atlanta Spot to Group Funded by Cox,,"' ESPN, July' 28, 2018, http://www.espn.corn /espoxts/story/ / i d / 24217080/ovexwatch-league-cox-enterprises-atlanta, accessed March2019.
+
+Axon Gaxst, "Coca-Cola Signs Multi-Yeax Deal Sponsorship Deal with OverwatchLeague,," ESPN, February 18,,2019,
+ht tp://www.espn. corn/espoxts/story/ /page/ overwatchbrandsponsoxnews/coca-cola-signs-multi-year-deal-sponsorshipdeal-overwatch-league,,accessed March, 2019.
+
+~9 Jacob Wolf, "OverwatchLeague t'o be Streamed on Twitch.tv in Two-Year, $90. Million Deal," ESPN, January 12, 2018, http: //www.espn.corn/esports/story/ / i d / 2 2015103/overwatch-league-broadcast-twitchtv-two-year-90-mtlhon-deal, accessed Manh 2019.
+"OverwatchLeague Broadcasting Deal with ESPN, ABC Announced," Reuters.J,uly 11, 2018, https:/ /www.reuters.corn/artide /us-espoxts-espn/overwatch-league-broadcasting-deal-with-espn-abc-announced-idUSKBN1K12LQ accessed March 2019.
+
+"Number of Gaming Video Content Viewers Worldwide fmm 2016-2019," Statista, https:/ /www~tatma.corn/statistics /516754/gaming-video-content-viewer-number-global/, accessed March 2019.
+'"eSports: From Wild West to Mainstream,," Goldman Sachs Equity Research, October 12, 2018, https://www.goldmansachs.com/insights/pages/infographics/e-sports/report.pdf, accessed March, 2019.
+'"55 Amazing Twitch Stats and Facts (2018) I By The Numbers," ExpandedRamblings.corn, January 15, 2019, https://expandedramblings. corn/index.php/ twitch-stats/, accessed Ma~eh 2019.
+'"25 Useful Twitch Statistics for Influencer Marketing Managers," InfluencerMarketingHub.corn, https:/'/influencer maxketinghub,corn/25-useful-twitch-statistics/, accessed March 2019.
+~4"'Twitch tv Business Model I How Does Twitch Make Money?" Feedoughcom, October 5,2018, https //'www feedoughcom /twitch-tv-business-model-how-does-twitch-make-money/, accessed. March, 2019.
+' '"Twitch Now Has 27K+ Partners and 150K+ Affiliates Making Money From Their Videos," TeehCrunch.corn,,2018, https;//'techcrunckcom/2018/02/06/ twitch-now-has-27k-paxtners-and-150k-affiliates-making-,money-from-their-videos/',
+
+CONFIDENTIAL
+
+DX-3710.028
+
+EPIC 03363754
+
+Epic Games
+
+719-494
+
+"Drake Drops in to Play Fortmte on Twitch and Breaks the Record far Most-Viewed Stream," The Verge,Maxch 15,,2018,, https://www.theverge.corn/2018/3/15/17123424/ninja-drake-fartnite-twitch-stxeam-record-txavis-scott-juju, accessed March, 2019.
+37 Brian Crecente, "The Four Lives af Epic Games",Polygon, January 2019,https://www.polygon.corn/a/epic-4-0/the-fourlives-of-epic-games,accessed Febmary 2019.
+Chris Plante, "Better with Age; A Histoxy of Epic Games," Polygon, October 1, 2012, https://www.polygon.corn/2012/10/1/3438196/better-with-age-a-history-af-epic-games, accessed January 2019.
+~9 "Unreal Tournament", Wikipedia, https://en.wikipedia.arg/wiki/Unreal Tournament, accessed January 2019.
+4 Epic MegaGames, "Epic MegaGames Authax Info P'ack," Spring 1997 (slides published January 9, 2017J, https;//www.slidreshare.net/VinceCavm/epic-games-author-info-pack-vince-.cavin-web, accessed January 2019.
+4t Ibid,
+Tam Bissell,," The Gram>rex of Fun,"' ¹rv Yorke~N, ovember 3, 2008,, https://www.newyaxker.corn/magazine/2008/11/03/the-grammar-af-fun,,accessed January 2019.
+John Gaudiosi, "Epic Games' New FranchiseFDRTnITE Blends Survival Horror with Tower Defense Strategy," Forbes, December 10, 2011, https:// w ww.forbes.corn/sites/jAmgaudiasi/2011/12/10/epic-games-new-franchise-faxtnite-blendssuxvival-hoxxox-with-tower-defense-strategy/tt7d7d53de393f,accessedJanuary 2019.
+44 Brian Crecente, "The Four Lives af Epic Games," Polygon, January 2019,https://www.polygon.corn/a/epic-4-0/the-fourlives-of-epic-games,accessed January 2019,
+46 Erica Yee, "The Real Reason Epic. Landed a 515 Billion Valuatio'n Is NatFortrii te'sViral Video Game Success," CNBC, December 21, 2018, https:// w ww.cnbc.corn/2018/12/14/the-reason-epic-landed-a-15-hillis.-valuation-is-notefartnitesuccess. html, accessed January 2019.
+Brian Cxecente, "The Future is Unreal (Engine)," Polygon,January 2019, https://www.polygon.corn/a/epic4--0/the-futureis-unreal-engine, accessed February 2019.
+48 Brian Cxecente, "Epic's Latest:Paragon, Fortnite, and Unreal Tournament," Polygon,January 2019, https:// w w w .polygon.corn/a/'epic-4-0/epic-s-latest-paragon-faxinite-and-unreal-tournament, accessed January 2019,
+49 McLaren Launches Partnership with Epic Games to Integrate Unreal Erqjne for Auto Design Use," TopSpeed;corn, March 21, 2016, https://'www.topspeed.corn/cars/car-news/mclaren-launches-partnership-with-epic-games-ta-integrate-unrealengine-fax-auto-design-use-ax172797.html, accessed January Z019.
+Billy Steele, "Fax Sports' New Virtual Studio Runs On Unreal Engine," Engadget,October 16, 2018, https://www,engadget,corn/2018/10/16/fax-sportwnascar-ustdio-unreal-engine-epic-games/, accessed February 2019.
+Yuji Nakamuxa and Sam Kim, "One Man's Journey Fram Welfare. to World's Hottest Video Game," Bloomberg,September 27, 2017, https://www.blaomberg.corn/news/articles/2017-09-27/ane-man-s-journey-fram-welfare-ta-world-shottest-videogame, accessed Januaxy 2019. 52 Fort ni fe'sTwitter page, September 26, 2017, https:// twit tex,corn/Fortnite Game/ status/912668502644920321.
+5~ "FortniteWiki," Gamepedia.corn, https://fartnite,gamepedia.cam/Release Timeline, accessed January 2019.
+~ Andrevv Webster and Nick Statt, "Fortnite's Thanos Event Was Great Because It Worked for Evexyone," Tire Verge,May 16, 2018,https://www,theverge,corn/2018/5/16/17361676/faxtnite-avengexs-thanas-crossover,accessed Maxch 2019.
+~5 Shannon Liaor "Fortnite Has an Exclusive K-pop Skin for Those Who Pxeorder Any Galaxy S10 Phone," The Verge;February 20, 2019, https://www,thevexge.corn/2019/2/20/18233766/fortnite-k-pap-skin-exclusive-galaxy-s10-plus-preorder, accessed. March 2019.
+56 Brian Feldman, "The Most Important Video Game an the Planet," ¹ro York MagazineJ,uly 9, 2018, http: //nymag,corn/intelligencer/2018/07/how-fartnite-became-the-mast-papular-video-game-on-earth. html, accessed January 2019,
+
+CONFIDENTIAL
+
+DX-3710.029
+
+EPIC 03363755
+
+Epic Games
+Jon Russell, "Epic Games, the Creator of Foxtnt te,Banked a 53 Billion Profit in 2018," TechCrunch.corn, Janus xy 2N9, https://techcrunch.corn/2018/12/27/epic-fartnjte-3-billion-profit/, accessed January 2019.
+"The. Finances of For tnt te:How Much Are People Spending on this Game," LendEDU,cam,,June.26, 2018,, https://lendedu.corn/blog/finances-of-foxtnite/, accessed January 2019.
+"Amount Spent an In-Game Puxchases According to Garners in the United. States as af' December 2016," Statista, https://www.statista.corn/statistics/662618/amaunt-spent-in-game-.purchases-us-garners/, accessed January 2019. 6 Matthew Ball, "Fortni teIs the Future,,But Prabably Not for the Reasons You Think," BEDEF.corn, February 5,,2N9,, https://redef corn/original/fax'tnite-.is-the-future-but-probably-not-far-the-reasons-you-think, accessed February 2019.
+6 Ben Kuchera, "Call of Dna: WWII's 'Controversial' Loot Baxes Axe About Attentian and Addiction, Nat Maney," PoIygon, November 3,2017,https;//www.polygon.corn/2017/11/3/16602680/call-of-duty-wwii-loot-boxes, accessed February 2019.
+62 Erik Kain, "Call of Duty. BlnctcOps 4's Micratxansactjans Are Terrible, But Da They Ruin the Game?" Forbes,January 7, 2019, https:/ / w w w . f orbes.corn/sites/erjkkain/2019/01/07/call-af-duty-black-aps-4s-micxatrmxsactjans-are-terxible-but-do-theyruin-the-game/ 0'21cffcde7798, accessed February 2019. 63 "In-Game Consumer Spending Worldwide in 2015 and 2020," Statista, https://www.statista.corn/statistics/558952/ingame-consumer-spending-worldwide/,,accessed January 2019. 64 "Epic Games, the Creator of Fortnfte,Banked a 83 Billion Proflt in 2018," TechCxunch.corn, January 2019.
+~ "Fortni teRevenue On iOS Reaches $385 Million Fallow ing a $1.2 Million Per Day November," Sensor Tower, December 5, 2018,, https://sensartawer.corn/blag/'fartnite-revenue-november-2018, accessed January 2019.
+66 Jardan Crook, "Epic Games Sidesteps t' he Play Stoxe withFortni tefar Android Launch,'" TechCrunch corn, August 2018,
+https://techcrunch.corn/2018/08/03/ epic-games-sidesteps-the-play-stare-with-foxtnite-fax-andraid-launch/, accessed January 2019.
+67 Sarah Needleman and Katie Roof, "For tni teCreatar Epic Games Valued at Nearly $15,Billion,," Wall Street Journal,October 26, 2Ng,,https://www.wsj.corn/articles/faxtnite-creator-epic-games-valued-at-nearly-15-bjiijan-1540577025, accessed January 2N9; James Batchel'or, "Epic. Games Worth $8 Billion Follawing Foitni teSuccess," GamesIndustry.biz, July 25, 2018, https;//www.gamesindustry.bjz/articles/2018-07-25-epic-games-worth-usdg-billion-fallowing-fartnite-success, accessed January 2N 9. 68 "Netflix, Inc." FY2018 Annual Results Investor Letter, January 2019,,p, 5, https://s22.q4cdn.corn/959853165/fleis/doc financials/quarterly reports/2018/q4/01 /FINAL-Q4-18-SharehaldexLetter.pdf.
+Michelle Castillo, "Netflix Only Takes Up 8 Percent of t' he Time Your Spend Watching Video, But the Campany Wants ta Change That," CNBC,July 17, 2018, https://www.cnbc.corn /2018/07/17/netfljx-smraII-portion-of-overall-watch-time-and.competition-is-stiff html, access January 2019.
+0 Riley MacLeod,"Fortnite's New Year's Eve Event Catches Some Players By Surprise," Kotntru;December 31, 2018, https://kotaku.corn/fartnites-new-year-s-eve-event-catches-some-players-by-1831401823, accessed January 2019.
+Jordan Craak, "'Fortnite Goes Big an Esports far 2019 with $100 Million Prize Pool," TechCrunch.corn, February 2019, https://techcrunch,corn/2019/l12/22/fortnite-goes-big-on-esports;fox-2019-with-100-million-prize-pool/, accessed Maxch 2019.
+72 Besty Morris, "How FortmteTxiggered and Unwinnable War Between Paxents and Their Boys," Mll Street Journal, December 21, 2018, https:// www.wsl. corn/ artxcjes/how-foxtnite-triggered-an-unwjrmable-war-between-parents-and-therrboy's -1154539720tl, accessed January 2019.
+"ICD-11," World Health Organization, June 18, 2018, https://www.wha.int/classifications/icd/en/ accessed January 2N9.
+Yuji Nakamura and Sofia Haxta e Costa, "China's Latest Step to Curb Games and Play Wallops Tencent," Bloomberg,August 31, 2N8, https://www.bloomberg,corn/news/articles/201%08-30/@birn-ta-control-number-af-new-n4ne-games-foxchildxen-s-eyes, accessed January 2N9,
+5 Shan Li, "Tencent N'ot Yet Wirmjng Even as China's Game-Approval Freeze Melts,"Wall StreetJonrngl,January 2, 2019,
+ht tps:// www.wsj,corn/articles/ tencent-not-winning-yet-even-as-chinas-games-approvals-freeze;flnishes-11546413207,
+accessed January 2019.
+
+CONFIDENTIAL
+
+DX-3710.030
+
+EPIC 03363756
+
+Epic Gilxnes
+
+719-494
+
+76 Chris Kohler,,"Epic's VR Shooter,flullef Trmn Is Now the Wacky Robo Reorli," Wired, Octobex 6,2016,, https://www.wired.corn/2016/10/epic-xobo-recall-bullet-train/, accessed February 2019.
+Brian Cxecente, "The Future Is Unreal (Engine)," Polygon,January 2019, https;//www.polygon.corn/a/epic-4-0/the-futureis-unreal-engine, accessed February 2019,
+78 Brian Cxecente, "Lights, Camexa, Graphics; How Epic Helps Hollywood," Polygon,January 2019, https://www.polygon.corn/a/epic-4-0/lights-camera-graphics-how-epic-helps-hollywood, accessed February 2019.
+79 Jeff Gxubb, "Epic Acquixes Cloudgine So Unreal Developers Can Offload Game Processing to Servers," VenfureBeaf, January 22,2018,https://venturebeat.corn/2018/01/22/epic-acquires-cloudgine-so-unreal-devs-can-a&load-game-processing-toservers/, accessed February 2019.
+80 Brian Cxecente, "Lights, Camera, Graphics". How Epic Helps Hollywood," Polygon,January 2019, https://w ww.polygon.corn/a/epic-4-0/lights-camera-graphics-how-epic-helps-hollywood, accessed February 2019.
+81 "The Epic Games Store Is Now Live," Epic Games, December 6, 2018, https://www.epicgames.corn/store/enUS/news/the-epic-games-s'tore;is-now-live, accessed January 2019.
+82 "New Revenue Sharing Interval and Other Updates to the Steam Distribution Agreement," Steam Community, November 30,2018,https://steamcommunity,corn/groups/steamworksffannouncements/detail/1697191267930157838, accessed January 2019.
+"Ubisoft to Release TomClancy's 7heDivision 2 On Epic Games Store," Epic Games, January 9, 2019, ht tps:// www,epicgames.corn/store/en-US/news/ubisoft-to-release-tom-clancy-s-the-division-2-on-epic-games-store, accessed January 2019.
+84 Michael McWhertor, "The Division2 Coming to.Epic Games Store, Skipping SWam," Polygon,January 9, 2019, https://www,polygon.corn/2019/1/9/18174375/division-2-pc-epic-games-store-steam, accessedJanuary'2019.
+5 Kevin Knezevic, "Valve:Metro ExodusLeaving Steam for Epic Store is 'Unfair'," GameSpot, Febxuaxy 4, 2019, https://ww w,gamespot,corn/articles/valve-decries-unfair-decision-a~metro-exodus-Ieav/110&-6464623/, accessed January 2019,
+46"Metro Exodus,' *Steam, https://store.tseampowexed,corn/app/412020/Metro Exodus/,accessed January 2019,
+Ule Lopez,"Metro Series Is Review-Bombed on Steam Due to Epic Cames Transiti'on," VGR.corn, February 2, 2019, https:// www, vgx, corn/metro-review-bombed-steam-epic-games/, accessed January 2019.
+88 Stefanie Fogel, "Epic's Support-A-Creator Pxogram Expanding to All Titles on Its Store," Variety,February 5, 2019,, https://variety.corn/2019/ gaming/news/epic-games-support-a-creator-program-expanding-expands-1203129403/,,accessed March 2019.
+Owen S. Good, *'Influencer Plans Say a Lot About Epic Games Store's Vision of Itself," Polygon,January 2'1,,2019, https://www.polygon. corn/2019/1/2'I/18190900/epic-games-store-influencexs-ref exral-links-support-a-creatox-foxtnite, accessed March 2019.
+90 "The Epic Games Store as Described by Sexgey Galyonkin (SteamSpy Creator, Currently At Epic),'" January 13, ResetEra.corn, https:// w w w .resetexa.corn/threads/the-epic-games-store-as-described-by-sexgey-galyonkin-steamspy-cxeatorcurrently-at-epic-update-sexgey-clarifying-points-on-twitter,93249/, accessed March 2019.
+9 Jason Schreier,,"Microsoft's New Studio Acquisitions Shovv How Much Xbox Has Changed," Kofaku,November 12, 2018, https://kotaku.corn/microsoft-s-new-studio-acquisitions-show-how-much-xbcox-1830383030, accessed Janua ry 2019,
+"Number of Monthly Active Users (MAU) of Microsoft Xbox Live from Fiscal 1st quarter 2016 to 2nd quarter 2019," Statista, https://www,statista,corn/statistics/5%063/xbox-Itve-mau-number/, accessed January 2019,
+9~ "A New Microsoft Store Revenue Share is Coming," Microsoft,Blog, May 7, 201 8,
+https://blogs.windows.corn/buildingapps/2018/05/07/a-new-microsoft-.store-revenue-share-.is-coming/, accessed January 2019.
+"Microsoft Store to. Give Non-Gaming App 'Developers Up to 95 Percent of Revenue;" Gadgets.NDTV..corn, May 8, 2018, https://gadgetsn.dtv.corn/apps/news/microsoft-build-2018-windows-store-app-developers-revenue-1849213, accessed January 2019,
+
+CONFIDENTIAL
+
+DX-3710.031
+
+EPIC 03363757
+
+Epic Games
+
+"Introducing Xbox Game Pass: Unlinuted Access ta More Than 100 Games," Head af Xbax Phil Spencex on Xbox Wire, February 28, 2017, https/:/news.xbox.corn/ en-us/2017/02/28/introducing-xbox-game-pass/, accessed January 2N9.
+
+"Introducing Xbox AII Access," Xbax Wire, August 27, 2018,,https://news.xbax.corn/en-us/2018/08/27/xbax-al-laccess/, accessed January 2019.
+
+97 "Get In On Micrasaft's Xbax All Access Offex Befo're Year's End,,Expansion Planned Far 2019," HatHaxdware.corn, December 22, 2018, https://hathardwaxe.corn/news/xbox-all-access-ends-1231, accessed January 2019.
+
+98 "Mic rasoft Corporation," EarningRselease FY19 Q1, Octobex.24, 2N8, https://www,micxasaft, corn/en-
+us/Investor/earnings/FY-2019-Q1/press-reelase-webcast,accessed January 2019.
+
+99 "Micrasoft Corporation," EarningRselease FY18 Q3, April 26, 2N8, https://www,microsoft.corn/en-
+us/Investor/earnings/FY-2018-Q3/press-reelase-webcast,accessed January 2019.
+
+1 0 Jeff Grubb, "Xbox Made $2.25 Billian fox Microsoft Last' Quarter,'" VenbtreBeut,April 26, 2N8, https://venturebeat.corn/2018/04/26/xbox-made-2-25-bilIion-far-microsoft-last-.quarter/, accessed January 2019.
+
+1 I "Number of Monthly Active Users(MAU) on PlayStatian Network Worldwide from 2014 to 2018," Statista, https://www.statista.corn/statistics/272639/number-of-registered-accounts-af-playstation-network/, accessed January 2019.
+
+t~ Mike Fahey, "Publishers Unhappy With PlayStatian Network Bandwidth Fees," Kotnkxt,March 20, 20D9, https://kotaku.corn/5177036/publishers-unhappy-with-playstation-network-bandwidth-fees, accessed January 2019.
+
+I® Chris Remo, "Sony Charging Publishers fox PSN Download Volume," Gpmasutro,March 20, 2D09,
+http: //www.gamasutra.corn/view/'news/113788/Sony Charging Publishers F'ar PSN Download Valume.php, accessed January 2019.
+
+® Paul Tassi, "Sony Is Taking the Concept af PS4 Exclusivity Way Too Far," Forbes,,June14, 2017, https:/ / w w w . f arbes.corn/sites/insextcoin/2017/06/14/sony-is-taking-the-concept-af-ps4exclusivity-way-too-
+far/tt71ca6e0639ad,accessed.Januaxy 2019.
+
+t~ Lucas Matney, "Microsoft Acquires a Whcle Bunch of Game Studios," TechCrunch.corn, June 2D18, https://techcrunch.corn/2018/06/10/microsoft-acquires-a-whole-bunch-of-game-studios/, accessed February 2019.
+
+® Dave Tach,"Fort ni teCxoss-Platform Crossplay Guide for PC, PS4, Xbox One, Switch, Mac, and Mabjle," Polygon,
+Septembex27,2018,https://www,polygon.corn/2018/3/23/17146848/crass-platform-crossplay-ps4-xbox-pc-switch-iasmobile-enable-friends-compatible-matchmaking, accessed January 2019,,"ExtendedFor tni teCross-Play Beta Launches on PS4 Starting Today," CEO of Sony Interactive Entert'ainment John Kadexa on PlayStatian Blog, September 26, 2018, https://blog.us.playstatian.corn/2018/09/26/extended-foxtnite-cross-play-beta-launches-on-ps4-starting-today/, accessed January 2019.
+
+Kris Graft, "PlayStation Plus: Goad fox Players, But is it Good for Developers"t" Gamastxtra,May 9. 2013, http: //www,gamasutra,corn/view/feature/191966/playstation plus good fax,php, accessed January2019.
+
+8 Douglas SIdnner, "PlayStatian Plus vs. PlayStation Now: What is the Difference't" GameSkinny.corn, https://www.gameskinny,corn/bp6ff/playstatian-plus-vs-playstation-naw-what-is-the-difference, accessed January 2019.
+
+09 Oliver Chiang, '"The Master of Online Mayhem," Forbes,February 9, 2011,, https://www.farbes.corn/forbes/2011/0228/ technology-gabe-newell-videagames-valve-a~ accessed January 2019.
+
+ma y h em.htmltt2d6d1ab53ac0,
+
+~~O Haydn Taylor, '" Steam Reaches 90m Monthly Active. Users," GamesIndustxy,biz,,October 24,,2018, https://www.gamesindustxy.biz/artides/2018-10-24-steam-reaches-90m-monthly-active-users, accessed January 2019.
+
+~t Jamb Kastrenakes, "Valve Will (3fficially Launch Steam in. Chma," TIxeVerge, Jum 11, 2018, https://www.theverge.corn/2018/6/11/17451484/steam-china-annaunced-valve-perfect-world,accessed January 2019.
+
+12 "New Revenue Sharing Interval and Other Updates to the Steam'Distribution Agreement," Steam Community, November 30, 2018.; Rebekah Valentine, "Valve Adds Revenue Share Tiers fax Developers," GamesIndustxy.biz, December 1, 2018, https://www.gamesimdustry.biz/articles/2018c42-01-valve-adds-revenue-share;tiers-far-developers, accessed January 2N9,
+
+t~3 Nathan Graysan, "Indie Developers Dan't Like Steam's New Revenue Sharing Policy," Kotaku,Decembex 3, 2018, https://kataku.corn/indie;developers-dont-like-steams-new-revenue-sharing-p-1830830493,accessed January, 2019.
+
+CONFIDENTIAL
+
+DX-3710.032
+
+EPIC 03363758
+
+Epic Games
+
+719-494
+
+Emma Kent, "Ftxllout 76 Won't Be on Steam at Launch,,Euxogramer,net, July 8, 2018y https://www.euxogamex.net/articles/2018-08-07-fallout-76-wont-be-on-steam-at-launch, accessed January 2019.
+B'en Kuchexa, "Steam Remains Comfoxtably Dominant, But the Competitive Threats are Gathering,," Polygon,August 27, 2018, https://www.polygon.corn/2018/8/27/17785946/steam-usage-fallout-foxtnite-amazon, accessed June 2018.
+6 Jason Schreier, *' Valve Announces 'Steam Machines,' Hopes to Improve Living Room Gaming, Kotoku,September 25, 2013, "https'//kotaku.corn/valve-announces-steam-machines-1386046176,accessed February 2019.
+I Jenna Pitcher, "Repoxt: Valve's Latest Steam Machine Partners Indude Alienware, Origin PC and 10 More," Polygon, January 5, 2014, https // w ww.polygon.corn/2014/1/5/5278138/ valves-latest-steam-machine-partnex's-include-alienwareoxigin-pc-and, accessed Februaxy 2019.
+118 Ethan Gach, "A Brief History of Steam Machines," Kotaku,April 3, 2018, https://kotaku.corn/ a-bxief-history-of-steammaehines-1824290873,,accessed Febxuary 2019.
+119 "World's 15 Largest Video Game Publishers by Revenue (2017)," Geoshen,corn, updated June 30, 2018, https:// geoshen.corn/posts/'15-largest-video-game-publishers-by-revenue, accessed January 2019. I+ "Battle.net," Wikipedia, ht'tps://en.wikipedia.org/wiki/Battle.net, accessed January 20 I9.
+2 Emma Boyle, "EA Access: Everything You Need to Know About EA's Subscxiption Service," TechRadar.corn, June 10, 2018, https://www.techxadar.corn/news/gaming/5-things-you-need-to-tuxow,-about-ea-access-1261582, accessed January 2019.
+I+ Katrina Filippidis, "EA Will Launch its Premium Origin Access Subscxiption Next Week," Engadget.corn, July 27, 2018, https://www.engadget.corn/2018/07/27/ea-origin-access-premier-subscription/, accessed Januaxy 2019,
+12~ Hayden Dingman, "Origin Access Premier Launches: Get Full Access to Every EA PC Game for $15 Per Month," PCWorid.corn, July 30, 201'8, https://www.pcworld. corn/'article/3293050/'gaming/ ea-origin-access-prexnier-launch. html, accessed January 2019.
+,Brian Crecente,,"EA's Subscription Service Origin Access Premier Launches Next Week," Variety,July 26, 2018, https://variety,corn/2018/ gaming/news/ ea-oxigin-access-premiere-release-date-1202887506/,accessedJanuary 2019,
+t~ Alex Osboxn, "Why Ubisoft Ditched Unreal in Favor of its Own Proprietary Tech,," IGN.corn, September 15, 2017, https:// www,ign,corn/articles/2017/09/15/why-ubisof t-ditched-unreal-in-favor-of-its-own-proprietary-tech, accessed January 2019.
+tz6 John Haas, "A History of the Unity Came Engine," Woxchester Polytechnic Institute, https://web,wpi.edu/Pubs/Epxoject/Available/E-project-030614-143124/unrestricted/Haas IQP Final.pdf, accessed January 2019.
+27 "The $120B Gaming Industry Is Being Built on the Backs of These Two Engines," CB Insights, September 20, 2018, https://www,cbinsights.corn/research/game-'engines-growth-expert-inteihgence/, accessed January 2019.
+~ "Unity Engine: A Unicorn Powering the Video Game and VR/AR Economy." HBS Digital huttativei February 1, 2018, https://digit.hbs.org/submission/unity-engine-a-unicorn-powexing-the-video-game-and-vr-ar-economy/, accessed Januaxy 2019,
+"Unity Store," Unity Technologies, https:/ /store. unity,corn/products/unity-pro, accessed January 2019. t~o "Amazon Webac e s Announces Amazon Lumberyard -- A Free Cross-Platform 3D Game Engine Integrated with AWS and Twitch,," AWS Press Release, February 9, 2016, https://www.businesswixe.corn/news/home/20160209005740/en/Amazon-Web-Sexvices-Announces-Amazon:-Lumberyardi~EZ/80/94, accessed January 2019.
+*'Amazon Lumbexyard. Frequently Asked. Questions," AWS.Amazon,corno https://aws,amazon.corn/lumbexyaxd/faq/, accessed January 2019.
+2 Nick. Kolakowski, "Amazon's Streaming Game Ambitions Could Prove Great for Devs," Dice Insights, January 14, 2019, https://insights. dice.corn/2019/01/14/amazons-streaming-game-ambitions-prove-great-devs/, accessed January 2019.
+~ Brian Crecente, "The Future is Unreal (Engine)," Polygon,January 2019, https://www.polygon.corn /a/epic-4-0/th-ef.utuxeis-unreal-engine,. accessed January 2019.
+t~ Austen Goslin, "Foxtnite Has 783 Million Monthly Players, According to Epic," Polygon,September 20, 2018, https://www.polygon.corn/fortnite/2018/9/20/17884036/hcw-many-fortnite-monthly-players-2018,. accessed March 2019.
+
+CONFIDENTIAL
+
+DX-3710.033
+
+EPIC 03363759
+
+Epic Games
+"Nearly 50/a of Devs Support Unionizatian, Per New GDC State of the Industry Report," Game Developers Conterence, January 23, 2019, https://gdconf.corn/news/nearly-50-devs-support-unionization-new-gdc-state-industry-report, accessed Febxuary 2019. 186 Matt Bertz, '"Tim Sweeney Answers Questions About the New Epic Games Store,'"Gtrrne.informer,December 4, 2D18, https://www.gameinformer.corn/'2018/12/03/ tim-sweeney-answers-questions-about-the-new-epic-games-stare, accessed February 2019.
+Ben Kuchera, "Epic Games Wants to Convince Your Exclusives are Great for PC Gaming," Polygon, January29, 2019, https://www.polygon,corn/2019/1/29/18200893/epic-games-stares-team-metro-exdusives, accessed February 2019. t88 "Can We Please All Boycott the Epic Games Store2 It's Full On Anti-Consumer." Reddit.corn, January 2019, https://www,redditaom/r/pcgaming/comments/akwwqg/can we please all boycatt the epic~ames store/,accessed February 2019.
+Stefanie Fagel, "Epic Games Is Woxking on a Review System far Its Stare," Vnriety,Januaxy 31, 2019, https://vari'ety.corn/2019/ gaming/news/epic-games-stare-getting-review-system-1203125012/, accessed Febxuary 2019.
+Alessio. Patumba, "'Epic's Tim Sweeney 'Defends Epic Games Store and Himself, Says Exdusives Are a Legitimate Way to Campete," Wccftech.corn, February 2, 2019,,https://wccftech.cam/tim-sweertey-defends-epic-games-store/,,accessed Febxuary 2019, t4t Fortrii te's website foxAndroid users, https //wwwepicgaxnescom/fartnite/ enUS/mobile/android/get started, accessed. Febxuary 2019,
+"App Store Review Guidelines," Apple, https;//develaper.apple,corn/app-store/review/guidelines/ ¹objectionablecantent,accessed February 2019.
+~ "Fortnite Crossed Nearly Half a Billion Dollars Last Year on iOS Sensor Tower, January' 7, 2019,, https://sensortower,corn/blog/fortnite-moMe-revenue-2018, accessed Febxuary 2019.
+t~ Manish Singh, "Netflix Permanently Pull iTunes Billing fox New. Users,"' VentureBeut,December 28, 2018, https://venturebeat.corn/2018/12/28/netflix-pexmanently-pulls-itunes-billing-for-new-users/, accessed. Febxuaxy 2019, t~ "Video Gaming" s Epic Battle in the 'Cloud," Morgan Stanley' Equity Research, November 19, '2018, https://www.maxganstanley.corn/ideas/global-gaming-console-2019, accessed February 2019. 146 Kevin Webb,,"Sony Says Cloud gaming Could Be a Future Threat to Its Business, But It's Confident People Will Keep Gaming on the PIayStatian," BusinessInsider, February 7, 2D19, https://www.businessinsidex.corn/sony-says-cloud-gamingfutuxe-threat-ta-playstation-business-2019-2, accessed February 2019. 147 ' Project xCloud; Gaming With You at the Center," Micrasoft Blog, October 8, 2D18, https://blogs.microsaft.corn/blag/2018/10/08/praject-xcloud-gaming-with-you-at-the-centex/, accessed February 2019. 148 Kevin Webb, "Google's New. Video.-Game Streaming Service Could Mark the Beginning of the End far Gaming Consoles," Busi ness Insi der,November 10, 2018, https: // w w w.businessmsider.corn/ google-projectstxeam-cloud-service-could-markbe~ g-e n d -game-consoles-2018-10, accessed February 2D19.
+Jessie Toonkel and Kevin McLaughlin, "Amazon Developing Game Streaming Service," 1IreInformotion,January 10, 2019, https://www.theinfaxmation.corn/ articles/amazon-developing-game-streaming-service, accessed Februaxy 2019.
+Brendan Sinclair, "Industry Has Became Less Hit-Driven, More Dependable -- Ubisoft," Gameslndustry.biz, Febxuary 18, 2016, https:.//www.gamesindustry.biz/articles/2016-02-18-industry-has-become-less-hit-dxiven-more-dependable-ubisoft,, accessed 'Februaxy 2019.
+Sarah Needleman, "A Common Foe as Videogame Stocks Stumble: 'Fortnife'," Wnll Streef Journal, February 6, 2019, https://www.wsj.corn/articles/a-common-foe-as-videogame-stocks-stumble-foxtnite-11549481589, accessed February 2019. '52 Ibid,
+Cal Jeffrey, "EA Is Planning Apex Legends ta Go Mobile, Cross-Play," TechSpot.corn, Februaxy 6, 2019, https;//www,techspot.corn/news/78621-ea-plans-mobile-versions-apex-legends-cross-play. html, accessed February 2019.
+Allegra Frank, "ApexLegendstops.50M players in first month," Polygon,March 4, 2019, https:// www, polygon.corn /'2019/3/4/18249837/apex-legends-50-milialn-playexs,accessed.M arch 2019.
+
+CONFIDENTIAL
+
+DX-3710.034
+
+EPIC 03363760
+
+Epic Gilmes
+
+719-494
+
+Dean Takahashi, "Epic Games' Tim Smeeney Fears The Metaverse Will Be a Proprietary Technolo@r," Venturt.:BeatM, ay 15, 2017, https://venturebeat.corn/2017/05/15/epic-games-tim-sweeney-fears-the-metaverse-mill-be-a-proprietary-technology/, accessed February 2019.
+res Sarah Needleman and Anne Steele, "Fortnite-Marshmello Mashup Showcases New Avenues for Games, Music," W~ll Street
+Journal,February 9, 2019, https:// mmm.msj.corn/articles/'a-glimpse-of-fortnites-future-music-and-dancing-without-the-~ 11549720800, accessed February 2019; Alyssa Newcomb,," 'Fortrii te'H osted a Concert ~. -- And 10M People Watched," NBC Nems, February 4, 2019, https;//www,nbcnews.corn/business/business-news/fortnite-hosted-concert-online-10mpeople-.watched-n966606, accessed. February 2019.
+5 "Epic Games Welcomes 3Lateral to Unreal Engine Team," UnreaiEngine.corn, January 23, 2019,, https://mmm,unrealengine,corn/en-US/blog/epic-games-welcomes-31ateral-to-unreal-engine-team, accessed February 2019.
+~ Dean Takahashi, "Epic Games' Tim Sweeney Fears The Metaverse Will Be a Proprietary Technology,," Venture BestM, ay' 15, 2017,https:// venturebeat,corn/2017/05/15/ epic-games-tim-sweeney-fears-the-metaverse-will-be-a-proprietary-technology/, accessed February 2019.
+'59 ibid.
+Brian Grecente, "Lights, Camera, Graphics: How Epic Helps Hollywood," Polygon,January 2019, https://mwm.polygon.corn/a/epic-4-0/lights-camera-graphics-how-epic-helps-hollywood, accessed.February 2019,
+
+CONFIDENTIAL
+
+DX-3710.035
+
+EPIC 03363761
+
+

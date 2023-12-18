@@ -1,0 +1,356 @@
+2/11/2021
+
+macOS - Security - Apple
+ecurit . Built ri htin.
+We design Mac hardware and software with advanced technologies that work together to run apps more securely, protect your data, and help keep you safe on the web. And with macOS Big Sur available as a free upgrade, it's easy to get the
+most secure version of macOS for your Mac.*
+
+PLAINTIFF
+U.S. District Court - NDCAL
+4r20-cv-05640-YGR-TSH
+Epic Games,Inc. v. App/e Inc.
+, ~PX. 741
+Date Entered By
+Exhibit PX 741
+
+https://www.apple.corn/macos/security/
+
+PX-0741.1 1/10
+
+2/11/2021
+
+macOS - Security - Apple
+
+More secure har ware means more secure software.
+
+https://www.apple.corn/macos/security/
+
+oo
+
+·
+
+·
+
+IIO
+
+8
+
+On My Msc E AS on My Mac fw Notes H Aa things travel
+I To-Dos LC Keep for later D Work Stuff Vi Recently Deleted
+
+To do this week:
+
+9.41 AM Grocery shoppina
+
+13
+
+D Notes
+
+8 8 Dan i el'9 birthday party 9:41 AM call party supply shop. CT Notes
+
+Reference letter for Lee
+9:ak AM Locked CS Notes
+
+contractor erecting 837AM Gory says theinspector will,,
+CS Notes
+
+Aa Qu %
+
+8 " U - O5 O' Q
+
+This note is locked
+
+PX-0741.2 2/10
+
+2/11/2021
+
+0 New Folder
+® · a
+· e
+
+macOS - Security - Apple
+
+4 Tropical vacation ideas Yesterday BeachProperties, Southco... ST Notes
+LA conference notes Yesterday Sales in emerging markets W Notes
+Lrthdscaplng Monday Lookinta flagstone for garde... D Notre
+New York dining greatest hits Saturday Make reservations for Sunda.. SS Notes
+
+passwordto view thisnate. knter Password
+
+10
+
+i l l 'P ®
+
+'
+
+·
+
+·
+
+Apple M1 chip. A shared architecture for security.
+The Apple M1 chip with built-in Secure Enclave brings the same powerful security capabilities of iPhone to Macprotecting your login password, automatically encrypting your data, and powering file-level encryption so you stay safe. And the Apple M1 chip keeps macOS secure while it's running, just as iOS has protected iPhone for years.
+
+Apple helps you keep your Mac secure with software updates.
+The best way to keep your Mac secure is to run the latest software. When new updates are available, macOS sends you a notification -- or you can opt in to have updates installed automatically when your Mac is not in use. macOS checks for new updates every day and starts applying them in the background, so it's easier and faster than ever to always have the latest and safest version.
+
+https://www.apple.corn/macos/security/
+
+PX-0741.3 3/10
+
+2/11/2021
+
+macOS - Security - Apple
+
+afel run apps like
+
+never efore.
+
+Hame TOO I. 0 R a n i s
+
+Scans
+
+rrv Applications m Osstdop a oocurnsnts Oc Oownloads
+
+dr Creative Cloud Files
+
+My Computer
+
++i Adobe Bland worl
+yorottto lnl
+
+"Acrobat Oe instmmr" would tike toaccessfees In yourD ocuments
+raider.
+
+Oon' t A low
+
+OK
+
+OccumentCloud
+t cstic Add an Account St Network
+
+For Viewing For Review For Signature
+
+Ig Music Iet Fbotos Eg Movies
+
+Options
+
+Q .raven
+
+O g ·
+
+Cancel Open
+
+https://www.apple.corn/macos/security/
+
+1O
+·· e·
+
+e Qjgk
+
+PX-0741.4 4/10
+
+2/11/2021
+
+Protection starts at the core.
+The technically sophisticated runtime protections in macOS work at the very core of your Mac to keep your system safe from malware. This starts with state-of-theart antivirus software built in to block and remove malware. Technologies like XD (execute disable), ASLR (address space layout randomization), and SIP (system integrity protection) make it difficult for malware to do harm, and they ensure that processes with root permission cannot change critical system files.
+
+macOS - Security - Apple
+Download apps safely from the Mac App Store. And the internet.
+Now apps from both the App Store and the internet can be installed worry-free. App Review makes sure each app in the App Store is reviewed before it's accepted. Gatekeeper on your Mac ensures that all apps from the internet have already been checked by Apple for known malicious code -- before you run them the first time. If there's ever a problem with an app, Apple can quickly stop new installations and even block the app from launching again.
+
+Your ata. Your rules.
+
+https://www.apple.corn/macos/security/
+
+Today On This Oay
+· Ag Entries · JOumsl · Sirthdsys · Trsuel · Weddings · Book Club · Ca rJournel · Fi shing Tdips
+
+os IIO Ci
+S uo Moo Tue W e d T h u F ri S a i
+June 2020
+
+TriP to NYC
+
+July 2020
+S 7S
+(g 72 13 'le
+TS 2Q 2'I 22 26 27 2S 2S
+August 2020
+
+W e hadagreattimeinNYCandatewaytoomuch.Saturdaynightweme tJess theroofofherhulldlngandsawthemostAMAEING sunset!!
+OeyO ne"would liketo useyour ourrent looation,
+This enables youlo add looalioo aed swsrher To eouies.
+
+PX-0741.5 5/10
+
+2/11/2021
+
+Settings
+gyle 0 ggglgd U gg d 1 P
+
+macOS - Security - Apple
+
+2 34 0 3 10 11 12
+10 17+[g
+23 24 2 3 20
+30 3 'I
+
++ 13 0 1S
+20 21 22
++ 27 23
+
+SeptemBer 2020
+
+Jig 0 7 6 0
+
+11 12
+
+1O
+
+·· 0 ·
+
+<y y As
+
+Stay in control of what data apps can access.
+Apps need your permission to access files in your Documents, Downloads, and Desktop folders as well as in iCloud Drive and external volumes. And you' ll be prompted before any app can access the camera or mic, capture keyboard activity, or take a photo or video of your screen.
+
+FileVault 2 encrypts your data.
+With FileVault 2, your data is safe and secure -- even if your Mac falls into the wrong hands. FileVault 2 encrypts the entire drive on your Mac, protecting your data with XTS-AES 128 encryption. Mac computers built on the Apple M1 chip take data protection even further by using dedicated hardware to protect your login password and enabling file-level encryption, which developers can take advantage of -- just as on iPhone.
+
+https://www.apple.corn/macos/security/
+
+PX-0741.6 6/10
+
+2/11/2021
+
+macOS - Security - Apple
+afer rowsin
+
+with afari.
+
+https://www.apple.corn/macos/security/
+
+ft architectureoutlook.corn
+
+oj + 'Q
+
+Oo 6
+General Tees
+
+Passwords
+m 9 Q 8 Lk © W jae
+A u roral passwords scarce security privacy weosass Extensions Advanced
+
+detect pssswowbcompromised byknowndotsleaks
+
+Wsbsits
+; amedicanairllnes.corn architectureoutlosk.corn
+8 crateandbarrel.corn i mint.corn rd netflix.corn I rei.corn rb tarttetxmm Ct wholefoods.corn
+
+User name
+julia.tatmaktictoudmom julia.talmeOicloud.corn jolts.tatmaksictoud.corn julia.talma@ieloud.corn jutte.tatmarbictoudwom julia tslmaolcloud corn juke.talmacdictoud.corn julia,tatma@ictoud.corn
+
+Password
+
+,es ch
+
+decudty re'commendations available
+
+bstads.
+
+yid d
+
+Remo v e ry
+
+xgg "7 6
+·· e·
+
+PX-0741 .7 7/10
+
+2/11/2021
+
+Designed to protect your privacy.
+
+macOS - Security - Apple
+Automatic protections from intruders.
+
+Online privacy isn't just something you should hope forit's something you should expect. That's why Safari comes with powerful privacy protection technology built in, including Intelligent Tracking Prevention that identifies trackers and helps prevent them from profiling or following you across the web. A new weekly Privacy Report on your start page shows how Safari protects you as you browse over time. Or click the Privacy Report button in your Safari toolbar for an instant snapshot of the cross-site trackers Safari is actively preventing on that web page.
+
+Safari uses iCloud Keychain to securely store your passwords across all your devices. If it ever detects a security concern, Password Monitoring will alert you. Safari also prevents suspicious websites from loading and
+warns you if they' re detected. And because it runs web pages in separate processes, any harmful code is confined to a single browser tab and can't crash the whole browser or access your data.
+
+ecure our Mac. From an here.
+
+https://www.apple.corn/macos/security/
+
+pi CT
+PX-0741.8 8/10
+
+2/11/2021
+
+macOS - Security - Apple
+
+r g l ".,".: r*.
+a ea
+
++fm
+Ethan'a MBOBootcPro
+Terminal 3, 780 8 Airport Blvd San Francnco, CA galas lm nore ago OO
+
+plar soolld off
+
+Dfracttona
+Omi · lmin
+
+Notlffoadooa
+
+Find your missing Mac with Find My.
+The Find My appcan help you locate a missing Maceven if it's off line or sleeping -- by sending out Bluetooth signals that can be detected by nearby Apple devices. These devices then relay the detected location of your Mac to iCloud so you can locate it. It's all anonymous and encrypted end-to-end so no one -- including Appleknows the identity of any reporting device or the location of your Mac. And it all happens silently using tiny bits of data that piggyback on existing network traffic. So there' s no need to worry about your battery life, your data usage, or your privacy being compromised.
+
+Keep your Mac safe. Even if it' s in the wrong hands.
+All Mac systems built on the Apple M1 chip or with the Apple T2 Security Chip support Activation Lock, just like your iPhone or iPad. So if your Mac is ever misplaced or lost, the only person who can erase and reactivate it Is you.
+
+https://www.apple.corn/macos/security/
+
+PX-0741.9 9/10
+
+2/11/2021
+
+macOS Security
+Learn more about Apple Platform Security >
+
+macOS - Security - Apple
+iCloud Security
+Learn more about icloud Security >
+
+* View macoS Big Sur upgrade requirements. Some features require specific hardware and software. For more information, see "Feature Requirements" at apple.corn/macos/how-to-upgrade.
+
+4
+
+m ac OS
+
+Shop and Learn Mac iPad iPhone Watch TV Music AirPods HomePod iPod touch Accessories Gift Cards
+
+Secur i t y
+Services Apple Music Apple TV+ Apple Fitness+ Apple News+ Apple Arcade iCloud Apple One Apple Card Apple Books App Store
+Account Manage Your Apple ID Apple Store Account iCloud.corn
+
+Apple Store Find a Store Shop Online Genius Bar Today at Apple Apple Camp Apple Store App Refurbished and Clearance Financing Apple Trade ln Order Status Shopping Help
+
+For Business Apple and Business Shop for Business
+For Education Apple and Education Shop for K-12 Shop for College
+For Healthcare Apple in Healthcare Health on Apple Watch Health Records on iPhone
+For Government Shop for Government Shop for Veterans and Military
+
+Apple Values Accessibility Education Environment Inclusion and Dwersity Privacy Racial Equity and Justice Supplier Responsibility
+About Apple Newsroom Apple Leadership Job Opportunities Investors Events Contact APPle
+
+More ways to shop: Find an Apple Store or other retailer near you. Or call 1-800-MY-APPLE. Copyright © 2021 Apple Inc. All rights reserved. Pri v acy Policy T e rms of Use S a les and Refunds L e ga l Si t e Map
+
+United States
+
+https://www.apple.corn/macos/security/
+
+PX-0741.10 10/1 0
+
+

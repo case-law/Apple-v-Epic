@@ -1,0 +1,163 @@
+From
+
+Dara Leung
+
+Sent:
+
+Wed, 19 Feb 2020 00:02: 15 +0000 (UTC)
+
+To:
+
+Cc:
+
+Joe Babcock
+
+; Randy Gelber
+
+Phan (san.phan@epicgames.corn); Project E2 Credit Suisse
+
+Proj ectEmpire
+
+Subject:
+
+Re: QI A - Written Responses
+
+Attachments: E2 - QIA Written QKA (2020.02.18).docx;E2 - QIA Written QKA (2020.02.18).pdf
+
+; San
+
+Hi all, Attaching the latest set of QIA written responses. If this is good by John and AK, let's go ahead and send.
+
+Thanks, Dara
+
+Uoittxt Sta~ District Cttttrt Northcm DIstflct of CsllifotttN
+Case No. 4:29-cv-0%4tjt- It GR
+
+On Mon, Feb17,2020 at7:20 PM Dara Leung
+
+wrote:
+
+Thank you - yes, will add. So focused on enterprise piece I forgot that part on games.
+
+Exhrtbtt No, BX 3359
+
+On Mon, Feb 17,2020 at7:06 PM John Salter
+
+wrote:
+
+On I and 4 I think it would be helpful to communicate the point we discussed on the call regarding pipeline. We only saw the pipeline impact of Fortnite (other publishers realized they need feature parity and cross platform functionality) on the engine business at the end of 2018 and throughout 2019 (Zynga, SquareEnix, Ubi, etc). While those projects and others have started they are 2 to 3 year development timelines so we will start to see the royalty contributions from those games over the next couple of years and contribute to growth in this segment of our business.
+
+John S. Salter Partner The Raine Group
+
+From: Dara Leung
+
+Sent: Monday, February 17, 2020 2:04:50 PM
+
+TotJoe Babcock
+
+Randy G
+
+; Project E2 Credit Suisse (
+
+San Phan ); projectEmpire
+
+Subject: Re: QIA -- Written Responses
+
+John, thanks for the input on the engine section. Copying updated engine response directly into email for ease of reference and attaching v.02. Would value any additional input from you and Todd.
+® David / AK - please let us know of any comments on the engine section as well Thank you, Dara
+
+Unreal Engine 1. P l ease explain why License 8 Royalties revenue is expected to return to growth over the next two years, with significant acceleration projected in 2021
+a. W e will be announcing the launch of UE5 at GDC this March and the full run-rate impact of the next Unreal Engine generation will be fully realized in 2021. Please see response to question ¹4 below on how the launch of UE5 will impact our pricing model and drive growth 2. P l ease explain the drivers behind the Enterprise revenue line a. T o day we are focused on driving adoption in enterprise vs monetization. Enterprise use of Unreal began in 2016-2017, when we made theengine free and we observed,somewhat unexpectedly, non-gaming businesses
+using Unreal for their business needs. b. A s a result, our monetization of Enterprise is early and driven by taking on the right customers that will enable
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3359. 001
+
+EPIC 04540976
+
+us to (1) learn more about how that industry vertical is using Unreal today, (2) help us build out the tools and frontend to further penetrate that industry vertical and (3) build out the right sales team for that vertical c. O n e example of this is that took on a single digit million dollar contract from an auto OEM. While there were
+
+other customers we could have taken on to increase enterprise revenue for 2020 -- it came at an opportunity cost to have to support this client and the expense of furthering our capabilities in the auto OEM vertical, where we
+
+expect much greater long term revenue potential and want to dedicate the resources both on the business development / sales side and the development / user-interface / user-experience side.
+
+o Please explain why this revenue is expected to grow rapidly in 2021 (145% yoy) We are building out an enterprise business development, technical account
+management and sales team by vertical in 2020. Enterprise sales are long cycles that require a bespoke team by industry vertical. We are hiring 75 people in 2020 and we expect to see early results of that in
+
+2021.
+
+We are also furthering our Engine Support and Technical Account Manager
+
+program. Our seats and enterprise contracts are a good solution to enter an account and support an initial pilot of using a gaming engine for other enterprise purposes -- but as we want to accelerate adoption, we
+
+are focused on selling account management and support to get deeper into these accounts. Our offering is still being refined but it will be between $100K -- $1mm per year support program, that will (1) cover its costs and (2) allow Epic to go deeper and engage more directly with how enterprises use our engine. o Please breakdown historical and projected enterprise revenue by specific vertical markets
+
+In the historical period, enterprise revenue has been concentrated in primarily large tech partnerships (Apple and Google) and auto OEMs (GM and Ford)
+iv. In the forecast period, please see the Deloitte deck VDR ¹1.4.2.4 on the verticals we plan to attack. We believe our largest opportunities are Auto, AEC and M8 E, where we have deep penetration currently.
+
+3. P l ease explain how Enterprise can become 60-70% of total engine revenue within 5 years when it is currently 10%
+
+and projectedto become 18% by 2021, as discussed inthe 'success' case a. A s shown during your visit to Cary, NC -- the use cases for a gaming engine such as Unreal Engine for
+
+enterprise use is vast and in its infancy of (1) adoption, (2) productizing the tech and user interface for enterprise use and (3) monetization
+
+b. T h e overall TAM for 3' party enterprise 3D software is $20-$25bn in 2019 and growing at 20-25% CAGR
+
+(see Deloitte deck, page 29) compared to the TAM for 3' party gaming engine today (which we can assume is ($1bn between Epic, Unity and other engines combined) c. W h i le, in the short run, we believe we can drive revenue growth to the Games Engine segment as described below in the response to question ¹4 -- in the long run, we believe the real-time, 3D capabilities of the Unreal Engine will have enterprise applications that enterprises will be willing to pay for that surpass what is available on the gaming side. 4. P l ease explain why revenue growth in every revenue line in the Games Engine segment is expected to accelerate meaningfully in 2021 a. W e will be able to accelerate the games Engine Segment meaningfully in 2021E due to the launch of UE5
+(next generation of the Unreal Engine) this year at GDC, and gaining the full year impact of that in 2021E. UE5 will enable us to (1) reset the pricing structure and (2) further penetrate high end mobile games. b. O n the pricing side, Unreal Engine 5 for our gaming business as Fortnite has reset the industry standard for
+(1) high quality, immersive game play, (2) cross-plafform and cross-progression and (3) highly scalable engine capabilities. Whereas we have previously monetized the Unreal Engine for gaming through a combination of (1) royalty share and (2) buy-outs and buy-downs -- we believe that we can stick more firmly to a 5% gross revenue share and not be reliant on discounts or buyouts to drive Engine sales with AAA game developers. This drives meaningful impact to our gaming revenue because sharing in royalty upside allows Epic to participate in upsideas demonstrated by our best years in Gaming Engine revenue of 2017 and 2018, where we received outsized
+returnsfrom Rocket League and PUBG success and our5% share inthose games. c. O n the mobile side, to compete with Unity, we have also amended our EULAs such that we are no longer charging a royalty until $1mm of revenue has been crossed. This way, rather than lowering our costs to Unity's $1,500/ seat model -- we are allowing mobile developers to capture the first $1mm of annual revenue and then start sharing in revenue thereafter. 5. P l ease explain why the projected Enterprise revenue for 2021 is so small ($25m) relative to its TAM a. T h ere are upfront investments we will need to make by vertical segments in (1) front end user tools and (2) business development team to effectively attack each business segment. It has to be vertical by vertical specific and will take time to build out organically (hiring sales people and building the front end user interfaces) and through MBA (TwinMotion is a front-end solution for architects that is built on top of the Unreal Engine) b. G i ven our resources with Fortnite, we have been privileged to focus our people resources on adoption vs monetization in the short run. When we take on new enterprise relationships, they are based on relationships that will provide us the greatest understanding and insight into how to build out our engine tech and sales and business
+development team around supporting the given industry vertical. o Please provide details on TAM and market share evolution for Unreal Engine, Unity, internal software
+
+Gaming: TAM for 3 p a rty gaming engines are shifting to Unreal Engine's favor as the cost to support an internal tech team becomes increasingly expensive to maintain. Additionally, as the gaming industry consolidates and revenue concentrates towards the largest IPs -- the need for high quality immersive game play, cross-plafform and cross-progression capabilities and highly scalable engine becomes table stakes paving the way for Unreal Engine adoption. From a TAM
+perspective: Unreal Engine will continue to dominate the high end, Unity will be mass and be most
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3359. 002
+
+EPIC 04540977
+
+penetrated in mobile and internal tech will shift towards 3 p a rty. Enterprise: on the enterprise side, please see pages 29-32 for the market
+segments that Epic is going after. In most cases, we are not focused on displacing existing solutions but rather on complementing existing tools with real-time, 3d, visualization capabilities. Compared to Unity, we view our competitive advantage on the enterprise side
+1. I n organic growth: we are able to use MBA as a tool to acquire the best teams, technology and pipeline in certain areas to accelerate engine development 2. L o ng term: our financial resources from Fortnite allows us to focus on adoption and solving for enterprise customers real issues vs having to force monetization immediately (i.e. creating gates to accessing our tech) 6. P l ease provide projections on where the Company sees user growth trending, particularly for enterprise verticals a. A u to: growth in automotive, both users and monetization, is the largest near-term opportunity enterprise opportunity for Unreal given existing penetration and use cases today. Unreal is being used for real-time rendering of car design enabling multi-user collaborative reviews, advertising and marketing, car configuration for customers, autonomous driving simulation and human machine interface. We have the nation's top two auto OEMs as paying customers and expect to continue expanding user penetration and monetization over time. b. M e dia and entertainment: is the 2nd l a r gest area of enterprise growth as the post-production costs of film and TV continue to increase. Unreal is already being used in previsualization and virtual production, animation, realtime production and broadcast and live events. c. A r c hitecture: growth in architecture is driven by our Twinmotion product -- which is a real-time, 3D architectural visualization tools built on top of Unreal. It provides a simple to use tool to plan architecture, construction, urban planning and landscaping projects -- that can be real time configured to show different layouts, seasons, weather patterns, furnishings etc. Since closing on the acquisition in early 2019, Epic made the product free and grew the user base from 4,000 to over 350,000. Twinmotion will be Epic's trojan horse into architecture firms, by having a simple to use tool that anyone can use, but built on-top and connected into the Unreal Engine for highly technical architects to plan construction projects. d. Government and Defense: 7. P l ease provide an estimate of the number of developers worldwide that use the Unreal Engine a. 9.7mm have downloaded theUnreal Engine and we have -320K monthly active users as ofDecember 2019 8. H o w many Epic engineers and employees are dedicated to the Unreal Engine business? a. -560 employees (of 2,000 total at Epic) are dedicated to the Unreal Engine business. Of Epic's -450 engineers, we have 210 dedicated to the Unreal business (more than any other business segment including games where we have -170) b. R e sources are highly fungible, people are allocated based on the highest business priorities at any given time 9. W h at are the direct costs and operating expenses associated with the Unreal Engine business? a. T h ere are almost no direct costs associated with operating the Unreal Engine other than marketplace revenue share (of 88/12) -- but otherwise the engine business is 100% gross margin and we have -$120mm-$150mm of opex for engine
+Enter rise Strate O v e rview
+Epic Games has been developing and monetizing the Unreal Engine since its founding in 1999. The Unreal Engine was designed
+to be a game engine for 3 p a rty game developers and for Epic developed games (Unreal Tournament, Gears of War, Fortnite, etc).
+Epic made the engine free in 2016-2017 and observed non-gaming companies using the Unreal Engine in unexpected ways across industry verticals including: film and TV, automotive manufacturing, architecture and design, healthcare, oil and gas, etc. Unlike other visualization and collaboration tools used by these enterprises, gaming engines work in real-time. What the next scene in a game looks like for a player is dependent on the actions the players took before, no two player experiences are the same and the gaming engine technology must support these real-time changes and iterations. It requires a far more complex digital visualization technology than what is needed for linear TV or rendering a car.
+Epic has monetized enterprise usage in bespoke ways including on a contract basis (i.e. General Motors will contract usage of the Unreal Engine for a certain project) and seats basis (i.e. $1,500 per seat). The primary product of Unreal continues to be free and often monetization is at the request of the customer (enterprises require there to be a contract in place before being able to
+leverage a 3 p a rty technology).
+As we build up enterprise adoption and the business development team to support enterprise sales, we anticipate being able to monetize engine for enterprise in a few ways:
+· Se a ts:Unity currently monetizes their game engine through a per user / per year model of $1,500/seat. We anticipate doing this in certain verticals where we have a productized industry specific offering such as architecture with our TwinMotion software. We made the software free to drive adoption and will begin charging an annual fee for use. · Tec h n ical account su or t :Red Hat and other open source software products that sell into the enterprise community have drove monetization and adoption through Technical Account Managers that integrate deeply into a customer's organization to help understanding of how to use the engine and also adoption. · Di g i tal Assetsi:n media and entertainment, millions of dollars are invested to create digital assets (i.e. animated characters, landscapes, sound clips) that are used for one tv show or movie and then recreated by another studio for the
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3359. 003
+
+EPIC 04540978
+
+next tv show or movie. We have already built out a marketplace for digital assets developed on Unreal Engine, and believe as more content is created by media and entertainment companies, these can be sold through the marketplace (1) driving revenue for Epic and the creators and (2) create a porffolio of assets that other creators can leverage.
+· Ent e r p r ise licensing: Ultimately, our enterprise clients will expect our pricing to mirror how they are used to paying
+
+for 3 p a rty technology and software and will likely evolve into a recurring licensing model (similar to AWS) based on
+
+usage.
+
+On Mon, Feb17,2020 at1:02 PM Dara Leung
+
+wrote:
+
+Epic, Raine, CS (concurrent review), Please see attached draft responses for the written QIA questions.
+
+John, Todd, AK, Kenny, Jennifer - would want your help particularly on the Engine questions (pages 4-6).
+
+Thank you, Dara
+
+Dara Leun
+
+Dara Leun
+
+Dara Leun
+
+Dara Leun
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3359. 004
+
+EPIC 04540979
+
+

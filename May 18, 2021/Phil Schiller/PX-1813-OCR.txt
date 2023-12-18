@@ -1,0 +1,116 @@
+From: Sh aan Pruden To: Ro n Okamoto
+Subject: 2.9 PM Weekly Report Received(Date): Mon, 09 Feb 2009 15:34:39 -0800
+Cc: Sh aan Pruden Date: Mo n , 09 Feb 2009 15:34:39 -0800
+
+PLAINTIFF
+V.e. otsnfst Csurl - stDCAL
+4:20sv4$040-YGR-T8H
+Spin Games,fnn. u.Appfetrm.
+Ex,Ne. PX-1813
+cuts Entered ep
+
+CREA11VE
+Wins
+- Ocarina received great press this week in the SF Chronicle and the New York Times.
+- NBC Universal has shipped their first three apps for iPhone: Cylon Detector, Sci Fi Wire Reader, and Access2Go (Access Hollywood.)
+- FlightTrack Pro now on App Store (pro version of FlightTrack); now includes integration with TripIt.
+-- Google Earth 5.0 released -- adds more detailed ocean data and history of images back through time.
+- Kraft Foods iPhone story video now 'live' on Apple Enterprise site: h / /w w w a l e c om/i hone/cute r i se/krafi-foods html
+-- BlackMagic has confirmed their first 64-bit kernel extension drivers are working on the Snow Leopard seed.
+Challenges
+- Digidesign currently blocked on Snow Leopard testing due to a couple of low-level issues. Working with DTS on daily exchanges trying to help them.
+- Studios are ratcheting up their efforts to defend their property rights by singling out offending apps on the App Store.
+- Sieinens/UGS unable to test NX with latest Snow Leopard seed 10A261 due to Xl 1 crashing.
+
+- Strange message on the iPhone during some updates implies developers may charge users for updates to existing apps. Escalated to iTunes Engineering.
+-Coupons,Inc.acquired FreeS@te (makers ofGrocery iQ) Coupons, Inc.iseagerforresponse sincepayments for the Grocery iQ app areno longer flowing (FreeStateaccount has been closed). Working with Apple Legal on resolution.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-1813.1 APL-EG 08033928
+
+EDUCATION/SCITECH
+Pins
+- ESPN Cameraman Deluxe paid for version with additional picture packs.
+- Future Apps shipped iSpeak Dutch, German, Italian, Spanish, Portuguese, Swedish, Polish, French based on the Acapela voices.
+Challenges
+Modality has started to lose some bigger licensing deals to Skyscape who sells content &om within their free app. Working with Skyscape on updating their app to be compliant with current T8cCs.
+- Amazon is frustrated by the lack of feedback regarding their submitted Kindle app for iPhone.
+BUSINESS
+Pins
+- Safe Eyes: Great browser app that utilizes a bypass filter to intercept and block offensive websites. Safe Eyes (for Home) edition has won global recognition and awards.
+- Cisco: GIST - Global Internet Speed Test - test your connection, be it Edge, 3G, or wifi now on App Store.
+- AOL: new app ICQ released worldwide on 1/19; in less than a week, hit "¹I free app" in Germany, Israel, Czech Rep., and Russia.
+- Handmark: The upside in sales for being featured on iTunes this week was 8 fold.
+- WebMD: Great meeting, very enthusiastic developer eager to create many iPhone apps for patients and practitioners.
+- iProtect: Looking at various distribution models to determine how best to show their application. First site will be at McDonalds for tracking their incoming &esh products.
+- Spring Medical: Met with VAR and ACN groups to see if we can foster some additional channel opportunities for medical practices to run EMR/PM on Macs and prescribing on iPhone. Also working on customer profile of same workflow.
+- Subrosasoft: New app for the Mac titled ComputerGuardian. Security system for laptops. If your machine senses any changes (new network/users) it will begin eMailing you to let you know what has changed. Includes data to be provided to Law Enforcement (IP, ISP info, etc).
+Challenges
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1813.2 APL-EG 08033927
+
+- Callwave: perceived discrepancy between monthly reports and deposit statements.
+- Skyscape: Need to remove in-app commerce capabilities, working to have them change their model for providing medical reference.
+CONSUMER
+Pins - E*Trade is finishing up the external beta of their iPhone application - Sega: - SMB2 going to production. 4 players w / additional mini games. Leader board support. Estimated ship in September. - Sonic at the Winter Olympics. Multiplayer. Target Winter 2010.
+- Olympic medal tracker. - Let's Tap. Free app. 10 minute mini game to promote Wii game.
+- Football Manager.
+- NAMCO:
+- Nice lineup for 2009. Highlights include: Inspector Gadget, Brain Exercise, Ridge Racer, Ace Legions, and many more
+- NGMOCO:
+- Bought www.a t i s m.com to meld with their in-app analytics system
+- Working with Courtnee for gift card promo (ala Spore and Best Buy)
+- Working with iTunes and CBS Sports to submit CBS Sports Mobile app and a March Madness live game-streaming app.
+- NBA/Turner will be releasing NBA.corn All Star Live app on Feb 10, which enables the user to watch live streams of the All Star games from any one of four camera angle options provided.
+Challenges - Monitoring the exposure given to third party sports apps by many of Apple's marketing arms. There is strong interest by many throughout the company to feature sports apps in various ways, and it is a constant effort to educate everyone involved about the intricacies of the sports segment
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1813.3 APL-EG 08033928
+
+with respect to usage of marks and IP.
+Trends - IDC reports that iPhone sales grew 101% from 2007 to 2008, while the smartphone industry saw 68% year-over-year growth. The iPhone placed sixth among mobile phone vendors in the US with 4% of the market. In the smartphone segment, iPhone took 21% of the market behind No. 1 vendor RIM with 46%. A c cording to IDC numbers, iPhone sales made up 1.16% of global mobile phone sales. MAJOR ACCOUNTS
+ADOBE
+Pins
+- Adobe's Photoshop iPhone app - Adobe's After Effects iPhone app
+ChulEenges - Adobe have notified us that we are in breach of some font usage clauses with preview.app
+- Contribute badly broken with Snow Leopard
+- Latest SL seed doesn't give the Flash team every thing they need
+MICROSOFT
+Pins
+- Public beta of Entourage for Exchange Web Services went live. - Microsoft starts providing free POP Hotmail (for iPhone) in a handful of countries. Apple is working on a KB update.
+- SharePoint add-on application private beta (Feb).
+- MacBU will likely sell the Ultimate Steal for $60. A two year subscription to Mac Office.
+- MacBU will sell directly, when they release Try and Buy Office test drive. The code signing issue is being worked around. - Disney: Microsoft now has a workaround for clients to connect to their Windows 2008 Share Clusters. They' re preparing a KB article and Apple Product Marketing and AppleCare will review it. Apple may also do a private KB article for AppleCare and Systems Engineers.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1813.4 APL-EG 08033929
+
+- Microsoft has found some areas where GrandCentral or OpenCL may help. They would like to claim support for the technologies when the launch Office 14. - OS bug affecting Silverlight has a workaround. A Silverlight 2.0.1 will be released.
+- Microsoft Office WEB will support Safari.
+- Microsoft Live Mesh sync will work with Mac.
+- Netflix announces viewer for Mac, utilizing Silvelight.
+- An improvement for Entourage sync with MobileMe was included in the recent 12.1.2 update.
+~Challen es - Microsoft is unable to test the latest seeds of Xcode and Snowleopard. (A Snowleopard fix was made which kills Microsoft compiling.) Providing a root of imageIO with the fix backed out is under investigation. - New Microsoft ads are to started this weekend. (Sissie Twiggs has been given a heads up.)
+- Microsoft's list of Xcode 3.2 "Pl" issues, and the lack of them having milestones for 3.2 resolution, is disturbing. If Microsoft's feedback is a bellwether of developers, as it has proven to be in the past, this, too, is disturbing.
+EVENTS
+- ToyFuir, Feb 15 -18, New York. Developer meetings. Attendees: Felice Liang, Mary Beth Janes. - O'PPI, Feb 16-17, Las Vegas. Developer outreach / recruitment. Attendee: Ron Nydam.
+- PMA, March 3-5, Las Vegas. Developer outreach / recruitment. Attendee: Ron Nydam.
+- Remix Hotel and W'inter Music Conference,March 26-29, Miami, FL. Developer seeding, developer meetings. Attendee: Craig Linssen. - CTL4, April 1- April 3, Las Vegas. Developer outreach, meetings. Attendees: Erik Lammerding, Linda Kim, Larry Moss, Chris Bledsoe, Felice Liang, Cindy Lawrence. - Musikmesse, April 1-4, Frankfuit, Germany. Developer seeding (fully funded by EMEA), developer meetings, iPhone Audio developer event. Attendee: Craig Linssen.
+- HIMSS 2009, April 4 - 8, Chicago. Developer meetings, possible customer event.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1813.5 APL-EG 08033930
+
+Attendees: Liang Hoe, Tyler Stone.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1813.6 APL-EG 08033931
+
+

@@ -1,0 +1,838 @@
+UNITED STA TE S DI STR IC T C OU RT
+
+N ORTHERN D ISTR ICT OF CAL IFORN IA
+
+OAKLAN D DI V I S I ON
+E PIC GA M E S , IN C . , P laint i f f , Count e r - d e f e n d a n t ,
+
+United States District Court Northern District of California
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games,Inc.v.Apple, Irtc.
+
+Exhibit No. DX-3030
+
+Date Entered
+Susan Y Soong Clerk
+
+By:
+
+Deputy Clerk
+
+vs A PPLE I N C . ,
+
+Case N o . 4 : 2 0 - c v - 0 5 6 4 0 YGR
+
+Def e n d a n t ,
+
+10
+
+C ounterclaimant .
+
+I N R E A P P L E I P HONE ANTITRUST L ITIGA TION 13 14
+16 17 18 19 20
+
+Case N o . 4 : 1 1 - c v - 0 6 7 1 4 YGR
+
+(capt i on c on t ' d )
+Veritext Legal Solutions 866 299-5127
+DX-3030. 001
+
+Page 1
+
+DONALD R . CA M E R O N , e t a l ., P laint i f f s , vs
+A PPLE I N C . , Def e n d a n t .
+
+Case N o . 4 : 1 9 - c v - 0 3 0 7 4 YGR
+
+10
+
+Z OOM D E P O S I T I ON O F N I C H O L A S PE N W A R D E N 6 E P I C G A M E S ,
+
+13
+
+I N C' S 3 0 ( b ) ( 6 ) COR P O R AT E R E P R E SENTA T I V E
+
+14
+
+( Reported R e m o t e l y v i a V i d e o 6 W e b V i d e o c o n f e r e n c e )
+
+C hapel Hill, No rth C a r o l ina (D eponent's lo cation )
+
+16
+
+Tuesday , J anu ar y 2 6, 2 021
+
+17
+
+Volume I
+
+18
+
+19
+
+20
+
+S TENOGR A P H I C A L L Y R E P O R T E D B Y :
+
+R EBECC A L ROMA NO f RPR f CSR f CCR
+
+C alifornia CSR No . 1 2 5 4 6 Nevada CC R N o . 8 2 7
+
+Ore go n C S R N o . 2 0 - 0 4 6 6
+
+Washi n g t o n CCR N o . 3 4 9 1
+
+J OB NO. 4 4 3 0 7 6 7
+
+PAGES 1 -- 2 4 8
+
+Veritext Legal Solutions 866 299-5127
+
+Page 2
+
+DX-3030. 002
+
+10
+
+THE CQURT REPORTER: You dc) solemnly state under penalty of perjury that the testimony you are about to give in this deposition shall be the truth, the whole truth, and nothing but the t ruth ~
+THE DEPONENT: 1 do .
+
+09 13 38
+
+Veritext. Legal Solutions 866 299-5127
+DX-3030.003
+
+11
+
+Q. A n d w h e n di d you start your j:ob at
+
+15
+
+Egi n G B171e8~
+
+A; 1 star t e d. in 2Q11,; April -- A p r i l 2 0 1 1 ,
+
+b i,,li e v e .
+
+Q9 16 16
+
+Vcf1tcxt, LcgR1 SQlllt1QI18 866 299-5127
+DX-SGS0.094
+
+sesponsihilities as: the vioe president of e ngineer i n g'2
+A . Z a m z'espon8ible fax':.hte. engineer'lag t.:.earn t hat . - - t h a t . create Unseal. Engine. Z ' m r e ap onaihle f oz 'the engineering 'tBBTR that. v'Qzk 'Qxl F'Qztnlte · A nd, then, moz.e generally, I'm re sp onsible for th e
+DX-SGS0.005
+
+mcneti..ze@ the Unx'ea1. EngineF A Aft;Pz 056 f i28t Tgiliz vH. 6Q128 25 Gf g z & B B
+z 8vRQUB, 1 i c &Q&P6 8 w l l Q U 8 R t 11B Gxl g i x18 8 %8 - - Qx p8 p 5 pox'GROAN Gf 't11'RiK z&vRQU 8 B s R 5'O+'B it'p tG Epi &
+Q . A n d i s t h a t --- l8 that.,,fn perpetuity ~
+
+0 9 3'3. 54 09 "3-2 Q5
+
+11
+
+Vcf1tcxt, LcgR1 SGlllt1QI18 866 299-5127
+13X-SGS0.096
+
+g. Su r e. Z 'm. speaking oolloquially, hut the
+
+point that I 'm getting at i8 Unreal Engine ia a
+
+b usi n e s s ~
+
+A. Tha t ' s r i g ht . U nr e a l E n g ine. ia a
+
+busi.ness.
+
+g
+
+AI16 in order t o P'onthnlle to prod.'1.6& that
+
+ser v i c e ' p E p i c a & e k e 'to make a p r o f z.' t Gn U n r e a l
+
+Engine through the monet ization: model that ve
+
+'51.aeusB& 5 E ' a r l i e r ~
+
+Q9 · 37 · 4a Q9 · 37 · 53
+
+T HE DEPONENT. " S i m i la r an 8w er . 1 b e l i e v e t hat Epic does B e&k to 1YLakB a proiit . B u t ~ a g a i n ~ how m up h p r o f r ' t wp , r' 6 c c z . v & f r oY YI Unr e a l Ex' 1 g3 nc versus other products, I don' t, knew.
+
+Q9 · 38-.G2
+
+DX-SGS0.097
+
+Q; Oka y . A nd can you @esoribe for me a lit'tie @it the cross-platform capabilities in F ortn i t e ~
+A. Su re . Fort nite is -- ao P'ort n i t e , utilizing the Unreal Engine, ve create -- v e'v e basically created a @ingle game where the same. game logic runs on each ef the consoles that we 8upport." PC, Nac, the mobile platiorma that we support.
+Engine, a rti sta are a ble to a u t h or t he c o n t ent a n c e
+VCf1tCXt, LCgR1 SQlllt1QI18 866 299-5127
+DX-SGS0.098
+
+a nce t h e n 'th'B Bxlgin e h s x l d l B H a l a t c3f pl@tform-specific d i f ferences re l ated. ta,, iver l n s t a x l c e t q r a p h l -.cs t e c hx 11g'Des B r h x x w t x I,p l a y a ' Gc11 G cn individual demices.
+
+Q9 43 37
+
+Par all. of the plxstfarms cn which F ar t x l l .t e i 8' a v Bi l sk > l e x a r e t h e r e cli f f e r e n c e s between the user experience an Bach ai thqse 5iiierent Platforms b e t w een e e n e c lBS,, IIIahil.e,, tR k l e t 8 p R n- 6 w h s 't x l e t ~x
+A . l n t e r xx I s a f t h e 'gBIIIB pl B .y' e x p e r i e n c e i tsel f ~ we 6a Cur beast ta -- - l 't ' 8 -- -- let N B'
+Zt ' s f l l n c iaxg.enta i l . @ t ,h'0 5@N.B g'@.IIIB. O'Q it is the same gsxse meehsnias . P l a y e r s cn di fterent p l@tfarxIIS eon P@xtieipate in the S am e g am e @ t t h e s siYIB t l I I I B 8 1 1 p l a y i x lg b p a h& s BI I I B r u l e s . Th e
+Vcf1tcxt, LcgR1 Solllt10I18 866 299-5127
+DX-SGS0.009'
+
+Q9 · 44 · 22
+Q9 · 44-. 35
+Q 9· 4 4 · 4 9 Pa,ge 3"8
+
+',6iffcr&nce8 Br& p r ima r ily v i BVal Gr r e i ateci 'tG
+
+Q9 44 55
+
+SG, BGme pl ay er's will u se a k e y h e a r d B IId. IILGUSC g SG I ILc P l a y e r 8 ~ B . c en t r Gi l L e r ' g G GILL'c' PZBy c r B p B .
+YILcLhi18 Gcvi~ccs . AI I 6 > Bg a i I 1 , i I1 t @ r IYLs Gf t h c v i BUB 1
+Glumly.ity,, d epending Gn the penfcrmenee
+G hB ra ct e r i s t i ca Q i the h a r 6wa r & p s G& & p 1 a t i G rIILB will IIse 1Gwer pelygGn m c d els cr Z G wcr- rcsclutzGn
+IILG re ckp t f GZ ' t h K p a Z"t I. P U 1 a r p 1 8 t f G rIIL ·
+
+Q9" 45 Q6: Q 9" 45 2 9
+
+g. A n d w h a t . BhGIIt -- ar e a l l Gf t h e e'B I I Le
+f cB t'Grc 8 1 n t h c g BI I LCB i n t & r II Ls 'Gf pUrchascs» ski n 8 ~
+d anee8~ an d w h a tx10t the SBIULC BcrGBB' R11 Gf t h e
+
+Q9 · 46-. Ql
+
+A Z be ing.eve th@t th'ep @rc. g. A nd s c i i s o m ehedy has P'Gxtnite an B Pl@ystaticn 4 and they Leg in and. - - t G - - t G aeecmB the Bpp Gn their iPhane, they bav'c access to
+
+Q946 1 6
+
+Vcf1tcxt, LegR1 Solllt10I18 866 299-5127
+DX-SOS0.0't 0.
+
+A. Z b e li e v e t ha t you have access tc, all the same CQ:Xltent B.cress -- - A l l t h e C QT l t e f k t t h B.'t p' GU GW'Xl
+
+Q . A nd i s i t a l e e t ru e f o r -- -- you wi l l h a v e
+
+tg iargivp my ignorance here,, but z den"t knaw if
+
+there axe levels in. Fortnite or if there's scme way
+
+e f tracking yeux progress en the game. Z s t h a t
+
+maintained. .across the different platferms 7
+
+A.
+
+'Ees. X e c a l l i t c r o s s-.p r e g r e s s i o n , b u t
+
+DX-SOS0.011
+
+An@ we 6oxl t neec1 to get. into 't,he d etails,, hut essentially Epic en t ers into ce r t a in license agreements with Apple ior the ability to Rse Apple B p r o p r ietary s e f twa reg z..s tea't right f
+A . Tea » I belie've that to 5& t r D e . p. A nce MithG'Gt eDtering intothose license agreements with Apple, Epic would hame. nq right tv use any o5 that proprietary 8eftware," is that
+
+Q9 · 55 · 13 Q 9· 55-. 28
+
+T HE 13EPGNKNT': I e x p ec t t ha t i s t r u e .
+Vcf1tcxt, LcgR1 SQlllt1oI18 866 299-5127
+DX-SGS0.012
+
+Q 9· 5 5 · 3 9
+
+1t leek@ like we have Exhibit 18 up. AQ'ci fez thN xecezdp 1 ll D ote t hat w' e
+Bate@-etamped EPIC G1920438. And feel free te take a a@ment tc leek @t
+thie, Mi. Penwaideh . H u t , w h e e yeu f i vish,, ca@ ye+
+
+1 G"12 2 2
+
+A.
+
+"EeS. 1 B e e t h e d CCUl l 1 eHt B H C I, EGCQgHi t e
+
+iQ 13 G9
+
+Vcr1tcxt, LcgR1 Solllt1oI18 866 299-5127
+DX-SGS0.013
+
+Page 5 7
+
+Q. Ok a y. Bo . the third paragraph dean in that email, it say@,. "Nick had mentioned te me some 0 f p G Qz p Q 8 z.t 1v e e xp8 z 1 e x'1ce 8 1e g 8 1 d 1 x'1g t h e F 0 1t n 1 te 5PU HX /8Ã p layed in. that. efTawt and, in ge n er al a n d in pa2ticU la1 ~ in cQTTtpa zi@en to yGGx' expel ienc'e' with Qthex' platfQxmB.
+Dz.d I 2'e4d that c&zzectly P
+DX-SOS0.0't 4
+
+Q . (By M s . F a n g } Sur e . Su t j u s t f o c u s i n g
+comparing Apple's Metal APZ to the Android OpenGL APZ,, Epic had @ positive experience in terms ei 6ev& 1 Gpi n g F 9 rtn itP i Gr iO3 e cNKp a r&d te, An 6r Q id } is that corrects
+T HE DEPONENT: We h a d . a -- w e h a @ a much
+mere po s i t iv e e x p e r i e nc e clev'Pl&ping Fertfllte Gn e n iGS using Metal . B u t Z - - 1 gu e s s 1 wa nt t o eisa clarify that 1',m talking about the entire gr@phl ps Stack h'ere · SG 2 t. s not '5peczizval ly
+Metal versus Open SL; it. is -- it ' 8 Metal,,, it. 6' the g r a p h i c s d r i v e r , a n d t h e -- -- the hardware its'elf:.
+Again, it. gets. back to the bre a dth oi hardware Qn Andreid versus the BTM l ler saIBple set
+Vcf1tcxt, LcgR1 Soll}t1oI18 866 299-5127
+DX-SGS0.015
+
+But you would ag ree that Me tal - - Apple ' s
+proprietary Metal. software was part of the reaeon why the development experience on the i08 platform was better in thi,e caae than, far deVel0'p.ing f Qr Andlroiig~
+
+1G" 19 5G
+
+T HE DEPONENT" . T c b e h o n e st , 1'm n o t sure. I t h i n k the - - specifically to your question that 'Metal ie - - 1 take your qu e s tion to h e a sk i n g whether Metal w'as the reason er the predominant
+
+reaaon ,or a significant factor . Z 'm not aure. 0 'penGL ocul'cl a18o perform Simi la rly w ell or be m a d e
+
+to perform similarly well,, 1 believe However , I wo u l d alamo may that getting
+Portnite running on 1GS using Metal. was, a very p osit i v e eK per z e n c e a x l dI . ageing eaal&r t han t h e experience ve hacl Gn Android plat f orms .
+
+p
+
+( 'By Ns . y iR n g ) A l l r i g h t .« A n d, we c a n
+
+actually, then, look at the top qf the. page here in
+the email from Mr. Sweeney responding. At, th'e top
+e f t h e p a g e , h e @ a y e , "Fee,,, w e . ' d . b e h a p p y t o @h a r e
+
+some quotes on Meta l ,, w h i c h ha d b een a. dream to
+
+work with compared. to other things . A n d w e ' re
+
+1 Q:20 : Q S 1Q · 20 · 34 1G · 20-.59 1Q 21. 11
+
+VCf1tCXt, LCgR1 Solllt1QI18 866 299-5127
+DX-SGS0.016
+
+happy to ei ther sh a re or s u p p o rt App le in Bh a r zxl'g any teehnie@l details about Fortnite performance., epti» ~ a t i o n , an d « a t u r'e us'ma+ o@
+,A. I d o .
+A. 1 we u l d r e f e r t o K p' pre%'z.'QUs te@tixflGTly But, again, I agree that working - - 1 w o u l d a gr ee wi th works ng with Natal has b een a. dream -- - o r , i n
+NS. 'PANG: A n d fo r t h e r e o o r d, 1 ' ll not e that we have m a r ked as L)efendant 8 Exhz.,bz.t 19 a document Bates-laheled. KPZC QGGQ11599.
+DX-SGS0.017
+
+Hut my first @meatier will just be the emma thing.
+
+A
+
+7 & 8 g l E e Q Qg f l i Z e t h e A iQ C '.'GK&flt
+
+Z G.22. 3 5
+
+11
+
+VCr1tCXt, LCgR1 Solllt1OI18 866 299-5127
+DX-SOS0.018
+
+Q. O ka y. A n d t hen the next part of that emai l s a y s , "Here is a s t a r t ing p o i nt : The performance and features of Metal allowed us to bring the full Fortnite Battle Royale experience to iOS quickly and at. higher quali.ty than is p ossibl.e with OpenGL ."
+Did I read that correctly' A . Yo u d i d . Q. And is that a sentence that you wrote in this email' ? A. I b eli eve it is, yes. Q. A nd d o you still agree with that sentence
+
+1 0:2 5 : 1 7 1 0:25 : 2 9
+
+A. I do, w ith the same context that 1 gave above. A c t u ally, I think the - - t he l i ne above that states it pretty well that the performance gain over OpenGL, I later qualify that as Android w as t h e -- - was, I s a y he r e , " t h e n umber o n e differentiator that allowed us to get. Battle Royale running on iOS faster than on Android."
+
+10 25 39 10 26 01
+
+Veritext. Legal Solutions 866 299-5127
+DX-3030.019
+
+Q- A n d 1 .t $ @ QB g W e ha % ' e been mB.khng U.s'e 0 f Metal vn i' ' tv great effect Since ite release 2 l314. A f a s h , a gi le, feature -- rich AP1 like Meta l i8 exactly what we n e@cl tc bring a game d'csigne l9, for modern cn n a o l ea and de a k t o ps to, the
+&atter+ --powered i Ph o n e R D 6 i PB d . '
+
+A ; 1 :d o .
+
+g. A n d w h a t d o e s it, mean when --- f i r s t o f' -
+
+all, do you agree with that. atatement'P
+
+A. 1 b ro a dly agree with the Statement the
+
++ &ah , 1 J D r GiRdlp a g r e & wi ' th t h e 8 't a ' t & ITLBnt .
+
+g
+
+~' d w h a t d o gma z. t YIlcan 'when th'6 st@tcmex'1t
+
+A PE l.ike Metal," what d oer, t;hat phraae mean in t h e
+context o f,ao ftware d evelopments
+A. ln t h e c o n t ext of aoftware de+'eiopment,
+
+Vcf1tcxt, LcgR1 SQlllt1QI18 866 299-5127
+DX-SGS0.020
+
+f ast he r & i s referring t c3, per f Gr fflan c e » ' Agil e i s
+referring to changing cf features -- gc addition cf new f un''t iena lity - - a nd f esture -- rich is t h e . extent Qf fe a t u res 8'uppcrt'e'd 5y the' AP'1.
+are 811 characteriBticB the't Apple B Metal Bcftwar'e
+
+ZG.28 · 86 1G".28':32
+
+A. Te e . I th i n k that'e rliht.
+
+Q. A n 'ci whpiB that u S e f ul
+
+wh y
+
+thos'e f e8ture 8 in the Met81 APZ, why ax e t h08 &
+
+u sefu l t e h e l p' br i Y' 1g Bl g a t e cl B '"ei'oned f v r c l3n @ ole 8
+
+an5 Ciesktcps to a Ncbile device like an iPhcn'e or
+
+A'. Zn t h e c o n t e x t e f Mete.l, one c f the goals» as 1 under'stand it» that the engineering tea& had wae to rendu'ce the CPU 'GQet at the 'drzv'er level. Sc reducing CPU cost gets back tc the per f GrI5iBBce 61 f fe rene&s tha t I w a s r & f'&r'ring tQ, earlier · Zn adclitlcn» re6ucing CPU cG B't5 redUc'es battery consu'option» which - - which gets te the part G f battery 'pQw&r'cd.z.Ph&x'lc: and. 1 Pad,
+Q. A n d s c h a v»ing a. fast, »aqile, feature-rich APE l.ike Metal will ac tu a lly imy r eve the perf GZTK@nce 6 f Bpps Gn bd.ttery-powered. crevice'8» ig thB.t right »
+
+VCr1tCXt, LCIR1 Solllt1OI18 866 299-5127
+
+1 G"28 4 6
+1Q 29 83
+1G · 29-. 28
+1Q · 29 · 47 P age 6 8
+
+DX-SGS0.021
+
+T HE DEPONEN'T. "I think; ag a in ; it
+
+81lows for Bppli c a t ions' to per'forffl better and U&B
+
+le88 power conBUmpt ion than t hey o t h e rw ise wGUld. G'n
+
+A 'pple 8 p l @ tf Q r m 8 .
+
+g.
+
+. (By Ma. Tang) A n d t h e n th e n ex t a e n t e n c e
+
+8 f th18 8'tatemgnt says ~ A 5 a 6 ev'Bl'&per~ i't blows
+
+Bo you agree with that'2
+
+A
+
+Z do I w QU l 'd q'Qality it a8~ clc8 r ly ~
+
+the Gpen5L implementa ti ons, t;hat ware av'ailable. to
+
+us at the time on iQS and on Android.
+
+Q. A n d t hen finally the laat aentenoe aaya
+
+o f that f z.re't para graph 5a ye~ X c w e r c:abl&
+
+menthe aa we waxen't hindered by Iraphica."
+
+g
+
+~ ' 5 h ' G w w a s N &t i R 1 a bil c t D pp R'6 ' cl Up t h e
+
+process 05 getting Fortnite 8hi p-ready on iQ87 A. Zn th i a caae, it was primarily related to
+
+performance. 8 o ,, again, the performance of the graphl c'a s t a c k G n -- - Qn iGS was $UQh t he't w&
+
+VCr1tCXt, LCgR1 Solllt1QI18 866 299-5127
+DX-SGS0.022
+
+: didn't have. to spend as mech t ime o p t i m i z ing fo x i G9' t.o get it ready for sh i p .
+Q. S o , as a i e a u l t., <pic: was label to lau nc h Portnite on 108 faster7
+,A. T e a ,, ve vere able to launch Fortnite on io'8"8 gx'aphlcs stack had t' he Same performance G hat & C 'tetl a 4 1 C S ' that. 1't Aid pE Z A X' tD N & t a l.. T h B 't ,s
+DX-SOS0.023
+
+DG68 E p r o c Q TTLpncsB.'te A p p l c G r p a p ' A p p l for any of the e n g i n e e r fng kn ow'-Kov for. Apple'a c on t r ' r & U t r o ' B S t D 'the collator'atz.o&>'
+A. T o m y knowledge; na, we dc not'p,ay Apple money f o r -- --fox t h e collaboration - - o i f o i pNr'trcrp@'trng rn 'ah& cQ''l1ab-'Qra'tron · Z To.can< nature of the collator'ation 18 ve both believe it',8
+K g.UKUall p b R T1'6 f Zori l t G p a r 't r C1 p @ K B
+DX-SOS0.024
+
+Q
+
+ok ay A n' cl the next seD.ten<e' s@yB p Ep1.c
+
+and Apple held weekly conference calla te diacuss
+
+existing engineering issues as well as anticipated. i88lle8 w ith App 1 e 8, p t8 X'e 1e9'86 8 Q2twas We ( 6 ·g ~ 6 Cta
+
+GS and/er Xcede} that was made. available to, Epic
+
+thruugb the Apple Devel+per Program." DG yes S e 'e 'tha't 7
+
+Q. Zs th a t eeinsistent with your' expeiienee that Epic and @pyle would have. weekly ccnfeience calle OD en gi neeti ng i85QBSP
+A . y e I . I r e cal 1 we had weekl y conferen ce
+
+Vcf1tcxt, LcgR1 Solllt10I18 866 299-5127
+DX-SGS0.025
+
+calls Bet up be t w e en Our Bxlginaering tea1TL and 'the Q E'U software team at A p p l e .
+
+g. Did you participate in those weekly c on f e r e n c e c a l l s 'P
+
+,A. I u s e d to participate in them. I d o n' t
+
+recall specifically what years or time frame, hut
+
+frg'm t2 m.e t'o t2 m.e·
+
+g.
+
+c Su r e. B ut s o m e e n g i n e e r ing team. at. Epi
+
+17 47 11"17' 57
+
+t eam at Appl.e.; is that riqht 7
+
+A
+
+E e5 g t h a t 5 m y U n 6 e r 'stan@i.xlg
+
+Q. Qk a y . A b o ut how many Apple engineers,
+
+would participate in those calls7 A'. I don ' t r e c a l l an e x act n um b er . I w o u l d .
+
+s ay on the order of two to four in most cases .
+
+Q - A T1'5 hew long w G U1 6 t h o s e:'calls last 7 A . I "N. n ot Su r e . I would 8@y most of t h e
+
+calls would take somewhere between 3Q minutes and
+
+an h o u r . I m t r + ing to: rem'embe'r as wel l
+
+I
+
+]Believe Qn the E pi c S i de ,,,ve w'Qulcl, typically have
+
+anywhere between three and six engineers.
+
+11"18 14 1'8 34 1'8- 58
+
+g . A l l . right . 'Zhe next sentence of t;he. r esponse s a y s , "'these calls covered the f o l l owing Fortnite-related topics : di s c o+'ery and
+Vcr1tcxt, LcgR1 Solllt10I18 866 299-5127
+
+1 9 1 1 PB gc .94
+
+DX-SGS0.026
+
+2'eSal u t i Gn c i a t h e g z ap k i c fkz i st e z JD&g8 i n i QS Rn ' d . m@e05; mempry uSage ansi bug8 a fieeting Epic' 8 ability te implement and 8uppert i ' a n d. macQs ieature8," investigation inta rendering i88ue$ in 2'artnitet. cau8ed hy Ay@let.'8 Metal 8eftware; and. Epi~c 8 t e 8 ' t i n g @Heal px'sos' iciin g i we d R>a<k c)xl A p p l e
+developer t e a l s . "
+A . Z 'ci Q.
+
+T HE EX P O N E N T : Z b e l i e v e t;hat i 8 - - t hs a t iS B.n 2LU<uZ&t e St @.t&IRent s Q Q F7i~E
+Q: P B platfczm8 , e f x e q u e n t ly.iind dnive hu q 8 th a t,"
+
+Sta r r y
+
+'h . t h e -jestshility esteem is)
+
+n%f cga B.S Ug
+
+PG zt n zt,'e ' 2 n g n K R& l KT '1gzn'8s,
+
+5 c g ' 88 theSW G G n fetenc s call 8
+
+,8,: t G x'ai$se'
+
+8 & 7 '8 .8 u e : 8 W 7 ' R B e n 1.X 1 & B X'Z n
+
+& 8 1Q
+
+Itbem8elve z d ho e f u l l ' fix th. -- the i a s u e e "
+
+Vcr1tcxt, Li.gR1 Solllt10I18 866 299-5127
+DX-SOS0.027
+
+/ r i v e r s ~ o t h a ek e ~ ~ ~so that z th e n e x t r e l e a se f e i t h e io 8 o r ~ mao: , a s z we r e , o s e u a a v e n o ,r e s e n
+Veritext. Legal Solutions 866 299-5127
+DX-3030.028
+
+11
+
+W hGt i 5 QGU.Z' GllC16'18"tBQ,d.ihg 9 f hQV E p l . 'C
+
+p@ps Ap pl p f' ' oz BHp s c z v ' i ce@ Qz too15, pz'ovi i@eel
+
+Apple t a - - f oe Epic to create, develep, e t
+
+R XIl t R i z l i QS F D- 2 " t xl h t e ~
+
+A. M y g nd e retanding with zeapeet to the
+
+2.5
+
+QBV61Qp& E t GQ 1 8 GI l d . S D K B i S t h B t , ,, l i k e II1 <)St
+
+Vcf1tcxt, LcgR1 Solllt1oI18 866 299-5127
+DX-SGS0.029'
+
+26-11
+'26' 31 P age 9 9
+
+platform6, Apple prov'idee those 3DKa and, tools for
+a nominal fee., similar to - - t o o ther p l atforms: i n
+or6er. tQ B A Q Q n r B g & -- --1 expect. i n or d e r t c encourage dev'elopers ta: eremite software for the
+DX-SOS0.030.
+
+Q.; ( B y N s'. Tang) A n @ f c r the record, we 'we m ar.ked a8 Exhibit 23 a d o c um ent that be g ins w i t h
+A nd. I 'll ask you, Mr-. Pen+arden, to ta k e lGQ k at thi 8 GX16 le't 1YLe kn DK i f yQu r'eeegni Ze
+'t h r 8 C i o 'DVZI1eT1't
+A. Qk By . I x ' ecogniz'8 th'c d,©cQNent g. A .,ll. ri jht. An d t hi s i a a.n email exchange between a few pecple at Epic Same@, including yourseli, pro'm ar'ound November 2 9 17; ls that r i g ht'~
+VCf1tCXt, LCgR1 Solllt1OI18 866 299-5127
+DX-SGS0.031
+
+1 1:4 5 : 4 4
+Veritext. Legal Solutions 866 299-5127
+DX-3030.032
+
+MS . YANG: A n d , f or the r e cor d, we ' ve marked as Defense Exhibit 24 a document that. has been Bates-stamped EPIC DG433495.
+Q. (By M s . Y a n g ) A n d . after you' ve had a chance to take a lack at it; can you let me know if you recognize this document.
+A. Oka y . I r ec ognize the document.
+
+1 1:54 : 3 4 11 54 49
+
+Veritext. Legal Solutions 866 299-5127
+DX-3030.033
+
+P age 1 1 6
+
+Q. W' e e t hat e f r e q u ent type of c'emmuni oat ion that Epic would have with Apple in terms cf Apple previcÃl.ng new featurce that i't w'as working cx17
+A. Th a t would happen time- - f r ' c m t i me t e time. 1 ' m t r y in g t,o,-- 1'm s t r u g oling with the word "frequent" that you used .
+Ãe wou16~ f rom te time te time~ bc znf ermed 5'y Apple Df new f u n c t z ona12 ty cvm3 n'g on A ppl.e's p l a t f or m s .
+DX-SGS0.034
+
+Bxtea Number. 495. A n d t h e re ' a en email aent fram Robert P@rtingtcn on May 12, 2U2G, et 2."37 p.m.
+DG pou 8& e t eat 7 dc.
+Q. A n d the fi.rat. paragraph saya, " Ckeeki n g in te aee hew t hi n ga a re I o i nI w i th ARK it 3 . 5 a nd .
+LiDAR adanner in a nte rpr i ae or virtual acta . "
+VCf1tCXt, LCgR1 SQlllt1QI18 866 299-5127
+DX-SGS0.035
+
+A . I g e e t h a t ,, y es .
+g. Can y o u e x p l ain what t he context for t hat diaoueeicn i .;a7
+,A. M y u n d e rstanding is that Rob ia asking %whether or Do t we h B v e cu s t G YBerB w i'th a Use ca s e for the LiDAR s o an ner t h at, Appl.e would, 5e able to highlight to, ether 6ewelcpers at Worldwide. Developer Conference, presumably for the purpoee of shoving off' the features and work that th ey 'me
+
+1 2"Gl 4 6 : 12"QZ 1G
+
+in the best poeltion for any opportunities that start t o po p up . "
+A . 1 do · g. An d j u s t t o h e o le ar., WWDC ia referring
+t o A p p l e ' s 'Worldwide Developer C onference; ia that
+A. I 5e li eve that'a mo.
+
+12 02 27 1.2 '02 -- 37
+
+A. I un d e r @tend that to he the case, yes. Q. W ha t ty p e B of o p p o r t unitl&$ vou16, pop Up
+
+12 92 48
+
+Vcf1tcxt, LcgR1 SQlllt1QI18 866 299-5127
+DX-SGS0.036
+
+f Qr the- Unreal Engr'.ne R t t h ' e N Q r l Cowl.cie De w e l Q p e z
+t "Qnfe r e n c e 7
+
+A . Z ' m nat s Ur e 1 - - Z entirely agree with the premise Qf the qUestien . The - - Z t h i nk t he
+
+my UnQEerstankiing 1& the QP p e r tUnitie8 that R Qb l 1 8
+
+refers'ring tQ wQUlcl he G'ppQrtUnities tQ s h Q w
+
+fe@tUres anr1 functienal.ity at Wgrldwide Developer
+
+CQnferenQe that Use the Apple 313K in qUestien
+
+heze
+
+Qr z.n thzs case> the
+
+th e h ax' dwarep 'the
+
+L il3AR s c a n n elz". Qn t h e i PB d . .
+
+g
+
+Wel l i s p e e z. f z c a 1 1 y ~ I m as k in g B b Q U t 'the
+
+Unreal E n g i n e . He s ay s ,, "z want tQ get Un real
+
+Engine in the hest pesltlen fer any Qppertunities
+
+that 8'ter't tQ pGp Up
+
+15 that CGrr&Ct t T'hat s what it. Says~ A - T hB.t i5 wha t R o blert 5 exDal.l saySg y e s
+Q. "f UP.
+'sQ, UnxeR1 En g i n e s a s w & cliSQUBSe6
+
+earlier~ is 4 p rQctGct that Epic mB.k'es av+il&lQle 'tQ:
+
+third pB rty devel Oper si 1 5 thB.'t QQrrect~
+
+A
+
+T h B.t 8 CQr r e e: t
+
+Q. V e r e there ever any i.nstances. in which
+
+Unreal E n g in e Qr' Qther K pllc prQAU cts w e r e , f Qr
+
+example, featUred Bt Apple'5 MQrldwide Develeper
+
+C enf&r e nCes 2
+
+12 G2 51 12"G3' 17 12"Q3 43 12 03 53 1.2 '04- 10 12 04 23
+
+VCr1tCXt, LCIR1 Solllt1OI18 866 299-5127
+DX-SGS0.037
+
+A,
+
+, 1Ã tb ' e pi R B '4 W e k R ~ EB p B r t i c i p kx ' t 8 6 1 i n
+
+Apple'e Worldwide Developer Conference end. ahown
+' tee'knioB1 0&Nons'tr'BL.i'ons tkek a r e ' 6&v'&lop&6 Us i n g
+
+Unree l En g i n e .
+
+DX-SGS0.038
+
+Q .. ( B y N s · Tang ) O k a y . ~ d, w h a t ax e t h e benefits t@ Epic of allowfng ex'ass-platfcra play in ~eztnite, iox' example~
+A. I w i l l speak primarilyt e t h e - - t o t he
+engine an6. technalvgy side ef things as the game s
+VCr1tCXt, LCIR1 Solllt1OI18 866 299-5127
+DX-SGS0.039'
+
+and 5usiriess si'de Gf things~ again is not really
+my role at Epic. Hut on the tecihriology side one o f t h e
+benef i'ts is that i't it 8id @ us in p rc'aving out
+the technology of Unreal. Engine, again runninq the s ame co n t e n t - - or substantially similar content
+
+Ql G3 49 Ql"G4 Q3
+
+g
+
+A nd B o , E p i c c a r i de % ' c l o p t h & g B' N & & xl c & >
+
+arid. then it can be u se d in e. variety of di f ferent
+
+platforms; ls that c o r re ct s W i t h a o m e @ d j u st1tients
+
+with each platform, I understand .
+
+A
+
+Th ere 8 8 Dgge add1 tiMl@1 8'ork and
+
+Q l".G4 : 2 3 -
+
+that we support,, but we subetantivelyi support the s aiYIe gB171e acr o s s -- -- across multiple p l a t forms .
+
+Q; A rid then end users have the choice of
+
+which platfer@ or p l a t f o rms, that, they Mould lik'e te cheese to be able to pl ay E pi c . -- Epic. games like
+
+Portnite," is that correct'1
+
+A « T e Gh « Players are Bllowe@, to choose
+
+whr eh
+
+wh z.'ch p l c k t f 'G rTgs t h e y v @ x'l t t oi play F Q rtn l.te
+
+Qi · 94 · 38 Qi Q4-56
+
+g. In cl uding some players - - p l ay e r s h av e the option to choose more than one platform to play Fo rt n 1 te P
+
+Qi · 95 · GS
+
+VCf1tCXt, LCgR1 Solllt10I18 866 299-5127
+DX-SGS0.040
+
+en,several different platforms. g. A nd t h a t i n c lu des difterent platforms. in
+terms of you. can have the option e f playing on a
+cQnsQ18 versUs playing on 8. mQbile versn8 pl aying
+Gn tablets A. Te 8 . A Fe r t nite player can ehce8e te
+play on their phene in the merninI and en a ceneole in the evening 1 f that ' s wh8t they 80 ch e es'e
+DX-SGS0.041
+
+10
+
+MB. YANG: A l l right. F o r the record,
+
+this is Defense Exhibit 29, which is the document
+
+Bates-stamped. EPIC 0.0033947-.
+
+Q.
+
+( By K s . Ta n g ) A n d o n c e y o u ' v e h a d a
+
+chance to take a look, if you could confirm whether
+
+you recognize this document.
+
+A . I se e t h e e m a i l , an d I h av e s k imm e d
+
+t hrough i t .
+
+Q. Oka y. Bo t h is is another email between a
+
+lot of people at Epic around August. of 2018; is
+
+that c or r ' ec't ~
+
+A . That s c or r e c t .
+
+Veritext. Legal Solutions 866 299-5127
+
+01 · 44 · 59
+01 46 49
+01 47 00 P age 1 6 1
+
+DX-3030.042
+
+g. Sa le a king at the eeeand page cf the
+t he second page cf the em a i l , 'the p a g e t h a t endosw
+with Bate@ Number 948, in the middle ef the page there'e @n email fram. Arjan Bruemee an August 8th, 2 018.', a t 4 : 59 p . m
+
+Ql 47 G4 01"47 15
+
+DX-SGS0.043
+
+Q, S he n w e 8 Met@1 ii x 8 etel ee 8edP A . I be li e v e i t w a8., Qunm 2Q14 when the f i o at v'czsien ei M& t@ 1 wa s L e l sB.S'%d.
+
+A.. Ne .
+
+(Hy Nr. Even ) B a c k i n 2 Q 1 4,. did Apple
+
+E&8..@h ctLEt ta Epic B.n:@ 8.8k tc o'&118bczRt& GB M e t a l ~'
+
+A. Ap p l e apprq@ahed Epia in early 2QI4 tm
+
+t c 'di8cla8e th@t they wee''e M9eklng :an Metal and t o
+
+get .ear feeAJnaak a n the AP'I end what they wer e
+
+'881ng Rn'ci ta help g& t
+
+c1 t e ge t U n 1 &M l Engr' n%
+
+running an Me t8 1 8a t ha t t hey ao u ld un 6 e r e t and, ho'w the API woe'k8 and perfox'mp with e --- w it h a
+
+ccn sa le = St/1 8 gv@phi c 8 wc''kl Q8d.
+
+g. W ha t , i f anything, hate Epic 6cne Exam
+
+2614 thrauqh 2QI8 that cgntxihqted. tc Metal
+
+b eaaming 8udh 8 .goad platiorm by 2G 1 8 7
+
+DX-SGS0.044
+
+T HE DEPONENT: Thr v u ghn u t t he y es r . s
+
+between -- frem 2614 to: 2Q18, Epic and Apple
+
+CQ118bCratGd te
+
+--
+
+-
+
+, BQ Qn OUr S iCle< %8 C C n t i n u @ 6 t e
+
+l n V & 5 t t l YM Bn C l - - B M4 'CB.gineerlB.g lntQ S U p p C Z t l n Cf
+
+QlptiBi2zng 'th& Engine Dn K' &tel Ance in%'6'stiga'ting bugs that we found that were unique tc Metal that ' KBrB: t p p i c 4 1 1 + in t5e dr iver Qx iD, i mplementation of-' Metal, and then wo r k ing w i th
+Apple te be able tv: pre:vid.e the CPU me ftvsxe 'teem,
+W ith r e pl y C B S B S a n d i n ' QrKBt iQ n a & G u t - - BEQut those issues so: that they could Six those issues in ÃBtk, 1
+
+G4 · 43 · 41 G4 · 44 * G5 Q 4'44- 2 8
+
+DX-3030.045
+
+

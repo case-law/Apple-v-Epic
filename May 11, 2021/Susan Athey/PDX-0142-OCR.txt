@@ -1,0 +1,253 @@
+Epic Games, Inc.
+Professor Susan Athey Direct Examination
+
+Quali6c ation s
+Economics of Technology Professor Stanford Graduate School of Business
+Ph.D., Economics Stanford
+B.A., Economics, Computer Science, and Mathematics Duke
+Former Consulting Chief Economist Microsoft
+California Governor's Council of Economic Advisors Member
+
+PDX-0142.2
+
+Assignment
+Analyze whether Apple's conduct affects the competition faced by Apple'ssmartphone operating system platform. Consider how middleware affects competition between mobile platforms and if Apple's conduct impedes the development of middleware.
+
+Summary of Opinions
+Switching and mixing-and-matching costs lock users into the iOS ecosystem. Middleware can meaningfully reduce costs for users and developers. Apple's restrictions block users and developers f'rom using middleware, which allows Apple to retain market power over users and developers.
+PDX-0142.4
+
+User Switching Costs
+
+UHG 6
+6'1 4
+go II
+
+5 II
+a II a m g
+
+@ @G
+
+"User Switching Costs" are the costs of
+
+ending an affiliation with one mobile
+
+platform (iOS) and starting an affiliation with another mobile
+
+platform (Android).
+
+l:00a11
+· I
+
+Mixing-and-Matching Costs
+
+~ 8 "0 GSS I5
+
+Mixing-and-matching:
+Cost to users of accessing apps and services on multiple devices with incompatible OSs.
+
+· Identifying and locating cross-
+platform apps
+· Repurchasing apps
+
+PDX-0142.6
+
+Mixing-and-Matching Costs Within Groups
+
+go S
+$l
+~l
+
+·
+
+·
+
+·
+
+·
+
+peg i) N
+
+Personal Phone
+
+Family Tablet
+
+Child's First Phone
+
+· Id e ntifying and locating cross-platform apps
+· Repurchasing apps
+· Family sharing
+· Pa rental Controls
+
+Accounts
+Sync
+$$
+
+Developer Multi-Homing Costs
+
+Support
+HS
+Family Sharing
+SS
+I I
+
+Challenges for Developers in Reducing User Switching and Mixing-and-Matching Costs
+· Developingan account management infrastructure.
+· Im p lementing a cross-platform payment infrastructure.
+· Reductionin engagement from users who abandon the services if it requires account registration.
+· No one-stop shop.
+
+PDX-0142.8
+
+Developer Porting Costs
+
+Accounts
+Sync
+
+Support
+HS
+Family Sharing
+
+Porting
+
+Making sofhvare available on different operating systems
+
+$$'
+
+SS'
+
+Cross-Platform Stores Lower User Costs
+
+Accounts
+Sync
+
+Support
+4%
+Family Sharing
+
+Cross-Platform App Store
+
+Qg Qi
+
+Qg Qi
+
+Iel
+
+Cross-platform stores operate across multiple platforms,
+and therefore allow users to migrate and synchronize their apps on all of
+those platforms.
+This, in turn, reduces their switching and mixing-and-matching costs.
+
+Epic Games Store (EGS) Reduces Users' Switching and Mixing And Matching Costs
+
+GAMES
+
+·
+
+0
+
+Available on
+
+Windows PC I I
+
+Mac OS
+
+N
+
+Account AccessEGS account on allsupported devices
+Library Stores users' apps cross-platform
+Cloud Synchs apps, purchases and app data cross-platform
+Wallet Allows user to manage subscriptions and refunds across platforms
+
+Epic Games Store Lowers Developer Multi-Homing Costs
+
+EPIC
+GAMES
+mI mQ oal
+
+· Ma k es apps available across platforms
+· Cross-platformaccount management and authentication
+· Cross-platformcloud storage
+· Cross-platformin-app payment system
+
+Steam Reduces Users' Switching and Mixing And Matching Costs
+
+Available on Windows PC Mac OS Linux PC
+
+Account Accessaccount on allsupported devices
+Library Stores users' apps cross-platform
+Cloud Synchs apps, purchases and app data cross-platform
+Wallet Allows user to manage subscriptions and refunds across platforms
+Family Sharing Users can share apps and purchases cross-platform
+
+Potential Benefits of Streaming Platforms
+
+Streaming App
+
+·
+
+·
+
+For Developers: · Eliminates porting and multi-
+homing costs For Users: · Operates like a cross-platform
+app store · Reduces the friction of
+consuming services across platforms.
+PDX-0142.14
+
+· la%I»I
+c»e» SHOAL
+
+Mr. Eddy Cue:
+
+'«cc»t Rc hah «sche« ac««a
+
+Senior Vice President, Internet Softfwnre ond Services
+
+7 «« 'Ehht
+
+«tat«eh»» E«CS
+
+'E447
+
+CI. 'Eaa hse: Ea.ll
+
+l understand that we have tentatively decided for a discount of $100/$50/$50 for
+
+7 «ea»IK It hc ew c«4»t 44 ass «» «4
+
+Mac/iPad/iPhone. Did we think that customers would buy significantly more if we gave them a
+
+4 4»4W hc «» · e a»»Wwa t « «p «4efsechecccl · s isal «XSW« 4 7I»»E EC»ECIs »CR IEWI)
+C S4Cth l4 hell abl S
+
+straight discount instead of an iTunes card'? lf this isn't a huge difference, l think we are making
+a mistake. %'e are discounting our product instead of adding value to them. Getting customers
+using ouI stoics (iTuncs, App alld iBookstore) is one of the best things wc can do fo gct people
+
+4Ãsl.I a«»44clal8 hooked to the ecosystem. The more people use our stores the more likely they are to buy
+
+444 «I hfh ·
+
+ac arpa caa hct m lae» J saa K»l
+
+additional Apple products and upgrade to the latest versions. Who's going to buy a Samsung
+
+E«c4«aKtIEhcae phoneifthey have apps,movies, etc already purchased? They now
+oafta lc 'all cc ·s7
+E««h )4» «4ht« more to get to where they are today.
+· « I 4» hs hfh 'h't XK w c«s the
+Cata«4f fa»lwh cw hc a« « CI«calo»I»aa«44lhc«CSEI»«ah If) fla!t& a l w lo« s teel ·4 Ical «4 Cw i«ca I»«ecw 4
+
+need to spend hundreds
+PX-04 05. 1-. 2
+
+*
+
+l «la»wc Iha»t we »K«lth ce»cca4»I «ecsw tc sita 'Est Sasaa
+Mec P»4IS%sacOK t«wh Ml c«aw s »IKE lae M«hwp w c l fat 4«t 4aa· Kafhc4»a»as «a»K K Ia Sea« IIIP lf 4««»t · I«he44htcaee1a«h ae»e aah»4 » ca»sat %'t at h»I»scca 0 cc»4ac«l IIIK If »acth 'Icl««M« tee»«4 »ceca»I ~ I K c»»» af ws.44EKa Ecch«eccl · w ates ac«aep at IK 4» «EeEl ccfcc
+
+K»MIHC PX 4!5
+
+PDX-0142.15
+
+

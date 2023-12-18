@@ -1,0 +1,72 @@
+From:
+
+Eric Friedman
+
+To:
+
+David Neumann
+
+CC:
+
+BCC:
+
+Subject :
+
+Re: Ads in the AppStore
+
+Attachments:
+
+Sent:
+
+03/01/2015 09:25:22 PM 0000 (GMT)
+
+PLAINTIFF
+U.S. Dlalr'EnCenrt- atDCAL
+4:20«:v45640-YGR-TSH
+EpicGanee, inc. F.Apple Inc.
+Ex.No. PX4254
+Dale Entered sy
+
+The devs would love it. The problem is that Tim is telling the world that we make great products without monefizing users. Ads would be weirdly at odds with that. I do think that search and explore are much better discovery tools. Also popularity alone is a stupid ranking function for the App Store. It's fine for music (though fuse is about to unleash a torrent of fakery there too).
+
+But in the App Store I don't only went to know what is popular. I want epps that are high quality, well looked alter by engaged developers, and retained (because useful) by other users. Being popular within a category is a nice to have and should mostly correlate with the other values I described.
+
+To this end, Luke has build a quality predicfive model that does as well as our human editorial team in finding good apps. We are getting retention signal from logging check available software update trafiic. We have image similarity and binary similarity tools to find duplicative and template apps. And we have a 40+ feature model for developer reputation. I think that ALL of our ranking funcfions - charts, recommendafions, search, explore - should stack these modelsas an ensemble. This way the only wey to game the system is to be en engaged developer who makes a useful, high quality epp that lots of real devices keep around. Win!
+
+On Mar 1, 2015, et 12:19 PM, David Neumann «
+
+» wrote:
+
+I think we need a "Thoughts on AppStore Discovery" essay on ~el e .com Where we spelloutthe chafienge and why ads among otherchanges make sense. And then fiip on the ads somewhere, presumably just search while taking links to Top This & That off of the main grouping pages, consigning them to a totally separate area
+
+0 M 1, 2 5 15, 15 44 AM,E ' 5 ' 5
+Yes, the ability to pay for promotion would be awesome. We' ve floated it several times as the way to end chart gaming: if people are willing to pay merkefing companies" (bot nets) to gain position, why don't we just let them pay us to gain position?
+No one is willing to take that on, however. I suppose it would get pretty cheesy, but at least it would be transparently cheesy.
+I' ve actually managed to convince myself that our App Store charts aren't really a discovery tool at afi. Yes, they do drive some conversions, but that is (I suspect and haven't verilied) mostly the bots and/or humans responding to incenfives from promotional companies. Think about it a chart that pule YouTube and Flight Pilot Simulator 3D in the same list isn't useful to a human shopper. Sure, you might buy both, but that decision won't be motivated by their popularity relafive to one another .
+No, I think the primary function of the charts is "inside baseball." They serve as a "who's on top?" list for developers so that they know which mechanical rabbit to pursue in the market race. Investors too watch the charts -- one of the most
+
+CONFIDENTIAL
+
+Exhibit
+PX 0254
+PX-0254.1 APL-APPSTORE 06808763
+
+frantic escalations we got came last year when Seb made an unexpected change to the Paid chart algorithm and Big Fish Casino got penalized. They were in a tizzy because it was messing with their ability to raise another funding round. That's not a discovery engine for consumers.
+
+On Feb 28,2015, at11:26 PM, David Neumann (
+
+) wrote:
+
+Boy, I sure wish we could do this... Google now allowing ads in Google Play
+
+htt://android-develo ers.bio s ot.corn/2015/02/a-new-wa -to- romote- our-a -on- oo le.html
+
+-dave
+
+Eric Friedman
+
+CONFIDENTIAL
+
+PX-0254.2 APL-APPSTORE 06808764
+
+

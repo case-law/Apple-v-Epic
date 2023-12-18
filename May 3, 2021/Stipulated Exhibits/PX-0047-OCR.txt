@@ -1,0 +1,65 @@
+Subject: F w d: Apple contact From: nRon Okamoto"
+Received(Date): Sun, 01 Nov 2009 22:22:17+0000 TD: "Phillip Shoemaker"
+
+PlAINTIFF
+U.B. Dlelrlet Court - NDCAL
+4:20ev45640-YGR-TSH
+· u ~ x-en rplo Gernee,me.y.AppleIne.
+Dele entered By
+Shaan Pruden"
+
+Date: Su n, 01 Nov 2009 22:22:17+0000
+
+Please note Phils comments.
+
+Sent Irom my iPhone
+
+Begin forwarded message:
+
+From: Philip Schiller
+
+Date: November 1, 2009 10:35:58 AM PST
+
+To: John Donahoe
+
+Cc: Peter Oppenheimer Ron Johnson
+
+Ron Okamoto Oasama Bedier
+
+Subject: re: Apple contact
+
+Hi John,
+
+I'd be happy to respond to your question regarding the "Paypal Platform" and the iPhone.
+
+Our iPhone Developer Program Agreements require that the only mechanism for unlocking or distribunng features and functionality in applications is through the App Store. If developers were to use an alternate mechanism for enabling additional features or functionality in their applicanons, such as via Paypal, they would be in violation of our developer program terms and we would not be able to distribute those applications in the App Store.
+
+If Paypal were to announce a mechanism for iPhone developers that helps them to enable features or functionality of iPhone applications with payments handled by Paypal, we would need to communicate with our developers, telling them that such use would be a violation of the iPhone Developer Agreement terms. I hope that does not become the case.
+
+If you would like to have someone discuss this matter further, they can contact Ron Okamoto, Apple's VP of Worldwide Developer Programs.
+
+Thanks,
+
+PhiTip Schiller
+
+CONFIDENTIAL
+
+Exhibit
+0047
+PX-0047.1 APL-APPSTORE 00318979
+
+Sr VP Worldwide Product Marketing
+Begin forwarded message:
+From: "Donahoe, John" ( Date: October 30, 2009 8: To: Ron Johnson (
+Cc: "Bedier, Osarn" ( Subject: FW: Apple contact
+Ron and Peter,
+Thanks for taking the time to meet yesterday. Peter -- I appreciated your feedback about the history of Paypal-Apple discussions and will commit to a 'fresh start' to any relationship.
+I am following up with our current contact for the Paypal Platform. As I mentioned following our Developer's Conference next week we anticipate that there will be a growing number of developers adding Paypal into their iPhone applications and would like to find a way to add this application to the iPhone SDK. If you have any suggestions who the right person for Paypal to coordinate with, please let me know.
+Thanks
+John
+
+CONFIDENTIAL
+
+PX-0047.2 APL-APPSTORE 00318980
+
+

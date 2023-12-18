@@ -1,0 +1,76 @@
+From: Cr a ig Federighi
+
+PLAINTIFF
+US. Dtaelat Caen-teDCAL
+4:20etma554tt-YGR-TSH
+EpicGame@tne. a Apple Ine.
+Ett.HD. PX-0842
+Date Entmee sy
+
+Subject: Re : Phishing emails are still managing to catch everyone outi ZDNet
+
+Received(Date): Sun, 01 Dec 2019 13:42:22 -0800
+
+Cc: Ti m Cook Prescott
+
+. Adrian Perica
+
+,Susan
+
+To: Phil Schiller
+
+Date: Sun, 01 Dec 2019 13:42:22 -0800
+
+Phil,
+A huge part of the problem is emails flat area 't &om who they pretend to be &om, that then send the user to a website to harvest their account information.
+I agree that that 's patt of the mechanism of phishing.
+The good news is, if you are sent to a site meant to looklike ETrade, but that isn 't actually etrade com (and perhaps is"etrade-fake com"), then Safari will not offer to autofill your password.Of course,ifyou 're super motivated,and choose tobringup thepassword search field, search for etrade, copy the password, and then paste it into the phishing site, you could still get phished. But even this isn 't possible with Sign in with Apple.
+And, I failed to mention, when it comes to phishing for Apple accounts (e.g. iCloud), we have two foctor-outhenticotion. (This isn'tfoolproof against an attacker that orchestrates a challenge to your devices simultaneous with the phishing login, but it 's a slrong deterrent. We continue to
+work to strengthen those protections).
+
+- Craig
+
+On Dec I, 2019, at 1:31 PM, Phil Schiller
+
+wrote:
+
+A huge part of the problem is emails that area 't &om who they pretend to be &om, that then send the user to a website to harvest their account information.
+For example even on iCloud we often get phishing emails that pretend they are fiom Apple, ashng to go to a website to log in to your iCloud account but they area 't really &om Apple.
+
+Sent &om my iPhone
+
+On Dec I, 2019, at 9:25 PM, Craig Federighi
+
+wrote:
+
+Tlnl, Our primary slrategy here is to eliminate the use of user-entered passwords. I. e. if the user does not know a password to enter into a phishing site, they can 't be phished for it.
+Exhibit
+PX 842
+
+CONFIDENTIAL
+
+PX-0842.1 APL-EG 04188748
+
+We are doing this in two ways: 1. Password auto-generation and auto-fill in Safari (and sync via iCloud Keychain) 2. Sign in with Apple
+
+As you know, starting a several years ago we introduced the ability for Safari to generate secure passwords for each site you log in to (and iCloud Keychain to make that password available to you on all of your devices). Last year we got more aggressive in actually hiding the keyboard and presenting Safari 's auto-generated password as the primary way to create a new password. Since Safari will only offer to auto-fill these stored password when on the legitimate website for which it is intended, use of this feature is a huge protection against phishing.
+
+Of course, Sign in with Apple is even better, since there is no password at all. In our next release we are planning to introduce a new feature where we 'll help users replace their password-based logins with Sign in with Apple where available.
+
+As for providing a long term competitive advantage, while use of these features is likely to make our platform more "sticky", the capabilities themselves are unlikely to be protectable differentiators: heavy users of Chrome and the Google ecosystem, for instance, are likely to use the Google Password Manager. In addition, there are standards efforts underway (in which we are a participant) to develop new web site methods that are more secure than passwords. On our devices, access to these logins will be protected by FaceID / TouchlD, but Google will offer some analogous capability.
+
+- craig
+
+On Dec 1, 2019, at 1:09 PM, Tim Cook
+
+wrote:
+
+What could we do that would give us a long term competitive advantage for both enterprise and consumer?
+
+h s ://www.zdnet.com/article/ hishin -emails-are-still-mana in -to-catch-eve one-out/ Sent from my iPad Pro
+
+CONFIDENTIAL
+
+PX-0842.2 APL-EG 04186749
+
+

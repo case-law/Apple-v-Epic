@@ -1,0 +1,65 @@
+From: Sent: To: Cc:
+
+Da nny Block
+Fri , 26 Jul 2019 14:03:38+0000(UTC)
+Joe K r e i ner Devin W i n terbottom
+
+Subject: Re: Fortnite Card Economics
+
+; Canon Pence
+
+We were aiming for 30%, but coming at 35% was okay from previous discussion. Gearbox should eat ingestion, they are doing the work. Looks closer to 36.5%. Net effect to us is -7% premium above normal console split to be in channel we don' t serve that should be both marketing and additive spend.
+
+Their initial order covers $170M face value of cards for holiday selling season. My bet is (marketing aside) half that will be incremental above users currently buying generic platform cards; where we get less than full value of the console going into Fortnite.
+
+Seems like an OK outcome to me to be in channel at a low premium vs the retail disks (also incremental revenue fromotherwiseempty channel) at a worse net cut to Epic.
+
+On Fri, Jul 26, 2019 at 9:54 AM Joe Kreiner
+
+wrote:
+
+Rolling internal for discussion. While these economics aren't great, it gets us the end result we are looking for. I will push to have Gearbox cover " freight / ingest / peg card ", but we have agreed Epic covers manufacturing.
+
+Joe Kreiner VP of Business Development Epic Games store / 1st k 3rd Party Relations
+@j oekreiner htt://www.e ic ames.com
+
+t ~seNo 4'28-ev-05ti40-YGR
+
+CaseTitling K ' 6e~, XNe v.Ap k, Jive, Exhibit No, 9X-40IO
+
+Date Ettteredl
+
+sweeY . ~ c g y L
+
+Bp:
+
+0 cle r k
+
+----------Forwarded message -- -------
+From: Steve Gibson Date: Fri, Jul 26, 2019 at 9:45 AM Subject: Fortnite Card Economics To: Joe Kreiner Cc: Erick Cobbs
+
+, Devin Winterbottom , Brad Schliesser
+), Jimmy Sieben(
+
+Just the numbers for this thread. Taking into account Sony holding to 17.5% this morning.
+Platform Fees: Nintendo 15% of face value (payment in arrear)
+Sony 17.5% offacevalue (payment inarrear orup front)
+Microsoft 20% (pre-payment of keys last we heard)
+A $10 console redeemed card looks like this:
+
+CONFIDENTIAL
+
+DX-401 0. 001
+
+EPIC 04392567
+
+$1.75 to console platform 17.5% of face value (on average across the 3) $1.20 to Incomm + retailer (it's a blend, usually 2% and 10%) $0.35 toGearbox at 5% ofnet (effectively 3.5% of face) COGS: $0.27 to manufacture to SVS (on average) $0.08 to freight / ingest / peg card (on average) EPIC: $6.35 to Epic
+A $40 console redeemed card looks like this: $7.00 to console platform 17.5% of face value (on average across the 3) $4.80 to Incomm + retailer (it's a blend, usually 2% and 10%) $1.41 to Gearbox at 5% of net (effectively 3.5% of face) COGS: $0.27 to manufacture to SVS (on average) $0.08 to freight / ingest / peg card (on average) EPIC: $26.44 to Epic
+
+CONFIDENTIAL
+
+DX-401 0. 002
+
+EPIC 04392568
+
+

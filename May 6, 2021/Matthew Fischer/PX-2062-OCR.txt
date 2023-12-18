@@ -1,0 +1,203 @@
+From:
+
+Seema Vora
+
+To:
+
+Matt Fischer
+
+CC:
+
+Steve Mcguigan
+
+, Ryan Olson
+
+BCC:
+
+Subject :
+
+Sum mary of Developer Write-In's from FY18 Survey
+
+Attachments:
+
+Sent:
+
+09/16/2018 08:17:25 AM 0000 (GMTI
+
+Hi Matt,
+
+PlAINTIFF
+U.B. Dlelrlet Court - NDCAL
+4t20ev40040-YGR-TSH
+EploGernee,me.y.Apple Ine.
+· u ~ X- 062
+Dele Entered By
+
+Thought you might find interesting a selection of verbatim responses related to the App Store from the FY1 8 survey. Due to limited time we can only include a handful quotes when we share the results with you on Tuesday. Ryan and I thought you would be interested in reading additional verbatim responses that represents the developer sentiment towards the App Store.
+
+Heads up - this email is long, hoping even if you skim through each theme you will find it insighfful:) Each quote is exactly as the developer wrote it.
+
+Best, Seema
+
+Ck What can we do to make the App Store better? Total number of respondents: 3587 (Below a selection from the 3587 responses organized by theme) Region: US
+Search
+· Apple store needs to have "smart search" ability. Having to require customers to spell names exactly correct in this age is ridiculous for a multi-billion dollar company. The same goes for iTunes music.
+· Search in the App Store is (still) really rough around the edges. Apple's differential privacy voodoo should be leveraged here to provide better search results in a way similar to Google (which has an utter lack of privacy but superior search results).
+· Organic discovery is virtually impossible now. There needs to be a better way to perform ASO or generate downloads from search traffic.
+· Although I gave the App Store a high rating, there are few pit falls which Apple can address: o 1) The App Store is plagued with outdated, low quality apps which makes it harder for higher quality apps to get the exposure they need. It's time Apple raise the bar again, and its standard of what gets into the app store. It seems that nowadays, some low quality apps make the cut when they shouldn' t. o 2) Apple needs to be more indie friendly and provide more ways for indies to get their apps and games exposed on the App Store without the need to spend big gi$ on marketing. o 3) the search algorithm is terrible. It is a rating based algorithm rather than a name search. I can search for my apps and type their EXACT name and they still won't come up. I may even need to scroll down 100s of pages before my app shows up. This cycles back to giving us, indies more exposure on the app store as we do not posses massive budgets for marketing and advertisements.
+
+CONFIDENTIAL
+
+PX-2062.1 APL-APPSTORE 02019841
+
+Ranking
+· Getting higher ranking on App Store search is nebulous. We are not really sure how the rankings work besides a mix of download numbers and app ratings.
+· The only gripe I have is with the ranking algorithm. I never understood why some apps that haven't been updated in over a year and with a seemingly low volume of downloads/users would rank higher than more popular apps that have been around for more than a year, are frequently updated, and are exhibiting growth.
+· Currently, App Store search rankings are heavily influenced by download numbers, which creates a self-reinforcing cycle. The most visible apps get the most downloads so rank highest, are the most visible, get the most downloads, etc.
+Featuring
+· Too much emphasis on AR and iPhone X content. That is a very small portion yet you are forced to see it each time you visit App Store.
+· You give everything to the big money makers. Come on folks, help the little guys.
+· Continue to promote apps at an even playing field to games, so they have more exposure.
+· Stop playing favorites o start promoting apps based on value, merit, or quality instead. o Start applying the same rules to all apps, and start eliminating the junk apps from the store. o Users can't find quality apps when it's full of noise.
+· Feature different apps, I see the same app being featured every few weeks. It's not fair, and also makes the App Store boring for users so they don't browse as much.
+Discovery
+· It is really hard to be discovered not Apple's fault just lots of competition. · Not sure. We all want more visibility, know that's a problem with 1M+ apps. · It's all about games which has nothing to do with what I offer. Hard to discover. · Dificult to locate apps, overwhelming in scope. Not sure I have any good suggestions. The scale of the app
+store is immense, and finding apps is like finding a needle in a stadium sized hay stack. If you know the name of the app it's easy, or the developer of the app, but finding an app by function performed is dificult. · Discoverability is still a significant challenge on the App Store (even after last year's update). Our organic downloads for games on Steam are much higher than our games on the App Store, even though the App Store has more active users. This doesn't make sense. · Make it easier for new apps to be discovered. Searching for our precise product name brought up 5-6 competitors for years. It's such a sea of garbage it's almost impossible to be found through the store itself, so we don't bother. We focus our efforts on organic marketing on external platforms.
+Indie
+· Right now the App Store is a dificult place to get noticed and is completely a blind spot for working with the
+
+CONFIDENTIAL
+
+PX-2062.2 APL-APPSTORE 02019842
+
+App Store team. We often feel the review process is heavy handed to Apple and not to creative young businesses trying to grow. We love to see a corner for startups to highlight the innovative work being done here as well and not just games or workout apps which is often all we see in the store. So many startups are fighting in the store and nothing is being done to highlight this work as often. These companies are changing the future and Apple should be highlighting them more and mentoring them to success. Their success isequally Apple's success. · Make it easier for Indies to stand out. Especially ones that don't haven't user data and make quality apps. · The App Store is the biggest lever and opportunity to get in front of customers. For a small app without a big team or marketing experience, it can be daunting. · With that said. I love the new design of the App Store. More of it has shifted to a curated experience, which is great. But being a part of the curation process would be helpful. · You tend to only feature indie apps and apps that spend or earn the most money. There are lots of great apps out there like ours that don't get much attention because we focus our efforts on paying a fair wage to our staff and developing great games, not on sales and marketing. · Have a tab devoted to indie developers.
+Consumer vs Developers
+· I am satisfied with it as a consumer. Again, as a developer, it's a nightmare. I must relearn the convoluted process every time I need to deploy an update.
+· Answer your tickets!!!
+More metrics and performance As a consumer, the App Store is fine. As a developer, make the submission process easier. Store is fine, TestFlight is where all the issues were.
+· As a consumer, the app store has really become a great destination for finding new apps. However, as a developer the tools are still lacking.
+· Theses a disconnect between Apple Developer and iTunes Connect. Be nice to have just one integrated site. The App Store itself seems fine.
+App Review
+· We release every week. When our app is rejected by review for something entirely unrelated to the changes we have made, it's extremely disruptive and throws us off our cadence. Please figure out how to let us proceed with the release and address the issue in the next week's release. I.e., give us a warning that something is wrong instead of being a brick wall for us to run into headlong.
+· The app reviewers are sometimes arbitrary and unpredictable. The app reviewers are not consistent amongst competingapps
+· The review time has improved a lot. But developers could have a better mechanism in case of major bugs found in app that would need to be fixed and replace in the App Store in a timely manner. My suggestion would allow developers to bypass the review process in special cases and perhaps limit the number of times per year a developer can have these special cases. In this cases, when developers choose to bypass the review process, the app would still be reviewed after and if the review process finds that the app should be rejected the App Store would automatically revert back to the last version. This way developers would be penalized if they abuse the bypass for example by publishing a version of the app that has features against the Apple's guidelines.
+· The review process is arbitrary. Applying guidelines consistently makes it easier for developers to publish
+
+CONFIDENTIAL
+
+PX-2062.3 APL-APPSTORE 02019843
+
+apps. I recently had an app rejected when I only changed the license key for some third party software. The app has already been on the app store for several years, but it was rejected for the user experience (which didn't change at all in the update). So it took me about a week to rewrite the app and get it approved. In the meantime the existing license expired so our app stopped working. This caused a lot of frustration for our (and Apple's) users.
+A/B Testing
+· Allow a/b testing. Allow custom messaging by campaign · More detailed analytics on App Store optimization. Allowing negative feedback to be closed because of an
+issue. · More chances to A/B experiment content · Testing promotional material is hard in the App Store. I'd love to see an A/B test ability, similar to the Play
+Store, to allow me to easily find out which screenshots / previews / descriptions best communicate my value to your customers. · Review time should be hours not day(s). Need the ability to A/B test app store meta data and pricing. · Allow us to correct a typo in the app description without having to release an entirely new version of the app. · AB testing of App Store presentation is our biggest issue. It is nearly impossible for us to gauge the effectiveness of our presentation in the App Store. · As stated in the previous field, I create apps for iOS and Android. The App Store desperately needs A/B testing. On Google Play, I' ve been able to optimize my store listing and because of that, I' ve been able to see unbelievable growth. If Apple added A/B testing for App Store listings, everyone would see a lift in downloads and ultimately more revenue for developers as well as Apple. · We think the following ideas might help the App Store:
+o Multiple product/landing pages for games so that we can tailor the creative to individuals based on their entry (ads, social, etc.)
+o A tool to test screenshots, descriptions, icons, and results o Ability to change description without submitting the code again. · Give me ability to update my search words and other metadata for my app so I can understand what effects sales in the most positive way. As it is I can only update search words and metadata with a new version. I don't understand why it is setup this way. o 1) allow me to update store assets without the need to realease a new version o 2) provide me an experiment system/tool where I can test assets and see what's the best combination
+of thosetomake users download more my apps.
+Marketing
+· An App Store marketer conference to help marketers better understand the inner-workings regarding marketing on the App Store.
+· I would also like to see a first-party solution for install attribution beyond "A user installed from this ad." Specifically, we would like to track long-term value of a cohort, e.g.: Users installing from this ad set have made an averagepurchase amount of$X.
+· The developer process is great. The marketer process is incredibly dificult. · I'd love a way to pass a tracking token from the app store download (as can currently be done) and see that
+token when the app launches to continue tracking segments through in-app behavior and in-app purchase (not yet possible). · This way, I can track marketing campaigns through a funnel:
+o 1. from the original ad o 2. to app download o 3. to app launch
+
+CONFIDENTIAL
+
+PX-2062.4 APL-APPSTORE 02019844
+
+o 4. to in-app purchase - the step between 2 and 3 is missing for campaign tracking. · There is currently no way to measure improvement in order to drive engagement. As we change images,
+text, and keywords we may notice better search results, maybe even a better download metric. Without a variant testing framework, there's no way to directly correlate any change. · The store should have more interesting and more personalized discovery paths. · the current marketing dynamics make it pretty dificult to meaningfully acquire users after a big launch. users don't have great organic channels to find medium-sized successes. some kind of "top wau" or "most engaging" chart would be nice. · Increase player engagement on the store by allowing different messages for different user cohorts. One of the most dificult things developers deal with is how to re-engage players. · My role is limited to Marketing and Consumer Communications. In that role, it would be helpful if I could sort, search and analyze ratings and generate reports about ratings and reviews that include any available demographic information and information about the device used. It would also be helpful if an option existed to allow our support team to directly contact reviewers who agree to be contacted by us, in order to help resolve or address any problems. Replying publicly to a consumer who is expressing dissatisfaction with a banking transactions cannot be addressed in a public App Review forum. Since it is impossible to address transaction specific complaints, the app reviews have become little more than a one way complaint portal, with no way for us to address the concerns raised other than asking the consumer to contact us via another channel. · Better instructions on how to create app preview videos. Each time I do it, I feel like I have to relearn it all over again.
+Search Ads
+· Apple has given in to payola (Search Ads). This erodes customer trust and cheapens the app store experience. It also forces developers to hand over more of their revenue to Apple.
+· First off, love the redesign for iOS 11. We don't like search ads being the first thing users see when they search for our app. If they type in our app name directly, we should be the first hit in search results, no matter what other people paid. I understand the need for revenue, but it puts us at a disadvantage. We have to build a great app and outspend our competitors.
+· I think paid search adds are a nuisance as a user and unfairly discriminates independant developpers and small shops.
+· The very concept of it is so un-Apple: As a user, when I make a search I want you to give me the most relevant results first, not the ones that are paying Apple to move on top of the list. Come on, you' re better than this, let this stuff to Google.
+· Eliminate paid search and make discovery more organic. We spend hundreds of thousands to get visibility only to be usurped by a company spending millions. Users care about the value proposition of the app, not who pays the most for ratings and visibility.
+· I'm not a fan of the "paid for" advertising that promotes Apps to the top. I dislike it on Google Search, I don' t like it in the App Store. Promote the Apps to the top that are most relevant to the user search.
+Comparison to Google Play/Amazon
+· Match all the features Google Dev console has been adding · Go back to the way you did it before. Check out the Google play store to see how they' re doing it. It's simple
+and easy and customers are satisfied. You guys have created more hoops than the NBA. · If I were to be as descriptive as possible I would write a book. Aside from the myriad of reasons why I
+despise Apple as a company, your developer program alone is enough to write about every aspect of its patheticness. Google beats you at everything, they always will. Play Developer Control Ul is brilliant (as all their Ul's) and their policies aren't annoying like your's. In short, Apple regulates the very people that pay
+
+CONFIDENTIAL
+
+PX-2062.5 APL-APPSTORE 02019845
+
+money for their shit phones, telling them what type of apps they' re allowed to have. Unfortunately, I have to continue to make Apple apps because of the ignorant sheep that follow your piece of shit company. A~ le.com isn't even a modern site. You people are dated and most disgusting in unimaginable ways. i hope all of you die. Every piece of shit that has had any influence on any part of Apple.
+.
+· The analytics leave a lot to be desired. It's very dificult to use the built-in analytics plafforms to make appropriate business decisions. Currently, Google's Play Store is far and away superior and is getting a lot better every day, and it's not entirely (or even majorly) due to the opt-in only state of most analytics captured by Apple.
+· Google's developer dashboard is far superior. · Make it more interactive between app providers and customers. Think Amazon. People can post questions,
+provide answers, etc. Make it more social, more conversational. · O ur games arepopular enough, butm ake no money. That sequel didn'teven make $100. Because of this,
+we' re no longer making iOS exclusives. Our upcoming game is actually coming to Mac/PC via Steam.
+Maybe some day I' ll bring it over to iOS, but I don't expect it to make any money there. · Google Play works wonderfully
+
+Overall Negative
+
+· The App Store has developed a cultural expectation by users that apps are free. Since you can't make any
+
+money with free, this has led to the toxic freemium model of, for example, Clash of Clans. In a culture of
+
+free, you can't sell paid software without a free trial, which is expressly prohibited by the terms of the App
+
+Store. As a user, I want quality apps with no ads or toxic freemium treadmill-cycle dynamics. However, as
+
+a developer, I cannot profitably make an app for this user. As a user, I have stopped downloading apps, and I refuse to play free games. There are some games, for instance, that I might like to buy, but I would like to
+
+be able to try them first. And as a developer, I want users to be able to try before they buy. The current App Store ecosystem is unprofitable for me as a developer, so I have stopped developing iOS apps.
+
+· Your tyrannical, anti-transparency model is like being in an abusive relationship without the benefits.
+
+· That's your job, not mine. Make the interface process FRIENDLY and EASY. Developers make money for
+
+you-not just ourselves. Your retail customers (I'm one of them) are treated very well, but on the 'back end,'
+
+it does indeed feel like we are on 'the back end.'
+
+· The testing process for in-app purchases is a joke. The API for in-app purchases is a joke. The Ul in general
+
+for in-app purchases is a joke. Tiny login dialogs that popup out of nowhere? Really? · Don't force people to use it. Open up to other ways too distribute apps.
+
+· Release is stressful as it is unpredictable and the rules are weird and arbitrary · Bum it to the ground and start over · I' ve said what I need to say. Take a huge monkey wrench to your guidelines and loosen them greatly, while
+
+giving a nice old talk to your review board about this word called consistency. · I think again your stagnant and not being a visionary - you are simply okay with not thinking different.
+
+· Millions of people don't care about games, but the App Store seems to bombard visitors with this pointless
+
+nonsense. Isn't it enough that there is a dedicated Games tab? Must games also be included in the Today
+
+tab? · I would be very surpised if anyone even see's this comment. Email me at
+
+and help
+
+me resolve my problems. I got a better chance of winnnig the lottery than getting a response from you.Also,
+
+I personally find the new App Store Design to be worse than the old one.
+
+Overall Positive
+· Apple App Store is the best and top new innovations are expected · The design is getting better for sure. It's starting to tell more of a "story". Please keep innovating on that idea. · I think the new App store has already made it a lot better. A lot of my apps are being seen more than they
+
+CONFIDENTIAL
+
+PX-2062.6 APL-APPSTORE 02019846
+
+were before. I don't have any other suggestions. · I have no direct feedback for this. I am very satisfied with current level of the app store. · By looking at and using the iOS 11 App Store, it's clear that Apple cares about the App Store -- I mean, the
+animations, curation, etc. is phenomenal. I guess my gripe is that these promotions are still geared towards mainstream use -- high-profile games, productivity tools, etc. · First, thank you significantly reducing app review times. This has made a tremendous difference. · I'm a big fan of the new "Today" tab. I enjoy reading more about the developers that inspire me and I love all the custom illustrations. · I love what you' ve been doing with the home screen / today screen. The original artwork is unbelievable, and makes the whole thing feel like a magazine. More of that. More niche touches. And for the love of all that is magnetic, give users more ways to discover new apps. The today screen is a great start. But charts + search fall short. Maybe re-introduce an app wish list, where you can leave notes. Like with Steam, you could wishlist items and be notified when they go on sale. Then an annual spring sale could be a huge revenue dnver. · I actually think the App Store is pretty good. You guys do a good job of quality control here, and make it relatively easy to get into it. · I like the new method of featuring stories of developers and their apps. I would love to see more personal stories about the making of apps and features of developers and not just specific apps. · Really enjoying the editorial-type content · Keep up the great work that's led to 24-hour-and-less review times. I really appreciate the progress that' s been made.
+Other
+· Many of the children's market on the App Store is akin to the cheap grocery stores that sell candy at the checkout counter, within a child's reach. It's a disgrace that so many apps are free to download but only have content for 1-2 "levels" before they require payment for more "play time", and are readily available in either Education or Kid's sections of the App Store. It really makes it seem like Apple does not seem to be a company that cares about kids and how they are treated with marketing gimmicks.
+· Provide more revenue opportunities for struggling high quality kid's educational app makers. · ALLOW DEVELOPERS TO ISSUE REFUNDS. This is beyond frustrating for us. Your awful polices make us
+look bad and it's painful to have to direct users to you. · No idea. It's a mess. It's too late to undo the mistakes of the past. It's created a race to the bottom and is full
+of garbage. · Give a place for developers to congregate right in the store too. · The App Store needs to support the paid apps business model better. While a developer has the ability to
+set any price they wish, the App Store doesn't provide the mechanisms to help developers of higher priced apps. · The more Apple can continue to do to editorially elevate unique, high quality software, the better. At the end of the day it's on developers' shoulders to do our own marketing, and we accept that, but Apple's position as the centralized browsing and shopping location puts it in a position to really help customers locate the best software for their needs. It looks like things are moving in the right direction with the iOS 11 App Store and with the forthcoming 10.14 Mac App Store. I think Apple should strive to ensure that effectively all of the particularly high quality software in its stores is annotated by Apple editorial reviews, and classified into as many purpose-based categorical round-ups as possible. Increasing the number of diversity of categorical drill-downs would also be helpful.
+0 Seema Vora l App Store Developer Marketing l
+Grow your business with resources designed to help you create great apps and reach more users. Learn more on
+
+CONFIDENTIAL
+
+PX-2062.7 APL-APPSTORE 02019847
+
+CONFIDENTIAL
+
+PX-2062.8 APL-APPSTORE 02019848
+
+

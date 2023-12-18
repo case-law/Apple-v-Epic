@@ -1,0 +1,101 @@
+Ik Develaper
+
+Discover
+
+Video Partner Program
+
+Design
+
+Develop
+
+otstntute
+
+SDPPolt
+
+Account
+
+Q
+
+Since 2016, the Apple Video Partner Program has enabled premium subscription video providers to participate in a new TV watching experience on the Apple TV app, helping customers discover the world"s best premium video content in one
+app, across all their devices,
+How it works
+This program is designed for apps that deliver premium subscription video entertainment services. PartiCiPating aPPS are required tO integt ate With a number Of APPle teChnblagieepauCh aS UniVefael Search, Siri, AirPlay, and single sign-on ar zero sign-on, to ensure a seamless experience far cuatamars As a result of this integration, these apps are featured on. the Apple TVappend thraughaut tvOS, and their content. is discoverable thraugh Universal Search and Sidi. As aprogram member,yauearn00% ofsalesfraincustomerswha signupusing Apple'sin-app pumhase system. You may also allaw customers wha subscribe using your payment method outside of the app ta us'e that payment method for additional video tf ansactians within the app. You mustenablein'app purchaaetq enjoy these economic benefits
+Participants
+As oF fall 2020, over 130 prefytium subscfIption video!.ntertainment providets around the world hake signed on to participate in this pragram, such as Amazon prime Video, Binge, canad'ian Broadcasting
+CarParatian iCBC}, Clara Video, 0 Mare, DAZNEDienby+, GIOba, HBO MaX, Jayn, Mafatax, MUBI, myCana'I, STARZ, and Viaplay
+Eligibility arid requiremerits
+To be eligible fcrr the Apple Video Partner Program: · The pftmaryfunctiari af your app must be tq deliver ye ur awn subscription set vice for premium Yidea
+entertainment cantent
+e Ycrur epp must o Be available an bath ios and tvos. I Support Live Tune-In for yaur live content. e Integrate Vrtth UniVeraal Scarab, Siri, and the Apple TV gpp In all regianS Vyhere thgee featuree'and your service are available e SupportAirPlay.
+e If customers are atyle ta access your app's content byauthenticatihg with credentials Fram a pay TV provider ar it a pay Tv provider distdbutes A pie Tv AK}ar Apple Tv HD as a sef tap box your ppp must support dthgle sign-on and zeal sigrr-oh, aa applicable
+e Ta partidIpate in the econcrmic benefits, yaur app must alktw users to purchase thraugh Apple% ln-
+app purchase system
+e You must agree to a separate addenduln ta the standard Developer Plagram LicenseAgreement
+The program is cut rentlyavailable ta Apple Developer Pmgrdrrr memtfers based in Australia, Bradtl, Canada,Prance, Germany. Japart,M exic'a,the,Neth'erlandg, Noriway,Russiarspainfswederi, the Un'ited Kingdom, and the Uriitedstates.
+Tell us about your app.
+If your are a premium subscfIption video entertainment provider and you think your app qualifies, or if you have questions, let us know.
+
+Developer v o l p n e lpI 9 ffl
+
+D
+os
+Pl BOS
+m os 2 os
+at hos S fa I d y l b ea
+
+Na ht t f a d
+vde a Appl De gp A d F
+Laaay tla I
+
+D Ip
+x
+s ft s IIIFI yg o I I I tFI ght
+D ff ht t
+vd D I ad
+
+D I p t p g em App st App Re u S ft e App fata a a Sf l e u c i h u Iket hg R
+
+Ed tt WWDC
+
+r I t h I t N d I p h ,y tN c Pyfghto 2 021APPI fh Ag hght Ia
+
+ah d u p dat a d r er f u I P y l ' I y I L
+
+* gree
+
+S pp At
+
+F dt k aaagR p tt g syu m st t cat t u
+
+A
+
+t
+
+certlf me, Id tl f a, P II I
+*ops«com ot
+
+DX-3421.001
+
+United States District Court
+
+«I
+
+NorthernDistrictofCalifornia
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games,Inc.v.Apple, Inc.
+
+Exhibit No. DX-3421
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+APL-EG 07868683
+
+

@@ -1,0 +1,180 @@
+Subject: Re: IMPORTANT: iPhone SDK
+
+Front: Philip Schiller
+
+Received(Date) Tue, 05 Aug 2008 03:29:53 -0700
+
+To: Scott Forstall
+
+Cc: Steve Jobs Okamoto
+
+,G c(r ) r r k~
+
+Date Tue, 05 Aug 2008 03:29:53 -0700
+
+PLAINTIFF
+U.S. DrerrrctCcerl - NOCrkl
+4420ev45640 YGR TSH
+eprcGmeerkIcc. m rrpprercc.
+e e ~ %$ 9
+Cele ecleree ay
+,R
+
+I didn't get any call.
+
+Anyway, to the important topic: developers can share and post thier own code, that is not covered under the NDA. It never was and we even updated the license awhile ago to make that language very clear.
+
+There is concern about open source code, that is a different term than the NDA language. With OPL 3 there is a serious issue with tainting that we have to protect ourselves from.
+The Adobe employee is the one who created the ciPhone Dev Camp" and held the ftrst one before WWDC atAdobe. Everyone came toRon and Iand asked us w hat we w eregoing todo about it. We didn't need to do anything as he can hold an event and great a program but he can' t just copy our content to do so.
+We plan to start working with book publishers and will see how our efforts there go. Please forward any book publisher that you think we should work with to us.
+
+Your right, Android will be completely open. It will also be open source and may be free to handset makers to change and ship. I don't see how we can have anything like thier license and business modeL Why does it make sense to say that unlike Android, the iPhone OS won't be open source, won't be licensed to other handset makers, but the marketing language around documentation and sample code is going to kill support for us? Doesn't make sense to me.
+This feels to me just like the argument earlier this year around app distribution (where because of the Stanford class example it was argued that we had to open up distribution to anyone, anywhere.) I'm glad we didn' t. We found another solution that was more limited but worked. The complaints didn't go away and Android will allow any app distribution developers want but we have a solution that we think is good for now.
+I think this is the same kind of situation. Like then, if you want us to remove all the NDA language to make the complaints go away we wilL I think that would be wrong and don't like doing it. I think we can make the language we have work, it is all about what information we choose to protect and what we don't chooseto protect. We can protect all the content (as we did during the beta), none of it, or just some (and I am advocating protecting some),
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+Exhibit PX 879
+PX-0879.1 APL-EG 00564591
+
+Sent from my iPhone 3G!!!
+
+On Aug 5, 2008, at l:03 AM, Scott Forstali
+
+) wrote:
+
+I called but didn't get ahold of you this evening.
+
+We have been planning to put on an iPhone development class at Stanford in the fall. They are balking now because of the NDA. One issue they have is that classes are videotaped and put online later (possibly through iTunes U in addition to the campus television network). They are afraid that the NDA may prevent that.
+
+I have also heard from authors who are afraid to publish books about iPhone development because of the NDA.
+
+And I have heard from developers who are afraid to publish sample code, give out open source code, or comment on development websites because of the NDA.
+
+We really, really want to create an incredible developer community, want to have tons of books about iPhone development, and want to encourage courses on iPhone app development at universities. Even if we could convince everyone that the NDA is not as restrictive as they fear (although in some cases I think it might be), why bother? Why not just let the community thrive?
+
+I expect Android to be completely open: no NDA, open source, etc. I don't think it serves us to be so closed in comparison.
+
+I'm not familiar with the ex Adobe employee's developer program, but if he wants to teach developers about how to develop for the iPhone, why not let him'? We should be encouraging people to learn about iPhone development. And since we have created the best materials, why not let them use our materials? It's just like buying our textbooks and teaching from them.
+
+Maybe I'm missing something (which is definitely possible), but I don't think we' re hiding anything useful with the NDA-just scaring away potential developers.
+
+--S.
+
+On Aug 4, 2008, at 9:38 PM, Steve Jobs wrote:
+
+Scott really disagrees on the second point. I think you need to make a much better and complete argument if you want to keep the NDA. I think we need to decide really soon if we want to capture classes at MIT and Stanford this fall.
+
+Steve
+
+Sent from my iPhone
+
+On Aug 4, 2008, at 8:30 PM, Philip Schiller
+
+) wrote:
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0879.2 APL-EG 00564592
+
+I am not comfortable putting it all down in an email. But suffice it to say that I think the NDA is very important for both marketing and legal reasoms.
+Marketing: for example it helps us to manage the proper distribution of the content (docs, samples, etc) as well as authorize developer programs and events (for ex the Adobe employee who started an outside iPhone developer program of his own knows he can't just take all our materials to make his event).
+Legal: the NDA is likely useful to help in defending against the creation of copycat SDKs and applications created outside the terms of the agreement that couldn't have happened without knowledge of some content within our program and under our NDA.
+Again, it isn't necessary to have all content under the NDA, just some supporting some key new innovative APIs (eg Cocoa Touch).
+
+Sent from my iPhone 3G I!!
+
+On Aug 4,2008,at5:06 PM, Steve Jobs
+
+wrote:
+
+Can you articulate the benefits we gain Irom the NDAP
+
+Steve
+
+Sentfrom my iPhone
+
+On Aug 4, 2008, at I:55 PM, Philip Schiller
+
+> wrote:
+
+Ron and team will help us pull together (talking to a number of universities) what the facts are. If we have a real issue that needs addressing we will address it.
+
+I just don't see how it can be as black and white as all students and professors can't work with any NDA terms or any of the content under an NDA of any kind at all. We have many, many
+studentsand professorswho have already accepted the currentMac OS and iPhone agreements with the NDA language already. We have had many students and professers attend WWDC (in which all content is under NDA) for years. I have heard talk of confidential projects sponsored between businesses and universities over the years that would not have been possible without an NDA.
+
+I am not saying that theremight not be an issue, I just think we need to completely understand if there is and exactly what there is before we can device and solution. Simply removing an NDA to all content is in my opinion possiblt not the right or best solution.
+
+So we will dig more into this until we are all comfortable that we understand the issue.
+
+Sent from my iPhone 3G !!!
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0879.3 APL-EG 00564593
+
+0 A · 4, 7000, t tg:47AM, gt 7 0
+
+Well, we' re going to lose the University class market then for sure. MIT, Stanford, etc., will all teach Android instead of iPhone... Steve
+
+On Aug 4, 2008, at 6: I l AM, Philip Schiller wrote:
+
+I think our agreement is set up perfectly to enable us to do whatever we want to do. The key is what information do we choose to make public and what do we keep protected under the NDA. No change is needed in our agreements to support whatever we want to do.
+
+Paraphrasing, what the agreement saysis that anything released by us into the public is free and clear, anything not is protected under our NDA (this is similar language to the Mac OS X developer agreement). We have areas on the WWDR site for posting things publicly and areas for posting things privately (these both exist for Mac OS X, it was all just private for iPhone during the beta and we are setting up the public areas for the iPhone).
+
+During the beta everything was posted protected under the NDA. Now post beta we are moving content out publicly. We are going to start by putting out everything that has been public under the Mac OS X program also public under the iPhone program (this may already have happened, the team was working on it when I left).
+
+The big thing that leaves out is all the new Cocoa Touch content created for the iPhone release. We can review that and decide what to do with it once the other content I all available publicly.
+
+We are also going to start helping book publishers on a case by case basis for now (we have also done Mac OS X that way previously). Later we can look at whether we want a gebral license for book publishers (the language can get tricky).
+
+I think this is the right way to handle this. I know some developers want our agreements to promise that everything will always be public and free, but I don't agree with that. I think we need the safety of some NDA coverage and the ability to put things out any way we want (public or protected).
+
+Sent from my iPhone 30!!!
+
+On Aug 2,2008, at8:18 PM, Steve Jobs
+
+wrote:
+
+I think our NDA policy is hurting us, and it's going to get worse once Android is out there.
+
+Steve
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0879.4 APL-EG 00564594
+
+From:
+Date: August 2, 2008 4:29:43 PM PDT
+v:~
+
+Subject: IMPORTANT: iphone SDK
+
+Mr. Jobs,
+
+Can we developers get some reliefby you saying something to publishers about releasing their books on development with the iPhone SDK'? Apparently everyone is holding off because they fear theNDA that is still in effect.
+
+Can you do something about this? I'm a paying member of both ADC developer programs,
+
+and I would like some of these books to help me with my iPhone project. Pm specifically
+
+wanting the book written by the Pragmatic Programmers
+
+/'
+
+)
+
+Tell them they can publish!!! Please? I'd like to make some money to buy my kids MacBooks...then quit my job.
+
+Thanks!
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0879.5 APL-EG 00564595
+
+

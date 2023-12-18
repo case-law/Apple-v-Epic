@@ -1,0 +1,142 @@
+From: Has eeb Malik
+
+Sent: Fri , 27 Sep 2019 15:51:08+0000(UTC)
+
+To: Jack Porter
+
+Cc: Al ee Shobin
+
+Ty er
+
+Subject: Re:Scoping FN Build for Google Play
+
+Chris Babcock illen
+
+united StatesDistrict Court
+Northern District of California
+
+Case No. 4:20-ev-05640-YGR
+
+Case Title Etric Games,free a .dtrpfc. Ine Exhibit No.DX-3069
+
+Date Entered
+
+Surer Y. Sesaa.Clat
+
+etr
+
+, cesar Clerk
+
+Thanks Jack, I will add representatives for those groups to the synch.
+Yes, there was a talk about Kairos+ FN Installer, and even just Kairos. Ed and MarkR went out to Google to pitch it. Long story short there was a legal hurdle. There are two main clauses that prohibit the use of Google Play to 'sell away' frotn the Play store. Both 4.5 and 4.9 in the Developer Distribution Agreement blocks the use of an app to distribute or collecting user infortnation to do so. Netflix, Atnazon, Spotify circumvent the GP store by having links that go directly to a user's account management page. Google Play Developer Distribution Agreement
+
+4.5 You may not use Google Play to distribute or make available any Product that has a purpose that facilitates the distribution of software applications and games for use on Android devices outside of Gangle Play.
+
+4.9 You will not engage in any activity with Google Play, including making Your Products available via Google Play, that interferes with, disrupts, damages, or accesses in an unauthorized manner the
+devices, servers, networks, or other properties or services of any third party including, but not limited to, Google or any Authorized Provider.You ma~not use user information obtained via Goozle Play to sell or distribute Products outside of Google Play,
+Source:h s/ / l a oo e co m/intl/ALL us/about/develo er-distribution-a reementhhnl
+
+Now we are going another route and the goal is draw Google into a legal battle over anti-trust. Once we are ready to submit, Epic will announce publicly that we are going to Google Play. If we are rejected for only offering Epic's payment solution. The battle begins. It's going to be fun!
+
+Thanks for helping, if you could help me with a ballpark on time to submit/launch, Id like to smrt setting some expectations with teams.
+
+Thanks!
+
+On Fri, Sep 27,,2019 at 11:39 AM Jack Porter
+
+wrote:
+
+Anticheat, Kairos and the Portal/Android installer team needs to be included. There are a bunch of issues that will impact them, for example some more issues that have come up recently: - Can we use the same apk for Google Play and the Installer? - App bundles would incan handing signing off to Google Play and this may cause issues validating the apk and its signatures for Anficheat. - Are builds installed by Google Play updateable by the Installer, eg can our users who used the Play Store build continue to update even if Google pulls the plug and remove us from the Play Store? - What can we do about the UX being unable to filter users only on compatible devices using the Google Play store, leading to disappointed users blocked after downloading.
+
+A Fortnite Play Store build is doable but there are a number of caveats and rough edges that we need to fully map out and report back.
+
+As a side node, have we considered a Kairos + Fortnite Installer Play Store build? That could both expand Kairos to lower end phones and could potentially be simpler.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3089.001
+
+EPIC 00428883
+
+On Sat, Sep 28, 2019 at 12:26 AM Haseeb Malik
+
+rote:
+
+Re-surfacing this to the top of your respective inboxes. Who outside of this group needs to be involved with preparing the build for Google Play? This would include the payinent registration flow UX etc. The directive is froin TimS and we are due for an update next week, A separate thread with legal has alreadykicked offwithCanon. We will kickoff a weekly synch on this to get the right people in the room.
+
+I appreciate your help here.
+
+Thanks!
+
+On Tue,Sep 24,2019 at6:31PM Alee Shobin
+
+ote:
+
+Great breakdown, thanks for sharing all the details.
+
+1.1
+
+REDACTED FOR PRIVILEGE
+
+!
+
+2. If we wanted to figure out how long it would take to do the work above, or rough out a timeline,
+
+who else would need to be involved? Does this span other teams besides anti cheat?
+
+Thanks again for all the info. Sounds like a very involved project so want to make sure I'm talking to all the right people.
+
++Haseeb Malik for vis
+
+On Tue,Sep 24,2019 at6:23 PM Chris Babcock
+
+ote:
+
+One more point; to use App Bundles we have to turn over the keystore file to Google's control so they can resign the APK. Might want to talk with anticheat about that as we rely on this to validate builds along with the CRCs which might change if we don't control the process.
+Lastly, we' ve been adding a feature to download serial-numbered APK builds that are unique on Android with our installer!!backend, too, and cannot do that with Google Store.
+
+Chris Babcock
+
+On Sep 24, 2019, at 6:11 PM, Chris Babcock
+
+This would be quite a bit of work to put Fortnite itself on the store: 1. We disabled runtiine permissions and deliberately use an old target SDK which Google Play Store does not allow.
+2. With our own installer we are not limited in the APK size; we currently exceed supported size. App bundles may get us some more room but we' re already approaching that limit, too.
+3. We rely on Fortnite Installer for analytic and funnel id tracking.
+4. We use the Fortnite Installer for updating.
+To put the Fortnite Installer instead would be easier but it would still have to sideload so we would not get any advantage of easier install (user would still have to enable installing like we do for
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3089.002
+
+EPIC 00428884
+
+Chroine install),
+
+Are you sure about bypassing the 30%?!
+
+REDACTED FOR PRIVILEGE
+
+REDACTED FOR PRIVILEGE
+
+Chris
+
+On Sep24,2019,at5:33PM, Alee Shobin
+
+wrote:
+
+Hey Jack, Chris and Tyler, Do you know how long it would take to inake a build of FN that could function on Google Play but only support our existing payment methods'? How would that userflow differcompared to normal Google Play apps?
+For context, Store team was briefing Tim on the changes to the Android Installer needed to support more games - he asked them to scope out what it would take to make the build I described above (it gets around their 30% revshare cut). I believe someone said it would take 6 months. However, the store team aren't the folks that would do this, right? Wouldn't it be you guys? And maybe you could do it faster?
+Let me know what you think, this could be pretty awesome and I'm eager to see how I can help.
+Thanks,
+-Alee
+
+Alee Shobin Publishing, Mobile I Epic Games
+
+Alee Shobin Publishing, Mobile I Epic Games
+
+Haseeb Malik Marketing Director Mobile Publishing I Epic Games
+
+Haseeb Malik Marketing Director Mobile Publishingi Epic Games
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3089.003
+
+EPIC 00428885
+
+

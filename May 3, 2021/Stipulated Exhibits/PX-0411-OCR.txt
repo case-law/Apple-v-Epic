@@ -1,0 +1,3408 @@
+CONFIDENTIAL
+
+PLAINTIFF
+U.S.Dlslrler Corrrr- NDCAL
+4:20cv4I504hYGR-TSH
+srrl'cGrrrllOSrlrr. Kripprrr llrr.
+a(.ND. PXA41 1
+Sy
+Exhibit
+PX 411
+PX-0411.1 APL-APPSTORE 09113508
+
+v er isin vo U i o n
+July 16, 201S
+PX-0411.2 APL-APPSTORE 09113509
+
+Purpose
+Honest assessment ofour ad business.
+Performance isn't meeting expectations.
+Optimize our approach.
+Focus on areas where we are uniquely equipped to win.
+Agree to go forward plan.
+Considerations for execution.
+PX-0411.3 APL-APPSTORE 09113510
+
+What We' ve Learned
+
+Market
+Offer not competitive.
+Facebook, Google and Yahoo have massive inventory and data advantages that enable more cost effective ad solutions.
+Media sales increasingly
+inefficient.
+Available options for mobile advertising have grown exponentially, resulting in longer sales cycles and lower close rates. In addition to
+
+Flawed Business Model
+Content costs too high
+Revenue share/content costs in the App Network, Radio and News require unlikely user scale (i.e. 3-4x increase in listening) to cover fixed costs of running the businesses.
+Data required to create relevance.
+Competitors operate unconstrained in capturing and using user data for ad targeting. Agencies demanding hashed user level integration and ID exposure for automated buying.
+
+CONFIDENTIAL
+
+PX-0411.4 APL-APPSTORE 09113511
+
+A ssum tions o r FY P an
+Advertisers will choose economics over softer value propositions.
+Majority of market is direct response focused making data 8 optimization the core marketing strategies.
+Access to data internally at Apple becomes more restrictive for ad monetization.
+Eliminating cross app data profiling for advertising constrains value of data poor environments like the App Network and Music.
+Competition intensifies as large scale platforms begin and/or push limits in monetization & measurement.
+Profiling and attribution become baseline expectations of marketers and agencies looking for media buying eNciencies and insights.
+Monetization of News feeds and control of ad user experience important for Apple.
+
+CONFIDENTIAL
+
+PX-0411.5 APL-APPSTORE 09113512
+
+o cus an s i m
+Let's solve the problems we are uniquely equipped to solve.
+PX-0411.6 APL-APPSTORE 09113513
+
+Two Mutually Exclusive Proposals
+
+App Store Search
+· Sunset existing iAd business + platform.
+· Eliminate monetization programs for
+app developers, ad-supported radio, and inNews feeds and backfill.
+· Enable mediation layer in News to
+strip out IDs, manage opt-outs and
+ensure privacy is maintained.
+·Singularfocus on endemic business.
+
+Ad Platform w/o iAd and
+n
+· Maintain ad platform for News, expand for app developers.
+· Maintain monetization of News feeds
+and backfill for publishers using resellers 4 BD deals.
+· Retain option for ad-serving and
+creative platform to be applied to
+other future business opportunities (i.e. Apple Pay, Maps, Siri, etc.)
+
+CONFIDENTIAL
+
+PX-0411.7 APL-APPSTORE 09113514
+
+Recommending Two Mutually Exclusive Options
+
+App Store Search
+· Su nset existing iAd business + apltform.
+· Eli m inate monetization programs for app
+developers, ad-supported radio, and in News feeds and backfill.
+· En able mediation layer in News to strip out IDs, manage opt-outs and ensure privacy is maintained.
+· Singular focus on endemic business.
+
+Ad Platform w/o iAd and Radio
+· Maintain ad platform for News, expand for
+app developers. · Maintain monetization of News feeds and
+backfill for publishers using resellers & BD deals.
+· Retain option for ad-serving and creative platform to be applied to other future business opportunities (i.e. Apple Pay, Maps, Siri, etc.)
+· Costs $120 million per year to operate
+
+CONFIDENTIAL
+
+PX-0411.8 APL-APPSTORE 09113515
+
+App Store Search
+Enables promoted discovery for developers A natural 8 highly profitable business for Apple
+Relevance + bids create balance via algorithm
+Environments with clear user intent garner the vast majority of marketing dollars.
+PX-0411.9 APL-APPSTORE 09113516
+
+Trending Searches
+
+Trending Searches
+
+l
+
+a
+
+hobo
+le Ob OIO
+N N ybe»
+(rooby nl y
+
+Q
+
+· Sponsored ad will be at the
+top of the trending searches · App developer uses iAd
+Workbench to place ads
+
+1/4 Page Card
+N
+®-lbl« lb
+C3
+O 0
+
+Sponsored Search
+1/3 Page Card
+
+Video Card
+
+· AN
+
+O
+
+®'-Nl e -
+
+lb '
+LJ
+
+0
+
+ON Hl ONleyeln · Oyee eo,ae,yell,,
+
+~~ ( (
+~
+
+O Oy
+Iys l . ll
+
+Q
+
+®N e
+
+0
+
+o oooeNIN else e o I NOOOO.
+
+lR. :
+
+Q
+
+· Sponsored ad will appear in the 1st position in the Search results
+·App developer uses iAd Workbench to buy keywords and provide ad copy
+· Assets for the ad will be pulled from the app's metadata and/or iAd Workbench · iAd will optimize the ad format to be shown based on performance · All ads comply with Apple Marcom, App Store yreaiAd policies
+
+CONFIDENTIAL
+
+PX-0411.10 APL-APPSTORE 09113517
+
+A t ore ea r c
+Endemic solution for discovery and app promotion
+Core product offering:
+1. Data: Search query and Store history most valuable data sets for determining
+future action
+2. Creative: Entirely automated via existing assets in iTunes App Store
+3. Demand: Internal channels and natural developer desire to promote on App
+Store already exist
+4. Measurement:Closed loop reporting capability all within existing iOS framework
+5. Privacy: Honors all user controls, provides transparency and leverages data
+framework of only usinq data available within the app, includinq reqistration,
+
+CONFIDENTIAL
+
+PX-0411.11 APL-APPSTORE 09113518
+
+A t ore ea r c
+Endemic solution for discovery and app promotion
+Core product offering:
+1. Data: search query and store history most valuable data sets for determining
+future action
+2. Creative: Entirely automated via existing assets in iTunes App Store
+3. Demand: internal channels and natural developer desire to promote on App
+Store already exist
+4. Measurement: Closed loop reporting capability all within existing iOS framework
+5. Privacy: Honors all user controls, provides transparency and leverages data framework of only using data available within the App, including registration,
+search 8 download historv and real-time device sianals.
+
+CONFIDENTIAL
+
+PX-0411.12 APL-APPSTORE 09113519
+
+App Store Search
+4-year revenue outlook
+
+ReVe nu e Isin millions)
+United States
+Japan
+China Total
+Assumptions No. App Store Searches (B) Organic Conversion Rate Sponsored Decelerator factor
+Keyword Sell-through
+Cost per install
+
+108. 7
+108.7
+
+314.3 8.9 22.3
+345.6
+
+501. 3 31.5 75.3
+608.1
+
+660. 5 63.0 84.8
+808.3
+
+13.9 10% 60%
+6%o
+$3.00
+
+24.9
+9%o
+50%
+7%o
+$2.93
+
+27.7 9% 40%o 12% $2.84
+
+30.5
+9%o
+40% 17% $2.55
+
+CONFIDENTIAL
+
+PX-0411.13 APL-APPSTORE 09113520
+
+App Store Search 4 Year Revenue Outlook
+
+Revenue United States
+Japan
+China Total
+Assumptions for Search Resuits No. App Store Searches Keyword Sell-through Sponsored Decelerator factor Organic Conversion Rate Cost per install
+
+$108. 7
+$108.7
+
+$314.3 $8.9 $22.3
+$345.6
+
+13.9B 6% 60% 10%
+$3.00
+
+24.9B 7% 50% 9%
+$2.93
+
+$501.3
+$31.5
+$75.3
+$608.1
+27.7B 12% 40% 9%
+$2.84
+
+(S in millions)
+$660. 5
+$63.0
+$84.8
+$808.3
+30.5B 17% 40% 9% $2.55
+
+CONFIDENTIAL
+
+PX-0411.14 APL-APPSTORE 09113521
+
+Revenue
+Headcount Related
+Engineering
+Other Operating Cost
+Infrastructure
+Placeholder
+Capital Cost
+Net Cash Flow
+
+App Store Search
+
+~ Qg~ ~ ~ ~
+
+$34.0
+$1.1
+$35.1
+$200.0
+$200.0 -$235.1
+
+$108.7
+$ 54.3 $ 3.5 $3. 8
+$ 61.6
+$ 15.0 $ 25.0
+$40. 0
+$ 7.1
+
+$34 5 . 6
+$70 . 2 $5.9 $4.5
+$80.6
+$15 . 0 $25 . 0
+$40.0
+$225 . 0
+
+$60 8 . 1
+$84 .1 $8.5 $5.1
+$97.7
+$15 . 0 $25 . 0
+$40.0
+$47 0 . 4
+
+$80 8 . 3 $1, 061.1
+
+$95. 8 $10. 8 $5.8
+$112 . 4
+
+$109.2 $13.2 $6.5
+$128.9
+
+$15. 0 $25. 0
+$40. 0
+
+$15.0 $25.0
+$40.0
+
+$65 5 . 9 $89 2 .2
+
+R ate of Return (IRR) % 86.4 %
+
+CONFIDENTIAL
+
+PX-0411.15 APL-APPSTORE 09113522
+
+App Store Search
+
+· KRRERRRERKRI R E RR R EIR · RRHERRRMRRERERERKRKR55
+
+ReVe n u e (sinmillions)
+
+$0.0 $10 8. 7 $3 4 5. 6 $6 0 8. 1 $8 08.3 $ 1 061.1
+
+Headcount Related Engineering Other Operating Cost
+
+$34.0
+$0.0
+$1.1 $35.1
+
+$54.3
+$3.5
+$3.8 $61.6
+
+$70.2
+$5.9
+$4.5 $80.6
+
+$84. 1
+$8.5
+$5.1 $97.7
+
+$ 95. 8 $ 10.8 $5. 8 $112.4
+
+$1 09.2 $ 13 . 2 $6 .5 $ 128.9
+
+Infrastructure Placeholder Capital Cost
+
+$ 0.0 $200.0 $ 200.0
+
+$15. 0 $2 5.0 $4 0 .0
+
+$15.0 $2 5.0 $40.0
+
+$15.0 $2 5.0 $40.0
+
+$15.0 $25.0 $40.0
+
+$15.0 $25.0 $40.0
+
+Net Cash Flow
+
+-$235.1 $7 . 1 $22 5 . 0 $4 7 0.4 $6 5 5.9 $8 9 2.2
+
+Rate of Return (IRR) 8 6 .4oj,
+Note: the above assumes a US launch in October 2017, Japan/China launch in October 2018 Placeholder for technology acquisition and other unforeseen startup/operational expenditures
+
+CONFIDENTIAL
+
+PX-0411.16 APL-APPSTORE 09113523
+
+App Store Search
+
+$ Millions
+Revenue COS
+Std Margin
+
+4 Year PBL
+
+Plan - July v3 FY'16
+
+Estimate FY'17
+
+$108.7M
+
+$108.7M
+
+Salary & Fringe Stk Based Comp Infrastructure & Data
+Tech Ops Vendor
+Other
+OCOGS
+
+$0. 1M $0.0M
+$0.1M
+
+$0.4M $0.2M $1.5M $1.0M $0.5M
+$3.5M
+
+Salary & Fringe Stk Based Comp & Bonus Hiring Incentive
+Commission
+Sales Offices Engineering Vendor
+Marketing Programs
+T&E/M&E/CC Fees/Other
+OPEX
+
+$19.2M $11.5M
+$3.3M
+$1. 1M
+$35.0M
+
+$34. 1M $18.7M
+$1. 1M $1.0M $1.0M $2.0M $0.3M
+$58.1M
+
+Contribution
+
+($35.1M)
+
+$47.1M
+
+* Bandwidth, Data, and lime to fÃarket Cost are high level estimates and need to be defined
+
+i
+
+Estimate FY'16
+
+$345 6M
+
+$345.6M
+$0.4M $0.2 M $3.5M $1.2 M $0.6M
+$5.8M
+$44.4M $22.3M
+
+$2.9M $1.0M $1.2 M $2.0M $0.9M
+$74.7M
+$265.1M
+
+t
+
+Estimate FY'19
+
+$608. 1M
+
+$608.1M
+0.4 $0.2M $5.5M $1.5M $0.6M
+$8.2M
+$53.8M $25.2M
+
+$4.6M $1.0M $1.5M $2.0M $1.5M
+$89.5M
+$510.4M
+
+CONFIDENTIAL
+
+PX-0411.17 APL-APPSTORE 09113524
+
+Revenue COS
+Std Margin
+Salary & Fringe Stk Based Comp Infrastructure 8 Data Tech Ops Vendor Other
+OCOGS
+Salary & Fringe Stk Based Comp & Bonus Hiring Incentive Commission Sales Offices Engineering Vendor Marketing Programs T&E/M&E/CC Fees/Other
+OPEX
+Contribution
+
+App Store Search 4 Year PBL
+
+$0.1 $0.0
+$0.1
+$19.2 $11. 5
+$3.3
+$1.1
+$35.0 -$35.1
+
+$108. 7
+$108.7
+$0.4 $0.2 $1.5 $1.0 $0.5
+$3.5
+$34. 1 $18.7
+$1.1 $1.0 $1.0 $2.0 $0.3
+$58.1
+$47.1
+
+$345.6
+$345.6
+$0.4 $0.2 $3.5 $1.2 $0.6
+$5.8
+$44.4 $22.3
+$2.9 $1.0 $1.2 $2.0 $0.9
+$74.7
+$265.1
+
+($in millions)
+$608.1
+$608.1
+$0.4 $0.2 $5.5 $1.5 $0.6
+$8.2
+$53.8 $25.2
+$4.6 $1.0 $1.5 $2.0 $1.5
+$89.5
+$510.4
+13
+
+CONFIDENTIAL
+
+PX-0411.18 APL-APPSTORE 09113525
+
+Ad Platform
+PX-0411.19 APL-APPSTORE 09113526
+
+A· · - ·
+
+r
+
+·
+
+·
+
+R A ·
+·
+
+·
+
+·
+
+r
+
+Ad Platform
+
+CONFIDENTIAL
+
+PX-0411.20 APL-APPSTORE 09113527
+
+A Pat orm
+For Apple News & 3rd party iOS developers
+Core product offering:
+1. Data: Demographic 8 user segments via IDFA
+2. Creative: iAd Producer as backbone of creative toolset
+3. Ad Server: iAd Workbench interface with underlying marketplace controls
+4. Measurement:Campaign reporting and aggregate user analytics
+5. Privacy: Managed compliance with evolving market conditions 8 Apple standards
+6. Reseller/Marketplace Integration:Developers will want to connect to 3rd party demand sources via IDFA
+
+CONFIDENTIAL
+
+PX-0411.21 APL-APPSTORE 09113528
+
+&d Platform
+For Apple News 8 3rd party IOS developers
+Core product offering:
+1. Data: demographic segments 8 user segments via IDFA 2. Creative: iAd Producer as backbone of creative toolset 3. Ad Server: iAd Workbench interface with underlying marketplace controls 4. Measurement: Campaign reporting and aggregate user analytics 5. Privacy: Managed compliance with evolving market conditions 8 Apple
+standards 6. Reseller/Marketplace Integration: Developers will want to connect to 3rd
+party demand sources via IDFA
+PX-0411.22 APL-APPSTORE 09113529
+
+Ad Platform FY16 PAL
+
+(8 in millions)
+
+Revenue COS
+Std Margin
+Salary & Fringe Stk Based Comp Severance Infrastructure & Data Other
+ococs
+Salary & Fringe Stk Based Comp & Bonus Severance Commission Engineering Vendor Marketing Programs T&E/M&E/CC Fees/Other OPEX
+Contribution
+
+$186.0 $151.3
+$34.7
+$18.0 $6.8
+$32.0 $5.7
+$62.4
+$50. 5 $32.0
+$6.7 $5.3 $5.1 $12.0
+$111.5
+-$139.2
+
+$80.8 $61. 1
+$19.7
+$16.8 $6.2 $0.8
+$2 7.6 $6.7
+$58.3
+$40.2 $24.8
+$5.6 $3.5 $3.4 $2.8 $11.7
+$92.0
+-$130.6
+
+-$105.2 -$90.2
+-$15.0
+$1.2 $0.5 -$0.8 $4.3 -$1.1
+$4.1
+$10.2 $7.2
+-$5.6 $3.2 $1.9 $2.3 $0.2
+$19.5
+$8.6
+
+16
+
+CONFIDENTIAL
+
+PX-0411.23 APL-APPSTORE 09113530
+
+Ad Platform FY16 PAL
+
+Revenue COS
+Std Margin
+Salary & Fringe Stk Based Comp Severance Infrastructure & Data Other
+OCOGS
+Salary & Fringe Stk Based Comp & Bonus Severance Commission Engineering Vendor Marketing Programs T&E/M&E/CC Fees/Other
+OPEX
+Contribution
+
+$186.0 $151.3
+$34.7
+$18.0 $6.8
+$32.0 %5.7
+$62.4
+$50. 5 $32.0
+%6.7 $5.3 $5.1 $12.0
+$111.5
+-$139.2
+
+$55.8 $43. 3
+$12.5
+$4.7 $1.8
+$7.5 $2.4
+$16.5
+$13. 1 $7.1
+$2.0 $0.9 $0.9 $3.9
+$27.8
+-$31.8
+
+$11.4 $8.5
+$2.9
+$4.2 $1.6 $0.8 $6.5 $1.5
+$14.6
+$10.4 $7.4 $5.6 $0.4 $0.9 $0.8 $2.9
+$28.4
+-$40.1
+
+$8.7 $6.0
+$2.7
+$3.9 $1.5
+$7.1 $1.4
+$13.9
+$8.5 $5.1
+$0.4 $0.8 $0.6 $2.5
+$18.0
+-$29.3
+
+$4.9 $3.3
+$1.6
+$3.9 $1.4
+$6.5 $1.4
+$13.2
+$8.2 $5.2
+$0.6 $0.8 $0.5 $2.5 $17.8
+-$29.4
+
+($in millions)
+
+$80.8 $61. 1
+$19.7
+$16.8 $6.2 $0.8
+$2 7.6 $6.7
+$58.3
+$40.2 $24.8
+$5.6 $3.5 $3.4 $2.8 $11. 7
+$92.0
+-$130.6
+
+-$105.2 -$90.2
+-$15.0
+$1.2 $0.5 -$0.8 $4.3 -$1.1
+$4.1
+$10.2 $7.2
+-$5.6 $3.2 $1.9 $2.3 $0.2
+$19.5
+$8.6
+
+CONFIDENTIAL
+
+PX-0411.24 APL-APPSTORE 09113531
+
+Ad Platform FY'16 PB L
+
+$ Millions
+Revenue COS
+Std Margin
+
+FY'15 Jul Feat
+$186. OM $151.3M
+$34.7M
+
+Plan - July v3 Plan - July v3 Plan- Julyv3 Plan- Julyv3
+
+Q1 FY16
+
+QS FY16
+
+QS FY16
+
+Q4 FY16
+
+$55.8M $43.3M
+$12.5M
+
+$11.4M $8.5M
+$2.9M
+
+$8. 7M $6.0M
+$2.7M
+
+$4. 9M $3.3M
+$1.6M
+
+Plan - July vs FY'l 6
+
+$80.8M $61.1M
+$19.7M
+
+($1 0 5.2M) ( $90 . 2 M)
+( $15.0M)
+
+Salary & Fringe Stk Based Comp Severance Infrastructure & Data Other
+OCOGS
+
+$18.0M $6.8M
+$32.0M $5.7M
+$82.4M
+
+$4.7M $1.8M
+$7.5M $2.4M
+$16.5M
+
+$4.2M $1.6M $0. BM $6.5M $1.5M
+$14.8M
+
+$3.9M $1.5M
+$7. 1M $1.4M
+$13.9M
+
+$3.9M $1.4M
+$6.5M $1.4M
+$13.2M
+
+$16.8M $6.2M $0. BM
+$27.6M $6. 7M
+$58.3M
+
+$1.2 M $0.5M ($0. BM) $4.3M ($1. 1M)
+$4.1M
+
+Salary & Fringe Stk Based Comp & Bonus Severance Commission Engineering Vendor Marketing Programs T&E/M&E/CC Fees/Other
+OPEX
+
+$50. SM $32.0M
+$6. 7M $5.3M $5.1M $12.0M
+$111.5M
+
+$13.1M $7.1M
+$2.0M $0.9M $0.9M $3.9M
+$27.8M
+
+$10.4M $7.4M $5.6M $0.4M $0.9M $0.8M $2.9M
+$28.4M
+
+$8.5M $5.1M
+
+$8.2M $5.2M
+
+$0.4M $0. BM $0.6M $2.5M
+$18.0M
+
+$0.6M $0.8M $0.5M $2.5M
+$17.8M
+
+$40.2M $24.8M
+$5.6M $3. SM $3.4M $2.8M $11.7M
+$92.0M
+
+$10.2 M $7.2 M
+($5.6M) $3.2 M $1.9M $2.3M $0.2 M
+$19.5M
+
+Contribution
+
+($139-2M ( $$1.8M) ( $ 40.1M) ( $ 29.3M) ( $ 29.4M) ( $ 1$0.6M) $8. 6 M
+
+CONFIDENTIAL
+
+PX-0411.25 APL-APPSTORE 09113532
+
+'
+
+'
+
+·
+
+.
+
+·
+
+·
+
+FY16 OPEX vs. Prior Year
+
+$92M OPEX --$20M lower than PY (-18% YOY)
+
+Savings of $26M (23%) from PY, offset by $6M Severance C0 AM Steady State
+
+120 90 60
+
+Sales/Plebs
+Incl Commissions 8 Travel
+c ts= fi SK Full Year Savings
+
+Market i'ng
+
+Misc
+
++$6M
+S everance
+
+$92 M
+----- $86M
+
+30
+
+0 FY15 Forecast
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.26 APL-APPSTORE 09113533
+
+FY16 OPEX vs Prior Year
+
+'
+
+'
+
+·
+
+.
+
+·
+
+·
+
+· $92M OPEX -- $20M lower than PY (-18% YOY) · Savings of$26M (23%) from PY, offset by $6M Severance Cost
+
+$112M
+
+150 100
+
++$
+Sevceeran
+
+- ---(621ssl---- - - - - - - - - - ~ - - -~ - - - -
+
+Sales/Pubs ($ 4 M)
+ar etI ng -- incl Commissions & Travel
+-- reflects - 65s' of full yr savings
+
+Misc
+
+------------------------$86M
+
+50
+
+0
+FY15F
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.27 APL-APPSTORE 09113534
+
+'
+
+'
+
+·
+
+.
+
+·
+
+·
+
+FY16 Operating Costs vs. Prior Year
+$150M Operating Cost -- $24M lower from PY (-14% YoY)
+Savings of $30M (17%) from PY, offset by $6M Severance ~O M Stezdy Stzte
+
+200 $174M
+
++$6M Severanc
+
+150
+
+e $150M
+
+-- - $ ~44M -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Sales/Pubs Marketing pata/Triton Creative /
+
+Ad Effectiveness
+100
+
+50
+
+FY15 Forecast
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.28 APL-APPSTORE 09113535
+
+'
+
+'
+
+·
+
+.
+
+·
+
+·
+
+F Y16 0 e r ati n C o s t v s P
+
+· $150M Operating Cost -- $24M lower from PY (-14% YoY) · Savings of$30M (17Yo) from PY, offset by $6M Severance Cost,
+
+150 100
+
+$174M
+
+($21MI
+Sales/Pubs
+-- ihtrcttfhhfi%ftOhr a rthttdl reflects - 65% of full yr saving
+
+t taut
+
++$6M Sevceera n
+($2M)
+Data/Triton Creative 1
+Ad Effectiveness
+
+150
+-------------4'144M
+
+50
+
+0
+FY1SF
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.29 APL-APPSTORE 09113536
+
+Im pl ication s
+
+App Network
+Sunset monetization
+program.
+Can be framed under privacy umbrella of not wanting to perpetuate cross App data usage for advertising. 28,000 developers receivechecks monthly so we need to provide notice and transition pel'lod.
+Transition timeline:
+Notify developers of plans on Jan 1, with ramp down through May 30. Cease field sales efforts on Jan 1.
+
+Radio
+Sunset ad-supported radio.
+Can be framed under our focus on subscription and live Radio, ideally in Fall 2015 after successful launch period.
+Beats 1 sponsorship continues
+Sponsorships / co-marketing agreements can be handled by BD negotiations and light operational support.
+Transition timeline:
+
+News
+Enable ad platform.
+Structure BD partnerships with select publishers for monetizing feeds. Enable resellers to purchase inventory via programmatic connection into News.
+Transition timeline:
+Begin transition ASAP.
+
+19
+
+CONFIDENTIAL
+
+PX-0411.30 APL-APPSTORE 09113537
+
+Im plication s
+
+App Network
+Sunset monetization
+program.
+Can be framed under privacy umbrella of not wanting to
+perpetuate cross App data usage for advertising. 28,000 developers receive checks
+monthly so we need to provide notice and transition period.
+Transition timeline:
+Notify developers of plans on Jan 1, with ramp down through May 30. Cease feild sales efforts on
+Jan l. During ramp down/transition, continue to supports sales via Workbench and performance
+sales team.
+
+Radio
+Sunset ad-supported radio.
+Can be framed under our focus on subscription and live Radio, ideally in Fall 2015 after successful launch period.
+Beats 1 sponsorship continues
+Sponsorships / co-marketing agreements can be handled by BD negotiations and light operational support.
+Transition timeline:
+User transition period required but propose no later than 1/1/16, when sales channels
+
+News
+Enable ad platform.
+Structure BD partnerships with select publishers for monetizing feeds. Enable resellers to purchase inventory via programmatic connection into News.
+Transition timeline:
+Begin transition asap.
+
+CONFIDENTIAL
+
+PX-0411.31 APL-APPSTORE 09113538
+
+Two Alternatives to Ad Platform
+
+O
+Mediation
+· Sunset existing iAd business + platform.
+· Build mediation layer in News to proxy
+IDs, manage opt-outsand ensure privacy is maintained.
+· Publishers lose: monetization, inventory forecasting, campaign management,
+targeting capabilities, campaign
+measurement 4 creative platform. Must
+source from 3rd parties.
+· Apple will need to provide IDFA for every ad call and/or intearate SDKs in Aoole
+
+0
+Open Ad Calls
+·Allow ad calls to go directly from News to Publishers.
+· Requires SDKs from leading platforms like Google, Facebook, Twitter and
+Yahoo tobe embedded intoApple News.
+IDFAs flows accordingly.
+·Apple loses: ability to prevent
+publishers from profiling users and
+knowing what they read.
+
+CONFIDENTIAL
+
+PX-0411.32 APL-APPSTORE 09113539
+
+Two Alternatives to Ad Platform
+
+O
+Mediation
+· Su nset existing iAd business + apltform.
+· Bu i ld mediation layer in News to proxy lDs,
+manage opt-outs and ensure privacy is
+maintained.
+· Pu b lishers lose: monetization, inventory
+forecasting, campaign management, targeting capabilitiesc,recaamtivpeapiglantfronremas.urernent &
+· Ap p le will need to provide IDFA for every ad call and/or integrate SDKs in Apple News app for leading platforms: Google, Facebook, Twitter and Yahoo.
+
+0
+Open Ad Calls
+· Allow ad calls to go directly from News to Publishers.
+· Requires SDKs from leading platforms like Google, Facebook, Twitter and Yahoo to be
+embedded into Apple News. IDFAs flows
+according ly. · Apple loses: ability to prevent publishers from
+profiling users and knowing what they read.
+
+CONFIDENTIAL
+
+PX-0411.33 APL-APPSTORE 09113540
+
+-
+
+·
+
+.
+
+·
+
+·
+
+FY16 Plan P&L vs Prior Year
+' '" ' ""' Operating Costs
+
+Revenue COS
+Std Margin
+Salary & Fringe Stk Based Comp Severance Infrastructure & Data Tech Ops Vendor Creative Vendor Other
+ococs
+Salary & Fringe Stk Based Comp & Severance Hiring Incentive Commission Sales Offices Engineering Vendor Marketing Programs TB E/M&E/CC Fees/
+opEx
+Contribution
+
+$186.0 $151.3
+$34.7
+$18.0 $6.8
+$32.0 $2.3 $2.2 $1.1
+$62.4
+$50. 5 $32.0
+$0.0 $6.7 $5.6 $5.3 $5.1 $6.3
+$111.5
+-$139.2
+
+%72.4 $56. 7
+$15.7
+$9.1 $3.4 $1.5 $25.9 $3.6 $0.8 $1.0
+$45.2
+$19. 1 $12.3
+$6.4
+$2.9 $6.6 $4.4 $2.8 $4.0
+$58.5
+-$88.0
+
+-%»36 $44M Steady State -$94.6
+
+-$19.0
+
+vs.
+
+$8.9
+
+$3.4
+
+-%1.5
+
+$104Min
+
+$6.1
+
+-$1.3 $1.4
+
+FY16 Transition
+
+$0.2
+
+$17.2
+
+$31.4 $19. 7 -$6.4
+$0.0 $3.8 -$1.0 $0.9 $2.3 $2.3
+$53.0
+
+$51.2
+21
+
+CONFIDENTIAL
+
+PX-0411.34 APL-APPSTORE 09113541
+
+FY16
+
+Revenue COS
+Std Margin
+Salary & Fringe Stk Based Comp Severance Infrastructure & Data Tech Ops Vendor Creative Vendor Other
+OCOGS
+Salary & Fringe Stk Based Comp & Bonus Severance Hiring Incentive Commission Sales Offices Engineering Vendor Marketing Programs T&E/M&E/CC Fees/Other OPEX
+Contribution
+
+$186.0 $151.3
+$34.7
+$18.0 $6.8
+$32.0 $2.3 $2.2 $1.1
+$62.4
+$50. 5 $32.0
+$0.0 $6.7 $5.6 $5.3 $5.1 $6.3
+$111.5
+-$139.2
+
+Plan P&L by Quarter
+
+$54.9 $42.8
+$12.1
+$4.7 $1.8
+$7.5 $0.7 $0.6 $0.4
+$15.9
+$10.4 $5.4
+$2.0 $1.7 $0.9 $0.9 $1.7
+$22.9
+-$26.7
+
+$10. 5 $8.0
+$2.5
+$2.2 $0.8 $1.5 $6.2 $1.3 $0.1 $0.2
+$12.2
+$4.6 $3.7 $6.4
+$0.2 $1.6 $1.5 $0.8 $1.0
+$19.9
+-$29.6
+
+$6.0 $4.6
+$1.4
+$1.2 $0.4
+$6.7 $1.0 $0.1 $0.2
+$9.6
+$2.1 $1.6
+$0.2 $1.6 $1.2 $0.6 $0.7
+$8.0
+-$16.2
+
+$1.0 $1.3
+-$0.3
+$1.0 $0.3
+$5.5 $0.6
+$0.2
+$7.5
+$1.9 $1.7
+$0.4 $1.6 $0.8 $0.5 $0.7
+$7.6
+-$15.4
+
+· RR
+
+$72.4 $56. 7
+$15.7
+
+-$113.6 -$94.6
+-$19.0
+
+$9.1 $3.4 $1.5 $25.9 $3.6 $0.8 $1.0
+$45.2
+$19. 1 $12.3
+$6.4
+$2.9 $6.6 $4.4 $2.8 $4.0
+$58.5
+
+$8.9 $3.4 -$1.5 $6.1 -$1.3 $1.4 $0.2
+$17.2
+$31.4 $19.7 -$6.4
+$0.0 $3.8 -$1.0 $0.9 $2.3 $2.3
+$53.0
+
+-$SS.0
+
+$51.2
+
+CONFIDENTIAL
+
+PX-0411.35 APL-APPSTORE 09113542
+
+·
+
+·
+
+FY16 Plan P8 L b uarter
+
+$ Millions
+Revenue COS
+Std Margin
+Salary & Fringe Stk Based Comp Severance Infrastructure & Data Tech Ops Vendor Creative Vendor Other
+OCOGS
+Salary & Fringe Stk Based Comp & Bonus Severance Hiring Incentive Commission Sales Of(lees Engineering Vendor Marketing Programs T&E/M&E/CC Fees/Other
+OPEX
+Contribution
+
+FY'16 Jul Feat
+$186.0M $151.3M
+$34.7IN
+$18.0M $6.8M
+$32.0M $2.3M $2.2 M $1. 1M
+$62.4M
+$50.5M $32.0M
+$0.0M $6.7M $5.6M $5.3M $5. 1M $6.3M
+$111.5M
+( $139.2 M
+
+Plainlyvh Q1 FY16
+$54.9M $42.8M
+$12.1M
+
+Q2FY16
+$10.5 M $8.0M
+$2.5M
+
+Q3FY16
+$6.0M $4.6M
+$1.4M
+
+Q4FY16
+$1.0M $1.3M
+($0.3M)
+
+Plan - July vs
+FY'16
+$72.4M $ 56.7 M
+$15.7M
+
+($ 1 1 3.6M) ($94 . 6 M)
+( $19.0M)
+
+$4.7M $1.8M
+$7.5M $0. 7M $0.6M $0.4M
+$15.9M
+
+$2.2 M $0.8M $1.5 M $6.2 M $1.3M
+0.1 $0.2 M
+$12.2M
+
+$1.2 M $0.4M
+$6.7M $1.0M $0.1M $0.2 M
+$9.6M
+
+$1.0M $0.3M
+$5.5M $0.6M
+$0.2 M
+$7.5IN
+
+$9.1M $3.4M $1.5M $25.9M $3.6M $0.8M $1.0M
+$45.2M
+
+$8.9M $3.4M ($1.5M) $6.1M ($1.3 M) $1.4M $0.2 M
+$17.2M
+
+$10.4M $5.4M
+$2.0M $1.7M $0.9M $0.9M $1.7M
+$22.9M
+
+$4.6M $3.7M $6.4M
+$0.2 M $1.6M $1.5 M $0.8M $1.0M
+$19.9M
+
+$2.1M $1.6M
+$0.2 M $1.6M $1.2 M $0.6M $0.7M
+$8.0M
+
+$1.9M $1.7M
+$0.4M $1.6M $0.8M $0.5M $0.7M
+$7.6IN
+
+$19. 1M $12.3M
+$6.4M
+$2.9M $6.6M $4.4M $2.8M $4.0M
+$58.5M
+
+$31.4M $19.7M ($6.4M)
+$0.0M $3.8M ($1.0M) $0.9M $2.3M $2.3 M
+$53.0M
+
+($2 6.7IN) ( $ 29.6M) ( $ 16.2M) ( $ 15.4M) ($ 8 8.0M) $51 .2M
+
+CONFIDENTIAL
+
+PX-0411.36 APL-APPSTORE 09113543
+
+-
+
+·
+
+.
+
+·
+
+·
+
+FY16 OPEX vs. Prior Year
+
+$58M OPEX; $54M lower than prior year (-48% YoY)
+
+Savings of $60M (54%) from prior year, offset by $6M severance cost
+
+120
+
+$28M Steady State
+
+90
+
+Sales/Pubs
+lncl Commissions tr, Travel
+
+ar etin
+
+~57lOI
+Product
+
++$6M Severanc
+
+60
+
+Reflects - 6696 of o e a r avmgs
+
+-$33M ""
+
+----- $62M
+
+Platform
+
+30
+
+Engineering
+
+FY15 Forecast
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.37 APL-APPSTORE 09113544
+
+FY16 OPEX vs Prior Year
+
+-
+
+·
+
+.
+
+·
+
+·
+
+· $58M OPEX -- $54M lower than PY (-48% YoY)
+
+2pp Savings of$60M (54%) from PY, offset by $6M Severance Cost $112M
+
+150 100
+50
+
+($21M)
+
+Sales/Pubs
+
+($4M)
+eflects - 65SSof full yr saviriliIiarketI ng
+
+rr2M>
+
+i
+
+I
+
+Product
+
++$6M Seve ran
+
+($33M) Eng (Platform)
+
+$ g8M
+--------------- $62M
+
+0
+FY15F
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.38 APL-APPSTORE 09113545
+
+-
+
+·
+
+.
+
+·
+
+·
+
+FY16 Operating Costs vs. Prior Year
+
+$108M Operating Cost; $70M lower than prior year (-40% YoY)
+
+Savings of $78M (45%) from prior year, offset by $8M severance cost
+
+200 $174M
+
+$44M Steady State
+
+150 100
+50
+
+p b Marketing /
+
+I Commissions lS Travel
+
+. Sierieersaesnror"" "
+
+"
+
+"
+
+"
+
+. - . -.
+
+.
+
+-
+
+.
+
+-
+
+-
+
+"
+
++$8M
+
+severanc $104M
+
+- - -$ g@""" $ AM
+
+· ---$96M
+
+Full Year Savings
+
+Platfarm CCreative i
+
+Engineering Ad
+
+i Bandwidth Triton
+
+ne
+
+0 FY15 Forecast
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.39 APL-APPSTORE 09113546
+
+FY16 0 e r ati n C o s t v s PY
+· $108M Operating Cost -- $70M lower than PY (-40% YoY)
+2pp Savings of$78M (45%) from PY, offset by $8M Severance Cost $174M
+
+-
+
+·
+
+.
+
+·
+
+·
+
+150 100
+50
+
+-$-Z1fA
+Sales/Pubs
+
+ommissionSVlktg/Product a Travel
+
+Reflects-6696 of full year savings
+
++ $8M
+Severance
+
+It
+
+yP4
+
+(53
+
+. Erg.ltlatfo~ml.tteul .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+~
+
+~
+
+.
+
+.
+
+~
+
+.
+
+.
+
+.
+
+-------- $96M
+
+Creative /
+
+Ad
+
+EffectivenesDs ata/Triton
+
+($3 M) Bandwidth
+
+0
+FY15F
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.40 APL-APPSTORE 09113547
+
+iscussion
+
+CONFIDENTIAL
+
+PX-0411.41 APL-APPSTORE 09113548
+
+iAd Scenarios
+FY16 (Partial Savings) / FY17 "Steady State"
+
+FY1 6 Forecast
+Only Partial Year Savings / Severance
+
+FY17
+"Steady State"
+
+(tIin millions)
+
+Scenario
+
+OPEX
+
+OCOGS
+
+Operating Cost
+
+OP EX
+
+OCOGS
+
+Operating Cost
+
+Platform Only
+
+$92
+
+$58
+
+$150
+
+$73
+
+$57
+
+$130
+
+App Store Search $35
+
+$35
+
+$58
+
+$62
+
+Mediation Only
+
+$59
+
+$45
+
+$104
+
+$28
+
+$16
+
+$44
+
+* Does not include potential wind down costs of Platform.
+
+CONFIDENTIAL
+
+PX-0411.42 APL-APPSTORE 09113549
+
+iAd Scenarios-
+FY16 (Partial Savings) / FY17 "Steady State"
+
+Scenario Platform Only
+
+FY1 6 Forecast
+Only Partial Year Savings / Severance
+
+OPEX
+
+OCOGS
+
+Operating Cost
+
+$92M
+
+$58M
+
+$150M
+
+Op EX $73M
+
+FY17
+"Steady State"
+
+OCOGS
+
+Operating Cost
+
+$57M
+
+$130M
+
+A pp Store Search $35 M
+
+$35M
+
+$58M
+
+$4M
+
+$62M
+
+Mediation Only
+
+$58M
+
+$45M
+
+$104M
+
+$28M
+
+$16M
+
+$44M
+
+CONFIDENTIAL
+
+PX-0411.43 APL-APPSTORE 09113550
+
+iAd Scenarios Costs vs. Prior Year Versus Prior Year
+
+(Sin millions)
+
+Scenario
+
+OPEX
+
+App Store Search Only
+
+($77)
+
+Platform Only
+
+($20)
+-- 18% YoY
+
+Mediation Only
+
+($53)
+-48% YoY
+
+Platform + Search
+
++$16
+14%
+
+Mediation + Search
+
+($20)
+-18% YoY
+
+* Does not include potential wind down costs of Platform.
+
+Operating Cost
+($139)
+-8096
+($24)
+-1496 YoY
+($70)
+-4096 YoY
++$12
+6%
+($33)
+-1996 YoY
+
+CONFIDENTIAL
+
+PX-0411.44 APL-APPSTORE 09113551
+
+iAd Scenarios -- Cost vs Prior Year
+
+Scenario Platform Only App Store Search Only Mediation Only Platform + Search Mediation + Search
+
+vs Prior Year
+
+OPEX
+($20M)
+($77M)
+-69%
+($54M) -48% YoY
++$16M 14%
+($21M)
+--19% YoY
+
+Operating Cost
+($24M)
+($77M)
+--69%
+($70M) -40% YoY
++$12M 6%
+($33M)
+-19% YoY
+
+CONFIDENTIAL
+
+PX-0411.45 APL-APPSTORE 09113552
+
+a orm + earc
+PX-0411.46 APL-APPSTORE 09113553
+
+Revenue COS
+Std Margin
+Salary & Fringe Stk Based Comp Severance Infrastructure & Data Tech Ops Vendor Creative Vendor Other
+OCOGS
+Salary & Fringe Stk Based Comp & Bonus Severance Hiring Incentive Commission Sales Offices Engineering Vendor Marketing Programs T&E/M&E/CC Fees/Other
+OPEX
+Contribution
+
+Ad Platform + Search
+
+5 Year PBL
+
+$186.0 $151.3
+$34.7
+
+·I IIRI & $80.8 $61.1
+$19.7
+
+I ll $138.2 $18.0
+$120.2
+
+R NID $381.5 $21.3
+$360.2
+
+$18.0 $6.8
+$32.0 $2.3 $2.2 $1.1
+$62.4
+
+$16.9 $6.3 $0.8
+$27.6 $4.5
+$0.9 $1.3
+$58.4
+
+$17.0 $5.8
+$30. 1 $6.0 $0.4 $1.4
+$60.7
+
+$18.0 $6.0
+$31.4 $6.2 $0.4 $1.6
+$63.5
+
+$50. 5 $32.0
+$0.0 $6.7 $5.6 $5.3 $5.1 $6.3
+$111.5
+
+$59.4 $36. 3
+$5.6 $3.7 $3.5 $6.6 $3.4 $3.5
+$5.1
+$127.0
+
+$68. 7 $40. 1
+$3.6 $6.0 $4.5 $4.3 $4.0
+$131.2
+
+$79.9 $45.1
+$5.5 $6.0 $4.7 $5.5 $5.0
+$151.8
+
+-$139.2
+
+-$165.7
+
+-$71.7
+
+$144.9
+
+~ I~ $650.6 $24.7 $625.9
+$19.0 $6.2
+$32.1 $6.7 $0.5 $1.8
+$66.2
+$91.7 $49.3
+$7.2 $6.0 $5.2 $5.7 $6.0
+$171.0
+$388.7
+
+* Bandwidth, Data, and Time to Market Cost are high level estimates and need to be defined
+28
+
+CONFIDENTIAL
+
+PX-0411.47 APL-APPSTORE 09113554
+
+Ad Platform + Search
+5 Year PBL
+
+$ Millions
+Revenue COS
+Std Margin
+Salary & Fringe Stk Based Comp Severance Infrastructure & Data Tech Ops Vendor Creative Vendor Other
+OCOGS
+Salary & Fringe Stk Based Comp & Bonus Severance Hiring Incentive Commission Sales Oflices Engineering Vendor Marketing Programs T&E/M&E/CC Fees/Other
+OPEX
+
+Jul Feel FY'15
+$186.0M $151.3M
+$34.7M
+$18.0M $6.8M
+$32.0M $2.3M $2.2M $1. 1M
+$62.4M
+$50.5M $32.0M
+$0.0M $6.7M $5.6M $5.3M $5. 1M $6.3M
+$111.5M
+
+Plan - July YS FY'16
+$80.8M $61. 1M
+$19.7M
+$16.9M $6.3M $0.8M
+$27.6M $4.5M $0.9M $1.3M
+$58.4M
+$59.4M $36.3M
+$5.6M $3.7M $3.5M $6.6M $3.4M $3.5M $5.1M
+$127.0M
+
+Estimate Fir ty
+$138.2M $18.0M
+$120.2M
+$17.0M $5.8M
+$30. 1M $6.0M $0.4M $1.4M
+$60.7M
+$68. 7M $40. 1M
+$3.6M $6.0M $4.5M $4.3M $4.0M
+$131.2M
+
+Estimate FY'16
+$381.5M $21.3M
+$360.2M
+$18.0M $6.0M
+$31.4M $6.2M $0.4M $1.6M
+$63.5M
+$79.9M $45.1M
+$5.5M $6.0M $4.7M $5.5M $5.0M
+$151.8M
+
+Contribution
+
+($139.2M )
+
+($16 5 .7M)
+
+($71.7M)
+
+$144.9M
+
+"Bandwidth, Data, and 7ime to Market Cost are high level estimates and need to tte defined
+
+Estimate FY'19
+$650.6M $24.7M
+$625.9M
+$19.0M $6.2 M
+$32.1M $6. 7M $0.5M $1.8M
+$66.2M
+$91. 7M $49. 3M
+$7.2M $6.0M $5.2 M $5. 7M $6.0M
+$171.0M
+$388.7M
+
+CONFIDENTIAL
+
+PX-0411.48 APL-APPSTORE 09113555
+
+· ·
+
+'
+
+·
+
+·
+
+·
+
+FY16 OPEX (vs Prior Year)
+
+$127M OPEX; +$16M from prior year (+14% YoY)
+
+Savings of $26M (23%) from prior year, offset by $6M severance cost, $35M
+
+search investment
+
+150
+
+53&vi-
+
+search $ 1 2 7M
+
+$112M
+113
+
+- - -521NF----SgM--.~ T Irg-- --
+
+. - - - ---.--.--. +95 Headcount
+
+----- $86M
+
+75
+
+al~es Mu s Marketin g
+
+Misc
+
+-83 Headcount
+
+Reflects - 65tt of Full Year Savings
+
+38
+
+i nc~
+
+ssi on~ V ra
+
+0 FY15 Forecast
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.49 APL-APPSTORE 09113556
+
+· ·
+FY16 OPEX vs Prior Year
+
+'
+
+·
+
+·
+
+·
+
+· $127M OPEX --4~16M from PY (414% YoY)
+
+200 Savings of $26M (23Yo) from PY, offset bv $6M Severance Cost, $35M Se r vest m ent
+
+$11
+
++$3SM
+
+M
+
+Search
+
+2M
+
+150
+
+Se+v$e6nMc
+
+($21M)
+
+--$6IL6dXHbI - --($4Kii) (' M
+
+100
+
+fleets
+
+g H Misc
+
+$86 ------ M
+
+50
+
+0
+SF
+
+CONFIDENTIAL
+
+PX-0411.50 APL-APPSTORE 09113557
+
+· ·
+
+'
+
+·
+
+·
+
+·
+
+FY16 Operating Costs (vs Prior Year)
+
+$185M Operating Cost; +$11Mfrom prior year (+6% YoY)
+
+Savings of $31M (18%) from prior year, offset by $6M severance cost, $35M
+
+200 $174M
+
+search investment
+
++$35M arc 5185M
+
++6M
+
+150 100
+
+Severance
+
+- s i--i i p·. b·. Ma r k eting pata/TritonCreative i
+
+-83 Headcount Reflects - 65% of
+
+Ad Experience
+
+Reflects- 90% of Full Year Cost
+
+--- $i44M
+
+50
+
+0 FY15 Forecast
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.51 APL-APPSTORE 09113558
+
+· ·
+FY16 0 e r ati n C o s t v s PY
+
+'
+
+·
+
+·
+
+·
+
+· $18$M Operating Cost --~et tM from PY (+8% YoY)
+
+· Savings of $31M (18%) from PY, offset by $6M Severance Cost, $35M Search
+200
+
+$174
+
++$35M Search
+
+M
+
+M
+
+150
+
+·
+
++$6M
+
+Seveeranc
+
+($21M>
+
+- -$JaasJZ(Ib$---TM - - - - - - - - - - - ~ -
+
+100
+
+Marketl n
+
+$144 M
+
+PraI p0 (
+
+Creative / Effectatisdve nes
+
+50
+
+FY1SF
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.52 APL-APPSTORE 09113559
+
+· ·
+FY16 Headcount
+370 Heads (210 Platform i 160 Search)
+
+'
+
+·
+
+·
+
+·
+
+250
+216
+
+·
+
+·
+
+188
+
+125
+
+Engineering Ops
+
+20
+
+20
+
+Product Marketing BD/Sales Other
+
+CONFIDENTIAL
+
+PX-0411.53 APL-APPSTORE 09113560
+
+FY16 Headcount
+
+· ·
+
+'
+
+·
+
+·
+
+·
+
+PPei'acfsg21p piat%rm'"f %6p
+
+300
+
+earc
+
+216 225
+
+150
+
+75 Engineering Ops
+
+45
+
+20
+
+20
+
+V,
+P roduct M a r keting B D /Sales Othe r
+
+CONFIDENTIAL
+
+PX-0411.54 APL-APPSTORE 09113561
+
+FY16 Headcount
+
+· ·
+
+'
+
+·
+
+·
+
+·
+
+500 375 250
+
+ee ggO'
+
+ca%
+,end · I
+
+125
+
+Q4 '15
+
+Ql '16
+
+Q2 '16
+
+Q3 '16
+
+Q4 '16
+
+CONFIDENTIAL
+
+PX-0411.55 APL-APPSTORE 09113562
+
+FY16 Headcount
+500
+pe,e' ee<
+375
+
+· ·
+
+'
+
+·
+
+·
+
+·
+
+250
+
+125
+
+0 Q4 '15
+
+Q1 '16
+
+Q2 '16
+
+Q3 '16
+
+Q4 '16
+
+CONFIDENTIAL
+
+PX-0411.56 APL-APPSTORE 09113563
+
+m ac: e ia ion+ e a rc
+PX-0411.57 APL-APPSTORE 09113564
+
+Revenue COS
+Std Margin
+Salary & Fringe Stk Based Comp Severance Infrastructure & Data Tech Ops Vendor Creative Vendor Other
+OCOGS
+Salary & Fringe Stk Based Comp & Bonus Severance Hiring Incentive Commission Sales Offices Engineering Vendor Marketing Programs T&E/M&E/CC Fees/Other
+OPEX
+Contribution
+
+Mediation + Search
+
+5 Year PBL
+
+$186.0 $151.3
+$34.7
+
+·I IIRI & $72.4 $56. 7
+$15.6
+
+I ll $111.6 $4.3
+$107.3
+
+R NID $348. 5 $4.3
+$344.2
+
+$18.0 $6.8
+$32.0 $2.3 $2.2 $1.1
+$62.4
+
+$12.4 $4.3 $1.5
+$25.9 $3.6 $0.8 $1.0
+$49.5
+
+$4.8 $1.7
+$8.2 $3.5
+$1.2
+$19.4
+
+$5.3 $1.9
+$8.9 $3.6
+$1.4
+$21.1
+
+$50. 5 $32.0
+$0.0 $6.7 $5.6 $5.3 $5.1 $6.3
+$111.5
+
+$39.0 $24. 3
+$6.4
+$2.9 $6.6 $4.4 $3.8 $4.1
+$91.4
+
+$41.9 $26.4
+$1.1 $6.0 $4.3 $3.0 $3.7
+$66.4
+
+$53.5 $31.9
+$2.9 $6.0 $4.5 $3.0 $4.6
+$106.5
+
+-$139.2
+
+-$125.3
+
+$1.6
+
+$216.6
+
+(Bin millions)
+$611.0 $4.3
+$606.7
+$5.8 $2.1
+$10.9 $4.1
+$1.5
+$24.4
+$64.3 $36.6
+$4.6 $6.0 $4.9 $3.0 $5.6
+$125.0 $457.3
+
+* Bandwidth, Data, and Time to Market Cost are high level estimates and need to be defined
+34
+
+CONFIDENTIAL
+
+PX-0411.58 APL-APPSTORE 09113565
+
+$ Millions
+Revenue COS
+Std Margin
+Salary & Fringe Stk Based Comp Severance Infrastructure & Data Tech Ops Vendor Creative Vendor Other
+OCOGS
+Salary & Fringe Stk Based Comp & Bonus Severance Hiring Incentive Commission Sales Oflices Engineering Vendor Marketing Programs T&E/M&E/CC Fees/Other
+OPEX
+Contribution
+
+Mediation + Search
+
+Jul Fast FY'15
+$186.0M $151.3M
+$34.7M
+$18.0M $6.8M
+$32.0M $2.3M $2.2M $1. 1M
+$62.4M
+$50.5M $32.0M
+SO.OM $6.7M $5.6M $5.3M $5. 1M $6.3M
+$111.5M
+($139.2M)
+
+5 Year Plan- July YS FY'16
+$72.4M $56.7M
+$15.6M
+
+PAL
+Fir ty $111.6M
+$4.3M
+$107.3M
+
+$12.4M $4.3M $1.5M
+$25.9M $3.6M SO.BM $1.0M
+$49.5M
+
+$4.8M $1. 7M
+$8.2M $3.5M
+$1.2M
+$19.4M
+
+$39.0M $24.3M
+$6.4M
+
+$41.9M $26.4M
+
+$2.9M $6.6M $4.4M $3.8M $4.1M
+$91.4M
+($125.3M)
+
+$1. 1M $6.0M $4.3M $3.0M $3.7M
+$66.4M
+$1.6M
+
+Estimate FY'16
+$348.5M $4.3M
+$344.2M
+$5.3M $1.9M
+$8.9M $3.6M
+$1.4M
+$21.1M
+$53.5M $31.9M
+$2.9M $6.0M $4.5M $3.0M $4.6M
+$106.5M
+$216.6M
+
+Estimate FY'19
+$611.0M $4. 3M
+$606.7M
+SS.BM $2. 1M
+$10.9M $4. 1M
+$1.5M
+$24.4M
+$64. 3M $36.6M
+$4.6M $6.0M $4.9M $3.0M $5.6M
+$125.0M
+$457.3M
+
+CONFIDENTIAL
+
+PX-0411.59 APL-APPSTORE 09113566
+
+-
+
+·
+
+·
+
+'
+
+·
+
+·
+
+·
+
+FY16 OPEX (vs Prior Year)
+$91M OPEX; $21M lower than prior year (-19% Yo Y)
+
+Savings of $60M (54%) from prior year, offset by $6M severance cost, $33M
+
+search investment
+
+120
+
++$33M
+
+search $ 9 1 M
+
+90
+
+Sales/Pubs
+
+~ PI
+"" t'ng Product
+
++6M
+
+60 30
+
+Reflects - 65% of u e a r atongs
+CatttrNsstgm.6.Navel..
+
+-$33M
+Platform nglneenng
+
+Reflects- 90% of Full Year Cost
+
+---- $86M
+
+FY15 Forecast
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.60 APL-APPSTORE 09113567
+
+FY16 OPEX vs Prior Ye
+
+'
+
+·
+
+·
+
+·
+
+· $ 9 1 M OPEX --$9 r M lower than PY (-19% YoYI
+
+200 · Savings of$60M (54Yo) from PY, offset by $6M Severance Cost, $33M Search investment
+
+$112M
+
+R
+
+150
+
+($2 1M)
+
+Sales/Pubs ($4M/
++ k t ($2M) inclcommissions & Trav ar et ing
+Product
+
++$33M $tg yM
++$6M Sevceeran
+
+100 ($33M)
+Fng (Platform)
+
+50
+
+0
+FY15F
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.61 APL-APPSTORE 09113568
+
+-
+
+·
+
+·
+
+'
+
+·
+
+·
+
+·
+
+FY16 Operating Costs (vs Prior Year)
+$141M Operating Cost --$33M lower than PY (-19% YoY)
+
+Savings of $78M (45%) from PY, offset by $8M Severance Cost, $37M Search investment
+200 $174M
+
+150 100
+50
+
++$37
+s ~ $441M
+
+Sales/Pubba rlcetin
+-fts Heaocouot product
+
++8M
+
+Reflects - 6SSf of
+
+Severance
+
+EnPglaintfeoerrmingCreAatdi.ve
+
+· ----utuste3a'"- -'
+/ "' " / Data
+
+$3 M --
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+~
+
+S
+
+Reflects-
+
+t'tttIFLt 9096 of
+
+Baannwdlwidth
+
+Full Year Cost
+
+Experience
+
+· ---$96M
+
+0 FY15 Forecast
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.62 APL-APPSTORE 09113569
+
+F Y16 0 e r ati n C o s t v
+
+·
+
+·
+
+'
+
+·
+
+·
+
+·
+
+· $141M Operating Cost --Seea lower than PY (-te% Yov)
+
+2QQ · Savings of$78M (45Yo) from PY, offest by $8M Severance Cost, $37M Search investment
+$174M
+
+150 100
+50
+
+Vu'Ss ($6M)
+%llktg/Product
+Travel
+
++$37M $141
+s' ·
+
++$8M
+
+.
+
+($39M)
+EagtPJattorrot
+
+($6M)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+t.reattve /
+
+eve TaTrce
+
+Eff tAd
+
+Data/Triton ($3 M)
+Bandwidth
+
+0
+FY15F
+
+FY16
+
+CONFIDENTIAL
+
+PX-0411.63 APL-APPSTORE 09113570
+
+-
+
+·
+
+·
+
+FY16 Headcount
+210 Heads (55 Platform / 155 Search)
+
+'
+
+·
+
+·
+
+·
+
+120
+
+90
+
+60
+
+30 Engineering Ops
+
+WVM
+I
+P roduct
+
+I
+Ma r k etin g B D / Sales
+
+15
+Ot he r
+
+CONFIDENTIAL
+
+PX-0411.64 APL-APPSTORE 09113571
+
+FY16 He
+
+15 0
+
+1-
+
+·
+
+·
+
+Search)
+
+· Pl atform
+
+· Se arch
+
+'
+
+·
+
+·
+
+·
+
+113
+
+75 42
+38
+0 Engineering Ops
+
+23
+
+10
+
+15
+
+P roduct M a r keting B D /Sales Othe r
+
+CONFIDENTIAL
+
+PX-0411.65 APL-APPSTORE 09113572
+
+FY16 Headcount
+
+-
+
+·
+
+·
+
+'
+
+·
+
+·
+
+·
+
+400
+
+cey C gee
+
+300 200 100
+
+pieid~dCe>t<
+
+·
+
+·
+
+Q4 '15
+
+Ql '16
+
+Q2 '16
+
+Q3 '16
+
+Q4 '16
+
+CONFIDENTIAL
+
+PX-0411.66 APL-APPSTORE 09113573
+
+FY16 Headcount
+
+400
+
+'eeegegc> geO' gee"
+ye
+
+·
+
+·
+
+'
+
+·
+
+·
+
+·
+
+300
+>emce'
+pqei &e~~<9'
+200
+
+100
+
+0 Q4 '15
+
+Q1 '16
+
+Q2 '16
+
+Q3 '16
+
+Q4 '16
+
+CONFIDENTIAL
+
+PX-0411.67 APL-APPSTORE 09113574
+
+CONFIDENTIAL
+
+39
+PX-0411.68 APL-APPSTORE 09113575
+
+CONFIDENTIAL
+
+News
+
+PX-0411.69 APL-APPSTORE 09113576
+
+Priorities or
+1. Engagement 2. International expansion 3. Publisher requests
+PX-0411.70 APL-APPSTORE 09113577
+
+En a ement
+
+A/B testing Breaking news OS integration Better sharing Local news Web/Mac/Android client Favorites improvements
+
+· Folders, Sorting
+More content types in
+feeds
+· Trending stories, infographics, videos,
+galleries
+
+PX-0411.71 APL-APPSTORE 09113578
+
+International Expansion
+
+Timing
+Oct 2015 H1 2016
+H2 2016
+TBD
+
+Language English
+French, German Italian, Spanish
+English CJK
+
+Countries
+UK, AU
+DE, FR, CA
+IT, ES, LATAM
+TBD: India, Nordics, Africa, Caribbean China, Japan, Korea
+
+PX-0411.72 APL-APPSTORE 09113579
+
+u o r ti n P u is e r s
+Com Score Better analytics Subscriptions Authoring
+Richer channel pages
+Richer article content More ad options
+PX-0411.73 APL-APPSTORE 09113580
+
+KbeKelv gerk limes c a r I I
+
+BLONDENAST
+
+Atlantic
+
+W O~
+
+theguardian
+
+B uzzFeeo co o > LE
+
+TimeInc.
+
+POLITICO BaSI~~IIlaS
+
+FINANCIAL TIMES ~CIV I She able®rayh
+
+H EA RST
+
+PX-0411.74 APL-APPSTORE 09113581
+
+Added since WWDC
+
+NATIONAL GEOGRAPHIC
+
+late
+
+I
+
+THOMSON REUTERS
+
+Smithsonian
+
+PX-0411.75 APL-APPSTORE 09113582
+
+In Proqress
+
+CONFIDENTIAL
+
+PX-0411.76 APL-APPSTORE 09113583
+
+Proiected Monthlv Active Users
+80M
+
+60M
+
+40M
+
+20M
+
+OM Ql'16
+Assumes 25% iOS Adoption Rate
+
+FY'16
+
+FY'17
+
+FY'18
+
+CONFIDENTIAL
+
+PX-0411.77 APL-APPSTORE 09113584
+
+FY16 News Headcount
+
+Publisher Relations Publisher
+Support
+Editorial Ops
+Content Moderation
+Editorial Curation
+
+U.S.
+3+0
+X+2 X+0 (+ contractors) X+ 2
+X+ 2
+
+International
++3 +2
++2*
+
+Pub Relations -- Recruiting publishers, cutting deals, etc
+
+Publisher Support -- Technical support for publishers, documentation
+
+Editorial Ops -- Updating Explore tab, updating on-boarding options, updating topic taxonomy (adding, deleting, renaming, localizing), RSS maintenance, updating brand/topic quality ranking, guidelines, collaboration with engineering on updates
+
+Content Moderation -- Report a concern, new channel applications
+
+Editorial Curation -- Apple News Updates channel, email briefings, breaking news, event-driven news, special content promotions
+
+CONFIDENTIAL
+
+PX-0411.78 APL-APPSTORE 09113585
+
+CONFIDENTIAL
+
+50
+PX-0411.79 APL-APPSTORE 09113586
+
+New Apps for 2015
+
+News
+
+News Publisher
+
+Notes
+iOS + Mac
+
+Gers hwin
+
+CONFIDENTIAL
+
+PX-0411.80 APL-APPSTORE 09113587
+
+ate A s or
+
+iWork
+
+· iBooks Author
+
+· P ages for iOS, Mac, Web V i d e o
+
+· Numbers for iOS, Mac, Web
+· Keynote for iOS, Mac, Web
+iBooks
+· iBooks for iOS, Mac
+
+· iMovie for iOS, Mac · FinalCut
+· Compressor
+· Motion Music
+
+PX-0411.81 APL-APPSTORE 09113588
+
+Key Re eases or
+Notes C o llaboration? Organization features
+iWork Collaboration
+Photos Memories for Eagle
+PX-0411.82 APL-APPSTORE 09113589
+
+CONFIDENTIAL
+
+en ix
+PX-0411.83 APL-APPSTORE 09113590
+
+Radio P8tL (no shutdown)
+
+$Millions
+Revenue * COS
+Std Margin
+
+Radio FY15F
+$25.3 $39.2
+($13.9)
+
+Radio FY1 5F (w iTunes
+Cost)
+$25.3
+$39.2
+($13.9)
+
+Radio FY16F
+$30.2 $39.5
+($9.3)
+
+Radio FY16F (w iTunes
+Cost)
+$30.2
+$39.5
+($9.3)
+
+OCOGS
+
+$17.3
+
+$22.2
+
+$18.0
+
+$21.8
+
+OPEX
+
+$27.1
+
+$31.2
+
+$28.0
+
+$30.2
+
+C ontr i b u t i o n
+Contribution %
+
+($58.3)
+-230.4%
+
+($67.3)
+-285.9%
+
+($55.3)
+-183.1%
+
+($61.3)
+-203.0%
+
+Lowered latest FY16 Monetization assumptions
+
+Keeping Radio live is a projected $60M Annual loss (with or without Ad Revenue)
+
+* Does not tie to SAP, includes deferred revenue - $2M
+
+CONFIDENTIAL
+
+PX-0411.84 APL-APPSTORE 09113591
+
+App Store Search
+3 Year Revenue (US Only)
+
+FY '17
+
+FY '18
+
+FY '19
+
+RIEI I I I II R SRI RI R I I I I I I II I I I I I I R H
+
+N o. App Store Searches (B) 3.3 3.4 3.5 3.7 13.9 3.78 3.87 3. 9 6 4 . 0 6 15.7 4 .1 5 4. 2 6 4.3 6 4.4 6 17. 2
+
+Sponsored Search
+
+Organic Conversion Rate
+Sponsored Decelerator factor Keyword Sell-through
+No. Sponsored Downloads (M) eCPA
+Sponsored Search Revenue
+
+10% 1 0 % 10% 10% 10% 10% 10% 10% 10% 10% 10% 10% 10% 10% 10% 60% 60% 60% 60% 60% 50% 50% 50% 50% 50% 4 0% 40% 40% 40% 40% 1% 4% 8% 11% 6% 12% 12% 13% 14% 13% 15% 15% 16% 17% 16% 1 8 5 5 11 8 15 6 34 7 21 9 23 9 26 0 28 1 9 9.9 34 . 5 39. 2 4 2.2 45 . 2 16 1 . 1 $3.00 $ 3.00 $ 3 .00 $ 3.00 $ 3 .00 $ 3.00 $ 3 .00 $ 3 .00 $ 3.00 $3.00 $3.00 $ 3.00 $3.00 $ 3.00 $ 3.00
+$5.3 $16.4 $35.4 $46.9 104.0 $65.8 $71.8 $78.0 $84.4 300.0 $103. $117. $126. $135. 483.1
+
+Trending Searches
+
+Search discount factor
+Sell-through
+CPM rrending Searches Revenue
+
+50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 5% 13% 31% 40% 22% 49% 58% 6 7% 70% 6 1% 70% 70% 70% 70% 70%
+$3.00 $ 3.00 $ 3 .00 $ 3.00 $ 3 .00 $ 3.00 $ 3 .00 $ 3 .00 $ 3.00 $ 3 .00 $ 3 .00 $ 3.00 $ 3 .00 $ 3 .00 $ 3.00
+$0.2 $ 0.7 $ 1. 6 $ 2. 2 4 . 7 $2 . 8 $ 3 . 4 $ 4. 0 $ 4. 3 1 4. 5 $ 4. 4 $ 4. 5 $ 4 . 6 $ 4. 7 1 8 .2
+
+Total App Store
+
+$5.5 $ 17.1 $37.0 $49.1 $108. $68.6 $75.2 $82.0 $88.7 $314. $107. $122. $131. $140. $501.
+
+56
+
+CONFIDENTIAL
+
+PX-0411.85 APL-APPSTORE 09113592
+
+App Store Search
+3 Year Revenue (US,Japan, China)
+
+egmm FY '17
+
+FY '18
+
+FY '19
+
+gegg~ggeegge.g@ggegg~g e e. : I eeig~ggeegge
+
+No. App Store Searches (B) 3.3 3.4 3.5 3.7 13.9 6.0 6 .1 6.3 6.5 24.9 6.7 6.8 7.0 7.2 27.7
+
+Sponsored Search
+
+Organic Conversion Rate
+Sponsored Decelerator factor Keyword Sell-through
+No. Sponsored Downloads (M) eCPA
+Sponsored Search Revenue
+
+10% 1 0 % 10% 10% 10% 9% 9% 9% 9% 9% 9% 9% 9% 9% 9% 60% 60% 60% 60% 60% 50% 50% 50% 50% 50% 4 0% 40% 40% 40% 40% 1% 4% 8% 11% 6% 5% 6% 7% 9% 7% 10% 11% 12% 14% 12% 1.8 5.5 11.8 15 6 34 7 23 1 26 2 29 6 33 1 112 0 42 4 49 0 53 8 58 8 204 0 $3.00 $ 3.00 $ 3 .00 $3.00 $ 3.00 $ 2 .97 $ 2 .94 $ 2 .92 $ 2.90 $ 2 .93 $ 2 .88 $ 2.87 $ 2 .86 $ 2 .78 $ 2 .84
+$5.3 $16.4 $35.4 $46.9 104.0 $68.4 $77.2 $86.4 $96.0 328.0 $122. $140. $153. $163. 580.4
+
+Trending Searches
+
+Search discount factor Sell-through CPM Trending Searches Revenue
+
+50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 50.0% 5% 13% 31% 40% 22% 33% 4 1% 54% 59% 47% 62% 65% 69% 70% 67%
+$3.00 $3.00 $ 3 .00 $ 3.00 $ 3 .00 $ 3.00 $ 3 .00 $ 3 .00 $ 3.00 $ 3 .00 $ 3 .00 $ 3.00 $ 3 .00 $ 3 .00 $ 3.00
+$0.2 $ 0.7 $ 1. 6 $ 2. 2 4 . 7 $2 . 9 $ 3 . 8 $ 5. 1 $ 5. 7 1 7. 6 $ 6. 2 $ 6. 7 $ 7 . 2 $ 7. 5 2 7 .7
+
+Total App Store
+
+$5.5 $17.1 $37.0 $49.1 $108. $71.4 $81.0 $91.5 $101. $345. 1 28. $147. $161. $171. $608.
+
+57
+
+CONFIDENTIAL
+
+PX-0411.86 APL-APPSTORE 09113593
+
+

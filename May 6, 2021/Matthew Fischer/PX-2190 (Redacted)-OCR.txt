@@ -1,0 +1,210 @@
+From:
+
+Eric Friedman
+
+To:
+
+Alastair Morse
+
+CC:
+
+Patrice Gautier
+
+, David Ralston
+
+, Ayman Khalil
+
+, Eric Gray
+
+Matt Railo
+
+, Augusfin Farrugia
+
+BCC:
+
+Subject :
+
+Re: App Store Weekly Scorecard: Week of 7/11/2016
+
+Attachments:
+
+Sent:
+
+07/22/2016 11:14:52 PM 0000 (GMT)
+
+Yup, let's dig in.
+
+PLAINTIFF
+uS. CtetdetCeen- tdCCPt.
+4:Shev4BSte-YGR-TSH
+Epm semen Inn.e.Appleme.
+Sx.ne. PX-21$0
+Cele Entered
+sy
+Matt Fischer , Jeff Robbin
+
+On Jul 22, 2016, at 4:14 PM, Alastair Morse
+
+wrote:
+
+Agreed, it suggests that refinement on the Fraud team's logic or alternative methods are needed to approach this use case.
+
+At this point that's what the data is telling when we join to our data for the same fime period.
+
+On Jul 22, 2016, at 4:06 PM, Patrice Gaufier This is where I startto get suspicious: <PastedGraphic-1.png> Half the money from non-trusted accounts?
+-p
+
+On Jul 22, 2016, at 3:42 PM, Alastair Morse
+
+wrote:
+
+We re-ran our Q2 CY2016 App Store top line KPls using the list of trusted accounts Eric Friedman provided. This list only covers Q2 customers so we can't compare other quarters (i.e. compute Q/Q, Y/Y).
+
+The impact is high --Edic noted the bluntness of the instrument:
+If/when we operafionalize this "for real, I would expect to nuance these quite a bit. Integrity checks can be improved. "strong concentration" can be less blunt. We can narrow the fime window in which account takeover acfivity disqualifies a pemon.
+
+Top level:
+· 577M transacting accounts, 358M (62%) are trusted · 98M paying accounts, 57M (57%) are trusted · 80M new accounts (new to App Store), 30M (38%) are trusted
+Around half the billings and downloads are from trusted accounts.
+· $6.7B in billings, $3.6B (54%) is from trusted accounts · 8.6B downloads, 3.9B (45%) is from trusted accounts
+There is some regional variafion across these KPls. Broadly speaking Greater China has lesser shares of trusted
+
+CONFIDENTIAL
+
+PX-2190.1 APL-APPSTORE 09154045
+
+accounts, Japan 8 Korea sees higher shares of trusted accounts across the various KPls, with all other regions sitting in the middle. I' ve included some high-level takeaways and the complete regional breakouts detailing the impact below.
+Best, Alastair
+T~eL i ee
+(PastedGraphic-15.png)
+Transactin Accounts · Most regions sit in the 60%-70% range for trusted accounts share of transacting accounts. · Two regions are outliers: o Greater China on the low end with 51% of transacting accounts being trusted o Japan 8 Korea on the high end with 76% of transacting accounts being trusted
+n.b. On the below slides the last two columns are histograms for share of total pre/post-filtering. (PastedGraphic-22.png)
+Pa in Accounts · Most regions lay in the 50%-60% range for shares of trusted accounts. · Japan8 Korea over-indexes with 75% of the paying accounts in Q2 being trusted accounts. · Q2 pre-filtering paying share of transacting was 17.1%, only considering trusted accounts this drops to 15.8%. · Similarly ARPPU, considering trusted on both paying and billings, sees a slight dip from $68 to $64 .
+(PastedGraphic-21.png)
+New Accounts · Most regions are in the 60-70% range for trusted share of new accounts. · Greater China is vastly different, with only 20% of new accounts being trusted: o This skews the worldwide share of trusted down to 38% o Excluding Greater China, the worldwide share of trusted for new accounts jumps to 66% · Pre-filtering in our Q2 scorecard China is almost 2/3rds of new accounts, over 5x the number of new accounts from the second largest contributor to new accounts -- the US. Considering only trusted accounts this drops to only 1.7x of the US.
+(PastedGraphic-17.png)
+~Billie e · Most regions are in the 45%-55% range for the billings share from trusted accounts. · There aretwo outliers: o Japan 8 Korea on the high end with 74% of billings from trusted accounts. · It is the only region by billings from trusted accounts to break the $1B mark · The consequence of this variance in share of trusted is it going from ranked ¹3 market to the ¹1 at the expense of the US and Greater China.
+
+CONFIDENTIAL
+
+PX-21 90.2 APL-APPSTORE 09154046
+
+o In PAN EMEIA only 37% of the billings are from trusted accounts, however, its Q2 contribution to worldwide billings is small irrespective of trusted/non-trusted.
+(PastedGraphic-19.png)
+Downloads
+· Most regions are in the 50%-65% range for the downloads share from trusted accounts, Greater China and Japan 8 Korea are outliers.
+· Greater China skews our Q2 download KPI even before considering trusted/non-trusted accounts -- in our Q2 report Greater China accounted for 45% of the worldwide 8.6B downloads. o Downloads from trusted accounts in Greater China are only 29% of the Greater China Q2 downloads. o This results in Greater China's share of worldwide downloads dropping to 28%, with other regions pretty much increasing uniformly in their share.
+· Worldwide, 45% of the downloads are coming from trusted accounts, excluding Greater China downloads from the equation, this jumps to 59%.
+· Similar to many of the above KPls, Japan8 Korea over-indexes in the share from trusted accounts: 72% of the downloads are from trusted accounts. Japan 8 Korea only accounts for 6%/9% of worldwide pre/post trusted accounts filtering.
+(PastedGraphic-20.png)
+
+On Jul 22, 2016, at 3:34 PM, Ayman Khalil + Alastair
+
+wrote:
+
+On Jul 22, 2016, at 1:00 PM, Ayman Khalil
+
+wrote:
+
++ 1. Thanks for all the hard work. We should have some results to share out shortly.
+
+Ayman
+
+Sent from my iPhone On Jul 22, 2016, at 12:54 PM, Eric Friedman
+
+wrote:
+
+You are very welcome. On Jul 22, 2016, at 12:47 PM, David Ralston
+
+wrote:
+
+Eric - Wanted to thank you and your team for putting this together.
+We want to stand up this process and have your team maintain/enhance it. I' ll connect with you about the resource(s) needed to make this happen. The topic of account data quality has significant visibility. More importantly, we have a great opportunity to deliver more accurate (and more meaningful) insights with the better account data.
+Thanks again,
+-David 8 team
+
+CONFIDENTIAL
+
+PX-21 90.3 APL-APPSTORE 09154047
+
+f · David Ralston
+
+On Jul 20, 2016, at 5:24 PM, Eric Friedman
+
+wrote:
+
+Russell is packaging up the results for Ayman right now. We looked at 592 million accounts that transacted in Q3 of FY16 and identified 367 million (62%) that we consider trusted for the period.
+
+At a high level, we defined trust as follows:
+
+· enabled in iTunes · not farmed or linked to a farming device · no indication of account takeover activity · device notused by an excessive number of accounts · no strong concentration on apps suppressed for discovery abuse · device data matches manufacturing (iOS). Some other integrity checks for Mac/Windows · no chargebacks · no evidence of manipulation of certain cryptographic features
+If/when we operationalize this "for real," I would expect to nuance these quite a bit. Integrity checks can be improved. "strong concentration" can be less blunt. We can narrow the time window in which account takeover activity disqualifies a person.
+But, under the time constraints and with the goal of not telling you a number that would later become much lower, we consider this a reasonable place to begin.
+Eric
+
+On Jul 19, 2016, at 10:09 AM, Eric Friedman
+
+wrote:
+
+We will provide the one time snapshot of trusted accounts for Q3 to Team Ralston by EOD tomorrow. They' ll have follow on work for your final result.
+
+On Jul 19, 2016, at 10:00 AM, Matt Fischer
+
+wrote:
+
+Please read Tim's email and my response.
+What's the ETA for when we will start excluding activity from farmed and incentivized accounts in our reporting? This is becoming embarrassing.
+Best, Matt
+Begin forwarded message:
+
+From: Matt Fischer Date: July 19, 2016 at 9:15:24AM PDT To: Tim Cook Cc: Luca Maestri
+
+Phil Schiller
+
+Eddy Cue
+
+CONFIDENTIAL
+
+PX-21 90.4 APL-APPSTORE 09154048
+
+, Greg Joswiak
+
+Kevan Parekh
+
+Subject: Re: App Store Weekly Scorecard: Week of 7/11/2016
+
+Tim,
+As I wrote on 7/6, we have seen a dramatic increase in app downloads from farmed and/or incentivized accounts in China. As a result, we should not use these download figures publicly. Our Reporting and Analytics team is working closely with our Fraud team to identify these accounts and exclude related app downloads from our reporting, but this is very complicated and may take some time. The teams are working with Luca and Kevan on this. I' ll keep everyone posted on progress.
+Best, Matt
+
+On Jul 19, 2016, at 8:32 AM, Tim Cook
+
+wrote:
+
+Report shows a record number of downloads for the week. This shows great momentum and counters the narrative that apps are dead. We should consider releasing this in some manner or minimally mentioning on the earnings call.
+
+On Jul 19, 2016, at5:55AM, Matt Fischer
+
+wrote:
+
+Tim, Luca,Phil,Eddy and Joz,
+For the week, the App Stores (iPhone, iPad, Watch, Apple TV and Mac App Stores) generated $580M in billings, up 9% W/W and up +47% Y/Y (4 week average). In-App Purchase generated$562M, up 10% W/W and up +50% Y/Y (4week average), representing 97% of the global business.
+
+We had 272.1M customers transact on the store during the week, up +8% W/W and up +55% Y/Y. We had 26.1M paying customers in the week, up +7% W/W and up +40% Y/Y.
+
+Pokemon Go was the top overall app for both downloads and billings for the week, with 35.8M and $47.7M respectively. Through Sunday, it had a total of 56.3M downloads and $63.6M in billings. We are tracking its performance very closely and I will send out a dedicated update on the game later this week.
+
+CONFIDENTIAL
+
+PX-21 90.5 APL-APPSTORE 09154049
+
+Let meknow ifyou have any questions.
+Best,
+I I Matt
+(PastedGraphic-2.png>(PastedGraphic-3.png>(PastedGraphic-4.png>(PastedGraphic5.png>(PastedGraphic-6.png>(PastedGraphic-8.png>(PastedGraphic-9.png> (PastedGraphic-10.png>(PastedGraphic-11.png>(PastedGraphic-12.png>(PastedGraphic13.png>(PastedGraphic-15.png>(PastedGraphic-16.png>(PastedGraphic-17.png> (PastedGraphic-18.png>(PastedGraphic-19.png>(PastedGraphic-20.png>(PastedGraphic21.png>(PastedGraphic-22.png>(PastedGraphic-23.png>(PastedGraphic-24.png> (PastedGraphic-25.png>(PastedGraphic-26.png>(PastedGraphic-27.png>
+
+CONFIDENTIAL
+
+PX-21 90.6 APL-APPSTORE 09154050
+
+

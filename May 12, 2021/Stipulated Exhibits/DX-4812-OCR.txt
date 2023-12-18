@@ -1,0 +1,21 @@
+SmanY, Soong,Clerk , Deputy Clark
+
+Source: Apple transaction data
+
+Note: In the year following the App Store's launch (July 10, 2008), the number of transactions totaled 0.60 billion. In FY2019, the
+
+September. number of transactions totaled 9.16 billion. Apple's fiscal year begins in October, meaning Q4 starts in July and ends in
+
+examlep, Q For
+
+1 FY2008 begins in October 2007, Transactions where Apple is the developer are excluded. Only original
+
+transactions from in-app purchases and initial downloads are included. See Appendix E for details regarding Apple transaction data
+
+processing.
+
+56
+
+DX-4812. 001
+
+

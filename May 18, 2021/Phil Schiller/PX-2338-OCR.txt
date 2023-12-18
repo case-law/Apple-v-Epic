@@ -1,0 +1,179 @@
+PLAINTIFF
+ue. Dlenlet Cene- NDCAL
+4:2&ev455nN-YGR-TSH
+Epic semenlne. e.Apple Ine.
+Ex. No. PX-2338
+Dele enmmn er
+Subject: Re:Daring Fireball--The Flixnsiness of"B usinessvs.Consumer" as a
+Justification for Apple 's Rejection of Hey From the App Store for Not Using In-App Purchases
+
+From: "Philip Schillern
+
+Received(Date): Wed, 17 Jun2020 02:40:58 40000
+
+To: "Fred Sainzn
+
+,"Sean Camexonn
+
+Cc: nRon Okaxnoton
+
+,nTxystan Kosmvnkan ,''Kxxslm Huguet Quaylen
+
+Date: Wed, 17 Jun 2020 02:40:58+0000
+
+Privileged and Confidential
+
+I think the second ophon makes the most sense to me.
+
+We do want the app on the store if it will follow our guidelines to offer IAP (I don 't think he will, but we should Iry). We shouldn 't have approved the app in the first place, but since we did we should help him update the bug fixes for those users. And I think we should shard by our guidelines and explain them. Quickly.
+I believe the key facts are:
+
+- apps that want to unlock features and functionality off the the app store (as HEY does but setling up paid accounts on their website) should offer users the option of IAP, that is the long standing point of guideline 3.1.1
+
+- the reader rule, 3.1.3(a), was written for content consumption apps, whole we have added some categories of apps to it over the years, that has never been for email or business apps
+
+- we added the cross-platform guideline, 3.1.3(b) so that if users sign up outside of the app he will keep all of that revenue
+
+- we have an escalation process grat we encourage him to use oof he wants to discuss his app rejection
+
+On Jun 16, 2020, at 7:28 PM, Fred S
+
+wrote:
+
+Privileged 8x Confidential
+
+Below please find apxesscoverage report with stories that Basecamp CTO David Heinemeier Hansson's (DHH) tweets have generated. Late this evening, Match Group and Tixn Sweeney joined the &ay, issuing statements and saying they were speaking with regulators.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-2338.1 APL-EG 02259937
+
+With his issues unresolved (and a personal penchant for drama), the concern is that DHH is unlikely to let this go and will likely keep tweeting and stirring up controversy. To help stem the tide of negative coverage and chatter, we have two ideas for your consideration:
+
+n th
+
+1 rm
+
+in R 1 ti n nt r 'n
+
+'r
+
+r ' th
+
+rk ' thth mt r 1 t h 1 1 i
+
+Zach,
+
+We have approvedtheupdate to your app so thatuserscan take advantage ofbug fixes and improvements. The goal is always to get and keep apps on the store so we 're happy work with you on resolving the outstanding 3.1.1. guideline violation.
+
+If you feel the HEY app conforms to the App Store 's guidelines and that our determination was reached in error, you have the ability to file an appeal to make sure all of the issues are reviewed.
+
+Thank you.
+
+Pros: Takes away one of the developer 's complaints that his users can 't get bug fixes and improvements.
+
+Cons: Unlikely to placate the developer since we continue to contest the 3.1.1 issue. Unclear whether this will calm the waters. Doesn 't fully explain our position to developers or press.
+
+Same as above but in the form of a thou htful letter that takes on his alle ations and others made b Gruber and ex lains the rationale for re ection
+
+DHH and others have questioned the logic of the rejection saying it makes no sense. Like the Resolution Center proposal above, this option would approve the update and then explain our logic in a more detailed manner to push back on the notion the rules are opaque.
+
+Pros: If written correctly, provides a thoughtful explanation and makes the determination seem more balanced and less subjective.
+
+Cons: Apple will be seen as "doubling down" and a letter will not placate the developer.
+
+We' re certainly open to you saying no to either option or offering up others.
+
+If you' re ok, we recommend allowing us to provide you with a draft of the letter so that you 're be able to judge.
+
+Let us know.
+
+Press cover the recent rejection of the HEY Email app after picking up on Basecamp CTO David
+Heinemeier Hansson 's(DHH) acrimonious Twitter threatt tram yesterda rafternoon into t~otta .
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-2338.2 APL-EG 02259938
+
+DHH refers to Apple 's In-App Purchase policies as "exploitive and inconsistent" while insisting the rejection of their app is nothing short of a "shakedown." Stories observe the complaint comes hot on the heels of the EU announcing antitrust probes into Apple and the ongoing saga about whether or not Tim will appear before Congress.
+Gruber has come out swinging with two posts, saying: John Gruber remarks, "I don 't see what more Basecamp could do here. The Hey app isn 't dancing around the App Store 's rule 3.1.1 in some cute way -- they 're complying with it completely," while asking "am I missing something here?"
+Protocol writes that Apple is "demanding it change the way people pay, or risk getting thrown out of the App Store." Explaining why Hey was rejected &om the App Store while services like Slack are permitted, Protocol notes "Apple allows these kinds of client apps -- where you can' t sign up, only sign in -- for business services but not consumer products." The Verge notes our exceptions for reader apps, but that "email apps are not one of the approved exceptions."
+WIRED acknowledges that Apple 's review process can be "somewhat opaque" at times, but highlights the "review guidelines clearly state that apps that sell services across multiple platforms are allowed to promote those goods on their own websites, but Apple stipulates that those items have to also be available for purchase within the iOS or MacOS app."
+Late this evening, Match Group issued this statement:
+"Apple is a partner, but also a dominant platform whose actions force the vast majority of consumers to pay more for third-party apps that Apple arbitrarily defines as "digital services." Apple squeezes industries like e-books, music and video streaming, cloud storage, gaming and online dating for 30% of their revenue, which is all the more alarming when Apple then enters that space, as we 've repeatedly seen. We 're acutely aware of their power over us. They claim we 're asking for a "&ee ride" when the reality is, "digital services" are the only category of apps that have to pay the App Store fees. The overwhelming majority of apps, including Internet behemoths that connect people (rideshare/gig apps), or monetize by selling advertising (social networks), have never been subject to Apple 's payments systems and fees, and this is not right. We welcome the opportunity to discuss this with Apple and create an equitable distribution of fees across the entire App Store, as well as with interested parties in the EU and in the U.S."
+(Tweets.png)
+Axios - T inder's arent com an criticizes A l e over A S t o r e
+Washington Post - Tinder and Fortnite criticize A l e for its "A S t o r e mono ol "
+Daring Fireball - Darin Fireball: Basecam 's New A He Fla ed i n A St o r e Limbo for Not Usin In- A P u r chase
+Daring Fireball - T he Flimsiness of "Business vs. Consumer" as a Justification for A l e ' s Re'ection of He From the A Store for Not Usin In- A P u r chases
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-2338.3 APL-EG 02259939
+
+WIRED- A 1 T h r n M B
+
+Em il A
+
+Tr h
+
+TheVerge-A 1 r '
+9toSMac - H 11 ~B ~ ~
+
+H mA
+
+A
+
+r r
+
+r r i 1- r
+
+'H ' m '1 & m
+
+MacRumors- A l eT hre en Rem eEm '1 A ' He 'Fr m A
+
+re e rL k f In-
+
+iMore- A 1 r
+
+nr ' H E m il & m r r f B
+
+P rotocol - A ne em ' 1
+
+A le ' h in i
+
+Hey launched its email service on Monday morning. That's also when Apple started demanding it change the way people pay, or risk getting thrown out of the App Store.
+
+Right around the time the team at Basecamp was launching their Hey email service to the public on Monday, Zach Waugh, Basecamp's lead iOS developer, got a distressing email. The second
+version of their iOS app, 1.0.1 -- with a few bug fixes &om the original -- had been rejected by the App Store reviewers. It cited rule 3.1.1 of Apple's guidelines for app developers, which says
+in essence that if you want people to be able to buy stuff in your app, you need to do it using Apple's payments system.
+
+Waugh and Basecamp didn't think that rule applied. Hey does cost $99 a year, but users can't sign up or pay within the iOS app. It's an app for using an existing outside service, just like Basecamp's eponymous platform -- and Netflix and Slack and countless other apps. "So we were like, OK, maybe we just got the Monday morning reviewer," Basecamp co-founder and CTO David Heinemeier Hansson said. Lots of developers over the years have found that their appreview luck sometimes depended on who happened to be looking, and whether they'd had coffee yet. So Basecamp fixed more bugs, submitted a new version -- 1.0.2 -- and hoped for the best.
+The app sat in the queue for review, then in the "under review" status for far longer than usual. Then Waugh got a phone call. The Apple reviewer said he was calling because the new app hadn't resolved the issue with rule 3.1.1. The issue had been escalated internally, and Apple had determined it was a valid rejection -- the only way to move forward would be to implement Apple's payments system. And not only that: Waugh was told that Apple would like a commitment and a timeline for implementing the payment system, or Apple might be forced to remove Hey &om the App Store entirely.
+
+When Waugh and Basecamp pointed out that there were many other apps -- even email apps like Spark or Edison -- that allowed users to log in to their existing accounts without signing up through Apple, the reviewer told them they wouldn't discuss other apps. And that was that.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-2338.4 APL-EG 02259940
+
+On Tuesday afternoon, Apple sent Basecamp a slightly softer written notice. "We noticed that your app allows customers to access content, subscriptions, or features they have purchased elsewhere, but those items were not available as in-app purchases within the app," it said. Because Hey didn't qualify as a "Reader" app, Apple said that existing subscribers could log in as normal but Hey needed to make all subscriptions available to new users as in-app purchases.
+Apple told me that its actual mistake was approving the app in the first place, when it didn' t conform to its guidelines. Apple allows these kinds of client apps -- where you can't sign up, only sign in -- for business services but not consumer products. That's why Basecamp, which companies typically pay for, is allowed on the App Store when Hey, which users pay for, isn' t. Anyone who purchased Hey &om elsewhere could access it on iOS as usual, the company said, but the app must have a way for users to sign up and pay through Apple's in&astructure. That' s how Apple supports and pays for its work on the platform.
+As Heinemeier Hansson pointed out to me, it's bold timing for Apple to take such a strong stance. On Tuesday, the EU announced it is opening two antitrust probes into Apple's App Store dealings, looking into the way Apple uses its platform to squash competitors. Spotify has been complaining for years about Apple's App Store tax, its feature restrictions and more. On Tuesday, Kobo joined the complaint, calling it anticompetitive for Apple to both operate its own book store and to charge a 30% commission on all books Kobo sold on Apple devices. "Apple's anticompetitive behavior has intentionally disadvantaged competitors," Spotify said in a statement to The Wall Street Journal, "created an unlevel playing field, and deprived consumers of meaningfulchoice for fartoo long."
+It also comes a day after Apple touted that the App Store ecosystem facilitated a whopping $519 billion in 2019. That number includes things like Uber rides, food delivery, plane tickets booked in Expedia apps, and the like. Apple said it only took a cut of less than 15% of those dollars spent. As Apple continues to shift its focus to services, and to growing that part of its business, it may look for ways to get a cut of the other 85% of the money flowing through its platform.
+Heinemeier Hansson said he's been hearing stories like this &om developers for years -- he even testified to Congress earlier this year about the anticompetitive practices of Big Tech. That testimony earned Basecamp some &iends in high places, and Heinemeier Hansson said he's been talking with the Department of Justice in recent months and plans to reach out both to Congress and the EU about this issue.
+But even as he ranted furiously about Apple's actions, Heinemeier Hansson said he was worried about the repercussions. "If we can't have Hey on iOS," he said, "we' re nowhere. We have to be on the biggest platform in this segment, and Apple knows that." When he tweeted about the app's initial rejection last week, he got a number of responses &om developers who would privately rail against Apple's policies but publicly make excuses for the company. "You listen to some of these app developers, and they sound like hostages," Heinemeier Hansson said. "They sound like they' re reading a prepared statement, because otherwise Apple could hurt their business. Which is true!"
+Apple's somewhat confusing app-review policies are an open secret in the developer industry: No matter how many times you' ve submitted an app, you still hold your breath every time, because
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-2338.5 APL-EG 02259941
+
+who knows what could have changed? Heinemeier Hansson said it's possible that someone at Apple might change their mind and unilaterally decide to approve Hey. But that won't solve his problem. The guy who loves picking fights on behalf of the greater internet good has found a new one. "Even if it goes away for us, this is still a systemic story of abuse," he said. "I think this is where we need this kind of systemic reform that hopefully the EU is pushing."
+If nothing changes? Basecamp's not paying that tax. "There is never in a million years a way that I am paying Apple a third of our revenues," Heinemeier Hansson said. "That is obscene, and it' s criminal, and I will spend every dollar that we have or ever make to burn this down until we get to somewhere better. "
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-2338.6 APL-EG 02259942
+
+

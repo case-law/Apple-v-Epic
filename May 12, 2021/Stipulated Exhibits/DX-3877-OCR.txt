@@ -1,0 +1,3844 @@
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY
+
+DX-3877. 001
+
+APL-APPSTORE 09416405
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 002
+
+APL-APPSTORE 09416406
+
+Why this report?
+Purpose: To measure satisfaction with the iPhone Developer Program (IDP) in order to provide the ADC team with recommendations on how to improve it
+Key areas include:
+· Overall satisfaction · Importance of specific aspects of the iDP · Satisfaction and reasons for dissatisfaction with specific iDP aspects · Aspects of the iDP that have impeded app development/distribution · Satisfaction with other mobile platforms'developer programs · Developer profiles
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 003
+
+APL-APPSTORE 09416407
+
+Understanding iDP developers
+Method: Developers were randomly selected from the Developer Database and invited to parucipate in a 15-minute Web survey. We conducted our research among a representauve sample for both those who have successfully published Apps on the store and those who have non Apple Market Research developed the questionnaire and used Chadwick Martin Bailey an independent market research firm to field the survey and tabulate results. Statistical testing was conducted at a 95% confidence interval between developer groups (Apps vs. No apps). If data reported for one group is higher than the corresponding group for the same country, it is indicated with a upward arrow. The term 'top-2 box' means the total percentage of the top 2 boxes of a 5-point scale.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 004
+
+APL-APPSTORE 09416408
+
+Key Conclusions
+Most developers are generally satisfied with iDP, but 12-25% are dissatisfied
+-- Members in Japan and Germany and those with no approved apps are slightly less satisfied with iDP
+App visibility in the App Store is the area of most dissatisfaction
+-- Some specific complaints include:"too general" categories, search problems, and allowing too many "spam" apps in the store
+The App review process is also problematic for many, and it is the biggest deterrent for successfully developing and distributing iPhone/ iPod Touch applications
+-- Developers complain roughly equally about the time it takes to hear back from the app review team, unclear criteria for rejection, and lack of responsiveness
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 005
+
+APL-APPSTORE 09416409
+
+Key Conclusions
+While most developers were satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+Many developers would like Apple to eliminate the store-specific purchase quotas (5150), and simplify financial reporting in the website Those dissatisfied with the application submission process find the legal requirements and documentation too daunting, confusing or time-consuming Some have difficulty creating certificates and profiles
+Although members are generally satisfied with the development resources on the website, many are clamoring for more sample code -and more relevant sample code- that is more easily searchable (and integrated with the (phone reference library)
+Overall satisfaction with the enrollment process is generally high, but some didn't think the fee was recurring, and others complained about the time it took Beginner developers find the SDK too complex, and many want integration across the SDK tools
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 006
+
+APL-APPSTORE 09416410
+
+Key Conclusions
+A quarter of iPhone developers also develop for Android, and are generally satisfied with the experience
+-- They value how Android makes it easy to develop, test and distribute, and they like the robust API. Some find the range of devices, and the platform itself, a bit chaotic, however.
+Developers highly value WMDC for its documentation, but dislike their store and Windows in general
+Developers feel that the Blackberry mobile community and the app store lacks support and clear documentation
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 007
+
+APL-APPSTORE 09416411
+
+®
+
+·
+
+-
+
+e ·
+
+-
+
+·
+
+·
+
+-
+
+·
+
+·
+
+' e ·
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 008
+
+APL-APPSTORE 09416412
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 009
+
+APL-APPSTORE 09416413
+
+Most developers are generally satisfied with iDP
+Jp developers are more likely to be dissatisfied
+
+739'of 659 ' o 779' o f 689'o
+fo Oy 0 0.
+
+789' o f 619'o
+
+689'o
+
+639'o
+
+629'o f
+
+519'o T o p -2 box
+
+Very
+
+R .
+
+dissab s fied
+
+Somewhat dissabsfied
+
+Neither sabsfied nor dissabsfied
+
+· Somewhat
+
+0fo
+
+san sfied
+
+u-
+
+I/I
+
+Very
+
+fo
+
+· sa osfied
+
+fo al
+0
+
+Withapps No apps With apps No apps With apps No apps With apps No apps With apps No apps
+
+© us
+
+ra
+4 i~
+
+lo PR ® BR Q® iP
+
+N = 2, 8 9 5 764
+
+57 9
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+517
+
+Base ag respondents oil O v erall, how would you rate yoursatisfaction with the iPhone Developer program>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 01 0
+
+APL-APPSTORE 09416414
+
+Most developers are likely to recommend
+JP developers are less likely to recommend iDP to others
+
+759'o
+0al
+E
+0al0
+
+71 9'o
+
+79tyof
+
+729'o
+
+Il
+
+809'o 769'o
+
+7 09'o
+
+689 ' o 589' of
+
+489'o T o p-2 box
+Very unlikely Somewhat
+unlikely
+· Ne i ther hkely nor unlikely
+Somewhat hkely
+Very likely
+
+042
+
+Withapps No apps With apps No apps With apps No apps With apps No apps With apps No apps
+
+© us
+
+ra
+4 i~
+
+lo PR ® BI Q® iP
+
+N = 2, 8 9 5 764
+
+57 9
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+517
+
+Base all respondents Qtg How likelyareyentarecommend the iPhoneDeveloper program to otherst
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 01 1
+
+APL-APPSTORE 09416415
+
+Those with approved apps are twice as likely to submit apps in the next 3 months
+
+829o' f 609 ' o 859' o1 579' o
+
+0.
+
+oi,
+
+0.
+
+fo
+
+0fo
+
+879'o1 619' o
+
+789'o1 509'o
+
+819'o f 4 9 9 'o
+
+Top - 2 box
+Very unhkely Somewhat
+unlikely
+· Ne i ther likely nor unlikely
+Somewhat hkely
+Very hkely
+
+E0as
+
+Withapps No apps With apps No apps With apps No apps With apps No apps With apps No apps
+
+© us
+
+ra
+4 i~
+
+lo FR ® as Q® ie
+
+N = 2, 8 9 5 764
+
+57 9
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+517
+
+Base all respondents Qla nowlikelyareyoutosubmitanewapplication for approval within the next three months>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877.012
+
+APL-APPSTORE 09416416
+
+Ie ·
+
+· ·
+
+ea
+
+· 5
+
+· e
+
+· 0
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 01 3
+
+APL-APPSTORE 09416417
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877.014
+
+APL-APPSTORE 09416418
+
+Those without apps are concerned with Xcode, while those with apps also care about visibility
+
+© Us ~ U K () PR I ® ee ® lP
+
+xoedd
+
+WithApps NoApps WithApps NUApps
+
+289 5
+
+764
+
+57 9
+
+476
+
+589o 669o t
+
+71oto
+
+Vadrhhitl of appnn Appseea 47% t 179o 509o t 209o
+
+Wi t hApps 301
+659o
+369o t
+
+NoApps Wi t hApps NoApps Wi t hApps
+
+217 I 4 8 7
+
+435
+
+399
+
+6 59o 6 7 9 o 716 / o 529o
+
+189o 4 6 % t 24% 42% '
+
+N oAp ps 517
+58%
+239o
+
+Qeratlatl trtaevteteppepp
+
+439o t 2 09o 40 9 o t 1 3 9 o 289 o t 15 9 o 389o t 1 9 9o 2 29o t 7 9 o
+
+Iphrrheshstelater
+
+379o 49 9 o t 38 9 o 519 o t 40 9 o 479 o 389o 46 9 o t 279o 33 9 o t
+
+Sa rnpte 0ode
+
+379o 539o t 349o 539o t, 4 49o 51 9 o 4 19o 49 9 o 419o 53 9 o t
+
+i Insane Rvfevtvrao Ijkvary
+Tlrna ft take to get Updates availahla.en App Stale CI e'jty of fdvdlsaak fvernapp reerect team Rensarnit Uvrtes es in sfeitias fromapp fenian team
+Dnnnjoads andPaleatvpen-
+
+319o 449o t 309o t 1 2 9o 2 79o t 1 6 9o 269o t 1 3 9o 2 09o t 3 9 o
+
+339o 509o t 309o t 1 1 9o 249o t 1 3 9o 229o t 1 2 9o 2 19o t 3 9 o
+
+3 09o 40 9 o t 3 49o 45 9 o 219o t 1 1 9o 1 29o t 8 9 o 1 59o 1 1 9 o 219o t 1 6 9o 1 69o t 9 9 o 1 79o t 8 9 o 2 89o t 3 9 o 2 49o t 4 9 o
+
+3 49o 48 9 o t 1 89o t 7 9 o 2 09o t 1 0 9o 1 79o t 9 9 o 22% t 99o
+
+inttvfaro Rttiltjer
+
+209o 35 9 o t 179o 33 9 o t , 1 89 o 349 o t 1 79o 32 9 ot ' 199o 279o t'
+
+Base ai respondents Qtd tahar are the fsve most sm portent aspects of the sPhone Developer Program for your
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 01 5
+
+APL-APPSTORE 09416419
+
+Developer forums are more important to those who do not have approved apps
+
+© us
+
+UK t o PR ® ns ® lP
+
+N=
+Qnvvkep.» Fotsansh
+lant.'fills'laof snentvthgt pevtfnnl Ea 9 ofanfnttittfngbfnerf rfntn
+
+WithApps NoApps WithApps NoApps I WithApps
+
+2895
+
+764 ~ 57
+
+476 I 301
+
+189o 29%$ 179o 2 79 f tt' 15 9 o
+
+169o F 59o 139oF 5 9 o 109o
+
+N oApps 217
+24 % '
+69o
+
+Wi t hApps NoApps Wi t hApps NoApps
+
+487
+
+435 ~ 3 9
+
+517
+
+209o 30tf f t t 79o 14% 0
+
+11tfyo F 69 o 169o F 89o
+
+159o F 99 o
+
+179 oF 69o 209o F 129o 139o F 79 o
+
+109 oF 59o
+
+89o 129 o F 9 9o 129o 1 29o 1 4 9 o 129o 1 3 9 o 99o 139o
+
+Emn ef sutnltfttinfimvpe rfata, 89o F 3 9 o 109o F 19o 139o F 3 9 o 119oF 2 9 o 109o F 29o
+
+Avsnrnqr nf'.payments
+
+89o F 4 9 o 79o F 49o 79o F 1 9o 11 9o F 69 o 159 oF 89o
+
+Ease aF nnatjtstf tnrvf8natas 79o 11 9 oF 6 9o 119o F 89o 179 oF S tfyo 1 0 9 o 109o 159o F
+
+prose' nf tnttFPAhfa sfnsmnpn
+Etpn. nF et.etltltl pn! flll-
+
+69o F 2 9 o 69o F 29o 69o 89o F 59o 79o
+
+79o F 2 9o 79o F 2 9 o 139 oF 79o 49o 109 o F 39o 79o F 10 9 o 159 o F
+
+EannnFlmroSmrtnt pmo»"s. 5 9o 169 o f 49o 159o f 159o 32 9 o f 109o 2 0 9 o f 20 9 o 279 o F
+
+Qatternf Esahttfnfp o anizanon
+
+5 9o 159 o f 89o 149o f 99o 169 oF 99o 139 o f 39o 49o
+
+Base ae respondents Qfd tahar are the frve most rm portent aspects of the rPhone Developer Program forsoot
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877.016
+
+APL-APPSTORE 09416420
+
+JP developers place more importance on assistance with tax forms, banking and contracts
+
+N= Responsiveness to fngulrles frow ale earolfmeerftfbam Ea mefmpaagmgduereaa
+
+© Us ~ U K ()
+
+kilithApps N U Apps N l i t h Apps N U Apps kli IhApps
+
+289 5
+
+764
+
+57 9
+
+476
+
+301
+
+4 9o 69o t 4 9o 79o t 79o
+
+39o Sgo t 3 9o 99o t 2 9o
+
+PR
+No Apps 217
+Sgo 79o t
+
+®
+klith Apps 4 87
+49o
+39o
+
+® ej
+
+NoApps Nlith Apps
+
+435
+
+399
+
+Sgo t 129o
+
+139 o t 49o
+
+IP
+N oApps 517
+119o 69o
+
+Getting Ettatatf tfftteoj
+13arftgof feegbaek frhrrl tirl uariioItltrtt 'taerr 5ettfnlfup tea fpmabenking infnaftatiotj
+Pujobeau plrrel I
+Eme. Uf lneaagiagtrarn murnffere
+Beau uf Inaaagiageoagad-
+Eagfenetfea ef program
+Benefit ' before enrolhaj1 Iderttttyuertprretfun pmje I,
+
+3 9o 39o 29o
+19o 19o 19o 19o
+
+189 o f 39o 69o 1 39o 29o 49o
+39o t 29o 1go 19o 79o t 1 9o 39o t 1 9o
+
+199o f 49o 49o
+39o 19o 99o t 69o t
+
+6 9o 39o 69o t Sgo 39o 29o 49o 29o
+
+149 o f 29o 2lf y o 79o 49o 39o Sgo 49o
+
+Sgo Sgo 4lfyo 69o 19o 29o 19o 19o
+
+17 9 o f 19o 79o 119o 29o 139o 49o 79o 39o t 2 9o 29o 139o 49o t 2 9o 49o t 1 9o
+
+69o f 129o
+19%1
+Sgo 4lfyo
+69o t 99o t
+
+errous Base aj respondents Qtd Iyhat are the fsve most sm portent aspects of the sPhone Developer Program f
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 01 7
+
+APL-APPSTORE 09416421
+
+· e ·0 ·
+
+4
+
+·
+
+g
+
+4
+
+· ·
+
+e · ·
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 01 8
+
+APL-APPSTORE 09416422
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 01 9
+
+APL-APPSTORE 09416423
+
+When asked how to make the program better, developers prioritized improving the app review process (particularly those with no apps in the store)
+
+Top mentions
+
+ktwp Pansperentfionsi nvrt rufku(proemnn( ralecrion raamm fsa apphcstismreulew
+Faster response fmrn application review team,
+SD f- pivvidu rrwrc wnplc rndm rcorifaniskr dmpl(fyisrpAte d oouroentation; keep d'ocv rnentatlor Ollsellt With Stk((fledumdonvtload sitar
+sfrtvpliff cwdficetc me'nupcmkvn
+Ap'pstola;tmpmva ratoior.Fstarn!rrlota vrutrrfftf for
+snnllapps2igct ridcf epp spamiuqamdkvf catugorlca
+kocafssc dokurncntedorvcintuvfarcwwufrdtc»' cer(ifrcetcs Nolo ceinnlit wcetlc' Ili du lolps I l Ickvpm ceo Mwc scskus(blcrtocafnrdffesturfnapomivc mpport;
+ra am piotne mpp ale
+hltneftaatter tsatlifnp taolsftntonafs
+
+17%
+8'Yo 8'Yo 7'Yo
+
+Stmpllff pnPZldnlslngProllles
+Allow distrttrution.epsrste from tike Appstore!kam cvstcvpr8u distrihudsm rcquircmkvrtsf Dpcn ptaffonnf Lc sAppic cordial
+RcduvcgcfiminvWlrggfec;m ake $99 fhi onr dmc only Improve fir a ndatianahytlcal reporting feature irl (tunes Connect Imprmw dcsipnffuncdonvf(tg of iTuncs uonnckt wain lti,' Bspead APfs, irrdurfing priim uncs
+Simplify crmrp prose@
+Atklfrof to rasper d tosWtanaifs!conect ruuwvrs
+Bcttuv promodon of mf app
+
+5'Yo
+4'Yo
+4'Yo 4'Yo 4'Yo 4'Yo 3'Yo 2'Yo 2'Yo
+
+Otnei mentions(2al Improve paymem processand fiv tav issues provide hardware discounts, make availability pie release hardware, Impiove Ad Hoc distnbution Otltei mentions(lat Improve testing procedures pnonnze piocessmg for emeigenoesand updates, issues/bugs w«h kcode, clanfy e«oi messages, drop/ease uponNDAs, abil«y to delete Apple IDs, issues with release dates, enable Promocodes to workin any country, allow multitasking
+
+Base al respondents Q13 What one thing could Appel dotemaketheiphone Developer program better> (reporting N>20)
+
+20
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 020
+
+APL-APPSTORE 09416424
+
+The software developer kit (SDK) and development resources are the areas of highest satisfaction
+
+H m%
+
+7446
+
+80gof
+
+67gr
+
+mme
+
+80tyo 1
+
+494'o
+
+0
+
+684'o
+
+6746
+
+684'o
+
+64>
+
+64gro
+
+6>gh
+
+60gro
+
+.'n--:' % &
+
+%&%& &~m
+
+Withapps Noapps
+® Us
+
+W i th apps Noapps W i th apps Noapps W i th apps Noapps With apps Noapps
+~ U R Q PR ® BR Q® lP
+
+Base ag respondents, excluding don't know (fes vary) Qfa Please rate your level of satisfaction with each of the following aspects of the enrollment process
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 021
+
+APL-APPSTORE 09416425
+
+Conversely, the visibility of apps in the App Store is the area of most dissatisfaction, followed by the
+time it takes to get updates available on the store, the App review process, and ability to track finances
+
+yo QBg.
+
+0fa
+
+u-
+
+30tyo
+
+50%o
+
+& 37oy
+
+W ~ m ~ 50%
+
+44go
+
+43go
+
+CSV.
+
+5'%%d
+
+55gb
+
+374'o
+
+37oyo
+
+29oyo
+
+15oyo
+
+Withapps Naapps W i th apps Naapps W i th apps Naapps W i th apps Naapps With apps Naapps
+
+® ® US
+
+~ U K Q PR
+
+oe Q® lP
+
+Base those with appsapproved, excluding don' t know (Ns vary) Q2S Please rate your level of satisfaction with the length of time it takes to get updates available on the App Store
+
+Q2O Please rate your level of satisfaction with the visibihty of your appon the App Store Note Single country bors ore those that only were asked for kylfHAPPSrespondents
+
+22
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 022
+
+APL-APPSTORE 09416426
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 023
+
+APL-APPSTORE 09416427
+
+Very few developers are "somewhat" or "very satisfied" with the visibility of their apps in the App
+Store, and with the time it takes to get updates available in the store
+
+o
+
+IR 24
+0
+
+ooc..
+
+Psf o. w
+
+454'o --
+
+554'o
+
+554'o
+
+29oyo
+
+o.
+
+ur uf-a
+I/I
+fa
+
+30oyo
+
+M
+
+M
+
+With apps
+
+With apps
+
+With apps
+
+With apps
+
+With apps
+
+© Us
+
+~ » UK
+
+Q FR ® GE
+
+Base those with apps approved, excluding don' t know (fos vary) Q2S Please rate your level of satisfaction with the length of time it takes to get updates available on the App Store
+
+Q26 Please rate your level of satisfaction with the visibihty of your app on the App Store
+
+24
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 024
+
+APL-APPSTORE 09416428
+
+Not surprisingly, those with published apps would like them to be more visible in the App Store
+
+tbI tttpIa nett trfsible enoktqlt
+lt2 Ap~p@orq CatecffeTA iVi Erslc l,
+
+Ere'feg,,
+
+tkyt Time It ttttreate make ttfydettes atyaifabte
+
+I Ilt ltrrtlltyt i i y r yelly ants lt'
+ettb rnfeslcrfk
+
+44. Tcyct ntanty spam"a/pfysiyt ttyesttyspe
+tf5 Feelneglected ae a smellffndependent deyreletser
+ore hjta s t k m g a'f apps in pp ie liStSfeyge Staff ptekS,,erlta/tyf fiet, rieW releasesl Reasons for dissatisfaction: Visibility and Updates (in decreasing order of mentions)
+
+Q27/28/29 Nihat is the main reason you are dissatisfied with /AREA3 Q30Nihat could Apple do to make /AREA3 better>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 025
+
+APL-APPSTORE 09416429
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 026
+
+APL-APPSTORE 09416430
+
+The App review process is one of the areas with lowest satisfaction
+Those with no apps are generally less likely to be satisfied
+
+58oyo
+
+V
+
+444'o
+
+504'o
+
+M & WR R
+
+With apps
+
+No apps With apps Noapps
+
+US
+
++ » UK
+
+W ith apps No apps With apps Noapps With apps No apps
+
+FR
+
+I® BE Q® lP
+
+Base those with apps submitted or approved, excludmg don' t know (fes vary) 023 Please rate your level of satisfaction with each ofthefogowing aspects of the apphcation review
+
+process
+
+27
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 027
+
+APL-APPSTORE 09416431
+
+More specifically, developers complain about the time it takes to hear back and the quality of feedback
+
+e'I T43e it teiseS to ffear back inconsietenctes in resporise tfirnes
+f if% Feaifba'Cir frrym alkP recta/k/Vtt kas m tt nnt
+I) cker, ose of'tsolierpfa'te reipo'uses
+
+eet cef en ne s Inecmsrstent or not 'tra nefrar/ent
+\
+ff2tt8fnkf itf li & mar'e vistfitffty in tfftf pr'Ocd'ss, and 5 ETA
+45 rkpme have not yetheard ttack from App review team
+
+ft6 lktkme rotn plain ftaat notall f~ i
+
+e
+
+gf vaint oiiee
+
+Reasons for dissatisfaction: App Review Process (in decreasing order of mentions)
+
+Q27/28/29 Nihat is the main reason you are dissatisfied with lAREAl Q30 Nihat could Apple do to make lAREAl better>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 028
+
+APL-APPSTORE 09416432
+
+0 0
+
+0
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 029
+
+APL-APPSTORE 09416433
+
+Many of those who complained about tracking and managing finances have either not been paid for the first time, or believe their payments are inaccurate
+
+559'o
+
+589'o
+
+6390
+
+SS9o
+
+cC 0 . 1
+
+5090
+
+5490
+
+4990
+
+4390
+
+399'0
+
+Withapps
+© US
+
+Withapps
++ » UK
+
+Withapps
+PR
+
+Withapps
+I® BR
+
+Withapps
+Q® lP
+
+Base those with at least one paidapp excluding don' t know (fesvary) Qga Please rate your level of satisfaction with each of the following aspects of tracking and managing finances
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 030
+
+APL-APPSTORE 09416434
+
+Payment delays, the 5150 quota per store and reporting issues are the most common issues
+
+tt'i ftftiays1n ~
+
+ts, c e prhtbtems tffiffif4$
+
+Cktf"bit tfffigethos
+
+i' TRtkitlte the $%0 qtfefafferstore
+
+el nancfa te
+
+g en
+
+site. Easter to reaEEoLttfer ftte formats, etc.
+
+\
+
+stfrt Effrif/SfVe Aetre tientferfffreS,&riot Other forms off ftatrment
+
+tf5 ifkItitemetchttetitteert ffrttkrti;ieIs, reports a/it d 'icteel ~ t t tettts
+
+ttIkf6rttinke6ie"7srtfiaps7psy smfkotrtfft tte stckred forittnger Reasons for dissatisfaction: Tracking and Managing Finances (in decreasing order of mentions)
+
+Q27/28/29 Nihat is the main reason you are dissatisfied with lAREAl Q30 Nihat could Apple do to make lAREAl better>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 031
+
+APL-APPSTORE 09416435
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 032
+
+APL-APPSTORE 09416436
+
+Ease of creating and managing certificates is the most challenging aspect of the portal
+Many find it too complicated, or think they expire too soon
+
+X 0 8
+tat 0.
+0fo
+
+64 eye7
+
+m5646
+
+614 ' o t 54iy
+
+47oyo
+
+H m 634'o7
+
+534'o
+
+62Ns
+
+m564'o
+
+m534'o
+
+m5646 6446
+R
+50oyo
+
+574'o
+
+----29tyo
+
+6Otye
+&~
+48oyo
+
+~
+-- 27 erg
+
+uI/I
+
+444'o
+
+48'Yo
+
+34gr t
+
+fo
+
+Withapps No apps With apps Noapps W ith apps No apps With apps Noapps With apps No apps
+
+© us
+
+UK
+
+FR
+
+Base all respondents, excluding don' t know (tes vary) Qgt Please rate your level of satisfaction with each of the followmg aspects of providing re portal
+
+th Ph p g
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 033
+
+APL-APPSTORE 09416437
+
+Many believe the process for creating and managing certificates should be streamlined
+
+S 'I TOP CnntPlfoated tn Crajt+ CtrrfiffesiitaS: Too manystets«a, ftd they are rejer'ted often f it% clsrfiffcatesIergsfre too tffcfcfy'art I f renetvcal ls c/frmririkatetf
+cskfrnentetfofr ort of /fr to
+create certrTKates
+\
+tfa Pifftckr tj creatirrti pfttflks, harsf'tts jnstill ln yacode
+
+tf'f Prctbfalms addin def/Sta lost
+
+trtl t:oem fificatittfts h>afkagfng ttihrit nttk afa I (a,llw,,asil~git I'Itg, rtrspoifslb ill ties)
+
+! to ,acco trnt
+
+mem rs a n n v U .a
+
+rit to lshtl-irk to rnbtlttpie areoadn cktftt6eisntnh
+
+Ir5 prpftles etrfttre too qofdrfy
+
+ft6 itist-devktr limit is very s;ortatrainfng fpr testin/lfmirltiple apfis Reasons for dissatisfaction: iphone program portal (in decreasing order of mentions)
+
+Q27/28/29 Nihat is the main reason you are dissatisfied with lAREAl Q30 Nihat could Apple do to make lAREAl better>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 034
+
+APL-APPSTORE 09416438
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 035
+
+APL-APPSTORE 09416439
+
+Managing contracts and setting up banking and tax information are the most challenging aspects of the app submission process
+
+Rm
+
+32g'o
+
+20go
+
+Withapps No apps With apps Noapps
+
+© US
+
++ » UK
+
+W ith apps No apps With apps Noapps With apps No apps
+
+FR
+
+I® BE Q® lP
+
+Base those with apps submitted or approved, excludmg don' t know (fes vary) Q22 Please rate your level of satisfaction with each ofthefogowing aspects ofthe Application submission process
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 036
+
+APL-APPSTORE 09416440
+
+Many developers (especially outside of the US) have issues with the contracts and legal requirements
+
+ai r-'onfpI(cate(t to ntantage s3fn((tI( out <entree(s,(tard te up@ate info'later
+
+IfI'
+
+i(2 L@stalrec(t((rerhents aie too(Js-cant((c ( i(rteinisafonai de~r t
+
+art
+
+t trn ke n at esnett
+
+srspport Apple-ref(uirernents ®E(
+
+\
+
+tfe HE/frt(trt retrd Englieh-Only eoumenta (Internet(ene( E(itse(ckperI
+
+4Is5cH(uenrbkaytl,onsoutbemnoitumghetdeor(eautam(eenytetieptlolan)tform
+
+a~I · a d a t ac~I" t w t' 8
+
+tftSi It/le(est(at/tu load is ton s(etftf Reasons for dissatisfaction: Application submission process (in decreasing order of mentions)
+
+Q27/28/29 Nihat is the main reason you are dissatisfied with lAREAl Q30 Nihat could Apple do to make lAREAl better>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 037
+
+APL-APPSTORE 09416441
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 038
+
+APL-APPSTORE 09416442
+
+Most are satisfied with the enrollment process
+& & :=:== & & & & m m ~ ~
+
+2346 $
+M E ~
+
+~
+
+*
+~~
+
+0
+
+66go t
+
+62oyo
+
+60gh
+
+61gh
+
+48gro
+
+53yo
+
+5146
+
+0 E
+0 0 - Z= E
+
+54tyo
+
+54go $
+
+S6go
+
+5646
+
+42gh
+
+364r
+
+35rt
+
+5046
+
+42gi
+
+4946
+
+Withapps No apps With apps Noapps
+
+® US
+
+~ UK
+
+W ith apps No apps With apps Noapps With apps No apps
+
+Q PR
+
+I® EE Q® lP
+
+Base ag respondents, excluding don't know (fes vary) Qta Please rate your level of satisfaction with each of the following aspects of the enrollment process
+
+39
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 039
+
+APL-APPSTORE 09416443
+
+The time it takes to hear back from the enrollment team was the most common complaint
+
+ee'n)rToaf)jejrt)sjatno/tottlroanmg to hear frcfitft th
+f lr2 Df)drjffit krtcfvr theenrc ffnrent fee sfratks
+f recurr)rffifaiannuijf fee
+rale enro leant leekri ls riot
+dear fagN Canned raaponses, not re)et/ant)
+\
+f)d) l entity tr~if jdsttoif takes teo muc)t @ma Erfjrsrt
+f)5 jtrskcessand requjrementsare top Usicerdrlc (international devefdpers)
+
+iry prctb)tres using ' 'le IErs f UlfpJJp)
+
+trt) prob)j) re' "fste ' @nestEprrryrietdt
+cornpenjrteftsE)UK)
+
+l credit caid [GE)
+
+i
+
+j)6 i tag tjretwtreen payrnetrt andact)vatinn Reasons for dissatisfaction: Enrollment process (in decreasing order of mentions)
+
+Q27/28/29 Nihat is the main reason you are dissatisfied with lAREAl Q30 Nihat could Apple do to make lAREAl better>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 040
+
+APL-APPSTORE 09416444
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 041
+
+APL-APPSTORE 09416445
+
+Most developers are satisfied with the SDK
+Those who have published applications are generally more satisfied with the SDK
+
+;::--=% % R H R m R
+
+89tyof
+
+8pgr o
+
+87ght
+
+87gro
+
+88ght
+
+86th,
+
+K
+
+::'Imm 86oyo
+
+83go
+
+844'o
+
+&6go
+
+:-
+
+--::-:'-.': mm
+
+75%r
+
+78tyo
+
+7446
+
+68t)ro
+
+W
+
+Hm
+W M
+Wm
+WM
+
+m
+m=
+m
+-m
+
+Mm
+
+Withapps Noapps Withapps Noapps
+
+© us
+
+UK
+
+mm
+Wi tahpps Noapps
+FR
+
+Withapps
+I®
+
+W
+N o apps
+OE
+
+MM
+Withapps Noapps
+Q® lP
+
+Base ag respondents, excluding don' t know (Ns vary) Qlg Please rate your level of satisfaction with each ofthefogowingaspctesoftheiPhoneSoftwareDeveloperKit( SDK)
+
+42
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 042
+
+APL-APPSTORE 09416446
+
+Some developers (particularly those new to Mac) find the SDK tools very complicated and unintuitive
+
+tr) TQEElsaretoo compticatedand hardtp use fp/art)'cularl)r for hfsgthners)
+
+f t) 2%@IJId ll'ke ntorre )ntssfrat)on hatwee
+I f too)s (ftkrt)ctrleri)r )(cot)e and)E))
+
+I'
+
+n
+
+hard ao Interpret and use, part)outer)(r, on
+
+metnorv I eaks
+
+tk/) IBistoo re)rttoveEfd'rom co' e ' r r rr hides,too.mluoh fnformat)on
+
+I phone ktmu)st))sr. Ifoes netaccttfate))r tsimuiaite oamera, 6P5, esse(erotneter, muttitouch gestures, and push oot)f(cat(ons
+
+t Iyfrerf f
+ntkawk/trct~atkrnandkB)f tfshortcutsfor
+
+trft Ha 1o dErwnfroad the ftttl SDI( wh ' there Is ah update
+
+II' +9 Do not like IB's.dractetnd-droprandhard
+i tq know hpvff to hook Iriterfkce e)antents ( todether
+
+li· EPk) Simba)sterh not apofoate in resembling t,
+
+i
+
+tlute devicispe'edfi/emappworkswe)lid comput'er', hdtslowondetrfce)
+
+I
+
+(IE)l Can'trt)nXcode on Windows envTronment
+
+tto Xs e is tcrounsta
+
+Reasons for dissatisfaction: iPhone Software Development Kit (SDK) (in decreasing order of mentions)
+
+Q27/28/29 Nihat is the main reason you are dissatisfied with lAREAl Q30 Nihat could Apple do to make lAREAl better>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 043
+
+APL-APPSTORE 09416447
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 044
+
+APL-APPSTORE 09416448
+
+Most developers are satisfied with the development resources on the website (except JP)
+
+67go t
+
+59go
+
+:.:Iw w w M
+
+u-
+
+56go
+
+65go
+
+6agh
+
+561'o
+
+-:-!LM W M M
+
+Withapps No apps With apps Noapps
+
+® Us
+
+~ UK
+
+M
+
+5pgro
+
+511'o
+
+26gro
+
+61 g'o
+
+W ith apps No apps With apps Noapps With apps No apps
+
+Q PR
+
+I® BR Q® lP
+
+Base ag respondents, excluding don' t know (Ns vary) Q20 Please rate your level of satisfaction with each of the fogowing aspects of the Development resources on the wehsite ag
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 045
+
+APL-APPSTORE 09416449
+
+Developers are most likely to be dissatisfied with the amount of code available
+
+tr) Tcc 1(ttie ~ q xle , w ant rnorfs sn(ppets eftrt e3remptes tr2 'sfte fs poor()7 ErrsLkrrised, lack~ sttckcture
+
+iB Asfd rhcrrkcomntkntar) and exarhpies to ex(st lno cede tftt More sec(e knippets )ter ftfnctto'n
+
+n9 taft ka
+errdfor superfic(al
+\
+
+efr sw t e crkeague
+
+t)d) fktkofk mu tt-(k'n(tu(kgw ekurfffkntettcrn
+support llntefrrettonrki dekreloperet
+
+()eveoper runs con e Ee nrontp e e Altedr
+ln'volverrtknt
+
+t)ta Deve(sr(per frsrems should havemore functtonetiQty (e4~,,elfrke PHP(ft(f)
+
+Reasons for dissatisfaction: Development resources on the website (in decreasing order of mentions)
+
+Q27/28/29 Nihat is the main reason you are dissatisfied with lAREAl Q30 Nihat could Apple do to make lAREAl better>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 046
+
+APL-APPSTORE 09416450
+
+· a
+
+~
+
+a
+
+· ·
+
+a
+
+· - · - · ' · · I - -a ·
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 047
+
+APL-APPSTORE 09416451
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 048
+
+APL-APPSTORE 09416452
+
+Roughly one-third of developers consider that the duration of the app review process has impeded their ability to develop and distribute applications on the App Store
+
+t2.
+E 3
+I/I V
+
+239'ot
+H E
+239'ot
+
+21oyof
+'& ~
+
+" -
+
+' m179'ot
+
+49'o
+
+129'oi 59'o
+
+109'o
+
+69'o
+
+159'ot 79'o
+
+Withapps No apps With apps Noapps W ith apps No apps With apps Noapps With apps No apps
+
+® US
+
+~ U K Q PR
+
+I® EE Q® /P
+
+N =
+
+2,895
+
+764
+
+579
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+Base ag respondents Qst yyhichofthefogovvrng aspects of the iOPexpenenca have impeded your ability to develop/distnbute applications on the App Store>
+
+517
+49
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 049
+
+APL-APPSTORE 09416453
+
+For developers with applications on the App Store, the time it takes to get updates available and the visibility of their apps are very important
+
+289'ot
+
+279'ot
+
+409'o 1
+
+f:
+
+E
+
+mR
+
+al
+
+2246 t
+
+ts. B R 8
+
+Withapps No apps With apps Noapps W ith apps No apps With apps Noapps With apps No apps
+
+® Us
+
+~ U K Q PR
+
+I® BR Q® /P
+
+N =
+
+2,895
+
+764
+
+579
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+Base ag respondents Qst yyhichofthefogovvrng aspects of the iOPexpenenca have impeded your ability to develop/distnbute applications on the App Store>
+
+517 So
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 050
+
+APL-APPSTORE 09416454
+
+Ease of creating certificates and profiles is an issue for roughly one in every five developers
+
+20gof
+
+161'o
+
+20go
+
+161'o
+
+241'o
+
+241'o
+
+161'o
+
+171'o
+
+91'o
+
+91'o
+
+81'o
+
+91'o
+
+101'o
+
+91'o
+
+131'o 81'o
+31'o
+
+61'o 1
+
+61'o
+
+V
+
+fo
+a ae- ' B
+
+101'o f
+
+41'o
+
+31'o
+
+31'o
+
+31'o
+
+1 g'o
+
+31'o
+
+31'o
+
+Withapps No apps With apps Noapps W ith apps No apps With apps Noapps With apps No apps
+
+® Us
+
+~ UK
+
+Q PR
+
+I® BR Q® lP
+
+N =
+
+2,895
+
+764
+
+579
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+Base ag respondents Qst Syhichofthefogovvrng aspects of the iOPexpenenca have impeded your ability to develop/distnbute applications on the App Store>
+
+517
+Sl
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 051
+
+APL-APPSTORE 09416455
+
+Very few developers think the SDK has impeded their ability to create applications
+
+144'o t
+
+144'o t
+
+:mE a R ~ E " m " a
+
+'R ~
+E
+
+64'o ~
+
+74'o ~
+
+64'o ~
+
+64'o ~
+
+74'o ~
+
+24'o
+
+24'o
+
+54'o
+
+44'o
+
+114'o t
+H mH
+
+134'o t
+"R
+
+104'o t
+
+auf al I2.
+
+fo CL
+
+34'o
+
+74'o t 44'o
+
+54'o
+
+44'o
+
+64'o
+
+CI
+
+34'o t
+
+44'o
+
+Withapps No apps With apps Noapps
+
+© us
+
+ux
+
+W ith apps No apps With apps Noapps With apps No apps
+® Q RR
+
+N =
+
+2,895
+
+764
+
+579
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+Base ag respondents Qst Vyhrch ofthefollovvrngaspects of the i OPexpenenca have impeded your ability to develop/distnbute applications on the App Store>
+
+517
+52
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 052
+
+APL-APPSTORE 09416456
+
+Not surprisingly, those with no apps are more likely to be impeded by the quality and quantity of programming resources on the website
+
+84'o
+
+m15oyof
+
+84'o
+
+1 24'o f 114' o
+
+234'o f 34'o
+
+134'o f
+
+84'o
+
+124'o f
+
+44'o
+
+24'o
+
+34'o
+
+34'o
+
+64'o f
+
+104'of
+
+54'o
+
+104'o f
+
+74'o
+
+11 4'o
+
+34'o
+
+16tyof
+
+a
+
+54'o f
+
+44'o
+
+64'o
+
+54'o
+
+64'o
+
+3gro f
+
+4 4'o
+
+84'o f
+
+fo
+
+Q
+
+64'o f
+
+24'o
+
+74'o f
+
+44'o
+
+94'o f Og'o
+
+24'o f
+
+2 4'o
+
+44'o
+
+Withapps No apps With apps Noapps W ith apps No apps With apps Noapps With apps No apps
+
+® Us
+
+~ UK
+
+Q PR
+
+I® BR Q® lP
+
+N =
+
+2,895
+
+764
+
+579
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+Base ag respondents Qst yyhichofthefogovvrng aspects of the iOPexpenenca have impeded your ability to develop/distnbute applications on the App Store>
+
+517
+33
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 053
+
+APL-APPSTORE 09416457
+
+Difficulty in setting up tax forms and banking information is a significant impediment for a fifth of all Japanese developers
+
+101'ot 41'o
+
+61'o
+
+51'o
+
+31'o
+
+51'o
+
+31'o
+
+71'o t
+
+31'o
+
+81'o t 1 1'o
+
+91'ot 21'o
+
+51'ot
+
+71'ot
+
+31'o
+
+214ttf-
+
+51'o t
+
+21'o
+
+91'o t 31'o
+
+6rtb
+
+41'o
+
+91'o
+
+61'o
+
+I/I
+
+V
+
+21'o
+
+21'o
+
+31'o
+
+41'o
+
+41'o
+
+1 1'o
+
+21'o
+
+Withapps No apps With apps Noapps W ith apps No apps With apps Noapps With apps No apps
+
+® Us
+
+~ U K Q PR
+
+I® BR Q® lP
+
+N =
+
+2,895
+
+764
+
+579
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+Base ag respondents Qst yyhichofthefogovvrng aspects of the iOPexpenenca have impeded your ability to develop/distnbute applications on the App Store>
+
+517 Sa
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 054
+
+APL-APPSTORE 09416458
+
+While tracking and managing finances (e.g., accuracy of payments) is an issue for some, it seldom deters them from developing applications
+
+49'o
+
+69'o
+
+39'o
+
+39'o
+
+79'o
+
+1 9'o
+
+1 9'o
+
+49'o
+
+49'o
+
+89'o
+
+39'o
+
+29'o
+
+Val
+
+12.
+
+I/I
+
+fa
+
+ts.
+
+E
+
+29'o
+
+1 9'o
+
+59'o
+
+1 9'o
+
+Og'o
+
+With apps
+© us
+
+With apps
+UK
+
+With apps
+FR
+
+With apps
+I® EE
+
+With apps
+Q® /P
+
+N=
+
+2,895
+
+579
+
+301
+
+487
+
+Base allrespondents Qst Vyhrchofthefollovvrngaspects of the iDP expenence have impeded your ability to develop/distnbute applications on the App Store>
+
+399
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 055
+
+APL-APPSTORE 09416459
+
+Japanese developers find it particularly difficult to enroll in the iDP program
+
+E l
+
+54'o
+
+44'o
+
+54'o
+
+44'o
+
+34'o
+
+34'o
+
+34'o
+
+11 4'o
+
+74'o
+
+74'o t
+
+64'o
+
+84'o
+
+54'o
+
+74'o
+
+44'o
+
+34'o
+
+134'o t
+
+174'o
+
+64'o
+
+44'o
+
+74'o
+
+34'o
+
+44'o
+
+1 4'o
+
+44'o t
+
+al
+
+44'o
+
+44'o
+
+24'o
+
+34'o
+
+34'o
+
+24'o
+
+34'o
+
+34'o
+
+104'o t
+
+6gb
+
+fo
+
+a
+
+34'o t
+
+1 4'o
+
+24'o
+
+24'o
+
+24'o
+
+54'o
+
+84'o
+
+24'o
+
+24'o
+
+44'o t
+
+54'o Og'o
+
+Withapps No apps With apps Noapps W ith apps No apps With apps Noapps With apps No apps
+
+® US
+
+~ UK
+
+Q PR
+
+I® EE Q® lP
+
+N =
+
+2,895
+
+764
+
+579
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+Base ag respondents Qst yyhichofthefogovvrng aspects of the iOPexpenenca have impeded your ability to develop/distnbute applications on the App Store>
+
+517
+Sd
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 056
+
+APL-APPSTORE 09416460
+
+·· 0
+
+«j
+
+0 ·
+
+e
+
+· ·
+
+· ·0 ·
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 057
+
+APL-APPSTORE 09416461
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 058
+
+APL-APPSTORE 09416462
+
+The most common mobile dev platform for those with approved apps is Google Android
+
+0oisgl@4nitrori4 Wflttdtysa ' Bladtbaytt ftI/f)' Rabat symfaitm
+N 9//e
+
+® © Us
+
+~
+
+UK
+
+io PR I ® BR
+
+/P
+
+WithApps NoApps WithApps NoApps With Apps NoApps Wi thApps NoApps WithApps NoApps
+
+N= 2895
+
+764
+
+579
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+517
+
+209o 24<t 1 7 9 o m i t ts t2 0 9 o 21ftt's 17 9o 2 6lttf 259 o
+
+139o 2 2 9 /to 20 9 o 239/ o 189o 239/ o 149o 18 9/ o 209o 319/ ot
+
+99o t 69o 99o t 59o 119o t 5 9o 69o t 39o 29o 29o
+
+79o 69o 59o 49o 59o 6 9o 69o t 29o 39o 39o
+
+3 9o 29o 109ot 5 9o 99o t 4 9o 69o 59o 69o t 29o
+
+29o 19o 19o 19o 19o 19o 09o 09o 79o 69o
+
+4 9o 79o t 99o 79o 99o 79o 79o 99o 109o 99o
+
+6 39o 6 0 9 o 619o 629o 579o 609o 659o 64 9o 579 o t 489 o
+
+Base ai respondents Qto Syhatother mobile plafforms doyendevelop for>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 059
+
+APL-APPSTORE 09416463
+
+Google's Android program generally has high satisfaction ratings
+
+613o
+
+63gb
+
+63gb
+
+6tttyo ~ (8 a
+
+Wm
+64go
+
+X 0
+
+Csf 0.
+
+42oyb
+= =- I ~
+
+44oyb
+
+46gb
+
+~
+
+~
+
+41go
+~
+
+3 24o
+~
+
+36oy o
+
+25ry
+
+22oyo
+
+29oyo
+
+0
+
+42go
+
+144'o
+
+u0fo-
+
+I/I
+fo
+
+4lgo
+
+44oyo
+
+23tyo
+
+42go
+
+36+o
+
+2ttgb
+
+2546
+
+144'o
+
+50oyo
+
+Withapps No apps With apps Noapps W ith apps No apps With apps Noapps With apps No apps
+
+© US
+
++ » UK
+
+FR
+
+Base those who develop apps for othermobile plafform (fesvary) Qls you mentioned you also develop apphcations forother mobile plafform Overall, how would you rate your
+
+satisfaction with the development program from these paiffermst Caution "Small base for ag except Boogie Android andWindows
+
+do
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 060
+
+APL-APPSTORE 09416464
+
+Interestingly, not having an application review process is a pro for some, and a con for others
+Google Android
+
+fteasons for satisfaction .
+
+No application review process --easyprocess
+'Easyofdevelopment.No hoopsto/ump th toughtoget to the /IPI docs,community
+fotums, blog, et s 'simple twbmLwaa (qnMII)br(esp
+'Easyto d(p Mvad ps(w((s(fntve/deeda)a abc '5)mple>wap dr) ..des rnluiw p ~ - I b b w a wteew MIrebw etests:
+i Free anclopenso(dree
+
+"-Free. Dp: as l 4:-ivisfbrp it Iptp . -Mbd %reef(v~
+
+s wsetc).
+
+"BecauMR I Rp(nso(beadeddsepbenerasfa(()ed(ensiinglbbvviaewth contractua(abfigado wy
+
+Flexible'
+
+"-open e/cb blame -M ppw(sdeudateseedewnawn(acDbxreadlinesfit would bdeevgai)eoaptaBl(yae(La"d( lvnsrrmt(ebfe far ob esbs)(bsuw--far)fdsanedsbdydbd
+
+Inexpen s)(re
+
+'-priceuivai yuck rsbkwyh, b)un(i e s N M e m rupswb s Wutga)'lotof heedom u d":. b (ur'ut I mdtl+ Is(yell abpb ab
+Rich itpl
+
+"A rich Aiqy
+
+Reasons f(ar aiisaatisfactlon...
+
+ytfi'tsver rfie place
+
+"Xnl uuwnib dw)uanrarr raIfw reqbaude r M)(wdlue ams.wbpIrmarrn r tisnil'cuba
+
+ntimfl ebivsrcreeqsuIiwrevdetfbo)tleieresnptecreiaqllyu)grrreamepnhtisc
+
+dado))de)/()admit (
+
+'feel)dilgyaw(rsAEseibp) f>pnebmeaecewplicated than i phonedevelopment,
+
+"Anr)r ueul rni)Mr rnnr.". iarbranl wprrii eDocumentationis adover the place. Too in onyberdlapcbpng(e"
+
+Dislike Java
+
+"Pve,dswe)aemet)((nvubenwn(is ((rr)b(r, not asbroadof a reachorasgood /IP)s fl(AI)sh n pegrain"
+No app review process
+"I. Noreview process. Vesit's easier on the developer but it's dettimental to the whole ecosystem. 2. Various screentesolutions. . Lack of documentation, '
+
+Poor visibility
+Android mat ket appshave very poor vistbility. Google doesn't do any mat ketmg fot Android apps.TheAndroid Mat ketintet face isnot so user hiendlyy
+
+exclduing nonmember' Base thosewho deva)upwithGoogleAndroid,
+
+N=)574 Q)SA/B Whatarethemainreasonsyouaresarisied/ issatisfied wit t e ) PLATFDRM)development
+
+program>
+
+51
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 061
+
+APL-APPSTORE 09416465
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 062
+
+APL-APPSTORE 09416466
+
+Those that like the Windows Mobile developer program cite good documentation
+Windows
+
+fteasons for satisfaction .
+Lots ofhelp available, better documentation (and morein Japanese)
+"Alot of 1 oaksfoFdamlttam dlf" "a lot of a'emaeaaa'Li ma(alf' met re it On(Suppitl,,C tea(lr ba'ta' dtituinal(a tie nOVagabis' 'Bettet iliaulvu rx r mi'n rurrfmrir. rr brddp dt: p atpvuex .".rrnnlnrrwnl
+Open marl(et/'collaborafion, more flegfibie, no approval process
+"A more openmar(at jt mn sefftfle produl if an my anrn, nlit tbrpugFI a speci(ic stot et.More open cosabot ation am atlg dmafapsr
+Ability to disttibute apps with moreffexfhilfty · ( L flee frllsk edadeaefrlre purchase, crosspromotion via Ttia(Pay,Icpolir tmfl pelion has mnrr advertising to purchase process analytics. 'Fewerhoopsto/ump tlv oughto get an appdfang utmf blare alelmsa to disttibute tlv ough. Familiar language f NLT, tndeva(op un."
+Better for business applications
+'Bettet developmentenvironment, more adnmcad fangupgsondrfamework a(or business applications. '
+Basethose who develop with Wmdows,excluding non members N=llbl QISA/B Whata program>
+
+Raasorksffar aiiastatisfactfon... pc(or Jt'P/
+(IPl IPI IiNn Iritlpfent ref l uul Iivaarir(nnfNMNNIBI OONP Oaplnuluua Murmvkkirv poi Nv karpfaotfmf
+ff amtrfeAi'N"
+1tlorrtarl(erplcrce
+"Flpphcatlancrtspataloaaahugspaiamrmpapurloches fprtcffpaffhellpp'5(ara
+6eneraifirdislifte lfiffndovtrs
+N Pm'Iil()ailutv Nlbvitfr Ofr ivufl IBPMOIP NflkPOII OI Oalsak Opplaruirln
+dsvsfopmsmp
+N'aenra(fucknfeslandaidpi adarm.Lawalaaukmmake (Naa(mamas wa (1Lack
+o(innovation (although this may change with Vy)
+Nack ofdevefopersupport primarify. Development infotmation is sparse and dis/ointed The changein Windows if obife platfotms makes it hard to suppot taa n(
+the itet ationsand petmutationsmnsistently
+rmliaosoft's lack o(intet est in application development on the platfotm. Poor hardware "
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 063
+
+APL-APPSTORE 09416467
+
+Those that like the Blackberry developer program citeease of use and no costs as main reasons
+Blackberry
+
+tteasons for satisfaction .
+Easy to use and free, Java-based
+'Develop(ng!ovo-hosedweb appsiseasyandbeeand tasteisno delay in sobmbsot I nl rldrup .
+" Itishel I h d a t f a . ,a(r tni Jv lio .".:". yu . (
+'Itk(teennanktnur r.rtkr ( d e (roan i i k ; i p t ktgrp I N i r! e e
+d otumenl 5 I r ( l l e lr d l a p (pr la r I . et a
+Flexible
+mpplrtatiansa'a noennd (oB(nppra'mdb(y(auhefnn tgs((gktnd." "wiih ale(ebelylml n i f ragfnawlyugglud(snniyprad N;tlr(leanerl wanter( f arel fm y( min n (or n un i an v l . d yn l w t J (rr rt h e opp
+
+Reasons f(ar aiisaatisfactlggn... Qverl'y corn'pIedt
+*InlftpplfuultltIl(pffra(rleu(ltviettg(wrlfltpgtspfr'I(moat. I a w g nnmnandr(NNNI nfalag
+steep learning curve
+"(bed(n(opm(u(sgpngealjdsuud(em(heuuednfpbane.((nn(aenumaey gllane reeds(eadd afd(enu((epebtenifealbeepg napea(mfa((unuen emf fue(ue
+PIrfwtaelflPeflfl If NP Pn
+lMicult to use/navigate
+ny(lrrll'lI!!PIIJINIII II hulrlPI Ilt gullpl I(lb Ilf illa((ntd NN(ffn(afi
+
+Base those who develop with Bla kberry ex lodmg non members NAN50 Q(5A/B what arethe main reasonsyou are satisfied/dissatisfied wit t e I p(AT(QRMI developmenr program>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 064
+
+APL-APPSTORE 09416468
+
+Palm detractors think it is out-of-date
+
+Palm
+iteasons for satisfaction . Open source
+/tll /tPlsare open and easy to fincL nvoapp r air p nri/l net/su iiun Mtmslrifnrir a t h a i bf flbcmtons are allo. ialridn /rpph'»warn ar rlcriw//nr nirl fr. hrMprmnr/y
+Free
+'Qevelapilg ib/I' n//rl Lsbdoss». an't Inc il tl f»l, RT/Na inmt rtamlr scu don't paya rmd Jlcrc c»a appc/pa/cori\missqn.'abmac4rscsdbswumate
+Easyro use
+"fasypluilan' un-"frplw,f i I". in es»we lrinriiy" "agave rri ninfiifr r crnrin r mlirnr nrin t ldm/wpmytlppfi. ical ad t/ie heedom ru r lh ri l i tn" 'Theter iwn cl I r w a / h r rrppi.lt' la y i r a s tir r . l/maui i ' rh apple'
+
+Reasons ffar aiisaatisfaction... Out af date
+/I/uric"/IP/ rlrld fr*i ai sawwl Clp xrnfPgfrtfaginarwrn trirbty play ibnmp. ln aa Arfrbx." Chin inir»i a aibiawa Tla/h aln ai f feb wi 7hcak..
+Bad toolslf/Pl
+'CteyefaparbrafyantfAI nalapafnarfbfaca clcvafoprncrsffnab faidrbsgc" "incninpirfcnnrfhaggyAi'l"
+lLio sales channel
+'No visib/e appstot e to get the list of existingpalm apps.'
+
+Base those who develop with Palm, ex luding non members N=370 Qrsn/B Whetere the mein reasonsyou are serisfie / issetis ied wit t e fPLATPQRM/ aevelopmenr program>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 065
+
+APL-APPSTORE 09416469
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 066
+
+APL-APPSTORE 09416470
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 067
+
+APL-APPSTORE 09416471
+
+Nearly everyone has the standard membership
+
+1%
+
+2%
+
+1%
+
+2%
+
+2%
+
+2%
+
+24o
+
+· Enterplrse program
+
+· Standard program
+
+Q.
+Cl
+E
+Cl
+E
+0
+Ccal .
+
+With apps No apps With apps No apps With apps No apps With apps No apps With apps No apps
+
+® us
+
+UK
+
+® PR I
+
+Be ® lp
+
+N= 2 895
+
+764
+
+57 9
+
+476
+
+301
+
+21 7
+
+487
+
+435
+
+39 9
+
+517
+
+Base ea respondents QB Which ype of iPhone developer program liDPl member<hip do you heue!
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY
+
+DX-3877. 068
+
+APL-APPSTORE 09416472
+
+Nearly everyone has at least started developing apps
+
+® © Us ~ U K () PR ® UR
+
+le
+
+fypfrhApps NoApps rr pirAhpps NoApps fili rhApps NoApps Nlirh Apps NoApps rrpirhApps NoApps
+
+N= 2895
+
+764
+
+579
+
+476
+
+301
+
+217
+
+4 87
+
+435
+
+399
+
+517
+
+Hatl art app ap ptaapd
+
+100%t 0% 100 %t 0% 100% t 0% 100% t 0% 100%t 0%
+
+Bttheihlad ah UPP laa apprdad
+
+99% t 6 % 99 % t 5% 99% t 6% 99% t 2 % 99% t 4%
+
+99% t 9 3 % 99 % t 93% 95% 96% 98% t 9 5 % 99% t 92 %
+
+98% t 7 4 % 97% t 80% 97% t 8 5 % 97% t 8 0 % 96% t 79 %
+
+ca;at~el a dia taatf8carc cl't.ac d'adatdrsUclolt cetpTica a jprOTtllp
+Teaartr app
+
+98% t 97% t 97% t
+
+7 5% 35% 71%
+
+98 % t 82% 97% t 32% 97% t 72%
+
+97% t 8 9 % 98% t 3 7 % 92% t 7 8 %
+
+99% t 8 4 % 97% t 3 4 % 98% t 8 1 %
+
+96% t 92% t 98% t
+
+80% 18% 74%
+
+uaddm: y ltacdlarypstrtioa 5 8% t 2 1% 56 % t 20% 56% t 2 3 % 63% t 2 4 % 22% t 3%
+
+uaisdio hropsodie'rrIhattiaa 1 7 % t 8 %
+
+16% t 7%
+
+29% t 1 2 % 25% t 1 1 % 10% t 3%
+
+Nona oprhapt
+
+0% 6% 0% 6% 0% 2% 0% 3% 0% 5%
+
+Base aa respondents Qf ta hroh othf e foaowmg rf any have you done rn the rPhone Developer Programs
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 069
+
+APL-APPSTORE 09416473
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 070
+
+APL-APPSTORE 09416474
+
+Two-thirds of US/UK developers feel it takes a long time to become familiar with Objective-C
+
+Ceoj Us
+
+N=
+6 e i.jing f oiiy «Aefbjeetjvott
+6mor hty f4ntgai u gi it
+6o o 'higlmrryjo Tglfi I e 6 ujM 6 fsr/ngf:nfili * egnooo m
+profmnalog p glffit i i UPUeot I 6 !Iloiryflf g. mg Ire tfe PI tfo ilfffi' I'U · I lietidegb:fle enn . gogf Aoroetogb 6th RT'jto broml lil I far Rlluunitohf. Ii embitld lgi n" RM tn 1rbregr
+lit fiiil d' oti . I fi. Iiged I iimtlng thsIL'.tt Tfjrb"Ar ftgso igp "ifmelpgend fits dehlo
+Llfgbdfty terlf yoffe ~
+memdstt p obbtv Togrov fgbdon loon T
+
+NoApps 303
+63% 46%
+35%
+25% 19%
+16% 15%
+14% 13% 8%
+8% 4%
+
+~
+
+UK
+
+No Apps 326
+63% 41% 32% 26% 16% 9% 12%
+90f|b
+11%
+
+io PR
+No Apps 139
+49% 24%
+29%
+18% 24%
+25% 4%
+15% 19%
+17% 15%
+7%
+
+I® Be Q®IP
+
+No Apps 293
+43%
+
+NoApps 440
+58%
+
+24%
+
+48%
+
+15%
+
+36%
+
+14%
+
+12%
+
+19%
+
+33%
+
+13%
+
+23%
+
+1%
+
+13%
+
+11%
+
+I
+
+15%
+
+16%
+
+9%
+
+7%
+
+12%
+
+15%
+
+12%
+
+Base those vvho have started developing apps but have not submitted for approval 03 tg h atare the mam reasons you have not yet submitted an apphoation for approvag
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 071
+
+APL-APPSTORE 09416475
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 072
+
+APL-APPSTORE 09416476
+
+Half of UK developers with apps not approved, submitted them in the last week
+
+Within the lost:yuee le
+
+© us
+
+UK
+
+No Apps 46'
+
+!
+
+No Apps 26'
+
+PR
+No Apps 14'
+
+® BR
+NoApps gf
+
+® le
+No Apps
+23
+
+Within tho last 2, toilets
+
+99o
+
+129o
+
+79o
+
+09o
+
+179o
+
+Within tho last 3 toilets
+
+09o
+
+49o
+
+09o
+
+119o
+
+49o
+
+W'lthlri the fast4 weeks
+
+119o
+
+09o
+
+79o
+
+09o
+
+09o
+
+Wfthfn the fast%4ooaks
+
+09o
+
+09o
+
+79o
+
+09o
+
+09o
+
+W fthftnhelast6iooaks
+
+49o
+
+09o
+
+79o
+
+09o
+
+09o
+
+ttytfhfnthe last2 weeks
+
+29o
+
+09o
+
+09o
+
+09o
+
+49o
+
+f3 hr more weeks
+Base those with apps submitted but not yet approved Qa you mentioned you' ve submitted an application for approval -- how long ago did you submit the ongmal apphcationt "Caution smak base
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 073
+
+APL-APPSTORE 09416477
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 074
+
+APL-APPSTORE 09416478
+
+About a third per country have 1 app approved
+
+Another quarter have 3-5 approved
+
+6.1
+
+6.1
+
+4.5
+
+5.1
+
+Means
+
+al
+
+1
+
+· 2
+
+3-5
+
+· 6-10
+
+0Ba.
+
+Over 10
+
+Ba.
+
+RS
+
+f:
+
+0RS
+
+VBa. Ba.
+RS
+u-
+0al
+
+E
+
+© lo ® Us
+
+~
+
+UK
+
+FR
+
+BR
+
+N=
+
+2,895
+
+579
+
+301
+
+487
+
+399
+
+Base those with apps approved Qd rdow many applications have you had approved for distnhution on the App Store>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 075
+
+APL-APPSTORE 09416479
+
+At least three quarters have some paid apps
+
+US developers tend to have more paid apps
+
+699'o
+
+659'o
+
+579'o
+
+61 9'o
+
+61 9'o
+
+Means P/o Paid apps)
+· 1009o (all paid) · 76 9m999o · 51 9m759o g 269m509o · 1 em259o · Oeo (all free)
+
+SSss..
+RS
+RSSs.
+O~O
+
+© BS
+
+UK lo PR ® es
+
+N=
+
+2,893
+
+579
+
+296
+
+486
+
+399
+
+Base those with i+ approved app Qda rdow many of thesela of Appel applications arepaid (i e, not free)t
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 076
+
+APL-APPSTORE 09416480
+
+About half of developers have all their approved apps updated
+
+679'o
+
+629'o
+
+659'o
+
+709'o
+
+609'o
+
+Means )o/o Updated apps)
+· 1009o (all updated) · 76 9m999o · 51 9m759o g 269m509o · 19 m259o · 09 o (no updateS)
+
+SSss..
+RS
+47 RS
+Ss.
+~toso
+
+© us 2,893
+
+UK lo FR ® Bs Q® IP
+
+579
+
+296
+
+486
+
+399
+
+Base those with I+ approved app Qy How many of these Iplpt IN Oof AFFS FROM QSI applications have been updated>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 077
+
+APL-APPSTORE 09416481
+
+Non-Eng lish developers more commonly have apps rejected than developers in the US and UK
+
+34oyo
+
+IVQ
+
+169'o
+
+239'o
+
+Wo
+
+Means jo/Rejected apps)
+· 100 9 O +l « l d dt n pp · 1009O · 76 9m999O · 51 9m759O · 26 9 m5 OBO · 19 m259O
+· OBO (no re)ectrons)
+
+CCaa..
+RS
+al
+V
+al
+~toto
+
+© Us
+
+N=
+
+2,893
+
+~
+
+UK
+
+579
+
+lo PR ® BR Q® lo
+
+296
+
+486
+
+399
+
+Base those with apps submitted or approved QB How many apphcations,if any haveyouhadrelectedbytheapplicationreview team>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 078
+
+APL-APPSTORE 09416482
+
+Japan has more developers with submitted apps that never get approved
+
+839'o
+RJ RS RJ
+cr CCss..
+RS
+CCss..
+RS RJ VRJ
+~toso
+
+839'o
+
+739'o
+
+809'o
+
+679'o
+
+Means P/oRejected, laterapv)
+· 1009o (all later a PPrDVed) · 7 69m999o · 5 19m759o · 2 69m509o · 1 9m259o · 09o (all never approved)
+
+© BS
+
+N=
+
+1,584
+
+UK io PR ® BE Q® JP
+
+298
+
+103
+
+199
+
+143
+
+Base those with relected apps Qo raow many ofthesela REJECTEDAPPSJrelected applications, if any, were approved ate later date>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 079
+
+APL-APPSTORE 09416483
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 080
+
+APL-APPSTORE 09416484
+
+Developers promote their apps on their own websites, on blogs, or w/social network ads
+
+N= prcr tmrnd nn ir 1unui mvo vsnhsfre Blnggflrg
+Atp/nlvglrlg 1flroilgh sscfnf nvovnrkv
+ufmi rgnkngng Pg rurll i url is! Uilps I 'fpossist R R: u finvl\Is fvr vntnnch tgfnrn scut dlslmf ll lit r Il also Ion\It v BRIVr fl nuns,irk gltl its tvr nrvr vtirn nn nf 'yinv/Vnlp I conlgmly s appn n nnn stl. Snipl Un I, vvI v slrln In lnvamr
+n ISVIBI
+
+© Us
+kwrhApps 2895
+689o 449o
+419o
+369o
+329o
+309o 21 9o
+199o
+189o
+
+~
+
+UK
+
+Nlirh Apps 579
+709o
+509o
+
+419o
+
+349o
+
+369o
+
+299o 199o
+
+219o
+
+169o
+
+lo IR I ® Bl
+
+Nlirh Apps 301
+
+Nlirh Apps 487
+
+679o
+
+509o
+
+369o
+
+459o
+
+409o
+
+319o
+
+389o
+
+369o
+
+349o
+
+329o 129o
+
+319o 149o
+
+229o
+
+169o
+
+209o
+
+139o
+
+Base ag respondents 033 tubalif anythmg are you doing to promote and market your applications>
+
+Q® IP
+Nlirh Apps 399
+469o 509o 319o 29o 139o 129o 119o 179o 209o
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 081
+
+APL-APPSTORE 09416485
+
+They are less likely to promote their apps on TV or on the radio
+
+N=
+Online heherede
+Baifnerhdsor/Riildfohtky ffglohehppllfhtfohh Proli lated. Ihthliglf mhgehifehde Pmfhofddthrotltll'I NfRBPefatehds Prontofhd tglfeuhh olitdoofhdeefhhhg lsolttote8thtefhgh he4lehde Phprnrfed lfmfroth gff hh 0 lhr'I N oho el I lro,lhc/en
+
+© Us
+kN fhApps 2895
+169o 11 9o
+59o
+29o
+29o
+19o 19o
+11 9o
+139o
+
+~
+
+UK
+
+Nli fhApps 579
+159o
+89o
+69o
+
+39o
+
+29o
+
+29o 29o
+
+109o
+
+139o
+
+lo PR I ® BR
+
+Nlifh Apps 301
+159o
+
+Nli fhApps 487
+179o
+
+109o
+
+89o
+
+89o
+
+99o
+
+89o
+
+49o
+
+59o
+
+29o
+
+49o
+
+19o
+
+49o
+
+29o
+
+79o
+
+89o
+
+129o
+
+149o
+
+Q® IP
+Nlifh Apps 399
+79o 99o 79o 29o 29o 19o 29o 109o 169o
+
+Base ag respondents 033 hi hatif anythmg are you doing to promote and market your applications>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 082
+
+APL-APPSTORE 09416486
+
+Though most have been developing for Mac for less than 3 years, some are in the 10+ range
+
+Le nt. 6 sp twfn I to loss shahzyeats
+2to loss than 3yeats
+3to loss than Iyeals
+4t .It"4 Ut;I p \ 4 Stmlrw nil I' p\4 0 to lemtthan ygtnts. ytnlria tl I Bytsnh Btnlriatl I mytsnn g tnlr iat l I lt t y t 0
+l op' p 4
+
+® © Us ~ U K () PR I
+
+nl Q®IP
+
+N=
+
+Mli lhApps 2895
+
+No Apps 764
+
+Mfi thApps NoApps M/fibApps NoApps Mf flbApps NoApps MfithApps NoApps
+
+579
+
+476
+
+301
+
+217
+
+487
+
+435
+
+399
+
+517
+
+23% 43%t 31% 48% t 33% 50% t 2 0% 38%t 34% 44% t
+
+33% t 2 1 % 38% t 2 3% 33% t 1 8% 33% t 2 1% 31% t 24%
+
+13% t 7% 4% 4%
+
+12% t 7 % 12% t 4% 4% I 594
+
+1 4% 11 % 7% 7% 6% 5% l 3% 2%
+
+3% 4% 3% 2% 3~
+
+4% 4% 5% 3%
+
+4% t 2% 3%
+
+1% 1% 1% 1% , ~
+
+1431I 1 %
+
+1%
+
+1%
+
+0%
+
+1% 1% 0% P% 1<
+
+0431I 1%
+
+1%
+
+1%
+
+1%
+
+1%
+
+0%
+
+0% P%
+
+1%
+
+1%
+
+1%
+
+2%
+
+1%
+
+0%
+
+1% 1% 1% 1% 1% 0% 1% 1% 1% 1%
+
+1 7% 1 5% 8% 13% t 10% 15% 13 % 13% 16% 17%
+
+Base a8 respondents 034 Approximately how many years have you been developmg software, hardware, and/or digital media for Mart
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 083
+
+APL-APPSTORE 09416487
+
+About half with apps have been developing for iPhone for a year or more
+
+© Us
+
+~
+
+UK
+
+io PR I ® BE Q®lP
+
+With Apps N B A pps W i t h Apps N B A p ps W i t h Apps N B A pps W i t h Apps N B A pps MlithApps NoApps
+
+N= 2895
+
+764
+
+57 9
+
+476
+
+301
+
+217
+
+4 87
+
+435
+
+399
+
+517
+
+1 9o 99o t 1 9o 99o t 4 9o 99o t 2 9o 69o t 4 9o 169ot
+
+1 tBs lesstha'113 ttts5ttths
+3 tty less thats6 ft>tgtfrths
+6 tty lessthan 9 ftfsgnths
+9 tdy less theft 12 ttf sgnths
+
+39o 15 9 ot 4 9o 79o 19 9 ot 8 9o
+
+159o t 4 9o 209o t 8 9o
+
+139o t 3 9o 1
+199o t 9 9o
+
+15 9ot 109 o 269o t 17 9ot 189 o 189o
+
+129o 1 6 9 ot 1 69 o 199o 149o 139o 99o 14 9ot 159 ot 1 09 o
+
+189o 2 0 9 o 20 9o 179o 179o 179o 169o 17 9o 149 ot 99o
+
+1 Yeaf 61'tpterl'e
+
+5 99ot 2 1 9 o 529 o t 20 9 o 529 o t 29 9 o 609o t 3 19o 39 9 o t 20 9 o
+
+Base ag respondents Qsg Approximately hovv many months have yon been developing forthe iPhone Oat
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 084
+
+APL-APPSTORE 09416488
+
+Most work independently or for companies with 2-5 employees
+
+onl ll wrkkurrb'purutnt rffo 2-6RNployees
+1 1-by 2 6-pO Sl .tlsl '
+aol-'Pgg I 001 m tO ryhd Over ftkOOO
+
+© US ~ UK ro PR I ® 06 Q®re
+
+WithApps NoApps WithApps NUApps Wi t hApps NoApps Wi t hApps NoApps Wi t hApps NoApps
+
+289 5
+
+764
+
+57 9
+
+476
+
+301
+
+217
+
+4 87
+
+435
+
+399
+
+517
+
+599o 6 0 9 o 579o 639o i 5 99o 6 59o 579o 599o i 489 o 449o
+
+279of 18 9 o 26 9of 169 o 179o f 109 o 209o 18 9o 209o f 1 39 o
+
+59o 1 39 o 49o 59o 69o 69o 59o 59o 59o 59o
+
+39o
+
+49o
+
+49o
+
+49o i 79o
+
+49o
+
+59o
+
+39o i 79o 89o
+
+29o 29o 39o 29o 29o 49o 49o 49o 69o 69o
+
+19o 29 o1 19o
+
+i 29o 19o
+
+29o
+
+39o
+
+29o
+
+59o
+
+49o
+
+1 9o 49of 29o 39o 39o 3 9o 29o 39o 49o 89o f
+
+09o 19o 19o 09o 19o 09o 09o 19o 19o 29o
+
+1 9o 39o1 19o 39o 29o 4 9o 19o 39o 29o 79o 1
+
+1 9o 39o1 1 9o 39o t 29o 3 9o 19o 39ot 29o 39o
+
+Base aR respondents Q36 rdow many people does your company employ worldwide (mcluding yourself)>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 085
+
+APL-APPSTORE 09416489
+
+About two-thirds work as independent software developers
+
+0sfao (I Rvotit ItldOpo ttdhft tIttr I
+
+© Us ~ U K () PR I ® BR Q®le
+
+With Apps N UApps W i t h Apps N U A pps W i t h Apps N U A pps W i t h Apps N U A pps MlithApps NoApps
+
+N= 2895
+
+764
+
+57 9
+
+476
+
+301
+
+217
+
+4 87
+
+435
+
+399
+
+517
+
+639o 7 0 9 ot 629 o 699o t 579 o 689o t 599 o 639o 559o 629o t
+
+319ot 22 9 o 30 9ot 239 o 339o t 229 o 319o 30 9o 339o t 2 59o
+
+39o 49o 49o 49o 69o 69o 59ot 39o 69o 39o
+
+11-25
+
+29o 29o 39o 19o 39o 39o 39o 39o 39o 59o
+
+09o 19o 19o 19o 09o 09o 19o 09o 29o 19o
+
+09o 09o 19o 09o 09o 09o 09o 09o 19o 19o 1
+09o 09o 19o 29o 19o 09o 09o 29o 19o 29o
+
+Base as respondents Qsy rdow many people are actrve members of your software development team>
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 086
+
+APL-APPSTORE 09416490
+
+They most common do iPhone OS software development independently
+
+© Us
+
+~
+
+UK
+
+io PR I ® BR Q®lP
+
+N=
+lifo'>Vtl gfevgafor rriy self, Boe roy pii trio ry soorte of lhpoirke-
+IKio5VIItfev by-for. irfyy'elf, is itiy prtrskerdf soiree of itf Boroe
+
+kyithApps NU Apps k y i t hApps N U A pps k y i t hApps N U A pps k y i t hApps N U A pps kyithApps
+
+789 5
+
+764
+
+57 9
+
+476
+
+301
+
+717
+
+4 87
+
+435
+
+399
+
+4 79ot 4 0 9 o 419o 389o 389o 38 9o 399o 42 9o 469o t
+
+209ot 1 1 9 o 19 9 ot 119 o 149ot 8 9o 209ot 139 o 159o t
+
+NoApps 517
+389 o 69o
+
+I.tlo 4W tfofrtor irkyrvll tlrrlo ofttikloyor
+
+129o 1 5 9to 169 o 18 9o 209o 169o 209o 18 9o 159o t 99o
+
+I.tlo eohtroer 5vtltrots tvorlt ror ol'lto rs
+
+119o 1 1 9 o 12 9o 99o 119o 119o 69o 59o 49o 49o
+
+I ttiit 8ho bbyigt
+
+109o 2 2 9 ot 129 o 249ot 169 o 2 79o t 159 o 239ot 209 o 429o t
+
+Base ag respondents Qsa Whishof the following best desonbes your software development work forthe iPhone OSt
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 087
+
+APL-APPSTORE 09416491
+
+Key Conclusions
+Most developers are generally satisfied with iDP, but roughly a fifth to one-quarter are dissatisfied
+-- Non-English speaking countries (especially Japan) and those with no approved apps are slightly less satisfied with iDP
+App visibility in the App Store is the area of most dissatisfaction
+-- Some specific complaints include:"too general" categories, search problems, and allowing too many "spam" apps in the store
+The App review process is also problematic for many, and it is the biggest deterrent for successfully developing and distributing iPhone/ iPod Touch applications
+-- Developers complain roughly equally about the time it takes to hear back from the app review team, unclear criteria for rejection and lack of responsiveness
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 088
+
+APL-APPSTORE 09416492
+
+Key Conclusions
+While most developers were satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+Many developers would like Apple to eliminate the store-specific purchase quotas (5150), and simplify financials reporting in the website Those dissatisfied with the application submission process find the legal requirements and documentation too daunting, confusing or time-consuming Some have difficulty creating certificates and profiles
+Although members are generally satisfied with the development resources on the website, many are clamoring for more sample code -and more relevant sample code- that is more easily searchable (and integrated with the (phone reference library)
+Overall satisfaction with the enrollment process is generally high, but some didn't think the fee was recurring and others complained about the time it took Beginner developers find the SDK too complex, and many want integration across the SDK tools
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 089
+
+APL-APPSTORE 09416493
+
+Key Conclusions
+A quarter of iPhone developers also develop for Android, and are generally satisfied with the experience
+-- They value how Android makes it easy to develop, test and distribute, and they like the robust API. Some find the range of devices, and the platform itself, a bit chaotic, however.
+Developers highly value WMDC for its documentation, but dislike their store and Windows in general
+Developers feel that the Blackberry mobile community and the app store lacks support and clear documentation
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 090
+
+APL-APPSTORE 09416494
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 091
+
+APL-APPSTORE 09416495
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3877. 092
+
+APL-APPSTORE 09416496
+
+

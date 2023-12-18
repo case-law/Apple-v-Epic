@@ -1,0 +1,695 @@
+Mac App Store Developer Feedback
+
+i Jnitnd Sininn Dlnrnna t nnn Nnrthnrn Binirini nrCnliitrmin
+
+Case No. 4:20-ev-05640-YCR
+
+Case TitleE rnGwiinn, lrre n: t n, lrrn,
+
+Exlnbit No.DX-4024
+
+Date Entered
+
+nnrnnY.Snnna, Clrrt
+
+Br:
+
+. I)nnnn rlert
+
+WWDR Creative Pro Team November 20, 2015 MAS Developer Feedback v6 Apple Confidential
+
+CONFIDENTIAL
+
+DX-4024.001
+
+APL-APPSTORE 06123711
+
+Summary
+The Mac business was $25 billion in FY15 and could easily be in the Fortune 150 by itself. The continuing lack of focus and investment in the Mac App Store by Apple will only continue to show developers this huge business isn't worth their investment.
+Because Mac developers have the option to sell directly, the danger in not being responsive to their concerns is the Mac App Store will add little or no value to the Mac, with the exception of OS X releases.
+This living document of developer feedback on the MAS covers the previous 18 months. The feedback is from developers who have:
+· Declined to be on the MAS · Are unhappy with their experience on the MAS · Left the MAS
+This feedback has been edited solely for formatting purposes.' Out of the 18 developers who gave us feedback, their issues break down into the following well-known themes:
+
+30o/o too high - not enough value
+
+10
+
+88Aclbox Issues
+
+10
+
+Upgracle prtctng
+
+No i08 App Store parity
+
+Review issues
+
+Can't respond to customer reviews
+
+No cust. relationship
+
+No bundles
+
+PricIAQ Issues
+
+other tDRM, Xcode, Trials, editorial
+
+12
+
+coAtroi)
+
+' In the case of Coda from Panic, the first high-profile app to leave the MAS, there was a concerted, multi-month, x-functional effort to keep them on the MAS. That case is summarized from their public blog posts. All others are private emails solicited directly from the developers.
+
+Apple Confidential
+
+2of32
+
+CONFIDENTIAL
+
+DX-4024.002
+
+APL-APPSTORE 06123712
+
+Feature Requests
+Although it seems the top complaint was our 30% share, if we gave the developer enough ongoing value for the 30%, it would mitigate some of the pain they are feeling. There are other things Mac developers have been asking for:
+* Parity between the MAS and iOS with analytics, Testf light, and app previews * Rethink sandbox restrictions for certain classes of apps * Roll out upgrade pricing or previous purchase discounts for the MAS only * Give trusted developers a number of "golden expedites" for critical releases * Allow developers some way to respond to reviews
+Apple could also act to give the Mac App Store a higher profile: * During Mac onboarding, automatically open the Mac App Store * Ensure Apple Retail make the Mac App Store a selling point of every Mac
+The bottom line is to truly address the heart of the developer concerns, the Mac and the Mac App Store has to have a seat at the table and must have ongoing, focused attention.
+
+Apple Confidential
+
+3of32
+
+CONFIDENTIAL
+
+DX-4024. 003
+
+APL-APPSTORE 06123713
+
+Adobe Dave Every, Program Manager
+Some apps on MAS
+Pricing · Other channels allow us more flexibility by Geo, we can put taxes on top
+(instead of making them inclusive and creating channel conflict) · App Store doesn't allow upgrades, coupling/bundling/suites, complex
+business models (hybrid, subscriptions, etc.); control over education pricing (either 50% off or nothing, and they allow people to be "students" for up to 2 years after school); Free trials are restricted, and Enterprise requires custom builds and a complex sign-up system
+
+Channel · As a bigger vendor we normally get to leverage our size/importance to get
+better placement, presentation, promotion and we can do bundling -- while the Mac app store requirements favor smaller/simpler apps. The playing field
+is leveled towards or advantages smaller developers (competitors can easily enter the market and gain visibility, and their apps don't require expensive reengineering to comply with terms).
+
+Customer Relationship · We have no control of promotions (in store), and poor communications on
+whether we' ll be featured or how (so we can't coordinate efforts, only delay
+releases and hope) · We get little to no analytics on who our customers are, even abstracted,
+unless they opt-in (- getting better · It's very hard to time releases because we don't know how long reviews will
+take. Best case it is days, worst case it is months and requires engineering rework (terms change over time). · Our positioning is based on customer reviews, but we have no mechanisms to
+respond to bad reviews or customer complaints. (Poor feedback channels) · Mac App Store is an island -- we can't promote other soft goods within the
+store or within our Apps on the store (treated like channel conflict, and a violation of terms). · No control over refunds or remediation if there is a problem · We can't do validation of how many units an App is installed on, which makes licensing restrictions hard (we have to pay royalties on a per unit/installed basis or re-negotiate contracts with patent pools and large organizations) (-
+may be getting better
+
+Apple Confidential
+
+4of32
+
+CONFIDENTIAL
+
+DX-4024. 004
+
+APL-APPSTORE 06123714
+
+Technical Applications have to be unified into a single payload (no companion/helper apps), requires expensive sandboxing (- PSE worked around this a little, and was able to get a unified PEPE last cycle Shared files, shared messaging, and many other things that make suites of Apps work better, are blocked or expensive in this model -- wasteful disk space and bad customer experiences Not only are there huge up-front costs with re-architecture, but it requires defeaturing apps. Once customers recognize that there's less functionality in the Mac App Store versions, our reviews get hammered (so far we' ve never had a positive review for functionality we were forced to remove). Apple will change restrictions on Apps (like turning off deprecated API's mid cycle) without warning, blocking updates -- resulting in huge support costs Limited version control: we can't control whether customers can download older versions. If we fork a product (drop support for old OS or hardware) we can longer update the older version (even security fixes) No betas are allowed (- fixed? Very difficult to plan software because lots of terms are vague, so we don' t know until after App Review accepts how much work there is to do. Could be good, or could be months of additional effort.
+Who is the channel? App Store customer base appears to be more often impulse buyers (looking at low cost products), and not as many pro/aspiring customers willing to put in longer training efforts to learn pro-workflows -- so our capture rates are lower than some other channels, and the customer frustration is higher. Our reviews suffer because of that customer-base. Really this channel is better for entry products that are easier to learn and use, but not as powerful -- but since this channel is locked in by terms, we can't do things that might make it more valuable -- like creating entry level versions of our products, and being able to move customers up to other proproducts later. Since we have no control over who the customer is, we can't do upgrades out of the channel (take them from an in-channel entry version to a more full featured Pro version).
+
+Apple Confidential
+
+5of32
+
+CONFIDENTIAL
+
+DX-4024. 005
+
+APL-APPSTORE 06123715
+
+Mac App storeasks from Adobe:
+Apple to share their sales numbers (how many customers are using the Mac App Store, what are total sales, etc) and get those numbers way up (customers demanding that we use that channel) -- if we had that demand, Apps would be more motivated. But right now it's seen as a great way for Apple to distribute their apps, and for companies without their own channels to distribute. But we have our own channels -- so it's not a huge value-add for us. Not to lose contact/control over customers (be able to contact them directly, to be able to respond to complaints, etc.) To pay a smaller margin For Apple's tech to work much better -- for example, we have no tools to know what will be flagged before we submit. So we need to submit, then find out via rejections the problem, then try to figure out cause and repair, then rinse and repeat. Need lead time on all changes coming -- so we aren't surprised Support for plug-in.
+
+Apple Confidential
+
+6of32
+
+CONFIDENTIAL
+
+DX-4024. 006
+
+APL-APPSTORE 06123716
+
+Autodesk Daniel Tutino, Maya Product Manager
+Some apps on MAS
+Sandboxing policy dt: From a product point of view this is probably the biggest change we would have to make to be compliant. Not thatitisn'timportant for security and other reasons but it would take a significant refactoring for certain components or we may have to drop them altogether.25%
+The 30% fee is too high dt: This lies more with our business model team. From my point of view we do have a healthy reseller/indirect business as well as direct sales. Perhaps 30% is a little high comparatively though. For it be compelling, the sales volume and traffic via the Mac App store would need to be worth it. 20%
+Their pricing modelis not compatible with the Mac App Store dt: All of Autodesk is going subscription only so the Mac App Store would need to enable the same model for consistency. The challenge is would Autodesk be able to provide the same subscriber benefits to Mac App store customers as we do via our existing channel or direct sales. For example, we provide subscription users with previous version access (up to 3 versions back) since they made need an older version of the software for an ongoing production. they buy the latest release Another important factor here is that we measure our success based on subscribers and billings. Without knowing specific sales 8 user metrics detail the store would be far less compelling. I honestly don't know how this works today since I' ve never published an application on the Mac App store. 25%
+The Mac App Store features and services lag behindiOS dt: I honestly can't say if this a factor or not. It would need some more research from myself and our development team. Naturally a roadmap/timeline indicator for any features that may/may not be deprecated is always useful to have. Not sure if any of these feature are related to business model/usage tracking I mentioned above; if yes that would change my priority rating. 15%
+
+Apple Confidential
+
+7of32
+
+CONFIDENTIAL
+
+DX-4024. 007
+
+APL-APPSTORE 06123717
+
+The Mac App Store review process
+dt: not sure if this would be an issue without experiencing it first hand. That being said, as long as the people involved in the process are receptive and communication flows well we can likely predict that timing and buffer it in to our standard feature release process. Security patches / critical fixes would need a fast turnaround though so not sure what the average rate would be a small incremental update.l'm assuming that since this is a bullet item though it has come up as a problem from others. 15%
+
+Apple Confidential
+
+8of32
+
+CONFIDENTIAL
+
+DX-4024. 008
+
+APL-APPSTORE 06123718
+
+Autodesk Kris Berg, Fusion 360 Product Manager
+On the MAS currently
+By far the biggest issue (95%) with Fusion 360 and the MAS is:
+The Mac App Store review process prevents them from getting new versions andlor updates out quickly.
+While sandboxing and pricing model have been an issue in the past. Most of that has been resolved satisfactorily.
+To provide more details on our issues with the review process:
+Slow Review Times: Even if the review goes smoothly it takes over a week for a single review. The last 5 submissions have been anywhere from 7 to 17 days (I was on sabbatical during the 17 day review). When we first started making submissionswe were seeing an average of3 days.
+New restrictions and MAS issues: Many times we get stuck in the process (upload, in review and prepare for App Store). This has been caused by both issues with the MAS (app getting stuck in both upload and processing states) as well as new restrictions. New MAS restrictions can come in at any time, and it takes time to understand the changes you need to make in order to comply. We have had it take weeks to get information from Apple engineering on why our application cannot be uploaded. Each time this happens and we are finally able to submit successfully, we go to the back of the review line and wait for our review.
+Fusion 360 is a large cloud connected application. We strive to quickly respond to customer requests, especially quality concerns, so frequent updates are necessary. Because we do not want to hold updates from our customers, we end up having the MAS lag behind .corn. Customers post to the newsgroup to voice their dissatisfaction with the lag. Some end up downloading it from .corn to get updates in a timely manner. A few customer quotes from our forum:
+" . ..because of update delays [in MAS] I went back to the web download version."
+
+Apple Confidential
+
+9of32
+
+CONFIDENTIAL
+
+DX-4024. 009
+
+APL-APPSTORE 06123719
+
+"I really wish Apple will give Autodesk a free pass when it comes to Fusion updates for the Mac App Store. The policies that work for mobile doesn't translate that well when it comes to desktop apps." "Just to clarify, Fusion releases for Mac and Windows have been coordinated, apart from a few instances where specific features lagged, which were clearly noted. The Fusion team deserves praise for this. The delay with the app store version is due to Apple, not Autodesk."
+"To avoid those problems do not use the App Store release, Autodesk provides a download similar to Windows directly from the Autodesk site."
+The MAS is a great platform. It provides customers with high quality applications, from any country, known not to contain malware, and provides applications exposure that they cannot get anywhere else. However, the review times and constantly changing restrictions are a major issue for Autodesk and its customers.
+
+Apple Confidential
+
+10 of 32
+
+CONFIDENTIAL
+
+DX-4024. 01 0
+
+APL-APPSTORE 06123720
+
+Bare Bones Software Rich Siegle, founder
+Left the MAS, Some apps on MAS
+Summary Participation in the Mac App Store compromises professional developers' ability to run a viable business, and as such, our quality of life. This is caused by a combination of factors:
+Destruction of the customer relationship, caused by separation of the customer from the developer (we don't know who our customers are) Unsustainable pricing models forced by market distortion (Apple's robust iLife and iWork tools are free, devaluing such software in the mind of potential customers) Limitations on product scope, functionality, and documentation, created by submission guidelines and sandboxing restrictions Failure of submission toolchain and procedural delays at critical points in the release cycle
+Our decision didn't have its origin in any single one of these issues, but in the confluence of them that makes the Mac App Store distribution process so fragile and restrictive as to be untenable for a business such as ours.
+Discussion The Mac App Store separates us from our customers. One of the essential elements of a sustainable business enterprise is the ability to build positive long-term relationships with your customers. The Mac App Store denies developers this ability, because developers do not know who their customers are (except in cases where the customer proactively contacts the developer for support), and there's no way to find out. There's also no way for us to reward customer loyalty with reduced upgrade pricing for current license holders.
+
+Apple Confidential
+
+11 of32
+
+CONFIDENTIAL
+
+DX-4024. 01 1
+
+APL-APPSTORE 06123721
+
+The Mac App Store forces us to create unsustainable pricing models. The initial releases of the IWork and iLife apps in the Mac App Store were very inexpensive, particularly compared to their previous bundled pricing. Eventually those products became free.
+By first selling cheap, and then subsequently giving away core productivity tools, Apple has encouraged customer expectations that carefully crafted, high quality software "SHOULD BE FREE ONE STAR", or at least cheap enough that it can be an impulse buy, even for professional productivity tools. The unavailability of "trial" or demo versions, and of discounted upgrades, further reinforces this expectation.
+In the first case, the expectation is that products in the app store are priced low enough ("throwaway" pricing) that the financial risk to the customer is minimalit doesn't matter if they don't like what they bought, there's so little money involved they won't even bother asking for a refund. In the second instance, customers are led to believe that developers will continue providing new features at zero added cost indefinitely.
+For the developers whose products comprise the vast majority of products in the Mac App Store, this is not a sustainable business proposition.
+The Mac App Store prevents us from shipping the best product we possibly can to our customers. Privilege escalation is not allowed, which means we have to come up with hack workarounds to implement key features. For example: Yojimbo isn't allowed to install a PDF workf low service -- one of its most heralded initial features. BBEdit from the Mac App Store can't install its command-line tools or support authenticated saves, and this has created customer confusion and support load. In addition, icloud APls (for storing and syncing data, or sharing preferences across multiple devices) are not available to applications that aren't in the Mac App Store.
+These restrictions mean that developers who wish to reach the broadest possible audience (both inside and outside of the store) must ship different versions of products with distinct feature sets, or sacrifice desirable features in order to reduce to the least common denominator.
+
+Apple Confidential
+
+12 of 32
+
+CONFIDENTIAL
+
+DX-4024. 012
+
+APL-APPSTORE 06123722
+
+For an established product of nontrivial size and depth that thoroughly exercises the API stack, sandboxing is enormously expensive -- both in engineering time and testing resources. For some developers, ourselves included, this has turned out to be infeasible.
+Now, none of this is a policy protest -- there are perfectly good reasons why the submission guidelines are written as they are to help ensure a convenient and secure experience for Mac App Store customers. At the same time, these guidelines may (and do) get in the way of delivering certain features and products which customers want and may benefit from.
+Tools and processes fail at critical points, preventing timely product releases. Over the course of multiple software releases, we' ve found that the Mac App Store submission toolchain has a habit of creating problems during the most stressful phase of the project: release prep. Some examples we' ve run into:
+Xcode warns you that internal components aren't signed, but there's no way to sign them because the tools don't support it (we get errors when attempting to do so). The tools let us submit a package and then iTunes Connect rejects it because of an alleged code-signing error in something which we had all reasonable expectations to think was signed correctly (because codesign and spctl say they' re OK). We submitted a valid binary and heard nothing from App Review for nearly a week, and then learned that our application package uncovered a bug in the App Store intake processing which actually crashed that tool, and that left our submission in limbo, and nobody noticed until we asked.
+I encourage you to review DTS case ¹612365368, which tells the story of a month-long struggle trying to get minor update builds of BBEdit and TextWrangler approved for release. I believe that our experience here highlights a number of problems with not only the submission process, but also with the developer
+support experience.
+
+Apple Confidential
+
+13 of 32
+
+CONFIDENTIAL
+
+DX-4024. 01 3
+
+APL-APPSTORE 06123723
+
+Quality of Life Considerations "Quality of Life" is a reference to the overall self-assessed sense of well-being of an individual or collective. There are a number of leading indicators for Quality of Life, but a few of the key ones that I think are relevant in our line of work are: · Financial security and/or stability (the ability to pay the mortgage, put food on
+the table, pay your vendors and employees, keep the lights on, and so forth) · Overall mental and physical well-being · A reasonable amount of time for leisure and recreation · The ability to connect with the people around us.
+On all of the above points, participation in the Mac App Store has negatively affected these indicators.
+
+Apple Confidential
+
+14 of 32
+
+CONFIDENTIAL
+
+DX-4024. 014
+
+APL-APPSTORE 06123724
+
+Bloom Built (Day One) Paul Mayne, Founder
+I' ve always bet big that the Mac App Store updates are right around the corner, they HAVE to be. Turns out I was wrong. The Mac App Store appears to been abandoned by Apple compared to the iOS App Store.
+Testing Testing our apps is the most critical part, we battled every release with only 50 UDIDs that don't refresh until a year later (users getting new hardware burns a device... now up to 200 but still not enough). This limitation resulted in buggy releases that in turn caused us to rush buggy fixes and beg for expedited review times.
+Upgrades We' re still getting by on a product sold to our customers 5 years ago with no means to ask for more money enough though our customers want to support us and pay for an update. We are forced to release Day One 2.0 as a separate app and remove our beloved App from the Mac App Store. Resetting all the reviews and ratings from the past 5 years.
+Trials Without a way to offer trials we are forced to offer a self-hosted solution using 3rd party libraries. This is fine, but unfortunate for premium software.
+Family Sharing, and App Store Analytics, 2 unfortunate missing pieces that are available on iOS. We can live without these just fine. Review times are rough and long, but again, we can live with this as long as the above items are taken care of.
+
+Apple Confidential
+
+15 of 32
+
+CONFIDENTIAL
+
+DX-4024. 01 5
+
+APL-APPSTORE 06123725
+
+Bohemian Coding (Sketch) Pieter Omvlee, Founder
+Left the MAS
+
+Top 3 Issues:
+
+1. Inflexible pricing. Paid upgrades are a glaring omission and other business models (like paying for updates for a year) don't exist either. Also, volume licenses to educational institutions or companies are either painful or impossible. (40%)
+
+2. Sandboxing prevents us from building the app we want to build and our customers are asking for. It's a shame that the best the Mac can offer can't be sold in the store because of silly restrictions (see Panic's Coda). Sandboxing was introduced with an implied promise that the system would continue to be updated and extended but sadly nothing has happened there. (30%)
+
+3. 7+ day reviews are very frustrating. I wish there was a 'trusted' group of developers whose apps would be approved immediately -- or do like Google; review after the fact. Apple wouldn't waste time with their reviews, developers wouldn't have to sit twiddling their thumbs, and users could use these fixes immediately. (30%)
+
+Other Issues:
+
+1. 30% is a very high fee to demand of what I think is honestly a pretty bad system. The fact that there's no live sales data on iTunesConnect for example is baffling. The Mac App Store app itself is also quite slow (11 seconds to launch here) and the app pages are uninspiring and boring.
+
+2. The Mac App Store does indeed lag behind iOS in features such as analytics, preview videos, or TestFlight support. Fortunately we don't need the latter as we can just roll our own. Analytics would have been nice though.
+
+3. It is frustrating that we can't reply to 1-star reviews, can't process refunds and don't get users's contact details.
+
+4. Purchases are tied to iTunes, which is really impractical for professional customers; they won't want to buy $99 software (which would be a business expense) on their personal iTunes accounts.
+
+Apple Confidential
+
+16 of 32
+
+CONFIDENTIAL
+
+DX-4024. 016
+
+APL-APPSTORE 06123726
+
+5. Apple is actively discouraging developers from updating apps because it resets the ratings and search ranking after each update.
+
+Apple Confidential
+
+17 of 32
+
+CONFIDENTIAL
+
+DX-4024. 01 7
+
+APL-APPSTORE 06123727
+
+Busy Mac John Chaffee, Co-founder
+Some apps on MAS
+We initially sold our apps exclusively on the Mac App Store. We now sell direct and on MAS, and 2/3's of our sales are direct. We think our MAS sales are suffering due to the following limitations:
+1. Trials Our apps sell for a premium price of $50. At that price point, users are much less likely to purchase without testing the app first. The only way to test our app is to download the trial from our website, which directs customers to our store for purchase.
+If trials were offered on MAS, they could direct to MAS for purchase.
+2. Upgrades Selling upgrades to our installed base at a discount is a significant source of revenue and a vital part of our business. We cannot offer free upgrades. Likewise, customers expect a discount on upgrades of premium priced Mac apps.
+The work around of selling upgrades on MAS as new apps with a limited time intro offer is a major source of dissatisfaction for existing customers who feel they are not being treated fairly, and it significantly decreases our revenue from new customers who should be paying full price.
+3. Bundles We sell two apps priced at $50 each, or $80 bundled (a 20% discount on each app; a 60% increase in average revenue per order). 1/3 of our direct revenue is from bundles.
+The iOS App Store offers bundles but the MAS does not. It's a lost opportunity.
+Cross-platform bundles (combining Mac and iOS apps) is something customers would value as well.
+
+Apple Confidential
+
+18 of 32
+
+CONFIDENTIAL
+
+DX-4024. 01 8
+
+APL-APPSTORE 06123728
+
+4. Discounts We offer educational discounts to students and staff, and other discounts on an ad hoc basis. Roughly 10% of our direct sales have a discount code associated with them. We are unable to offer discounts on MAS. Another lost opportunity.
+5. Analytics
+The iOS App Store provides analytics but the MAS does not. It's unfortunate that we cannot determine how or why users are purchasing on MAS and how to increase that activity.
+Busy Mac Dave Riggle, Lead Developer
+- Apple could get rid of the sandbox container metaphor entirely and go back to the old Application Support subfolder metaphor. If they don't want to go that far, get rid of the necessity for secure bookmarks, bring back distributed notifications with payloads, and allow unfettered access to IPC, Distributed Objects and AppleScript.
+
+Apple Confidential
+
+19 of 32
+
+CONFIDENTIAL
+
+DX-4024. 01 9
+
+APL-APPSTORE 06123729
+
+Epic Games Tim Sweeney, CEO
+No apps on MAS
+
+Some more thoughts on this topic: http: //www.engadget.corn/2015/1 2/02/bohemian-coding-sketch-no-mac-appstore/
+Both the Mac and Windows app stores exhibit the same shortsightedness here, applying indie-oriented app store terms onto major software applications with a time-sucking certification process, limited app functionality via sandboxing, and unreasonably high revenue shares compared to other payment methods.
+These applications are distinguished by three things:
+1. They are made by well-established and trusted publishers with long track records, for whom the certification process is overbearing and intrusive. This process should be waived for companies with established reputations and track I'ecoI'cls.
+2. These major applications rely on more features than the app store sandbox allows. The sandbox model is the right thing for the masses of indie apps for unknown/untrusted developers, but will never be appropriate for major applications. For these apps, the store needs to allow full software installation.
+3. These publishers have the means of maintaining long-lasting direct relationships with customers, and selling their software to customers with or without Apple's help. They are perfectly comfortable with Visa/Mastercard taking a 5% cut of revenue, but Apple's 30% cut is exorbitant. They'd be happy to process transactions through Apple Pay at an ordinary cut.
+It makes NO SENSE to have a Mac app store with business terms and technical infrastructure that make it unsuited for distribution of the Mac's most serious and important apps. It would be better to have no app store at all than this broken app store full of mostly "toy" apps. This makes it look like there's no good software for Mac. As a Mac app discovery mechanism, it's totally broken.
+
+Apple Confidential
+
+20 of 32
+
+CONFIDENTIAL
+
+DX-4024. 020
+
+APL-APPSTORE 06123730
+
+Intuit Jonathan Kromrey, Relationship Manager
+Some apps on MAS
+If you could ask Apple to change anything on the Mac App Store, what would you ask to improve?
+Pricing models and bundling options This is ¹1 for Quickbooks. We have a lot of product pricing flexibility on our Web offerings where we allow the users to pick and choose which elements of a subscription they would like to have and then give them a lower % based on the number of items chosen.
+If we can have this "Bundling" option on the MAS and iTunes that would be a game-changer not only for us, but allow our millions of customers to have much more flexibility in choosing the best solutions for their small business.
+App Analytics (Lke iOS has), with additional trends and data specifically we'd like to be able to track marketing campaign links to better understand how our spend is affecting traffic
+Would LOVE to know if users who download from the MAS also have our apps on lOS devices (like QBO)
+Auto-update Having apps auto-update on the MAS would be great
+Shared libraries
+Apple Pay support We'd love to be able to provide the same payment processes we have on iOS to MAS apps (espeically for TurboTax) - this makes for a more consistent experience across all Apple platforms
+Sandboxing -- for the above, as well as new feature / connectivity testing
+App Preview Having a movie clip option like iTunes would be great -- especially for our apps like Turbo Tax
+
+Apple Confidential
+
+21 of 32
+
+CONFIDENTIAL
+
+DX-4024. 021
+
+APL-APPSTORE 06123731
+
+Features and Processes Would love to see a more consistent presentation across both iTunes and the MAS -- having more banner space, especially for Business and Finance apps -- is crucial
+Ability to respond to Reviewer comments -- Radar ¹ 16647300 This is a long-standing request from the start of the app store. This would really help us get to the root of customer issues and help fast-track solutions.
+To better serve our customers we'd like to be able to publish a single binary to create an app that works on both iOS and Mac platforms. Radar ¹ 16797683
+To better serve our customers, we would like to be allowed to deep link from one QB app to another QB app (example QuickBooks Online to GoPayment, Intuit Online Payroll to QuickBooks Online, GoPayment to Demandforce) with single sign on. Even with Mint for personal finanace options or to Turbo Tax. Radar ¹ 16797800
+Allow a Subscription within a Subscription: By adding subscription options within a subscription set would be much easier for a customer to navigate and use asthe number ofemployees grows. Radar ¹ 16828352
+Allow IAP to be in a "cart" mechanic --This allows users to make a single bulk purchase rather than feel nickel-and-dimed. Radar ¹ 18232452
+
+Apple Confidential
+
+22 of 32
+
+CONFIDENTIAL
+
+DX-4024.022
+
+APL-APPSTORE 06123732
+
+Macphun Alex Tsepko, COO
+Creative Kit 2016 will be available exclusively on Macphun store for now. We' d be happy to consider having it on the Mac App Store, but there are two key issues: App Store guidelines don't allow bundles and don't allow plug-ins.
+With this in mind, I wanted to share some thoughts that we had around Mac App Store. We love this marketplace, and there are just few things that will make it the top choice for developers around the world - I know many developers today, who still prefer direct sales through their store.
+Here's what would make App Store an even better place to sell the software.
+- Software bundles. We currently have 10 separate apps on the Mac App Store. There is no plan to make a single software. Our plan is to support Photos for Mac and make it a powerhouse, but we don't want to launch alternatives to Pixelmator, Adobe Elements, etc. We literally get dozens of requests every week from people, who want to get all our products at once and ask for a bulk discount. We can't offer this on the Mac App Store, so we have a bundle on the Macphun Store. Having a possibility to create bundles - similar to iOS would be amazing.
+- Plug-ins. We now support Photos extensions. But the versions, that we sell through our site also work as plug-ins. 87% of our customers are people over 40 years, who are using Aperture or Photoshop. Our software completes these products and people feel really good about the chance to use it as plug-ins. They don't purchase from the App Store just because they won't be able to use the software as plug-ins. I am not saying you should allow 100% plug-ins on the MAS, but if they app offers this functionality, why don't you let it through?
+- Enhanced subscription. Within a year we plan to move Creative Kit to a subscription model. There is no way we can do it on the MAS (in its current stage, as the current subscription guidelines won't work for a product like Creative Kit). Hopefully, we will be able to do something like that in the future. It' s quite simple to set up subscription via our store.
+
+Apple Confidential
+
+23 of 32
+
+CONFIDENTIAL
+
+DX-4024. 023
+
+APL-APPSTORE 06123733
+
+Panic Inc. Cabel Sasser, founder
+Left the MAS, Some apps on MAS
+(Summarized from htt s:// anic.com/bio /coda-2-5-and-the-mac-a -store/ and htt s:// anic.com/bio /coda-and-sandboxin /. Also, scores of emails between DTS, engineering, WWDR, and Panic.)
+As we continued to work on Coda 2.5 -- a significant update that we' re really excited about -- we continued to discover new corners of the app that presented challenges under sandboxing. Coda, to be fair, is a very complex developer tool and is something of a sandboxing worst-case scenario.
+Apple, to their considerable credit, spent a lot of energy assisting uswith ideas, workarounds, and temporary exemptions we might be able to use to get around some of the issues. Apple genuinely went above and beyond the call of duty, and we' re really thankful for their help. We got extremely close and jumped over a lot of tricky hurdles thanks to them.
+Unfortunately, though, we' ve run out of time.
+Coda 2.5 is essentially complete. But, we' re still encountering sandboxing challenges. So, in the interest of finally getting Coda 2.5 out the door and in the hands of you, our very eager and patient customers, we' ve decided it's time to move on -- for now.
+In short: Coda 2.5 will not be sandboxed, and therefore will not be available in the Mac App Store.
+
+Apple Confidential
+
+24 of 32
+
+CONFIDENTIAL
+
+DX-4024.024
+
+APL-APPSTORE 06123734
+
+Propellerhead Software Leo Nathorst-Boos, Product Manager
+No apps on MAS
+Please find my prioritized list of issues below:
+30% Their pricing model is not compatible with the Mac App Store 30% No access tour customers 20% Sandboxing polyic 20% Not able to sell Rack Extension plug-ins in our own online store
+These issues are not significant for us: · The Mac App Store review process prevents them from getting new versions
+and/or updates out quickly. · The 30% fee is too high · The Mac App Store features and services lag behind iOS [making it difficult to
+track their business/indicating Apple will discontinue or not support at some time in the future]
+We want to be able to sell a Reason license to our customers, that they can use on any computer on either Reason or Windows. It's important that they can download and install Reason wherever they are, and receive the Rack Extensions they own too.
+We need to be able to continue to use our copy protection, as it's not only used for Reason but for Rack Extension plug-ins too.
+We need our customers to register with us on purchase, as our system is based on this. We also need this to be able to contact them, to sell discounted upgrades to them (based on what they own), as well as sell add-on purchases such as our Rack Extension plug-ins.
+
+Apple Confidential
+
+25 of 32
+
+CONFIDENTIAL
+
+DX-4024. 025
+
+APL-APPSTORE 06123735
+
+Realmac Software (Ember, RapidWeaver) Nik Fletcher, Product Manager
+On the MAS
+Since the Mac App Store's launch in 2011, we' ve tried a number of different distribution plans - including going App Store-only with Ember v1. At the time, our plans to support iCloud - and lingering concern over the longer-term availability of Developer ID distribution - meant we took a considerable hit by moving to the MAS.
+The lack of upgrade pricing (or the ability to move to MAS, as so many customers ask us for) was a major sore point and lowering prices simply leaves upgrading customers with a bitter taste, as new customers got the same price (i.e. no preferential pricing). On the flip side, the feedback we' ve received is that, if Upgrade Pricing existed on the MAS, people would expect to be able to migrate *to* the MAS with upgrade pricing. Which, I suspect wouldn't be an option if the MAS offered upgrade pricing:(
+One other major area for concern to us is the seeming second-class treatment, of the Mac App Store. We' re unable to submit complex binaries with their symbols (to help with crash logging - rdar://18536752), we give up the usual 30%, and yet get none of the services that would help improve the apps Apple customers download. We cannot test iCloud with the binaries we submit to the Mac App Store, have no insight into how people are discovering our apps with App Analytics, and can't offer Bundles of our apps to interested customers. And then there's App Previews, too, which could be fantastic on the Mac.
+One Radar l'd bring to your attention, from Craig Hockenberry: rdar://21966533 summarises this all pretty well.
+Compared to the great insight into how people download our apps (through DevMate.corn), no lethargic App Review times, and no need seemingly-constant battle against an ever-changing toolchain and submissions flow - the Mac App Store has become a harder sell. Especially when the inability to help customers who leaveApp Reviews, and the 30% cutare added in.
+
+Apple Confidential
+
+26 of 32
+
+CONFIDENTIAL
+
+DX-4024. 026
+
+APL-APPSTORE 06123736
+
+Reinvented Software (Feeder) Steve Harris, Founder
+Retumned to the MAS
+
+To ensure the continued development of the app, I really wanted to offer a paid upgrade with a discount to tempt existing customers, and to do so wholeheartedly and unambiguously. I can't do that on the Mac App Store. I could transfer upgraders to the version from my site if they know about that, but I understandably couldn't mention the offer on the Mac App Store.
+
+With another app (Together) I temporarily lowered the price on the Mac App Store, but that brings its own issues, not least because it is time-limited and indiscriminate. Unlike that app, Feeder doesn't need icloud (which I won't go into here, but my experience of which over the last couple of years has also seriously tainted my impression of Apple, impacted my business and even my health) or anything any functionality restricted to Mac App Store apps.
+
+Financial considerations matter a great deal. The Mac App Store's impact on my income has placed my survival on a knife-edge. FastSpring, who process my payments for direct sales, take 10%. Nobody really wants a 20% pay cut in exchange for... well, what exactly?
+
+Feeder a niche app, I'm not sure it would benefit from getting featured, and it' s support-heavy due to things like people flummoxed by their own website's FTP settings or issues with their podcasts on the iTunes Store -- nothing I can design or code my way out of -- so I'd probably only suffer from having a featured halfprice app, for example.
+
+Long review times (my apps seem to average about a week) are worrying ahead of time and can be genuinely traumatic when you' re in the thick of it. My apps are large and complicated, it only takes one oversight to prompt a collective meltdown. I know I can expedite app reviews, but not too often and one is always aware they are not guaranteed.
+
+All this is exacerbated by having no way to respond to customer reviews. I have seen plenty of cases where, if only I could've interacted with the customer I could've helped solve their problems in minutes. Instead they come back month after month, slating the app for something it cannot possibly address, and I'm screaming that I wish I could help. Yes, they could get the help they needed if they clicked that support link, but for whatever reason not everyone does.
+
+Apple Confidential
+
+27 of 32
+
+CONFIDENTIAL
+
+DX-4024. 027
+
+APL-APPSTORE 06123737
+
+Even in general, when the stakes aren't so high and nobody is throwing hate in my direction, long review times feel like shabby treatment for a sum of money that exceeds what I pay in taxes every year. I' ve got a store and payment solution, serving files on the web doesn't cost much. I was doing all this for 7 years before the Mac App Store showed up.
+On the plus side I am happy with the quality of Apple's reviews, have no technical issues that would prevent the app being on the Mac App Store these days, and my interactions with Apple staff have usually been courteous and efficient.
+As a customer I love the Mac App Store, I think it's fantastic, but it's hard to love from a developer standpoint. I used to think being on the Mac App Store was essential, but I know of some great apps that aren' t, for a variety of reasons (Panic's Coda, for example). I'm interested in seeing whether this move really does affect my income adversely over a longer period.
+I haven't ruled out the idea of returning Feeder to the Mac App Store at some later date, but I don't relish the idea. It feels like a situation where you lose a lot of control and sometimes it's even working against you. Right now, it feels delicious to take that control back.
+Feeder recently returned to the MAS. From his blog:
+Mac App Store Feeder 3.0 wasn't available on the Mac App Store for a number of reasons, but primarily because the Mac App Store doesn't have a way of offering discounted upgrades for existing users. While that is something I can do through my site, that can't be mentioned on the Mac App Store and confusion can abound about needing to pay full price for an upgrade to an app people already own, etc. That situation won't change until Apple makes provision for paid upgrades in the Mac App Store.
+However, the Mac App Store is clearly the best way for finding out about Mac apps, so with version 3.1, Feeder is back on the Mac App Store. Half-price upgrades from version 2 are still available from this site.
+
+Apple Confidential
+
+28 of 32
+
+CONFIDENTIAL
+
+DX-4024. 028
+
+APL-APPSTORE 06123738
+
+Tapbots Paul Haddad, Lead Developer
+[Sandboxing] Has not been an issue with us at all and I personally think its a reasonable policy
+Not going to lie: a 30% [fee] on certain months has felt painful.
+By far our biggest problem with the App Store is the lack of a paid upgrade system. We recently spent several months working on an upgrade for 10.10 compatibility as well as total overhaul of the Ul, because of our price point and the lack of a paid upgrade system we ended up releasing it for free. Obviously customers were happy with this but it ended up being a huge loss for us and now we' re considering stopping development of the app. If there was a reasonable paid upgrade system in place that would've allowed us to charge a reduced price to existing users we wouldn't be in this situation and would've been much happier with the App Store as a whole.
+Free upgrades for life, specially on Mac, isn't sustainable. As much as I love the App Store user experience I don't think we' ll be doing it again with any app that's likely to require ongoing significant development. We' ll use it for very simple apps, but will probably use another solution for anything that' ll require upgrades in the future Lack of Gifting and Combo bundles (which could be used as a bad workaround for paid upgrades) is disappointing.
+On delays in the Mac App Store review process: This is annoying but as long as reviews are under 7 days we can deal with it. Faster would be great and slower starts to cause some significant issues.
+- The App Store app feels very slow and is often buggy. Every time we do an upgrade we have users complain that apps get stuck in weird downloading states or show a damaged error when opening
+
+Apple Confidential
+
+29 of 32
+
+CONFIDENTIAL
+
+DX-4024. 029
+
+APL-APPSTORE 06123739
+
+Ableton Friedemann Schautz, Head of Development
+No apps on MAS
+The 30% margin is too high, Our community based marketing model requires us to have direct contact with our customers which is not possible through the Mac App Store, The pricing model is not compatible (ie. We want to sell upgrades, packs and hardware/Push)
+[These are all] roughly equal weight. In addition, there might be technical issues with sandboxing that require development effort, but we did not look into those in detail because of the more general worries above.
+MOTU Bennett Sikes, VP Engineering
+No apps on MAS
+- Sandboxing policy - The 30% fee is too high - Their pricing modelis not compatible with the Mac App Store - The Mac App Store features and services lag behindiOS - The Mac App Store review process
+They are all equal deal-killers.
+PreSonus Audio Electronics Jim Boitnott, EVP of Product Services
+No apps on MAS
+On sandboxing: To be approved through the AppStore there are a few major features we would have to remove. (This goes for all of our products). This creates two issues: Another product to maintain and brand/product confusion for customers (the version in the AppStore is different than the version outside of the
+App Store).
+
+Apple Confidential
+
+30 of 32
+
+CONFIDENTIAL
+
+DX-4024. 030
+
+APL-APPSTORE 06123740
+
+Steinberg Media Frank Simmerlein, Director of Marketing
+No apps on MAS
+Steinberg's licensing system which cannot be considered is the main reason why our products are not released on the Mac App Store.
+
+Apple Confidential
+
+31 of 32
+
+CONFIDENTIAL
+
+DX-4024. 031
+
+APL-APPSTORE 06123741
+
+Developer Responses Tally
+
+Ablete'h' Adobe AIAcitt+4<:
+
+Steak se~
+
+Detailed Issues by Developer
+
+Upcir l t clee 10 $ A pp P ar'ity R e v iew
+
+Cuet. rev
+
+Ci t s t . B u r jidlee P r t eieg o l t i ei
+
+iiIte . .
+
+(DRM;
+
+xeode~
+
+'iirfyls,
+
+adilpi@Q
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Beherttlsi Bgey@4c
+intuit
+ll~ uter
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Reirivhht&f
+
+X
+
+X
+
+Apple Confidential
+
+32 of 32
+
+CONFIDENTIAL
+
+DX-4024. 032
+
+APL-APPSTORE 06123742
+
+

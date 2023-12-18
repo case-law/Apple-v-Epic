@@ -1,0 +1,73 @@
+From: A ndrew Grant
+
+Sent: F ri, 26 Jul 2019 14:34:39+0000 (UTC)
+
+To: Wa ng Hao
+
+Ciu Gud inundur B a u ndsson
+
+; Scott Nol i
+
+; Charles Egenbacher
+
+Ryan Vance
+
+; Cristina Riveron
+
+; At i Mar Sveinsson
+
+Cesaro
+
+Subject: Re: ARKit 3 support for UE4
+
+; Julie Truong ; AndreasAxelsson
+; Andrea
+
+Sounds great! I agree with the priority points (thoughts Ryan?) but I think we might want to prioritize ¹2 because it feels like it's going to require the most work to support and largest amount of new APIs. 3-5 feel like they wouldn't be a great loss if they weren't supported to begin with.
+Charles/Cristina - Who on our end would you like to run point for production? Can this person setup a sync for Mon/TuesthatworksforbothPSTandShanghai (GMT+8)?
+
+On Fri, Jul 26, 2019 at 12:40 AM Wang H
+
+wrote:
+
+Hi Andrew, We' re glad to help bringing ARKit 3 to UE4:)
+
+I quickly went through the new features and here's a list of the ones mentioned by Apple:
+
+1. People Occlusion
+
+UnitedStutounirtrtut Coun Noniorn Dirtria oi'Cnlitbrniu
+
+2. Motion Capture
+3. Simultaneous Front and Back Camera 4. Multiple Face Tracking
+
+Case Ne. 4:Zlhcv-85640-VCR Case Title i r rrnaros.rae tt: Esbibit No. DXD583
+
+5. Collaborative Sessions
+
+Date Entered
+
+I think ¹1 and ¹2 are pretty significant so they should probably get integrated first
+
+nu.
+
+sUWII T sAINIK rtNt
+. n on s
+
+For ¹5 1 think the engine already has some kind of support for it using UE4's networking system.
+
+Not sure how critical ¹3 and ¹4 are as we don't use those features a lot within DG.
+
+So yes1thinkwe can have async up nextMonday to discuss the detailsand wodc outa plan ofhow we can do this.
+I' ve alsoCC-ed Atli and Andreasothey'reintheloop.
+
+Exhibit 0051
+Grant
+
+CONFIDENTIAL
+
+DX-3583.001
+
+EPIC 01337013
+
+

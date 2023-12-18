@@ -1,0 +1,1235 @@
+CONFIDENTIAL
+
+Apps Reviewed LImmary
+
+iPhone
+iPad Total
+
+Approved Rejected Approved Rejected
+
+New Update New Update New Update New Update
+
+5,577 29,101 9,952 7,480 9,816 27,158 11,601 6,572 107,257
+
+PLAINTIFF
+U.S. District Court - NDCAL
+4t20-cv-05640-YGR-TSH
+Epic Games, Inc. v. App/e Inc.
+, ~PX-
+Date Entered
+By
+
+Total Apps On Store with Watch OS Total Apps On Store Using In App Purchase (iOS) Total Apps with Hosted IAP (iOS) Net Rejections
+
+13,260 213,931
+2,171 646,584
+
+Exhibit PX 300
+PX-0300.1 Apple Confidential
+APL-APPSTORE 08919296
+
+i A p p s u b missions
+By Week through May 6, 2017
+
+113,839 98 839
+
+120,580 118,034
+112,170
+
+127,135 120,077
+
+1 16,732
+
+116,187 11 7,341 117,341
+
+114,015
+
+113,939
+
+110 580 112 191
+
+111,340 111,217
+
+108,192
+
+93,535
+
+98,887 87,366
+
+121,981 103,548
+
+·
+
+·
+
+· ·
+
+· i
+·
+
+·
+
+·
+
+60,193
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· ·
+· ·i·
+
+·
+
+·
+
+i g
+
+i
+
+·
+
+'i · '
+
+·
+
+:
+
+·
+
+·
+
+11/12 11/19 11/26 12/3 1 2 /10 12/17 12/24 12/31 1 / 7 1/ 1 4 1/2 1 1/ 2 8 2/4 2/ 11 2/ 1 8 2/2 5 3/4 3/ 11 3/ 18 3/2 5 4/ 1 4/ 8 4/ 15 4/2 2 4/2 9 5/ 6
+
+· Ne w · U pdat e s
+iPhone
+
+New 15,162
+
+Update 35,651
+
+Total 50,813
+
+· Incoming volumes adjusted to account for developer rejections.
+
+iPad Universal
+Total
+
+458 19,925 35,545
+
+1,544 30,808 68,003
+
+2,002 50,733 103,548
+
+· This week's Developer Rejected Rate =D8.3DO/o/
+
+PX-.0300.2 Apple Confidential
+
+CONFIDENTIAL
+
+APL-APPSTORE 08919297
+
+i A p p s Processed
+By Week through May 6, 2017
+
+133,314
+
+111,034 98,975
+
+118,070 115,367
+112,198
+
+67,493
+
+127,088
+122,043
+116,400 112,601
+
+127,894
+
+1 20 i2601 1 8 769121,697
+
+118,936
+
+116,671
+
+113,365
+
+112,972
+
+105,263104,579 102 645
+
+107,643
+
+107,257
+
+I I j ·
+
+86,952
+·i ·I
+
+·
+
+·
+
+·
+
+Ci
+
+·
+
+·
+
+I iI I i
+
+24,909
+
+1 1/1211/19 11/26 12/3 12/1 012/1 712/24 12/31 1/ 7
+· Approved · Rejected
+Last week Reviewer OT: 2,942.98 hours
+
+1 / 1 4 1 / 2 1 1 / 2 8 2 / 4 2 / 1 12/1 8 2/25 3 / 4 3/ 1 1 3 /18 3/25 4 / 1 4/ 8 4/ 1 5 4 / 2 2 4 / 2 9 5 / 6
+
+Total lOS Apps on App Store iP hone iPad
+Universal Total
+
+(5/10/2017 9:00 PM PST) 551,075 63,456 813,077 1,427,608
+
+PX-0300.3 Apple Confidential
+
+CONFIDENTIAL
+
+APL-APPSTORE 08919298
+
+New i A p p s Approved to tore
+By Week through May 6, 2017
+
+23,009 19,781
+
+26,496 24,737
+
+24,765
+
+21,994
+
+13,963
+
+26,132
+
+22,683 22,066 21,043
+
+19,218
+
+19,253
+
+17,115
+
+16,110
+
+17,730 16,876
+15,504
+
+14,186
+
+16,603 16,998 16 358 16,062 17,437 15,393
+
+4,983
+
+1 1/1211/1911/26 12/3 12/1012/1712/2412/31 1/ 7 1 / 1 4 1 / 2 1 1 / 2 8 2 / 4 2/ 1 1 2 / 1 8 2 / 2 5 3 / 4 3/ 1 1 3 / 1 8 3 / 2 5 4 / 1 4/ 8 4/ 1 5 4 / 2 2 4 / 2 9 5 / 6
+
+· Ap proved
+
+PX-.0300.4 Apple Confidential
+
+CONFIDENTIAL
+
+APL-APPSTORE 08919299
+
+i W e e k y Inventory
+By Week through May 6, 2017
+60,000
+
+· Ba c klog (over 48 hours) · Ap p Inventory (@ SLA)
+~ Backlog as Pct of Inventory
+
+50,000
+
+1,2
+40,000
+
+30,000 20,000
+
+8,2' ,211
+
+10,000
+
+3%
+
+.8'/
+
+.8/
+
+6,15
+9.2' ,15
+
+,47
+
+4 0
+
+4.3 0
+50
+2.1'
+
+,90
+4 0.7
+7.3
+
+,021
+
+,94
+
+,17
+
+18
+
+,88
+
+,07 ,25
+,29
+
+8 6o 5.4'
+
+1, 9.5' " 4.4' " 40 ".
+
+90
+
+9.6'
+
+9 20
+
+0 11/12 11/19 11/26 12/3 1 2/10 12/17 12/24 12/31 1 / 7 1/1 4 1/2 1 1/2 8 2/4 2/11 2/1 8 2/2 5 3/4 3/11 3/1 8 3/2 5 4/1 4/8 4/15 4/2 2 4/2 9 5/6
+
+* Total Inventory at the end of the week (EOD saturday) CONFIDENTIAL
+
+PX-0300.5 Apple Confidential
+APL-APPSTORE 08919300
+
+i T o p 10 Rejected
+By Week through May 6, 2017
+8,321
+
+4,788
+
+3,623
+
+2,656
+
+2,633
+
+Top 10 Rejections account for 68% of all rejections
+
+2,425
+
+1,802
+
+1,383
+
+1,347
+
+1,272
+
+· 2. 1 .0 -- Performance: App Completeness · 2.1 . 0 -- Performance: Info Needed · 4. 3 .0 -- Design: Spam · 2. 3 .7 -- Performance: App name and keywords · Be f o re You Submit -- PLA · 2. 3 .3 -- Performance: Relevant screenshots · 4.2 . 2 -- Design: Marketing materials and content aggregators · 3. 1 .1 -- Business: In-App Purchase g 4. 1 .0 -- Design: Copycats · 2. 3 .8 -- Performance: Age-appropriate metadata
+CONFIDENTIAL
+
+PX-0300.6 Apple Confidential
+APL-APPSTORE 08919301
+
+APP PrOCeSSin LA S (Calendar Days)
+By Week through May 6, 2017
+
+4/30
+Sunday
+* 1 Day 23.3%
+
+5/1
+Monday
+
+5/2
+Tuesday
+
+5/3
+Wednesday
+
+5/4
+Thursday
+
+5/5
+Friday
+
+5/6
+Saturday
+
+Average
+
+2 4 .9 % 8 6 .1 % 8 6 .5 % 7 6 .4 % 6 8 .2 % 2 3 . 1% 61.9%
+
+* . 2 Day 27.0% 4 1 .4 % 9 1 .0 % 9 5 .9 % 9 4 .6 % 9 3 .6 % 8 3 . 2% 78.8%
+
+Updated: 5/1 0/2017
+
+100%
+
+80%
+
+1 Day SLA
+
+60%
+
+30 Day Trend
+
+40%
+
+20%
+
+Last Week
+
+100%
+
+80%
+
+2 Day SLA
+
+60%
+
+30 Day Trend
+
+40%
+
+20%
+
+CL CL
+
+O
+
+AI
+
+PV PV PV PV PV PV PV R
+
+I VI
+
+* SLA is shown in calendar days (hours) from app submission (Waiting for Review) to final state (Approved, Rejected, Metadata Rejected). * Calculation: [ ¹apps processed within set hours for the selected day. / total apps processed for the selected day. ]
+
+CONFIDENTIAL
+
+R
+
+R
+
+R
+
+P V IVI
+
+Apple ConficfeMP
+APL-APPSTORE 08919302
+
+App e Watch ubmissions
+By Week through May 6, 2017
+
+1,699
+
+1,858 1,821 1,718
+
+1,571
+
+287 25 3 1,510
+277 1,409
+
+258 95
+
+1,780
+
+1,696
+
+1,609 1,570
+
+1,685 1,570
+
+1,576
+
+1,637
+
+1,647
+
+1,518
+
+1,526
+
+1,517
+
+1,528
+
+308
+
+1,426 1 402
+
+307
+
+j
+
+1,456
+
+1,391
+
+282
+
+343
+
+1,185
+
+276 00
+
+02 316
+
+406
+
+346
+
+402
+
+33
+
+09 31
+
+24
+
+30
+
+·
+
+·
+
+·
+
+i ·
+
+·
+g
+
+·
+
+I
+
+pi
+
+11/1 2 11/1 9 11/26 12/3 1 2/1 0 12/1 7 12/24 12/31 1 / 7 1/ 1 4 1/ 2 1 1 / 2 8 2/4 2/ 1 1 2 / 1 8 2 / 2 5 3/4 3/ 11 3 / 1 8 3 / 2 5 4/ 1 4/8 4/ 15 4 / 2 2 4 / 2 9 5/ 6
+
+· wa t c hOS 1.0 · wat c h OS 2.0 · watc h OS 3.0 Only
+
+· Incoming volumes adjusted to account for developer rejections.
+
+· This week's Developer Rejected Rate = i 3. 7vQlo/
+
+PX-0300.8 Apple Confidential
+
+CONFIDENTIAL
+
+APL-APPSTORE 08919303
+
+App e Watch Processed
+By Week through May 6, 2017
+
+1,973
+
+1,934
+
+1,543 1,434
+73
+
+300 1 688 1 672 286 246
+
+967
+
+1,768
+
+1,733
+
+1,557
+
+1,634 1,587
+
+1,626
+
+1,592
+
+1,616 1,577
+
+311 323
+
+29 89
+
+27 1,281
+
+1,460 1,404
+
+363 291
+
+333
+
+265
+
+75
+
+16 38
+
+1,642 36
+
+1,627
+
+1,458
+
+1,438
+
+09 339
+
+284
+
+· ·
+
+ii ·
+
+·i ·
+
+I
+
+I
+
+11/1 2 11/1 9 11/26 12/3 1 2/1 0 12/1 7 12/24 12/31 1 / 7 1/ 1 4 1 / 2 1 1 / 2 8 2/ 4 2/ 11 2 / 1 8 2 / 2 5 3/4 3/ 11 3 / 1 8 3 / 2 5 4 /1 4/8 4/ 15 4 / 2 2 4 / 2 9 5/ 6 · wa t c h OS 1.0 · watc h O S 2.0 · wat ch O S 3.0 Only
+
+CONFIDENTIAL
+
+PX-0300.9 Apple Confidential
+APL-APPSTORE 08919304
+
+App e Watch Top 10 Rejected
+By Week through May 6, 2017
+
+52 37
+
+Top 10 Rejections account for 72% of all rejections
+
+20 14
+
+· 2 . I . O - Performance: App Completeness · 2 .3 . X - Performance: App name and keywords 5 2.I.O- Performance: Info Needed · 3 .1 . 2 - Business: Subscriptions · 4.O . O-Design: General · 2 .3 . 8 - Performance: Age-appropriate metadata · 2 .5 . 2 - Performance: Apps should be self-contained · 4 .2 . 2 - Design: Marketing materials and content aggregators g 3 . I . I - Business: In-App Purchase · 2 .3 . O - Performance: Accurate Metadata
+CONFIDENTIAL
+
+PX-0300.10 Apple Confidential
+APL-APPSTORE 08919305
+
+a Requests
+By Week through May 6, 2017
+
+5.0%
+
+4.7%
+
+4.4%
+
+4.2%
+
+3.9%
+
+3.6% 3.3% 3.1%
+
+1,103 1,008
+
+2.8%
+
+1,159
+980 936
+
+1,079 1 pp9 1,018
+908
+
+1,162
+
+1,087 1,087 1,008
+884
+
+2.5%
+
+2.2%
+
+1.9%
+
+1.7%
+
+1.4% 389
+1.1%
+
+0.8%
+
+0.6%
+
+0.3%
+
+0.0% 11/12 11/1 9 11/26 12/3 12/1 0 12/1 7 12/24 12/31 1/ 7 1 / 1 4 1 / 2 1 1 / 2 8 2 /4 2/ 1 1 2 / 1 8 2 / 2 5 3 /4 3/ 11 3 / 1 8 3 /2 5 4 /1 4/8 4/ 15 4 / 2 2 4 / 2 9 5/ 6
+
+D Percentage Call Vol
+
+· Ca ll Requests
+
+PX-0300.11 Apple Confidential
+
+CONFIDENTIAL
+
+APL-APPSTORE 08919306
+
+Communications From Dev Advocates
+
+By Week through May 6, 2017
+
+Backlog of Tickets Older Than 7 Days: 77
+5/1 0/2017 4:30 PM PDT
+
+2,979
+
+3'032
+
+3,181
+
+2,849
+
+2,225
+
+2 372
+
+2,569
+
+2,969
+
+2,550
+
+2,701
+
+2,813
+
+3,068
+
+3,067
+
+2,639
+
+2,213
+
+1/2 1
+
+1/ 28
+
+2/4
+
+2/ 11 2/ 18
+
+2/2 5
+
+3/4
+
+991 945 992 94 9 803 788 873
+
+3.0
+
+3 .2
+
+3.2
+
+3 .0
+
+2.8
+
+2.8
+
+2 .7
+
+3/ 11
+
+3/ 18
+
+3/ 25
+
+1,008 1,202 997
+
+2.5
+
+2.5
+
+2.6
+
+4/ 1
+
+4/ 8
+
+4/ 15
+
+4/ 22
+
+4/2 9
+
+5/ 8
+
+1,060 1,032 1,02 1 1, 11 9 1,0 86 789
+
+2 .5
+
+2.7
+
+2 .6
+
+2.7
+
+2.8
+
+2.8
+
+CONFIDENTIAL
+
+· S u ccessful Call · N oA nswer · In v a lid Phone · S e n t Email · L e f t Message with Person · L e f t Voicemail
+PX-0300.12 Apple Confidential
+APL-APPSTORE 08919307
+
+Ho d Trends
+By Week through May 6, 2017
+1,900
+
+o Holds (% of total processed)
+
+1,689
+
+1,478
+75 1,267
+1,26
+)4
+1,056 ,052
+
+,589
+
+1,50
+
+1,527
+
+59
+
+1,29
+
+142 1 32
+
+943
+
+958
+
+,585
+
+82
+
+1,44
+
+816
+24 83
+583
+
+422 211
+
+·
+
+·
+
+I · ' ·
+
+I · ' ·
+
+I · ' ·
+
+39
+
+I ·' i
+
+·
+
+·
+
+I ·
+
+1/14 1/2 1 1/28
+
+2/4
+
+2/11 2/18
+
+2/25
+
+3/4
+
+3/ 11
+
+3/ 18
+
+3/25
+
+4/ 1
+
+4/8
+
+4/15 4/22
+
+4/29
+
+5/6
+
+· Re viewer Holds
+
+· Ca l l Pending · Thi r d Party TM · ER B+ ERB Pending
+
+· Le g al (Investigations 8 Disputes) · Tl
+
+PX-0300.13 Apple Confidential
+
+CONFIDENTIAL
+
+APL-APPSTORE 08919308
+
+Deve oper Expedite Requests
+By Week through May 6, 2017
+
+4,581
+
+3,990
+3,253 3,150 2,478
+1,778 1,654
+
+3,632
+
+2,158
+
+3,001 2,999 2,683
+
+3,125
+
+3,303
+
+3,249
+
+2,954
+
+2,894
+
+2,830
+
+2,799
+
+2,660
+
+2,442
+
+2,242
+
+1,806 1,700
+
+2,005
+
+1,345
+
+11/12 11/19 11/26 12/3 1 2/10 12/17 12/24 12/31 1 / 7 1/ 1 4 1/ 2 1 1 / 2 8 2/4 2/ 11 2/ 1 8 2/ 2 5 3/4 3/ 11 3/ 1 8 3/ 2 5 4/ 1 4/ 8 4/ 15 4/ 2 2 4/ 2 9 5/ 6
+· Bu g Fix · Tim e Sensitive· Inv a lid Requests
+
+Note: 'Invalid Requests' includes misdirects, holds, duplicate requests, denied requests and apps already processed at time request was evaluated
+CONFIDENTIAL
+
+PX-0300.14 Apple Confidential
+APL-APPSTORE 08919309
+
+CONFIDENTIAL
+
+Attorney Client Privilege
+
+PX-0300.1 APL-APPSTORE 08919310
+
+vertime vs Productivity
+By Week through May 6, 2017
+
+6,000
+
+130,000
+
+120,000
+
+5,000
+
+21
+
+4,000
+
+,82
+
+6
+
+,67 , 3
+
+3,000 2, 0
+
+2,000 ,67
+
+1,000
+
+33 ,88
+
+110,000 100,000
+90,000 74
+80,000 70,000 60,000 50,000 40,000 30,000 20,000
+
+10,000
+
+0 1 1/12 11/1 911/26 12/3 12/1 0 12/1 712/2412/31 1/ 7 1 / 1 4 1 / 2 1 1 /2 8 2 / 4 2/ 1 1 2 / 1 8 2 / 2 5 3 / 4 3 / 1 1 3 /18 3 /2 5 4 / 1 4/ 8 4/ 1 5 4 / 2 2 4 / 2 9 5 / 6
+
+C> OT Hours
+
+· Pr ocessed
+
+PX-0300.16 Apple Confidential
+
+CONFIDENTIAL
+
+APL-APPSTORE 08919311
+
+Resubmitted apps
+By Week through May 6, 2017
+
+24,000
+
+22,000
+
+20,000 ,38
+18,000 16,OOO 14 ,98
+
+, 0 30
+
+2 95
+,86 41 '
+
+,17
+
+,35
+
+17 ,45
+
+BIZ> 30 ,65
+
+,79 ,03
+
+,30
+
+,71
+
+,35
+
+,25
+
+,74IW
+
+,1
+
+,86
+
+,68
+
+,98
+
+14,000 12,000
+
+·
+
+·
+
+,66
+
+,921
+
+67
+
+,42
+
+,67
+
+10,000
+
+8,000
+
+6,000 4,000
+
+940 1
+
+2,000
+
+11/1 2 11/1 9 11/26 12/3 12/1 0 12/1 7 12/24 12/31 1/ 7 1 / 1 4 1 / 2 1 1 / 2 8 2 /4 2/1 1 2 / 1 8 2 / 2 5 3 /4 3/ 1 1 3 / 1 8 3 / 2 5 4/ 1 4/8 4/15 4/ 2 2 4 / 2 9 5/6
+
+· 5t h+ Resubmissions · 4t h Resubmission · 3r d Resubmission · 2n d Resubmission
+
+Note: Developer Rejections Excluded
+
+PX-0300.17 Apple Confidential
+
+CONFIDENTIAL
+
+APL-APPSTORE 08919312
+
+i A p p s Processed by A e
+By Week through May 6, 2017
+
+106,847 ,65
+95,181 CC
+
+128,073
+
+114,432 109,041
+106,705
+
+,88
+
+3,81
+
+3,01 1,95
+
+127,854
+
+120,866 117,677
+
+110,624
+
+2,44
+
+104,674
+
+9,748
+
+120,168
+
+121,495
+
+118,182
+
+118,924 116,606
+
+112,988
+
+112,960
+
+,93
+
+105 964 105,427 102,975
+5,7 7 4
+
+8,6 8,0
+
+107,638
+4,2 ,83
+4,46
+
+3 87,756
+
+3,9
+
+p ·
+
+1,7
+
+,39
+
+91
+
+107,215 3,8
+
+64,925
+
+C i ·
+
+C C
+
+C C
+
+5,9
+
+· C
+
+C ·
+
+· CCC
+i C
+
+C ·
+
+C C
+
+22,564 9
+
+· C· C C
+C iC'
+
+· J J
+·
+
+· Ci C
+
+· CC
+
+Ci
+
+·J ··C
+
+C ·
+
+· C
+
+·
+
+·
+
+·
+
+·
+
+· ··
+
+i C
+
+C ·
+
+iC ·
+CC ·
+
+C
+
+·
+
+·
+
+·
+
+· C
+· J C
+
+1 1/1211/1911/26 12/3 12/1012/1712/2412/31 1/ 7 1 / 1 4 1 / 2 1 1 / 2 8 2 / 4 2/ 1 1 2 / 1 8 2 / 2 5 3 / 4 3/ 1 1 3 / 1 8 3 / 2 5 4 / 1 4/ 8 4/ 1 5 4 / 2 2 4 / 2 9 5 / 6
+
+· 0 -- 24 Hours · 25 -- 48 Hours · Ov e r 48 Hours
+
+CONFIDENTIAL
+
+PX-0300.18 Apple Confidential
+APL-APPSTORE 08919313
+
+

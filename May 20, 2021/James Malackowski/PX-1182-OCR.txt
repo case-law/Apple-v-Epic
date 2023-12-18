@@ -1,0 +1,482 @@
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII USOOD617334S
+
+(12)United States Design Patent ( 10) Patent No.: U S 9 6 1 7 ,334 S
+
+Chaudhri
+
+(45)Date of Patent: * *
+
+Jun. 8 , 2010
+
+(54) GR APHICAL USER INTERFACE FOR A DISPLAY SCREEN OR PORTION THEREOF
+(75) Inventor: Im r an ChaudhriS, an Francisco, CA
+(US)
+
+Primary Examiner -- Melanic H Tung
+(74)Attorney, Agent, or Firm --Sterne, Kessler, Goldstein & Fox PLLC
+
+(57)
+
+CLAIM
+
+(73) Assignee: Apple Inc.,Cupertino, CA (US) (aa) Term: 14Y e a r s
+
+The ornamental design for a graphical user interface for a display screen or a portion thereof, as shown and described.
+
+(21) Appl. No.: 29/321,374
+
+(22) Filed: Jul. 1 5,2008
+
+(51) LO C (9) Cl. (52) U. S. Cl.
+
+14-04 D14/486
+
+(58) Fi e ld of Classification Search ..........D14/485 -- 95;
+
+D18/24 --33; D19/6,52,9, 10; D20/11; D21/324 -- 33; 715/700 --867, 973 --77
+
+See application file for complete search history.
+
+(56)
+
+References Cited
+
+U.S. PATENT DOCUMENTS
+
+D277,113 S D295,877 S
+
+I/1985 Gordon 5/1988 Wells-Papanek et al.
+
+(Continued)
+
+F OREIGN PATENT DOCUM E N T S
+
+D1235127
+
+4/2005
+
+OTHER PUBLICATIONS
+U.S. Appl. No. 29/281,460, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfaces for a Display Screen or Porlion Thereof, filed Jun. 23, 2007.
+
+DESCRIPTION
+FIG. 1 is a front view of a graphical user interface for a display screen or portion thereof showing our new design;
+FIG. 2 is a front view of a second embodiment thereof;
+FIG. 3 is a front view of a third embodiment thereof;
+FIG. 4 is a front view of a fourth embodiment thereof; and
+FIG. 5 is a front view of a fifth embodiment thereof; FIG. 6 is a front view of a sixth embodiment thereof;
+FIG. 7 is a front view of a seventh embodiment thereof; and,
+FIG. 8 is a front view of an eighth embodiment thereof.
+The broken line showing of the display screen or portion thereof in all views is not part of the claimed design.
+The AT&T trademark in the upper left corner of the Figure is the property of AT&T Intellectual Property II, L.P. The YouTube trademark on the left hand side of the Figures is the property of Google Inc. The iTunes trademark onthe Ieli hand side of the Figures is the property of Apple Inc. TheApp Store trademark on the bottom of the Figures is the property of Apple Inc. The Safari trademark on the bottom of the Figures is the property of Apple Inc. The iPod trademark on the bottom right corner of the Figures is the property of Apple Inc. Trademarks are the property of their respective owners.
+
+(Continued)
+
+1 Claim, 8 Drawing Sheets
+
+US D617,334 S
+Page 2
+
+U.S. PATENT DOCUMENTS
+
+5,214,756 A 5,555,364 A D385,870 S D386,487 S
+D390,548 S D392,266 S
+5,995,103 A D418,826 S D420,993 S D438,213 S D441,763 S D445,428 S D462,076 S D468,748 S D472,244 S 6,731,316 B2 D497,367 S D507,577 S D511,525 S D511,526 S 6,983,424 Bl D517,087 S D523,441 S D525,981 S D540,340 S D544,875 S D547,769 S D548,239 S D549,726 S D552,620 S D553,638 S D554,656 S D554,658 S D559,261 S D560,680 S D563,985 S D564,530 S D565,586 S D565,588 S D566,126 S
+D568,893 S D568,900 S
+D570,358 S D573,152 S D574,388 S D574,846 S D576,171 S D577,738 S D579,456 S D579,946 S D580,949 S D581,424 S D581,940 S D582,427 S
+D585,075 S D586,359 S D587,720 S D587,723 S D588,150 S D589,050 S D589,521 S D599,811 S 2005/0050474 Al ~ 2008/0189658 Al ~
+2009/0064038 Al ~
+
+5/1993 Franklin et al.
+
+9/1996 Goldstein
+
+11/1997 Thomas
+
+11/1997 Thomas
+
+2/1998 Maekawa et al.
+
+3/1998 Snyder et al.
+
+11/1999 Ashe
+
+I/2000 Pavely et al.
+
+2/2000 Decker
+
+2/2001 Herget et al.
+
+5/2001 Kahn et al.
+
+7/2001 Patten den
+
+8/2002 Robbin et al.
+
+I/2003 Inagaki
+
+3/2003 Wasko
+
+5/2004 Herigstad et al.
+
+10/2004 Wasko et al.
+
+7/2005 Totten et al.
+
+11/2005 Hernandez et al.
+
+11/2005 Totten et al.
+
+1/2006 Dutta
+
+3/2006 Sands ..................... D14/488
+
+6/2006 Sapp et al.
+
+8/2006 Hally et al.
+
+4/2007 Cummins
+
+6/2007 Wang et al.
+
+7/2007 Griffith 8/2007 Rimas-Ribikauskas et al
+
+8/2007 Van Dongen et al.
+
+10/2007 Sato et al.
+
+..
+
+....
+
+....
+
+....
+
+.
+
+D14/486
+
+10/2007 11/2007 11/2007
+1/2008
+
+Kim et al.
+
+..
+
+....
+
+....
+
+....
+
+.
+
+Seo et al.
+
+...
+
+....
+
+....
+
+....
+
+.
+
+Park et al.
+
+..
+
+....
+
+....
+
+....
+
+.
+
+Jung et al.
+
+D14/486 D14/486 D14/486 D14/486
+
+1/2008 Armendariz
+
+3/2008 Jewitt et al.
+
+3/2008 Kim et al.
+
+..
+
+....
+
+....
+
+....
+
+.
+
+4/2008 Shin et al.
+
+D14/486
+
+4/2008 Sherry
+
+4/2008 Park et al.
+
+..
+
+....
+
+....
+
+....
+
+.
+
+5/2008 Choi
+
+D14/486 D14/486
+
+5/2008 Seo et al.
+
+6/2008 Anastasopoulos et al.
+
+7/2008 Jasin ski
+
+D14/485
+
+8/2008 Armendariz et al.
+
+8/2008 O'Donnell et al.
+
+9/2008 Armendariz et al.
+
+9/2008 Kwag ..................... D14/486
+
+10/2008 Chen et al.
+
+11/2008 Lee et al.
+
+...
+
+....
+
+....
+
+....
+
+.
+
+11/2008 Duarte
+
+D14/486
+
+11/2008 Hong ..................... D14/486
+
+12/2008 Van Dongen
+
+D14/486
+
+12/2008 Neuhaus
+
+I/2009 Flynt et al.
+
+2/2009 Makoski et al.
+
+3/2009 Noviello et al.
+
+3/2009 Lee ........................ D14/486
+
+3/2009 Stone et al.
+
+3/2009 Ha et al. ................. D14/486
+
+3/2009 Napier et al.
+
+D14/486
+
+9/2009 Watanabe et al.
+
+D14/486
+
+3/2005 Bells et al. .............. 715/747
+
+8/2008 Jeong et al. ............. 715/810
+
+3/2009 Fleischman et al. ..... 715/810
+
+OTHER PUBLICATIONS
+U.S. Appl. No. 29/281,507, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfaces for a Display Screen orPortion Thereof, filed Jun.25,2007.
+
+U.S. Appl. No. 29/281,695, Anzures et al., Graphical User Interfaces for a Display Screen or Portion Thereof {as amended) filed Jun. 28, 2007. U.S. Appl. No. 29/281,747, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfaces for a Display Screen or Portion Thereof, filed Aug. 10, 2007. U.S. Appl. No. 29/282,840, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfaces for a Display Screen or Portion Thereof. U.S. Appl. No. 29/282,835, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfaces for a Display Screen or Portion Thereof, filed Jul. 30, 2007. U.S. Appl. No. 29/282,837, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfhces for a Display Screen or Portion Thereof, filed Jul. 30, 2007. U.S. Appl. No. 29/282,838, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfaces for a Display Screen or Portion Thereof, filed Jul. 30, 2007. U.S. Appl. No. 29/282,839, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfaces for a Display Screen or Portion Thereof, filed Jul. 30, 2007. U.S. Appl. No. 29/282,843, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfaces for a Display Screen or Portion Thereof, filed Jul. 30, 2007. U.S. Appl. No. 29/282,841, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfaces for a Display Screen or Portion Thereof, filed Jul. 30, 2007. U.S. Appl. No. 29/282,842, Anzures et al., Icons, Graphical User Interfaces, and Animated Graphical User Interfaces for a Display Screen or Portion Thereof, filed Jul. 30, 2007. U.S. Appl. No. 29/283,656, Chaudhri, Graphical User Interfaces for a Display Screen or Portion Thereof, filed Aug. 20, 2007. U.S. Appl. No. 29/284,263, Bull, et al., Graphical User Interfaces for a Display Screen or Portion Thereof, filed Sep. 4, 2007.
+U.S. Appl. No. 29/284,264, Lemay et al., Graphical User Interfaces for a Display Screen or Portion Thereof, filed Sep. 4, 2007.
+U.S. Appl. No. 29/302,019, Chaudhri et al., Animated Image for a Portion of a Display Screen, filed Jan. 8, 2008. U.S. Appl. No. 29/302,063, Matas, Graphical User Interface for a Display Screen or Portion Thereof, filed Jan. 9, 2008. U.S. Appl. No. 29/302,217, LeMay, Graphical User Interface for a Display Screen or Portion Thereof, filed Jan. 11, 2008. U.S. Appl. No. 29/302,429, Chaudhri et al., Animated Image For A Portion of Display Screen, filed Jan. 16, 2008. U.S. Appl. No. 29/304,584, Sepulveda, Graphical User Interface for a Display Screen or Portion Thereof, filed Mar. 4, 2008.
+U.S. Appl.No. 29/335,282, Sepulveda, Icon foraD isplayScreen or
+Portion Thereof, filed Ap. 13, 2009. U.S. Appl. No. 29/317,755, Anzures et al., Graphical User Interface for a Display Screen or Portion Thereof, filed May 6, 2008. U.S. Appl. No. 29/317,758, Christie et al., Graphical User Interface for a Display Screen or Portion Thereof, filed May 6, 2008. U.S. Appl. No. 29/318,446, Chaudhri et al., Graphical User Interface for a Display Screen or Portion Thereof, filed May 20, 2008. U.S. Appl. No. 29/319,397, Anzures et al., Graphical User Interface for a Display Screen or Portion Thereof, filed Jun. 9, 2008. U.S. Appl. No. 29/319,434, Anzures et al., Graphical User Interface for a Display Screen or Portion Thereof, filed Jun. 9, 2008. U.S. Appl. No. 29/319,389, Anzures et al., Graphical User Interface for a Display Screen or Portion Thereof, filed Jun. 8, 2008. U.S. Appl. No. 29/324, 194, Evans et al., Graphical User Interface for a Display Screen or Portion Thereof, filed Sep. 8, 2008. U.S. Appl. No. 29/324,195, Chaudhri et al., Graphical User Interface for a Display Screen or Portion Thereof, filed Sep. 8, 2008. U.S. Appl. No. 29/324,196, Chaudhri et al., Graphical User Interface and Icons for a Display Screen or Portion Thereof, filed Sep. 8, 2008. U.S. Appl. No. 29/324,935, Anzures et al., Graphical User Interface and Icons for a Display Screen or Portion Thereof, filed Sep. 23, 2008. U.S. Appl. No. 29/326,396, Christie et al., Icon for a Display Screen or Portion Thereof, filed Oct. 16, 2008. U.S. Appl. No. 29/325,998, Anzures, Graphical User Interface for a
+Display Screen or Portion Thereof, filed Oct. 9, 2008.
+
+US D617,334 S
+Page 3
+
+U.S. Appl. No. 29/333,233 Graphical User Interface and Icons for a Display Screen or PortionThereof, filed Mar. 4, 2009.
+U.S. Appl. No. 29/333,559, Animated Image, Graphical User Interface and Icons for a DisplayScreen or Portion Thereof, filed Mar. 11, 2009.
+U.S. Appl. No. 29/333,867, Animated Image, Graphical User Interface and Icon for a DisplayScreen or Portion Thereof, filed Mar. 16, 2009.
+
+U.S. Appl. No. 29/335,282, Sepulveda et al., Icon for a Display Screen or Portion Thereof, filed Apr. 13, 2009. "PDAs with a built-in wireless LAN, using the Nursing Support System", Casi o News Release,http: //www.casio.co.jp/release/2003/ nns.html, dated Jan. 28, 2003. Symbol Sourcebook, Henry Dreyfuss, Van Nostrand Reinhold, pp. 213-214, copyright 1972.
+a cited by examiner
+
+U.S. Patent
+
+Jun. 8, 2010
+
+Sheet 1 of 8
+
+I
+
+I
+
+@
+
+I
+
+t
+
+I
+
+it
+
+US D617,334 S
+~g
+I
+I
+
+t
+
+U.S. Patent
+
+Jun. 8, 2010
+
+Sheet 2 of 8
+
+US D617,334 S
+
+U.S. Patent
+
+Jun. 8, 2010
+
+Sheet 3 of 8
+
+US D617,334 S
+
+I @pe
+
+I
+
+I
+
+FIG. 3
+
+U.S. Patent
+
+Jun. 8, 2010
+
+Sheet 4 of 8
+
+US D617,334 S
+
+Jun. 8, 2010
+
+Sheet 5 of 8
+
+US 9617,334 S
+
+U.S. Patent
+
+Jun. 8, 2010
+
+Sheet 6 of 8
+
+US D617,334 S
+
+U.S. Patent
+
+Jun. 8, 2010
+
+Sheet 7 of 8
+
+US D617,334 S
+
+U.S. Patent
+
+Jun. 8, 2010
+
+Sheet 8 of 8
+
+US D617,334 S
+
+FIG. S
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII USOOD617334C1
+
+(12)EX PARTE REEXA M I N A T I O N C E R T I F I C A TE (10974th)
+
+United States Patent
+
+(10) Number:
+
+US 9 6 17, 3 34 C l
+
+Chaudhri
+
+(45) Certificate Issued: O ct. 17, 2016
+
+(54) GR APHICAL USER INTERFACE FOR A DISPLAY SCREEN OR PORTION THEREOF
+
+(75) Inventor: Im r anChaudhri, San Francisco, CA
+(US)
+
+(73) Assignee: APPLE INC., Cupertino, CA (US)
+
+Reexamination Request: No. 90/012,993, Oct. 7, 2013
+
+Reexamination Certificate for:
+
+Patent No.: Des. 617,334
+
+Issued:
+
+Jun. 8, 2010
+
+Appl. No.: 29/ 3 2 1,374
+
+Filed:
+
+Jul. 15, 2008
+
+(51) LO C (10) CI.
+
+14-04
+
+(52) U.S. Cl. USPC .........................................................
+(58) Field of Classification Search USPC ................................................. D14/485&95
+CPC .. G06F3/048; G06F 3/0481; G06F 3/04817; G06F 3/0482
+See application file for complete search history.
+
+(56)
+
+References Cited
+
+To view the complete listing of prior art documents cited duringthe proceeding for Reexamination Control Number 90/012,993, please refer to the USPTO's public Patent Application Information Retrieval (PAIR) system under the Display References tab.
+Primary Examiner Dar l i ngton Ly
+
+US D617,334 C1 I EX PARTE REEXAM INATION CERTIFICATE
+
+NO AMEND M E NTS HAVE BEEN MADE TO THE PATENT
+
+AS A RESULT OF REEXAMINATION, IT HAS BEEN DETERMINED THAT:
+
+The patentability of the sole claim is confirmed.
+
+10
+
+

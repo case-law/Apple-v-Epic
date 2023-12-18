@@ -1,0 +1,4982 @@
+App Store Developers
+Profiling Research
+
+United States District Court
+
+«I
+
+NorthernDistrictofCalifornia
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games, Inc.v.Apple, Inc.
+
+Exhibit No. DX-3800
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+This survey was a cross-functional endeavor between: · App Store Marketing
+· App Store Business Management · iTunes Analytics · and the Market Research & Analysis team led by Melinda Sammons This is an abridged version of the report. This report focuses on US respondents; we have also surveyed UK respondents and are working with the Market Research team to finalize reporting. The initial draft of the UK report indicates that responses are very consistent with those of the US respondents. Once the UK report is finalized we will make it available to the team.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 001
+
+APL-APPSTORE 09126673
+
+Why this report'?
+Key areas include: Developer profiles Business profile Marketing profile International profile Analytics tools App Store guidance and tools
+So why did we survey our developers? Our research objectives were: · to gain a better understanding of iOS app developers' business and marketing levers, challenges, and areas of focus · to capture actionable feedback on our tools and services · and to capture data that we can benchmark against in future surveys We focused on these key areas: · Developer profiles · Business profile · Marketing profile · International profile · Analytics tools · App Store guidance and tools
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 002
+
+APL-APPSTORE 09126674
+
+Understanding App Store developers
+
+I ·
+
+·
+
+-
+
+·
+
+·
+
+-
+
+·
+
+-
+
+·
+'I I
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+'
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Method:Apple Market Research conducted an online survey with 3,530 app developers in the US who are at least somewhat involved in business or marketing decisions. Respondents were screened to exclude those whose companies are not located in the US. Results are weighted to match the distribution of size based on categories assigned by Developer Relations.
+Statistical testingacross large and mid tier developers compared to small tier developers was conducted at a 95% significance level and is indicated with arrows. To simplify reporting, results of statistical testing may not be shown for values under 5%.
+Other notes;To simplify reporting, chart labels for values under 3% may not be shown. The term "top-2 box"/ bottom-2 box refers to the total of the top 2 results/ bottom 2 results in a 5-point scale. Totals, sub-totals, and nets may be off by a point or two due to rounding.
+A PPLE CONFIDENTIAL 3
+We conducted this survey From December 2014 to January 2015. We sent the survey to a range of developers, including our approximately 300 US managed developers. We got a low response rate from our managed developers so we retargeted them in February and are still assessing the results. We attribute the low response rate to the time of year -- we were delayed in getting the survey out and it was sent right around Christmastime -- so a learning for the next survey is to get it out to developers by October. This is how we did the research: An online survey was emailed to US developers · respondents had at least 1 app published on app store in past 2 years · respondents had to identify being at least somewhat involved in business or marketing decisions
+[190,721 surveys sent]
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 003
+
+APL-APPSTORE 09126675
+
+Here's a closer look at the profiles of those surveyed.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 004
+
+APL-APPSTORE 09126676
+
+72% respondents were small developers
+Development Tier
+g Large · t Mrd ag Small
+Base AB respondentsDeveloperrrer
+· We worked with the Analytics team to define "small", "mid" and "large" tier developers. Tiers were based on downloads rather than billings. · The top developers contribute a large proportion of our downloads. To accommodate this top-heaviness, the buckets are scaling in size -- we bracket by 99th percentile for large/
+98th to 90th for medium and 89th and below for small. · We received the majority of responses from developers who fall into the "small" tier, which was consistent with our expectations.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 005
+
+APL-APPSTORE 09126677
+
+47% have published 2-5 apps on the App Store in the last two years, with large tier developers more likely to publish more apps
+Number of Apps Published
+
+7'Y
+
+30'Yt
+
+20%1
+
+47'Ya
+
+44V 2
+
+Total
+
+Large
+
+Mrd
+
+11 or more 6-10 · 2-6 · I
+
+Base AllresponedntsS4 How many apps has your company puhh shed on the App Store in the last two yea rstNote Arrows denote comps n son to small her developers
+A PPLE CONFIDENTIAL 6
+We looked at results by whether respondents were involved in business or marketing decisions, and the findings were virtually similar between the two groups, so we' re showing the results in total (except where the question was only asked of 1 group). What was more interesting was looking at results by developer tier, so most charts show the results this way.
+Where you see arrows, that denotes comparison to small-tier developers.
+To begin we asked how many apps hasyour company published on the App Store inthe last two years; 47% have published 2-5 app.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 006
+
+APL-APPSTORE 09126678
+
+Games arethe most commonly developed apps,
+especially among large tier developers
+
+Primary Apps Categories for iOS Apps
+
+Total Large
+
+Games Education
+
+20 /a 20 4
+
+' 36'k T 199'
+
+Utilities Entertainment Productivity
+
+15%
+
+9'k L
+
+1&% 2IP/7
+
+7M/
+
+169'
+
+Business Lifestyle Soaal Networking
+
+17'/a
+
+10'/ 2
+
+75/
+
+i3%
+
+11'/3
+
+13' 7
+
+· ealth & Fitness
+
+9'V
+
+6/
+
+Photo & Video
+
+6/.
+
+99'
+
+Reference Travel Kids
+
+39' 2
+
+6'/
+
+6%
+
+s /. 7
+
+Miisic
+
+6'%
+
+Finance
+
+4'/
+
+Sports Medical News
+
+59'
+
+6'/
+
+5%
+
+2% 2
+
+4'/
+
+7'k 7
+
+Food & Dnnk
+
+4'V
+
+5/
+
+Books
+Navigation Other Weather
+
+4%
+
+3'7
+
+29'
+
+7%
+
+2%
+
+3/
+
+Newsstand
+
+I '7
+
+29'
+
+Catalogs
+
+I '/
+
+7%
+
+Ml d . 2 5i% 20%
+ISP/ 't9%
+U% 12% 15 / 9'/
+5'/ 10 / T 64/3
+6/ a/ .
+7
+74/3 6/ 4'/ 5'7
+5'/ 3'/
+4% 24/3 2% 2/
+24/3
+1%
+
+Small
+20'/' 20% 7%/5 174 79ik 15'%%d lip/
+6'/ 6% 6%
+5% 5% ak 5'/ 4'/ 4k 3/ 3% 3% 2'/ 1%
+
+3556
+
+152
+
+721
+
+2653
+
+10 20 Stl
+
+0
+
+Base Ag respondentsAI What are the pnmary app categones you develop iOSappsfora lmultiple responses agowed)Note Arrows denote companson to small tier developers A PPLE CONFIDENTIAL 7
+
+We asked: What are the primary app categories you develop iOS apps for? (with multiple responses allowed) Games are the most commonly developed apps, especially among large tier developers, of whom 38% develop games.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 007
+
+APL-APPSTORE 09126679
+
+Of those who developgames, 37% develop arcade
+Large tier developers are more likely to develop most types of games
+
+Games Sub Categories for iOS apps Total Large
+
+Arcade
+
+379 '
+
+39 /
+
+Puzzle
+
+3+/. IS 36'/.
+
+Action Educational
+
+31 %
+
+45 %1
+
+19'/
+
+13 %
+
+Adventure Strategy
+
+19'/
+
+3 2% t
+
+30%Ti
+
+Family
+
+19a
+
+Simulation
+
+12%
+
+Word
+
+11 %
+
+12' 4
+
+Dard Board
+
+11 %
+
+1 7%T
+
+11%
+
+13' /
+
+Role Playing Casino Tnvia Sports Ramng
+
+10'/ 7%
+5'Ys 5%
+
+2IP/r 5 1 3%T Itl'V 7 I ZV 1 1 3%T
+
+Mr/sic
+
+4%
+
+Dice Other
+
+3'V
+
+6%
+
+29'
+
+3%
+
+Ml d 0 9%2
+2 8'/ 0 4% 13" /
+' 15/ ZIPi/ ' ia'/T
+Ia'/ T 19/ T 15%f 9% 11% T 7'V 7'V T 10 % T 44/a 2'/ 2'/
+
+Sm all 39%
+30'/s 19 ./ 18'Y
+16'/ 17%
+9/. 10'/
+9% 8% 4'/
+
+922
+
+69
+
+189
+
+io 20 30
+
+0
+
+Base Develops i05 gamesA2 What are the pnmary game suh categones you develop i05 game apps fort (multiple responses allowed)Note Arrows denote companson to small uer developers
+A PPLE CONFIDENTIAL 8
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 008
+
+APL-APPSTORE 09126680
+
+Free, ad-supported, and freemium account for 70% of business models
+primary Business Model for iOS Apps
+~ s sy ~
+Istn
+27'7 T
+
+Total
+
+Large
+
+Mrd
+
+Small
+
+Dontknow
+Other IDI Subscnptron
+I· I Ad supported I· I Freemium
+I· I Free
+· Paymium S Paid
+
+Base All respondentsAS What is the pnmary busmess model for your iOS appstNote Arrows denote companson to small tier developers
+We asked, what is the primary business model for your iOS apps? Free, ad-supported and freemium apps account for 70% of all developers 13% of large developers have paid business models, compared with 34% of small developers
+
+A PPLE CONFIDENTIAL 9
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 009
+
+APL-APPSTORE 09126681
+
+Half say their company has been in the mobile app business for less than 3 years; large developers have been in business longer
+Years in Mobile App Business
+20% 29'Y f
+49%f
+
+37'Ya Total
+
+Bassf
+74%2 Large
+
+2994L Mrd
+
+Small
+
+5 years or more N 3 to less than 5
+N I to less than 3
+· Le ss than I
+
+Base All respondentsA4 How many years has your company been m the mobile app businesstNote Arrows denote companson to small her developers A PPLE CONFIDENTIAL 1 0
+Half of the respondents say their company has been in the mobile app business for less than 3 years
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800.010
+
+APL-APPSTORE 09126682
+
+60% of developers develop for other mobile operating systems; large and mid tier developers are more likely to develop for other platforms
+Develops Apps for Other Mobile OS
+3BMT
+
+Bdiyr
+
+yo'y T
+
+Total
+
+Large
+
+Mrd
+
+· No
+a Yes
+
+Base All respondentsA5 Do yon develop apps for mobile operatmg systems and platforms other than iogtNote Arrows denote companson to small tier developers A PPLE CONFIDENTIAL 1 1
+We asked, Do you develop apps for mobile operating systems and platforms other than iOS7 Large and mid tier developers are more likely to develop for other platforms (86% and 70yo re s pe ct ive I y)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 01 1
+
+APL-APPSTORE 09126683
+
+Of those who develop for other operating systems and platforms, almost all develop for Android devices
+
+Other Mobile Platforms Develop For
+
+Android
+
+· TML5
+
+Wmdowa
+
+Fire OS Blackberry
+Other
+
+12%
+
+I 4%1 '8%
+
+5%
+5% 5%
+
+12%
+
+3%
+
+33% 1% 29'/4
+85%
+28%
+24% 24%
+
+44'/1
+
+97% 100%
+8%1 95%
+· Total (n=2101) · La rge (n=158) · Mid (n=507) · Sm all (n=1438)
+
+Base Develops apps for other mobile platformsA6 What other mobile operating systems and platforms do you develop apps fort (multiple responses allowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 1 2
+We also asked which mobile operating systems and platforms they developed for. As expected, almost all develop for Android. Large developers were also more likely to develop for Windows and Fire OS.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800.012
+
+APL-APPSTORE 09126684
+
+Those who develop games are more likely to develop for Windows and Fire OS but less likely to develop for
+
+Other Mobile Platforms Develops For By Game Developer
+
+Android · TML5 Windows
+
+22'/4
+29% 24%
+
+33% 7%
+32'I 7
+
+97% 99% 97%
+
+Fire OS
+
+~
+
+9%
+
+21%7
+
+Blackberry ~
+
+5%
+
+Other
+
+· Total (n=2095)
+· Yes, game developer (=n533) · No (n =t 552)
+
+Base Develops apps for non iOS devicesA6 What other mobile operatmg systems and platforms do you develop apps fort (multiple responses agowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 1 3
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 01 3
+
+APL-APPSTORE 09126685
+
+Half say increasing their user base or introducing new apps are the areas they expect the most growth next
+
+Expected Growth Areas
+
+60% 58%
+54%, 52%
+
+5 2 '/~t //,5532%
+
+62% 48%
+
+37%
+
+45% 38%
+
+31%
+
+28%
+
+25%
+
+21%
+
+20'4,
+
+17%
+
+18'/
+
+17,/18 %
+
+35%
+
+22%
+
+17 %1
+
+14%
+
+6% 5/,
+
+Increasing user
+base through additional app
+installs
+
+New apps
+
+· To tal (n=3535)
+
+Increasing
+engagement/mon ettzation of
+existing users
+
+Organic growth
+(e g, freemium, paid)
+
+K Large (n=181)
+
+New business models
+
+New plafform
+support (e g, iPhone or iPad)
+
+lg Mid (n=718)
+
+International markets
+
+Dont know
+
+· S mall (n=2636)
+
+Base Aff respondentsA7 In which of the following areas do you expect to dnve the most growth for your iOS app business next years (multiple responses allowed)Note Arrows denote companson to small tier developers
+APPLE CONFIDENTIAL 14
+We asked, In which of the following areas do you expect to drive the most growth for your iOS app business next year7 We allowed multiple responses.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800.014
+
+APL-APPSTORE 09126686
+
+One-third say increasing their user base is area they expect the most growth next year
+
+Largest Expected Growth Area
+
+34%
+
+35% 32%
+
+27%
+
+34% 30% 26%
+
+28%
+
+Increasing user base through additional app installs
+
+New apps
+
+· To tal (n=2309)
+
+17%
+
+13%
+
+10%
+
+I I II hw
+
+8%
+
+I
+
+Increasing
+
+New business models
+
+engagement/monetiz
+
+ation of existing users
+
+Orga n ic growth
+
+K Large (n=137)
+
+lg Mid (n=533 )
+
+i "~ · -a
+International markets New plafform support · S mall (n=1639)
+
+Base Expects growth from at least two areasA8 And what is the one area where you expect to dnve the most growth for your iOS app business next year Note Arrows denote companson to small tier developers
+APPLE CONFIDENTIAL
+When we asked developers to then select the one area where they expect to drive the most growth for their iOS app business next year, what was notable was that international expansion is not expected to be a primary area of growth. This could be attributed to the barrier to entry presented by localization and a lack of market expertise.
+Another takeaway from this slide is that large developers are focusing on retention and engagement rather than just on user acquisition. This shift in focus to monetizing existing users is a growing trend we' re seeing.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 01 5
+
+APL-APPSTORE 09126687
+
+Half of all who responded say their company's annual revenue is less than $250,000
+Company's Annual Revenue
+
+Under $250,000 $250,000 - $4,999,999 $5,000,000 - $49,999,999 $50,000,000 or more Prefer notto say
+
+Total 54' 4
+
+Large Mi d 11% 4 36%
+
+Sm all
+
+15 %
+
+26% f 20% f 13%
+
+5%
+
+6% f
+
+6% f 4%
+
+6%
+
+23rd T 9% f 3%
+
+20% 33' %%d 0 ,25a%%d f III%
+
+10 20 30
+
+0
+
+59
+
+60
+
+Base Respondents m the 0501 What rs yourcompany's annual revenuetNote Arrows denote eompanson to small oar developers
+
+A PPLE CONFIDENTIAL 1 6
+
+We asked developers about their annual revenue. 63% of small developers have revenue under $250K annually. 23% of large developers have annual revenue of over $50 million, with another 33% preferring not to say, so that percentage is likely larger.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800.016
+
+APL-APPSTORE 09126688
+
+One-third say their company's current revenue comes from mobile apps
+Percent of Revenue from Mobile Apps
+
+0% 1%-29% 30%-89% 70%-99% 1 00% Dont know Prefer notto say
+
+Total 14%
+
+Lar e 3% 1
+
+Mi d 7% 1
+
+Sm all 18%
+
+19 %
+
+12%2 16'/ 3 20%
+
+5 /.
+
+8 /.
+
+9'/
+
+14% 1 D'/ 3 8%
+
+319 l
+
+30'4
+
+35% 7 30'/
+
+5%
+
+8% 1 5 %
+
+5%
+
+141 /
+
+28 '/ 1
+
+15%
+
+13 %
+
+4568
+
+245
+
+919
+
+3404
+
+10 20 38
+
+0
+
+59
+
+60
+
+Base AB respondents02 About wbatperoentageofyourcompany's r r t r
+
+We asked what percentage of their company's current revenue comes from mobile apps. 1/3 say that all of their revenue comes from mobile apps
+
+* mob i le appssNote Arrows denotoeompanson to smallbar developers A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 01 7
+
+APL-APPSTORE 09126689
+
+One-in-five say their company's revenue comes exclusively from iOS apps, with large tier developers less likely to source their revenue exclusively from iOS apps
+Percent of Revenue from iOS Apps
+
+Don't know Prefer notto aay
+
+Total 14%
+
+Lar e 3% 2
+
+Mi d 7% 2
+
+Sm all Ill '6
+
+201% 1 4 ' yet 19'7
+
+23 '4
+
+%%
+
+16% f
+
+16 '7 f
+
+10%
+
+12'%%d '19 7 f 16 7% f 10%
+
+2T%
+
+6% 2 19'%2%d 23%
+
+6%
+
+9'%%f d
+
+15 %
+
+30% 2 ' 16%f
+
+1 IN
+
+10 20 30
+
+0
+
+Base Afi respondentsG3 About wbat percentage ofyour company's r r t r
+
+* m rOSapps speofieafiytNote Arro d
+
+t p n t mall bar developers A PPLE CONFIDENTIAL 1 7
+
+1/3 say 70% or more of revenue comes specifically from iOS apps. Small and mid-tier developers skew more towards iOS, which could be attributed to having less money and time to expand to other platforms
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 01 8
+
+APL-APPSTORE 09126690
+
+16% say all of their company's expected revenue in 2015 will be from iOS apps
+Percent of Revenue from iOS Apps in 2015
+
+0% 1%-29% 90%-89% 70%-99% 100% Don't know Prefer notto say
+
+Total 11 %
+
+Lar e 2% 2
+
+Mi d 5% 2
+
+Sm all 13 %
+
+2 0i%
+
+15% 2
+
+'18'/ 4. 23%
+
+15 %
+
+21'V1 21/ 7 13%
+
+14 % 18'/
+
+18'/ 1 18% T 13% 5% 2 15' V 2 I ll %
+
+101' 14 %
+
+10 %
+
+11'/
+
+2'3' / 1 14 %
+
+4552
+
+244
+
+917
+
+9 '/ 12% 3391
+
+10 20 30
+
+0
+
+59
+
+80
+
+Base Allresponednts04 About what percentage of your company's expected revenue in 2015 will come from iOS appssNote Arrows denote compan son to small oar developers
+A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 01 9
+
+APL-APPSTORE 09126691
+
+80% of iOS developers correctly name the App Store
+
+Name of (App Store)
+
+App Store
+
+Apple App Store iTunea Store
+
+12% 10%
+11% 13%
+11% 10%
+
+6'7
+
+iOS App Store
+
+6%
+
+6%
+
+1% 0% iPhoneAPad Store
+1%
+
+Other
+
+3% 1%1
+3%
+
+80% 88%1
+84% 1 8%
+m Total (nt 3425) a Large(n=175) · Mid (n=688) · Sm all (n=2552)
+
+Base All respondentsAP What do you cag the store where customers can download i05 appst (multiple responses agowed)Note Arr d t
+
+p r t all t ier d evelopers A PPLE CONFIDENTIAL X
+
+We wanted to get sense of how developers refer to our brand unprompted, so we included a question "What do you call the store where customers can download iOS apps?u to gauge brand recognition. 80% of iOS developers correctly name the App Store and another 12% call it the Apple App Store, so we' re in good shape.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 020
+
+APL-APPSTORE 09126692
+
+We spoke to both marketing and business contacts at each developer. Here's a look at what we heard from the business side.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 021
+
+APL-APPSTORE 09126693
+
+One-third say revenue is the most important measure of their apps' success, with large and mid tier developers
+Most Important Measure of iOS App Success
+
+28/
+
+27/28/ o// 27/
+
+Revenue
+
+Customer engagement/time
+spent with app
+· Total (n=1404)
+
+Downloads
+
+Ratings and reviews App S tore featunng Crrtical acclaim
+
+Media interest
+
+· La rge (n=90)
+
+· Mid (nM22)
+
+· Sm at I (n =992)
+
+Base Business respondentsB14 And which of these is most important in measunng your iOS apps' successoNote Arrows denote companson to small tier developers APPLE CONFIDENTIAL tg
+To get things started, we asked developers how they measure overall success on the App Store. Here developers could choose only one of the options presented to them.
+Of little surprise, revenue topped all choices at 32% overall, Revenue was especially key for large developers, coming in at just shy of 50%. Customer engagement/time spent was next, almost equally as important across large, medium and small developers. App store featuring scored low, but as we all know, featuring is usually a springboard to revenue, customer engagement and downloads, which all scored higher.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 022
+
+APL-APPSTORE 09126694
+
+Almost three-quarters of app developers start making business model decisions before starting app
+When Business Model Decided
+Before app development
+
+Dunng epp development
+
+After app development
+
+34'4
+· To tal (n=1994) · La rge (ne107) · Mid (n=391) · Sm all (n=1399)
+
+Base Business respondentsBI When in the product kfecycle do you make deosions about your business model and pnong for your igs appar (multiple responses allowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 2 0
+We then asked developers when in the product development cycle do they make their business-model decisions (multiple responses allowed)
+Much to our delight, just over 70% of all developers make those decisions before app development About 1/3 developers make those decisions after development of the app
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 023
+
+APL-APPSTORE 09126695
+
+40% say app quality is their most important benchmark against competitors' apps
+Most Important Benchmark of iOS apps versus Competitors
+49'/ 44%
+39'/
+
+28'/
+
+27%
+
+,J7%
+14'/
+
+· 6% 13%
+9%
+
+1 2% 11% 11'/
+
+I 7'/ 8'/.8/.
+
+6%
+
+6%
+
+App quality
+
+Ratings and Performance
+
+reviews
+
+on App Store
+
+· Total (n=1 328) charts
+
+Installs
+
+Revenue
+
+a Large (n=96)
+
+App Store Media mterest featunng
+· Mid (nM30)
+
+Awards and Investments accolades and funding
+· S mIat(n =902 )
+
+Other
+
+Base Business respondentsB12 And which of these is most important in benchmarking your iOS apps against competitorsoNote Arrows denote companson to small tier developers
+APPLE CONFIDENTIAL
+We then asked how devs benchmark their apps against the competition they were only allowed on response here. -when looking at how developers benchmark their apps against competition, 44% look at app quality. -- large developers benchmark evenly for app quality and performance on app store charts -- surprisingly, featuring came in at only about 5% across all tiers.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 024
+
+APL-APPSTORE 09126696
+
+Large and mid tier developers are more likely to plan app updates around Apple's calendar (iOS updates, product
+
+Events App Updates Planned Around
+Total Large
+
+OS updates
+
+Apple product launches
+
+Seasonal (net) Ohnstmas/Idanukkah App Store refresh on Thursdays
+Thanksgiving/Black Fnday App Store promotions
+
+15'/
+
+405' t
+
+71%
+
+'5744 t'
+
+10%
+
+'k f
+
+3656 'f"
+
+Back to School
+
+7'V
+
+T3'% t
+
+Summer New Years Day
+
+7'Yo
+
+19/
+
+6%
+
+15%
+
+· agoween Spnng Winter Valentine s Day Fall
+
+5%
+
+21%a T
+
+12'k
+
+4'Y
+
+17ofa t'
+
+'lao
+
+16/ T
+
+4%
+
+»5/. t
+
+July 4th
+Mother s Day
+Father s Day
+
+15k 1
+
+2%
+
+t
+
+I 'Y
+
+4% 1
+
+Graduation Earth Day Other I don t plan around a cycle
+
+1%
+
+I '/
+
+2%
+
+10'/
+
+6'/
+
+I 53%g w /
+
+M ld
+34'/o t 32% 194a f 15% *f 75% t 10'k f 5'/ 6% f 5'V 6% 1 6% 5o/o t 5'% 1 5'V 3% 3% t 2o/o 0/ 1% 11% 24'4
+
+Sm al l 22a/ 20% 71 "7 7% 6% 4k 5% 3%
+1%
+
+10 20 Stl
+
+0
+
+Base Business respondentsB10 Do you plan your app updates around the fogowingr (multiple responses agowed)Note, Arrows denote companson to small tier developers A PPLE CONFIDENTIAL 2 2
+
+In terms of app updates, we asked developers if they planned updates around any of the listed events. Multiple selections were allowed here.
+Far and away, developers plan updates around updates that make to the IOS. Large developers especially plan around our updates. Developers clearly know that integrating new product features into their apps is the way to go. Apple product launches are also key, especially for Large and Mid tier devs. Interesting is the App Store Refresh. For large developers, this came in at 37%, but it falls dramatically down to 15% for Medium and 7% for Small. The same can be said for App Store Promotions (36% -- 10%% --4%) -- it appears that the small developers likely are not aware of the benefits of releasing on these dates or haven't been working with Apple and thus haven't been guided to do so. The App Store best practices documentation we are working on will help here.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 025
+
+APL-APPSTORE 09126697
+
+Half of developers (but 72% of large/mid tier developers) conduct sales or price promotions for their paid apps
+Conducts Sales or Price Promotions
+2BN 3 4 74'
+334"
+
+72'7 T
+
+Total
+
+Large/Mid"
+
+Small
+
+· Don t know
+· No R Yea
+
+Base Busmess respondents wbo develop paid apps
+
+"Note large and mid size developers combined due to small base sizes
+
+B4 Do you conduct sales/pnce promobons for your paid appszNote Arr d t p r t mall t i e r developers
+
+A PPLE CONFIDENTIAL 2 3
+
+We then asked if they conduct sales or promotions for their paid apps? Due to the small response size, here we combined large/mid developers. -- Across the board, about half do. But as you can see, more than 70% of large/mid developers conduct price promotions, while only 44% of small developers do so.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 026
+
+APL-APPSTORE 09126698
+
+Just under half say they run sales or price promotions less than twice a year
+Frequency of Sales or Price Promotions in Past Year
+
+32'YM
+
+503L
+
+Every srx months or less often
+
+Every 4 to B months
+
+· Every I tog months
+
+Total
+
+Large/Mrd"
+
+Small
+
+a At least once a month
+
+Base Busrness respondents svho conduct sales/promotrons for pard apps "Note large and mrd srzedevelopers combmed due to small base srzes Bs In the past year hose often drd you conduct sales/pnce promotrons for your pard appszNote Arr d t p r t mall tr e r developers
+
+A PPLE CONFIDENTIAL 2 4
+
+We then we asked how oftenthey conduct price promos
+Over 50% of all developers run a price promotion at least once every six months. Large/mid tier developers conduct them more often, with 63% running a promo within six months vs. only 50% of small tier devs
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 027
+
+APL-APPSTORE 09126699
+
+Large and mid tier developers are more likely to conduct seasonal sales, particularly around Thanksgiving, the
+
+Seasons Sales or Price Promotions Condulstgd
+
+Total
+
+Mld
+
+Small
+
+Conduct seasonal sales/ pnce promotions (net)
+
+Thanksgiving/Black Fnday
+
+33e%%d 47a-%$%d 27%
+
+Chnstmas/Hanukkah Back to School
+
+,29% gl "/I
+
+4 OV T 3 3'4 7
+
+,23 ' V 16 %
+
+Summer
+
+11' V
+
+171' T 9'4
+
+New Years Day July 4th
+
+)1' 4
+
+17% t 6'/
+
+Io /
+
+'Is'4 7 5'/
+
+Spnng · agoween
+
+9%
+
+15'/ T
+
+6%
+
+7%
+
+144/i 7 3%
+
+Winter Fall galantine s Day
+
+g/
+
+4'/
+
+9% 1
+
+3%
+
+5%
+
+9'/ T 3/
+
+Mother s Day Father s Day
+Earth Day Graduakon
+
+2'/
+
+2%
+
+1%
+
+3 '/
+
+I '/
+
+1%
+
+1%
+
+1%
+
+Other
+
+I do not conduct any seasonal sales/pnce promotions
+
+iO 2O 39
+
+9
+
+Base Business respondents who conduct sales/promotions for paid apps
+
+"Note large and mid size developers combined due to small base sizes
+
+B6 Do you conduct any sales/pnce promotions dunng the seasons ksted belowt )multiple responses agowed)Note Arrows denote companson to small tier developers
+
+A PPLE CONFIDENTIAL 2 5
+
+So, we wanted to find out when they conducted these promotions. Again, multiple response allowed.
+By scanning the list from top-to- bottom, you see that large/mid tier developers conduct sales more often that small developers around every event other than "other" As a whole, developers follow very similar price promotion cycles as traditional brick and mortar: j.) Thanksgiving/black Friday, 2) Christmas/Hanukkah, 3) back to school As you can see, large and mid tier developers are more willing to experiment with pricing and are more nimble in trying different pricing approaches.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 028
+
+APL-APPSTORE 09126700
+
+The number ofdownloads is the most common measure of success for a sales or price promotion
+
+Measures of Success of Sale or Price Promotion
+Downloads
+
+New users
+
+Billings
+
+App Store featunng
+
+Good PB
+
+Other Don t know
+
+5% 2%
+2% 2% 2%
+
+29%
+
+23%
+
+29% 24%
+
+30%
+
+25% 23%
+
+29%
+
+49% 49%
+49%
+4I /7
+
+74% 4% 74%
+· Total (n=291)
+· La rge/Mid*(n=95)
+· Small (n=209)
+
+Base Business respondents who conduct sales/promotions for paid apps "Note large and mid size developers combmed due to small base sizes
+
+BS How do you measure the success of a sale/pnce promobonz(mulople responses allowed)Note Arro d n t
+
+p r nt all ti e r developers
+
+A PPLE CONFIDENTIAL 2 6
+
+Finally, we wanted to hear how developers measure success from a sale or promotion (Again, multiple responses were allowed)
+Here the clear winner is Downloads at 74% across the board, evenly split across all tiers. Once again, top/mid developers are more focused on revenue/billings: 41% of large/mid developers derive success from billings while only 23% of small developers do. Acquiring new users very important as well. Featuring more important here than on previous questions, but still only about 26%. The increase here should come as no surprise as they'd love our help if they' re lowering their prices.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 029
+
+APL-APPSTORE 09126701
+
+Previous sales are the most common determination for discount rates, although large/mid tier developers are more likely to consult competitors' offers
+How Discount Rates Determined
+Previous App Store sales
+Competition
+Market research
+
+· Total (n=291)
+· La rge)Mid*(n=BB)
+· Sm all (n=2OB)
+
+Base Busmess respondents who conduct salesrpromotrons for paid app
+
+"Note large and mid size developers combmed due to small base sizesB7 How do you determme the
+
+discount rate for your salesrpnce promotionst (multiple responses allowed)Note Arrows denote companson to small tier developers
+
+A PPLE CONFIDENTIAL X
+
+how do they determine the rates of the discounts? history helps judge how to price large/mid devs are much more concerned with competition pricing
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 030
+
+APL-APPSTORE 09126702
+
+Three quarters use social media to market sales or price promotions
+Marketing Sales or Price Promotions
+
+Social media Product page metadata PR Paid marketing GrosS-promotion In-app marketing Other Dont know
+
+T otal L a rge/Mld S m a l l
+
+29% 25s / 19' A 'Io'7 0'/ 5% 291
+
+9 0) k
+
+20/
+
+2 i
+
+2' si
+
+20" / a 7 19%
+
+117% t 7'%
+
+10%
+
+0%
+
+3%
+
+05
+
+200
+
+10
+
+20
+
+20
+
+0
+
+i
+
+i
+
+i
+
+i
+
+i
+
+ii
+
+Base Business respondents who conduct sales/promotions for paid apps "Note large and mid size developers combmed dueto small base sizes
+B9 How do you market thesesales/pncepromooonsv (multiple responses agowed)Note,Arro d t p r nt astie r developers
+
+A PPLE CONFIDENTIAL X
+
+how do they market the sales? multiple responses allowed.
+social media far outweighs any other vehicles, with almost 3/4 using social media to promote their sales also utilized: product page metadata, paid marketing large/mid tier developers also utilized cross-promotion far more than small developers (by over 2:1)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 031
+
+APL-APPSTORE 09126703
+
+Three- quarters say customer expectations is an important factor in determining their business models
+
+Factors Considered when Selecting Business Model
+Customer expectah one
+
+Competition
+
+Revenue goals
+
+Install goals
+
+Brand awareness Other
+
+3%1
+
+8%
+10% 8%
+
+50%
+
+35%
+36% 4%
+35%
+36% 33%
+
+46% 0%
+44%1
+
+58%
+61% 6%
+
+72% 70% 69%
+73%
+65% 1
+
+7%1
+
+71%1
+
+· To tal (n=1864) · La rge (nw107)
+· Mid (n=391)
+· Sm all (n=1366)
+
+Base Business respondents82 What factors do you consider when selecting the business model for your i05 appst (muluple responses agowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 032
+
+APL-APPSTORE 09126704
+
+Two-thirds also say customer expectations are important when setting prices
+
+Factors Considered when Setting Price
+Customer expectations Competitors pnmng
+
+Revenue goals Install goals
+Results from pnce testing Other
+
+21% 17%
+
+30'7 0%
+27% 31%
+27%1
+
+45% 43'7
+48% 44% 43% 44% 1%
+40%1
+
+68%
+66% 68%
+
+77%1
+
+7%1
+
+· To tal (n=1864) · La rge (ne107)
+· Mid (n=391)
+· Sm all (n=1366)
+
+Base Business respondents83 What factors do you consider when settmg the pnce for your i05 apps or in app purchasest (multiple responses allowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 033
+
+APL-APPSTORE 09126705
+
+69% use app quality to benchmark their apps vs competitors; large and mid tier developers use more
+
+Benchmark of iOS Apps Against Competitors
+
+79%
+
+5%
+
+759(47
+
+76%
+
+69'Y 6%
+
+61% 56'Y
+
+9%
+
+8%
+
+8%
+
+42ry
+
+8% 35'Y
+
+53%
+36'Y SM 26'Y 3%
+
+App guakty
+
+Rat i n gsand reviews
+
+Inst a l ls
+
+· To tal (=n1864)
+
+Performance on App Store
+charts
+
+Revenue
+
+lvledia interest
+
+· L arge (n=107)
+
+44%
+
+24'Y 18'7
+
+26% 3%
+
+App Store featunng
+
+Awards and accolades
+
+· Mid (n=391 )
+
+12% 7%7%
+
+2%4'Y 4%
+
+Investments and funding
+
+Other
+
+· Small (n=1366)
+
+Don' t benchmark our iOS apps
+against competitors
+
+Base Business respondents811 How do you benchmark your iOS apps agamst competitorst (muluple responses allowed)Note Arrows denote companson to small tier developers A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 034
+
+APL-APPSTORE 09126706
+
+69% use app quality to benchmark their apps vs competitors; large and mid tier developers use more
+
+Benchmark of iOS Apps Against Competitors
+
+78% 5'7.
+68'I 6%
+56'
+
+75%
+
+68%
+
+8'7 42'I
+
+6'7,
+
+' 8%
+
+8% 35'I
+
+53%
+3% 2%
+
+43% 5%
+24'
+
+26%
+
+App quahty R atings and reviewe
+
+I ns t alls
+
+Per f ormance Revenue on App Store
+charts
+
+Media interest
+
+· To tal (n=1853)
+
+I L a rge(n=186)
+
+App Store Awards and featunng accolades
+lg Mid (n=388 )
+
+· T%0 'a".aa
+
+Investments and funding
+
+Other
+
+· Sm all (n=1358)
+
+Dont benchmark our i OS apps
+against competitors
+
+Base Business respondentsB11 Rowdo you benchmark your iOS apps against compebtorso (multiple responses allowed)Note Arrows denote companson to small tier
+developers APPLE CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 035
+
+APL-APPSTORE 09126707
+
+Downloads are the most common measure of IOS app
+success
+
+Measures ofiOS Apps' Success
+
+67/.68'/' 66.%67 /.
+
+75%
+
+55%
+
+62'4 51%
+
+68% 62%
+
+55%
+
+51%
+
+65%
+55% 58/
+47%
+
+41%
+
+Downloads
+
+Revenue
+
+· To tal (n=1853)
+
+24%
+
+29%
+
+Raangs and reviews
+
+Customer engagement/time
+spent with app
+
+App Store featunng
+
+I L a rge (n=186)
+
+lg Mid (n=389 )
+
+II I
+
+Media interest
+
+Cntical acclaim
+
+· Small (n=1358)
+
+Base Business respondentsB13 Row do you measure your iOS apps' successo (multiple responses allowed)Note Arrows denote companson to small Ser developers APPLE CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 036
+
+APL-APPSTORE 09126708
+
+Here's a look at the profile of respondents who identified as marketing decision-makers
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 037
+
+APL-APPSTORE 09126709
+
+Half say their marketing budget is between $1 and 810,000, while one-quarter of large tier developers have
+Company's Mobile Apps Marketing Sudget
+
+$0 More than $0 but less than $10,000 $10,000 - $99,999 $100,000-$999,999 $1,000,000 or more Don't know Prefer notto say
+
+Total 15'/
+
+Lar e 3% 2
+
+Mi d 8% 2
+
+Sm all I T/
+
+19'/ 2 9 55 ' 2 555/ *
+
+19' V
+
+20% f
+
+13 %
+
+11% f to/. f
+
+23ad f
+
+4% f
+
+11% f
+
+2%
+
+3'/
+
+15% f
+
+0% f 5%
+
+10 20 30
+
+0
+
+59
+
+50
+
+Base Markebng respondents in the USFI What is your company's annual markeong budget for mobile appstNote Arr d t
+
+p n nt
+
+aBti e r deuelopers A PPLE CONFIDENTIAL 2 8
+
+72% of small developers are operating on little or no marketing budget. 55% of small developer have budgets less than ($10K and 17% don't have a budget at all. This was an eye-opener for us. We need to equip developers with tools and guidance to leverage owned/influencer channels. This is top of mind for us as we build App Store best practices for Apple Developer and request features for iTC App Analytics. We need to innovate with more programs and tools to help developers with free marketing channels.
+For large developers, 23% have budgets of over a million dollars.
+[features requested: app referrer data and search keywords]
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 038
+
+APL-APPSTORE 09126710
+
+One-third say all of their mobile marketing budget is allocated to iOS
+Percent of App Marketing Budget Allocated to iOS
+
+0% 1%-29% 90%-99% 70%-99% 100% Don't know Prefer notto aay
+
+Total Lar e Mi d Sm all
+
+1%
+
+1%
+
+1%
+
+1%
+
+9%
+
+6%
+
+6% 2 10%
+
+26%
+
+19%
+
+20%
+
+17%
+
+237 7 27 %7 13%
+
+17% 2 9 1 st
+
+35%,
+
+Ij%
+
+11%
+
+6%
+
+6%
+
+10 20 30
+
+0
+
+39
+
+60
+
+Base Markebng budget is more than BF2 About what percentage of yourapp markeong budget is allocated to iOStNote Arr d t
+
+p r t mall t i e r developers A PPLE CONFIDENTIAL 2 9
+
+For those that do have a marketing budget, we wanted to find out what percentage of their app marketing budget is allocated to iOS. One third say their budget is 100% allocated to iOS.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 039
+
+APL-APPSTORE 09126711
+
+42% say iOS users have a higher relative LTV than users of other platforms, with largel mid tier developers
+LTV of iOS Users vs. Other Platforms
+
+28'YQ 'lies BIMT
+
+Total
+
+Large
+
+Mid
+
+42M Small
+
+· Dont know · Si gnificantly less · Less
+· Equal · More
+· Si gnmcantly more
+
+Base All respondentsgs What is the relative kfetime value (LTV) of users from iOS versus other platformstNote Arrows denote companson to small her developers A PPLE CONFIDENTIAL 3 0
+Large and mid-tier developers particularly ranked the relative lifetime value of iOS users higher than users on other platforms. This is consistent with industry data that was shared at GDC: that when comparing iOS to Android, iOS makes 65% of money to Android's 35%. For the App Store, this supports our guidelines to lead with iOS in marketing plans and creative.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 040
+
+APL-APPSTORE 09126712
+
+Half say word of mouth is the most effective marketing channel; large and mid tier developers are much more
+
+Three Most Effective Marketing Channels
+
+Word of mouth Soaal media community App Store featunng Influencers
+
+Total
+
+Large
+
+50ak · 3 59 't
+
+Mi d
+
+Small
+
+39% 3
+
+2 1akt 23 % 4 ~ 43 9
+
+24%. ~ egg fnkt 17/
+
+22%
+
+13%it 2e k
+
+MM
+
+Email Soaal media advertising PR Cross promotion in your other apps Communities Other Ad network advertising Forums Push notifications Cross promotion or advertising in other developers apps In-app massaging
+
+20 / 20 % 18'/ 15% 14' 7 11'9' 9'7 5'/ 5% 5% 3'k
+
+20 '/ Iii % 13 % '7rk t 9 k 15% I arkf 0'7
+
+18 % 2 1% 18 / 259 ' 3 12 % '13'/'
+12' 7t 2'/
+
+20%a
+I tpk *14%
+7/
+
+7%
+
+8% 3
+
+Pk T
+
+11% 3 8 ' k3 2%
+
+i O 20 30
+
+0
+
+a
+
+Base Markeung respondentsCI Which are the top three most effective marketing channels m dnvmg downloads of your apps on the App Store~ (multiple responses allowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 3 1
+
+We asked developers what their top three most effective marketing channels were for driving downloads of their apps on the App Store. Word of mouth ranked as an important marketing channel, particularly for small developers. So again, we need to better equip developers with guidance for leveraging word of mouth and other free or low-cost marketing tactics. Large and mid-tier developers were more likely to credit App Store featuring as an effective driver of downloads.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 041
+
+APL-APPSTORE 09126713
+
+71% regularly use Facebook; large and mid tier developers use more ad networks
+
+Ad Networks Regularly Used
+Facebook Admob/AdWords Twitter iAd Chartboost Taploy Flurry AdColony Applovin Fiksu Millennial Media Revmob
+yungle
+Playdaven Applift Mopub Jumptap
+Inmobi Taptica Leadbolt Ghspa Other
+
+10 20 3tl
+
+0
+
+T otal L a r e/Mi d Sma l l
+
+4P/ 25 % 79'/ 153t 11'k 11'k 10' / 8% 7% 6% 6'/. 6% 4% 3/ 3'/ 2'7 2% 2%
+2% I '/ 15 /s
+143
+
+IB k 22 /
+20 4 2 1"kt 19sk 15'k t 22% 7 15/ 7 14% 11 k 7'k '10%
+8%7 7'/ 7'/ 6'k 3% 6'/ 5'/ 3% 18 k
+49+
+
+BWk 27%. 18% 778 / 6 k 9'k 2'/ 4 '/ 3'/ 3'/ 5'k 0% 2% 1% 0'/
+0% 2% 0%
+0% 0'/ 74 %
+94
+
+Base Ad networks m top three effective channels
+
++Caution small base
+
+"Note large and mid size developers combmed due to small base sizesC2 Which ad networks do
+
+you use regularly to dnve paid dowlnoadsforyouriOSappz (multiple responses agowed)Note Arr d t p r t mall ti e r developers
+
+A PPLE CONFIDENTIAL 3 2
+
+For respondents in the previous question who indicated that they used ad networks, we wanted to learn which ad networks were most used, with multiple responses allowed. For this question, the results for large and mid were combined due to small base sizes.
+Facebook is by far the most used ad network.
+We also got deeper into what type of ad units developers use, so for those who are interested in learning more about that, reach out and I can share details.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 042
+
+APL-APPSTORE 09126714
+
+Banner ad units are the type used most regularly
+
+Ad Unit Types Regularly Used
+
+Banner Soaal network Interstitial Incentivized downloads Video Free daily deal app Television Pririt Other
+
+T otal L a rge/Mld S m a ll
+
+14%
+
+ia%
+
+12%
+
+13'/
+
+'18"/s T 10%
+
+3%
+
+4%
+
+4'/
+
+9'/
+
+1%
+
+2%
+
+2%
+
+2%
+
+/%
+
+9%
+
+3'/
+
+143
+
+49+
+
+94
+
+1 0 20 30
+
+0
+
+I
+
+I
+
+I
+
+I
+
+I
+
+i i
+
+Base Ad networks in top three effectivechannel
+
++Caution small base
+
+"Note large and mid size developers combmed due to small base sizes
+
+C3 What types of ad units do you use regularly to dnve downloads for your iOS appz (multiple responses agowed)Note, Arrows denote companson to small tier developers
+
+A PPLE CONFIDENTIAL 3 3
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 043
+
+APL-APPSTORE 09126715
+
+Just over one-third say social network ads are the most effective
+Ad Unit Types Most Effective
+
+Free daily deal app
+
+small base- shown in total
+
+Base Uses more than one type of ad unrtca And which type of ad umts do you thmk are most effecuver
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 044
+
+APL-APPSTORE 09126716
+
+79% say user retention is an influential metric in marketing decisions
+
+Influence on Marketing Decisions- User Retention
+
+88% 7
+
+83%
+
+4773 7%8
+M!7 L
+
+%t p2b % b tt 2b
+
+388't
+
+Total
+
+Large
+
+Mid
+
+Small
+
+· Do n't know · No t at all influential · Not influential Q Neither · So mewhat influential · Ve ry influential
+
+Base Markeung respondentsCS How would you rate the follouang metnrs m terms of their mfluenoe on your marketmg deosionst User retenuonNote Arrows denote oompanson to small uer developers
+A PPLE CONFIDENTIAL X
+now looking at metrics that influence marketing decisions 1st...
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 045
+
+APL-APPSTORE 09126717
+
+79% rate downloads as at least a somewhat influential metric in marketing decision-marking
+
+Influence on Marketing Decisions- Downloads
+100%
+
+at p2b nb tt 2b
+
+It gk
+80%
+
+80%
+
+41%
+
+'l0%
+
+20%
+Total 1892
+
+Large 73
+
+Mid 330
+
+Small 1287
+
+· Do n't know · No t at all influential · Not influential Q Neither · So mewhat influential · Ve ry influential
+
+Base Markeung respondentsCS How would you rate the follouang metnrs m terms of their mfluenoe on your marketmg deosionst DownloadsNote Arrows denote oompanson to small tier developers
+A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 046
+
+APL-APPSTORE 09126718
+
+77% say unique users are at least somewhat influential in their marketing decisions
+
+Influence on Marketing Decisions- Unique Users
+
+100%
+
+88% 1
+
+78%
+
+4%
+
+4'7 4'y
+
+%t p2b % b tt 2b
+
+80%
+
+80%
+
+'l0%
+
+20%
+Total 1892
+
+Large 73
+
+Mid 330
+
+Small 1287
+
+· Do n't know · No t at all influential · Not influential Q Neither · So mewhat influential · Ve ry influential
+
+Base Markeung respondentsCS How would you rate the follouang metnrs m terms of their mfluenoe on your marketmg deosionst Dmgue usersNote Arrows denote oompanson to small uer developers
+A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 047
+
+APL-APPSTORE 09126719
+
+Two-thirds say the install rate is an influential metric in marketing decision making
+
+Influence on Marketing Decisions- Install Rate
+100% 738 3% 39'
+80%
+
+at p2b nb tt 2b
+
+80% 'l0%
+
+3SSB
+
+20%
+Total 1892
+
+Large 73
+
+Mid 330
+
+Small 1287
+
+· Do n't know · No t at all influential · Not influential Q Neither · So mewhat influential · Ve ry influential
+
+Base MarkeungresponedntsCS How would you rate the follouang metnrs m terms of their mflu ence on your marketmg deosionst Install rateNote Arrows denote oompanson to small
+tier developers A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 048
+
+APL-APPSTORE 09126720
+
+Two-thirds say store rankings are influential in their marketing decisions
+
+Influence on Marketing Decisions- Store Ranking
+
+100%
+
+83% 1 s% T
+
+75% 1
+
+%t p2b % b tt 2b
+
+80% 2 7'ya
+80%
+
+'l0%
+
+20%
+Total 1892
+
+Large 73
+
+Mid 330
+
+Small 1287
+
+· Do n't know · No t at all influential · Not influential Q Neither · So mewhat influential · Ve ry influential
+
+Base Markeung respondentsCS How would you rate the fogouang metnrs m terms of their mfluenoe on your marketmg deosionst Store RankingNote Arrows denote rompanson to small uer developers
+A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 049
+
+APL-APPSTORE 09126721
+
+59% say user LTV is an influential metric when making marketing decisions
+
+Influence on Marketing Decisions- User Lifetime Value (LTV)
+72% 1 100%
+
+at p 2 b nb tt 2 b
+
+80%
+
+80%
+
+'l0%
+
+20%
+Total 1892
+
+Large 73
+
+Mid 330
+
+Small 1287
+
+· D on't know · N ot at all influential · Not influential Q Neither · Somewhat influential · V ery influential
+
+Base Markeung respondentsCS How would you rate the follouang metnrs m terms of their mfluenoe on your marketmg deosionst User hfetime value ILTV)Note Arrows denote oompanson to small tier developers
+A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 050
+
+APL-APPSTORE 09126722
+
+Half say average revenue per user is an influential metric when making marketing decisions
+
+Influence on Marketing Decisions- Average Revenue Per User (ARPU)
+
+100%
+
+60% 1
+
+64% 1 13%
+
+47% 18%
+
+ut p2b u b tt 2b
+
+80%
+
+60%
+33%3 'l0%
+
+20%
+Total 1692
+
+Large 76
+
+Mid 330
+
+Small 1287
+
+· Do n't know · No t at all influential · Not influential Q Neither · So mewhat influential · Ve ry influential
+
+Base Markeung respondentsCS How would you rate the fogouang metncs m terms of their mfluence on your marketmg deosionst Average Revenue Per User (ARPU)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 051
+
+APL-APPSTORE 09126723
+
+User retention, downloads and unique users are the most influential metrics in marketing decision making
+
+Influence on Marketing Decisions (% top- 2 box)
+
+83% 79% 79%
+
+89%
+
+79%
+
+84'4 76%
+
+88%
+
+77 7
+
+78% 76%
+
+68% 69'7 67,%69%
+
+83% 74%
+65%
+
+72% 66%
+
+59%
+
+56%
+
+64% 69%
+
+51%
+
+47%
+
+Downloads
+
+User retention
+
+· To tal (n=1682)
+
+Unique users
+
+Install rate
+
+Store Ranking
+
+II Large (n=75)
+
+· Mid (n=329)
+
+User Lifetime Value Average Revenue Per
+
+(LTV)
+
+User (ARPU)
+
+· Small (n=1278)
+
+Base Marketing respondentsO5 Row would you rate the following metncs in terms of their influence on your marketing demsionsvNote Arrows denote companson to small
+tier developers APPLE CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 052
+
+APL-APPSTORE 09126724
+
+Average revenue per user and LTV are the least influential metrics in marketing decision making
+
+Influence on Marketing Decisions (% bottom-2 box)
+
+16%
+
+18%
+
+13% 13,7
+
+14%
+
+15%
+
+11%
+
+11% 18%
+
+11%
+
+8%
+
+5%
+
+9% 7%
+
+5% 4% 4'7,
+
+8%
+
+6%
+
+5%
+
+5%
+
+5% 5%
+
+Average Revenue Per U s e r Lifetime Value
+
+User (ARPU)
+
+(LTV)
+
+· To tal (n=1682)
+
+Store Ranking
+
+Install rate
+
+II Large (n=75)
+
+Unique users · Mid (n=329)
+
+1%
+
+Downloads
+
+User retention
+
+· Small (n=1278)
+
+Base Marketing respondentsO5 Row would you rate the following metncs in terms of their influence on your marketing demsionsvNote Arrows denote companson to small
+tier developers APPLE CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 053
+
+APL-APPSTORE 09126725
+
+Now let's look at how our US developers approach international markets
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 054
+
+APL-APPSTORE 09126726
+
+80% say the majority of their iOS app business is
+domestic, with large developers more likely to have
+international users
+Majority of iOS App Business is Domestic
+
+BSMT
+
+17'ya
+
+Bgtrt
+
+Total
+
+Large
+
+Mrd
+
+Small
+
+· Dont know · No
+· Yea
+
+Base All respondentsEI Does the malonty of your iOSapp busmess come from customers m your local countrytNote Arr d
+
+t p r t mall t i e r developers A PPLE CONFIDENTIAL X
+
+of those we surveyed, 80% say the majority of their business is in the US. larger developers had more business outside the US
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 055
+
+APL-APPSTORE 09126727
+
+62% have expanded theiriOS app business internationally, with large and mid tier developers are
+pore lithelyto have dphe so
+23 TLJ 3 3'V
+
+BB Iir 71st
+
+Total
+
+Large
+
+Mrd
+
+· Dont know · No
+· Yea
+
+Base All respondentsg2 Have you expanded your iOS app business mternationagytNote Arr d t p r t agt ier d e velopers
+First, we wanted to simply see if our respondents had expanded their businesses internationally.
+Overall, 3/5 have expanded internationally. As we expected, this number was much higher for Large developers and dropped for Mid and then even lower for Small developers. All that said, it's good to see that each tier is above 50%. The years that we' ve spent championing the importance of international are clearly paying off.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 056
+
+APL-APPSTORE 09126728
+
+International sales reports and third-party research are the most common sources of information used when deciding which markets to enter
+Resources Used to Determine International Markets to Enter
+
+International sales reports Third party research reports and services
+Apple Google Play Amazon Microsolt Blackberry Other
+
+Total 45'I
+
+Lar ge a
+
+ZZF. 25%
+
+'Ia'I
+
+20 9
+
+Ml d
+
+Sma ll
+
+T I '4
+I 42%1I u;
+
+20%
+
+23ad
+
+10 %
+
+19 I
+
+9'I
+
+19% T 1 1% 1
+
+0%
+
+2%
+
+4'4 T 2%
+
+I 'y
+
+2%
+
+4% 2 2%
+
+I 'ya
+
+0%
+
+24'4
+
+T 5% 2 19 . 4 2 9'I I
+
+10 20 3tl
+
+0,
+
+a aa
+
+Base Ag respondentsE3 What resources do you use to determine which mternational markets to entert (multiple responses agowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 3 7
+
+Next we wanted to see how developers determine which markets to go after?
+As we often guide developers in making these decisions, they review their international download/sales reports and target the countries where they' re doing well. Secondly, look at research reports Finally, they also seek out guidance from their platform partners
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 057
+
+APL-APPSTORE 09126729
+
+About one-quarter of apps developers use market research to market internationally
+Services Used to Market Internationally
+
+Market research Local user acquisition channels Creative localization service Third-party publisher Local user acquisition agency Other
+
+Total 33 %
+
+Larg e 33% 4t '
+
+Ml d 30' / *t
+
+Sm all 35v r '
+
+33%. 11 '18'/ t Isak
+
+13/
+
+34/ T Ink t 10%
+
+14% 4 8'/
+
+14 / t ' 3%
+
+5'/
+
+43./
+
+34 / 3 4118 3 50'k .
+
+1 0 30 30
+
+0
+
+a
+
+a
+
+a
+
+a
+
+a
+
+at
+
+Base Ag respondentsE4 What services do you use to market internaoonagyt (multiple responses agowed)Note Arrows denote companson to small ocr developers A PPLE CONFIDENTIAL 3 8
+
+How do they go about marketing internationally?
+Similar to the previous slide, a little over j./4 use market research. Additionally, roughly j./3 of large developers also use local user acquisition channels and creative localization services. Small developers are less likely to use local UA channels or creative localization services, and we believe it is because they don't know where to start or which partners to trust.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 058
+
+APL-APPSTORE 09126730
+
+Translation, lack of local expertise, and costs of localization are the most common barriers to new market
+
+Barriers to New Market Entry
+
+Total Lar g e Mld
+
+Sma ll
+
+Capamty to translate apps
+
+4 1' /
+
+4 1'4
+
+42 '4
+
+4 1%
+
+No expertise of market
+
+3
+
+43/
+
+39 %
+
+3 9%
+
+· igh cost of localization Capamty to market locally Capamty to provide customer support
+
+f '3694 3 7 '/
+
+34'/
+
+2 7/4
+
+36 % 'T 29 a / ' 26/
+
+26/'
+
+, 27% 30% . 3 ' 23 %
+
+Tax and legal considerations
+
+14 /
+
+fa'/
+
+24,/
+
+11%
+
+Mobile adoption rates
+
+1 2'/ .20% ' 3 14' i ' T ' ll ' /
+
+No presence of pubhshing plafform
+
+119 /
+
+1 6 / 1 12%
+
+10 %
+
+Local bilhng options are hmited
+
+4'/
+
+94/s 1 4%
+
+3'/a
+
+Local currency not accepted by storefront
+
+2'/
+
+7'/ 1
+
+2%
+
+2%
+
+Other
+
+139 /
+
+14%
+
+17/ a
+
+3556
+
+162
+
+72 1
+
+2653
+
+10 20 313 40
+
+Base Ag respondentsE5 Are there anybarnersyou face to enter new marketst lmultiple responses agowed)Note Arrows denote companson to small bar developers A PPLE CONFIDENTIAL 3 9
+
+What are the barriers to entry in foreign markets: As expected, translation, lack of local expertise and costs of localization are the most common hurdles.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 059
+
+APL-APPSTORE 09126731
+
+63% want localization tools or guidance from the App Store to help market internationally
+
+Tools Wanted from App Store for International Marketing
+Localization
+
+Guidance on user acquisition channels for each market
+
+Guidance on cultural and market differences Other
+
+15% I 2%1
+13%1 16%
+
+63% 0%
+65% 63%
+
+46%
+3%1 44%
+
+57%1
+
+6% 3%
+
+50%1
+
+56%1
+
+· To tal (n=3556) · La rge (n=162)
+· Mid (n=721)
+· Sm all (n=2653)
+
+Base All respondentsE6 What marketmg tools or guidance would you Eke the App Store to provide to help you effecuvely marke internationagyt (multiple responses agowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 4 0
+What can we on the App Store do to help on this front?
+Consistent with the previous slide, developers are asking us to help localize, provide guidance on user acquisition channels and cultural and market differences. These are all areas the App Store is focusing on in the guidance we' re creating on entering new markets.
+Google is providing localization services at 3-S cents per word, which, by industry standard, is cheap. We need to consider what services we can be offering.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 060
+
+APL-APPSTORE 09126732
+
+China, the UK, and Germany are the most frequently cited new countries to expand to
+
+Top Countries To Expand
+
+Total Large Mld
+
+Small
+
+China United Kingdom Germany
+
+40 /
+
+47/
+
+! , .38'/i
+
+30 % 2 38/
+
+Japan
+
+g 31%
+
+304 8 T 35% T 20'/
+
+United States
+
+Sgq/q 20 ' %%d 1 27%
+
+France
+
+27 %
+
+31%,
+
+Canada
+
+25 %
+
+25 %
+
+Austraha
+
+28% 22%
+
+23%
+
+Brazil
+
+204
+
+288 / T 24/ 2 18%
+
+Mexico
+
+lipi d
+
+14%
+
+Ig /
+
+India
+
+t@%%d 20%q
+
+Spain Italy
+
+1 6% 1 6%
+
+14% 4 . 20% '2 1 6 ' / q 15q %%d 1 8 % 16 /q
+
+None of these
+
+15'/
+
+'15%
+
+10 20 3tl
+
+0
+
+Base Ag respondentsE7 What are the top countnes in which you'd hke to expand your business mternationallyt (multiple responses agowed)Note Arrows denote companson to small tier developers, Countnes with less than 20'7 suppressed
+A PPLE CONFIDENTIAL 4 1
+
+And geographically, where are developers looking to expand?
+No big surprises here as they' re focused on the top global markets: china (2), uk, germany (4) and japan Interesting to see that the large developers skew lower in the UK and US and higher in China and Japan. Given their maturity in the app space, they' re likely further ahead in terms of localizations than smaller developers.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 061
+
+APL-APPSTORE 09126733
+
+We wanted to understand which developers are using analytics tools and what tools they use.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 062
+
+APL-APPSTORE 09126734
+
+68% (92% of large and 85% of mid tier developers) use third-party analytic tools
+Uses Third-Party Analytics
+
+Total
+
+Large
+
+Mrd
+
+· No
+a Yea
+
+Base AllresponedntsC6 Cro you use third party analytic tool stNote Arrows denote companson to small tier developers
+We began by asking all respondents if they use third-party analytics tools. 68% do, with 92% of Ial'ge and 85% of mid tier developers using them.
+So we wanted to know which tools they used to make decisions about: · business models · new market expansion · acquisition marketing · and engagement marketing
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 063
+
+APL-APPSTORE 09126735
+
+36% of those who use third-party analytic tools use Google Analytics for business model development
+
+Third-Party Analytics Tools Used for Business Model
+
+Total Lar e Mi d
+
+Sm all
+
+Googel Analyti ca
+Flurry Analytica Mixpanel Localytics AppsFlyer · asOffers/Tune Other None of these
+
+I 30/a
+24%
+1 0'7
+
+33. %/' 25% 33% 1
+
+I30'3
+20 %
+
+14 /a t
+
+*11%
+
+3%
+
+10% 3 2%
+
+3%
+
+I '/
+
+3%
+
+2%
+
+1%
+
+1%
+
+3'/
+
+'14%
+
+'I 7 /
+
+12"/
+
+14%
+
+20%
+
+17 4
+
+.23' /
+
+30 %
+
+1 0 20 30
+
+%39
+
+09
+
+279
+
+791
+
+0
+
+a
+
+a
+
+a
+
+a
+
+a as
+
+Base Uses third party analytic toolsC7 What analytics tools do you useto make deosions aboutthefollowing aspects ofyour businesst (multiple responses allowed) Busmess model Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 4 4
+
+Google Analytics is the most common analytics tool used across the board. For business development, 36% use Google. 28% indicated they did not use any of the companies listed and did not specify "other", which may indicate the use of internal analytics tools.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 064
+
+APL-APPSTORE 09126736
+
+34% of those who use third-party analytic tools use Google Analytics for user acquisition marketing
+
+Third-Party Analytics Tools Used for User Acquisition Marketing
+
+Total Lar ge Mi d
+
+Sm all
+
+Google Analytica
+
+I 3 4% 3t l /
+
+ga% 3 ~ 37e k
+
+Flurry Analytica
+
+20/
+
+19/
+
+Mixpanel
+
+tyya
+
+9%
+
+7%
+
+Localytics
+
+3%
+
+9'k 7 3%
+
+3%
+
+AppsFlyer
+
+2%
+
+4%
+
+· asOffersT/une Adlu st Apsalar
+
+3/
+
+7 '/ f 5 '/ f 1' /
+
+I 'Y
+
+39'
+
+24/t
+
+1%
+
+1%
+
+3k
+
+1%
+
+Kochava Aclcff
+
+2%
+
+3%
+
+0'/
+
+I 'Ya
+
+5'/
+
+Other
+
+1 44k 14% a 10%
+
+None of these
+
+3 0%
+
+113 9
+
+791
+
+10 20 3tl
+
+0
+
+Base Uses third party analytic toolsC7 What analytics tools do you useto make deosions aboutthefogowing aspects ofyour businesst (multiple responses allowed) User acquisition marketingNote Arr d t p r t mall t i e r developers
+A PPLE CONFIDENTIAL 4 5
+
+34% use Google Analytics for user acquisition analytics. Similarly, around an third indicated they did not use any of the companies listed and did not specify "other".
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 065
+
+APL-APPSTORE 09126737
+
+Most developers who use analytics tools for user acquisition marketing don't pay anything
+Total Cost of Analytics Tools Uses for User Acquisition Marketing (Cost per Install)
+
+Total
+
+Largef Mid
+
+Small
+
+More than $4
+· More than $0 but less than $1 % $0
+
+Base Uses analytir tools for user acquismonCB What is the total cost of the analytics tool(s) you use for user acquisition marketmgt Average cost per installNote Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 4 6
+For UA, developers either measure cost by install or the cost annually, so we wanted to get a sense for both. This slide shows cost per install, and as you can see, 86% of developers don't pay anything for their UA. This could be because the analytics tool provider uses the developers' data for its own purposes and is therefore able to offer their services at no cost.
+[e.g., providing a multi-purpose SDK that tracks UA and also delivers ads]
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 066
+
+APL-APPSTORE 09126738
+
+Most developers who use analytics tools for user acquisition marketing don't pay anything
+Total Cost of Analytics Tools Uses for User Acquisition Marketing (Cost per Year)
+14ÃT
+
+Total
+
+Large
+
+Mid
+
+Small
+
+More than $10,000
+tO $2000 - $9999 I· More than $0 but less than $2000 I· $0
+
+Base Uses analytir tools for user aequi am onCB What is the total cost of the analytics tool(s) you use for user acquisition marketmgt Average cost per yea rNote Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 4 7
+The average cost per year for UA tools is consistent with the previous slide, with 85% of developers not paying anything for UA. 14% of large developers spend more than $10K annually
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 067
+
+APL-APPSTORE 09126739
+
+34% of those who use third-party analytic tools use Google Analytics for engagement marketing
+
+Third-Party Analytics Tools Used for Engagement Marketing
+
+Google Analytica
+
+Total Large Mid
+
+Sm all
+
+3 4% Td r y2 20% g aya /
+
+Flurry Analytica Mixpanel
+
+23r d
+
+i 4%
+
+33'Y 2 224
+
+Tl 'Y
+
+13'/
+
+*13" /
+
+10%
+
+Localytics Other None of these
+
+4'/
+
+0'/ f 3%
+
+141'
+
+I )%a 10%
+
+13%
+
+1 0 20 30
+
+0
+
+I
+
+I
+
+I
+
+I
+
+I
+
+i i
+
+Base Uses third party analytic toolsCT What analytics tools do you useto make deosions aboutthefollowing aspects ofyour businesst (multiple responses allowed) Engagement marketingNote Arr d t p r t mall t i e r developers
+A PPLE CONFIDENTIAL 4 8
+
+For engagement marketing, 34% of developers use Google Analytics. And again, around an third indicated they did not use any of the companies listed and did not specify "other", so internal analytics tools could be the reason.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 068
+
+APL-APPSTORE 09126740
+
+58% don't use any analytic tools for new market
+expansion
+
+Third-Party Analytics Tools used for Expansion to New Markets
+
+Google Analytica
+
+Total 22 %
+
+Large Mi d
+
+19 7
+
+2 0'7
+
+Sm all ,24%
+
+Flurry Analytica
+
+11% 12' 4
+
+t P'AT i o'7
+
+Mixpanel
+
+3'7
+
+4'7
+
+047s
+
+4%
+
+Localytics
+
+2%
+
+4'7 7
+
+1%
+
+1%
+
+Other
+
+9'7
+
+9'7
+
+0'ys
+
+9%
+
+None of these
+
+1 0 20 30
+
+039
+
+0
+
+I
+
+I
+
+09
+
+279
+
+791
+
+I
+
+I
+
+I
+
+i i
+
+Base Uses third partyanalytictoolsC7 What analytics tools do you useto make deosions aboutthefogowing aspects ofyour businesst (multiple responses allowed) Expansion to new marketsNote Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 4 9
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 069
+
+APL-APPSTORE 09126741
+
+Next, we wanted to know if and how developers use the guidance and tools we provide to them. And if so, how helpful are they?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 070
+
+APL-APPSTORE 09126742
+
+The mostcommon resourcesused to research iOS app
+business decisions are industry news and blogs, and
+
+Resources UsedtoResearch iOS App Business Decisions
+
+Total Large
+
+M ld
+
+Smal l
+
+Industry news and blogs
+
+Third party app analytics research
+
+Guidance rom a lat f orms net Google Play
+
+2167 BTV T 30%1 16%
+
+Amazon
+
+5%
+
+ltpk T 6'7 T 347 s
+
+Microsolt
+
+s r. 1 57. 1
+
+Blackberry Other developers
+
+0'k
+
+I 'k
+
+1%
+
+0%
+
+50%
+
+50 %
+
+44'k
+
+Expenmenting with apps in your porffolio
+
+Search engine research
+
+35%
+
+gmk 2 · 37 7.
+
+Expenence from other digital goods and marketplaces
+
+245' ,
+
+364 4 r 26%
+
+22%
+
+Ad networks Other
+
+105' 4
+
+14'2
+
+6%
+
+2'7 4
+
+6%
+
+7%
+
+Base Business respondentsDIQ What resources do you use to research how to make iDS app business deosionst (multiple responses affowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL X
+did not include Apple for benchmarking -- have corrected for future surveys
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 071
+
+APL-APPSTORE 09126743
+
+Two-thirds use industry news and blogs when researching how to make app marketing decisions; large
+
+Resources Used to Research App Marketing Decisions
+
+Total Large
+
+Mld
+
+Smal l
+
+Industry news and blogs
+
+Guidance from a la t f orms net
+
+Google Play Amazon
+
+Itl/ s
+
+25% 3 24%2 15%
+
+4'4
+
+5%
+
+O'V 1 4/
+
+Microsoft
+
+3%%d 5% 1
+
+3'y
+
+34/s
+
+Blackberry
+
+I '/
+
+3% 1
+
+1%
+
+t%
+
+Third party app analytics research
+
+Other developers
+
+Expenmenting with apps in your porffolio Search engine research Ad networks Expenence from other digital goods and marketplaces Other
+
+sg% 23 /
+
+3 3 %g
+
+J I 31/%
+
+32'/ p E 2g% ' 2 20%
+
+2 1 / ~ 32'/p ' 22%
+
+a%
+
+I'/
+
+3%%2d
+
+Base Markeung respondentsDS What resources do you use to research how to make app marketmg deosionst (multiple responses affowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL X
+did not include Apple for benchmarking -- have corrected for future surveys
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 072
+
+APL-APPSTORE 09126744
+
+Summary of App Store
+
+% Agreeing with statement (top-2 box)
+
+67'4
+
+67% 67%
+
+62%
+
+35%
+
+42%
+
+40%
+
+33%
+
+49%
+
+34%
+
+36%
+
+32%
+
+24%
+
+22%
+
+22% I 8%
+
+Provides the tools I need to successfully develop apps
+· To tal (n=2797)
+
+Enables profitability of my apps a Large (n=t47)
+
+Enablesdiscovery ofmy apps
+lg Mid (n=598 )
+
+Provides the tools I need to successfully market apps
+· S mall (n=2052)
+
+Base All respondentsA10 Flow would you rate the App Store on the followingoNote Arrows denote companson to small ker developers
+
+APPLE CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 073
+
+APL-APPSTORE 09126745
+
+Summary of App Store
+
+% Disagreeing with statement (% bottom-2 box)
+
+57%
+
+54%
+
+60% 57%
+
+51%
+
+53% 51%
+
+36%
+
+34% 32%
+27'4
+
+18% 167, 177 18%
+
+Provides the tools I need to successfully market apps
+· To tal (n=2559)
+
+Enablesdiscovery of my apps · ) Large (n=tta)
+
+Enables profitability of my apps
+8 Mid (n=534 )
+
+Provides the tools I need to successfully develop apps
+· ) Small (n=1911)
+
+Base Ag respondentsAI 0 Flow would you rate the App Store on the followingoNote Arrows denote companson to small ker developers
+
+APPLE CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 074
+
+APL-APPSTORE 09126746
+
+2 in 3 developers agree that the App Store provides tools
+to successfully develop apps
+
+App Store Rating- Provides tools I need to successfully develop apps
+
+63% 3 18%
+
+67% 3 17%
+
+67% 18%
+
+ut p2b u btt 2 b
+
+109'
+
+TII9'
+
+31999
+
+1393
+
+339i
+
+35%
+
+Total
+
+Large
+
+Mid
+
+Small
+
+g Don't know · Strongly disagree · S omewhat disagree g Neither · So mewhat agree · Strongly agree
+
+Base AllresponedntsA10 How would you rate the App Store on the foll owmgt Provides the tools I need to successfully develop appsNote Arrows denote companson to small tier
+developers A PPLE CONFIDENTIAL 3 1
+Here we asked developers about the tools that we provide and if they successfully help them to develop apps.
+-- Overall 2/3 either stated that they "Strongly" or "Somewhat agree" that we provide the tools they need to succeed. 18% fell in the negative camp. -- The numbers were pretty consistent across each tier. -- Generally speaking, developers are happy with the tools we provide.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 075
+
+APL-APPSTORE 09126747
+
+Only one-third agree that the App Store enables profitability of their apps
+
+App Store Rating- Enables profitability of my apps
+
+4233 f 2MS
+
+4033 f 3233
+
+12M
+
+17'Y
+
+'I 3'Y
+
+sat p2b sab tt 2 b
+
+2tgaA
+
+Total
+
+Large
+
+'293" 7 Mid
+
+Small
+
+g Don't know · Strongly disagree · S omewhat disagree g Neither · So mewhat agree · Strongly agree
+
+Base All respondentsAIB How would you rate the App Store on the fogowingt Enables profitabrlrty of my apps Note Arr d t
+
+p r t mall t ier developers A PPLE CONFIDENTIAL 3 2
+
+However, looking at whether the App Store enables profitability is another story.
+Overall, it's about evenly split between positive and negative. 35% either Strongly or Somewhat Agree that the App Store enables profitability while 33% either Strongly or Somewhat Disagree. Larger developers leaned more towards the positive while smaller developers, many of whom may not be in touch with the App Store, leaned slightly towards negative.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 076
+
+APL-APPSTORE 09126748
+
+Slightly more than half don't think the App Store enables
+discovery of apps
+
+App Store Rating- Enables discovery of my apps
+
+34e
+
+4ee t
+
+3MS
+
+52e
+
+3ms T
+
+51e T
+
+32e
+
+et p2b
+
+53e
+
+e btt 2 b
+
+25'ye
+
+Total
+
+Large
+
+Mid
+
+'l3tfk
+Small
+
+g Don't know · 5t r ongly disagree · S omewhat disagree g Neither · So mewhat agree · Strongly agree
+
+Base All respondentsAIB How would you rate the App Store on the fogowingt Enables discovery of my appsNote Arrows denote companson to small bar developers A PPLE CONFIDENTIAL 5 3
+Now how about discoverability of apps..
+There is much more negative sentiment here. Overall, 34% Strongly or Somewhat agree that the App Store enables discoverability and more than 50% fell into Strongly Disagree or Somewhat Disagree, with 32% strongly
+disagreeing.
+The negative sentiment was worse among mid and small tier developers; however, it's clear that this is an issue across the board.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 077
+
+APL-APPSTORE 09126749
+
+57% don't agree that the App Store provides the tools needed to successfully market their apps
+
+App Store Rating- Provides the tools I need to successfully market apps
+
+21 SS 5755
+
+2255
+
+lass 5
+
+2255
+
+5455 7
+
+aors
+
+5755
+
+Sat p2b
+
+5th t t
+
+2b
+
+34%
+
+Total
+
+Large
+
+iS"kt
+
+Mid
+
+Small
+
+g Don't know · 5t r ongly disagree · S omewhat disagree I Neither · So mewhat agree · Strongly agree
+
+Base AllrespodnentsAIO How would you rate the App Store on the foll owmgt provides the tools I need to successfully market apps Note Arrows denote compan son to small tier
+developers A PPLE CONFIDENTIAL 5 4
+We asked to be rated on whether the App Store proves the tools developers need to successfully market apps, and 57% do not agree that this is the case.
+We anticipate that iTC App Analytics and the App Store best practices we are creating for Apple Developer will help improve this rating in future surveys, but we need to be thinking about what more we can provide.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 078
+
+APL-APPSTORE 09126750
+
+Better analytics tools and discoverability are the business tools most requested by developers
+
+Requested Business Tools
+
+Total
+
+Anal tice net
+
+95 k
+
+Better analytics tools
+
+19 /
+
+lgata on downloads
+
+9%
+
+lgata on uninstalls
+
+1%
+
+Better sales data
+
+1%
+
+Better discoverability
+
+ISst
+
+Marketing help
+
+6%
+
+Better ratings and reviews
+
+6%
+
+Info on how to be a featured app
+
+5%
+
+More information about approval
+
+Information about revenue
+
+4%
+
+Better testing
+
+4%
+
+Better contacts with Apple
+
+4%
+
+Faster approvals
+
+3%
+
+Remove old apps
+
+I '7
+
+API submission
+
+1%
+
+Other
+
+7%
+
+No other needs
+
+1%
+
+Not sure
+
+29'
+
+Did not answer
+
+1853
+
+L arge M e d iu m Sm a l l 29% T 23%
+
+27'4 1 23% 1 17%
+
+11 k
+
+10 %
+
+8%
+
+34 1 1%
+
+1%
+
+3'k
+
+1%
+
+1%
+
+tgy
+
+15% 15%
+
+6%
+
+5%
+
+7'/
+
+s/.
+
+a/. 1 5'/.
+
+2%
+
+6%
+
+5/
+
+2%
+
+4'/
+
+6k 9'k 1 Mk 3'k
+0%
+
+4%
+
+5% 1 3%
+
+5%
+
+3%
+
+3%
+
+I '/e
+
+1%
+
+1%
+
+1%
+
+6%
+
+6%
+
+0%
+
+1%
+
+1%
+
+I '/
+
+33rd
+
+106
+
+389
+
+1358
+
+1 0 20 3tl
+
+0
+
+a
+
+a
+
+Base Business respondentsD28 What other tools would you kke the App Store to provide to help you make business deosions about your appstNote Arrows denote companson to small oer developers
+A PPLE CONFIDENTIAL 5 5
+
+So we asked what tools could we provide to help developers make better business decisions
+Analytics far outdistanced any of the other options and were of most interest to larger developers, which shouldn't come as a surprise. Discoverability, which we' ve now seen come up a few times throughout the survey, came in next, with everything else falling in under 10%.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 079
+
+APL-APPSTORE 09126751
+
+Improved discoverability and more analytics tools are the most requested marketing tools
+
+Requested Marketing Tools
+Total
+Better discoverability
+
+17%
+
+Better analytics tools
+
+I I%
+
+Data on downloads
+
+Data on uninstalls
+
+1%
+
+Info on how to be a featured app
+
+Better ratings and reviews
+
+IVYV
+
+Tnals/demos of apps Faster approvals
+
+Better contacts with Apple
+
+3%
+
+Information on users
+
+More informahon about approval
+
+3'Ya
+
+Better testing
+
+Soaal networking support
+
+2%
+
+Other
+
+7%
+
+No other needs
+
+1%
+
+Not sure
+
+Did not answer
+
+1682
+
+L arge M e d iu m Sm a l l
+
+27Y /
+
+79% T 22%
+
+2 7/ t * 23% *3 1 4 ' 4
+
+164/a 3 1 6 % 3 10%
+
+15'V 3 5'4 1
+
+11a/s 1' 1%
+
+T/
+
+11/ 1 7'/
+
+5'/
+
+'ls/ 't 6%
+
+4% 3% 'I% 5% 0'/ 5% 1 3% 99' 0'/
+oy
+29%
+
+64/a 4% 3% 3'/ 4'4 3'/ 1% 7'V I '/
+. 28/ 2
+
+4% 3%
+37v r k
+
+75
+
+329
+
+1278
+
+10 20 3tl
+
+0
+
+Base Markeung respondentsD29 What other tools would you Eke the App Store to provide to help you effecuvely market you appstNote Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 5 6
+
+Similarly, among Marketing respondents, improved discoverability and more analytics tools are the most requested tools.
+For discoverability, we are working with the Search team to provide more detailed App Store Optimization guidance. And iTC App Analytics will have a significant impact once its
+released.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 080
+
+APL-APPSTORE 09126752
+
+71% are aware of the App Store Marketing Guidelines, with higher awareness among large and mid tier developers
+Aware of App Store Marketing Guidelines
+
+86NT 77'7 7
+71g'
+
+Total
+
+Large
+
+Mid
+
+· No
+a Yea
+
+Base All respondentsDtt Are you aware of the App Store Marketmg BurdehnestNote. Arrows denote rompanson to small tier developers
+As you know, the App Store Marketing Guidelines provide developers with brand identity guidance, localized Download on the App Store badges, and the latest device images for their marketing purposes. We wanted to find out whether developers were aware of the guidelines and how regularly they used them. Overall, 71% of developers are aware of them. 86% of large, 77% of mid, and 67% of small developers.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 081
+
+APL-APPSTORE 09126753
+
+75% have visited the App Store Marketing Guidelines within the past year, with large and mid tier developers visiting more recently
+Last Visited App Store Marketing Guidelines Page
+
+24W
+
+IdryM
+
+2SW
+
+2SW
+
+12 months ago or more 8 6 to less than 12 months ago
+
+· Between I to less than 6 months ago
+
+· Within the last month
+
+Total
+
+Large
+
+Mid
+
+Small
+
+Base Aware of App Store Markeung Oui dehnesD12 When was the last time you visited the App Store Marketing Curd eknes pagerNote Arrows denote rompan son to small tier developers
+A PPLE CONFIDENTIAL S a
+75% have visited the App Store Marketing Guidelines within the past year, with large and mid tier developers visiting more recently.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 082
+
+APL-APPSTORE 09126754
+
+41% rate the App Store Marketing Guidelines' quality of guidance as very good or excellent
+Ratings of App Store Marketing Guidelines- Quality of guidance
+
+3yp
+
+Total
+
+Large
+
+3drB Mid
+
+Small
+
+· Do n't know
+· Poor · Fair · Ve ry Good · Excellent
+
+Base Aware of App Store Markeung GuidehnesD13 How would you rate the App Store Marketmg Guideknes on the follouangt Quahty of guidanceNote Arrows denote companson to small uer developers
+A PPLE CONFIDENTIAL 3 9
+We asked developers to rate the App Store Marketing Guidelines on the quality of guidance. Note -- this series of questions is missing the mid-point of "good" so it's only a 4 pt scale, so "fair' is probably equal to good/OK.
+41% rate the App Store Marketing Guidelines quality of guidance as very good or excellent
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 083
+
+APL-APPSTORE 09126755
+
+43% rate the App Store Marketing Guidelines' ease of use as excellent or very good
+Ratings of App Store Marketing Guidelines- Ease of use
+
+Total
+
+Large
+
+Mid
+
+Small
+
+· Do n't know
+· Poor · Fair · Ve ry Good · Excellent
+
+Base Aware of App Store Markeung Oui dehnesD13 How would you rate the App Store Marketmg Guideknes on the follouangt Ease of useNote Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL X
+We asked developers to rate the App Store Marketing Guidelines on their ease of use. 43% rate the marketing guidelines ease of use as excellent or very good.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 084
+
+APL-APPSTORE 09126756
+
+Half rate the access to device image assets as very
+good
+Ratings of App Store Marketing Guidelines- Access to device image assets
+
+17Y
+
+17'y
+
+76ty E
+
+Total
+
+Large
+
+Mid
+
+Small
+
+· Do n't know
+· Poor · Fair · Ve ry Good · Excellent
+
+Base Aware of App Store Markeung GurdelrnesDIS How would you rate the App Store Marketmg Guideknes on the follouangt Access to device image assetsNote Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 6 0
+We asked developers to rate access to device images in the guidelines.
+If we look at the red, we can see that only a small percentage consider the access to device images to be poor.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 085
+
+APL-APPSTORE 09126757
+
+One quarter say the guidelines help in improving app marketing is poor
+Ratings of App Store Marketing Guidelines- Helps improve my app marketing
+
+17'y ·
+
+22IN,
+
+Total
+
+17M Large
+
+13ry, Mid
+
+Small
+
+· Do n't know
+· Poor · Fair · Ve ry Good · Excellent
+
+Base Aware of App Store Markeung GuidehnesD13 How would you rate the App Store Marketmg Guideknes on the follouangt Helps improve my app markeungNote Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 6 1
+Here's where we see a jump in the red. 24% of respondents rate the App Store Marketing Guidelines as poor in helping to improve their app marketing.
+22% overall rate the guidelines as being very good or excellent.
+We are looking at ways to test and improve the effectiveness of our guidelines. The guidelines serve Apple from a corporate identity standpoint, but we need to further validate with developers that it helps their marketing as well.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 086
+
+APL-APPSTORE 09126758
+
+The marketing guidelines access to image assets is the highest rated
+
+Ratings of App Store Marketing Guidelines (% rating excellent/ very good)
+
+51%
+
+55%
+
+53%
+
+49%
+
+43% 44%' 42'7, 43%
+
+42% 42'4
+
+39%
+
+42%
+
+22%
+
+26%
+
+22% 19%
+
+Access todevice image assets · To tal (n=2481)
+
+Ease of use I L a rge (n=155)
+
+Quality of guidance
+lg Mid (n=553 )
+
+· alps improve my app marketing · S mall (n=1773)
+
+Base Aware ofApp Store Markekng GuidelinesD13 Flow would you rate the App Store Marketing Guidelines on the followingo --Summary PositiveNote Arrows denote
+companson to small Sar developers APPLE CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 087
+
+APL-APPSTORE 09126759
+
+73% have usedthe Download on theApp Store badge, with usage more common among large and mid tier developers
+Used Download on the App Store Badge
+
+86ryt
+
+Total
+
+Large
+
+Mrd
+
+· No
+a Yes
+
+Base All respondentsD14 Have you used the Download on the App Store badge m your marketrngsNote Arrows denote eompanson to small her developers A PPLE CONFIDENTIAL 6 2
+73% of all developers have used the Download on the App Store badge, with 86% of large and 82% of mid tier developers using it
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 088
+
+APL-APPSTORE 09126760
+
+77% regularly use the Download on the App Store badge
+Regularly Uses Download on the App Store Badge
+
+77N
+
+7BM
+
+Total
+
+Large
+
+Mid
+
+Small
+
+· No
+a Yea
+
+Base Used Download on App Store Bade in MarketmgDIS Do you regularly use the badge in your marketmg creativetNote Arr d t
+
+p r t mal lt i e r developers A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 089
+
+APL-APPSTORE 09126761
+
+69% think the Download on the App Store badge improves engagement with their marketing creative
+Download on the App Store Badge Improves Engagement
+31N
+
+Total
+
+Large
+
+Mid
+
+Small
+
+· No
+a Yea
+
+Base Used Download on App Store Bade m MarketmgD16 Do you thmk the badge helps improve engagement with your marketing rreativetNote Arrows denote rompanson to small tier developers
+A PPLE CONFIDENTIAL 6 3
+We' ve run a handful of tests on the effectiveness of the Download on the App Store badge but we' re looking to research this further this year. When we put it to developers, 69% of developers say yes, the Download on the App Store badge improves engagement with marketing creative. As you can see, this response was quite consistent across all tiers.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 090
+
+APL-APPSTORE 09126762
+
+60% of those who don't think the Download on the App Store badge improves engagement with the creative say
+
+Reasons Download on the App Store Doesn't Improvement Engagement with Creative
+
+Users know whereto download, badge isnot needed Own caff-to-schon is more effective Creative targets multiple plafforms
+Looks bad on my marketing (design) Didn t fit on my marketing (size)
+We tested it and it drdn t perform as well Other
+lgon t know
+
+11% 13%
+9%
+10% 10% 10%
+9'7 6%
+10%
+10% 'l,1
+13%
+
+33%
+
+28%
+
+2% 18%
+
+30%1
+
+21% 18%
+
+26'7 1
+
+44% 1
+
+60% 64%
+58%
+· To tal (n=796) · ) Large/Mid* (n=241) · ) Small (n=555)
+
+Base Doesn't think badge helps improve engagement "Note large and mid size developers combmed due to small base sizes D17 Why don' t you thinkthe badge helps improve engagement eath your marketing creativez (multiple responses allowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 6 4
+For the 31% who said no, we wanted to find out why not. Developers could select multiple responses. · 60% say users already know where to get the app · 44% of large and mid-tier developers said their own call to action was more effective (Note that large and mid sizes were combined due to small base sizes.)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 091
+
+APL-APPSTORE 09126763
+
+Half have used Apple device images in their marketing, with large and mid tier developers more likely to have used them
+Used Apple Product Images in Marketing
+
+5356 Total
+
+Large
+
+55NT Mrd
+
+· No
+a Yea
+
+Base All respondentsDIB.Have you used the provided iPhone, iPad, or iPod touch product images m your marketmgtNote Arr d t
+
+pr nt
+
+all t ie r developers A PPLE CONFIDENTIAL 6 5
+
+We then asked developers if they have used the device images we provide. Half have used Apple device images in their marketing, with large and mid tier developers more likely to have used them
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 092
+
+APL-APPSTORE 09126764
+
+89% say the Apple device images improve their creative's effectiveness
+Apple Product Images Improve Creative Effectiveness
+
+89%
+
+Total
+
+Large
+
+Mrd
+
+Small
+
+· No
+a Yea
+
+Base Used product images in marketingD19 Do you think the images help improve the effectiveness of your creativetNote Arrows denote companson to small tier developers A PPLE CONFIDENTIAL 6 6
+Of those who do use them, 89% say the Apple device images improve their creative's effectiveness. This was quite consistent across all tiers.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 093
+
+APL-APPSTORE 09126765
+
+31% who don't think the Apple device images improve the effectiveness of their creative say the brand
+
+Reasons Apple Product Images Don't Improve Creative Effectiveness
+
+Brand guidelines are too restnctive
+
+Total
+
+Large/ Mtd
+
+Small 22%
+
+P refer to use genenc devices to be plafform agnostic 2 2 % lg%
+
+Doesn t fit with our design
+
+21st'
+
+We tested it and it didn t perform as well
+
+I l%
+
+12%
+
+Competitors' brand guidehnes are less restnctive Space docent allow Competitor's device is more effective
+
+14'7
+
+16% 14 7
+
+14 %
+
+6%
+
+Other
+
+16%
+
+Dontknow
+
+27%
+
+16 26 ,2t l
+
+a
+
+a
+
+Base Doesn' t think product images help improvementeffectiveness "Note large and mid size developers combmed due to small base sizes D26 Why don' t you thmk the images help improve the effectiveness of your creabvet (multiple responses allowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 6 7
+
+For those who didn't think that the device images were effective · 31% say the guidelines around their use are too restrictive · 14% had tested the images to gauge performance and determined that they were not effective This is another area that we are looking to run more tests on ourselves this year to encourage developer adoption of the brand.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 094
+
+APL-APPSTORE 09126766
+
+43% say at least some of their apps have previews, with large tier developers more likely to have previews on at least some apps
+Apps have Previews on App Store
+
+Total
+
+Large
+
+Mrd
+
+Cw No
+· Yes, some of the apps have prevrews I Yes, all the apps have prevrews
+
+Base All respondentsD24 Do yourapps have app prewews on the App StoretNote Arrows denote tompanson to small ber developers
+We wanted to gauge sentiment on other features we offer, such as App Previews. 61% of large developers say at least some of their apps have previews.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 095
+
+APL-APPSTORE 09126767
+
+28% of thosewho don'thave app previews say the footage is too difficult to capture, while 27% are waiting
+Reasons Apps Don't Have Previews
+
+Footage is too ddficult to capture Waiting to submit an app update Not an effective marketing tool for my category Preview guidehnes are too restnctive Womed my app will get re)ected because of the preview Previews aran t localized Other Dont know
+
+T otal 28 %
+
+Lar g e M id 27' %%d 30%
+
+Sma l l 27'/
+
+27 %
+
+zf f l %%d 2 5%
+
+28'/
+
+14'7
+
+13' /
+
+l4 '/
+
+14'/
+
+11'%%d 24'7 T Is a %%d 4 9 %
+
+10'7
+
+1 9"/s 7 32 %
+
+9'/
+
+'1%
+
+10'/ 1 6'/ , 7 3'7,
+
+23a%%d 2tl/4
+
+I/%
+
+14/
+
+32V , 1 23% 13/, 2 1 9 /
+
+1 0 20 30 40
+
+a
+
+a
+
+a
+
+a
+
+a as
+
+Base Apps don' t have previews on App StoreD23 Why don' t your apps have app previews on the App Storer (multiple responses agowed)Note Arrows denote companson to small tier developers
+A PPLE CONFIDENTIAL 6 9
+
+For those who don't have any previews on the App Store we asked why not. 28% say the footage is too difficult to capture, while 27% are waiting to submit an app update.
+24% of large developers say the preview guidelines are too restrictive. App Review policy around app preview footage has changed since this survey was sent out, so it will be interesting to see whether this percentage changes in future surveys.
+Open answers for "other" responses included npreviews are not within my skill set" nno capacity to explore this feature", "limited resources" "wasn't even sure what uapp previews" were until I just Googled it" "haven't gotten around to it yet", "haven't had time" "can't justify the cost" or "effort vs reward"
+We have been working with the Analytics team to measure the conversion rate of apps with app previews, and it has been determined that they are effective in improving conversion rate. When we are able to share this with developers it will encourage wider adoption.
+We also need to provide better guidance on how to create app previews so that developers are able to create great app previews on their own.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 096
+
+APL-APPSTORE 09126768
+
+60% have used TestFlight
+Large and mid tier developers are more likely to use TestFlight
+Uses TestFlight
+404'
+
+73yf
+
+Total
+
+Large
+
+Mrd
+
+Small
+
+Base All respondentsD21 Do you use TestFBgbt to beta test rOS appstNote Arrows denote eompanson to small ocr developers
+We then asked developer about TestFlight usage. -- 60% overall use TestFlight, with Larger developers skewing higher at 73% percent.
+
+· No
+a Yea
+A PPLE CONFIDENTIAL 7 0
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 097
+
+APL-APPSTORE 09126769
+
+29% of those who don't use TestFlight use another services; 26% didn't know about it
+
+Reasons TestFlight is not Used
+
+Large/
+
+Total Medium Small
+
+Dse another service
+
+'22% '7
+
+Didn t know about it
+
+l i'% 2 3 0 %
+
+Plan to use in future
+
+Test group size limitations
+
+159' 1' i 1 %
+
+Beta Review Process is a hassle
+
+9% 1 0 '/
+
+Too comphcated No need/not relevant Need to test other platforms
+
+24/s
+
+2%
+
+2%
+
+No time/too busy to test
+
+Dont have testers
+
+Other
+
+Dont know
+
+1%
+
+0%
+
+10 20 3tl
+
+0
+
+Base Does not use TestFkghtD22 Why don' t you use TestFhghtz (multiple responses agowed)Note Arrows denote companson to small oer developers
+
+A PPLE CONFIDENTIAL 7 1
+
+For those who don't user TestFlight, we asked why:
+29% user another service (42% of large/medium do so) 26% didn't know about it (skewing much higher for small developers 30%). We need to get better about communicating our existing best practices documentation, we have a TestFlight page on Apple Developer.
+Open answers for "other" responses included: nI don't know any testers" nI use a very small test group" "Never thought about it" "Development takes most of my time" "It didn't work on my cheap Android phone" "On my to-do list"
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 098
+
+APL-APPSTORE 09126770
+
+70% of those with paid apps use our 100 promo codes for their iOS apps
+Uses Promo Codes for iOS Apps
+
+ABMT
+
+Total
+
+Largef Mid
+
+Small
+
+· No
+a Yea
+
+Base Respondents with paid appsD26 Do you use promo codes for your iOS appstNote Arrows denote companson to small tier developers
+For respondents withpaid apps, we asked whether they used our 100 promo codes. 70% do.
+
+A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 099
+
+APL-APPSTORE 09126771
+
+Not knowing about promo codes or promo codes not fitting with business model are the most common reason
+
+Reasons Promo Codes Not Used
+Total L a rge/Mld S m all
+
+I didnt know about them Do can t fit with bu siness model Not needed
+
+27%
+
+I 20Y. R2 043. T«Y
+
+149'
+
+T /% T 13' 4
+
+Not effective
+
+·avantbedtime
+
+5'/
+
+6/
+
+5%
+
+Complicated or difficult
+
+4'/
+
+No real reason
+
+Not available for in-app purchases
+
+Not apphcable to app type
+
+0//s
+
+2%
+
+Dont trust reviewers
+
+Did not answer
+
+tl%
+
+332
+
+53
+
+279
+
+10 20 3tl
+
+0
+
+Base Doesn't use promo codes for iOS appsD27 Why don't you use promo codesr (multiple responses affowed)Note Arr d t
+
+pr t
+
+af fti er d evelopers A PPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 1 00
+
+APL-APPSTORE 09126772
+
+So, what have we learned' ?
+· Avoid major cultural holidays Discoverability and analytics are the top asks from developers
+· Many developers have little to no marketing budgets · We need to demonstrate effectiveness of our tools using data · We need to continue to demonstrate the ROI of localization · Developers are looking for guidance to help them make smarter business decisions
+In short, we learned a lot. Here are some of our key takeaways: ·We won't be sending this survey out before a major cultural holiday again. · Better discoverability and analytics are the top asks from developers. We are continuing to refine our guidance on App Store optimization, and the release of ITC App Analytics this
+quarter will definitely make strides in addressing these pain points · Our scaled developer outreach needs to provide actionable guidance for the 66% of all developers who are operating on little-to-no marketing budget. · If we want to influence adoption of our features and tools, we need to have data to support their effectiveness. ·We need to demonstrate ROI of localization and provide local market expertise, which we' re working on providing as part of our scaled developer outreach. ·We need to help developers make smarter business decisions on business models, pricing strategies, engagement and monetization. We need to provide more transparency on
+how the App Store works (e.g., store turn). And we need to better communicate the existing guidance we have.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 1 01
+
+APL-APPSTORE 09126773
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3800. 1 02
+
+APL-APPSTORE 09126774
+
+

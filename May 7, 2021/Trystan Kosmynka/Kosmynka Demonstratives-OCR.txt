@@ -1,0 +1,268 @@
+Epic Games, Inc., v. Apple Inc.
+Testimony of Trystan Kosmynka
+
+Approximate App Submissions/Rejections
+
+Number of Submissions
+
+Average Rejection Rate
+
+Number of Rejected Submissions
+
+5,176,583
+
+33/0
+
+1,694,664
+
+I ·
+
+4,793,826
+
+35/0
+
+1,697,787
+
+4,808,685
+
+36/o
+
+1,747,278
+
+Kosmynka Demo 1
+
+App Review Team
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+iOS, macOS, tvOS, watchOS,
+TestFlight
+
+Policy and Esca lations Notables
+
+ASI ARC
+
+Expedites
+Developer Advocates
+
+Training Content S. Communications
+
+Business Excellence
+
+Projects S. Infra
+Tech Ops
+
+ARB
+
+Kosmynka Demo 2
+
+Pp view T~arn
+
+different languages
+
+· C
+- cc
+100,000
+average
+App Store submissions
+per week
+
+500
+human experts
+Kosmynka Demo 3
+
+Web App User Experience
+
+· '2 ·
+2048
+Play204$ Game Online Join the numbers and get ~ to the 204B tile!
+
+TO@TOOM
+
+4 2
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+B· . ·
+
+B r', ,
+
+ir I · ~
+
+Kosmynka Demo 4
+
+App Review Process
+
+Static Analysis
+
+Dynamic Analysis
+
+MOZART
+
+Human Review {Magellan}
+
+Kosmynka Demo 5
+
+App Review Process
+
+DT App Analyzer
+App Similarity
+Z Strings App
+Transparency
+
+Static Analysis
+
+Dynamic Analysis
+
+MOZART
+
+Human Review {Magellan}
+
+Kosmynka Demo 6
+
+App Review Process
+
+Static Analysis
+
+Dynamic Analysis
+
+MOZART
+
+Human Review {Magellan}
+
+App Transparency
+Mercury
+
+Kosmynka Demo 7
+
+App Review Mercury Dynamic Analysis
+Kosmynka Demo 8
+
+App Review Process
+
+Static Analysis
+
+Dynamic Analysis
+
+MOZART
+
+Human Review {Magellan}
+
+Kosmynka Demo 9
+
+App Review Process
+
+Static Analysis
+
+Dynamic Analysis
+
+MOZART
+
+ItP Human Review {Magellan}
+
+Kosmynka Demo 10
+
+Human Review
+
+·
+
+·
+
+INSH ÃSifififif
+
+~ S I S O O OS S I S
+
+· SI S ~
+
+I SA
+
+Sg
+
+Kosmynka Demo 11
+
+Post App Review
+
+Submit
+Resolve & Approve
+
+Review
+
+Support Developer Questions
+
+Send Rejection Details
+
+App Store Connect Resolution Center https://appstoreconnect.apple.corn
+Contact App Review
+https://developer.apple.corn/a pp-store/review/
+Appeal a Rejection
+https://developer.apple.corn/contac/tapp-
+store/?topic=a ppea I
+Request a Phone Call Use Resolution Center to request a call
+Kosmynka Demo 12
+
+2020 App Submissions/Rejections
+J I ·
+
+215,000 Rejected for Privacy Guideline Violations
+
+· Rejected · Approved
+
+Kosmynka Demo 13
+
+

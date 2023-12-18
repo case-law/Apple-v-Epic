@@ -1,0 +1,1329 @@
+Unitrst States District Court
+
+ol
+
+Northern District ofCslifomis
+
+Case No. 4:20-ev-0564DYGR
+
+Case Title E isGarrroaIac. v. 4 Is, Iae
+
+Exhibit No. DX-4561
+
+Date Entered
+
+Sluro Y. Sosllc, Clsrk
+
+aa
+
+DsosryOlsrk
+
+Project Liberty Update
+July 1, 2020
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX4561.001
+
+EPIC 04036371
+
+Agenda
+Legal strategy
+Business strategy Overview Timeline Price reduction Sustainable platforms Payment system hotfix and related code New payment flow UX PR Push Communication update Communication with partners SAC POSA Card
+
+EPIC 04036372
+
+Legal Strategy Update
+e Ilvr Y n
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.003
+
+EPIC 04036373
+
+Business Strategy
+· Go al : On Apple and Android mobile devices, publishers allowed to offer 1) third party payment options for apps on the Apple App Store and Google Play 2) seamless third party app store functionality
+· Str a tegy: 0 P r o p ose in writing to Apple and Google the goals 0 I f e ither platform is willing, negotiate acceptable timetable for implementation 0 I f e ither platform is unwilling, hotfix option into FN for users to select Epic payment process · Pro p o sed date for hotfix is Thu Aug 13: This isafter13.40 (Aug 4) but before S14 (Aug 27) · Per m a nently adjust pricing across all platforms such that Apple and Google mobile payment platforms are more expensive (other payment platforms pass savings directly to players) 0 I f e ither platform blocks updates after competing payment platforms are added, FN mobile enters "sustainable platform" phase
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.004
+
+EPIC 04036374
+
+Overview Timeline
+· As s u mes Apple/Google do not accept proposal e As s umes dev work for sustainability/payments are not limiters · Po i nt of "no return" from pricing change is currently August 11 · Ho t fix occurs Aug 13, two weeks before Marvel Season
+
+Jun 30
+
+JuI 20
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.005
+
+EPIC 04036375
+
+Price Reduction (USD)
+
+1,000 V-Bucks 2,8 00 V-Bucks
+
+Apple I Google Pricing lunchanged)
+Updated Pricing
+% Epic Discount
+Net Revenue onApple/Google
+(30% lo App(cueoogle, using old pdcesl
+Implied Net Revenue on Epic Pay
+(Assumes 12% pleNum fee" on Epic Pey/
+Net Revenue onSony/MSFT/Nintendo
+(30% to SonyndSFT1Nintendo, using new priceel
+
+$9 99 $7.99
+200/o
+$6.99 $7.03 $5.59
+
+$24.99 $19.99
+20% $17.49 $17.59 $13.99
+
+5,00 0 V-Bucks $39.99 $32.99
+18ok $27.99 $29.03 $23.09
+
+13,500 V-Bucks $99 99 $81.99
+18o%%d $69.99 $72.15 $57.39
+
+Prices change on day of hotfix (Aug 13). Need to be configured by Aug 4. Dependencies: Pre-brief appropriate partners (console, etc) starting two weeks from hotfix (July 20).
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.006
+
+EPIC 04036376
+
+Sustainable Platform Features
+· Two SustainablMeodes "Mid Season" --All platforms are on 13.xx
+·
+Challenges, content, and events already in the build will continue to be unlocked. Content that was "Work in Progress" when the build shipped will not be available -- challenges are the main 'late season' change The later we "sustain" a release the less impact in a season Only previous LTMs and Store content are available "Out of Season" --Other platforms receive S14
+·
+All Battle Pass screens and progress go away E.g. no challenges
+EPIC 04036377
+
+Sustainable Platform Timeline
+· 07 / 21: FN 13.30 o Sustained Release changes are live and can be tested against future backends 0 If problems are found fixes can be made in 13.31 or 13.40
+· 07/XX: 0 Test release of independent EGS / GP Android builds
+· 08 / 04: FN 13.40 o Ideally run a final test on 13.30 compatibility by holding Fortnite 13.40 on Google Play for 1-2 hours due to 'a problem'
+EPIC 04036378
+
+Payment System Hotfix
+· In g eneral we should be ready with the hotftx and UX llew for 13.40 (Uve Aug 4, Submitting July 31)
+· Wo rk Remaining o Enable and verify web payment flow on iOS (in progress) o Extend catalog code to support multiple RMT storefronts (almost complete) o Ul work to present payment options. (beginning soon) o Reverse engineering pass on binary to gauge detectability (not started) o Any fallout from the above and QA pass o Allow Infosec to attempt to hack the hotfix code and reveal the intent
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.009
+
+EPIC 04036379
+
+Slide 9
+
+who is on point from infosec to support? Reassigned to David Nikdel
+AleeShobin, 7/1/2020
+
+I added the 13.40 cert date as a sub bullet on the timeline and added it here as well for ref.
+Alee Shab>n, 7/1/2020
+
++
+
++
+
+How much time does Infosec need to try to hack the code? Should the time when the build is submitted to Apple/Google be on the master
+
+timeline? Reassigned to Alee Shobin
+
+Ed Zobnst 7/1/2020
+
+REDACTED FOR PRIVILEGE
+
+oavid Nikdel, 7/1/2020
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX-4581.010
+
+EPIC 04036380
+
+s 4 ·
+
+·
+
+·
+
+·
+
+I
+
+·
+
+·
+
+·
+
+·
+
+·
+
+$9.99
+
+624.88
+
+699,$9
+%le~
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.011
+
+EPIC 04036361
+
+·
+
+·
+
+·
+
+·
+
+·
+
+t ··
+
+·
+
+BC
+
+· ·
+
+·
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.012
+
+EPIC 04036362
+
+·
+
+·
+
+·
+
+·
+
+·
+
+t ··
+
+·
+
+BC
+
+· ·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.013
+
+EPIC 04036363
+
+·
+
+·
+
+·
+
+·
+
+·
+
+t ··
+
+·
+
+BC
+
+· ·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.014
+
+EPIC 04036364
+
+·
+
+·
+
+·
+
+·
+
+·
+
+t ··
+
+Q PC
+
+· ·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.015
+
+EPIC 04036365
+
+·
+
+·
+
+-
+
+·
+
+·
+
+·
+
+i 4
+
+P
+
+·I ·
+X99
+
+' ·I
+et9.99
+
+·I ·
+999.99
+
+·
+
+·
+
+99t.99
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.016
+
+EPIC 04036366
+
+Speaker Notes for Slide 15
+Make players aware that they are getting the discounted price
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561. 01 7
+
+EPIC 04036387
+
+UX Flow
+
+ACTION ITEMS
+
+xxxxxzzx»RSR»xfitx«z«4R!E>xezxexxPRS»fieefi"R feixc xxfi' 'x>S!R cce!x Nfizs zxx> ! ',»xz»Nz»NRNNR~RLR'RR~NRRRRR--ZRRSRR~LR-RRR~PR~NPRNRRNSRRRRNNRZRNNRSR»NppRtRCNRRHRCNRN«NxNxNxNxNxeNxCN!Rxc«eRvNfi»RNZ»NRRRNRpNQRS-NNRNNANP-- xxe-x»xzzsRztzexffiN«»HRRR«»NR«RN»PcRc~R'"XtHfNk«»zNp«ÃN(Cf!'tf:!:-S::zv"x"--:--Z
+RMKRNSNRxNRNRNRC x :',fi»NxNxsNSRf>RReSfz»eexl»ttfxd»zRx'xN.eERxExRev«x'voffs'"fiifpCixR'xcPxÃ'xexxa' xx'RxÃs' xR.'PRxNRZxNRNxRNzRzxRRNcfRNcixxNRRzsN«RxxRRzRxx»>xf&'izNx' Rs'fNi'x"xRc"fNix'BeaHzRRxxNRHxRSNxEzSRZxRRzNRxxtNxcxxxcvx>x:"eP,xRsxaxHx»tRRvfRixRNxR!R«Hf(RxiNRx«xRxeRxPvxCc"fC' ei».xR:tzRtzfRixxRxxz~vxxxzxxxR»ReRNZxR«NVxCRxxxNRx«zx»xRNxf>RcSNCPERNNNz(NcRz»NR(SfNRiRfNtR!N,*»cx"Cx!NZCsfiN:»:!tli
+
+Rxx x x x x x x x vc 1,1 ..
+
+· Re v isit decision to only allow users to save their preference for "Epic direct
+
+payment"?
+
+NSRRRNRP«r»fever>xvt rvfieNRR»' %%
+
+Need to review RMT store rnessaging for consoles
+
+Need to finalize copy, ordering of the options, and branding
+
+c!Sa»H»ex«Et I"c"vcjczzczzx>c»cxztztz;!>»...
+
+i 'p»mzRikvaxM»Rzmzevx«x»zezx«x>«»z!NRzR«zNreefRi«xSeN" rN
+
+CRRRNRRNN»xxesx«xt ;'xexvxexxxxxexxexvxxx«x»x»x»xxexx»x. c
+
+!:'»eRzxxvx»x«xveRx«Sx::»»xSeeRaexNxxRxxRRxv~~!Rxxxezcx»v'zx
+
+~
+
+RI RC» R e x ~ ,
+
+x x'z«xNx "zv>,E»«Rx».ER'fi'8,'
+
+»'(!!!N»!SE((exvzx' \' !»>wc»sxsxfix«»««««««««««xzxxzzxzzxzsxzxxvxxsxvefi«»a«»i!a ( .«««x«zx«zvxxxzzz "111» (fi«'' "( 1'
+
+',NNN1fNtCIC(
+
+! PIRNRR' S"N"RR"R"ME'R"pRL!NNx(RzNRNcRcNNxNxxNNzzN'jfNe~icNxs~fPNrxctzNNf"!sNR(xSxsNsexsNz»NxRNx'CNxNStRHNNNNNtfNfNNxC(NReNNNxHtCNNc(xNr!(teRft"!tRF(kRtf1f((fNfec
+
+I C:rScxSNzCxtlsNxx5N"NNICN'"P"tfNRRHRNRHRZNPRMtN" N" N" NN"N"
+
+4( RI
+
+>!:CNrR(NtSfNffNPS(SCHNt xNzzNzNxNNNtNt fNNi xNNtRNf RRNE«HNRtN('7«xRN»CN»Ni(~»NtxRNiRxtIsN(Rv(P'NNRRNRN(N(CNP(Hx>RxNtN»NzC
+
+SPzNSexxN>
+
+·
+
+·
+
+·
+
+· I
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561. 01 9
+
+EPIC 04036389
+
+PR Strategy - Hotfix Update
+
+Goal · Get p l ayers, media, and industry on "Epic's side"
+
+Timeline
+· Lau n ch (August TB)D
+Strategy · Prov i de clear communications that emphasize savings benefits for players. · Prov i de media with Epic's stance on the business and industry benefits that they can carry forward to their readers; provide them enough background/education on the topic so they can have an informed opinion in discussions.
+
+Plan
+
+Player-facing:direct communication on price changes (blog, social), with emphasis on choice and value. o Ex p l ore opportunity to support with branding
+Media-facing:share plans with media (blog), along with a longer media-only note explaining why this is important. o Ta r g eted real-time proactive/pitched follow up interviews with key friendly media outlets in tech, business.
+Industry-facing:explore the creation of a coalition that can drive amplify discussion
+
+Challenges · High r isk of leaks limits ability to pre-brief media; proactive can't start until ship · Diff i c ult to convert media/players sympathetic to Apple/Google
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.020
+
+EPIC 04036390
+
+Vr j t L i 7 rty 7 p 'p Ti li (7 7i p L p l k i )
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.021
+
+EPIC 04036391
+
+V r j t L i 7 rtyTi l i (7 Vi g L g I V i )
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.022
+
+EPIC 04036392
+
+Pr j t Lib rtyc
+
+Th
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.023
+
+EPIC 04036393
+
+Partner Communications
+
+Category
+
+, ' , Par t n er Sony
+
+Who are we calling I
+Phil Rosenberg
+
+Console 1st Party , ' M i crosoft
+
+Phil Spencer
+
+Nintendo
+
+Steve Singer
+
+Google
+
+Sundar Pichai
+
+Mobile 1st Party
+
+Apple
+
+Tim Cook
+
+OEMs Carriers
+
+Samsung
+
+Jong Woo
+
+One Plus
+
+Eric Gass
+
+Sony Mobile
+
+Daniel Steingrimsson
+
+Verizon
+
+Rob McQueen
+
+Telefonica (Movistar, 02)
+
+Mariano Martinez Lopez
+
+Hutchison (Three, Wind Tre)
+
+Erica Katsambis
+
+Who is cailing7 l When are we calling
+
+What are we saying
+
+Adam
+
+July 20
+
+Tim
+
+July 20
+
+Adam
+
+July 20
+
+Tim
+
+June 30
+
+All developers with apps on Android should be allowed to choose any payment
+
+provider and release their own stores without monopolistic impediments.
+
+Google will have two weeks to schedule a meeting to discuss.
+
+Tim
+
+June 30
+
+All developers with apps on iOS should be allowed to choose any payment
+
+provider and release their own stores without monopolistic impediments. Apple
+
+will have two weeks to schedule a meeting to discuss.
+
+Hans Hans Hans
+
+TBD August 14 August 14
+
+Informational
+i.e., what we' re doing and why
+Note: Samsung is the only OEM with a storefront at our preferred RS of 88/12, no other OEM currently has a storefront
+
+Hans Hans Hans
+
+August 14 August 14 August 14
+
+Informational
+i.e., what we' re doing and why.
+Note: all carriers have API integration into Epic Games Store at a RS of 95/5, no independent payment platforms or storefronts
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.024
+
+EPIC 04036394
+
+Support-a-Creator Options
+
+Currently SaC payouts are calculated as 5% of V-Bucks spent paid in USD. Actual player spend is not factored into the calculation
+t N V-Bucks spent = ~0.01affiliate revenue]
+
+Reduce SAC Pay Rate
+
+Maintain SAC Pay Rate
+
+Reduce Proposal Reduce affiliate payments a commensurate 20%: @ V-Bucks spent= ~0.01affiliate revenue
+
+Maintain Proposal Maintain affiliate payments at current rate: . @V-Bucks spent = ~0.01 affiliate revenue)
+
+Non V-Buckspack RMT price decrease willcause revenue decrease for creators. True in both scenadios.
+
+Non V-Buckspack RMT price decrease willcause revenue decrease for creators. True in both scenarios
+
+Reduction RamiTications A payment rate decrease could lead to influencer frustration and less support for Fortnite overall and this issue specifically
+Requires public messaging change. Current public message:"accepted Creators will receive $5 USD (or the local cunency equivalent) for every 10,000 If-Bucksspent by players"
+
+Maintain Ramifications Creators see no change to affiliate income other than normal volatility they experience from macro Fortnite engagement 8 V-Bucks spending fluctuations
+Message to influencers is simple: "this doesn't aFect your earningrates at all, thisis purely a pnce drop for players"'.
+Influencer support for Liberty more likely.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.025
+
+EPIC 04036395
+
+Support-A-Creator Impact: Maintain Pay Rate
+
+· ·
+
+Sn I t A Creator 3 n d 034 XOOX One Switch PC
+los Android Goodie
+20200areline
+
+7TOActoals To f ecart
+
+l an . Inno 2020 ln -Ooc 2020 2020Total %of Total
+
+$17
+
+516
+
+$33 40 . 7%
+
+$10
+
+S9
+
+$ 19 21 7 %
+
+56
+
+56
+
+$12 34 . 0%
+
+56
+
+$3
+
+$ 11 36 1 %
+
+$2
+
+52
+
+5 3 5.7 %
+
+Sl
+
+Sl
+
+Sl
+
+%4%
+
+50
+
+50
+
+$ 0 0.6 %
+
+$3 9
+
+$00 1$ 1 0 % 2 020 Impact
+
+Annuallzed Impad
+
+·
+
+·
+
+·
+
+Scenario 1: 65.2mm annual increase in SAC payments
+
+Scenario 1 Scenario 2 Secenarip 3
+
+$L 1
+
+$1.9
+
+$0.0
+
+SO. T 51.1
+
+SO.S
+
+· 555 increase in V-Bucks purchased on console and PC
+· For t nite is removed from iOS and Google Play · 305 5 of app store revenue is transferred console and PC
+
+50 4
+
+$0.7
+
+SO A $0.6
+
+50.3
+50.2 Scenario 2: 68.8mm annual increase in SAC payments
+
+50.1 · 10OA 5% increase inV-Bucks purchased on consoleand PC
+
+50.0 50.1 50.0 · For t nite is removed from iOS and Google Play 50.0 · 30%of app store revenue is transferred console and PC
+$1.9
+
+53.2
+
+53.0
+
+$3.9
+Scenario3:63.amm annual increase in SAC payment
+
+· 555 increase in V-Bucks purchased on console and PC
+
+· For t nite stays on iOS and Google Play
+
+Summary:
+
+· Cr eators will see neutral or slightly increased SACpayouts.
+· We recommend maintaining current SAC payout rates to encourage positive sentiment
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.026
+
+EPIC 04036396
+
+OSA TRANSITION OPTIONS --U.S.A&,Canada
+
+MaintainSecrec & shareonce u dates are announced
+Advantages
+· Reduces potentiaflorleaks
+
+Share New Pricin with Gearbox & be in re- rintin now
+Advantages
+· New cards potentially on shelf in Nov.
+
+Share New Pricin with Gearbox and POSA activators once ubiic
+Advantages
+· New cards on shelf Nov. · Confirms ability to change price on
+existing inventory · Im proves speed to shelf for new price
+
+Disadvantages/Rsiks
+· ETA fornew cards on shelf:Q1 2020 · Potential that activators/retailers aren' t
+able to change price on existing
+In Ve n'tOry (won' tknowforcureunolwecommunlcetel
+· Cards would still have current pricing on them through EOY
+
+m
+·
+
+·
+
+'
+
+·
+
+Disadvantages/Rsiks
+· In creases leak potential
+o Cover story: Black Fridaypromo?
+· Still need UPC's from POSA activators to
+printtheback ofcards
+· Even withheads up,some retailersmight
+not be able to transition/would still have old cards on shelf through EOY
+
+Disadvantages/Rsiks
+· POSA activators have relationships with Apple,Google,MS, & Sony
+
+·
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.027
+
+EPIC 04036397
+
+OSA ACTIO.N PLAN
+GOAL: Migrate POSA to new pricing ASAP NA: position this as a price change in NA and not new SKUs / replace cards with new price ASAP EU: delay initial print run until after new price is public / set up as new SKUs at new pricing
+NA Plan
+· Onc e public, notify retailers about new price for existing cards · IF P OSA activators are able to modify pricing of existing inventory, time to update in stores would take 2-4 weeks
+· Ca rds would sell at new price - but old price would still be on cards
+· The re is still strong potential that old inventory could remain on the shelves after transitioning to new cards 0 W e could "turn off' the old cards at some point in the future
+EU Plan: Updated launch timing shifts November (someretailers willpushto Q12021) · New Product "certification": 3-4 weeks from time of notification
+· Ca rd printing: 6-8 weeks
+· Tim e to shelf: 2-4 weeks
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.028
+
+EPIC 04036398
+
+MPLICATION F O SA TRANSITION~
+U.S. & Canada
+· Car ds on shelf will still be at current pricing after announcement
+o Goal: update pricing in systems ASAP to surprise & delight with lower price when consumer purchases cards o I dea: give bonus V-Bucks to players that purchased digital V-Bucks or POSA in previous 2 weeks
+o I f it takes retailers longer than 2 weeks to update pricing, consider giving bonus V-Bucks if POSA price was higher
+· Co st to transition inventory could exceed $4MM o L arge print runs already in process for back half inventory requirements
+o E p ic would need to pay for "merchandising" visits to help with transitioning cards
+o E pic would need to reimburse Gearbox for unsold inventory · Re tailers are forecasting their sales based on current pricing
+o I d ea: revisit Merry Mint 2.0 as a "make good" and to help drive incremental sales · We h a Ve already COmmitted $536K in MDF fOr Q4 diSplay prOgramS (with cards being printed now/delivered in August)
+o So me of these programs are based on current pricing (i.e. $10 pallet program at Kroger)
+Europe: Updated launch timing shifts to November
+· New Product "certification": 3-4 weeks from time of notification · Car d printing: 6-8 weeks · Tim e to shelf: 2-4 weeks
+Contractual Requirements if POSA activators/retailers consider current SKU's "discontinued product":
+· In Comm U.S.: minimum of 45 written notice of change and "reasonable effort" for retail wind-down · Bl ackhawk: notify and transition "as soon as commercially practicable"
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.029
+
+EPIC 04036399
+
+· t~ O
+
+t ·
+
+ot e n t i a l T i m e l i n e (based onrecommendationof sharingwith GBsooner)
+
+July
+
+Auv
+
+Tap the Breaks & Prepare Assets
+- Communicate to GB - Deliver updated card art ASAP - Review/approve print numbers I - Begin front of card printing - Include new plafforms on reprint
+D
+
+Re v eal Plan / Begin Transition
+- Communicate to retail/POSA activators day of announce - update pricing w/activators
+- Set up new UPC's - Continue print run with new back of card & UPC - Begin certification process on new SKU's
+
+Sept
+Execute Plan
+- Existing cards begin selling at new price - complete certification process - complete initial print run
+
+Oct/Nov/Dec
+Launch New Cards
+- OCT: begin shipping cards to warehouses - NOV: new cards hit NA retail - Pay GB for cost of unsold inventory (-$3.3MM)
+
+- Tap breaks on EU launch timing - Finalize contracts - Approve updated pricing f - Update card art
+0
+i
+- Manage launch timing expectations
+
+- Set up new SKU's - Begin certification process
+
+- Complete certification process - Begin printing cards
+
+- OCT: complete printing - NOV: launch cards in UK/DE/FR
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.030
+
+EPIC 04036400
+
+Speaker Notes for Slide 28
+There are a lot of variables at play that could impact the timing positively or negatively (i.e. if printers have limited capacity - it could negatively impact number of cards we could print)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.031
+
+EPIC 04036401
+
+·
+Ote n t i a l
+
+TI ~
+
+i
+
+O
+m
+
+e
+
+l
+
+i
+
+I ·
+n
+
+e
+
+(basedonmaintainingsecrecy)
+
+July
+Tap the Breaks & Prepare Assets - Update card art ASAP - Delay larger print runs
+D
+
+Auv
+Reveal Plan
+- Communicate new pricing 8/13 - update pricing w/activators
+- Set up new UPC's - Begin certification process for cards at new price - Provide players with Bonus VBUCKS if they redeem pdior to price updating?
+
+Sept/Oct
+Begin Transition
+- Existing cards begin selling at new price if activators/retailers are able to execute
+- Begin print run
+
+Nov/Dec/J an
+Launch New Cards - NOV: ship cards if/where viable
+-Q1 '21: ship new cards during Spring resets
+
+- Tap breaks on EU launch timing - Finalize contracts - Approve updated pricing (interna0 f - Update card art
+0
+i
+- Manage launch timing expectations
+
+- Begin certification process
+
+- Begin pdnting cards - Begin certification process
+
+- OCT: complete printing - NOV: launch cards in select retailers
+Note:delaycouldpushsome key retailers (i.e. Rewe) to Spring 2021
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.032
+
+EPIC 04036402
+
+Speaker Notes for Slide 29
+Given the volume of cards - it will probably take more than 8 weeks to reprint all NA channel inventory.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.033
+
+EPIC 04036403
+
+ROJECTLIBERY- Proposed,POSAPricing Changes (USD}
+
+Proposed Digital Price Digital V-Bucks Digital Breakdown
+Digital Price per V-BUCK
+POSA PI Ice (nc change)
+Proposed POSA V-Bucks POSA Breakdown
+POSA Price per V-BUCK
+
+Tier 1
+$7.99 1,000
+1,000
+$0.0080
+$8 1,000
+1,000
+$0.0080
+
+Tier 2
+$19.99 2,800
+2,000 + 800 Bonus
+$0.0071
+$20 2,800
+2,000
++ 800 Bonus
+$0.0071
+
+Tier 3
+$29.99 5,000
+4,000 + 1,000 Bonus
+$0.0060
+$30 5,000
+4,000
++ 1,000 Bonus
+$0.0060
+
+Tier 4
+$79.99
+13,500 10,000 + 3,500 Bonus
+$0.0059
+$80
+13,500 10,000
++ 3,500 Bonus
+$0.0059
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.034
+
+EPIC 04036404
+
+APPENDIX
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.035
+
+EPIC 04036405
+
+Next Steps -- July 1
+
+1 . Stren then ti eline to ensure nothin is s i n - update co in t o Validate Integl ated dev schedule (NIkdel, GI ant, DIaz)
+Validate Integl ated comms schedule (Mattw/NIckc)
+2. Scenario plannin breakdown(Ed/Alee/Ca eron)
+REDACTED FOR PRIVILEGE
+
+o r r ow(Ca aron/Alee)
+
+4 . Update and refine Co s p l a n( attW/ i ckC)
+a. Including
+5. Solidify details (dates, contacts, talkin points) around outreach to first parties, E s ,
+obile carriers (Ca aron/ ate / a n s /Alec)S
+a. W Ill be an ongoing dlscusslon starting with k
+6. Llpdate pricin proposal based on feedback ( ateA) 7. SAC tea c r aftin es s a i n t o confir 0 i p a ct for affiliate(s evinW)
+Confir c o nsole-synchronized price chan e operational process (E u)
+9. P SA proposal updates (Wes)
+
+break (E u)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.036
+
+EPIC 04036406
+
+of the taxi a l ong wllth some addltlonai Ilssues to avollcll a one-dlmensllonai argument. (Ave prices too high7 Do players cave about developers'7), then seed with press and vun ads to help generate awa
+880K -- 8'/QQK to get the coalition initially funded, with an expected life of project cost between 8400K -- 8700 Create a sympathetic. This includes all of ouv gaming and app pavtnevs who ave losing out due to unfaiv platform/pricing pvactices.
+convevsation is much Iavgev. When it comes to the press, that vesults in move neutval to positive covevage. fov these stovies over and over. Talk about the developments of any individual membev ov policy.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.037
+
+EPIC 04036407
+
+Ph 2 I g t - F br ry
+3. Campaign Kickoff with Action )nitiative
+I Hot f i x U p date: TBD. playe1s care about developers'7), then seedl wIth p1ess and I'un Bds to heilp generate awareness B1oundl ou1 poslItIons.
+to influence the groups most likely to have an impact on Apple/Google.
+3. Paid e d ia Efforts
+supporteI s Bnd opponent cletl Bctof s. PetItIon: The Most effectIve way to deMonstlfate consL sign a petItIon. We WIII target out dIgItal BdveI'tIsIng to both fu significant petition signers, hundireds of thousands to millions is entirely b
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.038
+
+EPIC 04036408
+
+' vaucxs
+
+rue
+
+epoee
+
+A 0
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4561.039
+
+EPIC 04036409
+
+Speaker Notes for Slide 35
+How to make players aware that they are getting the discounted price?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.040
+
+EPIC 04036410
+
+. ' a.aaaaa
+
+o-
+~ 6$8®.8~8
+
+Saran
+
+·
+
+·
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4661.041
+
+EPIC 04036411
+
+Speaker Notes for Slide 36
+How to make players aware that they are getting the discounted price?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.042
+
+EPIC 04036412
+
+·
+
+·
+
+4
+9
+
+0
+l 999.
+
+Itow do yoo want to pay?
+Q EaPay GOOgla Play Qa Q Epic Oi act pay 9 t
+
+$5 99 g
+99.99 oa
+
+Qx·
+
+3 CO NTINUE
+
+RMT off e thati ncludes multiplei tems.
+
+ROJECTLIBERY --Proposed,,POSA Bonus Changes
+
+Proposed Digital Price Digital V-Bucks Digital Breakdown
+Digital Price per V-BUCK
+
+Tier 1
+$7.99 1,000
+1,000
+$0.0080
+
+POSA PI Ice (nc change)
+Proposed POSA V-Bucks POSA Breakdown
+POSA Price per V-BUCK
+
+$10
+1,250
+1,000
++250 Bonus
+$0.0080
+
+Tier 2
+$19.99 2,800
+2,000 + 300 Bonus
+$0.0071
+$25 3,500
+2,0000
++ 1,500 Bonus
+$0.0071
+
+Tier 3
+$32.99 5,000
+4,000 + 1,000 Bonus
+$0.0066
+$40 6,000
+4,000
++ 2,000 Bonus
+$0.0067
+
+Tier 4
+$81.99
+13,500 10,000 + 3,500 Bonus
+$0.0061
+$100
+16,400 10,000
++ 6,400 Bonus
+$0.0061
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4%1.044
+
+EPIC 04036414
+
+Eoaumlt cmltnl RtNJ ct f I ) 'C V U C 4 I t t SVI 4 , ( l , e StUC'I . 5IC I · C I , t u !' I OI OI A I 3 f" ecLO(\ P · )Vt O l ( D" KC 0'f(fl n ' l l Clan N 4 s s r. N - « C»mms4 · Sa. ED uch Pdt 4 u a v o · LJ c E) m CQ C"ct
+C I '. C C t I f ct I m l C r > Vl t ' · I
+SK> 4tva a ego .e Iov
+
+Pre launch($/3 -$(33
+SitltCd fumleo\(DC4detC OW D V SNKK
+
+3 I- · '3
+$ ' C . ',C $':-: (3
+DIS S.
+
+laluiucd tl
+Lrt '...'i cc(
+K. (c
+IE ITI C Ll'ICF
+Luvb L(rif
+Ll tl
+
+Eo- Act) mtmt 5..:- et v ce v c(alga,r Ea»slsiv> 'o.a>cce-i fc
+Lfl Igt''Ot 'N ' ST>rd v f Sfe'e((hf o f o e t t u e l c f e v ' i cK CC C*cf .li t f 3 > K I r l · l e t · LIJ I (C C K K i t Cl , t h l t f ( C l I U ) A
+Df e,- l 4 uh>04«0 ' 3 ) '(e Le . ee : g » n CA · 'ctl'. Ec Dtuo os 10 Sure>ar' r t g icccmt Ih c xv J f o " Ar ' tart t See g
+· >VDI 0 " " : · )0 I " I "I gt fh I CN 10 .
+v l f ucfec f " 0 t ) t i c at c l N ' t ' · I 0 A tg o'N'mlmu ' r l 0 3) g CC I CI 0 I d c t C t 0 · t A"
+E ohfruc:0'e IJ c t >NE Smtu' · smnctl' I DI I t B c f 1 0 I c n v u gc ·u,n fl ' ) 0 C 0 · K , N t t
+FN N K I ' ( 4 fl a tg l C N C 0 J L C V ' l l > N I Sf( .N
+INC(>C) IJ4C;ISIKI I · CI ·CI ·AC 0;t*ID · O'"ll Chv'4C>f;'4 'lo' .tul f gl IC C l 0 I A I m ( AD · Ll " C E O I t t Q t D l'
+
+F hl «I 5 ' CNSDJ'ccco 0 C I ) a u w f t n " Ir f ' LASICCRe)'0"SSI f f > $ I 5 : 40UCL.SI, d o t ISS CE 4f; 3 Nm & 't v r o' t f ' I I I I t u
+
+3 I · f" 3 $1 O'3 SIC , '3 & -$( 3'5-3 (3
+
+Dl'll
+Clu ' 'U:V Dt hfh h(tu
+vl ' iue
+
+Ol'I 4 I CI O N u , · C> ) CN d l a( Si c 0IC I ·I I CJ ) K I V I O 0'OIK L t t I v iv t c t d I t t t a l I U 5K l c . I t l I 0 l f t K o in (I
+Kore f r ff c r cuc: g · > cg(K:-D vv m a - S w e e t v v e cef v fo 4 ) · · cl u v ' I "E K (>cu'c It 3 ·
+l (t · 'I' 0 ' S h(C · · " " "· r " E ICIC fu w 403)".DCKhht t ' · C · V J mCO..C D') I S K JDU 4 um · If 'g t t t * I I Ct h SCtt inn
+R t t t c g >Nhd f ' N a r u g&h · if> vcc .t i t 'I t 5 f o u ofu't( el v t
+ltt · Atcf · I Kc 0 ;0 o , c Ig · ccc u f> 0 Sf fo u h t5u'tie I t ct m l u ) t w P Ot t v Im)
+
+3 rd a>easf'4 I - · ce SCKSSSEK er P l 0 I i nt 4 UC t C ( A r m · 'I I' · S" I DC4( · S FIA 3 Nh)(til er I Svvt> 4 EDSCDaftcdc I,,
+> IN SIC IK ) 4 4 I hm f tg'Oft
+C imemeaavm l f m g nrst PUIR/Panntiudps
+F "I N CN I C > 4'I (I' I f)" 11 tc ft VJ"gtf
+Legtl 4> t I .5 r gutgt > '4'I
+(.Cgafg e'f>lr P tohv o
+
+4 t'0>mt . w I f u ' g u $ · I f t C I . >hhtcCI* > C DC JKD Emlgta ai . m'Ic t 13 )I ' c · I 3 mt a ie, 3 h hn c t s rd · OR emrea ·
+
+vc OAO t r v t m t o' c a r e t . '": c) cwr cK DESEP KL I ' e g tiu "sc · I · .chh
+
+ah
+
+Dr
+
+cue · · 'Itc It c ID;Inlr t I N timr f I ' 13N C,>o 'us 'hcm g , ui f
+
+Da
+
+E lt'\ · 0 4' I ht . Cklmt II O I · O S ( * a >f t n
+
+Da(IL
+
+cctnogmcenf l soc u ' · R LI I:>e'hvu( ·cn o ) K e '
+
+Dl
+
+Pt til t S. t t . h gUSS· ".C uc>gtugtcue>J) CI(murd»c
+
+Dl
+
+4 I · K I C > K i t ' C I CC 0 0 . >Ct · 1 ' I ' t l . 4 .4 . I C ; u l ' I I C
+
+E> tu :4g' K t h C '('ll t e l l Oh( I I ' )
+
+Ot.t )
+
+· N f · CI I t II OA Jl *O'Ctm>Dt'tlCS'0' hftg'If> *( 0 c g Vf m g l S l( 3
+rave C · I't CK I l i t K U E g CNI V C t g
+
+'u:t' I · SEE
+4. · 'C (A ·
+
+LC ot nt J CO I JD J S > wi ( I, V i l l , V K,I I K I Dlghc'onflc I"I 3 Sc'ctf 0 t v i n f c i u t > * '
+
+Dem.D
+
+u ft'I ga t c Cm'd
+
+REDACTED FOR PRIVILEGE
+
+Link to Initiatives Tracker
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4661.046
+
+EPIC 04036415
+
+Scenario Planning WIP
+Breakdown of Mobile First Party responses to HF-on competing payment methods
+
+They do notacknowledge thatFN has turned on competing payment methods
+
+They issue deadline for compliance I T h ey block further content updates but that triggers automated removal if i jallow bug fixes until the app becomes app is not compliant by the stated ,' ' c o m pliant -- no deadline is issued deadline (example: Houseparty) ,' (ex a mple: Hey app)
+
+Cert team will provide feedback that they need to review a compliant update in
+order for FN mobile to appear in their store again
+
+o
+
+-
+
+-
+
+I e
+
+-
+
+e Take no a c tion
+
+e A ppe a l
+
+App enters "Sustainable Plafform" state
+Community emphasizessavings
+from Epic Direct Payment PR statement saying we believe AB G do not have the legal right to deny players savings
+
+Community emphasizes A8 G blocking savings from new
+payment methods wouldhave
+gone to the player In case of protracted battle, issue refunds to players that cannot play PR issues statement saying AB,G removed the app because Epic wanted to offer cheaper payment plafforms to players
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4561.046
+
+EPIC 04036416
+
+

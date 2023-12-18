@@ -1,0 +1,55 @@
+4o96
+
+iInitcd stak;s Aistret court Ãerket i DrsiJ'~i ol Cnlili:)rrt4
+
+3596
+
+3o96
+
+~596
+
+=o96
+
+1596
+Percent of initial Bo~mloads that are paid
+1096
+
+Average commission rate
+
+o96 Q 4 o8 Q4 o9
+
+Q4 1o
+
+Q4 11 Q4 1~
+
+Q4 13
+
+Q4 14
+
+Q4 15
+
+Q4 16
+
+Q4 1y
+
+Q4 18
+
+Q4 19
+
+Source: Apple transaction data
+
+Note: Coimission rate is calculated for each transaction, and a simple average is calculated across transactions per quarter.
+
+Commission rate is set to 0% for all transactions with no total revenue. Apple's fiscal year begins in October, meaning Q4 starts in
+
+July and ends in September. For example, Ql FY2008 begins in October 2007. Only original transactions categorized as initial
+
+downloads areincluded. Transactions where Apple isthe developer are excluded. See Appendix E for details regarding Apple
+
+transaction data processing.
+
+62
+
+DX-481 8. 001
+
+

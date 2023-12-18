@@ -1,0 +1,83 @@
+2/7/2021
+
+HOW CAN I REDUCE LAG OR IMPROVE STREAMING QUALITY WHEN USING GEFORCE NOW? I NVIDIA
+
+HOW CAN I REDUCE LAG OR IMPROVE STREAMING
+
+(gALITY WHEN USING GEFORCE NOW.
+Updated 04/02/2019 11:40 AM
+
+Epic Games, inc. v. App/e Inc
+, ~PX- 721
+Date Entered By
+
+HOW CAN I REDUCE LAG OR IMPROVE STREAMING QUALITY WHEN USING GEFORCE NOW?
+
+GeForce NOW games are running from the cloud, which means they are running on a server in a data center, not directly from your Mac, PC or Shield
+
+Our latest app has a built-in network test that quickly assesses your network and helps you optimize it for cloud gaming. The network test will automatically run the first time you play a game. You can also access the network test by clicking on your username in the upper right and selecting it from the drop-down menu.
+After the test completes, you may get a warning message in red or yellow. If the message is red, you do not meet one of GeForce NOW for Mac or PC's minimum requirements. If the message is in yellow, you meet minimum, but not the recommended, requirements.
+
+Please use the following steps to help improve your home network, based upon the error message you have received:
+
+You are connected to a 224GHz network. SGHz is recommended
+· Update to a 5GHz Wi-Fi channel on your router, or purchase a new 5GHz router. · If you are using a Google Wi-Fi 5GHz router, please read thisGoogle Wi-Fi help article. · If 5GHz is not an option in your router or your home network, please be aware the 2.4GHz channel can be
+negatively affected by other consumer electronics, such as baby monitors or microwaves.
+
+Low bandwidth
+
+· Upgrade your internet service provider download speed. We require 15mbps, and recommend 50mbps.
+
+· Limit other network traffic in your home while using GeForce NOW, such as video streaming, downloading large files, Twitch broadcasting or uploading files or photos. These can reduce your total available bandwidth.
+
+· Move closer to your Wi-Fi router, especially if you are using a 5GHz channel.
+
+Exhibit
+
+PX721
+
+You may experience stutter or high latency
+
+Patel
+
+· Try rebooting your router. Like other electronic components, routers sometimes need to be reset.
+
+· Switch to a wired Ethernet connection. If your PC or Mac doesn't have an Ethernet port, use one of our recommended Ethernet dongles.
+
+· Update to a 5GHz Wi-Fi channel on your router, or purchase a new 5GHz router.
+
+· Move closer to your Wi-Fi router, especially if you are using a 5GHz channel. If you are far away, network packets may need to be resent multiple times, which results in stutter.
+
+· Use a Wi-Fi analyzer to find a clean channel. There are free ones available on theAndroid or iTunesapp stores or
+
+for PC and Mac.
+
+PX-0721.1
+
+https://nvidia.custhelp.corn/app/answers/detail/a id/4504/-/how-can-I-reduce-lag-or-improve-streaming-quality-when-using-geforce-now%3F
+
+2/7/202'I
+
+HOW CAN I REDUCE LAG OR IMPROVE STREAMING QUALITY WHEN USING GEFORCE NOW? I NVIDIA
+
+· If your router automatically selects a Wi-Fi channel you should check it using the Wi-Fi analyzer if that channel is free and does not have interference.
+· If your router supports QoS, try turning it off. We have found that QoS has a negative impact on gaming performance on GeForce NOW with some routers, such as the Netgear Nighthawk X6.
+· Try rebooting your router. Like other electronic components, routers sometimes need to be reset.
+· Limit other network traffic in your home while using GeForce NOW, such as video streaming, downloading large files or uploading files. More network traffic in your home can cause stutter.
+
+· Turn off any Virtual Private Networks (VPN) you are using. VPNs can cause many problems including higher latency, more stutters, or you will connect to the wrong GeForce NOW data center.
+· Use a USB wired or wireless gaming mouse, such as those from Razer or Logitech. These products will provide reduced latency, higher sensitivity and a tactile scroll wheel.
+· Turn off any network firewalls. Some Firewalls can affect performance or even prevent you from connecting to our data centers.
+· We have found that macOS location services can interfere with your network quality. For now, we recommend turning off location services when you use GeForce NOW. Please view this link for more details on location services https://support. apple. com/en-us/HT204690
+
+GeForce NOW Ports Starting with the GeForce NOW (GFN) PC and Mac apps v1.13.2.5 or later, the GFN apps use fixed ports for streaming games. In order to further improve streaming quality when using GFN, we suggest using GFN optimized routers or engage your existing router QoS by adding GFN app ports to the active router's QoS profile. Here are the ports to add:
+· 49003 -- UDP Inbound AUDIO · 49004 -- UDP Outbound AUDIO
+· 49005 -- UDP Inbound VIDEO · 49006 -- TCP/UDP Outbound/Inbound Remote Input If you are not using a GFN certified routers, please consult with the technical support page for your router how to configure the router QoS engine to improve your gaming experience.
+If your router QoS supports port based prioritization, you may consider creating custom router QoS rules based on the port information provided above.
+The list of GeForce NOW certified routers:
+· Ubiquiti Amplifi HD Gamer's Edition - https://amplifi.corn/garners-edition/. Please follow this guide to properly configure this router: https://nvidia.custhelp.corn/app/answers/detail/aid/4750
+
+PX-0721.2
+https://nvidia.custhelp.corn/app/answers/detail/a id/4504/-/how-can-I-reduce-lag-or-improve-streaming-quality-when-using-geforce-now%3F
+
+

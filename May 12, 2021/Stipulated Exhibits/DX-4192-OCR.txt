@@ -1,0 +1,604 @@
+APPLE INC. Preview Developer Beta of iPhone OS 3.0 Town Hall Presentation MARCH 17, 2009
+
+G S
+
+Greg Joswiak Scott Forsta I I
+
+SS
+
+Seth Sternberg
+
+T
+
+Travis Boatman
+
+H
+
+Hoddie Crouch
+
+OK
+
+OK Okaru
+
+A
+
+Anita Matthew
+
+N
+
+Neil Young
+
+C
+
+Chris Plummer
+
+GW
+
+Dr. Wang
+
+United States District Court
+
+«I
+
+NorthernDistrictofCalifornia
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games,Inc.v.Apple, Inc.
+
+Exhibit No. DX-4192
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+G Good m o rning everyone. I applause] Welcome, welcome to the Apple campus. We have a lot of iPhone app developers in the audience and members of our press and some of the teams who have worked on some of the things we are going to show you today. So we' ll have a little bit of fun. We are going to give you a preview of iPhone OS and I'm Greg Joswiak, Vice President of iPod and iPhone Product Marketing and I' ll be joined by Scott Forstall and we' ll give you a preview of this and show you some of our future plans for the iPhone OS and what we are calling version 3.0.
+Before we get into our plans, however, I thought I'd spend a few minutes reminding us where we are at with the iPhone. The iPhone is now, as of this week, in 80 countries around the world. Iapplause] It's amazing because we started less than two years ago in one country and actually, even a year ago were just in a handful of countries, and now we are in 80 countries around the world.
+And before we ever shipped our first iPhone, we set a very aggressive, and public goal that we would sell 10 million iPhones in our first calendar year, calendar 2008, and we blew that number away. We sold 13.7 million iPhones last year in calendar 2008.
+And if you look at our iPhone sales from the time that we started shipping in June of 2007 through the end of this last calendar year, you see that we have sold 17 million iPhones. There's a clear inflection of when we introduced the iPhone 3G and you see the great acceptance we' ve had of this product.
+But the iPhone isn't the only product that runs the iPhone OS. The iPod Touch also runs the iPhone OS. If you look at that same time period, through the end of this past calendar year, through the end of 2008, we' ve sold over 30 million devices, over 30 million units of iPhone and iPod Touch through the end of 2008 providing a great opportunity for our app developers.
+This also, of course, provided a great opportunity for app developers and we first introduced the beta of this iPhone SDK here on this stage just one year ago, and in this
+Apple Confidential
+
+DX-41 92. 001
+
+APL-APPSTORE 00000004
+
+one year's time we' ve had over 800,000 downloads of the free iPhone SDK. Absolutely
+amazing. And we' ve had over 50,000 individuals and development companies join our
+paid iPhone developer program. It has gotten off to a gigantic start. And if we look at these developers, I find it very interesting that most of them, over 60% of them, had never developed for any Apple platform before and yet they were able to quickly create some amazing apps in the App Store and the App Store's appeal to big developers, small developers. Big developers, a good example of apps is Game Loft, and if I could read you this quote:"Game Loft says that the iPhone OS has provided the next great development platform for Game Loft."The App Store has been simply amazing and they already have over 20 games in the App Store and they' ve had over 2 million paid
+downloads in just a few short months. That's incredible. Already over 20 games and already over 2 million apps that have been sold by Game Loft. But what's really exciting is that the App Store levels the playing field and it makes it so that the small guys can
+succeed as well. An example of that is Steve DeMeter. I see him in the crowd now, who is a one-man shop and maybe rather than have me read his words, we' ve got a short video of Steve.
+
+[Showing video] [applause]
+
+So clearly with the App Store appealing to big developers, small developers and those in-between, there's no surprise that we' ve had an explosion of apps but we' ve had over 25,000 apps now in the App Store today. Absolutely amazing.
+
+And we certainly have had a lot of curiosity over the App Store submission process but I'm happy to report that in our most current four month of data, in February, that 96% of
+apps that were submitted were approved and we are moving apps through the store faster than we ever have because 98% of those apps were approved in 7 days or less.
+
+And, of course, the most amazing statistic of all is from our customers, the fact that customers love the App Store and we now have past 800 million downloads in the App Store. [applause] That's in 8 months time, 800 million downloads, so I have to thank you, the developers, both in the crowd and out there developing these great apps and giving our customers more than 25,000 more reasons to want an iPhone or an iPod Touch.Thank you very much. [applause]
+
+So clearly we have created something profound, amazing, certainly something we haven't seen the likes of before, and this is just the beginning. We are just scratching the surface. We are 8 months in to this App store. Imagine where it's going to be in the
+coming months or a year from now, and help give us a glimpse of that future, I'd like to bring Scott Forstall up to give us a preview of iPhone OS 3.0. [applause]
+
+S
+
+A lrig h t , I'm here to tell you about iPhone OS 3.0. This is a major update to the iPhone
+
+operating system and that's the operating system that runs on all iPhones and iPod
+
+Touches. It comes with incredible features for developers and for our customers.
+
+Let me start by telling you what we are doing for developers. A year ago we announced the native iPhone SDK and with it we enabled developers to use the same native APls and tools that we use internally to build all of the applications that ship as part of the iPhone. Now, our goal here was to make developers successful. We gave them the best
+
+Apple Confidential
+
+DX-41 92. 002
+
+APL-APPSTORE 00000005
+
+tools and APls and frameworks ever for building applications and what they did with this blew us away. As Jos showed, the tune of over 25,000 apps in 8 months. It' s incredible. We we' ve spent the last year working hard to make this SDK even better and I'm happy to say that with iPhone 3.0 comes the next generation of this native SDK and with it comes more than 1,000 new APls. This is a lot of functionality to make these apps even easier to develop and allow developers to add even more functionality.
+Let me talk you through just a little bit of the functionality from this new SDK starting with enhancements we are making to the App Store. Now the App Store has been phenomenal, as you heard. Over 800 million applications have been downloaded. This is amazing. It is the best way ever for developers to get their applications out to our collective tens of millions of users.
+It's also a great business deal. Developers can give their apps away for free or, if they choose, they can sell them. If they sell them, the developer picks the price. Seventy percent of the revenue from that price goes straight to the developer. There are no credit card fees. In fact, there are no hosting fees or other infrastructure fees. Apple covers all of that and developers are paid monthly. So it is a great business deal.
+But we' ve been listening, and some developers have come to us saying there are other business models they'd love to support for their applications. For instance, subscriptions. There are publishers out there, things like magazines. They would love to have a magazine application right on the store where you can renew that subscription inside the application. There are game developers who would love to add additional levels and be able to sell game levels right from within the game. And there's a lot of other new content that developers like to sell inside an application. For instance, an e-book. Today you have to sell one application per book. There are e-book developers who would love to sell a generic e-book application and have a bookstore built into the app. I'm happy to say that we are supporting all of these additional purchase models in iPhone 3.0 and we are doing it with what we call "in-app purchase." Let me show you how it works.
+Let's say you have an e-magazine. In iPhone 3.0, right from within this application, you' ll be able to purchase the renewal. To get this standard panel, it come up and says in this case,"Would you like to purchase 6 more months for S4.99?" When you tap "Buy,"you' ll continue to receive all of the issues to this magazine right inside the app.
+Next, a game. You can now purchase a game that would come with, say, 10 levels and when you are done playing those 10 levels, just by the tap of your finger, you could purchase the next 10 levels for the game. When you say you would like to buy it, the game will automatically download those levels right into the game.
+One more example -- city guides. Again, before iPhone 3.0 you would need to sell one application per guide. With iPhone 3.0 you can sell a generic city guide application and then sell city packs. So you can see here I' ve already purchased, say, the Boston and New York City pack. Let's say I want to purchase Chicago. That's as easy as tapping on Chicago and it brings up the standard alert asking me if I'd to purchase it. Now here's where it's really nice. This whole thing is tied directly into the iTunes Store. So, when you tap on "Buy," it brings up a standard iTunes credential panel. In a secure way, you now get your user name, you type in your password, and when you do, it talks
+Apple Confidential
+
+DX-41 92. 003
+
+APL-APPSTORE 00000006
+
+back to our iTunes Store, validates the account, and when it approves the purchase, the application is free to download that city guide right into the app. And now you are good to go. So in-app purchase. The business model for in-app purchase is the same as for the same as the App Store meaning the developer sets the price for in-app purchase items. Again, 70% of the revenue goes straight to the developer. There are no credit card fees. We will cover all the credit card fees and the developers are paid monthly.
+Now, to keep the model simple for the consumer, this is for paid apps only. So if a developer sells an application and it makes sense in that application to have an in-app purchase, say for a subscription, you are absolutely happy to go ahead and do that but to keep it simple, when a consumer sees a free application, free apps remain free. You won't be asked ever to buy something inside that free application. That's what we are doing for in-app purchase.
+Next, support for peer-to-peer connectivity. This is especially great for peer-to-peer games. Let me give you an example. Let's say you have a few kids in the backseat of the car and they each have their own iPhone or iPod Touch and they'd like to play Backgammon against each other. With the APls now built in to iPhone 3.0, when you type, say,"multi-player button," it will bring up a standard system panel which finds all the other iPhones and iPod Touches in that area that are currently playing that game. You can choose who you'd like to play against. It automatically sends a request to them. When they accept it, it forms an IP connection and the game is off and running peer-topeer. So, peer-to-peer connectivity. What we provide here is automatic discovery. We' ll automatically discover other applications that are running around you in your proximity. We do it all wirelessly over Bluetooth so you don't need to join a WiFi network. There doesn't need to be a WiFi network. It's all done wirelessly. In addition there's no pairing. This is all completely seamless both for the developer and for the end user. It's seamless.
+We use Bonjour as the technology to discover what applications are running and who wants to play and this isn't just for games. Now, we think this is great for games and it will unlock a lock of peer-to-peer games but this works for any peer-to-peer application. So let's say you are a salesperson and you are at a sales meeting for your company and you'd love to give someone a sales lead, send them a contact. Well, your company could build an application easily using this API that will automatically find your colleagues phone, make that connection, allow you to share that contact. Walk away, you are done. So peer-to-peer connectivity. We think it's going to be great in the iPhone 3.0 SDK.
+Next, accessories. We have this thriving ecosystem for accessories. There are thousands of developers building of thousands and thousands of accessories that work great with iPods and with iPhones. Here's one of the more popular ones -- a speaker. With this speaker you can plug your iPhone right into it and now listen to your music right over that speaker. Well, with the iPhone 3.0 SDK we are going to take this support to the next level. We are going to enable accessory developers to build custom applications that talk right to the accessory. So this example, the speaker manufacturer could build an application, an equalizer application, that is actually controlling directly the hardware equalizer of the speaker.
+Here's another example. An FM transmitter. FM transmitters are great. If you have, say, a car that doesn't have a built-in iPod connector, what they do is they allow you to stream
+Apple Confidential
+
+DX-41 92. 004
+
+APL-APPSTORE 00000007
+
+your music from your iPhone over FM right to your car stereo. Well, with iPhone 3.0 the developer can build a custom application that pairs up with this accessory with that FM transmitter and automatically finds the optimal FM station over which to broadcast, tunes it in automatically, and now you are listening to your music.
+Now here's another class of applications we think are going to be really interesting and those are medical devices. You could have, say, a blood pressure cuff and write a custom application now, which takes your blood pressure. It could take it, it could record it over time, it can chart it, and if there's an issue or a downward trend that you are worried about, it could optionally have a button to send your blood pressure history to your doctor, to your healthcare professional. So, what we are doing is we are enabling developers now to take more advantage of accessories, writing custom applications that can talk directly to these accessories. They talk to these accessories over the dock connector and now also wirelessly over Bluetooth. We support all the standard built-in protocols so these are things like playing music and pausing music, getting album artwork. In addition, you can build your own custom protocols if you want. So you have all the power you need to build an accessory, build a custom application to take the best advantage of that and talk to that accessory in whatever way you need to to make it great and that's what we are doing for accessories.
+Next, maps. We' ve worked with Google to build an incredible maps application into the iPhone and we' ve had developers who have come to us and said,"You know, I'd love to embed a map into my application."Some developers have gone out and licensed tiles themselves and already done this but they keep coming back to us asking us to build something that feels natural, a Coco-touch control that can wrap our maps control and put it into their application. And that's exactly what we are doing with iPhone 3.0. We are taking the heart of the maps application and making it a public API so developers can now embed that map right in their app.
+Here's an example. Let's say you have a concierge application. Right up there now is the public maps API control embedded right in there. Now this really is the heart of our map application and that means you have things like pinch and zoom. It supports satellite view and hybrid view and standard map view. You can even add your own custom annotations right on top of the map. You can add your own location in there and it will track your location based on GPS if you are on an iPhone 3G, and WiFi and cell tower triangulation, and you can even reverse geo code your location. So, a maps control, using that Google Maps service that you can now embed directly into your application. We think this is going to be really useful. We know a lot of developers out there that would love to embed this Google Maps service right in their app.
+Now, there is one more thing we are doing with maps and that is we are enabling developers to use Core Location as the basis of turn-by-turn direction applications. So Core Location gives your location on an iPhone 3G with GPS, also with WiFi and cell tower triangulation. And now you can build a turn-by-turn direction using that real time location from Core Location. Now there is one catch. It is bring your own maps. Due to licensing, we cannot pass on the right to use the built-in map tiles for turn-by-turn. There are already a lot of developers out there who either own their own map tiles or have licensed them to use with turn-by-turn and so for all of you, you' ll now be able to use and create turn-by-turn direction applications for the iPhone.
+Apple Confidential
+
+DX-41 92. 005
+
+APL-APPSTORE 00000008
+
+Next, Push Notification. You know, we are late on this one. We announced this last year and we expected to have this up in production by the end of the year and we didn' t, and there's a few reasons for this. Most importantly, within two months of launching the App Store we had over 1,000 applications on the App Store and we had over 100 million applications that have been downloaded and a huge number of developers came to us saying how excited they were about push notifications and how they were going to use it I volumes that we hadn't considered. And so we had to completely re-architect the server infrastructure for push notifications and that's what we' ve spend these last 6 months doing, completely re-architecting it to make it really, really scalable. That was when we had 100 million downloads. Now we' ve had over 800 million downloads so this is what we' ve been targeting, so now we are good to go.
+Now, we were asked,"Why don't you just do background processes?" It's easier for us to do background processes. The answer is it's not good for the customer for a number of reasons. One is battery life. Background processes drain your battery. They don't let your phone go to sleep when it needs to, they don't let it go to the lowest power state. Actually, we' ve been testing this. We' ve been running some background processes on some other phones and I remember one test in particular we took a popular instant messaging client and we ran it on a Windows mobile phone, on an android phone and on a BlackBerry. Didn't send or receive any instant messages. Just turned the app on so it would run in the background, and we measured the standby time. So the battery life is measured by standby time. In all cases, the standby time dropped by 80% or more just by having that background process on. Now, anything you are going to use is going to take some battery life. Even Push Notification takes some, so we took a third party push notification instant messaging application, ran it on iPhone 3.0 and that battery life, the standby, only decreased by 23%. So it's a much better model for battery life.
+Next, performance. By the very nature, a background process is chewing up CPU cycles and so it's slowing down that foreground application that you want to be snappy. So, because of that, we are doing push notifications and we are really excited about it and we' ve been working with third party developers already and they are thrilled with what we can offer.
+Here's how it works. Let's say you have an instant messaging application and while it' s running it's connected to your server, so if you want to send a notification up there, you just talk right to your application. But, when you quit the application, you no longer have this connection open. That's there the Apple Push Notification service comes into play. It has a persistent connection open to the phone and so this third party server just passes its notifications through the Apple Push Notification server. There are three types of notifications you can push. One is a badge so you can badge how many items are waiting for the user. You could also badge audio alerts and this could be whatever sound you want for your applications, customizable for your application. You can also send text alerts. Text alerts appear the same way that SMSs appear and you can even add a button where if the user taps on that button, they' ll launch right into your application. Now, of course, the reason we are doing these, and the nice part about it is it scales. It scales to all of these third party services that want to take advantage of it and we are really excited about that. So Push Notification is a unified, generic push
+Apple Confidential
+
+DX-41 92. 006
+
+APL-APPSTORE 00000009
+
+notification service for all developers. It preserves your battery life. It maintains the performance of your phone and we' ve optimized it for mobile networks.
+Now, as Jos said earlier, we are in over 80 countries around the world this week and that's with over 25 carriers, and every carrier has slightly different configurations of their networks so we are doing all the hard work for you of making sure that we keep that persistent connection open to the phone so you don't have to. And, it is now really scalable and we are ready to go.
+So, these are only a few of the more than 1,000 APls that make up the SDK in iPhone 3.0. Let me touch on just a few more of these.
+ENYP email. We now have an email sheet that you can use right from your application so you don't have to leave it to send an email.
+Proximity Center is now a public API.
+This is a big one -- iPod Library Access. Developers can now access, browse and play music right out of the built-in iPod Library on the phone.
+Streaming audio and video. We are introducing a new standard for streaming audio and video over HTTP so it even goes through firewalls.
+Making the shake API public so you can use shaking.
+We' vemade data detectors and core data we've added and end-game voice.Ifyou have a game that plays over WiFi, we have built-in voice chat APls you can use to add voice into your game. So, again, just a few of the over 1,000 APls we are adding for developers. This is a big update for the iPhone SDK.
+Now, a couple of weeks ago we called up a few developers and asked them to come in and get a sneak peek at the iPhone 3.0 SDK and see what they could do in only two weeks and what they' ve done has just blown me away. So I'd like to bring them up here, a few of them, to show you and tell you what they' ve accomplished with iPhone 3.0. We have some phones here that are tethered so they can have their demos on it, all connected up to the screen, and they' ll go ahead and give you some demos. Let's start with Ml BO.
+With over 45 million people sending over 5 billion messages a month, MIBO is one of the fastest growing social Web sites out there and now they are moving it native on the iPhone. To talk you through their experiences, I'd like to invite up Seth Sternberg. Seth. [applausej
+SS Hel l o there. My name is Seth Sternberg and I'm one of the co-founders and CEO of MIBO, which is the Web's real time communication platform and I'm here with Paul Sodan, one of our developers. So we are really excited that Apple invited us here today because, as Scott said, we are announcing that for the first time MIBO's developed a native iPhone application so why don't we go ahead and take a look at the application.
+Apple Confidential
+
+DX-41 92. 007
+
+APL-APPSTORE 00000010
+
+MIBO's goal is to let our users communicate live with their friends across the Web and at
+MIBO.corn regardless of which IM network they may be on. And today we are doing that for 45 million unique users worldwide on a monthly basis. So if we take a look at the application that we' ve built here, we' ve got friends from traditional IM networks like AOL and MSN, friends from new IM networks like Facebook and MySpace and also friends from IM networks that MIBO powers through our new property called Community IM where we are embedded both on our partner sites and over MIBO.corn, such as news corps, gaming site IGN and the social network MyYearbook.
+
+So why don't we go ahead and tap on Paul's name there and it looks like he wants to catch a movie sometime so let's go ahead and say "sure, watchmen." [laughter] Awesome.
+
+Now, of course you may be wondering why did MIBO wait until now to build a native iPhone application? And, as you can see, I just got a push notification from my girlfriend and she is asking if I can grab milk on the way home, so we are going to answer that and keep me out of trouble. MIBO felt that push notifications was the last bit of technology in the iPhone that we needed to build a truly fantastic experience for the users natively. We didn't want to drain their battery life and we wanted a really simple way for them to be able to quit out of the application and easily get back in when it
+m ade senseS.o why don't we go ahead and respond to Monica.Say,"Yes,dear." Fantastic. Now we also wanted to put just a little bit of extra spice in our application on the iPhone as well, and so you can see down at the bottom I' ve got "social feeds" and it looks like I' ve got a new notification there so let's go ahead and click on that. So our partners in community IM can let users like on Flickster know that a friend of mine on Flickster rated a movie or over on IBeatYou it looks like Elaine added me as a friend. Great.
+
+So we are really excited about the application that we are bringing natively to the iPhone. Thank you guys very much. The goal was to build something that was just
+completely between MIBO's properties on the Web and MIBO on the iPhone and we think we' ve created something very special. Take care. [applause]
+
+S
+
+As you c a n see, MIBO is a perfect candidate for push notifications and, in fact, it's the
+
+reason they can bring it to the iPhone now with iPhone 3.0.
+
+Next, EA, Electronic Arts. Electronic Arts is one of the largest game developers in the world and they already have 10 great games on the App Store, including Tetris, Spore,
+SIM City, and Monopoly. To tell you what their experiences have been like with the iPhone 3.0 SDK, I'd like to bring up Travis Boatman. Travis. [applause]
+
+T
+
+Than k s, Scott. Hi everybody. So it's really exciting to be here again. The last time John
+
+and I were here on stage was about a year ago when we actually announced Spore for
+
+the original SDK launch and after the SDK launch, we' ve seen a tremendous explosion of
+
+usage and innovation in the mobile game space, so we are really excited to be back
+
+here again today to talk about the 3.0 version.
+
+Now the 3.0 version is bringing a lot of new interesting features and we wanted to have a game that would demonstrate the use of some of these features and the game we
+
+Apple Confidential
+
+DX-41 92. 008
+
+APL-APPSTORE 00000011
+
+have chosen is a game that's sold over 100 million units worldwide and that game is, of course, the SIMS.
+
+Now you can see her on the SIMS we' ve got a character who is waving at us. He' s probably as comfortable as I am here on stage so we' ll call him Scott. [laughter] So let' s go ahead and bring Scott into the game. Now we are only showing you one small room of the SIMS world here, just Scott's house so we are seeing Scott's going a tour of the house. It's all done beautifully in 3D and, again, this is done with only a couple of weeks
+work here on site.
+
+One of the interesting features about this, as you' ll see in the lower left-hand corner, Scott's got a whole bunch of Samoleans and Samoleans are sort of in-game monetary units that the SIMS use. Let's go spend some of his Samoleans to upgrade his house and
+customize a little bit here. You' ll see that there's a lot of different features we can choose to customize his house, whether they are things like stereos or bookcases or special bathroom utilities, but you' ll notice at the very top of the screen, let's scroll back to the
+top. You' ll see there's a red icon that indicates new features available so these are new features that are being populated over our servers over the network. Let's go pick that hi-fi stereo pack because that looks like something fun we might want to play with. Now here you see the indicator for in-app commerce so we are going to go ahead and purchase that item and this item that we are purchasing we are going to being into the game isn't just cosmetic. It actually has game play value and modifies the features of the game. So let's go ahead and bring that in and put it probably in the living room. So we showed you a little bit of in-app commerce.
+
+The second thing we are going to show you is the media access, so this particular
+
+stereo, Scott likes it. [laughter] So you can see we are using in-app commerce, now we
+
+are going to use the media center so go ahead and tap the stereo and we are going to
+
+play music directly off the iPhone or the iPod Touch. If you don't like that music, you can
+
+tap it again and go to the next song. That seems pretty good. So we are hoping that if
+
+our SIMS like it this much, so will our consumers and that's an example of what you can
+
+do with the SDK 3.0 for iPhone and that's the SIMS 3 and we are Electronic Arts. Thanks
+
+everybody. [applause]
+
+S
+
+Than k s. I don't dance like Elaine. [laughter] I love the fact they are accessing the built-in
+
+iPod Music Library right from the application now, available now in iPhone 3.0.
+
+Next up is Oracle. Oracle is the largest business software company in the world and they are already serving both their and our joint enterprise customers with five applications on the App Store. To talk you through their experiences with the iPhone 3.0 SDK, I'd like to bring up Hoddie Crouch. Hoddie. [applause]
+
+H
+
+Thank y ou, Scott. At Oracle we' ve had tremendous success with the iPhone. In a very
+
+short period of time we brought out a total of five new iPhone apps and the response
+
+has been truly amazing so we jumped at the chance to come here to Cupertino and
+
+enhance some of our apps with the new features of the iPhone 3.0 SDK.
+
+Let's imagine that Chris here is a Vice President of Manufacturing for a toy company. He' s on his way to meet with a new supplier when, as you see here, he's gotten an alert on his iPhone so by tapping the view button here on his iPhone, Oracle Business Indicators
+
+Apple Confidential
+
+DX-41 92. 009
+
+APL-APPSTORE 00000012
+
+is automatically launched. The app establishes a secure connection back to the
+enterprise and retrieves more details about the alert. It looks like we' ve got a critical problem on our Teddy Bear production line and, as we see here, we are running critically low on plastic eyes for the Teddy Bears and nobody wants yet another victim of the worldwide shortage in Teddy Bear eyes. So Chris is responsible for several factories and so he's often on the road. He loves how he can use his iPhone with Oracle Business
+Indicators to keep tabs on the performance of his organization and he can use that updated information as he goes into the meeting with the supplier to get an immediate resolution to the problem. Now even though the supplier has stepped up to the plate and is helping solve our issue, there's still going to be a brief delay in delivering these outstanding orders. So, again, using the power of Business Indicators we can go in and view the outstanding orders and, as we see here, it looks like Bears And More, a key local retailer is going to have the most impact so we'd like to reach out to them and make
+sure that they are as well informed as we go through the process.
+
+So, again, Chris can use Oracle Mobile Sales Assistant to retrieve more information about the Bears And More account. This Mobile Sales Application goes in to our backend CRM system. Again, establishes a secure connection back to the enterprise, and pulls up this
+additional data. So as he scrolls down, we can see the account representative listed in the owner field and in a few short steps, without even leaving the application, he can
+send an email directly to that account rep so that they can keep the customer informed while we fill their outstanding order. Even though Chris is on the road a lot, he can keep in constant contact, receive these alerts as he's out there and respond immediately to changing business conditions.
+
+Now in real life Chris is a member of our CRM product development team. Along with members of our business intelligence team, we were able to modify two of those five applications I talked about earlier with the new capabilities of the iPhone SDK, including email sheet and push notifications. Thank you every one and happy St. Patrick's Day. [applause]
+
+S
+
+Thank s , Hoddie. You know, J.D. Power and Associates recently ran a survey of business
+
+smart phone users and the iPhone ranked number one in customer satisfaction.
+
+Number one in customer satisfaction among business smart phone users. Business users
+
+love the iPhone and they love it even more because of apps like this from Oracle, so
+
+thank you.
+
+Next is ESPN. ESPN, as I'm sure you know, is the worldwide leader in sports and it' s certainly where I turn for all of my sports scores and news. They have one of the best Web apps out there for the iPhone and now with iPhone 3.0 they are moving into native app development. To talk you through their experiences, I'd like to invite up OK Okaru(??). [applause]
+
+OK Th a n k you. The ability for ESPN to be within arms reach throughout the day presents a truly unique opportunity that we have long embraced and are using to deepen our relationship with sports fans. Today we have a wildly popular alert service delivering over 50 million alerts per month to sports fans around the country and we are here today because the new capabilities that are coming in the new iPhone 3.0 SDK will enable us to step things up on the iPhone in a big way. [tone-applause]
+
+Apple Confidential
+
+DX-41 92. 01 0
+
+APL-APPSTORE 00000013
+
+So, using the Push Notification service, we are able to play the tone that you just heard and update the badge number on our application. So let's see what's going on.
+
+Now, the video you are about to see is actually the highlight from the big East Game from last Thursday between Yukon and Syracuse that went to a historic six over times.
+
+[Showing video]
+
+Unbelievable. Unbelievable. Now, that was an amazing game with a truly spectacular finish. Today, though, in order to get that video from us you would need to visit us and pull it. As you saw, we can now bring that to you.
+
+That's not all, though, because what you can't see that's going on behind the scenes, is that we are using the new media player, which automatically delivers the best video experience based on the bandwidth that you have. So, if you come in on a 3G connection, you will get the best video quality experience for 3G. If you come in on a WiFi connection, you will get the best video quality experience for WiFi. So why is that a big deal for us? Well, first off, we are very focused on trying to deliver the best quality experience possible and today we often have to deliver for the very lowest common
+denominator. With this, we don't have to do that. The new media player does the heavy lifting for us. Very good news.
+
+But again, that's not all. So at ESPN we are very focused on delivering a very well rounded experience so with that what I mean is, as Scott had mentioned, we have a very highly trafficked iPhone Web app so for people who are seeking more information than the alert, we are integrating with our mobile Web site so that they can get the analysis or the statistics or the stories behind the actual alert.
+
+So hopefully what we have shown has given you a little bit of a taste for what can be
+done with these new capabilities and we at ESPN look forward to using them to continue to delight sports fans. Thank you. [applause]
+
+S
+
+Thank y o u. As OK said, ESPN delivers over 50 million alerts a month and it's because of
+
+volumes like those that we had to spend the last six months re-architecting the Push
+
+Notification service. [laughter] Now we can.
+
+Next up is LifeScan. LifeScan is a Johnson 8 Johnson company and it is the market leader in glucose monitoring. In fact, in 1987 they pioneered the modern era of testing with the introduction of One Touch technology. To talk you through their experiences and what they believe they can bring to bear with iPhone 3.0,1'd like to invite up Anita Matthew. Anita. [applause]
+
+A
+
+Than k you, Scott. I'm also here with my colleague, Ann Chadford. We' re from LifeScan, a
+
+Johnson 8 Johnson company, and our vision at LifeScan is to create a world without
+
+limits for people with diabetes. Diabetes can be a challenging disease and people often
+
+struggle managing the disease and living a normal life, so what we' ve created for you
+
+today is a groundbreaking prototype with tools to simplify diabetes management.
+
+Apple Confidential
+
+DX-41 92. 01 1
+
+APL-APPSTORE 00000014
+
+Let's imagine we are walking in the shoes of Mattie, a 15-year-old girl with diabetes. Mattie lives an active life. She tests her glucose at least six times a day. She also gives herself multiple injections of insulin, especially one to cover each meal. Let's say Mattie's at school. The first thing Mattie has to do is it's lunchtime and she has to decide how much insulin to take to cover her meal. The first thing she has to do is to prick her finger and take her glucose reading with her One Touch system. You can see Mattie has to do this at least six times a day. That could be painful.
+Now, given the new iPhone 3.0 SDK the meter can now transmit the reading to Mattie's cool iPhone over the Bluetooth or the iPhone 30-pin connector. Mattie's iPhone is the envy of all her friends and now she has her reading on her iPhone. Once on the iPhone, Mattie can mark her reading as fasting before meal or after meal. She can also add a note.
+In addition to that, now she needs to understand what is it that she's going to eat for lunch that day, so she proceeds to the meal builder. Let's say Mattie is going to have for lunch today pizza and a glass of milk.
+Food is a big issue for diabetes. Every time they put something in their mouth they are having to estimate exactly how is that going to affect my glucose levels? Well now she knows that she is going to have 46 grams of carbohydrates.
+The next thing Mattie does is she progresses to the insulin calculator and her insulin dose is automatically calculated for her using her insulin sensitivity factor, her carbohydrate ratio, as well as the glucose reading that she just had.
+Mattie has swim practice today and swimming lowers Mattie's glucose levels so instead of taking the 4.6 units that was calculated for Mattie, Mattie is going to lower her dose and she is going to take 4 units. Keep in mind, most of this math has always been done in Mattie's head. Now it's done for her via this application.
+Diabetes is also a very lonely disease and when at school, Mattie is pretty much left to her own to manage it. Given that she has the iPhone now, she can communicate with the greater diabetes community and get the support of people like her caretakers, her parents, her doctors, etc.
+In addition to that, given the new capabilities of the SDK, Mattie can let her parents know she's OK by sending them a message with her glucose numbers and how she' s feeling. Diabetes is a complex disease and it's complicated in managing, both in the short-term, when you have to decide how much insulin you are giving yourself, as well as in the long-term to prevent complications such as kidney disease and blindness. So Mattie wants to manage her glucose levels and stay in range at all times so we have given here a history review of all of her readings. It's got her glucose readings, the insulin value she has with it, and the time and date at which she took the reading.
+In addition to that, though, it's often difficult to view trends and patterns by looking at a list so we can give Mattie a graphical representation of this information. You can see Mattie is within range most of the time; however, there are a few exceptions and she wants to understand why, so she taps on the dot and she gets the idea that it is a
+Apple Confidential
+
+DX-41 92. 012
+
+APL-APPSTORE 00000015
+
+below...her reading is 65 but she wants more information so she taps on it again and she gets the specifics of that reading. As you can see here, it was before a swim meet and Mattie was really anxious. So what does that mean for Mattie? That means all she has to do is next time lower her insulin dose a little bit more than she did when she has a swim practice. OK? So she knows exactly what to do.
+
+As you can see, we have provided Mattie with the tools she needs that make diabetes management easier and fit right into her lifestyle.
+
+We will continue to create a world without limits for people with diabetes by partnering with Apple and using the new SDK. We will also work closely with the global health authorities, such as the FDA, to ensure that we are compliant and meet all regulatory requirements. Our goal is to move people from managing a burdensome disease to
+intuitively managing a lifestyle, creating the opportunity for them to have better health outcomes and a better quality of life. Thank you. [applause]
+
+S
+
+Than k s. So imagine the possibilities and when you have your iPhone, it's always with
+
+you, it's always connected and now it can talk directly to accessories like that glucose
+
+meter. We think it's profound.
+
+Next, Angie Moco. Angie Moco is a start-up company that was created to develop
+
+games exclusively for the iPhone and the iPod touch. In fact, they were one of the first
+
+companies funded by the iFund, which was announced a year ago here on this stage by
+
+Kleiner Perkins. To give you a sneak peek at a couple of new games they are working on,
+
+I'd like to invite up Neil Young. Neil. [applause]
+
+N Than k s. Hello. We created our company because we believed that the iPhone could revolutionize gaming. It is such an incredible device for playing games on. With multitouch and accelerometer for controls, rich graphics and sound, access to your media. It' s
+a wonderful device. But more importantly, it's always on, it's always with you, and it' s always connected to the network, and it's the potential of that network connectivity
+that is so exciting to us as game makers. It can enable new types of social play, new types of game play experiences and new ways for us as game makers to commercialize our work.
+
+Today we are going to show you two games that we are working on at Angie Moco that couldn't be further apart in terms of their content but both take advantage of that network connectivity and the new features of Apple's 3.0 SDK.
+
+The first is Touch Pets, our social pet simulator and the second is a worldwide sneak peek exclusive look at LiveFire, a multi-player, first person shooter that can be played over WiFi and 3G. To help me demo those products, I'd like to introduce Chris Plummer who is petting puppies in the morning and fragging nubes at night. [laughter] So, Chris,
+take it away.
+
+C Than k s, Neil. So as you just heard, I just received a push notification, one of the new features of SDK 3.0. This is an invitation to a play date with someone else's dog, so I am going to accept that and launch the app. So Touch Pets Dogs is the virtual pet game with its own embedded social network. There's tons of things you can do in the game
+
+Apple Confidential
+
+DX-41 92. 01 3
+
+APL-APPSTORE 00000016
+
+from teaching your dog new tricks and going on adventures and having play dates with other people's dogs on your device, which is what we are going to do in just a moment.
+So, this is my play date. My dog, Scruff, is the Jack Russell here on the right. That's Scruff, and his date is with Mittens, this hot looking Dachshund right here. By lifting up my finger I can drag the dogs around. We are really excited about this because the Al is so sophisticated in the game I can teach my dog all kinds of skills. They develop emotions and relationships. Now Scruff is looking for love and I really want this play date to go well for him so why don't we go to the store and buy him something really cool to wear.
+So I just launched the Touch Pet Store. As you play the game you earn puppy points and with that I can buy literally hundreds of different items, special items to take on missions, gifts that I can give to other dogs on play dates, toys of course, food, care items, and apparel. Now, if I don't like anything that I see here, I can look at the bottom right corner of the screen. It tells me there's some more item packs that I can purchase. I'm just going to launch that. I see there's three different item packs. I'm going to buy the shirt pack. This launches the in-app commerce API. I'm going to accept this from iTunes account. I now have a shirt pack, and as I return to the game, which I can see how the little pups are doing. I'm just checking it out over here. I am going to launch Scruff's inventory. He's got a lot of different items. As I played previously I earned this cool little baseball cap, little collar, and how about this shirt from the shirt pack. OK, so now I think Scruff is looking pretty cool. I' ll give him a little pet. Come here Scruff. Come here buddy. Here you go. I think he's looking pretty cute now. With the stroke of my finger I can give him a little pet. Look at those eyes. He's looking awfully cute. I think he' s super happy. If he has a successful play date, the results will be broadcast on the Touch Pet Social Network for all of his friends to see. [laughter]
+So that's a little example of Touch Pet's dogs. Now let me jump immediately into
+something that's totally different, which is LiveFire. We are so excited [laughter]w, e are
+so excited to bring really the king of all gaming genres to the iPhone with the features of SDK 3.0 that really allow us to take our vision and push the genre forward in places it's never been before.
+So I'm going to launch into a global game server with other players. I think we' ll run into Tim who is our lead engineer. Right now I just pressed anywhere on the left side of the screen to create a touch control with our touch anywhere controls. I can move, I can look, just like any first person shooter. I tap the center of the screen and I can zoom. We also have just Shake the Jump. That didn't take long.
+So if you' ve ever played a first person shooter for the first time, that may have happened to you. Now, our answer to that in LiveFire is to call for help, so thanks to SDK 3.0,1 am just going to pull up my Angie Moco friends list. Neil, who has not only made a lot of first person shooters, he's pretty good at playing them, I'm going to send him a push notification. I don't care if he's out to lunch right now or he's on stage giving a presentation. Nothing's more important than helping me out right now so in a moment, Neil should probably join the global server. Hopefully you' ll accept my invitation, Neil, and while we are waiting for him, I can also bring up one of the other features which is GenApp Commerce and I am just going to level up my fire power. There's a lot of items here that I could purchase right now. How about a rocket launcher? Yes. OK. So now
+Apple Confidential
+
+DX-41 92. 014
+
+APL-APPSTORE 00000017
+
+armed with rocket launcher and there's Neil. Hey, Neil, why don't we try and take the
+high ground. I' ve got a Wingman with me now. Again, features that really were not
+possible before SDK 3.0. Now we' ve got Wingman and Teammate. We are going to cruise around and see if we can pin down Tim. Going down Tim. He just jumped down here. Come on, down, down, down. I'm going. I'm going. Move him back. Move him back. Alright. [applause]
+
+So that's a world exclusive first look at LiveFire. We are so excited to bring this exclusively to the App Store later this year. Thank you very much.
+
+S
+
+Thank s . [applause] Angie Moco continues to amaze us, both with the quantity of
+
+applications they are creating and the quality. I have no idea how they have the same
+
+developers writing both those applications. [laughter] Great.
+
+Next is Samuel. Samuel is the creator of the wildly popular Ocarina Music application. Users of Ocarina have listened to each other in over 40 million performances around the
+world and I'd like to invite up Dr. Ga Wang today to talk to you about a brand new musical instrument they are creating in iPhone 3.0. Dr. Wang. [applause]
+
+GW Tha n k you, Scott. Joining me on stage is David Zu. I'm Ga. I'm an Assistant Professor at Stanford University in the Center for Computer Research and Music and Acoustics. By the way that's short for CCRMA and it's pronounced Carma. I direct the Stanford Laptop Orchestra. That's short for SLORC, as well as the upcoming Stanford Mobile Phone Orchestra, that's short for MOPHO but is spelled with a PH featuring all iPhone, iPod Touches and Worapel speakers.
+
+Leveraging technology with music to change the way we think and do has always been at the core of my mission as a computer music researcher. Driven by that mission and by
+the immense potential of the iPhone platform, I co-founded Smuel in 2008. It's fair to say that without the iPhone and the SDK, there literally would be no Smuel today. In
+November 2008 our team created Ocarina, which transformed the iPhone into a magical, flute-like musical instrument leveraging the physical interactions, breath, multitouch, and tilt. Ocarina's social features are allowing us more than 700,000 users to listen
+to each other play around the world. Our users have also created more than 1,200 unique musical scores earning millions of hits on the forms of people trying to learn the Ocarina or just trying to learn music for the first time on their iPhone. All this showing that it is possible to create new types of global communities on this platform virtually overnight.
+
+It is our belief that everyone is inherently creative and expressive and it is our mission at Smuel to unlock and encourage that creativity in everyone and to find ways to bring people together in a new type of expressive, mobile and social medium. For these reasons, we are extremely excited about iPhone 3.0 SDK for it enables us to further our vision.
+
+Today I am going to give you a sneak peek of the upcoming Smuel application and how we' ve used the SDK to enable some exciting features.
+
+Apple Confidential
+
+DX-41 92. 01 5
+
+APL-APPSTORE 00000018
+
+Leaf Trombone World Stage invites everyone to learn a new whimsical, whacky musical
+instrument and to use that to audition and perform for the world stage and perhaps the world's first massively online social music and gaming experience.
+
+To give you an idea of the instrument itself, a Leaf Trombone slide on the right side moves up and down controlling pitch. Buttons on the top left shifts the range of
+octaves, giving the instrument three full octaves. On the bottom left a music box accompanies you, while the app gives you hints as to where to position the slide next.
+All you have to do to play this instrument is to follow along and blow into the microphone at the right times. Using the SDKs game kit, we' ve actually added a new exciting face-to-face feature, Duet Play, which allows two Leaf Trombonists in close proximity to discover and synchronize with each other over Bluetooth enabling a multi par performance. To give you a demo, David and I will perform a little ditty for you for more information on Leaf Trombone World State in the coming weeks and for these new exciting features with iPhone 3.0. This is "Phantom of the Opera" on Leaf Trombone.
+
+[Playing instrument] [cheers and applause]
+
+S
+
+Grea tj o b . Fantastic. How can I go on after that? Wow! I don't know if you noticed but
+
+the duet was being played, because they were using that connection API to tie those
+
+two iPhones right together. Just incredible. Incredible. You know, when we created the
+
+iPhone SDK, it was to make developers successful and we worked really hard to do that
+
+and it's because of developers like all those who showed things today that we get up in
+
+the morning and work our asses off. We love it and we love to see what's coming out of
+
+these developers and we keep on doing it.
+
+Now, as I said earlier, iPhone 3.0 brings a lot of incredible features for developers. It also brings them for our customers and, in fact, iPhone 3.0 has more than 100 new features
+for our customers. Let me walk you through just a few starting with Cut, Copy and Paste. [applause]
+
+So we have been working really hard to design a easy-to-use, straightforward user interface for cut, copy and paste on our large touch screen display and we think we' ve nailed it. Let me go ahead and just download it for you now.
+
+Here is my phone running iPhone 3.0. I' ll go here. Let me launch mail. I' ll scroll down here a little and here's a message from Daniel Vincent. I guess we are going to some conference in Hawaii and he wants to know what flight I want to take and what I'd like to do there. I' ll go ahead and reply to him and I' ll scroll down and here's how you now select text on the phone. That's it. You double tap on to the text and it automatically
+selects that text. So I'd like to fly Oceanic flight 815.[laughter] You can see it puts these little grab points at the end of the selection and then automatically puts this cut this cut, copy, paste bubble directly above your current selection. I' ll say copy. I' ll scroll back to the top of the message, double tap to bring up this paste bubble and paste. That's it. That is copy and paste in iPhone 3.0.
+
+Now let me go ahead and select this again, double tap to select it, and I' ll cut it. Let's say I want to select the entire block down here. Again, double tap to select that, and now I' ll put my thumb on that right grab point. I get a magnifier for the selection, drag it down,
+
+Apple Confidential
+
+DX-41 92. 016
+
+APL-APPSTORE 00000019
+
+select that entire block and say copy. I' ve now selected the whole block. Again, drag back to the top, double tap and paste. So, is that easy to select whole blocks, multiple words, paragraphs, anything? That's copy and pasting within one application.
+But, of course, we made copy, paste work across all applications. So let me leave this application and I' ll go out to Notes and here in Notes I have a note for some restaurants for Oahu, so I' ll go ahead and select that note and these are the Oahu restaurants here. I' ll put my finger down, bring up that standard magnifier. When I let go, I get the selection bubble. Say select all, so selecting all the text in this note, copy it, leave notes to go back to mail. Again, I just tap to bring up that bubble, paste and now we' ve copied across applications so it's that easy.
+In addition to copying plain text, this is plain text, we also copy Web content, so let me leave here and go to Safari. We copy HTML. Here's a Web page on things to do in Hawaii and we double tap to zoom in a little and what do I want to do? I'd like to swim with the dolphins. So all I do is put my finger and hold it down here. It automatically selects that block. We have this analytics engine in Safari that analyzes the layout, the logical layout of the page and that's how we zoom into the right region when we double tap. We use that here when doing selections. So, in fact, if I want to extend the selection, I just grab on that grab point on the bottom, drag it down, and now I' ve selected two blocks. Go ahead and copy that. HTML content. Leave here, go back to mail, tap to bring up that paste bubble and paste. So, HTML copying across applications.
+Now let's say that I didn't mean to paste that or I typed something I didn't mean to. Well, all you have to do is shake to undo. [applausej You shake your phone, it gives you the options, I can say "undo paste,"undid it. I can shake it again, I can redo it. So you can undo and redo multiple times. I' ll go ahead and undo that.
+Alright, let's show from another application. I' ll go out to our messages application and here I think someone sent me some information about the lolani Palace in SMS as a text message. So right here at the bottom bubble, say we took a great tour of the lolani Palace, just put my finger down, hold it, it selects that entire bubble, gives me that copy, selection above, I' ll say copy, leave, go back into mail. Again, just tap to bring up that paste bubble and now I' ve pasted from SMS right into mail, so across all these key applications.
+So far I' ve only shown copying and pasting from our applications. But, of course, this works for third party apps as well. So I'm going to leave here. I' ll go over to here' s Wikimobile. This is a native third party application. It's a front end to Wikipedia so I' ll launch into here and it has an article about the lolani Palace. I can scroll down. Let's go for palace tours. Expand that out and here are some tour information. I put my finger down, it automatically selected it. You could actually drag around to change your selection if you like, if you didn't select the right thing. If I like that one, copy, leave there, go back to mail, tap to bring up that paste bubble, and paste.
+Now, there's one more thing I want to show you and that is photos. We' ve had a request to send more than one photo at a time and now in iPhone 3.0 you can do that. Let me go into photos and I will choose, I have an Oahu album in here. Here it is. Let me go ahead and I' ll tap on that action button on the bottom. We are in selection mode now.
+Apple Confidential
+
+DX-41 92. 01 7
+
+APL-APPSTORE 00000020
+
+I' ll select the lolani Palace, select that lighthouse, I' ll say copy. It copies both of those photos. Leave here, go back to mail and again, simple. Tap to bring up that paste bubble, paste and I' ve now pasted multiple photos right into mail. So, copy, paste in iPhone 3.0 [applause]
+So we are bringing cut, copy and paste to the iPhone and iPod Touch. It works across all applications, both our built-in applications and developer applications from the App Store. We have shake to undo as well, and there are developer APls so if there's a data type you'd like to put on the pasteboard, you can use the APls to do that and the Coco touch controls have support for copy, paste built in, so if you are using the built-in Coco touch controls, depending on how you use them, adding cut, copy, paste to your application will either be no work at all or very minimal work. Cut, copy, paste.
+Next, landscape. Every since iPhone 1.0, or ever since the beginning, we had support for landscape built into Safari. We used the Accelerometer and so when you just moved it from portrait to landscape, we automatically re-laid out the page in landscape. This is great for reading some stories on the Web.
+A number of our users also loved the fact that if they wanted to enter text into the Web, they could use that big wide screen landscape keyboard we had. We are now, in iPhone 3.0, taking landscape and that landscape keyboard to all of our key applications starting with mail. So now in iPhone 3.0, when you rotate from portrait to landscape, mail automatically re-lays out in landscape. This is great for reading some messages, especially if you get a nice wide screen attachment. You can see the whole thing right there in the window.
+We are also adding support to use that landscape keyboard to compose new messages. So landscape and mail.
+Next, Notes. Again, in portrait, if you rotate to landscape, it will automatically re-lay out and you can use that big landscape keyboard to create new notes or edit existing notes. We are also doing it for our messages application. So, again, portrait support. Rotate to landscape, re-lays out and you can use that landscape keyboard for new messages. So landscape now taken to all of our key applications.
+Next, messages. We have a fantastic text messaging application built into the iPhone and we have some nice enhancements in iPhone 3.0 starting with the ability to forward and delete messages. You can forward and delete individual messages and also multiple messages so you can select multiple messages and forward all of them together. But the big news for the messages application is we are adding support for MMS. [applause] So this is support for multi-media. You can now send and receive photos right over the cell network. You can send and receive contacts. We use the vCard standard here so when you receive a vCard, you can automatically add it to your contact list. Send and receive audio files and you can listen to those audio files right inside the application and you can even send and receive locations so you can go to the maps application. Let's say you are going to meet someone at a location or someone is coming from out of town and you want to send them directions to the hotel, you can send them that location right from maps. And all of this has been added directly into the existing applications.
+Apple Confidential
+
+DX-41 92. 01 8
+
+APL-APPSTORE 00000021
+
+Now you have one app to send and receive text, photos, contacts, audio files and locations. That is what we are doing with messages.
+Next, is a brand new application and that's voice memos and it's gorgeous. This is what it looks like when you are recording a voice memo. You can use this to record voice memos to yourself, to record lectures or interviews. It will use the built-in microphone. You can also plug in an external microphone. Once you' ve recorded it, you can edit that by trimming the memo and then you can share it, either by sending it over email or you can send it over MMS. So, voice memos built in to the home screen with iPhone 3.0.
+Next, calendar. In iPhone 1.0 we supported personal calendars so you could create appointments for yourself, meetings, and it synchronized between your phone and your Mac or PC using iTunes. Last year, in iPhone 2.0, we added support for Exchange and this was always up to date because we synchronized over the air using ActiveSync so your calendar was always up to date. We actually allowed you to either view your personal calendars or your Exchange calendars or you could combine them on one calendar application. This year we are adding support for two additional calendar types. The first is CalDev. So CalDev is a calendaring standard that's supported by Yahoo, by Google, by Oracle, by Mac OS X Server, and a lot of others, and it's great for shared calendars. So you could have a shared family calendar where everyone in the family has access to it and sees the changes that anyone else makes. So CalDev.
+Next is support for subscriptions. This is the ICS format. It allows you to subscribe to things like your favorite sports team schedule or movie premiers or national holidays. So some really nice additions to the calendar application.
+Next is stocks. We have some nice additions here to stocks. This is what our stocks application looks like today. We are adding support for new stories, headlines right at the bottom of the application. We are also adding support for details right in here so you see highs and lows, PEs and even market cap right here in the app. We' ve also added landscape views so when you turn to landscape, you get this nice, big chart. You put one finger down, you can see the stock price at that point in time and if you put two fingers down, you can see the delta between those two points. So some nice additions to the stocks application.
+Next is search. Last year with iPhone 2.0 we added support for search into the contacts application and our customers told us they loved this, the ability to quickly search across all their contacts and find what they are looking for. Well this year we are adding search to all of our key applications starting with mail. In iPhone 3.0 you' ll be able to search messages from someone, to someone, search subjects and search all headers. In addition, if the message you are looking for isn't on your iPhone, you can continue that search on the server. This is supported by Exchange 2007 and most iMap servers. So it will continue that search on the server, respond with all the results and you can view those messages right on your iPhone. So search and mail.
+Next we are also adding search in calendar so you can search across the calendar for that appointment you are looking for. Also, search in iPod. Search for all of your songs by artist, album, song name. You can also search for all your music, videos, TV shows. And search in Notes, by the title of the note or the entire body of the note. So we are adding
+Apple Confidential
+
+DX-41 92. 01 9
+
+APL-APPSTORE 00000022
+
+search to all of these applications, but we didn't stop there. We thought wouldn't it be nice if there was a single location you could go to search across all of these applications? And that's exactly what we did. We created a new home screen where you can search across all of those applications and we call it Spotlight. And so, now to the left of the other home screens there's a single location where you can search across your phone. You see at the bottom here, where it shows what home screen you are on, there's a new icon on the left, which is for Spotlight. Let me go ahead and demo that for you now.
+So here we are on our home screen. I' ll flick to the left and that is Spotlight. Again, here is the home screen you are used to. Here is Spotlight. I' ll go ahead and search for Tim. TI-M. I' ll go ahead and say search. Now I' ve searched across the phone. The first couple of results, those are contacts, so if I tap here on Tim Young, it takes me directly to that contact inside of the phone application and from there you can dial him, you could send an email, you could go and look up his location based on here in maps. I'm going to go back to the home screen. The next three items: The New York Times,the Time Machine in Time Square, those are all applications. If you are like me and you have well over 100 applications on your phone, this makes it really easy to find and launch an application quickly. I can just tap on the Time Machine, it launches that e-book application right there and now I'm reading it.
+Let's go back to the home screen and to Time Machine. The next three items, that' s searching my entire music library, the iPod library so I' ll tap on Take Five.That's o the Time Out album so it matches TIM and, again, it just starts playing, so it's that easy if you want to play some music, go right to Spotlight, search for what you are looking for and play it.
+Back here in Spotlight, you can see the next one. It found a note that had TIM in it. It found two email messages. Again, I can jump right to those, and even a calendar appointment and that is right next to your home screen, a brand new home screen. Just search across your phone. That is Spotlight. [applausej
+So, Spotlight, a single, convenient place to search across your phone. We think you are going to love it. And, again, these are only a few of the more than 100 new features that come as part of iPhone 3.0.
+I want to touch on a few of these because they are important. NoteSync. If you take notes on your iPhone, they' ll now synchronize with your Mac or your PC using iTunes.
+Shake to Shuffle. We are taking a popular feature of the Nano and bringing it to the iPhone and the iPod Touch.
+WiFi Auto Log-in. This allows you to automatically log into your favorite WiFi hot spot. So, for instance, if you have an account at Starbucks for their WiFi hot spots, when you go in, it will automatically connect you to that WiFi hot spot and you can use it and when you leave, it will automatically disconnect.
+Stereo Bluetooth. We are adding support for the A2DP profile of Bluetooth so you can now use your stereo Bluetooth headphones and your stereo Bluetooth speakers.
+Apple Confidential
+
+DX-41 92. 020
+
+APL-APPSTORE 00000023
+
+There's some nice additions to Safari. Antiphishing to help protect you against seams on the Internet and Autofill so it will remember our names and passwords for the favorite Web sites you go to making it easy to log in.
+
+Parental controls. We are extending parental controls to include TV shows, movies and even applications from the App Store.
+
+Languages. We have greatly enhanced the language support by adding support for more languages and really improving the keyboards for languages around the world.
+
+And YouTube. You can now log into your YouTube account which allows you to share your favorites between your iPhone, your desktop and even Apple TV and you can also subscribe to your friends'YouTube channels right on your iPhone.
+
+So, iPhone 3.0. We are so excited about this. There are incredible features for developers and for our customers. Just quickly let me recap the big ones: In-App purchase, a new purchase model enabling things like subscriptions and additional game levels.
+
+Peer-to-peer connectivity, enabling peer-to-peer games and other peer-to-peer apps.
+
+Accessories, now you can write custom applications that talk directly to your accessory.
+
+Maps, a built-in map control that you can embed in your application.
+
+Push Notifications, a generic push notification service for all developers.
+
+Cut, copy and paste, and undo.
+
+Landscape, and that landscape keyboard taken to all of our key applications.
+
+Message, now support for MMS.
+
+A new application, voice memos for recording audio files.
+
+Calendar, now support for CalDev and subscriptions.
+
+Some nice enhancements to the stock application.
+
+Search across all the key applications and Spotlight, a single location on the home screen to search across your phone. And these are only a few of the more than 100 new features and more than 1,000 new APls that make up iPhone OS 3.0.
+
+We are really excited about this as a major update to the operating system and I can' t wait until you get your hands on it. And to tell you how you are going to do that, I'd like to turn it back over to Jos. Thanks. [applausej
+
+G
+
+So we h o p e you are as excited about this release as we are and, of course, how are you
+
+going to get it? How are we going to make it available? Well, we are first going to make
+
+Apple Confidential
+
+DX-41 92. 021
+
+APL-APPSTORE 00000024
+
+it available as a developer beta and the good news is we are going to make that beta available today. Further good news, it's going to be available to everyone in our iPhone developer program and even if you haven't joined the program yet, there's still time because if you join during the beta program, we give you access to that beta as well. Starting today we' ll have all kinds of information available on our developer Web site to make sure you get the most out of your iPhone OS 3.0 development. Much more technical information on everything that Scott showed you today and you saw some developers already taking advantage of.
+And we' ll be hosting developer forums so you can help each other with your development as issues arise and you figure out how to, again, make the most out of iPhone OS3.0development.
+And we' ve designed iPhone OS 3.0 to be compatible with the thousands and thousands of apps that are on the App Store, but like any major release, you should test that as developers and with the beta being available today, you should start your testing now.
+Now I mentioned that the iPhone was available in 80 countries around the world. Well, the App Store has been available in 62 of those countries. We are also now seeing that we are adding 15 more countries to the list so the App Store will now be available in 77 countries around the world. Again, further increasing the audience for which you can sell your apps.
+Now, to take advantage of those additional countries, as well as, again, getting more information on everything we talked about today, we encourage all developers to go to developer. apple.corn.
+But how about the rest of us? You know that iPhone OS 3.0 is going to be a great customer release when it's available and we are going to ship it this summer. And we are going to ship it as a customer update, software update, free to all of our iPhone 3G customers and as a special bonus we' ve even enabled it to work on the original iPhones. Now the hardware has changed enough between these two devices that not all the features will be available on the original iPhone. For instance, MMS and stereo Bluetooth will not be available on the original iPhone but the vast majority of features will, so again, a free update for iPhone customers.
+We are also making it available as a software update for all our iPod Touch customers and it's both generations and, as you know, we charge for significant updates for the iPod Touch but I think you'd agree that at $9.95 or $10.00 it's a great value for all that new capability. So that's iPhone OS 3.0, over 1,000 new APls for developers, over 100 new features for customers, and that developer beta available today and shipping for the rest of us this summer.
+So Scott and I would like to thank you all for showing up, spending your morning with us. We really look forward to the amazing things the developers are going to do with this release to excite our customers this summer. So thank you very much. [applausej
+Apple Confidential
+
+DX-41 92. 022
+
+APL-APPSTORE 00000025
+
+For developers, I'd like to invite you to go upstairs. We have some refreshments. We also have engineers available who can answer a lot of your technical questions that are probably already coming up in your mind. For members of the press, if we could ask you to keep your seats, hang out with us for a while, we' ll invite both Phil Schiller and Scott Forstall to join me on stage and we' ll have a short QBA for you. Thank you very much. [applause]
+[End of recording]
+
+Apple Confidential DX-41 92. 023
+
+APL-APPSTORE 00000026
+
+

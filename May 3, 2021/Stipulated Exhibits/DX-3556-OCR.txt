@@ -1,0 +1,103 @@
+From: Jo h n Jack
+
+Sent: Tue , 7 Nov 2017 15:22:41 +0000 (UTC)
+
+To: Nick Whiting
+
+Cc: Jame s Goldin Joe Graf Balog
+
+; Jeff Farris ; Kim Libreri
+; Nick Penwarden
+
+Subject: Re:Face Tracking w/ARKit - Apple Call - 2017-10-26
+
+; Michael
+
++James so he's in the loop
+
+On Thu, Nov 2, 2017 at 5:18 PM Nick Whiting
+
+wrote:
+
+Sweet!
+
+On Thu, Nov 2, 2017 at 8;54 PM, Kim Libreri
+
+wrote:
+
+Awesome news
+
+On Thu,Nov 2,2017 at2:25 PM, Joe Graf
+
+wrote:
+
+Slightly unrelated but related, I found the hardware accelerated HEVC apis that iOS devices support. This
+
+means the AR streaming thing I did can be hardware encoded/decoded on iDevices to/from Mac/PC. Once
+
+Tiger/Siren wrap up, I' ll get that working and then work with the engine area owners to get it into a
+
+mechanism that can be merged into the main code, On Tue, Oct 31, 2017 at I:03 PM, John Jack
+
+wrote
+
+United StatesDistrict Coun
+
+CI
+
+Noatttcm District of California
+
+Case No. 4:20-ev-05640-YGR
+
+Attendees Vlad Matilovic - 3Lateral
+JJ, Jeff Farris, Michael Balog, Kim Libreri Rob Partington, Allan Schaffer
+
+Case Tille 5 ic Genres, Iac. o. 4 fc, lac.
+
+E&ibit No. 13X-3556
+
+Date Entered
+
+sana Y. sccaa,clos
+
+ay:
+
+, ocyaly etna
+
+s~
+We had a call last week with Allan Schaffer (ARKIt devrel) and Rob Partington (Media dk Entertainment
+devrel) from Apple developer relations re: face tracking with ARKit on the iPhoneX.
+
+We outlined to Apple that we want to do an animated CG character driven by an iPhoneX, probably for GDC. They' re very supportive of the idea, especially if it's also displayed on an iMac Pro.
+
+We went over some of the points covered in this video: htt s://develo er.a l e.com/videos/ la /fall2017/601/
+
+And also reviewed portions of these docs, which include a sample project that we' ll check out:
+htt s//develo era l e cpm/documentation/arkit/creatin face based ar ex eriences
+
+It's pretty much as advertised in their docs.
+
+Vlad was involved in defining some of the 50-ish facial blend shapes that are available within the API, through
+previous work with the FaceShift. So he felt coinfortable that the tech could drive a character using a 3Lat rig, although not at the same fidelity as a more detailed Cubic-style capture.
+
+JJfollowed up and asked foriPhoneX hardware,butasofyetthey haven'tlocated any forus.
+
+CONFIDENTIAL
+
+DX-3556.001
+
+EPIC 00578585
+
+Next steps are for us to discuss internally and work out when we could start on integration, whether this should
+be via Live Link, and better scope out the project.
+John Jack (JJ) Lead ProducerS,pecialProjects
+Kim Libreri, CTO [ ~ Epi c htt s://e ic ames.com/
+John Jack (JJ) Lead ProducerS,pecialProjects
+
+CONFIDENTIAL
+
+DX-3556. 002
+
+EPIC 00578586
+
+

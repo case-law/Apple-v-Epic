@@ -1,0 +1,262 @@
+From Cindy Lawrence TQ: Shasn Pruden
+Subject: Prebrief for Stanza conversation Received(Date) Wed, 11 Mar 2009 15:04:53 -0700
+Cc: Mary Beth Beth Jaues Attachment kindle l.PNG Attachment kindle3.PNG Attachment kindle4.PNG Attachment shortcoversl.PNG Attachment shortcovers2.PNG Attachment shortcovers3.PNG Attachment shortcovers4.PNG Attachment shortcovers6.PNG Attachment ereader2.PNG Attachment ere ader3.PNG Attachment ere ader4.PNG Attachment ereader5.PNG Attachment ere ader6.PNG Attachment ereader9.PNG
+Date Wed, 11 Mar 2009 15:04: 53 -0700
+
+PLAINTIFF
+US. Diclricl Court NDCAL
+4t2lhcv45$40-YGR-TSH
+EpicScreen Inc. c.Apple Inc.
+Sx.no. PX-1703
+Oete Entered sti
+
+For our meeting with Stanza this afternoon, here is a brief review of prior meetings with Mare Prud'Honuneaux, Principal Developer.
+Both Paul Ramsbottom and Mary Beth have met with Mare Prud'hommeaux, Principal Developer Lexcycle Stanza to request he make changes to comply with the Ts snd C's . To date he has not been receptive to changing his app, and has wanted to debate the details of the Ts aud Cs. Eliciting the help of Paul, she met again with Mare. Paul Ramsottom was specific in how Stanzashould proceed, stafing Stanza needed to remove or disablethe embedded web browser for purchasing books and direct the user out to Safitri to purchase the books.
+Mare Prud'hommeaux has responded with 3 proposals, noted below He wants to know which of these three he should be using as his model.
+l. Amazon Kindle: fee sample chapters of books with a buy now button enabling the transaction in the app with one click purchasing.
+2.Indigo Books (Shortcovers):go out to Safarito purchase a book, close Safari snd then go back into the app to read the book.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-1703.1 APL-EG 09668897
+
+3. CurrenteReader solution: browser isembedded inthe app and you purchase a book in the app. This is what Stanza does. His pushback includes: -- his belief that Stanza is singled out --Apple hss approved 8 prior releases of Stanza. --The solution shouldn't be a burden to his users.
+
+Mary Beth Begin forwarded message:
+
+From: Mare Prud'hommeaux (
+
+Date: March 10, 2009 4:53:27 PM PDT
+
+To: Mary Beth Janes ( Ramsbottom (
+
+), Paul
+
+Subject: Re: Lexcycle Stanza & the App Store
+
+Mary Beth 8r Paul-
+As you requested on our callthismorning, I've provided a few proposals forhow Stanza's behavior could be altered to make it more palatable to Apple. Given the lack of specific guidance, and given dtat the iPhone SDK agreement doesn't discuss anything having to do with commerce transactions or downloadable content, I can only base my proposals on the existing behaviorof similar applicafions which have recently had releases approved by Apple. Since you have repeatedly assured me that Apple is committed to ensuring that the rules are applied fairly and consistently, I am certain that one or more of these proposals will be acceptable. As you requested, I have included screenshots of my various proposals.
+l. Amazon's "Kindle for the iPhone" app (version 1.0 released on March 4th):
+Step 1: a free sample chapter of a book is downloaded to the app, which contains a "Buy Now" link at the end:
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-1703.2 APL-EG 09668898
+
+Step 2: The "Buy Now" link is clicked, and the purchase is immediately performed (using credentials that the app requires when you first launch it) and the book is immediately downloaded to the app:
+Step 3: The transaction is completed and the user is presented with the option to read the book:
+This sort of integrated 1-click purchasing is something that we could implement without too much difficulty. Surprisingly, it appears that this app's behavior is in direct contravention with every single on of the "trouble-spots" that Paul outlined (see the quoted e-mail below). However, given that it was just approved last week, its behavior is clearly satisfactory to Apple. If this is the route you would like us to take, please let us know and we can provide you with a timeline for when we think we will be able to implement the 1-click purchasing feature. 2. Indigo Books' "Shortcovers" app (version 1.0 released on February 26th): Step 1: Find a book (e.g., using the "Search" interface"):
+Step 2: Click "Buy Book"
+Step 3: Safari is launched with a simple "Buy Now" button asking to confirm the purchase:
+Step 4: Once the purchase is completed, a button is presented which launches Shortcovers again and opens the book:
+Step 5: Shortcovers is launched and the book is downloaded and is available to read:
+This technique sounds closer to what Paul described on the phone call, although it is, again, in contravention with all of his "trouble-spots" he outlined in the e-mail quoted below. Implementing this method would be a little more difficult for us, because we would have to work with all the different stores we work with. (Recall that Lexcycle doesn't actually sell books, but rather we link to web sites that do sell books using an affiliate scheme.) However, it should be
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1703.3 APL-EG 09668899
+
+something we would be able to implement with some careful planning. 3. Barnes 8c Noble's (formerly Fictionwise's) "eReader" app (version 2.0 released on February 10th): Step 1: Select the "+" button on the top-level page and select "eReader Mobile Site":
+Step 2: An embedded browser is launched, and the user can browse the eReader store (or any other store with a web site):
+Step 3: Once a book is found, the "Buy Now" button is tapped, which adds the book to the shopping cart:
+Step 4: The confirmation page is reached, and the user taps "Continue":
+Step 5: View the purchase confirmation page:
+Step 6: The user then goes to their "BookshelP' and selects the purchased book to download:
+This technique is essentially identical to how Stanza and the other e-book readers (like BookZ and Libris) provide content acquisition. Stanza's catalog browsing interface is more sophisticated, but for the execution of the transaction, the embedded web browser is used in exactly the same way. If this is the method Apple would prefer, please do let us know the exact details of how you see Stanza's current behavior as being different &om eReader's, BookZ's, and Libris'. We would also like some technical guidance on how we can restrict the use of the well-documented and advertised UIWebView class in a way that prevents users &om going to a site on which they can perform a transaction. Bear in mind that the embedded web browser is used by dozens of popular applications on the App Store, so we need to know how they are implemented in a way that prevents them &om being able to perform a transaction. When you evaluate these three proposals, please do be mindful of the fact that we have existing business relationships with our various affiliate partners (Fictionwise (now Barnes 8c Noble), O'Reilly Media, BooksOnBoard, SmashWords, A11RomanceEBooks, etc.), so our solution will need to be something that doesn't raise the specter of tortious interference. In addition, we are
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1703.4 APL-EG 09668900
+
+working with both Google and Adobe (see
+
+(h
+
+r r
+
+r r1
+
+2
+
+2 21 A
+
+M il D ' h
+
+implementing support for their books on the iPhone, so we would need to come up with a
+
+solution that is also going to be satisfactory to those companies.
+
+In closing, we find it troubling that Apple has chosen to single out our application as being in the "periphery of what is permitted". Furthermore, I was very surprised to lean on our call this morning that Mary Beth was not aware that Amazon's Kindle app performs purchasing &om within the application, which suggests to me that there is little comprehensive understanding and agreement at Apple about what these applications are even doing, let alone what it allowed and what isn' t.
+
+Had we been made awareof these concerns earlier,perhaps during the review process of one of
+our 8 releases that have been approved by Apple during Stanza's 8 month tenure on the App Store, we would have been able to better assess our commitment as loyal developers for the iPhone and Mac platforms, and we may have reconsidered quitting our jobs in order to become iPhone developers full-time. As I' ve mentioned, Stanza has garnered unprecedented media attention and community support. We just passed 1.5 million downloads, and as you can see by reading through the reviews of the application, people are saying that they are going out and purchasing iPhones and iPods simply to be able to use Stanza, as well as testimonials to how Stanza is a godsend to people with reading disabilities (due to the enormous amount of customizability that Stanza is capable of). I can't begin to imagine how distraught our users would be if Stanza's future were to be placed in jeopardy by Apple.
+
+However, I am comforted by your repeated assertions that you are planning on applying the rules in a consistent and fair way. While Paul's e-mail contained ominous suggestions that Apple may be applying secret ex post facto rules, I'm sure that we can come to some agreement on how we can work together in way that is mutually satisfactory.
+
+On Feb 27, 2009, at 3:01 PM, Paul Ramsbottom wrote:
+
+Mare, Yes, it was good to chat with you also, and I hope the pointers were helpful.
+
+When you say below 'My understanding is that there isn't any problem with Stanza's functionality except that it is currently possible to complete a purchase transactionfrom within the Stanza app itsefl ' You are semantically stretching the scope of our conversation. All we talked about was the issue of in-app transactions and the need to conduct purchases and
+downloads using mobile Safari (rather than in-app or even using web UI views).
+Broadly speaking I think you are mostly OK but I'm not going to give you a written "do this and you' ll be guaranteed to get approved" for all the reasons I outlined this morning and not leastly because I play no role in the approval process itself.
+
+And let me very clear about this, being "mostly OK" doesn't mean you will sail through the approval process without a hitch, and we may ask for further changes and refinements. I simply cannot tell what those might be until I get an idea of how your will re-implement your
+
+) ) on
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1703.5 APL-EG 09668901
+
+transactions.
+Again, I need to caution you to stay close to us as you work through your implementation. The whole eBook and subscription market on the iPhone is in a degree of flux, and there's both uncertainty and risk present that you may not find in other market segments. Even examples that are valid and present on the iTunes app store today, may not be appropriate in the future.
+If it helps, the three broad 'trouble-spots with this type of app tend to be (his is not intended to be an exhaustive list):
+1. Not using Mobile Safari for transactions, including strategies that might use Safari but still put 'buy now' button functionality in the app UI itself, auto-logins or other things that might mimic an in-app transaction experience. 2. Content that is abridged and not persistent (e.g. your books must be full and always be available to the reader and should not otherwise time-out or expire (including when disconnected &om phone/network connectivity). 3. You app functionality should be mirrored on both your desk-top e-Book store and the app, e.g. accounts and credentialing and the primary the 'Browse, Buy, Transmit, Read and Store' aspects of your e-Book reader. 4. Your app should still be a great app with 'crowd-pleasing functionality and UI, not just a simple conduit or advertisement for your separate e-Book store. 5. Your app should meet all our other requirements, and content you make available might also be subject to further requirements of taste and decency.
+A specific bit of feedback: I' ve downloaded and used your desktop app. It seems to have been in beta for a long time and, IMHO, is a little lacking in features and functionality.
+Remember, all of this can and will most likely change. You' ve chosen to work in an area that is at the very periphery of what is permitted, so please be cognizant of that.
+Send Mary beth those screenshots so we can give you further feedback. We' re here to help, even if it might not seem like it at times.
+Regrettably I can influence approval times. Apps in this genre may require additional time for review.
+Best wishes,
+Paul.
+On Feb 27,2009, at1:34 PM, Mare Prud'hommeaux wrote:
+Paul-
+It was good speaking with you just now. I'm going to work on a proposal for how Stanza's functionality can be brought in-line with Apple's desired behavior, but I first want to ensure that my take-away &om our conversation is accurate. My understanding is that there isn't any
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1703.6 APL-EG 09668902
+
+problem with Stanza's functionality except that it is currently possible to complete a purchase transaction &om within the Stanza app itself. So if we instead launch the Safari process separately and allow the user to perform the transaction in there, then we will be OK?
+On a separate topic, the Stanza 1.8 update has been sitting in the review queue since January 28th. I am concerned that the review process is being held up by this particular issue. Since we submitted the release well before Mary Beth first contacted us on February 12th, would it be possible to get this release out to our users? It contains a number of critical bug fixes that peoplehave been very eagerly waiting for.
+On Feb 27, 2009, at 11:13 AM, Mary Beth Janes wrote:
+Mare,
+I am working on having someone on a call in about 10 minutes.
+Mary Beth
+On Feb 26,2009, at3:15 PM, Mare Prud'hommeaux wrote: Mary BethWhen can I expect to talk to someone about this?
+On Feb 25,2009, at4:56 PM, Mare Prud'hommeaux wrote:
+Mary BethI'm troubled that I still haven't heard anything back &om you about this. Can you please send me the contact information for someone I can speak to directly about this matter tomorrow?
+On Feb 24,2009, at4:52 PM, Mare Prud'hommeaux wrote:
+Mary BethIt was good talking to you again this afternoon. I assume you weren't successful in getting a hold of someone with whom we can further discuss the issue. We' re starting to become gravely concerned that it has been nearly two weeks since you first contacted us, and after four phone calls we still haven't gotten any closer to understanding specifically what it is you think we are doing wrong, let alone what Apple would want us to do differently. Apple has approved at least three releases of applications with functionality very similar ours over the past couple weeks, so I hope you will sympathize with our confusion, distress, and anxiety.
+Stanza has consistently been one of the most popular applications on the App Store since it first opened, and Apple has reviewed all eight of our releases for compliance; we are finding it difficult to grasp why we are suddenly being held to some different (and, as of yet, unarticulated) standard. We have 1.4 million users and we are constantly being featured in major newspapers and magazines (you can see a sampling at ( h / /n e w s.lexc cle.com))I. can't begin to imagine how distraught our users would be if Stanza's future were to be placed in jeopardy.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1703.7 APL-EG 09668903
+
+I am formally requesting that you escalate this issue as urgently as possible. I will be available most of the day tomorrow for a phone call.
+On Feb 24,2009, at12:26 PM, Mare Prud'hommeaux wrote: Mary BethGreat! How about 2PM PST? I'm also available any other time this afternoon. if that works better for you. I can call you at your number, or you can call me at
+My colleagues Neelan and Abe will probably not be able to attend (they have other meetings today), but we can always schedule a follow-up conference call should we not manage to get the issue resolved today.
+On Feb 24, 2009, at 12:20 PM, Mary Beth Janes wrote:
+Mare, We can do this afternoon or tomorrow.
+Mary Beth
+On Feb 24,2009, at12:09 PM, Mare Prud'hommeaux wrote:
+Mary BethHave you hada chance to arrange for our next call?We would preferthisafternoon, but tomorrow will work as well.
+On Feb 23, 2009, at 10:59 AM, Mare Prud'hommeaux wrote: Mary BethHave you been able to arrange for the next call we discussed on Thursday? As you might imagine, we are very eager to get this issue resolved as quickly as possible, so if we could do a call sometime this afternoon, that would be perfect.
+On Feb 19,2009, at3:53 PM, Mare Prud'hommeaux wrote:
+Mary BethIt was good speaking with you again just now. As I mentioned, we are looking forward to having another call to further discuss and resolve this issue. We are available most of Monday to talk. We can also talk tomorrow (Friday) if that works better with your schedules. I expect that both Neelan and Abe (CC'd on this e-mail) will again be present on the call, schedules permitting.
+Please do let me know if there is any other information I can provide in advance of our next call.
+On Feb 19, 2009, at 11:07 AM, Mary Beth Janes wrote:
+That is perfect -- thank you for doing this. Mary Beth
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1703.8 APL-EG 09668904
+
+On Feb 19, 2009, at 11:05 AM, Mare Prud'hommeaux wrote: Mary BethNo problem at all. How about 2:30PM PST? If that is OK with you, I' ll give you a call then.
+On Feb 19, 2009, at 11:00 AM, Mary Beth Janes wrote:
+Mare, I am really sorry to do this, but I am in a meeting I am not able to leave. Can we reschedule this afternoon?
+Mary Beth
+On Feb 18, 2009, at 4:31 PM, Mare Prud'hommeaux wrote:
+Mary BethIt was good speaking with you last Friday; I hope your travels this week went well. I just want to confirm our phone call on Thursdav morning at 11:00AM PST. If that is still a good time for you, we' ll give you a call at
+I also wanted to see if you could provide me with any pointers to the specific area of the agreement that is the source of the problem? That would greatly help us in trying to figure out thecause for concern and how we can reach a resolution.
+On Feb 13, 2009, at 10:57 AM, Mare Prud'hommeaux wrote: Mary BethBefore we have our phone call, will you provide me with details about which specific section of the iPhone SDK agreement you perceive us to be in violation of?
+We have always been extra cautious about ensuring we remain in compliance with all of our obligations under our legal agreements with Apple. Upon a quick review of the Agreement, I was not able to find any provision that we violate. Accordingly, if you could pass this information on, this will help us better understand where the problem might be and how we might best come to a quick resolution.
+On Feb 12, 2009, at 6:44 PM, Mary Beth Janes wrote:
+That wouldbe perfect. Talk to you then.
+Mary Beth
+On Feb 12,2009, at3:39 PM, Mare Prud'hommeaux wrote:
+Mary BethThanks for accommodating my travel schedule. 3:00PM PT will work fine; I will give
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1703.9 APL-EG 09668905
+
+y ~ t~ cally
+
+W Ad y ' 4Ã y magueN I j '
+
+In the meantime, if there is any clarifying information you can send concerning what we briefly discussed, that would greatly help us. We are, of course, very concerned about any perceived issue with Apple's terms and conditions. As Stanza is one of the most
+popular and lauded applications in the App Store, we certainly don't want to do anything that would jeopardize our relationship with Apple.
+
+On Feb 12, 2009, at 5:24 PM, Mary Beth Janes wrote:
+Merc, Here is my contact information:
+
+Mary Beth Janes Apple 1 Infinite Loop, MS 303-2EV Cupertino. CA 95014
+email:
+pn
+
+If we could meet around th00 pm PT that would be great. If this time does not work for you, please let me know a time that would.
+Thanks,
+Mary Beth
+
+Merc Prud'hornmeaux Principal Developer, Lexcycle
+Merc Prud'hornmeaux Principal Developer, Lexcycle
+
+Merc Prud'hornmeaux Principal Developer, Lexcycle
+Merc Prud'hommeaux Principal Developer, Lexcycle
+Merc Prud'hornmeaux Principal Developer, Lexcycle
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-1703.10 APL-EG 09668906
+
+Mare Prud'hommeaux Principal Developer, Lexcycle
+Mare Prud'hommeaux Principal Developer, Lexcycle
+Mare Prud'hommeaux Principal Developer, Lexcycle
+Mare Prud'hommeaux Principal Developer, Lexcycle
+Mare Prud'hommeaux Principal Developer, Lexcycle
+Mare Prud'hommeaux Principal Developer, Lexcycle
+Mare Prud'hommeaux Principal Developer, Lexcycle
+Paul Ramsbottom enior Alliance Manager pple Worldwide Developer Relations Infinite Loop: MS 303-2EV
+Cupertino, CA 95014
+Email:
+
+Cell: ~
+
+(for urg e nt matters)
+
+THINK BEFORE YOU PRINT! Please don't print this email unless you really need to
+
+Mare Prud'hommeaux Principal Developer, Lexcycle
+Mare Prud'hommeaux Principal Developer, Lexcycle
+Mare Prud'hommeaux
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1703.11 APL-EG 09668907
+
+Principal Developer, Lexcycle
+
+Mare Prud'hommeaux Principal Developer, Lexcycle
+
+Paul Ramsbottom Senior Alliance Manager Apple Worldwide Developer Relations
+3 Infinite Loop: MS 303-2EV Cupertino, CA 95014
+
+Email:
+
+Tel: ~
+
+Cell: ~
+
+(for urg e nt matters)
+
+THINK BEFORE YOU PRINT! Please don't print this email unless you really need to
+
+Mare Prud'hommeaux Principal Developer, Lexcycle
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-1703.12 APL-EG 09668908
+
+

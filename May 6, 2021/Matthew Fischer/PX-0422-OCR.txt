@@ -1,0 +1,107 @@
+From :
+
+Sher ee Chan
+
+To:
+
+Eddy Cue
+
+CC:
+
+Matt Fischer
+
+Phil Schiller
+
+Lindsey Blumenthal
+
+BCC:
+
+Subject: Re: Membership Subscriptions
+
+Attachments:
+
+Sent:
+
+07/20/2018 12:22:56 AM 0000 (GMT)
+
+Hi Eddy,
+
+, Carson Oliver
+PLAINTIFF
+U.S. Dlstrlat Canrt - NCCAL
+4:20~ 00 40-YGR-TSH
+aDn: esrnsnInc.E.Jtctrtc Inc.
+Ex.Na PX-0422
+Sy
+
+Matt mentioned that you had a positive meeting with Dare from Uber last week, and that you'd like an update on our discussions with Uber regarding their subscription plans as well as where things stand with Membership Subscriptions internally. Here are the key takeaways from our last meeting with Uber.
+
+· Uber has started testing a new subscription variation around "Price Consistency". Consumer pays $15-40/month to ensure consistent pricing for all routes (vs just one route as initially planned) which would effectively remove all surge pricing. Currently testing in NYC and a few other cities. They plan to launch nationwide Sept/Oct.
+· Uber also mentioned that they have more subscription plans in the works - potentially for bikes, food delivery, etc. Sounds like they are planning to make these subscriptions a key cornerstone of their offeings.
+· We let Uber know that they should start planning to use IAP for the subscription portion. · As we expected, they balked at the 30% rev share. They started asking about worksrounds (i.e. directing people to
+subscribe via the web etc). As our conversation consnued, they seemed to start accepting that they would likely need to pass the 30% along to the consumer. However, I doubt this will be the end of the commissions discussion with them. Uber operates on slim margins, as do many of these physical goods and services developers. So we anticipate our curmnt commission structure will be a key sticking point for these types of developers to adopt IAP. · Uber also expressed concern about needing to implement StoreKit and maintain an addi8onal payment method, stating that they don't currently have the operational resources. We have connected them directly with our Ops team to work out those details.
+
+The main outstanding issues that still need to be resolved internally are:
+1. Existing apps with memberships. As you rightly pointed out, we still need to decide on the right course of action to take with the existing Membership aplxe that sell direct today. Examples include: Postmates, Instacart, and Costco. Both Uber and Lyfl have already tried and will likely continue to try to poke holes in our policy if it is inconsistently enforced. We' ve raised this Issue with App Review but I don't believe any action has been taken yet.
+
+Agamsy Client tDrivilsgs
+
+Finally, please note that WWDR has been working on setung up an Apple-Uber exec meefing but the timing is still tentative. Hope this helps and please let us know if you have questions/comments. Thanksl
+
+D J 1 18.2318. t 1 :31 PM, Eddr c ~
+
+t:
+
+I think its a great next step.
+
+The biggest issue is what to do about all the existing apps that sell direct today.
+
+Lots of questions and ideas but lets get going.
+
+CONFIDENTIAL
+
+Exhibit PX 422
+PX-0422.1
+APL-APPSTORE 09801574
+
+On Jul 11, 2018, at 8:27AM, Matt Fischer
+Eddy,
+To follow up on my text, we think Membership Subscriptions is a big idea that could create a new revenue stream for the App Store with developers we don't currently monetize with (e.g. Uber, Lylt, Postmates, Costco, etc.). We shared this with Phil last month and he was very supportive.
+Also, we hear that Tim is meeting with Dsra from Ubsr soon and we expeot this topic is come up, so we want to make sure Tim iS aware of the concept as well.
+We'd love to hear your thoughts.
+Best, Maa
+
+On Jun 26, 2016, at 11:13 AM. Shares Chang
+
+wrote:
+
+Hi Eddy,
+
+Endosed is the Membership Subscrlptlons proposal that we shared with Phil on Friday,6/1. We believe Membership Subscrlptions will become a sizable new revenue stream but if we don't move quickly to set the precedent, our window of
+opportunity to capture it will close. Lyftand Uber are two notable developers which are planning to launch subscriptions in their app soon. Phil confirmed that these memberships should be considered s new sub-category for subscripticns. He also agreed that apps which offer these types of memberships, should be using IAP. As a next step, we ars working with App Review/Legal to formalize our policy on Membership Subscriptions.
+
+Summary of presentation:
+· There is a rising trend of traditionally physical goods and services developers selling subscriptions that provideaccess to various benefits (e.g. unlimited free deliveries, discounts, unique access, etc). Amazon Prime is a classic example of this and was recently approved for IAP.
+· Multiple apps have launched or are planning to launch memberships programs, where the purchase of the membemhip is de-coupled from the purchase of the actual product or service. Uber and Lyft are currently testing various subscription models (e.g. Pay 61 0/month to lock in a flat rate from home to work and10'/voff all other rides; Pay $400 upfront for unlimited rides, etc). Lyft has told us they will pursue a full-scale launch as early as next month.
+· We introduced s framework for how to think about monetizascn on the App Store in it's current state...and how it might look like in the future (page 2&3). We believe Membership Subscdipfions can become s key lever to monetize some of the most popular free spps.
+· In addition to the apps that currently havemembership subscriptions (e.g. Postmates, Costco, and Instacart) there are many additional apps that could bsnedt from a membership subscription (e.g. Nordstrom, Alibabs, Tickstmaster, etc). Our team would like to proactively pitch these partners to offer membership subswiptions and to discuss the benefits of IAP, once our policy is ofgcial.
+· Many of these developers recognize the benefits of using our subscriptions platform, particularly as a way to launch and operationalize these memberships quickly. However, we anticipate our 30/ commission will be a key concern for them.
+
+Please reach out with any questions and we'd be happy to discuss live.
+Thanks, Shares and Lindsey
+
+<Membership Subscription Proposal May 2018 copy 2.pdf)
+
+CONFIDENTIAL
+
+PX-0422.2
+APL-APPSTORE 09801575
+
+Sheree Chang I App Store I 1 Apple Park Way, MS: 923<APP, Cupertino, CA 95014 I
+
+CONFIDENTIAL
+
+PX-0422.3
+APL-APPSTORE 098015'%
+
+

@@ -1,0 +1,566 @@
+From:
+
+Mark Rein
+
+Sent:
+
+Mon, 15 Apr 2019 14:23:43 +0000 (UTC)
+
+TQ:
+
+Daniel Vogel
+
+Cct
+
+Arjan Brussee
+
+Sweeney
+
+Mustard Adam Schrader (
+
+Gobbi Rekman
+Steve Alhson
+
+; Mare Petit ; Pau Mee an
+; Andrew Grant
+; Scott Nolfi Jason West ; Chris D
+nwarden ; Bill Fine
+; Joe Kreiner
+
+Subject: Re: Walmartmeeting follow up
+
+Attachments: Project Storm Epic.pdf
+
+Unite) States District Court
+
+Cl
+
+Northern District of California
+
+Case No. 4:20-cv-05640-YGR
+
+Case TitleS Ic Gsarsr, Iac v.Appfe Iac
+
+Exhibit No.DX-345l
+
+Date Entered
+
+snoonr. coons,clos
+
+na
+
+Donar clou
+
+I Ttm
+
+Gerern
+
+; Greg i I
+
+Daniel,
+We did not have a meeting to align on vision. I think we should as these sorts of things are only going to gmw NVIDIA has done deals with mobile operators in Asia amund their service. If these turn into rent-a-high-end-PC services aud they'rc popular then supporting than from the launcher makes alot of sense.Onething theseguyswant to oil'er is pre-loadedgarnessuch that the Fortnite client is running in the lobby app already but with player logged out. When they choose Fortnite we use angle sign-on tc log them into that egest so there's only a few seconds loading time as opposed to a few minutes today. Players get into the Foruute game much faster so they gct iato the action, or into the item shop, faster.
+M, Matt snd I met with We)mart executives to hear their blind pitch (aw didn't know they'd be pitchiug a streaming service) acd it wss intriguing.
+I played Walmart's demo on an Aruhoid phone (with an Xbox contmller) and the experience felt like playing cn PS4 and superior to playing on Android or iOS. They also moved it over to a laptop in real time (video stream hopped &om phone to laptop instantly) aud I played it thtse too. Again, it was VASTLY superior to playing it on my daughtem Surface Pm laptop (the most expensive version no less! ) or the crappy business hptop they brought. They'se going to seg the clip for s cmzy low amount, they werc saying something like 52. Haec's what it looks like. That little kickstand is the killer part of this. With that the conuoller holds itself up nicety and it doesn't get in the way when you'reusing it. It wss more comfortable than playing on a Nintendo Switch,
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3461.001
+
+Exhibit 0035
+Penwardeit
+EPIC 00060876
+
+/am",a
+
+Google Stadia is a lot different fmm what Walmart and Nvidia are doing. Wahmut's and Nvidia's services runs on Windows and supports our launcher. I' ve attached their deck here but please everyone treat this a HIGHLY CONFIDENTIAL. Nvidia also runs on Windows and they said they already have 300,000 monthly active usas playing Fortnite on their service. Google is a complete port over to a new opemting system and platform with their own APIs etc.
+
+I think these cloud services could act as a user acquisition funnel and amplify our marketing and reach. I like the idea of testing feasibihty from a technical standpoint. I'm not arne we actually stop them anyway if they' re just renting PCs to people over the cloud and supporting our huncher and I'm not sure we wouldn't want to enablesingle sign-on / autheatication anyway. But I have someconcerns about the businessmodel. My main concern about the businessmodel is that If customers feels they' repaying sic/month to play Fortnite they might thmgs thurs their spend on thegame rather than buying in-game items and Battle Passes. But I think we can overcome that by partnering with these companies on promotions Walmart is open to exploring all kinds of business models but I expect their service will be tbe least expeusive of ag of these because they' re Walmart and that' s their gig.
+
+In addition Walmart said they' re going to change their in-store gaming formats to get away from games being locked into sections for Sony,
+
+Microsoft and Nintendo and inst' a big game like Fortnite would have all of it's content together in one place (PC. PS4. Xbox, Vbucks cards when
+
+we have them, merchandise) with signage and promotion. In addition we could sell Battle Pass/V-Bucks cards/codes to Wahnart duectly (at far lower
+
+thea 30%) if we wanted to. Bottom line is there's a huge poteatial for ~
+
+more For/nits sales out of Walmart especially if we support their
+
+efforts on this.
+
+Today we pay Sony, Micromtt and Nintendo 30% because they subsidize the hardware and do a lot of marketing for us. Clearly that's what Walmmt wants to do but the hardware stays in the data cantata rather than in customers' hands. Last I heard Google's Stadia businessmodel is 30% of game purchases with no monthly charge to users. They don't cwiently accomodate free-to-play games but said they would considw Fortnite under some model where you buy SX worth of V-Bucks to get Y months worth of service and they would take their 30% cut and promote the game like
+Microsoftand Sony do.
+
+But the first step is figuring out, fmm a technical standpoint, if these cloud services can pmvide an equal or better experience, with more convenience, to our customers. With Wahnart and NVIDIA we can do that with minimal disruption because they' re already running our game.
+
+Also - just to be clear that while I'rn talking about Foimite mostly, Walnuut and NVIDIA are both also interested in supporting the Epic GamesStom with theseservices which is uhy I' vecopied JoeandSteve on this.
+
+On Mon, Apr 15, 2019 at 7:26 AM Daniel Vogel
+Did we already have a discussion around strategy for streaming services like Stadia and ProjectStorm?
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3451.002
+
+EPIC 00089877
+
+Apologies if I'm late to the party -- I just want to make sure we are all aligned on high level vision before we talk with Walmait
+-- Daniel, Epic Games Inc.
+
+On Fri, Apr 12, 2019 at 6:18 PM Arjan Brussee
+
+wrote:
+
+yep, thanks for the callout, they also were asking to get builds as much in advance as possible, so they can disuibute to all their machines, That's a thing to discuss also with our Release-teams. The tech behind is is LiquidSky. Certainly a bunch of work here, many other things are perhaps higher priority but let's do the chat & basic evaluation and take it from there. Walmart is a huge power that can drive digital+retail both (remember
+those V-Bucks cards?)
+
+They want to come over, i'm penciling in Monday April 22nd for now (afier visits next week), will send invite when i know more.
+
+-arl all
+
+On Fri, Apr 12, 2019 at 5:30 PM Andrew Grant
+
+wrote:
+
+When we did this with NVidia (Geforce Now) the hurdles were less about the tech stack (integrating SDK, tuning scalability for their hardware etc) and inore around deployment. E.g. for the first 2-3 months with Nvidia we were literally uploading giant (giant!) zip files to their backend during our release downtime and crossing our fingers that nothing would go wrong, which it oAen did at first. There's a temptation to look at these as just another way of leveraging a PC SKU but it's effectively committing to an additional platform so understanding what facilities they have for QA and deployment is
+super important.
+
+On Fri, Apr 12, 2019 at 5:06 PM Arjan Brussee (
+
+wrote:
+
+FYI Per request from Mark Rein, we want to spin up a Evaluafion of this Walmart Project Storm. They have
+Fortnite (PC) running on their Edge cloud, streaming to any platform. They' re planning to very aggressively develop and roll this out.
+In the evaluation, we should initially assess Gameplay & Technology and see how this performs, before diving into integration details separately. Interesting to see how our AWS server-locations play into this (w/ additional latency).
+Idea is, when we engage early with them, we can steer the conversation (which they are open to) regarding SSO (link to Epic?), Commerce&Business (cross progression & items part of Epic account) etcetera. They already say it's an Open Platform approach which could integrate nicely.
+Fll figure out with Walmart folks when/how we can evaluate, and will send you invite after. And please keep confidential.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3451.003
+
+EPIC 00089878
+
+-- - - - F orwarde
+From: Mark Rein Date: Fri, Apr 12, 2 a Subject: Fwd; Walrn m 'n f ll To: Arjan Brussee
+
+, Scott Nolfi
+
+Here's the Walmart Project Storm.
+
+--Forwarded messa e -------
+
+From: Marie Pacini
+
+Date: Mon, Apr I, 2019 at 1:58 PM
+
+Subject: Walma
+
+To: Mark Rein CC: Ian McLou hlin
+
+, D M D ai d ~
+
+, Chris Nagelson
+
+, Dary T b ay
+
+Hi Mark,
+Thanks for the very productive meeting and the great conversation last Friday. Given we have less than 3 months to E3 wanted to get the ball rolling right away. Attached you' ll find the slides we presented. Pls only share with people under NDA as they are highly confidential. The LS team is working on a demo link they' ll be able to share in a couple of weeks from now to run the service on Chrome. A mobile device with the app will be available in May. In a few weeks we will also be able to give you an idea of what the in-store experience will look like.
+Ian would like to talk to someone on your team about the SSO integration work so that we can assess the level of elfort that, as discussed, we expect it to be extremely low.
+Looking forward to hearing back from you.
+Cheers
+Mario
+
+Mark Rein, Epic Games, Inc.
+Visit us at h / / w ww e ic ames corn
+
+Mark Rein, Epic Games, Inc.
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3451.004
+
+EPIC 00089879
+
+Visit us at htt://www.e ic ames.com
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3451.005
+
+EPIC 00089880
+
+r o ec o r m
+March, 2019
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3451.006
+
+EPIC 00089881
+
+The Future Of Video Games Is In Digital Platforms
+Digital Gaming Worth $33B By 2020
+
+9.0% CAGR
+
+20'I5
+
+20'I7
+
+20'Is
+
+20'I::9
+
+5 H@rdW@re 8t ACCeSSCrIeS:::.:::::PhySiC@l V Ide06 c l r n e S
+::::B:::igIteI VIdec G @rAes
+
+2020
+
+Di ital Gamin · $33B opportunity by 2020
+-- 75% of totalgaming market
+-- 15% CAGR · Walmart share= 2% (2018)
+Ph sical Gamin:
+· De clining at 2% CAGR · Walmart share = 25%
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3451.007
+
+EPIC 00089882
+
+Edge Computing Brings Gaming Closest To The Customer
+Tomorrow
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· · · rr rg
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+···· ·
+
+·
+
+·
+
+·
+
+·
+
+r r rrr · 'i
+
+« « «
+
+rr r \
+
+«·« ··r
+
+· · · r ·· · · · ·
+
+·
+
+r·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· ·· r · ···r · ·
+
+·
+
+·
+
+· · · \
+
+·
+
+·
+
+·
+
+·
+
+.«;
+
+r r · r r ·· · · r · ·· · · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+r r
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+;;;;;;;;;;; ..r..r,r.
+
+i gyrr r
+
+r ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+g
+
+C
+
+«4h «g«r,'
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3451.008
+
+EPIC 00089883
+
+Walmart Is Positioned To Win ln Digital Gaming
+
+Walmart is uniquely positioned to win...
+
+...and our customers are asking for it.
+US Walmart Shoppers (millions)
+
+Total Walmart Shoppers (Weekly or Monthly Frequency)
+...Who Play Games on Smartphones or Tablets
+... Who Play Games on PC
+...Who Play Games on Console
+
+140
+70% of frequent
+98
+Wa lmart shoppers play mobile games
+53
+<40% of frequent Walmart customers play on PC or console
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3451.009
+
+EPIC 00089884
+
+How we are building it
+
+Cloud Platform
+
+3rd party Launchers --AAA Games
+
+(6RUPLAv
+
+Indie Games
+
+Subscribe Buy
+Bring your own game (BYOG)
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3451.010
+
+Developers Tools
+Content: Subscription, sales and integration with 3" party launchers
+Edge computing network (iCDN)
+Play on any device, anywhere
+Intuitive customer experience to allow easy access to any content
+EPIC 00089885
+
+When will we launch?
+Focus on a carefully managed ramp to full scale launch driven by the voice of the customer
+
+Phase 0
+Build Momentum
+
+Phase 1
+Beta
+
+Phase 2
+Deploy
+
+Phase 3
+Scale
+
+FEB
+
+JUN JUL
+
+TBD TBD
+
+TBD T BD
+
+TBD
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3451.011
+
+EPIC 00089886
+
+Preliminary Beta User Experience concepts
+C,' d
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3451.012
+
+EPIC 00089887
+
+What sets us apart
+· Op en ecosystem: content and device agnostic -- no walled garden
+0
+· One stop shopping: brings all launchers in one place -- "channel" and catalog view
+· Low touch: no work needed on the developer's end · 3'd party support: stream button option for partners available
+· Flexibility: Stream from the cloud or download and play locally · Physical stores: demos and trials to 100M garners that walk in a WM store weekly · Me rchandising: highly curated experience on.corn, app and in-store
+· Affordable: no HW investment required on the user's end · Reliability: we own the infrastructure and it is built at the edge (ultra low latency)
+· The Liquidsky Team -- our tech has been in the works for years: gaming at 120fps now!
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3451.013
+
+EPIC 00089888
+
+YoUTube
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+TIKI
+· M e rch set next to existing platforms .~
+
+· Free trial offers with purchase · Training for Associates
+
+g ~:::::.~,.':.::A gN:MW:::N,,.-""
+'j@~:,:;;;M;::%';., ~ .+'~':. j
+
+· Dedicated category page · Free trialoffers
+· W almart Video customers SSO
+
+a~I' 5/ic@88$
+
+Recruitment via eSports arena Pre-Installed apps with free trial on PCs, phones & tablets Free trial codes on CPG products
+
+DX-3451.014
+
+EPIC 00089889
+
+

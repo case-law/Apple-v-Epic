@@ -1,0 +1,110 @@
+Subject: FAS investigation of Apple -- comment for approval
+
+PLAINTIFF
+U.S. District Court - NDCAL
+4i 20-cv-05640-YGR-TSH
+Epic Games, inc. v. App/e Inc.
+, ~PX-1 7
+Date Entered
+By
+
+From: "Josh Rosenstock"
+
+Received(Date): Thu, 08 Aug 2019 13:31:34 +0000
+
+To: "Tim Cook"
+
+"Phil Schiller"
+
+Kate Adams"
+
+Lisa
+
+Jackson"
+
+Cc: "Steve Dowling" Vettern Cameron"
+"Nick Ammann"
+
+Kristin Huguet Quayle"
+
+Kyle Andeer"
+
+"Doug
+
+Sean Dillon' Fred Sainz"
+
+Sean
+
+Tom Neumayr"
+
+Tammy Levine"
+
+Ron Okamoto"
+
+Matt Fischer"
+
+StephanieSaffer"
+
+Date: Th u, 08 Aug 2019 13:31:34+0000
+
+Privileged and Confidential
+
+Below is a summary of coverage in Russia and a translation of the FAS statement. We'd like to respond with the below comment, which Phil and legal have reviewed.
+OK?
+"Apple respects the Russian Federal Antimonopoly Service and we are confident their review will confirm that all developers have an equal opportunity to succeed on the App Store. We treat all developers the same, and invest a lot in creating a safe and trusted place for our customers to discover and download apps.
+We' re proud to have helped tens of thousands of developers in Russia reach more than one billion customers in 155 countries through the App Store. We recently updated our Guidelines for parental control apps because the technology they use can create serious user privacy and security issues. We' ve been working with Kaspersky Lab to help them get their app into compliance, but they have so far not submitted any update. Other developers using the same mobile device management technology, including Our Pact and Qustodio, have been approved and have parental control apps currently available on the App Store."
+
+FAS website -- (translation) F AS Russia e n e d A Case A ainst A l e Russia's FAS initiates case against Apple Inc
+
+CONFIDENTIAL
+
+PX-1 907.1 APL-APPSTORE 09653226
+
+The agency opted for launching an antitrust investigation based on the corporation's operations on the iOS app distribution market
+The case(1) was initiated based on a complaint &om Kaspersky Lab (antivirus sofbvare developer) which alleged that Apple had unreasonably declined versions of the Kaspersky Safe Kids (KSK) parental control sofbvare which resulted in the next version of KSK losing a considerable part of its functionality.
+At the same time, Apple introduced its own app called Screen Time to the market as part of iOS 12, which has the same capacities as the parental control apps.
+The FAS [Federal Antimonopoly Service] of Russia studied the evidence and concluded that Apple's actions, which applied unspecified requirements to developer sofbvare and declined versions of sofbvare which had previously been distributed via the App Store, showed signs of abuse of Apple's dominant position on the iOS app distribution market.
+According to media information, 11 other developers of similar apps worldwide, in addition to Kaspersky Lab, were also faced with Apple removing or restricting their functionality following thelaunch of Screen Time:
+h s ://www.thever e.com/2019/4/27/18519888/a le-screen-time-a -trackin -- arental-
+Faced with similar circumstances, developers of Kidslox (Ukraine) and Qustodio (Spain) filed an antitrust complaint against Apple with the European Commission. Nineteen developers of similar apps pooled together to create an association and a website seeking to demand that Apple comes up with a technical solution which would allow them to carry on working with iOS devices.
+Moreover, Apple's licensing agreement for sofbvare developers directly establishes Apple's right to decline any apps without any grounds.
+The FAS of Russia scheduled the case to be reviewed on September 13, 2019.
+Note:
+1 The case deals with signs of breach of Article 10 part 1 of the Law on Protection of Competition with regard to Apple Inc.
+Coverage links:
+Reuters -A le faces investi ation for sus ected unfair com etition in Russia
+Russia
+Kommersant --F AS launches case a ainst A le
+
+CONFIDENTIAL
+
+PX-1 907.2 APL-APPSTORE 09653227
+
+Vedomosti --F AS filed a lawsuit a ainst A l e after a com laint &om Kas ers L a b
+360TV --FAS launches case a ainst A le in Russia
+TASS --FAS launched case a ainst A le at the com laint of Kas ersk Lab
+Daily Storm --F AS launches case a ainst A le
+KP --F AS launches case a ainst A le
+RBC -- FAS launches case a ainst A le because of iOS a
+Meduza --FAS launches antitrust investi ation a ainst A l e over Kas ers L a b com laint
+Life --FAS o ens case a ainst A le because of unfair com etition
+Russian Gazette --Com etition case is o ened a ainst A le in Russia
+RSN (translation) --Kas ersk Lab comments on the A le case
+Apple has introduced some changes to its guidelines for reviewing App Store apps, but there are no grounds to allege that the abuse on the part of the American company has been rectified. RNS was told so by the press service of Kaspersky Lab, which commented on the case initiated by the FAS against the corporation following a complaint &om the antivirus company.
+"Kaspersky Lab is positive about the changes made to the App Store Review Guidelines, which now show a greater regard for the needs of developers of iOS apps, including parental control apps targeting home users," the press service of the antivirus company stated, specifying that the relaxed guidelines have left "a number of questions which have yet to be answered."
+As Kaspersky Lab explained, Apple's updated guidelines and restrictions do not provide any clear criteria for the potential use of the stated profiles, or any information on compliance with criteria required for obtaining Apple's written consent for their use.
+"Apple has banned the transfer of data obtained &om MDM-using apps to third parties. Apple has made no exceptions and has insisted that such ban would affect mobile apps and third-party analytic services which enable product improvement based on the analysis of statistics, which are widely used in the industry. In the case of Kaspersky Lab products, it is not a matter of transferring personal data, especially &om children's devices, but of transferring data relating exclusively to the operation of our own sofbvare originating solely &om the parent's device. But Apple has failed to take this rationale into account," Kaspersky Lab said.
+Representatives of the antivirus company believe that Apple's actions are setting up certain barriers in the way of third-party developers seeking to enter the iOS parental control sofbvare market, and these barriers result &om "actions by a dominant player".
+
+CONFIDENTIAL
+
+PX-1 907.3 APL-APPSTORE 09653228
+
+In the morning of August 8, the FAS initiated a case against the US company Apple following a complaint from Kaspersky Lab, RNS was told by Elena Zayeva, Head of Communications Department at the FAS.
+The FAS pressservice explained that the case isscheduled to be reviewed on September 13, 2019.
+
+CONFIDENTIAL
+
+PX-1 907.4 APL-APPSTORE 09653229
+
+

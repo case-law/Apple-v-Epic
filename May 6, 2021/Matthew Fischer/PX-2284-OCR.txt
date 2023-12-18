@@ -1,0 +1,554 @@
+Subject: ~V IS ED] Developer Survey Presentadon for Phil
+
+From: nKim Martinsenn
+
+Received(Date): Thu, 28 Jul 2016 20:58:39 +0000
+
+To: "Matt Fischer"
+
+SteveMcGuigan n
+
+PLAINTIFF
+V.B.Oeelrt Cowl - NOCAL
+4:20ev40040-YGR-TSH
+Epic Genmnrnc. c.Apple Inc.
+att. No. PX-2284
+Bete Bnteree By
+
+Attachment: 20 1 6.07 Developer Survey for Phil v3.key Date: Th u, 28Jul 2016 20:58:39 +0000
+
+Hi Matt and Steve,
+The revised survey presentation for tomorrow's Phil meeting is attached. This incorporates revisions discussed thismorning. Please let me know if this is approved to send to Dan to incorporate in the broader deck.
+
+Thanks, Kim
+
+Kim Martinsen I App Store Developer Marketing I Way, MS 16-2APP, Cupertino, CA 95014
+
+I 16 Results
+
+Follow the App Store on Facebook <https:I/www.facebook.corn/AppStore) I Twitter <https:I/twitter.corn/appstore)
+
+Hi Matt and Steve,
+
+The revised survey presentation for tomorrow 's Phil meeting is attached. This incorporates
+
+morningP. revisions discussed this
+
+lease let me know if this is approved to send to Dan to
+
+incorporate in the broader deck.
+
+I*
+
+' " " ' I~
+
+I
+
+-*
+
+.
+
+Follow the App Store on Fecehook I Twitter
+
+CONFIDENTIAL
+
+PX-2284.1 APL-APPSTORE 09797055
+
+CONFIOENTIAL
+
+PX-2284.2 APL-APPSTORE 09797056
+
+'·e · - · -
+
+-
+
+·
+
+·
+
+-
+
+Hi Phil. Thank you for your time. I'm here to share highlights of the US App Store Developer Survey, the results of which Art shared with you a few weeks ago.
+We also had emailed our takeaways and actions from the survey. You had provided feedback that some of the actions
+were good and some were very bad. So, with this, I'rn not going to present the entire survey, since you' ve already seen it.
+Rather, I will discuss sections for tied to the recommendations we emailed, as we'd love to hear your perspective on what
+actions you think are viable, so we can proceed accordingly.
+
+CONFIOENTIAL
+
+PX-2284.3 APL-APPSTORE 09797057
+
+'
+
+·
+
+·
+
+-
+
+·
+
+-
+
+-
+
+·
+
+·
+
+-
+
+· I
+
+·
+
+·
+
+·
+
+2971 respondents, 1.8% response rate
+
+CONFIOENTIAL
+
+PX-2284.4 APL-APPSTORE 09797059
+
+·
+
+·
+
+·
+
+·
+
+· · +· ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+0 ·
+
+·
+
+·
+
+·
+
+20% watchOS, 18% tvOS, 17% macOS
+
+CONFIOENTIAL
+
+PX-2284.5 APL-APPSTORE 09797059
+
+·
+
+> ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Developers don't believe that the App Store enables profitability of their apps, enables app discovery, or provides the tools to successfully market their apps.
+70%, 37%,33%, 26%
+We believe that this perception will be positively impacted with the rollout of Subscriptions 2.0 and Search Ads this fall.
+We know that Kenobi will help with this, as well as developer responses to reviews.
+Beyond this, we are looking at additional ways to help developers in these areas.
+
+CONFIOENTIAL
+
+PX-2284.6 APL-APPSTORE 09797060
+
+·
+
+·
+
+·
+
+·
+
+CR R ~ I SR
+x<
+80h '4M Sl y A% 2P X r '
+8P' S~ Z ~ Z P4
+
+This table provides developers' responses to what they'd like to learn more from the App Store.
+App Store Optimization is a top area of interest for developers. This involves carefully crafting App Store product page metadata to help maximize visibility and downloads.
+
+CONFIOENTIAL
+
+PX-2284.7 APL-APPSTORE 09797061
+
+·r ·
+·
+
+·
+
+·
+
+·
+
+·
+
+· · i9
+
+Wewould like to explore new policies and tools to further help with this. Such as the Metadata Only Submission proposal
+that will be shared today. We will also disruss a proposal for App Store Product Page AB testing with you in August.
+
+CONFIOENTIAL
+
+PX-2284.8 APL-APPSTORE 09797062
+
+· ri
+
+d dt 344 · IV. 4 7'i
+
+%'A dd& %Pi SPY
+
+dd'4 S it 33& 31&
+
+BVI 2l t l ~
+
+atrl
+
+dd% d d c RP dd%
+
+I d ' 1M 1 M 15>
+
+Developers top hurdle to new market expansion is app translation.
+
+CONFIOENTIAL
+
+PX-2284.9 APL-APPSTORE 097970%
+
+·
+
+·
+
+In line with this, developers' top ask for us to help them expand internationallY is localization services.
+
+CONFIOENTIAL
+
+PX-2284.10 APL-APPSTORE 09797064
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+' ·
+
+· r
+
+·r ·
+
+·
+
+·
+
+CONFIOENTIAL
+
+PX-2284.11 APL-APPSTORE 09797065
+
+Developers look to Apple as their top resource for business and marketing guidance. This reinforces our strategy of providing scaled guidance on the App Store Developer Portal, I
+We have created a content roadrnap through the end of FY17 to address developers' top business and marketing
+challenges and opportunities. Following are takeaways from the survey that we incorporated into the roadmap.
+
+CONFIOENTIAL
+
+PX-2284.12 APL-APPSTORE 09797066
+
+'a~il i~II eg$Q
+We asked developers what their top levers were for driving downloads. App Store featuring is over-emphasized by developers as a user acquisition iever. We' ve published developer guidance since this survey that has emphasized the importance of App Store search to driving downloads. In addition to articles we' ve published on how to get discovered on App Store search, we will also help educate developers on effective user
+acquisition marketing best practices, such as a case study on a small dev that effectively executed launch marketing.
+
+CONFIOENTIAL
+
+PX-2284.13 APL-APPSTORE 09797067
+
+·r ·
+·
+
+·
+
+·
+
+·
+
+·
+
+CONFIOENTIAL
+
+PX-2284.14 APL-APPSTORE 09797068
+
+· I·
+
+·
+
+·
+
+31% 315
+
+31> 45%
+
+2'F I
+
+3 3II 24' . C
+ed I54 214·
+
+1311
+
+24II 15%
+
+14% I K ' I 2 5 I 5%
+
+I I 'll 554 11% I I 31
+
+I I II I4% 14'4
+
+et
+
+e . 23. l
+
+11*.
+
+4.» 2 5 2
+
+Ne asked developers what the top reengagement marketing levers were that they used. Relevant and targeted
+push notifications and in-app messaging are tools developers should consider to help drive app reengagement and monetization.
+
+CONFIOENTIAL
+
+PX-2284.15 APL-APPSTORE 09797069
+
+t ·
+
+·
+
+·
+
+·
+
+·
+
+CONFIOENTIAL
+
+PX-2284.16 APL-APPSTORE 09797070
+
+· 0
+
+381 · 21% 2IBB 15>
+8'
+12%
+
+454 44' 34" 13& 15% 22 %
+125 23 % 20% 1 21 14% 13%
+11~
+B~; l
+015 I 12> 8 ~
+13% 5% 1& 15'i 14% 'll15 134 8% 1N f
+
+This table shows the top reasons why developers aren't adopting App Previews. We know that adoption of App Previews is low, despite that they have the potential to increase conversion to download by over 30% when viewed. App Previews are an effective tool to help increase downloads. We will secure updated data on the positive impact of App Previews to communicate to developers.
+We saw throughout the survey that, as with App Previews, the biggest reason for developers not adopting new features or platforms was resource constraints or lack of understanding of how it could impact their business. A key takeaway for us is to demonstrate the business value of feature or platform adoption with developers.
+
+CONFIOENTIAL
+
+PX-2284.17 APL-APPSTORE 09797071
+
+·
+
+·
+
+· ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· 0
+
+CONFIOENTIAL
+
+PX-2284.18 APL-APPSTORE 09797072
+
+~
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Total n = 215, Large/Mid n = 87, Small n = 328
+The survey also showed us that over half of paid developers don't leverage sales or price promotions for their paid apps.
+Strategic and well-timed price promotions are key levers for driving paid app growth. There is an opportunity to educate
+developers on this.
+
+CONFIOENTIAL
+
+PX-2284.19 APL-APPSTORE 09797073
+
+·
+
+·
+
+·
+
+·
+
+CONFIOENTIAL
+
+PX-2284.20 APL-APPSTORE 09797074
+
+Base: Aware of App Store Marketing Cuidelines
+D14: Have you used the Download on the App Store badge in your marketing? Note: Arrows denote comparison to small tier developers.
+
+CONFIOENTIAL
+
+PX-2284.21 APL-APPSTORE 09797075
+
+4 ·
+
+'
+
+·
+
+·
+
+31%
+
+2 4%
+
+21 %
+
+28%
+
+I ~
+
+16%
+
+23h
+
+B" '
+
+1@i
+
+5%
+
+A key reason that the Download on the App Store badge is not used is that developers aren't convinced it provides an essential message in their creative. As the badges are redesigned by Marcom this year, the new badge needs to be created to help increase engagement with developers' creative in order to be adopted.
+
+CONFIOENTIAL
+
+PX-2284.22 APL-APPSTORE 09797078
+
+·
+
+·
+
+CONFIOENTIAL
+
+PX-2284.23 APL-APPSTORE 09797077
+
+·
+
+-
+
+·
+
+·
+
+·
+
+Base: Aware of App Store Marketing Cuidelines
+D14: Have you used the Download on the App Store badge in your marketing? Note: Arrows denote comparison to small tier developers.
+
+CONFIOENTIAL
+
+PX-2284.24 APL-APPSTORE 09797078
+
+'
+
+·
+
+-
+
+·
+
+·
+
+2 4'% 39 · 13'I 1lW
+
+I~ I 1 4% NM t,
+
+Developers believe that Apple product images help improve their creative effectiveness. However, a fifth of large
+developers don't use the product images due to restrictive brand guidelines. We' ll share this feedback with Marcom to align on whether some guidelines should be adjusted in order to increase image use by developers.
+
+CONFIOENTIAL
+
+PX-2284.25 APL-APPSTORE 09797079
+
+·
+
+·
+
+·
+
+·
+
+·
+
+i ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+CONFIOENTIAL
+
+PX-2284.26 APL-APPSTORE 09797080
+
+CONFIOENTIAL
+
+PX-2284.27 APL-APPSTORE 09797081
+
+

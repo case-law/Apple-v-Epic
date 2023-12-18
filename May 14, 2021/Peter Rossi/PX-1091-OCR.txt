@@ -1,0 +1,43 @@
+Distribution of iPhene Models
+
+PLAINTIFF
+Ua. Diclricl Court NDCAL
+4t2lhcv45$40-YGR-T8H
+EpiceennnhInc. p.Apple Inc.
+Ex.No. PX-1091
+Dete Entered
+er
+
+Epic Games, Inc. v. Apple Inc., Case No. 4r 20-cv-05460-YGR-TSH (N.D. Cal)
+
+Summary pursuanttoFederal Rule ofEvidence 1006
+
+Model [A]
+iPhone SE iPhone 11 Pro Max iPhone 11 Pro iPhone 11 iPhone XS Max iPhone XS iPhone XR iPhone X iPhone 8 iPhone 7 Earlier iPhone
+
+Sample [8]
+4.3% 5.4% 4.6% 16.6% 3.5% 3.4% 14.7% 4.9% 17.5% 14. 1% 11. 1%
+
+RBC Survey
+
+S hare [C ]
+
+L ower 95% C I
+[0]
+
+6% 9% 6% 17 % 4% 3% 12 % 4% 15% 16 % 8%
+
+3.9% 6.4% 3.99n 13.6% 2.2% 1.5% 9.1% 2.2% 11. 8 % 12.7% 5.5%
+
+Upp e r 95% C I
+[E]
+8.1% 11.6 % 8.1% 20.4 % 5.8% 4.5% 14.9% 5.8% 18.2 % 19.3 % 10.5 %
+
+This table compares the dishibution of iPhone models used by respondents in my survey with respondentsin a survey conducted by RBC Capital Markets in October 2020.
+Column B (" Sample" ) shows the dishibution of iPhone models of respondents in my survey who passed the Reliability Test.
+Colutnn C (" Share" ) shows the distribution of iphone models of respondents in the RBC Survey. Columns D and E (" Lower 95% CP' and "Upper 95% CI") show the 95 percent confidence intervals of RBC's estimates. It is calculated assuming that the distribution follows a normal distribution, and the upper and lower bounds of the confidence interval are calculated as
+Sh + t . cdx j p x ( 1 -- p)/ i pi rh d *r rh d i d u rh h *r respondents in the RBC survey (469).
+
+PX-1 091.1
+
+

@@ -1,0 +1,71 @@
+From: Ph i lip Schiller
+
+Subject: HT M L 5 Poses Threat to Flash and the App Store
+
+Received(Date):Thu, 28 Jul 2011 09:27: 10 -0700
+
+To: Eddy Cue
+
+Steve Jobs (sjobs®apple.corn>
+
+Date: Th u, 28 Jul 2011 09:27:10 -0700
+
+PlAINTlFF
+U.S. District Cast - NDCAL
+4:204v45545-YGR-TSH
+SateGames,lne. v.Apple lne.
+EB.ND. PX-0417
+Data Batenat By
+
+Food for thought:
+Do we think our 70/30 split will last forever? While I am a staunch supporter of the 70/30 split and keeping it simple and consistent across our stores, I don't think that 70/30 will last that unchanged forever. I think someday we will see enough challenge from another plaiform or web based solutions to want to adjust our model (already Google has rolled out a web in app purchase model at 95/5).
+If someday down the road we will be changing 70/30, then I think the quesrion moves from "il" to "when" and "how . I'rn not suggesting we do anything di ferently today, only that whenever we makea change we do it froma position of strength rather than weakness. That we use any such change to our advanbsge if possible. And thinking about this long in advance can only help to look at an eventual change as an opportunity (with developers, press, customers, etc).
+Just as one thought, once we are making over $1B a year in proiit from the App Store, is that enough to then think abouta model where we ratchet down from 70/30 to 75/25 or even 80/20 if we can maintain a $1B a year run rate? I know that is controversial, I just tee it up as another way to look at the size of the business, what we want to achieve, and how we stay competitive.
+Again, just food for thought.
+//bio s co m /tech-e o e / 011 07 2 /hhnl - oses-threat-to- ash-and-the-a store/?mod = oo e n ews bio
+
+HTMLS Poses Threat to Flash and the
+App Store
+
+Throughout a large proportion of Tech Europe postings there is an underlying thread or, more accurately, a common language -- HTML5.
+Just this week, it underpins Mozilla's challen e to Android and the rest; the website-buildin s ervice of BaseKit and, perhaps, Adobe's decision to close its a s to r es.
+Few outside the techie world were perhaps aware of HTML5 before April 2010 when Apple CEO Steve Jobs declared iPhones and iPads would neversupport Adobe Flash.
+Exhibit PX 417
+
+CONFIDENTIAL
+
+PX-0417.1 APL-EG 00138494
+
+Instead, he said, A le would im lement other technolo ies for video and ames based around HTML5.
+It was either strange or ironic when, a little over a year later, the Financial Times announced it had developed an app using HTML5 which would allow it to bypass payments to Apple for its use on the iPad or iPhone. That led to HTML5 being discussed as a technology that could kill Apple's highly profitable App Store.
+So what is this potentially all-conquering technology? It is simply the next update of the language used to drive the web since it was invented in 1990. The idea is that there should be a set of standards so that everything on every website will run on every browser.
+The problem is HTML5 is not scheduled for official approval by the World Wide Web Consortium (W3C) until 2014. Developers, meanwhile, want to run the latest technology now. So they will either use proprietary plug-ins such as Flash or protocols that could become standards.
+Most consumers do not care whether an application has been specially created for their device as long as it works. That is probably the main reason why they go to the App Store where Apple takes its 30% share or revenue.
+"The importance of the Financial Times' decision to develop its app using HTML5 is that it has shown the market how it can use technology to break out of Apple's commercial grip on the iPad and the iPhone," said Andrew Bud, chairman of MEF, the global community for mobile content and commerce.
+The Financial Times, however, is in an unusual position compared with most commercial developers who rely on
+
+CONFIDENTIAL
+
+PX-0417.2 APL-EG 00138495
+
+places such as the Apple App Store to be discovered and for distribution. There are unlikely to be large numbers of impulse buyers of FT subscriptions.
+Peter Biddle, general manager of AppUp products and services at Intel, says this poses a challenge for anybody developing web-based applications,even using HTML5. "Consumers expectations of apps on their iPhones have been set by some pretty stellar successes using native code."
+One example of this would be Angry Birds which was initially developed using "native code" for the iPhone and iPod Touch. In May, the game's creator, Finnish company Rovio, released a browser version of the game. This was backed by Google which wanted to demonstrate what can be achieved using HTML5 rather than Flash. The result is impressive.
+It is unlikely, however, that Angry Birds would have enjoyed its original success if it had been a web app without an online shop window. "HTML5 won't kill the App Store, but it may hasten the evolution of alternative marketplaces which will provide discovery points for both web-based, which is the HTML5 approach, and native applications," says Wes Biggs, chief technical officer of Adfonic, Europe's largest mobile advertising network.
+But Angry Birds on the web illustrates another problem. Currently it only appears to work on the latest version of Google's Chrome browser. Even though de facto standards will probably emerge before HTML5 is finalized it is likely to be some time before these are recognised by the browsers used by the majority of consumers and businesses. HTML5 is a work in progress.
+So where does that leave the would-be app developer now?
+
+CONFIDENTIAL
+
+PX-0417.3 APL-EG 00138496
+
+Paul Fifield CEO of iPad publishers Ceros, believes: "If you' re not looking to monetize your app then, absolutely, you should go for HTML5. If you' re looking to monetize it. then native coding for the App Store is still the way to go."
+Or, you could follow the middle path favoured by the Kobo e-
+~aookoom any. "Koao'a Hymtp app tttnot taptaoa tna
+company's existing apps, but extend its read-across-anydevice strategy to reach a broader set of users and add additional value for their current customer base," it announced this week.
+
+CONFIDENTIAL
+
+PX-0417.4 APL-EG 00138497
+
+

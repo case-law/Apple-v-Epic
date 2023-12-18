@@ -1,0 +1,237 @@
+From: T i m Sweeney
+
+Sent: Fr i , 23 Feb 2018 21:41:23 c0000 (UTC)
+
+Tn: Mar k Rein
+
+Cc: Arj a n Brasses
+
+", Sergey Galonkin C rts Babcoc ; Josh Adams ; Paul Meegan
+
+Subjactt Re: Android - wild idea
+
+", Chris Dyl ; Justm Sargent
+
+; Daniel Vogel
+
+Great l If the OEMs can force thc game thmugb thc canicrs, that is much preferablci It will bc so much easier to deal with hardware companies, who have a strategic vision, than with the stagnant telecom monopolies.
+
+On Feb 23, 2018,at4:30 PM, Mark Rein
+
+wrote:
+
+Mark,ws'llneedsplanforseeteaynegollsthtgbundledealswa hAnemiaOEMs wgh s maJorpresenceouuldoofCtdm. hmhsgngasmsung snd LG. gull need lobe scoonllnslsd kusmsltonsl aired snd needsto clay below the radar. thb can onsv sech ons sonw molly nml bmndsd bllng encfusive lo teem who play povlnae on their plsgonn.
+
+yeo socso wnlmieslc even who pby Poslnile en OURpletl'onn en theivphones:) ilt msspe chstwith ney lodiscew meeting with an big OEMsmd nsvigsliog thesewenss.
+
+On Fri,Feb 23,201$ at2:36 PM, Tim Sweeney
+
+wrote:
+
+united slctes Dulrict coun ttontnvn oisinci o/i:siirsnnio
+
+Case Nm 4:20-cv-09640-YGR
+
+CaseTitlcF.is/scorns,/nc n .t, /nc
+
+Exhibit No.DX-3732
+
+Dais Entered
+
+sons Y. semi. Cise
+
+sv:
+
+. Ihpelv Clot
+
+Awesome! I love the Android mini-launcher approach too. Establishes away to get auto-updatesandlaunch Fortnite now, mops games and a rtopcfront later!
+
+Here is our official plan for communicating with Google about bypassing the Google Play Store:
+
+SAY NOTHING TILL IT SHIPS
+
+Re Apple, there's no way for a nonWveloper nonnmterprise user to install software outside of the App Store, so I'm not sure there's a role for the mini-launcher there yet. If we want a multi-pmduct gateway on iOS, we could build the minilauncher into all of our games (underneath a top-level Epic icon in the menus) but the install links would need to redirect to the App Store. This is how WeChat handles game installation on iOS, unlike Android.
+
+hhuk, we' ll need a plan for secmtly negotiating bundle deals with Android OEMs with a major presence outside of China, including SamsungandLG. Will need to be acoordinated international effort and needs to stay below the radar. We can offer each onesomereally cool branded bling exclusive to users who play Fortnite on their platform.
+
+On Feb 23,2018,at12:10PM, ArjanBm
+
+oh wow! okay let's chat, see if we can integrate efforts. I send out meeting invite with smaller group -arJ ail
+
+On Fri, Feb 23, 2018 at I I: 55 AM, Sergey Galonkin
+
+. wrote:
+
+Here is the current prototype for Diesel on mobile. It doesn't include the launcher or anything, but we can
+certainly add that hu / / drive oo e com/file/d/OBSE T6aoB'YvYX YU h'OFlnbUF NnhKUDZmelJINFZGNXdR/view
+
+I can add Marshal to the discussion, so he om explain ow cunent thinking.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3732.001
+
+EPIC 00091478
+
+On Fri, Feb 23, 2018 at 11:48 AM, Arjan Brussee
+
+wrote:
+
+I think the idea is to have a Trojan horse mini-launcher with basic functionality to download/update/install Bacchus, that we can later update to the full Diesel experience -aryan
+
+On Fri, Feb 23, 2018 at 11:40 AM, Sergey Galonkin
+What's the timeline for this? We already designing Diesel with the mobile version in mind, but it seems we might need to prioritize that.
+
+On Fri, Feb 23, 2018 at 10: 58 AM, Daniel Vogel
+
+wrote:
+
+AMAZING work Chris! 2 MByte download:-)
+
+-- Daniel, Epic Games Inc.
+
+On Fri, Feb 23, 2018 at 10: 56 AM, Arjan Brusse
+
+wrote:
+
+Chris Babcock (added) made a POC epic launcher yesterday, that's able to download, install and update a fortnite build on your phone. It works! Needs UX love but the principle is there. We can likely use this for internal deployment soon.
+
+Will organize internal meetings next week
+
+~ i ai essitaasssert
+
+On Fr,iFeb23,2018 at06;47Daniel Vogel
+
+> wrote:
+
+If it is plan of reconl we need to roll this out internally to a large set of people and make sure we have communication plan with Apple and Google etc.
+
+Worth doing that via in person meeting so we don't mess up external communicationy
+
+On Thu, Feb 22, 2018 at 9:28 PM Tim Sweeney
+
+This is awesome. Full speed ahead with this as the plan of record.
+
+On Feb 23, 2018, at 3:13 AM, Arjan Brussee
+
+wrote:
+
+The benefit of focusing on IOS right now for initial launch is not to be underesxhnated and very likely a must. A lot of risk in current plans wrt Android compat/kperf, outside of general workload for online teams. We' re working through that tomoirow. We should decide quickly!
+Also started explorations and quick prototyping on android launcher specifics, like Daniel outlined. Will document ill gdoc
+
+On Thu,Feb 22,2018 at20:40 Daniel Vogel
+
+wrote:
+
+I love the idea! I I I don't think we are ever going to have this amount of leverage again to get players to
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3732.002
+
+EPIC 00091479
+
+system/launcher, jump through hoops to install our "store"/txx>
+
+and for IHVs/carriers to
+
+pre-load it onto their new devices.
+
+Side benefits are that going platform exclusive with iOS allows us to focus our engineering efforts there to accelerate initial launch all while being able to negotiate extra support fmm Apple. Being on iOS first I assume is also going to build up demand for Android version which in turn should help negotiations udth caniers / phone manufacturers etc.
+
+I wish I was more versed in the Android ecosystem:-/
+
+Googling shows that there is clearly a way to pug this olf given how many there are and Ainazon has an offer as well.
+
+ht~t,://foas~bes,corn/10 J oogleglsy-store-alternatives/
+
+Can someone detail installation experience of Amazon Android app?
+
+htt // wwwamazon com/androida
+
+I assume technical challenges we need answers for are split into:
+
+� getting launcher installed on device (side-loading)
+� figuring out how to keep launcher updated (can you self patch your own
+executable if you are side-loaded?) � figuring out how to install another app (aka launcher installing the game) � figuring out whether any of this changes if we are pre-installed by cartiers / IHVs / etc
+
+And then making it all super user friendly and foot-proof.
+
+I haven't used hockey app on Andmid, but on iOS it is pretty unusable. I assume this is due to platform contraints?
+
+At some point the DOJ is going to break Apple's stranglehold on the app srtore...
+
+-- Daniel, Epic Games Inc.
+
+On Thu, Feb 22, 2018 at 7:18 PM, Arjan Bruss
+
+Hockeyapp for instance is a website, dick download, install, done. No privilege escalation/dev settings/ at all needed. sideload=easy!
+Chris Babcock is doing deeper investigations, e.g. how Hockey and "APKUpdater" work to install tk ~nate spps. Idea is to Download the mini-launcher directly through a web link, which then downloads/updates/patches FNBR APK. -art all
+
+On Thu, Feb 22, 2018 at 4:11 PM, Tim Sweeney
+
+wrote:
+
+Agreed and, also, to hell with Google!
+
+Tail
+
+On Feb 22, 2018, at 9:44 PM, Sergey Galonkin
+
+wrote:
+
+It's not just about the 30% though. It's about creating a platform we can later use for other projects:) It's worth more than 30/a IMO.
+On Thu, Feb 22, 2018 at 3:35 PM, Tosh Adams
+Avoiding the 30% is great but I will say that it would keep rne from installing it if the only way was to side-load: ) I realize that as long as< 39/o of people feel the same way, is a win!
+Technically, it sounds doable yes.
+But, most important to my end, we might lose the goodwill and support of Google (not that they do all that
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3732.003
+
+EPIC 00091480
+
+much for us, really... Samsung and Qualcomm and ARM do more) Josh On Feb 22, 2018, at 10:37 AM, Mark Rein
+
+wrote:
+
+I LOVE this idea!
+
+On Thu,Peb 22,2018 at10:28 AM, Tim Sweeney
+
+wrote:
+
+(confidengal)
+
+Arjan, Daniel, Josh,
+
+What is the feasibility of launching Fortnite on Android as a stand-alone installable program, avoiding Google Play and their 3(yYotax? Perhaps 1-2 months alter iOS launch, atter we' re able to scale to handle the full volume of mobile users.
+Do all Android devices support turning on side-loading? Could we launch with the game and a simple auto-updater (not the launcher, just an updated with no UI but a progress bar and cancel button)'/
+I*m thinking Fortnite.corn could have the same "Download" button on Android as on PC/Mac that downloads the installer, and the landing page for the download button could have instructions for turning on side-loading.
+
+This could get us to having a multiplatform (PC/Mac/Android) ecosystem much faster than other
+avenues. Fortnite provides nearly unlunited free UA sufficient to overcome the friction of installing it.
+
+Step 2, negotiate free bundling deals with all the major smartphone manufacturers.
+
+Step 3, turn the auto-updater into a full version of the launcher on Android, so that Diesel will launch across all 3 platforms.
+
+This is exactly the process Tencent followed to bypass Google Play with WeChat, which they soon opened up as a game distribution platform. The sooner we can free ourselves from the App Store distribution monopolies, the better, and the Fortnite launch on Andmid seems to me the one moment in time when we have sufficient gamer excitement to launch successfully and
+build up a huge gamer base.
+
+Tlm
+
+Mark Rein, Epic Games, Inc.
+Visit us at h / /w w w ic am e s com
+
+Sergey Galyonkin
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3732.004
+
+EPIC 00091481
+
+Sent from mobile
+Sergey Galyonkin
+Sergey Galyonkin
+Mark Rein, Epic Games, Inc. Visit us at htt://www.e ic ames.com
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3732. 005
+
+EPIC 00091482
+
+

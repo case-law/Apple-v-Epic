@@ -1,0 +1,1256 @@
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+Senate Judiciary Committee, Competition Policy,
+
+Antitrust, and Consumer Rights Subcommittee hearing
+
+Antitrus,sked FINAL
+April 22, 2021 1:1 4PM ET
+TRANSCRIPT April 21, 2021
+
+PLAINTIFF
+U.S. District Court - NDCAL
+4t20-cv-05640-YGR-TSH
+Epic Games,Inc. v. App/e Inc.
+E,.No. PX-1677
+Date Entered By
+
+COMMITTEE HEARING SEN. AMY KLOBUCHAR, D-MINN.
+
+SENATE JUDICIARY COMMITTEE, COMPETITION POLICY, ANTITRUST, AND
+
+CONS U M E R RIGHTS SUBCO M M ITTEE HEARING ANTITRUST APPLIED: EXAMINING
+
+COMPETITION INAPP STORES Bloomberg Government Support: 1-877-498-3587 www.bgov.corn Copyright 2021. Provided under license from Bloomberg Government. All materials herein are protected by United States copyright law and/or license from Bloomberg Government, and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of Bloomberg Government. You may not alter or remove any trademark, copyright or other notice from copies of the content.
+
+SENATE JUDICIARY COMMITTEE, COMPETITION POLICY, ANTITRUST, AND
+
+CONSUMER RIGHTS SUBCOMMITTEE HEARING ANTITRUST APPLIED:
+
+EXAMINING COMPETITION IN APP STORES AP R IL 21, 2021 SPEAKERS:
+
+SEN. AMY KLOBUCHAR, D-MINN., CHAIR
+
+PX-1 677.1
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 1 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+SEN. RICHARD BLUMENTHAL, D-CONN. SEN. PATRICK J. LEAHY, D-VT. SEN. GORY BOOKER, D-N.J. SEN. JON OSSOFF, D-GA. SEN. RICHARD J. DURBIN, D-ILL., EX OFFICIO SEN. MIKE LEE, R-UTAH, RANKING MEMBER SEN. JOSH HAWLEY, R-MO. SEN. MARSHA BLACKBURN, R-TENN. SEN. TOM COTTON, R-ARK. SEN. THOM TILLIS,R-N.C. SEN. CHARLES E. GRASSLEY, R-IOWA, EX OFFICIO WITNESSES: MR. KYLE ANDEER, CHIEF COMPLIANCE OFFICER, APPLE M R. WILSON WHITE, SENIOR DIRECTOR PUBLIC POLICY 8 GOVERNM E N T RELATIONS, GOOGLE INC. MR. HORACIO GUTIERREZ, HEAD OF GLOBAL AFFAIRS 8 CHIEF LEGAL OFFICER, SPOTIFY MR. MARK COOPER, PH.D.,DIRECTOR OF RESEARCH, CONSUMER FEDERATION OF AMERICA M S. KRISTEN DARU, GENERAL COUNSEL, TILEI,NC MR. JARED SINE, CHIEF LEGAL OFFICER 8 SECRETARY, MATCH GROUP, INC. KLOBUC HAR: Well, good afternoon, everyone. Sorry, we' re little late, but we had a vote this afternoon. And thank you, Senator Lee for working with me and our two staffs together on this hearing. I call to order this hearing of the Subcommittee on Competition Policy, Antitrust, and Consumer Rights. The title of this hearing is Antitrust Applied: Examining Competition in App Stores. I welcome our witnesses. In our hearing, we' re going to examine the scope of America's monopoly problem, and discuss what should be done to protect and foster competition in the 21st Century. Today, we will focus on competition in what we call the app economy.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 2 of 57
+
+Blocmiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+We will discuss competition relating to the mobile applications that run on our smartphones, including revenues generated through app sales and in-app purchases, as well as app-related ad revenues and sales of devices designed to run apps.
+In 2020, global app revenues have been estimated at more than $580 billion and they are projected to grow to more than $900 billion by 2023. In just the first three months of this year, users are estimated to have spent $21 billion on apps from Apple's App Store and around $11 billion on apps from Google's Play Store. Those are billions not millions, and that's 40 percent higher than last year.
+This is a huge business, and it's growing and it's growing fast. There's nothing wrong with that, but what is wrong is if we don't have competition.
+Users spend about 90 percent of their smartphone internet time on apps. Consumers cannot get the same functionality from a webpage as they can from an app.
+So when you' re tweeting, or browsing the web, or mapping your location, or looking at a newsfeed, or listening to music, you' re almost always using an app. To put things in perspective, in the first three months of this year, Americans spent an average of more than four hours a day, Senator Lee, on mobile apps. Do you think you were higher or lower? OK.
+Practically all of the apps used by consumers today are either pre-installed on Apple devices or devices running Google's Android operating system, or downloaded from Apple's App Store or Google's Play Store, depending on the consumer's device.
+Apps designed for the iPhone cannot run on an Android device and Android apps cannot run on an Apple device. So there are two separate app ecosystems, Apple's and Google's, with each setting all the rules and extracting commissions.
+And consumers choose which ecosystem they want to use when they buy their smartphone. If they buy an iPhone, they are with Apple for as long as they use that phone. If they buy an Android phone, they are with Google for the life of that phone.
+As consumers don't replace smartphones very often because they are so expensive, app developers who want to reach consumers on both types of phone must create two versions of their apps, one for Apple and one for Android. And the only practical way for app developers to reach those customers is with the permission of Apple or Google.
+Unless you are some kind of computer hacker, which we hope you' re not, the only way to download an app onto your iPhone is through the Apple App Store, no other app stores are allowed and downloading apps directly from the internet to avoid the App Store, a process known as "sideloading," is prohibited by Apple. In every sense, it's what we call a "walled garden," and by design the App Store has a literal monopoly on the distribution of apps on Apple devices.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 3 of 57
+
+Blocmiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+While Google does allow alternative app stores and sideloading on Android, as a practical matter, the overwhelming majority of app downloads take place on the Google Play Store, making it, by far, the dominant app store on Android devices.
+Both Apple and Google maintain strict control over their app stores. They decide which apps can or cannot exist on their app stores and set the rules for how apps operate once they are downloaded. As a result, Apple and Google operate as "gatekeepers" with the power to decide how or whether apps can reach iPhone and Android users. And at the same time, they offer many apps that compete directly with those sold through their own app stores.
+Of course, this gatekeeper power can and often is used to provide a secure environment in which legitimate apps can be distributed to consumers. But today, we will focus on how Apple and Google can use their power to, one, exclude or suppress apps that compete with their own products, and two, charge excessive fees that affect competition in the app economy.
+As I' ve said before, just because a company creates a successful, innovative business that consumers like, doesn't give it a free pass to harm competition or ignore our antitrust laws.
+Both companies also offer their own apps that compete with the third-party apps in their app stores, including video streaming apps, music apps, payment apps, gaming apps, and more.
+In some cases, Apple and Google can build the functionality of a third-party app into their operating system or build an app that is essentially a copy. Apple's App Store terms explicitly allow them to imitate any of the apps in their store, a practice known as "Sherlocking," which can render the original competing app obsolete.
+Both companies also compel app providers that sell digital content or services in their app to use their payment process services. The companies then charge commissions of up to 30 percent, that's right, 30 percent, for such "in-app purchases." The apps are not allowed, and this is something that people don't know, to inform customers of or link to payment methods outside of the app to avoid the commission. In other words, consumers are banned from finding out, if they' re in the app, that they have a cheaper alternative.
+Of course, we acknowledge that most apps are not subject to these commissions. Most small developers and those that offer apps that sell "physical goods or services that will be consumed outside the app" like rides on Uber don't pay the commission. And they are probably pretty happy about that. That's fine.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 4 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+But focusing high commissions on apps that charge for digital services used on the iPhone ensures that the commissions target on the very apps that are most likely to compete directly with Apple's and Google's own offerings. And some affected app developers are complaining that being forced to use these payment services with their high commissions are crippling their ability to compete with Apple and Google products on equal terms.
+So just because most developers are happy because they aren't paying commissions, that's fine, it doesn't inoculate the app stores from the antitrust laws if they are harming competition with other developers.
+Some developers have also raised concerns about the app stores' ability to demote their placement in app store rankings; to banish their apps from the app store; to withhold or delay approval of app updates, which can limit app functionality; and to set their own products as automatic defaults.
+And when we talk about incentives, it's important to remember that the app stores aren't supporting businesses that just cover the cost of operating them. In 2020, consumers are estimated to have spent $72.3 billion in Apple's App Store and $38.6 billion Google's Play Store. Applying their standard commission rates to these amounts nets Apple and Google billions of dollars.
+These concerns have attracted the attention of enforcers in America and around the world. We have seen significant reports on this issue from governments in Europe and Australia, in addition to the House Antitrust Subcommittee's digital markets report. There have also been news reports of investigations by the Justice Department and state attorneys general into app store competition. And state lawmakers in Arizona, Massachusetts, North Dakota, my home state Minnesota, and other states have proposed legislation to regulate app stores.
+And although we can and should use our existing antitrust laws to address these issues, we can also strengthen our laws, including with my bill, the Competition and Antitrust Law Enforcement Reform Act, and the exclusionary portions of that bill would be very helpful in taking on these cases.
+We also have to make sure the agencies have the resources to take on these complex matters, which have taken me a quite a few minutes to even get to the guts of explaining this, but I thought it was really important to do.
+But you can imagine if you' re actually taking on the world's biggest companies that we' ve ever known in the world, you actually have to be able to have the resources to do that, so that is actually tied in with this, as are all antitrust matters before those agencies. They have to have the resources. They just can't do this with duct tape and band-aids.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 5 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+We all appreciate app stores and the roles that Apple and Google have played in helping to create many of the technologies that have defined our age. That's great. We' re not angry about success. We simply want to make sure that capitalism keeps going in a strong, strong way that's fair to everyone, yes, but capitalism is about competition. It'sabout new products coming on. It's about new competitors emerging.
+
+This situation, to me, doesn't seem like that's happening when you have two companies really each dominating in different areas and where you have companies that are simply trying to do business in their own ecosystems or maybe with Apple and Google that are severely hampered from doing it.
+
+So with that, I turn it over to Ranking Member Lee and I look forward to hearing from the witnesses. LEE: Thanks so much, Chairman Klobuchar, and thanks for holding this hearing. Thanks to all of you for being here today.
+
+The subject of today's hearing, as our Chairwoman has just indicated, is an incredibly important one. For better or for worse, our smartphones have come to dominate our social and economic lives. And apps are increasingly becoming the most popular way to use those devices to communicate, in many cases, to make purchases, to stay informed, and otherwise manage your day to day affairs.
+The power that Google, Apple and few other large tech companies hold over the way Americans live their lives is itself simply unprecedented. And as legislators on both sides of the aisle are right to be concerned and right to be interested into inquiring into some of these issues.
+One recent example of this power involved the total deplatforming of Parler in January. In a matter of days, both Apple and Google removed Parler from their app stores. Just as Amazon pulled the plug on Parler's web servers. It did this, despite Parler's close collaboration with the FBI in advance of the January's 6th events, in order to flag potential events. And in spite of the much greater prevalence of planning of the horrible events of January 6th, on Facebook, on Instagram, and on Twitter.
+
+But both of those apps and their owners, the Facebook and Instagram being under one ownership, and Twitter another, those apps remained. Those apps were allowed to stay on. While Parler disfavored by the woke barons of Silicon Valley was just taken down. Millions of voices went silent. And one potential avenue for competition in the - this marketplace for social media platforms, it just disappeared into thin air.
+
+I found this troubling, and not just because this was one company that was taken down, but because of the many millions of people who had chosen to use Parler were also effectively silenced in that.
+And I found it very difficult to get good, clear answers or any persuasive answers as to what warranted this action other than that they could, and other than that they weren't happy with certain things that happened. But those answers didn't meaningfully distinguish Parler from other social media sites or from other apps.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 6 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+I engaged with both Apple and Parler, almost immediately, to try to get to the bottom of this and why it was happening. Apple story seemed to change somewhat over the course of our discussions. But I will give Apple - and do give Apple credit for continuing to work with Parler and eventually reaching a resolution that should see a Parler returned to the App Store within coming days. And all eyes now turn to Google and to Amazon to see what they' ll do.
+So, like I say, I am very pleased with this outcome. But I'm as pleased with the outcome, in many ways, as I am very dismayed that it took three and a half months and the intervention of the United States Senator in order to get there.It's dumbfounding to me. These are not the actions of companies that feel like they have meaningful competition.
+But I want to be clear, this is concerning. I'm glad they were able to resolve this issue to the extent necessary to get Parler back on the App Store in the coming days. But it does make me wonder a number of things. How many small businesses, and let's be clear, that's what many apps start out as. In fact most - nearly all start out as small businesses.
+How many small businesses flounder, and die because of potentially pretextual restrictions imposed on them arbitrarily by App Store gatekeepers, how many of them, and how many never even get off the ground. We may never know the true cost of competition and the cost to competition itself, and to innovation and to consumers.
+I also want to be clear that Parler's deplatforming was itself, not as far as I can tell, an antitrust violation. But it might be symptomatic of the immense market power held by a handful of tech companies,including Apple and Google and Amazon and others.
+When we see this kind of market power being used in harmful, if legal ways, it's only fair to ask whether it's also being used in illegal ways that might harm competition. Sometimes this is what raises the first flags. Ifyou see someone acting with wanton disregard for competitive forces that might otherwise come into play, what else could be out there that Big Tech is going to take aside in the culture wars, or in political conversations.
+Big Tech should be prepared for the greater scrutiny that will come with that unfortunate choice and with that harmful choice. With this in mind, I'm really excited to participate in today's hearing. And to get to the bottom of this really pressing question. Thank you.
+KLOBUCHAR: Thank you very much Ranking Member Lee. I want to introduce our witnesses. Our first witness today is Kyle Andeer. Mr. Andeer is the Chief Compliance Officer and Vice President of Corporate Law at Apple. Earlier in his career, he was an attorney at both the Federal Trade Commission and the Antitrust Division of the Department of Justice.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 7 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+Our second witness will be Wilson White. Mr. White is a Public Policy 8 Government Relations, Senior Counsel on Google's Mountain View policy team, where he is the global public policy lead for the Android, Google Play, payments, communications, and hardware businesses. He also leads on the company's global policy strategy for emerging tech issues, including artificial intelligence, virtual reality, and the Internet of Things.
+Our third witness is Dr. Mark Cooper. Dr. Cooper is Director of Research at the Consumer Federation of America, where he has responsibility for energy, telecommunications and economic policy analysis. He holds a PhD from Yale, and is a former Yale and Fulbright fellow. He is the author of five books and numerous articles.
+Next will be Mr. Horacio Gutierrez. Mr. Gutierrez is the General Counsel and Vice President of Business 8 Legal Affairs at Spotify. He is responsible for overseeing Spotify's global, legal, regulatory and government affairs, and serves as corporate secretary to its board of directors. In addition, he head's Spotify's global - he heads Spotify's global licensing operations, a business function responsible for commercial licensing activities with record labels, music publishers, performance rights, and other rightholders worldwide.
+Our fifth witness is Kristen Daru. Ms. Daru is the General Counsel, Corporate Secretary and Chief Privacy Officer of Tile, Inc. She manages legal and government affairs as well as privacy for Tile and serves on its executive leadership team. Kristen started her career as a commercial litigator with a focus on consumer protection and antitrust defense. Most recently, prior to Tile, she was Chief Privacy Officer of Electronic Arts.
+Our final witness is Jared Sine. Mr. Sine currently serves as the Chief Legal Officer and Secretary of Match Group where he is responsible for all legal compliance and government affairs functions for Match Group on a global basis. Prior to joining Match Group, he worked for Expedia as Vice President, Associate General Counsel, where he oversaw all legal aspects of Expedia's, mergers, acquisitions, joint ventures.
+I want to thank the witnesses for appearing today, and I look forward to hearing your testimony. If the witnesses now could stand and raise your right hand, including our remote witnesses?
+Do you swear that the testimony you will give before the Subcommittee will be the truth, the whole truth and nothing but the truth? So help you God.
+SPEAKER: I do.
+KLOBUCHAR: Thank you, you will be seated. And we will begin with you. Mr. Andeer for five minute testimony. Thank you very much. And thank you for appearing remotely.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 8 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+ANDEER: Thankyou.Chairwoman Klobuchar, Ranking Member Lee,and Members ofthe Subcommittee, my name is Kyle Andeer, and I am Apple's Chief Compliance Officer. I appreciate the opportunity to offer testimony about Apple's App Store.
+Some of you may have an iPhone with you right now, I hope that's the case, because we believe our products deliver the best possible customer experience. To do that, we work constantly to innovate.
+The App Store is one of our most important innovations. It is a critical feature of iPhone, providing customers access to nearly 2 million apps, allowing you to hail a ride, order dinner, listen to music, and so much more, all from your iPhone.
+Amazing as that is for our customers, I think the App Store's real success is the opportunity it has created for software developers to build and distribute all of those apps in the first place. Today, an entrepreneur with a great idea can use the App Store to build an app and instantly reach customers across the entire world, all from her home.
+It'seasy to take that for granted, but it wasn't always this way. When we introduced the App Store in 2008, creating software was difficult and often expensive. Developers had to pay for the tools they needed to build and test their products; then they had to distribute it either over the Internet, which had trust and security issues or through physical disks, which required costly shelf space in brick-andmortar stores.
+It's little wonder that options were fairly limited and expensive back then. The App Store changed all of that. It truly revolutionized software distribution.
+First the App Store is curated. iPhone is not just a phone, it contains some of your most sensitive information, photos of your kids, financial and health information, and the controls to your home security system. And because of that, bad actors from around the world try to infiltrate devices using malware, that's like a Trojan horse that tries to get into your phone and wreak havoc.
+We won't tolerate that. We review every app in the App Store to make sure it meets standards for privacy, safety, security, and performance. And each week, we review about 100,000 submissions, and we reject about 40 percent of them, because they don't meet those standards. And we know that our approach works. Study after study shows that iPhone has far fewer malware infections than any other device in the market place.
+Second, we have invested significantly to provide developers the tools they need to build apps. That includes over 250,000 application programming interfaces that help unlock the magic of iPhone. And because of that, a developer can build apps that let you deposit a check by taking a picture of it, play a game or listen to music with iPhone's audio and video technologies, or get directions using GPS. Apple built those and so many other capabilities into iPhone, and now developers can leverage them for their apps.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 9 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+So the App Store isn't just a store. It's like a studio stocked with canvasses, brushes, and paint, the tools artists need to create their works, and it's a gallery where they can display and sell their creations. And that is how the App Store empowers everyone to build apps, from elementary school kids to small businesses, not just the big guys.
+Third, the App Store is a great value for developers. The developer keeps 100 percent of the money she makes for the vast majority of apps on the App Store, about 85 percent of them. The commission charged to other developers those selling digital goods, initially was set at 30 percent, which is competitive rate today and a far cry from the rates charged for software distribution when the App Store was launched 12 years ago.
+Since then, we have never raised the commission, we' ve always lowered it, as we did again year for small businesses. Today, the commission is almost always - just 15 percent in those instances when it is required. We' re proud of the store we' ve built, the jobs it's created and the economic opportunity it supported. It' s the sort of thing that is possible when competition is fierce and fair. Apple, after all, was started by tinkerers and dreamers, and we became successful over time because we had an opportunity to compete.
+We were in a street fight back then, and we still are today. And we like it that way, because we know that competition spurs innovation and, with it, more and better choices for customers.
+Thank you for the opportunity to participate today. I am happy to answer any questions you might have.
+KLOBUCHAR: Thank you very much, Mr. Andeer. Next, Mr. White with Google.
+WHITE: Chairwoman Klobuchar, Ranking Member Lee, and distinguished Senators of the Committee, thank you for inviting me here today to discuss the Google Play ecosystem and the benefits it provides to millions of American consumers and developers.
+My name is Wilson White and I am a Senior Director on the Government Affairs 8 Public Policy team at Google. In my testimony today, one, how Android and Google Play work; two, the ways in which they' ve contributed to competition and choice; and three, how we fund and sustain the continued evolution of Android and Google Play, while helping developers and consumers.
+First, at Google, we believe that everyone should have equal access to the benefits of mobile devices and we designed Android and Google Play with freedom, openness, and accessibility in mind.
+Since Android is an open source operating system, anyone, including competitors, are free to use it without any requirement to preinstall or download Google's apps or other services. 1000s of companies, including Peloton and JetBlue's in-flight entertainment system, use the Android operating system to build their technologies and their businesses.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 10 of 57
+
+Blocmiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+Device makers and carriers are free to use Android without Google Play, or Google's other services. And many of them actually choose to preload Google's apps alongside their competing apps. In fact, more than half of Android devices come pre-installed with more than one app store.
+
+This openness has proven enormously valuable to device makers, because it allows them to invest in other ways, innovate in other ways without having to devote resources to building an operating system.
+
+Similarly, the availability of third party software is important to ensure that mobile devices meet consumers' expectations. A consumer selecting between competing mobile devices needs to understand whether their favorite apps and games will be available and actually work on those devices. And that's where app stores come in.
+
+In 2012, we launched Google Play as our vision for an ideal Android App Store. We have a consumer experience and online storefront where consumers come to find their best apps and games. And a developer experience with app development, distribution, commerce, and performance analysis tools that help developers build better apps, and to grow their businesses.
+
+Through freedom, openness, and accessibility, today Android and Google Play are the foundation of a thriving and competitive device and app ecosystem. Android is available on 2.5 billion devices around the world. Google Play has 2 billion 30-day active users and millions of companies rely on these platforms to reach consumers around the globe.
+
+Second, Android has increased competition and choice across the ecosystem. Because of Android, today, a consumer selecting a mobile device isn't limited to one or two, or even a handful of alternatives. More than 1,300 companies build Android devices.
+
+And there are more than 24,000 different Android device models to choose from. And some of these Android devices cost less than $100, which has made computing more accessible to communities that haven't been well served by the tech platforms in the past.
+
+Third,our business only succeeds when ourdeveloper partnerssucceed, and consumers view us as a trusted destination for digital content. More than 90 percent of the apps on the Google Play Store are free to free to consumers. And we don't charge for the range of services that Google Play provides, unless it results in a sale of digital content for a developer. And even then, only if that sale occurs within the app itself. We believe this business model supports entry and innovation.
+
+When our standard fee does apply, it covers everything from essential security updates, managing app installs and a vast array of developer tools to help developers build and to maintain a global marketplace.
+
+It also reflects the investment that we make in the platform itself. For example, we employ approximately 9,000 people who are dedicated to Android and Google Play. This fee is also competitive with industry practices that existed long before Google Play was built.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 11 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+Many PC and console, physical and other app stores charge similar fees. And just a few weeks ago, we announced that we were reducing the fee to 15 percent on the first $1 million that all developers earn on Google Play, regardless of those developers' sizes. Now, with this change, 99 percent of developers will see a 50 percent reduction in their service fees.
+We believe the value proposition for Google Play is a strong one. But if a developer does not agree that the value proposition is adequate, the openness of Android allows those developers options to display and distribute their apps through other means, either directly to consumers, or via other app stores.
+Creating a global platform with access to all and providing tools for developers has always been our goal since we launched the very first Android device. We' re proud that our bet on openness has resulted in success for all involved.
+We appreciate the Committee's interest in these important issues, and I look forward to answering your questions.
+KLOBUCHAR: Thank you very much, Mr. White. And next up. Dr. Cooper.
+COOPER: Madam Chairwoman, members of the Committee, my name is Dr. Mark Cooper, I'm Director of Research at the Consumer Federation of America. We appreciate the opportunity to testify today.
+And this may be the most important effort to reform antitrust in the four decades that I have been analyzing it for the CFA. I draw on three articles in my comments, which I' ve submitted for the record. They outline the problem which the remarkably just match Chairwoman's description of the practices were illegal in the Microsoft case, and that is the standard that we should be applying today and enforcing.
+Digital communications is dominated by platforms using and abusing market power to undermine competition. Six years ago, we concluded that one primary goal of public policy in a dynamic digital economy is to ensure that market power that is inherent in platform does not hinder or diminish the competition for goods and services, and applications that can ride on those platforms.
+We have the model in hand, bright lines behind which entrepreneurial experimentation is unleashed, and strong antitrust principles to constrain market power. The great challenge, of course, is where do you draw that line? How do you find a set of policies that recognize that there are innovative companies developing platforms, and there are competitors who would like to develop applications.
+We know that companies are innovative, and these companies here and on the TV are innovative. They are seeking innovative rents, sometimes called "Schumpeterian" rents because they disrupt business, and they create needs and wants that they then meet in increasingly consumer friendly ways.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 12 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+However, there tends to come a point in the development of these industries, where instead of chasing Schumpeterian rents, they begin to chase what I call "Rockefeller" rents. Those are the rents that accrue to firms that build bigger moats around their businesses, and lock consumers in, while they lock competitors out.
+
+In an analysis by the Stigler group, a center at University of Chicago, there's three dozen challenges to antitrust in digital age. The irony is that the first 10 represent positive economic benefits of digital production and distribution. Those are the innovations we need to foster. But the existence of those innovations does not justify the two dozen anti-competitive sets of practices that have grown up around them.
+
+Now, Congress should, in fact, set goals, provide authority, give power and resources to the expert agencies. Under close congressional oversight, the agencies will get the job right. However, if Congress tries to draw lines and pick winners and losers, there's a good chance that the winner they pick today will be a loser tomorrow, and then we have to get Congress to act again, and that is not so easy to do.
+
+Congress should clear away the thicket of mergers and abusive practices, the decades of antitrust malpractice and shift direction. It should put all of the suspect practices and mergers on the table and empower the agencies to figure out who is doing what to whom, and quickly resolve those problems.
+
+The specifics that I support in my testimony include the following: nondiscriminatory interconnection and carriage, which equals open application interfaces in the digital economy.
+
+Deep suspicion of proprietary application interfaces, a presumption that they are illegal, and severe risk to those platforms that rely on proper proprietary interfaces.
+
+Fair, reasonable, and nondiscriminatory rates, terms and conditions for access, that's FRAND, an expression you' ll hear in antitrust. But the demand side is as important as the supply side. If we can' t get the customers, it doesn't matter how many apps we can develop as long as we - if we can't win the business. So we need to have the equivalent, which is true consumer sovereignty on the demand side.
+
+Consumers must have opt-in, not opt-out, no presumption of what the default is, give me the chance to choose; equal single click choice; provision of neutral information; clear description of the information that's collected and how it is used; and some limitations on the types of information collected and the
+targeting of groups for that information.
+
+Those are the principles, approximately 10 principles that need to govern this space if it is going to be consumer friendly and competitive. Thank you.
+
+KLOBUCHAR: Thank you very much, Dr. Cooper. Next Mr. Gutierrez.
+
+GUTIERREZ: Chairwoman Klobuchar, Ranking Member Lee, and Members of the Subcommittee,
+
+thank you for the opportunity to testify today on behalf of Spotify.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 13 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+My message is simple, stark and urgent. We believe all businesses, including Spotify, should work hard to earn the favor of consumers through fair and square competition in the marketplace, based on better, more innovative products offered at attractive price.
+But Apple abuses its dominant position as a gatekeeper of the App Store to insulate itself from competition and disadvantage rival services like Spotify. Apple anticompetitive conduct hurts consumers with higher prices, less innovation, and less choice.
+Our market moves at Internet speed and legislative action is urgently needed to give antitrust enforcement agencies the tools they need to prevent gatekeeper platforms like Apple from abusing the power of their platform.
+And unless decisive legislative and enforcement action is taken, other gatekeeper platforms inevitably will follow Apple's example, resulting in further concentration of power in the hands of a handful of digital sovereigns.
+15 years ago, Spotify pioneered a streaming audio service that today enables our 345 million customers to hear the music and podcast they want anywhere at any time. Apple Music is one of our principal competitors. It's advantage is not better service, instead it is Apple's total control over the App Store, which allows them to impose rules that disadvantage Spotify, and benefits Apple's own service.
+Some may not remember this, but iPhones weren't that popular when first introduced. Apple soon realized that the iPhone would not succeed if it only offered Apple's proprietary apps. And it invited third parties to develop apps for the iPhone and open the App Store.
+Apple therefore has things exactly backwards when it claims that companies like Spotify are free riding on Apple's innovations. It is Apple's success that rode in large part on the creativity of third-party app developers that created demand for Apple's devices. And the proof is Apple's own slogan, "There's an app for that," which it used to drive sales of Apple devices.
+How did Apple show his gratitude for app developers' help? By doing a classic bait and switch. They waited until 10s of millions of device owners were locked into the iP hone, before changing the App Store rules to impose burdens on app developers that compete with Apple's own applications.
+Apple has a decade long history of using App Store policies to handicap Spotify and benefit Apple Music. It forces to choose between two bad options.
+Accepting Apple's illegal tie of its proprietary payment system and paying Apple's 30 percent tax, which would have forced us to raise consumer prices and made our service more expensive than Apple Music; or accepting a gag order, prohibiting our communication with our own customers, so that we can't tell our users about the existence of our premium service, discounts and promotions available to first time subscribers.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 14 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+Now, it doesn't take a PhD in economics to recognize that this abusive conduct hurts consumers by depriving them of information about a product that competes with Apple's. Apple's anti-competitive intent is clear from the fact that it targets businesses that are or might become Apple's competitors in downstream markets.
+The rules apply to companies that offer online gaming, music and video streaming access to eBooks. But companies like Uber, Starbucks, Ticketmaster, and Walmart, are exempt. Apple argues that these rules are indispensable to the safety and privacy of users. But how can they be indispensable when they don't even apply to 85 percent of the apps in the App Store that are exempt from Apple's restrictions?
+Apple's explanations are cynical pretexts. These restrictions are nothing more than an abusive power grab and a confiscation of the value created by others. Even Microsoft in the heyday of the Windows PC operating system, did not demand a cut of 30 percent of the revenues of competing browsers and media players.
+Legislative action is urgently needed to stop these illegal power grabs. We welcome the broad antitrust reform proposed by Chairwoman Klobuchar along with Senators Blumenthal and Booker. Senator Hawley recently proposed a bill with a number of similar and very important reforms.
+These reforms are essential to equip enforcement agencies with the tools they need to remedy the market and consumer harms that result from these platform abuses.
+Thank you, and I look forward to answering your questions.
+KLOBUCHAR: Very good. Thank you very much. Ms. Daru.
+DARU: Thank you to the Subcommittee and to your dedicated staff for convening this critical hearing. My name is Kirsten Daru, and I'm the General Counsel of Tile.
+Tile helps people find lost items. Our devices work with the Tile app to help people find their keys, wallet, purse - really anything. We also embed our technology into third-party products like headphones, laptops, and wearables.
+We' re a small company with only with less than 150 employees. But we pioneered this category and found success even in the face of significant competition, ranging from other startups to Fortune 50 companies.
+Much of our success relates both to world-class features and a commitment to both privacy and importantly, interoperability. We believe consumers to have a seamless finding experience across any platform, including Android and iPhone.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 15 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+Originally, we had a symbiotic relationship with Apple, we launched our iOS app in 2013. They sold our devices in their retail stores, and they even featured us on stage at their worldwide developer conference in 2018. But that all changed when Apple decided that it wanted to take over this category.
+
+To be clear, we welcome competition, but it has to be fair competition. And Apple's idea of competing is patently unfair, and I will give you some examples. With iOS 13, Apple introduced a new Find My app that had Tile features. That is basically their version of Tile.
+
+Find My is installed by default on all iPhones. At the exact same time, Apple made changes to its operating system that denigrated our user experience and made it really hard for our customers to activate their Tiles. But they left Find My streamlined and on by default. Apple reserved troves of critical information for use exclusively in Find My and not competing apps.
+
+And then, of course, yesterday, Apple announced the launch of their competing hardware product, the AirTags. AirTags will make use of a technology called Ultra-Wide Band or UWB. It's a non-proprietary technology in the same way that Bluetooth is. But whereas Bluetooth can tell you in what room your item is located. U WB can tell you exactly what pillow it's under.
+
+Apple first included UWB chips, and its iPhone 12. And since 2019, we have made many requests to access that chip so that we can use it for the benefit of our customers. In fact, we made an amazing experience using augmented reality with UWB where you can use your phone and see exactly where in the room, what pillow your keys are located under.
+
+But Apple refused our request. And therefore we cannot bring that innovation to the market for the benefit of our customers. Yet, the AirTag is going to use UWB, because Apple's decided to reserve its use exclusively in its product.
+If that weren't enough, two weeks ago, Apple confirmed that it's about to go live with something called the Find My Network Accessory Program, which the House has already found to be anti-competitive.
+
+The program was originally touted in the media as procompetitive concession to Tile's concerns, giving our customers access to the troves of location data otherwise reserved for Find My. Not so, in order for our customers to get that benefit, we have to give Apple unprecedented control over our business and direct our customers to the Find My app to find their lost items.
+
+Basically, the Find My program holds critical data hostage to coerce developers like Tile to abandon our apps and our networks. It deprives customers of choice. And importantly, it breaks our interoperability. This isn't surprising.
+In the Epic litigation, an Apple employee admit Find My Friends as part of Apple's strategy to decrease interoperability, to lock customers into its ecosystem. It seems as though Find My is part of Apple's ongoing plan to turn iOS into a Hotel California, where you can check in anytime you like, but you can never leave. And it's working.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 16 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+One of our competitors has actually announced that its newest devices will be available exclusively within Find My to the exclusion of its own app. Apple, of course, claims that all of these actions are necessary in the name of privacy. That is not true. Privacy and fair competition are not mutually exclusive.
+Apple could easily define requirements to allow us all to play on the same field, but Apple doesn't do that. Apple uses privacy as a blanket excuse to subject competitors to different rules. This is what happens when you have a monopolist acting as a de facto regulator. The regulations will always favor the monopolist.
+IfApple turned on us, it can turn on anyone. And Apple has demonstrated it won't change unless someone makes them. And the legislative answer is simple. If Apple chooses to compete against developers on its platform, it should just do so fairly and according to the same rules.
+Regulating a giant like Apple won't be easy, but it's just going to get harder as it gets bigger and more powerful. Starting with an App Store antitrust reform bill to address some of these known abuses will be an important first step to ensure lasting innovation and competition in this country.
+Thank you for your time.
+KLOBUCHAR: Thank you very much. Next, Mr. Sine. Last but not least. Thank you.
+SINE: Madam Chair, Ranking Member Lee, and members of the Committee, thank you for your bold leadership in advancing this important public debate.
+Apple and Google have used their monopoly power to redirect the meritocracy of the free, competitive and innovative information superhighway to run primarily through the toll gates of their app store monopolies. They' ve systematically programmed users to seek out the app for that, and if you do not have an app, you might as well not exist.
+Let me be clear, Apple and Google are the only gatekeepers of this new internet, using user data and app developers' innovations and even income against them in order to bankroll the construction of massive toll ways on the formerly free information superhighway.
+At the heart of this strategy to control developers and consumers is the requirement that app developers use Apple's and Google's in-app payment services or credit card processor, for which they charge a whopping 30 percent tax.
+But don't take my word for it. The late Apple CEO Steve Jobs devised this strategy. Back in 2010, Apple grew wary that it was far too simple for users to switch between iOS and Android devices, because app developers were allowing users to buy services directly from them that could be used readily on either platform.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 17 of 57
+
+Blocmiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+His directive was simple, let's force them to use our payment system. He knew that once users paid through Apple and not the app developer, they would be locked into Apple's ecosystem, tying their purchases to their iOS devices, and forcing app developers to hand over the lifeblood of their businesses, their customer relationships.
+Let me share just two examples of our experiences that unequivocally demonstrate the monopoly power of these app stores. Shortly after Google launched the Google Play Store, they persuaded us to join the Android ecosystem under the false pretenses of an open platform where we would not be required to use Google's payment processor or pay the 30 percent tax.
+Now, years after helping them establish their app store monopoly by bringing our apps and our customers to the Play Store. Google is leveraging its monopoly power to change the rules, tying it inapp payment system to our access to the Play Store starting in September of this year.
+Not to be outdone, Apple has been equally authoritarian. A few years back Match wanted to institute ID verification rules in our Taiwanese app that mirrored those already required in Japan. Apple rejected our app. Perplexed, I personally contacted the App Store's head lawyer to explain why this was the right thing for our business, and why it kept our users safe.
+I was told in no uncertain terms that he disagreed with our assessment of how to keep our users safe. He added that we should just be glad that Apple is not taking all of Match's revenue, telling me you owe us every dime you' ve made. I was floored.
+Senators, this is not curation, as we' ve been told, it is iron fisted monopoly control. When an industry player has the power to dictate how apps operate, how much they will be forced to pay, and in many cases, if they will even survive, it is a monopoly. This is the same behavior of the robber barons before them.
+It is no wonder that so few companies have been willing to stand up and testify against these monopolies. Would you take that risk if you were a small business? These monopoly activities result in many harms to app developers and consumers. But I' ll focus specifically on four.
+First, safety is actually harmed in the current system, because of Apple's and Google's stranglehold on consumer data, it's difficult for us to even conduct the most basic safety checks for our apps. For example, despite multiple requests over the years, Apple and Google still allow underage users to download our apps, even when they know they are under 18. Apple and Google actually make it harder for us to keep our users safe.
+Number two, Apple's and Google's in-app payment rules force users to hand over massive treasure troves of their most sensitive data, which these tech titans can use to enrich their own products or develop their own competing digital services nearly overnight, and charge 30 percent less.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 18 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+Number three, the App Store tax. Today, instead of "there's an app for that," Google's and Apple's practices could be better described as "there's a tax for that." The 30 percent tax levied on every digital transaction increases costs on consumers and developers alike.
+For Match these App Store fees are our single largest expense, eclipsing $0.5 billion annually. That' s $500 million that could be going back into the pockets of everyday employees - or excuse me, everyday consumers, or deployed to hire employees or invested in new innovations.
+Number four, incentivizing the monetization of selling user data and reducing innovation. Apple and Google essentially pushed developers to adopt a less privacy friendly business model, incentivizing them to avoid mandatory in-app payment by operating more like Facebook, where consumer data is the commodity and monetized.
+Additionally, by removing competition in the payment space, innovation is harmed. When the veneer of their safety, security and privacy arguments shatter under the weight of scrutiny, Apple and Google respond that they' ve built the platforms and should be able to decide what business models they use.
+Members of the Committee, I submit that the railroad companies build the railroads, the steel companies built the steel mills, the telephone companies built the telephone lines, the creators of all of these incredible innovations each made the same argument at different times. It did not justify monopoly, then, and it should not today.
+Thank you. And I look forward to answering your questions.
+KLOBUCHAR: Thank you very much. So it was very powerful, Mr. Sine, and so was all the witnesses before us.
+So let me start out here with you, Mr. Gutierrez. Both Apple and Google charge app developers a 30 to 15 percent commission fee for processing in-app purchases of digital services. Both companies point out that the majority of apps do not pay any payment processing commission, because they are free apps or because they' re selling non digital products or services.
+But many of those who must pay the commissions find them duly burdensome. And I'm concerned that these commissions can be used to suppress competition when they raise the costs of app developers that compete with the apps or other products or services that are offered by the App Store operator.
+Spotify has raised concerns about the competitive impact about these commission fees. Can you describe the effect of these in-app commission fees, what effect it had on Spotify's ability to compete? And canyou justpass these fees on to consumers?
+GUTIERREZ: Thank you, Senator. Thank you for your question. We - there was a time in which under pressure from Apple, we had to implement Apple's in-app payment service. And as a consequence of that, had to start paying the 30 percent Apple tax.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 19 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+The consequence of that in a business like ours were so much of our revenue has to go to pay for the licensing of content from artists and music labels and others, is that, in fact, we had no choice but to increase our price to be able to afford the 30 percent tax that Apple was imposing on us.
+So we have to raise our consumer prices from a monthly subscription of $999 to $1299. Unbeknownst to us, as Apple was putting pressure on us to do that, Apple was in the process of acquiring Beats Music, rebranding it as Apple Music. And then just a couple of months after we had to increase prices, Apple launched Apple Music at $999, which meant they were now undercutting us on price, because we had to pay the 30 percent tax to Apple.
+To face with this reality in which Apple was now putting us in this uncompetitive situation from a consumer price perspective, we had no choice but to take the IAP functionality now. What followed after that was a series of steps on the part of Apple threatening us to kick us out of the App Store.
+Just imagine the power of a threat on the part of a platform like Apple to take you out of the App Store, what that might mean for your business. A number of steps in which they not only said it wasn't enough for us not to provide a link to a payment mechanism, but we couldn't even tell users that there was a subscription option and that they were discounts that we were offering that would make the product cheaper.
+This gag order in terms of the communication with our own customers makes it incredibly hard for us to persuade the user of a free app to upgrade to a subscription app, which is frankly, in a freemium model like ours, how the business can work, and how the creators that put their content on our platform can be fairly compensated. This is a very clear-
+KLOBUCHAR: OK. I'm going to keep going. It's an amazing story, and at some point, I' ll go to Mr. Andeer here to explain this. But then another piece of this is that not only are you charge these fees, and you' re forced to pass them on when you don't want to.
+But it's my understanding that the app stores bar app providers like Spotify from telling your customers through the app that your services would be cheaper if they could directly buy them online. And if those marketing bans were eliminated, what would you tell your users and how do you think it could affect them?
+GUTIERREZ: Well that is a super important issue, because our communication with our users, the way in which we get them to know about the opportunities they have about subscription, and if we can't do that then we can't make the freemium model work, and Apple knows that, because they' re in the business.
+KLOBUCHAR: OK. All right.
+GUTIERREZ: They know exactly the importance of that.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 20 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+KLOBUCHAR: All right. Mr. Sine, Match had a program which you testified about, or which called TMobile Tuesdays that offered discounts through T-Mobile's app. Is that right?
+SINE: That's correct.
+KLOBUCHAR: Apple shut it down, as I understand it, is that right?
+SINE: That's correct. They blocked T-Mobile's app.
+KLOBUCHAR: OK. And so if Apple changed its rules to allow Match to offer discounts, would you do so? And how would that work?
+SINE: 100 percent we actually already offer, for example, on our Tinder app, if you subscribe through the website you get a discount, relative to what you would pay in the app. So that already exists. We would 100 percent take advantage of that if we could.
+KLOBUCHAR: OK. Ms. Daru, you testified that Apple essentially copied Tile's app and took steps to undermine Tile's functionality by changing the iPhone operating system to favor their competing product, and by limiting Tile's access to data. And yesterday, Apple announced the launch of a new product that looks a whole lot like Tile. Can you elaborate on the ways in which Apple's conduct has reduced Tile's ability to compete?
+DARU: Absolutely. And thanks for the question. All of these actions really started when it became known to us that Apple was going to enter the market and attempt to take it over. But really what they did was, with the exact same operating system update that they introduced the new Find My app, they took away one of our critical permissions, which requires our customers to go deep, deep, deep into their settings to turn Tile on.
+Find My, by contrast, is on by default, through the - when you set up your operating system, and in order to turn it off, you have to go deep into your settings and actually enter a password.
+Apple also started serving prompts with that same update to our users. Once they figured out how to turn Tile on, they started serving these prompts, encouraging them to turn Tile off. But they didn't serve up those prompts for Find My.
+Our Bluetooth network, of course, people need to opt-in to the Bluetooth network. I think that's great. We are complete supporters of consumer transparency. But the Find My Bluetooth network in the new Find My app is on by default.
+And then with these AirTags, as I discussed, we have the UWB issue, which I won't repeat. But there' s something else, it's called, something they call the magic onboarding flow to connect your AirPod or your AirTags with your phone, you don't even have to open the Find My app, you just put them near. But that magic flow isn't available to third parties like Tile.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 21 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+In addition to all of that, Apple launched this product and its competing app with a knowledge of a lot of information about our business. They know our retail take rates, they know our retail margins, they know how our devices do in stores, they know who our customers are, they know our subscription take rates, they know what features people use. I mean, the list goes on and on and that is another concern. Thank you.
+KLOBUCHAR: All right. So one of the things that I' ve noticed as we talk to people affected by all of this and the commission fees and the like, they' ve come forward and a lot of them - I'm not going to give their names publicly, because they' re actually afraid to testify. I guess, I don't blame them, because they feel that it's going to hurt their business, they' re going to get intimidated.
+You mentioned, Mr. Gutierrez, I'm not asking you this question, some of the retaliation you thought that that you felt you experienced coming forward. Mr. Sine, have you have any examples of retaliation for coming forward?
+SINE: Senator, we have had outreach with respect to are coming forward.
+KLOBUCHAR: By who?
+SINE: So for sure. By Google.
+KLOBUCHAR: What happened?
+SINE: They called us last night after our testimony became public to ask us why our testimony was different than what we' ve said about the situation in our earnings call earlier this year.
+KLOBUCHAR: Is it different?
+SINE: What we' ve said in our earnings call earlier this year was that we believe we would be able to work through the issue of Google imposing their 30 percent on us, which we' ve been working very hard at over the last few years meeting with regulators and others to try and change these practices and ensure this from not happening.
+Google actually first threatened us in 2017, that they would roll out this in-app payment requirement to us and they' ve slowly or they slow rolled that until they announced it last September.
+KLOBUCHAR: And so, I'm just picturing this compared to Australia where they' ve threatened to cut off a whole country simply because they wanted to charge for content. And so if you were to somehow keep experiencing retaliation, I would assume there's no - we don't - I don't want to keep going into my time. We have several Senators here - three more, another one on the way. I just want to know could they hurt you in little ways that it would be really hard to detect?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 22 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+SINE: They could hurt us in little ways, they could hurt us in big ways. They could easily remove our app. They could again, as they' re doing, impose the 30 percent tax that they had never imposed on us before. They have many, many ways they can hurt our businesses. We are all afraid is the reality, Senator. We' re fortunate you are listening to us today.
+KLOBUCHAR: And I hope that Justice Department is too. Mr. White, why did someone from your company called Mr. Sine? Match is a major competitor of you in the market, we all know who they are. Why did they do that last night?
+WHITE: Thank you, Senator, for the question. And not only is Match a competitor - Match is a major partner of ours, a very valued partner of ours. My understanding based on what Mr. Sine said is, it sounds as if some business development folks who are working on commercial conversations had a conversation and asked an honest question of why sworn testimony was different from what was stated in a public earnings call.
+I respectfully don't view that as a threat. And we would never threaten our partner, Senator. Having developers choosing to distribute through Google Play is core to our business. So the idea that we would threaten partners who actually share in the success that we have as a platform, is atypical - it' s the antithesis of what or how we carry our business, Senator.
+KLOBUCHAR: OK, my last question. I' ll have another round. Mr. Andeer, this is about some of the things that Ms. Daru talked about. Does Apple's developer agreement authorize Apple to use an app developer's confidential, technical and business information to create apps that compete against the developer?
+ANDEER: Senator, no, it does not. We compete on the merits and we' ve looked at different products, different markets, and we asked ourselves time and time again, what can we do different? What can we bring as unique and special to the marketplace?
+And I think AirTags is one of those products. We think it's a very different product than anything else that's out there. We' re super excited to launch this product tomorrow. And I think if you look at it, you' ll see that it's extremely different than anything else in the marketplace.
+What we' re doing at the same time is opening up the Find My network, so we can see third party innovation growth. Meaning, currently this market is dominated by Tile with 80 to 90 percent of the market. So we think we' re going to see a lot more competition, thanks in part to the product that we' re launching tomorrow. But also, importantly, by opening the Find My network to all the third parties that are out there, and are really excited to bring products to market-
+KLOBUCHAR: And do you use any nonpublic information, or data from the App Store. Did you copy anything from Title?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 23 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+ANDEER: Senator, I appreciate question. Absolutely not, we did not copy Title's product. We did not copy Title's application. I think if you look at the AirTags it will be released tomorrow. If you look at the Find My application, you' ll see this is a very different product, very different experience than what you see with Tile and we' re excited to compete and offer that choice to our consumers.
+KLOBUCHAR: And why doyou have to charge 30 percent to Spotify?
+ANDEER: Senator, I appreciate the opportunity to respond to that. The fact of the matter is that Spotify has grown an incredibly successful business. And to their credit, they' re incredibly innovative, and incredibly aggressive when it comes to dealing with artists and creators and driving a hard bargain. They equally drive a hard bargain with distributors. And they' ve built the market leading dominant music streaming business in the world.
+We, in terms of subscribers, they have 155 million subscribers around the world, 10s of millions of those on the iPhone. Less than 1 percent pay a commission to Apple. And in fact, they' re only paying a 15 percent commission. So the price that Mr. Gutierrez mentioned, in terms of increasing it by 30 percent, guess what, they' ve never reduced that price once with their consumers.
+And so h-ey,they're a greatcompany. They've pushed us to compete each and every day. But I respectfully think, you know, we' re offering choice and options to our consumers.
+KLOBUCHAR: I'm just thinking they didn't bargain for that much money if 30 percent. I'm going to turn over Senator Lee.
+LEE: Thank you, Madam Chair. Ms. Daru, let's start with you. You' ve talked a little bit about AirTag. And, by the way, I' ve used your product, it's a fantastic product, very helpful to a lot of people. DARU: Wonderful.
+LEE: So want to make sure I understand this correctly. Apple started treating Tile differently in advance of the product launch, is that what you' re saying? DARU: That is correct.
+LEE: Now, I understand that Apple requires companies like Tile, and including Tile to sign an agreement to be part of the Find My network. DARU: Correct.
+LEE: What can you tell me about what that agreement requires?
+DARU: Unfortunately, I am not at liberties to say, because I'm under an NDA by Apple.
+LEE: OK. Mr. Andeer, will you agree to allow Ms. Daru to talk about the Find My Network agreement?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 24 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+ANDEER: Senator, obviously, that agreement covers a number of proprietary technologies and work that we' re still developing here at Apple. So I can't grant a blanket waiver to discuss it, because there' s a number of proprietary technologies and issues involved in that agreement.
+LEE: Could you grant a waiver to the extent it doesn't include disclosing proprietary technologies? I mean, our focus in this hearing is to discuss the state of competition and competition policy as it relates to app stores. Is there not a way to craft that waiver?
+ANDEER: I'm sure there is, Senator. It's a little hard to do this in the moment, in the vacuum. But certainly, general commercial terms - again, those are still being hashed out-
+LEE: We' re interested in contractual limitations, and not intellectual property?
+DARU: Correct. Just contractual terms. No technology. Nothing technology related at all.
+LEE: So just to be clear, Mr. Andeer and your response related to your proprietary technology, to your to your IP, I didn't hear you say anything about your contractual limitations, which is what we' re wanting to inquire into, is your answers same?
+ANDEER: Senator, the part of the challenge here for me, frankly, is, we just launched this program two weeks ago. We are in the midst of talking about it with a number of partners.
+LEE: Sure. No, I understand you just launched it. But it's not like it, it materialized like Manna from heaven. It didn't just show up.
+ANDEER: That's correct. But right now, we' re collecting feedback from a number of developers. We' re engaged with dozens of third parties who are really excited to use this technology and giving us feedback on all of these terms. So I'm in a bit of a difficult position.
+LEE: OK. Well, I'd appreciate it if you could look into that. Again, we' re not - we have no interest in, we have no jurisdiction over IP aspects of it. We want to know about your contractual obligations there.
+Mr. Sine in your written testimony you suggest that Apple and Google have refused to work with you in order to improve user safety. Tell us a little bit about - more about what you mean by that?
+SINE: Yes. So, first and foremost, the issue I raised in my testimony was about underage users. We are a platform that has decided, because we' re online dating, it's appropriate for only users that are 18 and older.
+Apple and Google collect information as users are registering for their iTunes accounts or their other accounts through which they will actually download those apps. In many instances, they actually know the age of those users.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 25 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+And if you' re a user, and you move through that flow, and you' re 15 years old, you' ll get a pop up that says, by clicking here, you' re agreeing that you' re over 18, even though Apple knows you' re not, because you' ve already entered your birthdate is 15. Those get passed on to our app, we then have to filter them out through our various age gating systems in order to make sure that we don't have underage users on our platforms.
+LEE: I' ve encountered that. One of my teenagers a few years ago, when I was arranging to pay her allowance, I tried to do it through Apple Pay, we couldn't do it at the time. She wasn't 18 at the time. That would suggest that they do, in fact, know which user - to have an iPhone, to operate with an iPhone, you' ve got to have an iTunes account. If it's a minor, it can be linked to an adult's account, and it was. It knows that she was a minor.
+SINE: Correct.
+LEE: We even tried to jerry-rig it and go around it. And it wouldn't let us because it knows. So that is troubling. If - or that is significant, at least if they do know this, and knowing that and allowing that to be known, could be useful for the purpose of protection.
+We live in a world where people do a lot of bad things to kids. It's hard for me to understand why they wouldn't want to share that information.
+SINE: We agree, Senator. In addition, our platforms for years have run registered sex offender checks. We' ve asked Apple and Google to share the data with us that would make it easier to run those checks.
+And, again, there has been, while some lip service to it, very little work done. We' ve then gone around them in order to speak with people here in the Senate to try and help craft legislation that would actually allow us to be able to run those checks with different data.
+We' ve also helped to support a bill that passed in Arizona that would allow us to get access to that data to go around the fact that Apple and Google don't share the information we need in order to run those checks.
+LEE: Mr. Andeer, and Mr. White note - as has been noted, that ride sharing apps use the internet to help you find transportation in the real world. Match's dating apps use the internet to help you find a date in the real world. Why does Match have to use your payment services and give up 30 percent or 15 percent of its revenue, but Uber does not? Let's start with Mr. White and then we'd go to Mr. Andrew.
+WHITE: Thank you, Senator Lee, for the question. It's a good, one very important question. The way we' ve designed our business model was to align our interests with our developer interests. So we only get paid when our developers are engaging in the sale of digital content, and only when that sale occurs in the app itself.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 26 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+Now, when it comes to physical goods and services, we aren't in a position to really protect users of what happens in the physical world. Right. And we won't know whether that Uber driver arrived on time or whether your groceries arrived in an acceptable state.
+But when it comes to digital content, that's where our investments have been, that's where our value add is. And that's why we' ve chosen the business model to align our interests with developers who are actually selling digital content to our shared users.
+LEE: Mr. Andeer?
+ANDEER: Senator, thank you. Apple's App Store was created 12 years ago based on a simple model. That is, if you' re selling a digital good or service, you were subject to a commission. Now, obviously, we' ve made changes to that model over time in terms of making it easier for developers to sell outside of their app in terms of reducing the price over time.
+When it comes to this question about physical goods or services, like using Uber to call a car to your house pick you up and take you to the airport, or a Lyft to go and meet friends. For that, you' re using a phone to communicate with a service provider, and they' re delivering a service to your home or your location.
+When it comes to a dating service, and obviously, Tinder has built quite successful business and they have a number of these sites. What they' re doing is facilitating meeting with people digitally. All that' s taking place, at least should be, on the device. That is, you' re finding a match, you' re meeting someone, you' re swiping right or left, all that's taking place on the device.
+So from our perspective, and from really the perspective of all the developers you talk to, that's a digital good or service. That is not a physical good or service being delivered to your house.
+LEE: What if what if your business involves the downloading of some other digital service, the downloading of eBooks of audio books, or something like that. Is that - if you' re saying it's a digital service, wouldn't that extend to the purchase of downloads of books?
+ANDEER: Senator, yes - Senator, yes, it does. And folks like Amazon, and their very popular Kindle app-
+LEE: Right. So how is that different than Match.corn's apps?
+ANDEER: They' re both selling a digital good or service. One is a book. The other is a subscription to a service where you' re meeting other people that you may be interested in.
+LEE: OK, so Uber, that is also a digital service in the sense that you' re trying to find a ride. Now, you' re also paying for that ride. It involves movement of the person once the ride arrives. But in all three instances, downloading a books, arranging to meet someone to date, or finding a ride, aren't those all three digital services where you' re exchanging information through the app?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 27 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+ANDEER: Senator, respectfully, I see the car service very differently than the dating service or the audio book. The dating service, you' re meeting people on your phone. On the book, you' re reading the book on your phone, or your iPad. With a car service, I am calling a car to my house to come pick me up and take me to work or to the airport or wherever I might be going. The value I'm getting from Uber and Lyftis away to getacarto go fromAto B.
+In terms of the other examples, all of the experience is contained within the four corners of the device. You' re not paying-
+LEE: But is literally meeting a stranger for transportation. I just - I'm not grasping the differentiation point between meeting a stranger for transportation and meeting a stranger to go to dinner. I don't get it. I'm just a small country lawyer from Provo, Utah. But I'm not-
+KLOBUCHAR: Oh, yes, right.
+ANDEER: Senator respectfully, when I'm using Uber or Lyft, I am calling a car to my house to physically get in and drive somewhere. When I'm using - and I don't use these - a dating service to meet someone, I'm not using it to pay that person to come to my house and to go on a date. That' s called something else.
+LEE: I feel like Unfrozen Caveman Lawyer as portrayed by Phil Hartman on Saturday Night Live. I' ve just - I'm not grasping it. But I see my time is expired, and I don't to be deferential to our Chair. Thanks.
+KLOBUCHAR: Very good. Next that Senator Blumenthal.
+BLUMENTHAL: Thank you, Madam Chairwoman. I'm just a country lawyer from Connecticut. I tried to use that line once as Senator Lee in the Supreme Court in argument there and I think it's the closest I came to contempt of court anyway.
+Let me just say, after listening to my colleagues, I'm tempted to say Google and Apple are here to defend the patently indefensible. Ifyou presented this fact pattern in a law school antitrust exam, the students would blast the Professor out of the classroom, because it's such an obvious violation of our antitrust laws.
+Mr. Gutierrez, you remarked in your testimony that you were at Microsoft during what you call the heyday of its antitrust woes. I remember those days, because I sued Microsoft. And the lesson from that case that you expound here that, these practices are exponentially worse, is absolutely true.
+But the larger lesson that you tell us that the current laws aren't working, in effect, that enforcement of them is too little, too late, courts are overly deferential, agencies are reluctant to bring lawsuits. And therefore we need to reform our laws as the takeaway here.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 28 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+GUTIERREZ: That's correct, Senator. I think that the - one has to appreciate both from the point of view of the legal tools of being able to overcome this deferential approach, and the tasks of the enforcement agencies would have to do that. You also have to recognize that in this case, you would be looking at the business and the practices of trillion dollar companies that have a global footprint with a tremendous information asymmetry.
+
+So both from the point of view of the legal tools that the enforcement agencies need, as well as from the point of view of resourcing, I think if something meaningful is going to happen, those things have to be looked at.
+
+BLUMENTHAL: And what I heard Apple tell you, in defense of charging you this rent, whether it's 15 percent, or 30 percent, hardly makes any difference. Its rent arbitrarily imposed to try to stifle competition and increase Apple's profits at your expense is, well, you can afford it.
+
+But the fact of the matter is that, as you said, Spotify has to pass it on to consumers and it inhibits innovation and competition, correct?
+
+GUTIERREZ: That's correct. And Apple knows the business really well, because they' re in it. They' re a direct competitor of ours. And this is a textbook case of racing rivals cost, which is what they' re doing.
+
+They recognize because they know the music streaming business that we have high costs associated with paying for the content to the artists and musicians. And they know that our margins are tight. And that a 30 percent tax, even if it eventually might come down to 15 percent, it is just too large a fee to be able to absorb without passing on that increase to consumers.
+
+BLUMENTHAL: And just to show you that Apple is well aware of the value of this practice, it doesn' t allow users to jailbreak their phones to sideload apps. It has shut down alternative app stores.
+
+In fact, as we know, Apple was sued by an alternative App Store Cydia on monopolization grounds. And Cydia's complaint made clear that Apple not only excluded them from the iPhone market, but lifted Cydia's videos, popular features and incorporated them into Apple's App Store.
+
+So it's not only a matter of making you charge consumers more, it's also a method to suppress competition and steal. Good idea, correct?
+
+GUTIERREZ: That's correct. And, Senator, Just to follow on, on your point, if Apple is convinced that their payment system is that superior that it really should command a 30 percent fee, they should allow for competition, let the market determine that. Let's supply and demand determine what the right fees, but they haven't done that. They have-
+
+BLUMENTHAL: Well, they - that's right. They haven't done it, because the law hasn't been enforced
+
+against them. What we have is a classic case of exclusionary anti-competitive conduct. And as I think
+
+all of us would agree, violations of the law and monopolistic abuse of power, just as it happened in the
+
+Microsoft case, need to be held accountable.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 29 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+That's why I support strengthening Section 2 of the Sherman Act to curb anti-competitive exploitive conduct by monopolist and other dominant companies. And that's why we need to consider also interoperability as a remedy, like it was in the Microsoft case. And in the ACCESS act that I have cosponsored with Senator Warner.
+Mr. Sine, we have this apparent explanation of the call to you last night, right? SINE: The call was not to me. The call was to our person who has a business relationship with Google. So it's our representative talking to their account representative.
+BLUMENTHAL: A representative of your company? SINE: Correct.
+BLUMENTHAL: Out of, what do you think, ideal curiosity, why was the call made?
+SINE: I can't really speculate on it, Senator. But, anytime you receive any kind of call-
+BLUMENTHAL: Well, we are plausibly interpreting it because of the timing, because the content of the call, we don't have evidence of the exact word spoken, but it looks like a threat, it talks like a threat. It' s a threat. SINE: When you receive something like that, Senator, from a company that can turn you off overnight, you' re always a little intimidated.
+BLUMENTHAL: Correct. And it hasn't been reluctant to throw its weight around. Similarly, I think it's an insult to this Committee. I think it's more than an insult, potentially actionable, and I think we should look into more information about it. Would you agree? SINE: We would be happy to comply and work with you on that.
+KLOBUCHAR: That's the plan Senator Blumenthal. Thank you.
+BLUMENTHAL: Thankyou,Madam Chair. Ithoughtitprobably would be.Thank you.
+KLOBUCHAR: Yes. BLUMENTHAL: Let me turn to another area that Senator Klobuchar has ably begun to explore. I didn' t hear an answer to Senator Klobuchar's question, Mr. Andeer. Has Apple ever used app developer's information to inform its own product strategy?
+ANDEER: Senator, I am not aware of anyone at Apple using proprietary information from the App Store to develop our products. It's the antithesis of how we approach product development and innovation. We will always create something different and special and unique for our customers.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 30 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+BLUMENTHAL: I noticed that you carefully couch that answer in terms of proprietary information. But the fact of the matter is, Apple has, in effect, appropriated a euphemism for unauthorized taking of this information to copy and kill competitors.It'sreportedly done this so often that it's earned a nickname with developers "Sherlocking".
+Apple and Google have access to troves of private information about apps on their app stores and it enables them to identify popular and nascent apps and then copy and kill them by introducing those competing apps that mimic the original.
+Apple's former CEO Steve Jobs put it, the company has quote, "always been shameless about stealing great ideas." That seems to be the ammo of Apple and there are numerous examples of this copy and kill strategy.
+We' ve heard about AirTags, which are a copy - carbon copy of Tile's item tracking products. So let me ask you, Mr. Andeer, do you impose a strict firewall? Does Apple impose a strict firewall between the App Store and its business strategy?
+ANDEER: Senator, if I understand the question correctly, we have separate teams that manage the App Store and then are engaged in product development strategy here at Apple.
+BLUMENTHAL: I understand you have separate teams. You have a barrier between the two, what we call in law firms the "Chinese Wall?" Do you have a strict prohibition against the sharing of information between the App Store and the people who run those businesses?
+ANDEER: Senator, we have controls in place. I would also hasten to add that, in terms of when you look at the marketplace over the last 12 years, we' ve only introduced a handful of applications and services during that time. And in each and every instance, there are dozens of alternatives available through the App Store, oftentimes more popular and more successful than our own Apple service or product.
+So we don' t copy we don't kill. What we do is offer up a new choice and a new innovation. for consumers.
+BLUMENTHAL: The answer, though, to whether you have a data firewall is no. That's the way I took the answer to my question. Mr. White, does Google have a firewall between the app store and his business strategy?
+WHITE: Senator, my understanding is we do have data access controls in place that govern how data from our third-party services are used.
+BLUMENTHAL: When you say access control, do you mean a firewall? In other words no-
+WHITE: I'm not sure exactly what you mean by my firewall.
+BLUMENTHAL: Well, do you have a prohibition against the access?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 31 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+WHITE: We are prohibition against using our third-party services to compete directly with our first party services, Senator.
+BLUMENTHAL: How longhave you had it?
+WHITE: And we have internal policies that govern that.
+BLUMENTHAL: Well, I'm going to explore this question in written questions. I apologize that my time has expired. Thank you, Madam Chairwoman.
+KLOBUCHAR: Verygood. Thank you, Senator Blumenthal.Senator Hawley.
+HAWLEY: Thank you very much, Madam Chair. Thanks for holding this hearing. Thanks, also to Senator Lee. It is no secret to anybody on this Committee that I think that antitrust enforcement now needs to be a top priority, but we need to make significant changes to our antitrust laws in order to ensure that we are doing everything we can to get real antitrust enforcement of this century.
+Let me just come to you Mr. Andeer. I noticed since last April, Apple has bought back $58 billion in stock. That's a big number. Quite a shift from where you were under Steve Jobs. He used to insist that Apple wouldn't buy back stock, because it needed to innovate, it needed to retain those profits in order to reinvest. But you' ve clearly changed position, that's fine.
+I just want to focus on one major source of that income. It's not innovation. It's not research and development. It's the monopoly rents that you collect out of your App Store. Now, I noticed that you today have referred to the need to have that monopoly control over the App Store in terms of the security rationale behind it.
+Tim Cook has said the same thing. He said recently in "The New York Times" podcast that Apple needed to lock up the ecosystem - the iOS ecosystem, so it can limit vulnerability. The thing about that that seems strange to me is, you don't seem to spend very much money on actually on security. I mean, all of the all of the money you make on your Apple tax, you don't invest very much of it into actual security.
+In fact, it looks to me like you didn't even launch your bounty program where you pay researchers to discover security vulnerabilities in iOS until 2016. When he did that you capped it. You had a hard cap on the spend. You finally raised the levels somewhat in 2019. So it doesn't seem to be that big of a priority.
+So let me just ask you this. Here's my question. Will you commit - will Apple commit to spending all of the money that it raises - all of the income it raises out of that Apple tax, all those monopoly rents, will it commit to spending all of those on security, since that's allegedly why you need to have a monopoly in this market?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 32 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+ANDEER: Senator, I appreciate the question. We' ve invested billions of dollars in securing our iPhone, our App Store and all of our products. This is a priority for us each and every day we wake up 24/7, 365 days a year.
+So if you look at the App Store and app review process, we get 100,000 submissions each week. We have a combination of Al and human review to review all of those. We reject 40 percent of them, because they may pose some sort of either performance, security, privacy risk to consumers.
+And so this is something we take incredibly seriously. And if you look at the objective studies that are out there, time and time again, they find that the iPhone is the most secure platform, and the most secure device available on the market.
+HAWLEY: I didn't - thank you for that. I didn't - I don't think I heard a yes or no though in there. So let me just try again. Will you commit to spending - if security is the reason you need to have this monopoly and collect these monopoly rents, which are sizable, will you commit to spending that money - all of it - on security for apps?
+ANDEER: Senator, the App Store - we' re going to continue to invest in the App Store. There's a number of things that we do to ensure that developers are able to create their apps. There's all the tools and resources and applications that we make available to developers, that's part of what's at issue with our model.
+We also invest, obviously, to make sure that our marketplace is trusted and safe for consumers. So there's a number of competing investments and incentives for us to make sure that continue-
+HAWLEY: OK.
+ANDEER: -to put very best experience.
+HAWLEY: I don't mean to cut you off. I just have a limited time. That sounds like a no to me, which is kind of what I thought you'd say. My concern with that is, is just it makes it hard for me to ignore the major dangers to competition that your monopoly in the iOS market opposes.
+Now, you recently announced that the smallest developers in the App Store get a redo - will pay a reduced fee, 15 percent. It's very generous of you. You announced earlier that you take only 15 percent from subscription revenue after the first year. You take 30 percent in that first year. Here's my question. Does ever - Apple ever cut more generous deals to well-connected executives in other companies, to big time companies, not to those small companies. But do you ever cut more generous deals to the really big companies?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 33 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+ANDEER: Senator, we do not. I mean, our fundamental principle since the very beginning is we treat all developers the same. And so when we launched this store 12 years ago, we took the price, which was 60-70 percent, and took it all the way down to 30 percent. In part, because we wanted to encourage those new small and mid-sized businesses to enter this market.
+And what we' ve seen over the last 12 years, as we' ve evolved that model, and we' ve reduced price time and time again, is now we have a marketplace with 1.7 million apps, 85 percent which pay nothing. So we think it's been an incredible benefit to startups to small, and midsized businesses and individual entrepreneurs.
+HAWLEY: Well, I find that answer strange, because the House Judiciary Antitrust Subcommittee uncovered documents of 2016 that show that Eddy Cue of your company negotiated a deal directly with Jeff Bezos at Amazon for a special deal for Prime Video, whereby Apple would collect just 15 percent of the revenue from customers signing up within the Amazon app for Prime Video. And I'm curious on what basis these special terms were offered to Amazon?
+ANDEER: Senator, there was no special deal provided solely to Amazon. Those negotiations lead to a new program on the App Store, the premium Video Partner Program. There are over 200 developers that are taking advantage of this program, including Amazon.
+So there are a number of developers. It's open to all.It'sanother instance in which we' ve reduced the price to developers to encourage new innovation and investment. And we made those same terms available to every developer.
+HAWLEY: So if the program is the established program for premium subscription video entertainment providers, if I'm correct, what happened here for those who are keeping score at home is that years later, when it was discovered that Amazon had - that Apple rather had given Amazon a special deal, Apple comes back and says oh no, we had a program. It's established.It'sthis program for premium subscription video entertainment providers. That's a mouthful.
+Of course, premium subscription video entertainment providers means it wasn't by definition open to everybody. This is not the first time that Apple has done this, the House Antitrust Subcommittee revealed that Apple granted Baidu, that's a Chinese company, a fast track through the app review process and even assigned two employees to get Baidu concierge service.
+You' ve also given Netflix special deals that other smaller developers like app HEY didn't get, for example. It looks like to me - here's my point. It looks like to me that what you' ve done is, you' ve been willing to cut special deals with other major companies who already have significant market power, and have significant market share and could use it to squeeze you.
+But for smaller competitors who are trying to get into the market, for those guys and gals, very, you really put the squeeze on them. Isn't that accurate?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 34 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+ANDEER: Respectfully, Senator, it is not. We have operated store for the last 12 years that has continually looked for ways to encourage small and independent businesses to grow and develop on the App Store. There's program after program that we' ve launched. We feature these apps on our App Store in terms of small and innovative applications.
+We launched the small and midsized business program last year, which reduced the commission for small businesses that were subject to the commission. So we' re going to continue to find ways to invest, to make it possible for everyone to create on the App Store.
+HAWLEY: Well, my time has expired. I look forward to pursuing some additional questions with you and for the other witnesses in writing. But I' ll just note in closing that, what it looks like to me the pattern here, is that Apple is happy to Jerry-rigged the rules, and is happy to cut special side deals. And is happy to try and turn away, keep big time competitors from cutting into your market, make special deals with them, while putting the squeeze and the lid on small competitors.
+All in service of keeping this gravy train of monopoly rents flowing. That's a big problem. And it's one, I think, that it's time that we addressed and that's one of the reasons I'm glad we' ve had this hearing today. Thank you Madam Chair.
+KLOBUCHAR: Thankyou very much, Senator Hawley. Next,Senator Ossoff.
+OSSOFF: Thank you Madam Chair. Thank you to the panel. Mr. White, Mr. Andeer, Senator Hawley noted that you' ve consistently argued a justification for the market power you exercise here as your ability to regulate the safety and security and protection for consumers of apps that are sold on your platforms.
+One of the things that, I think, is most distressing is that, it's trivially easy to find apps on both of your platforms which are seams, which are promoted by, in some cases, hundreds or 1000s of obviously, fake positive reviews, and which trap users in billing arrangements that are expensive, punitive, improperly marketed, and it's very difficult to unsubscribe from some of these monthly billing arrangements.
+So what steps are you taking to end the proliferation of scam apps on your platforms, when you say publicly repeatedly that the value of your platforms is in consumer protection, safety and security of the consumer? And why do we rely upon open source reporting and journalists to find all of these apps that are trivially easy to identify as seams? Mr. Andeer, go ahead, please.
+AND E ER: Sure. Thank you, Senator. We' ve invested 10s of millions - hundreds of millions of dollars in hardening and improving the security - literally billions of dollars over the years. Unfortunately, security and fraud is a cat and mouse game, any retailer will tell you that. And so we' re constantly working to improve. And we do that in a variety of ways.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 35 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+Internally, we' re investing in more resources, more technologies, more tools, to make sure that we can catch these wrongdoers. We reject 1000s - 10s of 1000s of apps each year that pose a risk to our consumers, whether it's from the perspective of security or from fraud.
+
+We also rely on our external community. There are a number of stakeholders who will raise issues, and this is important. Unfortunately, no one is perfect. But I think what we' ve found over and over again that we do a better job than others.
+
+I think one of the real risks of opening up the iPhone to sideloading or third party app stores is that this problem will only multiply. If we look at other app stores out there, if we look at other distribution platforms, it scares us-
+
+OSSOFF: Mr. Andeer - Mr. Andeer, thank you. I appreciate the response. And I want to talk about the sideloading question in a moment. But let me just ask you this. When, again, there is so much reporting in tech press, there are independent researchers who find many of these scam apps on your platform. Sometimes they hook people into paying $10 a week or $10 a month recurring subscriptions for meaningless services.
+
+Apple is making a cut on those abusive billing practices. Are you not?
+
+ANDEER: Respectfully Senator, I don't believe that's the case. If we find fraud, if we find a problem, we' re able to rectify that very quickly, and we do each and every day.
+
+OSSOFF: So if you if you identify an app, Mr. Andeer that is obviously engaged in scam billing practices, does Apple refund all of Apple's revenues derived from those scam billing practices to the consumer?
+
+ANDEER: Senator, that's my understanding. There' s, obviously, a dedicated team here at Apple who works this each and every day. But my understanding is that we work hard to make sure the customer is in a whole position. That's our focus at the end of the day. Because we lose the trust of our customers, that's going to hurt us.
+
+OSSOFF: Mr. White, another question about consumer safety, privacy and security. Certain apps available through Google's platform, as well as Apple's platform, have included software development kits, SDKs, which sends user location data to third parties, often location data brokers. There's a massive market for this data. Governments buy it, corporations by, spies by it.
+
+In one prominent example, the location data company called X-Mode sold consumer data to defense contractors derived from its SDK on products sold on both the Apple and Google stores. Both companies announced they banned the products, but researchers continue to find the X-Mode SDK, Mr. White, in hundreds of Android apps even after the ban.
+
+Are any X-Mode SDKs still present on apps sold on Google's store? And what steps are you taking to
+
+protect your users from the sale of location data to data brokers?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 36 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+WHITE: Thank you, Mr. Ossoff. It's a really good question. And the security issue, as Mr. Andeer has said, it really is a difficult one, and one we have to invest in heavily to stay in front of. And that's why on every Android device that has Google services, we require that those devices have Google Play Protect.
+It's our security monitoring service, which scans 100 billion app installs every day. And just in 2019, Google Play Protect, removed 1.9 billion incidences of malware and other security vulnerabilities from non-Google Play sources, just to give you a sense of the scale at which we' re trying to attack.
+OSSOFF: But to be clear, Mr. White, and just given my limited time, I'm referring to SDKs, which perhaps should be classified as malware, but are not currently classified as malware. Do you agree that the Data Broker market is exploitive, and abusive, and that most of your users have no idea how much information is flowing through these data brokers?
+WHITE: One of the things Senator, that we take very seriously, it's our responsibility to keep the users who come to Google Play for a safe and enjoyable experience to keep them safe. And that's why we have policies in place. And if developers violate those policies, we review every app that's submitted to the Google Play Store, whether it's a new submission, or an update to an existing app, before it' s published.
+And as Mr. Andeer said, similarly we have that, that's a combination of human review and automated tools.
+OSSOFF: Mr. White, will you kindly? Will you please provide to this committee within 30 days and assessment of whether any X-Mode SDK malware, or any other X-Mode SDK technology remains on Apps sold on the Google Store?
+WHITE: Yes, Senator, happy to look into that and follow up with your office with more details there.
+OSSOFF: And I'd like you to commit to providing information not just to looking into it please.
+WHITE: Sounds good senator, will do. Thank you so much. Finally, Mr. Cooper, thank you for joining us today. Mobile Apps collect use and store a massive array of sensitive personal data. Do you believe we need legislation that would ensure that the privacy policies provided by app developers and app stores disclose in plain English that's decipherable to everyone, all data collection practices, data storage practices, and third parties to whom such data might be sold?
+COOPER: Yes. That was - that was, in fact, the thrust of my of the second half of my recommendations because the demand side, it turns out is as important as the supply side. And if you liberate these folks, they won't get any place if the consumer doesn't have sovereignty.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 37 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+So the idea of open, fair, actionable information provided to consumers, true consumer choice is absolutely critical. The interesting thing here is that this is one area in particular, there may be others, where it may not be the antitrust authorities who you want to do that, because it's not the kind of thing they do. They don't engage in behavioral regulation, they actually avoid it as best they can. So this is one area where you really need standalone legislation.
+And we need to have a good conversation about who the regulator should be. We may not have any in our society, we may have to create a new office. We can look around, but there's no doubt that if you don't fix the demand side and the flow of information and give consumers back their sovereignty, which they have lost to these platforms, you will not get very far towards promoting competition.
+OSSOFF: Thankyou,Dr.Cooper.Thank you, Madam Chair.
+KLOBUCHAR: OK, thank you very much, Senator Ossoff. Good job. Before I turn to Senator Blackburn, just some submissions for the record. From John Burgmayer, Charlotte Sleiman and Alex Petros at Public Knowledge for Morgan Reed at the App Association, from Bruce Gustafson and Sarah Richard at Developers Alliance, from Megan DiMuzio at the Coalition for App fairness, from Tech freedom, from Arthur Sidney of the Computer and Communications.
+We must have a good Hearing Senator Lee. From Arthur Sidney of the Computer and Communications Industry Association and from Professor Michael Jacobidies of the London School of Business. I seek unanimous consent to enter these submissions into the record. Without objection. Senator Blackburn.
+BLACKBURN: Thank you, Madam Chairman. And yes, indeed, it is a good hearing. And I think that the witnesses see this is an area where there is a good bit of agreement and picking up where Senator Ossoff left off, you know, there is frustration with some of the Big Tech providers when it comes to the issue of privacy and security and Dr. Cooper, I appreciate your remarks. One of the questions we ask is who owns the virtual you?
+Who owns the virtual you, which is you and your presence online. And to Mr. White from Google, we are fully aware is that you collect this information, and then you monetize this information. And so the question is, why should we trust that Google will not use this information to further entrench this data monopoly that they have going?
+So, Mr. White, why should we trust Google to not monetize this information and to benefit from it? And will Google commit, since you didn't want to answer, Senator Ossoff's question, I' ll pose it to you a different way. Will Google commit? Will you commit in writing that you are not going to use any of this consumer data information to inform your other business lines, and to not collect or store any information other than that, that is necessary to facilitate the transaction that is taking place on your system?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 38 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+So Mr. White, will you commit to that, that you' re not going to capture and hold and utilize and monetize this information that you' re going to let consumers own their presence online? Are you ready to make that commitment to us?
+
+WHITE: Thank you, Senator Blackburn, for the question. To your point around why should consumers trust us, that is the core thrust of our business model.
+
+BLACKBURN: Mr. White, that is really not the question. I'm asking for your commitment. You ready to give it?
+
+WHITE: Yes Senator, what we do is we try to provide users with transparency, security and control. We give them access to the data that's being collected and we give them the-
+
+BLACKBURN: Sir, you' re skirting the question, so I' ll reclaim my time. Let me go over to Apple. Apple seems to have two operating standards. There's one for doing business in America, there's the second standard for appeasing the Communist Chinese.
+
+Apple kicked Fortnite and I'm aware of Fortnite I have two grandsons that are 11 and 12. And I' ve watched them play Fortnite, well Apple decided to kick Fortnite out of the App Store over a fees dispute, but it lets TikTok, stay on, despite violating privacy rules. And Apple will pull Hong Kong prodemocracy apps from the store when the Communist Party demands that it pull it, but then it won't - will not cooperate with the FBI to catch terrorists in America.
+
+And Madam Chairman, there's an excellent article on Apple's willingness to bend the knee to China in the New York Post. It is called is your iPhone worth China's tyranny? And I would ask your permission to insert that into the record.
+
+KLOBUCHAR: Without objection, it's on the record.
+
+BLACKBURN: Thank you. There's the Tim Cook run Apple which turns a blind eye to communist China's human rights abuses in Tibet and Xinjiang. Then there's the Apple of Hong Kong run by Jimmy Lai, who is willing to go to jail for a publication that fights for democracy.
+
+And it is sad to see the Apple of the West speak up against injustice in America, yet stay silent when it comes to China's atrocities and the genocide that you' re carrying out against the weaker. So this month Apple is finally rolling out new privacy policies that claim to empower users and stop unwanted location tracking and I'm concerned that Apple's privacy by design, as it's called, cannot coexist with turning a blind eye toward Beijing's behaviors.
+
+Last year, Forbes reported that Apple caught TikTok spying on users using the clipboard feature. Even
+
+now TikTok is plotting ways to get around Apple's new privacy policies. Yet TikTok remains available
+
+to download in the App Store, putting iPhone users' privacy at risk. If Apple is imposing 30 percent for
+
+safety and security. Does that mean Apple is also responsible for all costs related to breaches of safety
+
+and security on iPhones? Waiting for an answer.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 39 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+ANDEER: Thank you, Senator. We take privacy incredibly seriously - seriously, here at Apple. We' ve embedded technologies and features over the last 25 years to ensure that all of our products, respect your security and respect your privacy. That guides our own products, that's also increasingly guiding our third party developers and partners to make sure that your information, you know, understand who has access to it, and you have control over it. That's true here in the United States, in China and around the world.
+BLACKBURN: OK, so all right, but still, you are charging 30 percent for safety and security. So when breaches occur, which is my question, are you responsible for all cost related to breaches of safety and security? I was not asking if you took it seriously, I was asking for your actions. So you' re doing all of those costs?
+And then let me continue - let me ask you this, are you telling Congress and the world writ large, that you are charging this massive sum because this work is very difficult? And that you do it well, that you have extraordinary security measures? And if that's the case, why should you get all the money, but not take any of the responsibility for the breaches of safety and security on iPhones and iPads?
+ANDEER: Senator, we' ve thrown open the gates of the iPhone to third party development and from the very beginning, we' ve had a model of support that in terms of charging a commission for digital goods and services, that supports all the technology resources, and other things that we pour into our developer program and to build the App Store. Part of that is security and privacy, absolutely.
+It'ssomething we' ll continue to invest in and continue to work on, we now have a marketplace in which we have 1.7 billion apps, 84 percent of them pay nothing. We are working tirelessly to create the best possible experience for both our customers and developers.
+BLACKBURN: OK, I am running. But thank you for the answer. Mr. Sine, I have a question to you that will relate to that. I will submit it to you for now.
+KLOBUCHAR: You can ask him now if-
+BLACKBURN: Oh, OK,thank you. Letme ask you with match. You allhave an app. So how do Apple and Google use safety as a pretext for controlling what apps can or can't do in the app store?
+And how do you see them selectively applying standards to disfavored apps? Because I can't get a straight answer from either of them. And I' ve been listening to the hearing in my office and I have heard a lot of hot air, and generalities and not a lot of specifics.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 40 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+SINE: Yes, Senator, the reality for us is, we don't see a lot in terms of safety that they' re talking about that they provide to us. Again, as we mentioned, they don't even do the basic, which you would think is limiting underage users from downloading our apps when they know that those user users are under age. We' ve actually seen them, as I mentioned, in Taiwan block our app because we wanted to doID verification, they blocked other versions of our app, because we wanted to do multi-factor authentication telling us that it was inappropriate for us to mandate two forms of identification in order to make sure that someone could access our app, because we wanted to make sure it was the right person.
+So when Apple talks about the need for safety, security, etc, you know, the reality is if it's really about safety, security, etc then that payment would be applied to every app on the platform, not just 15 percent because we all have users.
+BLACKBURN: Thank you for the clarification. Mr. Gutierrez, I will come to you for a question, written. I spoke to the House of Lords in the UK yesterday on a couple of things. So I' ll just send those to you in writing. And, Madam Chairman, you were generous with the time. I think this shows exactly why we need to move forward with privacy, data security, antitrust and Section 230 reforms in order to provide protection for consumers in the virtual space.
+KLOBUCHAR: ExcellentT.hank you very much, Senator Blackburn. Senator Lee.
+LEE: Thank you, Madam Chair. When Senator Blackburn referred to the House of Lords a minute ago, I flinched a little bit, because usually that's used as a denigrating reference to the Senate, but let them know you were talking about the actual House of Lords. Mr. Gutierrez, let's start with you in this round.
+A recent filing in the in the Epic vs. Apple case contains some quotes - some quoted discussions with Philip Shoemaker, Apple's Director of App Store review from 2009 until 2016. Shoemaker said that Apple had used The App Store, "as a weapon against competitors." And has rejected or delayed competing apps on protectable grounds.
+He further explained that, although in theory, an iOS developer that's unhappy with Apple could simply leave the iOS platform, and perhaps write only for Android and compete only in that space. So although they say that that perhaps most app - most app developers don't consider - don't consider taking that step, and therefore don't consider abandoning iOS to be a viable, realistic option.
+So my question to you is, if developers can't leave, if they feel that's not a viable option, even if they' re being abused, or mistreated, how would an operating system ever feel the need to change? Why would they change if they' ve got a captive group of people who have no place else to go? Or who can' t go?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 41 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+GUTIERREZ: Senator, the reality is that they want, they won't do it out of their own initiative, they have to be forced to change. And that is why we were the first company to actually publicly, you know have the courage to come out and speak about these things.
+And then what's happened since then is this debate has really blossomed, this debate has really happened across both sides of the Atlantic. And now you see companies come in front of you, a coalition that we helped, found now has 55 members and continues to grow.
+And it is only through companies speaking out about the real implications of their actions. And, you know, legislators and government agencies and enforcement agencies looking into these issues that they' re ever going to change. Otherwise, they will continue to apply to this superficial pretext and continue to behave exactly the same way that they have in the past.
+LEE: OK. Something just said, maybe remember a question asked by Senator Klobuchar to another witness earlier in the hearing, when he talked about having the courage to talk about it. As a result of testifying today that you feel fearful of retribution?
+GUTIERREZ: Well, I - because we have a long history of engaging with Apple, I think they know better than to call us on the eve of our appearance here. But I over the years, I can tell you right off the top of my head of at least four clear examples of threats and retaliation, that we faced with them from the very existential threat of being removed from the App Store, because we had decided not to implement the payment system going forward to the clear statement to us that our app, even though at the time was the top grossing app on the app, it would never be promoted on the app store or received any marketing, because we were a competitor to changes - unilateral changes to the rules that retroactively outlawed things that we did in our products, to having to wait some time, months, sometimes months, for our app updates to be approved, even though they contain bug fixes and vulnerability fixes, as well as a number of other things.
+They - they basically thrown the book at us in a number of ways to make it hard for us to continue to sustain our - our, our decision to speak up.
+LEE: Thank you.
+COOPER: Senator Lee, let me make a - plays the most important issue.
+LEE: I don't have a whole lot of time. So if you-
+COOPER: One of the most important reasons, ways to get people to come vote, is to have the Department of Justice they believe in, that will carry their - listen to their complaint and carry them forward. And that's exactly what your job is, is to create that kind of Department of Justice. Because otherwise they' re naked. When they have a Department of Justice, they can tell you what the problem is, they can say - that's why it's necessary.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 42 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+LEE: Mr. Andeer, Apple frequently cites the need to protect users privacy and security. Now, these are laudable goals. And in fact, you know, I'm an Apple customer for that reason, and many others, and I appreciate Apple's sincere commitment not to sell my data and to protect my privacy.
+But how can competitors and customers and legislators and others be sure that security and privacy aren't being used as a pretext to exclude competition, as alleged by Mr. Shoemaker. And the question that I asked a moment ago to Mr. Gutierrez, for example, the other documents in the Epic litigation that I' ve referenced, revealed that Apple's human review process typically took 13 minutes per app, 13 minutes for each app.
+And that the lead engineer responsible for detecting fraud and abuse in the App Store analogize, the review process to bringing a plastic butter knife to a gunfight. Meanwhile, it seems like apps that present a potential competitive threat - sort of threat to Apple are often delayed, or blocked or disadvantaged. And in other cases, apps that don't present those, but perhaps offer a different viewpoint.
+I'm referring here to the Parler suffered a different sort of fate. But anyway, back to the back to the competing space. How can we ensure that your privacy and security protections are in fact narrowly tailored to help consumers while minimizing the impact on competition and that those concerns aren' t being used to shoehorn in anti-competitive behavior?
+ANDEER: Senator, I appreciate the question. I think what we have is a 12 year track record that we can look back upon. And so what we have done consistently, year after year, day after day, is think about how we can harden and secure our devices to make them the most secure in the marketplace, as study after study has found and introduce new features to give you the power and the information you need to make to decide whether you' re going to share your information or not with a particular developer.
+Now, in terms of what that track record also shows is over that 12 years, the App Store and everything that we' ve made available to developers has unlocked a tremendous amount of competition. So if you look at our apps, and there's just a handful of them, they' re a drop in the bucket of this ocean of 1.7 million apps.
+And in each and every category, you' re going to see an alternative like Spotify, or someone else who is doing better than our service. There is no advantage seen in the market. You know, from my perspective, and you know, I' ve been practicing this area for 20 years, I always look to the market for answers.
+And so I look to see like what is happening. And when we look and see what's happening, we see that competitors are not just doing well on iPhone, they' re thriving.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 43 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+LEE: Now wait a minute, is that what you were doing when you get publishers to fix the prices of cbooks? Is that the track record? You' re referring to sir?
+ANDEER: Senator, no, I am not that is a different business in terms of selling cbooks.
+LEE: It's a different business. Yes, but it was anti-competitive. And you' re asking us to take your word for it here. And we' ve got witnesses here telling us that they' re - that they' re scared, that they' re intimidated. What's your response to that?
+ANDEER: Senator, I would again, look at our 12 year track record. So if you look at Spotify, they' ve been downloaded from the App Store nearly a half a billion times, we have processed dozens, hundreds of updates for them over the years. They' ve built the market leading position in digital music streaming.
+Ifyou look at Tinder and all the other brands it's acquired over the years, they have been downloaded hundreds of millions of times when we process 1000s of upticks. And so if you judge us by our track record, you' ll see that we' ve not just not engaged in this kind of bad activity. We' ve been supporting these businesses, and we' re going to continue to going forward. There's no evidence of retaliation.
+LEE: When you got publishers to fix the prices of cbooks, was that not part of your app store business?
+ANDEER: Senator, no, it was - no it was not. It was part of our iBooks business, our iBook store. And again, in that case, we were judged by the evidence. We may disagree with the outcomes. But we were judged by the evidence. All I'm saying is you can look at the evidence of the App Store over the last 12 years and see that has created this incredible economic-
+LEE: It's still a store.It'sstill a store on iOS devices.
+ANDEER: Yes, it is senator and it's been in store for nearly 12 years with the same basic business model. And all we' ve done time and time again is reduce prices and introduce flexibility for developers to create their amazing applications for our customers.
+LEE: Madam Chair, I see I'm dangerously over time. I apologize.
+KLOBUC HAR: That's OK. Do you have any more? It's fine. OK. Very good. All right, I' ve - I have a few more questions here. And then we' ll finish up. So, Mr. Andeer, you' ve argued in the past in actually in testimony before the Arizona House of Representatives, and in your written testimony that the 30 percent Commission is not just a payment processing fee.
+But it also reflects this, many of the other senators discussed with you, the secure app environment created by Apple and the fact that the App Store is like a studio for developers, providing developer applications and AP Is to help them build apps. So first of all, do - I guess my question is similar to what you' ve heard before?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 44 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+If that was the case, it seems like all developers benefit from the secure Apple environment. And that all developers who roll in the Apple developer program for $99 get access to App Store developer tools, what benefits in addition to payment processing do the developers who must pay the in app purchase commission get?
+It sounds like all they get is payment processing is an inflated price. I'm just trying to figure out the difference. And you' ve had a discussion, of course, with Senator Lee about the difference between dating and getting a ride, which was fascinating. Which I will never forget.
+You' ve had a discussion with Senator Holly about, you know, why don't you just have this security fee charged or there's just no way this in cost 30 percent of the what they bring in the security piece of that so my question is, again, what benefits in addition to payment processing did the developers in those pay the in app purchase commission get?
+ANDEER: Sure, Senator, I appreciate the question. The model that we introduced along with opening up the iPhone to third party development, 12 years ago was simple. We said, hey, if you' re going to sell a digital good or service, you' re going to be subject to the commission. That supports all the investments and all the things we' ve done in terms of continuing to open up the iPhone and additional features and technologies. We' ve gone from 10,000, AP I's to 250,000.
+We have watched frameworks and resources and software to make it incredibly easy for a developer to build an app. We have built a store that's now in 175 different countries with unique storefronts. We have an editorial team that features different applications and different developers. And so there's an incredible amount of investment that we make into the app store, and the technology platform that supports the store.
+And we recuperate that and we drive that from the commission structure. And we think that's - it's been a fair deal. It's proven out over the last 12 years in the form of we' ve got 1.7 million apps, we' ve got incredible rich array of content available to our consumers. So we see this as a business that's been great for-
+KLOBUCHAR: But wouldn't it be better for consumers if you were - if these guys were able to tell them that they could get cheaper rates somewhere else.
+AND E ER: Senator, I absolutely agree. And they all do. Spotify-
+KLOBUCHAR: Wait, wait. They can - they - Spotify can say, Hey, you can get it cheaper, a cheaper rate on our website. Can they say that on your app?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 45 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+ANDEER: So to be clear, Senator, Spotify can do that through one of its more than 8000 partnerships, what it does in our app, and what we say in our app, much like, what Verizon would say to Apple, if we said hey, we want to come into the Verizon store and put a sign up that says, Go buy our iPhone down the street at the Apple Store, they' re not going to allow us to do that. No retailer is going to allow us to do that.
+KLOBUCHAR: OK, I think there's a difference. Maybe Mr. Gutierrez you want to respond with thosethat analogy with where they are when they' re depending on you for this app store?
+GUTIERREZ: I do. And you know, this is - this is highlighting a really important point. You know, Apple takes the position that our users are their users, that they own the customer relationship. They' re injecting themselves in the middle of the relationship. And they believe that they can control our communications with them, our offers to them, the promotions and benefits that we give them.
+And that is the heart of the problem here, which is this is a model where basically, a handful of global gatekeeper platforms can claim that they own the user relationship of all the users of all the apps that are offered on the - on the mobile platforms. That is the path that this approach is leading to, which is why it is so important that these issues are addressed.
+KLOBUCHAR: Yes. Dr. Cooper, I know you haven't gotten too many questions, but you didn't get a call last night not to testify so I mean, that's not what they said. They didn't say that to match.corn. But they question their earnings statement was even better. You didn't get a question like that. OK, so I guess I want to know, from your perspective as someone who advocates on consumers' behalf. So this issue that we were just talking about with Apple and Spotify, which is really an issue for everyone that getsthat can't advertise, that you can get cheaper rates for their consumers, how does that affect consumers?
+And how does the fee, two separate things, the ban on telling them that they can get cheaper rates somewhere and then the fee?
+COOPER: Look, if these folks could compete on a level playing field, it would have a benefit that has been missed here. That would put tremendous competitive pressure on the platforms. And they would look out in the world say, Holy mackerel, we could lose all these customers, to someone else who' s treating them fairly.
+And so that would put tremendous pressure on the platform. The second thing that could happen is that these folks could get together and say, you know, what, we' ve got enough users to build their own platform and no entry. That was the logic of the Microsoft case, which in fact, if you go down the list of abuses you started with is identical to the Microsoft case.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 46 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+How it is for 20 years, we have not won the court cases, and we have them now. We - It's amazing. It is amazing how much they' ve done the same dirty old business practices. So - and those hurt consumers, we learned that a long time ago that our best protection is real competition. And this is a space in which we don't act.
+KLOBUCHAR: I bet you' ve been waiting to say that Dr. Cooper behind your mask, getting here. OK, so the House Antitrust subcommittee, as digital markets report cited estimates that Apple makes between $15 billion and $18 billion a year on the App Store, Mr. Andeer.
+But according to Philip Shoemaker, Apple's former Director of App Review for the App Store, it costs less than $100 million a year to run the app store. That sounds like an incredibly profitable business and frankly, you know, as was noted by several of my colleagues, those look like monopoly profits, how does Apple justify the 30 percent Commission fee rate when the cost of running the App Store is so much lower than the revenues the company generates from the app store?
+ANDEER: Senator, I appreciate the question. As I mentioned, Apple's invested significant sums in technologies, resources, pools to allow developers to build their apps far in excess of this $100 million figure.
+KLOBUCHAR: OK so what is the correct number?
+ANDEER: Senator, I don't have the exact figure. I know, it's more than $100 billion that we' ve invested in iOS, and-
+KLOBUCHAR: Do you know how much revenue is generated last year. I mean, it's relevant because we were talking here about a monopoly situation.
+ANDEER: Senator understood. You know, when we look at the App Store, it's not a separate standalone business for us.It'san integrated feature of our devices. And so we don't have a separate profit and loss statement for the app store. What we do know is that the economic opportunity has been studied and assessed.
+And we know that developers are creating apps, whether it's mobile advertising, or selling physical goods, or digital goods and content, that's generated more than $500 billion, I think you mentioned this in your opening statement. So there's an incredible economic opportunity that's been created for developers.
+On a very small percentage of those sales, do we levy our commission.
+KLOBUCHAR: OK, but so you have no numbers, which I'm sure exist, we' ll try asking you in writing. But I have no choice but to go with the House numbers, because there is no other number on the table, and that it's $100 million a year to run the app store and that you make $15 billion to $18 billion.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 47 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+So Mr. White, how much does it cost Google to run the Play Store? And how much revenue did it generate in the last full year?
+
+WHITE: Senator, I don't have those exact numbers, but happy to follow up with your - with your team on that. What I can say, though, is with the Android ecosystem, the amount of competition and choice that that has brought to the mobile landscape, how it's brought down the cost of mobile devices, as I said, in my opening statement, you can get an Android phone now for less than 100 bucks.
+
+And in your opening comments, you talked about accessibility and why it's important for people to have access to mobile devices. And we think that's what Android has actually brought to this landscape and almost 2 million American jobs that have been created by this ecosystem.
+
+KLOBUCHAR: OK, and I believe as I said very clearly at the beginning that I don't challenge the success. I'm proud that we' ve developed these innovations in America, but you have to keep rejuvenating capitalism, you have to keep allowing new people to come up with new ideas. And I'm not going to go beyond this issue. But I think, well, maybe I will, for 30 seconds.
+
+But I think when you look at some of these purchases of Facebook of Instagram, and WhatsApp, and what's happened, that and then you look at all the problems we' ve had, in terms of privacy and other things, that you' re literally stifling, this is not about you, of course but in general, the tech companies are stifling some of the new developments we could see for privacy and other things by how this has all gone down.
+
+And then you have on top of that, the issues for consumers. And I guess, do you think Dr. Cooper, listening to have those numbers I just read out which are the only ones available to us, do you think that these companies are operating in a competitive market, Apple and Google?
+
+COOPER: Actually, there are other numbers, which are in one of the reports, we will file with the committee and looked at the learner index for these - for these two companies. And it is way above the national average. They are overcharging consumers for their products and earning excess profits. And these two companies in particular, there are other digital companies that were much lower.
+
+And it turns out that they exist in marketplaces where they face much more competition. The absence of competition in that document, and I will call your staff's attention to it is demonstrated to me that we are being overcharged and our prices could be lower.
+
+KLOBUCHAR: And, and you' re not - none of the companies here before us are saying that this - in person here are saying that this should be free, right? You' re just questioning the amount of the charges.
+
+COOPER: There should be a normal rate of profit on that line of business. And as you' ve heard, and you suggested, there is not and the only way they can keep that is if they exercise their market power and lock consumers out.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 48 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+KLOBUCHAR: OK. Another related issue. Mr. Gutierrez, some developers have raised concerns about App Store operators preferencing their own apps in app stores searches so that their apps show up at the top of the search results. I remember a long time ago, this issue raised in a different context by Senator Lee. Do you share this concern?
+GUTIERREZ: Yes, this is just another manifestation of the complete control that they - that they have on the fact that the decision on who gets promoted, who gets discoverable, is really completely manipulated to help Apple's own services. So this makes it really clear.
+We' ve heard Apple say a number of times about all the value that they brought to these apps, including some of the services that are represented here. The reality Senator, is that Spotify and I can say the same thing, probably for Match and for Tile, we' re not successful because of what Apple has done. We have been successful despite Apple's interference, and we would have been much more successful, but for their anti-competitive behavior.
+KLOBUCHAR: OK. So, Mr. White, what are the factors Google uses to display app results when a consumer searches for something in the Play Store. Does it preference Google own apps in the play store? Has it ever done so?
+WHITE: Absolutely not senator. We' re an information company. And our core business model depends on users trusting us to provide accurate unbiased information. And so we don't preference our first party services over our third party services in the Google Play Store.
+We want, when users come to the Play Store searching for their favorite apps or games for them to find the most relevant information.
+KLOBUCHAR: OK, Mr. Andeer, I' ve seen news reports that Apple has a 42 factor algorithm for how it displays app results when a consumer searches for something. Is that correct? And which factors weigh most heavily in your algorithm? Does Apple preference Apple owned apps in the app store searches? Has it ever done so?
+ANDEER: Senator, I'm not intimately familiar with our search algorithm in the App Store. But I do know that we do not favor our own applications or services in the search functionality. And again, I think if you look at the experience, over the last 12 years, we have over a half a billion users who have found and downloaded Spotify during that time.
+Same is true for a whole host of other companies that compete with us. So the objective evidence is, hey, consumers are finding what they were looking for. So no, we do not favor ourselves in search.
+KLOBUCHAR: Mr. Daru, do those answers give you comfort?
+DARU: No, they do not.
+KLOBUCHAR: Why not?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 49 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+DARU: Because we' re hearing over and over things that don't - that aren't consistent with our experience. For instance, this morning, earlier today, Mr. Andeer said that we couldn't talk about the Empire agreements, because they were in negotiations with other developers regarding that agreement.
+But we were told that, basically, we could not negotiate that agreement. And that agreement we had to sign as is and in fact, that they' re not going to give us any more information about this program, unless we actually sign it. So it's things like that, that makes me question some of the statements.
+KLOBUCHAR: Mr. Andeer, and I' ll ask this of both of you, I guess, Mr. White, a number of apps related to this, a number of app developers have complained about a lack of transparency regarding application of Apple's and Google's respective App Store rules and policies. And they have expressed frustration about often not knowing why an app or an app update has been rejected.
+For each app or update that is rejected or removed from the App Store by Apple, Mr. Andeer, will Apple commit to providing the developer of the app or with a written explanation of why the app or update was removed or rejected in a timely manner, including citations to the applicable Apple rules or policies under which the decision was made? Will you do that.
+ANDEER: Senator, we do that today. We constantly have guidelines, and we have for 12 years, we are in constant engagement and discussion with developers. As I mentioned, we get 100,000 submissions each week, we have to reject 40 percent of those, whether it's for performance, safety, security, or some other reason.
+In each and every instance, we try to communicate what the issues are. And we talked to 1000s of developers each and every week.
+KLOBUCHAR: And Google, answers on that.
+WHITE: Yes, thank you, sir. Very good question. Very similar. That's - that's generally our practice today. I will say one caveat to that is if there is a serious security violation, we may remove that app more quickly, just to make sure we' re protecting our users and their devices.
+As I said, the Google Play Protect monitoring program scans 100 billion apps every day, right? And so if there is a major security violation, we will take that app off of the Play Store very quickly, and then communicate with the developer on what the violation may have been.
+KLOBUCHAR: OK.
+WHITE: And sort of whenever we do take enforcement actions like that, we do give our developer partners avenues for redress, they can appeal those decisions, and those they can have those decisions reviewed, again, and so we make sure that our developers are in constant communication on how they could be in compliance with those publicly stated policies.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 50 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+KLOBUCHAR: Anyone - anything on this, want to respond, Mr. Gutierrez?
+GUTIERREZ: Senator, our, our experience may illustrate a little bit of how this application of these rules actually happened in practice. It happened to us multiple times when we decided to take IAP down after Apple launched a competing service at a price below ours, we complied with the rules as they existed at the time, which basically said we couldn't have a Buy button or a link to a payment mechanism.
+So we decided, OK, we' ll take that and it won't be part of that. Apple then came back and they said, it isn't just that we couldn't have a Buy button in our app if we didn't have IAP, we couldn't even email our users to tell them about a way to upgrade. We could mention in the app, that they could get a premium app, we couldn't tell them that there were discounts or promotional plans that they could sign on.
+And then what happen is the month after we did that, after they had engaged in this extensive, expansive interpretation that wasn't supported by the rules, they changed the rules to retro actively support, these interpretations that they had started applying in our case.
+That is what total control of their ecosystem means in the case of Apple.
+KLOBUCHAR: OK, Mr. Sine? And then I have one more question for you, Mr. Sine and I'm going to end.
+SINE: Sure. Our experience has been similar to Mr. Gutierrez. I mean, we' ve had situations and it's not really that they don't tell you which rule you violated. They don't tell you how you violated that room or that rule or how to fix it. And that's the problem. We had an app one of our Tinder bills that actually had a very important safety feature for LGBTQ plus community where it would actually inform users when they were in a country where they might be risk for exposing their gender identity or otherwise.
+That sat in the App Store review process for two months, because Apple had said that we were violating a new policy or they said the spirit of the policy and couldn't tell us expressly, how we needed to solve it in order to get that launched.
+We had to go all the way up to talking to the chief executives, through our chief executive at IAC at the time in order to actually get that app unblocked two months later.
+KLOBUCHAR: Well, OK, so, you know, just to kind of pull this out from the trees, the forest here. So and I think this - do this with you here so think one of the things that people think they hear all this, and they think, well, why don't you just sell it on your website, then?
+You know, why do you need these guys? You know, if there's - if they' re doing this to you, why can' t you justgo and compete on the web on your own? Can you answer that?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 51 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+SINE: Yes, like I said, at the beginning of my testimony, they have essentially taken the internet and moved it into the app stores. And so they set up their gateways, they set up their toll booths, you got to pay the toll if you' re a digital goods and service. They give everybody else access onto the freeway. And what we' re saying is, why isn't the freeway the same for everyone?
+And why isn't everybody paying the same thing as they' re traveling down the freeway? And we' ve never gotten a good answer to that, Senator.
+KLOBUCHAR: And so to me, when I hear all this, I think, OK, our laws are exactly the same that they were basically, our competitive policies laws, our antitrust laws, even our privacy laws on the federal basis are the same from back when, whenever it was, and whoever did it, we' re not going to get into that, the internet started.
+And that, in fact, we' ve seen this major change, major ecosystem change. And we' re just not as sophisticated as these biggest companies world has ever seen who we' re very proud of in many ways, but that are that are basically using that system. And so that leads a number of us up here to say we need to get changes. And the first thing is, we need to have the agencies be as sophisticated as they can, which is why Senator Grassley and I have the proposal, something we can do immediately.
+The appropriation process is more at the end of the year, to be able to change the fees for mega mergers just across the board, not just tech, so that we can get more money to the FTC and to the DOJ antitrust and by the way, that was supported by the Trump Administration, just like these lawsuits were actually brought by the Trump Administration, which I have commended of Makan Delrahim over at DOJ, antitrust and former - former Chair of the FTC, Simon for doing and are now being continued by the Democratic administration, which is how some of these sexual suits as you know, Dr. Cooper have gone in the past.
+They' ve - they' ve bridged administrations. And so we think that we need to get funding to really play them out like they should. And the second thing we could look at, in addition to my bill, which I'm not going to go on it since it is 5:20pm on the Competition and Antitrust Law Enforcement Reform Act, which ups the standards on exclusionary conduct and would really help us adapt to the world we' re in and I can't even call it a new world.
+We' ve been in it for quite a while and we haven't done anything about it. But the other thing we could do, I know state lawmakers in Arizona, Massachusetts, North Dakota, which isn't exactly, you know, radical state, was just over there with Senator Hoeven and the Republican governor on a water project.
+But I mean, they' re looking at this and my home state of Minnesota are looking at legislation on a state by state basis to regulate app stores. And some of you have been involved in these conversations? In your opinion, should we consider legislation on a federal basis to regulate app stores and why?
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 52 of 57
+
+Blocmiberg
+60vEANMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+SINE: I want to 100 percent agree that that would be the right course of action. The reality is, as I said in my opening statement, this mandatory in-app payment structure, the way they have this set up that is the lifeblood of their monopolies, it is their lifeblood to get the data from the users, it is their lifeblood to fund all these excess profits they' re getting. It is their lifeblood to be able to identify what competing apps are and who their users are, how much they pay, when they pay, everything.
+And if you cut that off, and the reason they' re fighting so hard to defend it, the reason they went in and hired every lobbyist in the state of Arizona to defeat it.
+KLOBUCHAR: Probably not everyone.
+SINE: Everyone but the one we hired. The reality is they are fighting so hard because it is core to the maintenance of their monopoly.
+KLOBUCHAR: OK, anyoneelsewant totake that?
+GUTIERREZ: Senator, I would just add that in addition to the appropriations process that you mentioned, and in addition to the bill, we actually have - the broad bill that you have proposed, we actually think it is important to pair that with more specific legislation on App Store issues, the way that some of the states are taking these legislation, we think this is an action that's important for federal preemption.
+These markets are not only national, they' re global. These decisions that are made in Cupertino are decisions that affect our business in Indonesia, and all over the world. So this is a space in which specific legislation on the App Store issues would be very welcome, and very beneficial.
+KLOBUCHAR: Dr. Cooper.
+COOPER: Senator, as soon as you get a bunch of States, considering this legislation, these guys will come running to you said you got to give me federal legislation.
+KLOBUCHAR: I' ve experienced this before in other contexts, yes. But.
+COOPER: They' ll - they' ll want it and they' ll figure they have a better chance to negotiate with you, than the individuals.
+KLOBUCHAR: You mean, this subcommittee? I don't know about this.
+COOPER: This is the place, remarkable bipartisan, this is the place to fix the key things about theKLOBUCHAR: No, no, no. I know. And this is a place where we should fix them.
+COOPER: Yes. KLOBUCHAR: OK. Ms. Daru.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 53 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+DARU: It's fine to reiterate with Mr. Gutierrez said about having a specific app store bill, just because the mobile - mobile phones are the gateway to so many aspects of our lives. Banking, news, dating, music, health, fitness. And clearly there are abuses that have been exposed today and in the House report that need to be addressed.
+And we' re concerned that if we wait for sweeping legislation, or legislation that may need to be pulled out in the courts over several years to understand what the impact is to the mobile ecosystem, we could have more irreparable damage done to competition and innovation in America.
+I do want to commend you and your bill, because it is a great step in the right direction, we absolutely need strong prohibitions against exclusionary behavior and discriminatory behavior. But we just respectfully request that some consideration be given to app stores.
+KLOBUCHAR: I mean, you know, everything we' re looking at the newspapers are owing to because of you know, what happened in Australia, what's happening right here and other news organizations to combine their bargaining power. This - this idea of an app store bill, some of the gateway bills, I still believe and I am - I'm the author of the newspaper, and I'm going to work really hard to get it done this year.
+And just like you' re talking about I don't think we can wait. But the best thing would be to admit that we have a huge monopoly problem across the board, and to just put in some stiffer rules and standards. And there's a number of Republicans right now, as I speak, that are with me on this, to - even though they' re not on my bill yet, but on pieces of that bill, to be able to make it easier to bring these cases.
+And that way, then some of this behavior stops, even if they' re never brought in a case, because people know that it's a real thing, it's going to happen if they keep acting like that. And that's not just mergers going forward, it's also looking back at exclusionary conduct, as well as some of the other violations we talked about. Senator Lee, do you want to close with anything?
+LEE: Thank you very much for holding this hearing. Thanks to each of you for being here, and very informative.
+KLOBUCHAR: Right, exactly. And our two witnesses from Apple and Google, do you want to - I should give you an opportunity, if you want to say anything about legislation and the like.
+WHITE: Yes, Senator Klobuchar. And thank you, you' re asking very important questions, particularly as it relates to funding of the enforcement agency. So we' ll be happy to engage with you and other members of Congress as you work through these issues.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 54 of 57
+
+Bloomiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+But before I - before I wrap this answer, I'd like to say that like, each of the members on the panel here, the companies that are represented are important partners of ours, and they are raising issues. From where we sit, Senator, we' re trying to keep at an ecosystem level, we' re trying to keep the costs low for the ecosystem, and keep our prices competitive with the numerous distribution channels that developers have available to them in this very dynamic industry.
+
+But I do worry that that may be difficult to do, if in an effort to satisfy a very small but vocal set of primarily large companies, we damage the very foundation that has allowed the Android open source ecosystem to work so well, for a much larger set of small and medium sized businesses.
+
+That that's the risk and that's what we would want to engage with your office and other members of your office as you tackle these very important questions.
+
+KLOBUCHAR: Mr. Andeers.
+
+ANDEER: Senator, again, thank you for giving us the opportunity to participate today and share our perspective on this. When it comes to proposals, you know, I spent a decade of my career in federal antitrust enforcement, both at the Federal Trade Commission and Department of Justice.
+
+I have a deep respect for what their role is in their job each and every day and an understanding of how difficult it is. So I'm certainly a supporter for doubling, tripling down in terms of resources for those men and women that carry out a really important role each and every day.
+
+In terms of other issues, you know, I' ve long appreciated your champion of competition. I recall, when I was at the FTC, you raising issues around pharmaceutical mergers and other things that that we took a very careful look at. So I' ve always been appreciative of your interest in this area. And we look forward to engaging with you in the future.
+
+KLOBUCHAR: OK. Well, this has been quite informative, I think, for everyone. And I think the fact that we' ve gathered here today are going to be useful for us for legislation, for this, the Justice Department,
+just today, or this week, we have the top two positions filled with a third one on the way in the Justice Department.
+
+We have FTC commissioners, being nominated, hearings. I was just at a hearing in Commerce for one of the nominees. And there's a lot happening and a lot of interest from the administration. And so - and I do want to just tick through this just from, from my perspective, we' ve got a situation where we' ve got the fees that are higher than I ever imagined, I was looking at furniture stores, and I couldn't figure out why one major one was not on the app store that was about three weeks ago. And now I understand one why?
+
+Because they just probably decided I'm not going to pay this higher fee. Because I thought, did they do something wrong? Right? Why aren't they Why can I access this on my - on my Apple, it's literally what I thought - I thought, maybe they don't have one. Or maybe they just maybe I do it this way.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 55 of 57
+
+Blocmiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+And I just think there's something pretty messed up about this, because as you said, it's kind of taken over the internet in that way. And the second point is this idea of which we have to look further into, but self-preferencing and competing, having direct competition of their own products. And the third one is just this idea that consumers are literally they' re - that companies are being banned from telling consumers, they can get a better deal.
+When they' re on a monopoly, the only way they can be on and get to those consumers in a big way, is through one of these two app stores, which are on different platforms. Obviously, people use those platforms for different reasons but they each dominate those platforms. And so as I hear the arguments that I' ve heard today, point one, you know, this argument that a lot of them pay nothing, and that's great, well, that still doesn't inoculate a company, from our liability for anti-competitive conduct.
+We just have to remember that and there's ways you could structure this, obviously, regulators, my guests are going to have to get involved. So you wouldn't be hurting, all the small apps and the little apps out there, but you' re just making this so that people are not hurt by monopoly conduct.
+Secondly, we need to protect one of the arguments we get is a security argument more so I think, from Apple, lesser extent from Google, because it allows sideloading. But, of course, we have to protect of security and privacy. But I think some of the arguments here made were there's got to be a better way to do this, than a 30 percent charge for it or requiring apps to use only your in-app payment process or without borrowing developers from telling consumers, there's no way that telling consumers about a cheaper rate is going to affect security.
+You' re just telling them hey, you can also go over to this website. Third point made that the App Store is built by them, and they put incredible work into it, it's true. So now they get to run it the way they want. Well, as been noted, you know, those are the arguments made in the past. That's I'm sure what Standard Oil said. I wasn't there back then. I am sure that that is what - that is what AT8T said for sure they had a horizontal and a vertical monopoly. They put all this and they produced all this great stuff. I know because I represented MCI shortly after that breakup.
+And as they were trying to get into vocal monopolies, and to try to compete in that market, and I saw despite this claim, that the world was going to fall apart. In fact, that Chairman of AT8 T after all this went down so they were actually a stronger company because of it because they were forced to compete and we saw lower long distance race.
+And we also saw this incredible launch of his cell phone industry, which when you go back to the beginning was nothing but cell phones the size of Gordon Gekkos in the movie Wallstreet at the very beginning. So I just - I just don't think this, we built it so trust us, and we can run it is going to work anymore.
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 56 of 57
+
+Blocmiberg
+60vERNMENT
+
+This document is being prepared for the exclusive use of BILL KNAPP at SKDKNICKERBOCKER LLC
+
+Because if you look at history as a guide, of course, people build things, and they do great things employ a bunch of people. And then at some point, it becomes a monopoly. And then it becomes a problem, as Adam Smith warned, and then we' re supposed to be doing something about it without necessarily, of course, not getting rid of these companies.
+We want these companies, it's just a question of how you ensure that everyone that works, that the companies that work in the - that are present in the capitalist system can do their - their bidding, so that we actually have a capitalist system. And so the point number four, our app stores create jobs for many small entrepreneurs, we heard this apps, that's great.
+And those are great things. Fostering innovation in that way is important. But again, it's not an inoculation. And another way you really foster innovation, is when you allow companies that get to a certain point where they actually can compete. We' ll never know if Instagram could have competed against Facebook, because they bought them because they viewed them as disruptive to use Mark Zuckerberg's own word.
+And so that's the same thing here. I don't think you can just say, well, just because someone is a little more in our line of business, online dating compared to car rides, well, that's different then or some music, or are your products with Tile.
+I just think that there's not a coincidence that the three of you are before us today, because of the fact that that's getting into their business. And I just don't see this differentiation as Senator Lee so well pointed out. So with that, I will keep the hearing open for two weeks. I just made that up. We'll keep this - the record open for two weeks, and we look forward to following up onall this. We thank all of our witnesses for being with us through a lengthy hearing, and we look forward to working with you. The hearing is adjourned.
+END
+Apr 22, 2021 13:14 ET.EOF
+
+© 2021 BGOV LLC All Rights Reserved
+
+Page 57 of 57
+
+

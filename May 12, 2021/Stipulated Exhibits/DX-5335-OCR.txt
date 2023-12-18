@@ -1,0 +1,1509 @@
+1. Accelerometer: · All iOS devices have an accelerometer, which delivers acceleration values along the three space dimensions. ·The accelerometer enables players to shake or tilt the iPbone asan input formobile games and,as a result, enables new types of games to be developed for and played on mobile phones.
+S. iPborie Camera: · The first iPhone f2oop) featured a back-facing camera. Numerous upgradestothe iPhone camera feature have been introduced since
+
+2oo'7
+
+~ The first iPbone in coop was one of the first phones to use accelerometertechnology inthe II.S. + Apple later combined it with other tools, such as a gyroscope and multi-touch screen. The motion-sensing technology
+combination enables the phone to be used as a mobile game controller.
+
+· Any app that uses the accelerometer for motion-sensing, such as fitness tracking and sky viewing. Gaming apps also benefited from this feature; one successful example is SEGA's Super Monkey Ball, which was at the top of the iPhone
+downloads chart in 2oo8.
+
+200'7
+
+·IVhen the iPhone was fiistintroduced in 2ooy,, itfeatured a multi-touch toucbscreen. ~ By allowing consumers to use hands instead of a stylus or
+physicalkeyboard, this feature created an easier-to-use device with a far broader range of applications than prior handsets. ~ The iPhone was the first widespread device with this technology.
+
+2oop
+
+~ In 2oio,,Apple added a front-facing camera for the first time. ~Photography-relatedapps that offerphoto-eapturing and
+
+~ In 2oiy, Apple introduced laMP cameras calibrated
+
+photo-editing abilities benefit from the advanced mobile
+
+specifically for Augmented Reality applications. ARKit utilized photographyfeaturesoffered by the iPhone. On socialmedia
+
+the advanced cameras to expand Augmented Reality capabilities for games and other apps.
+
+apps likeInstagram, these features support the creation of user-generated content.
+
+» Since zoiy, Apple has made additional camera-related
+
+· The photo editing app Darkroom by developer Bergen Co.,
+
+upgrades to t' he various iPhone models, including adding more adds support for Pro RAW photos with a new '"Tone Map"
+
+camera sensors and lenses.
+
+slider RAW images are "optimized for preserving details g(
+
+In 2ozo,, the iPhone i2 Pro and iPhone i2 Pro Max were
+
+editing latitude," which can then be processed in Darkroom
+
+upgraded with the ability to take photos in Apple ProRAÃ, which combines the information from the standard RAW
+
+using exposure-correction and tone-mapping sliders. The result is a photo with "all the convenience of 8PZG
+
+format along with iPhone image processing. According to
+
+processing,," without the "cost of 8PZG compression."
+
+Apple, Apple Pro RA% gives consumers more flexibility when ·AirMeasure by Laan Labs is an example ofan Augmented
+
+editing the exposure, color, and white balance in a photo.
+
+Reality app that leverages the iPhone camera. AirMeasure is a
+
+~ IIpgrades provided consumers with better quality photos and measuring toolkit that uses the ARKit and iPhone camera to
+
+videos,and developers gained accessto betterhardware for measure arange ofitems, including room dimensions,
+
+apps centered on photography/videography with every
+
+faraway structures,and people.
+
+upgrade, including for Augmented Reality apps.
+
+· The camera app DSLR Camera by developer Fulvio
+
+Scicbilone, utilizes the iPhone camera and Augmented Reality
+
+to create"custom layersofSD information" such as
+
+displaying the distance between the subject and the camera.
+
+I Iuite(i States Aistnet Court '%>riberii Diss'wi nl Cnlili:)rr(ia
+
+HIGHLY CONFIDEINTIAL --ATTORNEYS' EYES ONLY SUBJECT TO PROTECTI jEi'ORDER
+DX-5335. 001
+
+4. Netwoxk Access Capabilities: · The first iPhone (2ooyl had access to the 2G wireless network using Enhanced Data for Global Evolution (" EDGE" ) technology, providing download speeds of up to 286 kbps. ·The iPhone SG (2oo8l had access tothe SG network,which enabled download speeds thatwere twice as fast as the first-generation iPhone. · The iPhone 8 (2otzl had access to the 4G LTE network,providing download speeds of up to ia Mbps. · The iPhone i2 (2o2o) had access to the SG network,providing download speedsofup to igo Mbps.
+5. GPS: ~ With the launch of the iPhone SG in 2oo8, Apple introduced built-in GPS technolo~.
+6. Apple Push Notifieatiou Service: · Apple Push Notification Sernce is a seriice that allows appsto send users a message when somethingchanges inthe app. This serviceprompts users toopen apps when needed and prevents them from having to check all apps constantly. In multiplayer games, users can send their friends a push notification to invite them to a game.
+
+200'7
+
+· The App Store launched with SG enabled in aoo8.
+
+· Improved network performance made GPS navigation
+
+· Apple's introduction of 4G enabled the development of apps through appslike Google Maps easierand more accessiblein
+
+v ith a more comprehensive multimedia experience (i.e., ndeo areas outside of Wi-Fi range.
+
+integrated with audio offerings) and intensive, real-time
+
+· The NeH'lix app and other streaming apps benefited from
+
+mul tiplayer games.
+
+faster 4G speeds.
+
+· Apple's introduction of SG madeAugmentedReality, Virtual · SG stands to benefit apps using Augmented Reality like
+Reality and Mixed Reality experiences easier to implement on IKEA Place.
+
+apps. These features require enhanced data processing which
+
+the iPhone f'acilitates. Apple's inn oduction of SG also improved
+
+video streaming and locational accuracy, which contribute to
+
+the quality of mobile games along with Augmented Reality.
+
+· The original iPhone used Wi-Fi and cellular tower positioning · Fitness apps like RunKeeper and MapMyRun utilize the
+
+systems that only allowed for approximate location.
+
+GPS functionality to provide workout tracking.
+
+·IncludingGPS enabled more accutateand fasterturn-by-turn · Navigation apps like Google Maps and TomTom Go utilize
+
+navigation,among otherlocation-based features.
+
+the GPS functionality to provide more acciu ate turn-by-turn
+
+navigation and vehicle mapping services.
+
+2009 · This innovation addressed a key issue with Apple mobile
+
+· AIM for iPhone by AOL was a popular messaging app. The
+
+devices at the time, which was that third-party apps could not app was an early adopter of the push notification feature,
+
+run inthebackground while another app was being used. The which alerted users when they received a new message from a
+
+push notification sernce allowed all third-party apps that
+
+contact. AIM's adoption of push notifications was said at the
+
+integrated Apple's Push Notification Service to send users
+
+time to influence text message pronders to lower their costs,
+
+updatesand prompts, which reduced the need forusers to
+
+as the addition of push notifications meant that AIM
+
+frequentlyopen and close apps to remain up to date. While the communications mimicked the text experience to the extent
+
+devices still did not offer multitasking, push notifications
+
+that it could be a substitute.
+
+improved productivitaynd responded to customer concerns.
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUBJECT TO PROTECTIVE ORDER
+DX-5335. 002
+
+y. Ayyle iyhone Chiys:
+
+2010
+
+·Apple'schips have evolved over time toinclude
+
+better processing and better graphics quality. Apple
+
+has usedApple-designed chips in itsphones since
+
+the IPhone 4 Bl 2010 (A4 clup). » ~ chip (2011) inchlded upgraded graphics
+
+(includingfasterrendering, shading,and response
+
+times),and betterprocessing power. » A6 chip (2012 ) included graphics that were viewed to be almost console quality and allowed for a much
+
+longer battery life. · 64-bit Ay chip (2018) improved graphics quality
+
+and supported an upgraded OpenGL.
+
+· A8 chip (2014) introduced support for Metal and
+
+betterframe ratesand performance, and A9 chip
+
+(2015) was 909o faster than A8. » Alo "Fusion" chip (2016) boasted even faster
+
+performance, better graphics, and better battery life. » AII "Bionic" chip (201y) offered multiple cores, led to very fast speeds, included a live light sensor, and
+
+had an in-house GPU. · A1.2(2018) was the first y-Banometer chip and
+
+included improvements in speed, rendering, and compression along with a new GPU that was800/0
+
+fastel' than ln All .
+
+· AI8 (2019) led to 409o less power use than Al 2 and faster graphics that were optimized for Metal.
+
+· A14 (2020 )ledto performance and battery
+
+improvements along with enhanced ability for
+
+machine learning.
+
+2010
+
+· Apple's use of Apple-designed chips since 2010 made it
+
+· Almost Al apps that are run on the iPhone or iPad benefit
+
+possible to vertically integrate the iPhone and iPad to maldmize from these chip innovations.
+
+batterylife and performance. Apple's products were no longer
+
+subject to third-party chip limitations and could be customized to match with its soAware.
+
+·Apple was the furstsmartphone manufacl.urer to include a
+gyroscope.Notably, some dechcated game console devices lacked this feature. · With the accelerometer, the two technologies sense speed changes (accelerometer) and rotation (gyroscope) along three dlmenslons.
+
+· Pokgmon GO by developer Niantic is an app that used the
+gyroscope toenable a user experience that would not have been possible without iL The app is a very popular garne that had an Augmented Reality setting in which users could see, find, and capture Pokgmon in the real-world environment they were in. The gyroscope was necessary to capture the user'smovements as they pursued the Pokgmon.
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335. 003
+
+9. ipad (1st Genex atinn): · The first generation iPad was Apple's ftrst iOS
+tablet device, with a lo-mch screen and 1 GHz chip.
+
+2010 · The 10-inch screen, over 8 times the size of the iPhone's, presenteda new device on which consumers and developers utilized the App Store.
+
+·Developersforsuch games asNeed forSpeed: ShiA
+(Electronic Arts Inc.), N.O.V.A (Gameloft), Pac-Man Championship Edition (8andai Namco), and Sonic the H edgehog (SEGA)expressed excitement upon the release of the iPadbecause ofthe new opportunitiespresented by the larger screen.
+
+lo. iPhone Retina Display:
+
+2010 · The introduction of Retina Display with the iPhone 4 doubled In aolo, Gameloft's first-person shooter game N.O.V.A. was
+
+· The iPhone 4 (2olo) introduced the Retina Display
+
+the pixel resolution to the point to which it would appear
+
+updated to take advantage of the jphone s Retina Djlsplav
+
+which improved screen resolutjon making individual pixels unperceivable to the average
+
+"perfectlysharp fornormal 20/20 Vision at typical Smartphone This enabled new high-resolution graphics that were able to
+
+viewing distances of lo.g inches or more."
+
+rival those of tablet versions of the game.
+
+human eye at a distance of 12 inches. » The 1Phone 8 (2012) expanded the 1Phone cllsplay from 8.8 inches diagonally to 4 inches. A wider,
+
+taller screen provided an enhanced viev ing and
+
+playing surface for all media-rich applications. · The iPhone 6 and iPhone 6 Plus (2o14) expanded
+
+the iPhone display to 4.~ and S.S inches, improving
+
+the iPhone's suitability as a rich-media device. » The 1Phone X (201~i) featuredan OLED Super Retina Display and expanded the iPhone display to
+
+8.8 inches and extended the screen across the entire
+
+body of the phone. It also eliminated the home button, further increasing the usable footprint of the
+
+screen and improving user-interface options for
+
+game and app developers. · The iPhone XS Max and iPhone XR (2o18)
+
+extended the iPhone display to 6.8 and 6.1 inches.
+
+» The 1Phone ll PI'0 and 1Phone 11 Pl'0 Max (2019)
+
+offered 12oo nits peak brightness, haptic touch and
+
+a wide-colorrange OLED screen foran improved
+
+garnulg expertence. · The iPhone 12Pro Max (2oao) featured an all-
+
+screen Rebna XDR 6.~-inch OLED display,, the largest display for an iPhone.
+
+1L Mnltitas)king: » Multitasking allowed multiple apps torun on a device at the same time and made it easier to toggle between different apps.
+
+2010 · Apple offered a unique implementation of multitasking. While » One of the most prominent applications to adopt other multitasking features allowed apps to run fully in the multitasking support early was Dropbox, the file sharing app, background,Apple's solution froze apps in a "lastused" state in201o.The app allowed usersto upload and sync their
+w hen userswitched away and allowed some processesto run documents inthe background while running other simultaneously (such as music or navigation apps and task applications, so that users did not have to wait for processes completion). Restricting the ability to run in the background to finish before accessing another app. reducedtheload on iPhone memory and preserved device battery life.
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335. 004
+
+ia. AiirDrop: · AirDrop is a wireless file transfer system that
+
+2oii · First completely wireless peer-to-peer file-sharing between ·Many file-based apps benefitfrom AirDrop. One example is
+
+devices.
+
+Affinity Photo by Serif Labs, which is a popular professional
+
+works behveen Apple devices that are close in
+
+photo editing software on which users can switch easily
+
+proximity without internet. It was released on iOS y
+
+beLween mobileand desktop using AirDrop. The company's
+
+in aoiS. This file transfer is more secure than
+
+website advertises AirDrop as a way to transfer files between
+
+sending files over a network.
+
+devices.
+
+1S. Sil'I: · Siri is a voice-activated assistant that can access apps andperform taskson apps using voice commands.
+
+2ott · Apple was the first to introduce this feature to a wide audience.
+
+~Pandora,the popular music app,,has Siriintegration. Users can starts,top, and request music using voice commands. Thisfeaturehas been advertised bythe company.
+
+i4. Touch ID:
+
+2oig · Touch ID was considered to be more reliable and more secure ·Almost any app with purchases isaffected by Touch ID,
+
+· Touch ID is a sensor that reads fingerprints to
+
+compared to past effoits to include a fingerprint scanner.
+
+especiallyforgame apps and apps with in-app purchases.
+
+unlock dencesand authorize purchases. This can be
+
+used for apps to perform local authentication.
+
+·The fingerprint scanner can be used for unlocking
+
+the device and making secure transactions in the
+
+App Sl.oreT.ouch ID can also be used for iTunes
+
+Store,Apple Books Store,and Apple Pay.
+
+xS. Carplay:
+
+2ot4
+
+· CarPlay, formerly known as iOS in the Car, allowed
+
+consumers to access their iOS applications on
+
+compatible cars while driving, through the car's
+
+computer.
+
+16. HandIoff: · Handoff is part of Continuity, a suite of tools that allow you to seamlessly transition between files and processes on separate Apple dences. The new Handoff feature allows users to begin a process or
+task onone device and continue doing so on another device. It also enables proximity sensing between devices, and also alert users to when they may want to use one device as a mobile hotspot.
+
+· First smartphone manufacturer to include cars in the device ecosystem.
+
+· One of the first apps to have CarPlay support is Stitcher, a
+popular podcast application. When first announced, the
+ability to use Stitcher in CarPlay was much-publicized by the company. Stitcher had revenue of gp2.Q million in 2019 and
+was purchased by Sirius328 for )SEESmillion in 2o2o. Other compatible apps are Spotify and iHeart Radio.
+
+· Notetaking or other document-based apps benefit from
+Handoffbecause echting can begin on one device and end on another. One example of this is Bear, a well-known notetakingapp by developer Shiny Frog Ltd.Bear has advertised its support for Handoff in its social media posts and publicized the ability to "quickly switch devices while working on the same note."
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335. 005
+
+iy, Apple Pencil and ScribbIc:
+
+2olS + The first stylus to be tailored to Apple devices.
+
+· Adobe Photoshop for iPad is one popular app that has
+
+·ApplePencilwas introduced inaoiS as anApplespccHic stylus meant to provide detailed annotations
+
+Pencilhas "almost no lag on screen."
+
+benefited from thc Pencil integration due to the very fine
+
+· Pencil has been updated throughout the years to include new natureofth ework done on the app.Adobe has added special
+
+on the iPad. Pencil has been updated to include
+
+features, like wireless charging.
+
+featuresthat can bc used while using Pcneil,and has
+
+w irelescsharging and other features.Pencilhas the
+
+integrated various settings for Pencil in the app.
+
+abihty to sense tilt, pressure, and orientation to
+
+mimic the handwriting process. · Scribble is meant to make writing directly on the
+
+iPad easier. Handwritten text ean be searehablc,
+
+copiedand pasted,and itis considered typed text
+
+once it is inputted. Scribble can also correct small
+
+imperfcetions in writing.
+
+i8. iPhnnc Stereo Upgrades: ·The iPhone y was upgraded with stereo speakers, with speakers on both the top and bottom of the phone which amplifies audio twice as loud as the iPhone 6s,and provides dynamic range forbetter sound quality. · The iPhone 8 (2oip) redesigned the stereo speakersto be 28% louder and a deeper bass than the iPhone y. · The iPhone XS (zot8) inboduced "Stereo Widening"which improved stereo sound. The speakersand software upgrade deliverwider sound stereo.
+
+2oi6 · Introduced in the iPhone y, the stereo speakers automatically · Bethesda's Elder Scrolls: Blades utilized the Stereo flip the left and right audio channels when the device is rotated W'idening features of the iPhone XS to et cate "an immersive
+
+in landscape orientation.
+
+auralexperience without the use of headphones."
+
+· The iPhone XS stereo upgrades inet eased the performance of
+
+the front speaker,,which resulted in a "richer" sound and "deeper" bass.
+
+1 9. Dtark Mndc i
+
+2oi9 · This is thc first mobile operating systems to have a built-in ·One app thatwas an earlieradopter ofiO S Dark Mode was
+
+· One of the newest features was Dark Mode, which
+
+Dark Mode that applies to all built-in apps.
+
+Flexibits Ine.'s Eantastical, a calendar app. The Pantastical
+
+createsa dark background and colorscheme forthe
+
+wcbsite walks users through how to implement dark mode
+
+entiredevice screen when turned on orwhen
+
+and advertises its dark and light settings as a feature of the
+
+automatically initiated by time changes.
+
+app.
+
+HIGHLY CONIFIDENITIAL-- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335. 006
+
+2o. Li D ~ :
+· Apple introduced Light Detection and Ranging
+("LiDAR"j systemson iPhone t2 Pro, which
+improvesphotographs and Augmented Reality.
+
+2020 · Improved upon existing smartphone LiDAR technology by ·Snapchat by Snap, Inc.became one of thefirstapps to take implementing scanning technology that increases range by up advantage ofthe new LiDAR technology, implemenbng new
+
+to five meters.
+
+filters and lenses with Lens Studio S.2.
+
+· LiDAR Scanner SD by developer Marek Simonik and Canvas by developer Occipital, Inc. utilized the technology to enable
+
+users to create accurate SD models of their homes.
+
+2L M t~
+
+Chi ps:
+
+2029 ·Firsttobeused in high-performance computers.
+
+· Blizzard's WorM of Warcraft is a popular multiplayer game
+
+·Apple'suse ofMl chipsin high-performance PCs brought an in-house designed ARM chip (typically
+
+·Apple'sintegration means thatMt Macs can alsorun iOS and with millions of users. It was one of the fu st apps to switch to
+
+iPadOS apps.
+
+running nativelyon M1 Macs. Aftertheswi tch, reviewers had
+
+used in mobile phones) to an Apple computer,
+
+· Competitors have attempted using ARM chips in computers positive things to say about how Mt improved the
+
+resulting m faster speeds and better battery life.
+
+before, however the resulting devices ran into processing issues. performance ofthe game. Commentators speculated that
+
+These chips @low iQS and iPadOS apps to run natively on Macs. Apple released these computers
+
+World of Warcraft's adoption of Mt would lead others to do so as well.
+
+with Rosetta z, which allowed non-native apps built
+
+forthe older chips to run on new computers.
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TG PROTECTIVE ORDER
+DX-5335. 007
+
+1. XC0dIC: · Xcode is a complete developer toolset for creating
+apps for Mac, iPhone, iPad, Apple Watch, and Apple TV. ~ In2008, Apple launched a new version ofX code that enabled developers to build applications for the iPhoiie. ~ Brings user iunterface design, coding, testing, debugging,and submitting totheApp Store allmt o a unified workflow.
+
+· Xcode is Apple's integrated development environment (" IDE"'), which has updated since its release with many new SDKs and a new programmmg language (Swift, see below for more detail). ·Each releaseofX code has provided more functionality for
+developers.Xcode 6 contamed 2.3 GB ofcontent,whereas Xcode it contained more than three times as much (p.6 GBl.
+
+· Potential benefit to all apps. · TheiPhone Developer Program Satisfaction Survey in 20 10
+found 89% ofdevelopers were satisfied with Xcode. · Apple Insider describes Xcode as "[a] long-standing tool for
+app production, Xeode is a well-known integrated development environment (IDE), enabling developers to writethe code and compile apps that can be used on various devices and operating systems. As Apple's own IDE, it is primarily used for the development of apps within its own ecosystem,though itcan be used forwr iting source code in a variety of languages for use in other projects."
+
+2. So~are Development Mt: · The first iOS software development kit (" SDK" ) provided developer tools to build apps leveraging the iPhone'shardware and software such asthe Multi-Touch touehsereen and aeeelerometer. · Developer tools such as Xcode (environment to clevelop applications supporbng multiple languages), Interface Builder (build interfaces without code), iPhone Simulator (test apps on the computer), debugging features (locate problems within code), and Instruments (optimize and audit applications) provided developers with a broad too]set for app development ·Apple enabled the use ofopen-source
+programming interfacessuch as OpenGL and OpenAL provdehng developers the ability to replicate quality and fidelity of console games.
+3 C01 e M0t1011 API' · Apple released the Core Motion API in 2010along
+with the gyroscope-enabled iPhones. The new API made it possible for developers to incorporate informationfrom the gyroscope, magnetometer, and accelerometerembedded m theiPhone by compiling data from all three to identify a device's positioning and movement. This was especially important for garnes.
+
+2008 2010
+
+·The SDK pronded developersaccess to the new iPhone's
+
+· Super Monkey Ball by SEGA was launched together with the
+
+hardware andsoftware innovations,such as the Multi-Touch iOS SDK and isan example ofan app that leveraged the SDK
+
+user interface, the three-axis accelerometer, and geographical to utilize the iPhone's accelerometer, instead of a traditional
+
+location and technology.
+
+joysbck orkeyboard. Senior Producer Ethan Einhorn stated
+
+·Today,Apple provides 180,000 APIs fordevelopers using iOS that "It's pretty amazing what we were able to come up with
+
+14.
+
+in only two weeks of development," and that "[f]or the first
+
+·Apple'ssupport fortheOpenGL graphics API in iPhones
+
+time, [...] we' re able to create an authenbc console experience
+
+allowed higher-quality games to be played on the dence.
+
+in your pocket."
+
+· According to Apple's developer documentation, there are over · The game Kroll by Digital Legends Entertainment is an
+
+60 Software Development Kits available for developers in
+
+example ofan early adopter ofOpen GL and touch controls
+
+addition to the iOS SDK.
+
+and was presented at Apple's WWDC in 2008. It was
+
+described as giving users an experience that did not seem like
+
+it was on the phone. Its developers touted the SD rendering and called the capabilities of OpenGL on iPhone "often better
+
+than portablegaming devdee[s]."The game won several
+
+awards when first released.
+
+Apple is the first to include a gyroscope in their phones, and Core Motion was the API designed to handle the data it generated.The API made iteasierfor developersto access and utilize the data m their apps.
+
+·Almost allgyroscope-enabled apps use Core Motion to integrate the gyroscope data into applications. This includes
+games, but it also includes health and wellness apphcations that track the user's movement.
+
+HIGHLY CONIFIDENITIAL-- ATTORNEYS' EYES ONLY SUBJECT TO PROTECTIVE ORDER
+DX-5335. 008
+
+4 . Gamest :
+
+2010
+
+· GameKit is a set of developer tools that enables
+
+developers to iinplement Game Center soeial-
+
+gaming nehvork features, as well as multiplayer matehmaking.
+
+· GameKit was updated in 2oii to introduce turn-
+
+based games.
+
+· Game Ceiiter and Game Kit underwent a redesign
+
+in 2oao allowing users to view Game Center features
+
+in GameKit-integrated apps directly rather than
+
+through theGame Center app.
+
+Dynamic Type:
+· Dynamic Type is an API that developers can add to their apps that allows consumers to customize the size of text on their screen.
+
+· Game Center replaced previous third party nehvorks on iOS like OpenFeint and Gameloft Live which only reached a small number of users. · GameKit was free and easily accessible to all iOS developers and providedaccess to a much largernetwork of users.
+· Consumers candirectly download and purchase games through the Game Center app; in the nine months after its release, Game Center had So million registered users,,which surpassedXbox Live'sSo million users.
+
+· Infinity Blade, released by Epic Games on iOS dences in 2oio, was among the first game apps to integrate GameKit features. Consumers were able to play multiplayer matches
+with eachother through the Game Center and unlock 64
+achievements. By aot2, Infinity Blade had grossed over >2S million, and was Epic's most profitable franchise in terms of
+years invested compared to revenue at the tjme · Sonic gi SEGA All-Stars Racing was initially released with only local online and Bluetooth rnultiplayer capabilities, which required users to be within proximity to play against one another. Once integrated with Game Center,,users could then play online with up to three friends.
+
+· In 2oty, Dynamic Type was updated with built-in text styles · All apps can benefit with increasedaccsesibilityfeatures,
+which can automatically adjust font size according to the user's media appsin particular.More than 4oo/0ofiO S usershave
+accessibiilty preferences.Consumers can alsonow scalethe iOS changed thefont sizeaway from the defaultsize.
+NavigationBarby long-pressing the Tab Bar icons.
+
+6 . SeenelCit and SjpxiteMt : · SpriteKit (2otS) is a 2D graphics framework that
+supportscustom shadersand lighting, advanced physics effects and animations, and integrates with SeeneKit. · SeeneKit (2ot4) is a SD graphics framework that enablesSD rendering by incorporating a physics
+engine,a particlegenerator, and processes for scripting actions of SD objects when animated in a scene (adjusting geometry,,materials,, lights,,and cameras).
+
+· SceneKit and SpriteKit are easy-to-access,,and have built-in project templates in Xcode 6.
+
+· Disco Bees (by Scopelyl, launched in aoiS, is a puzzle-
+matching game that was built entirely using SpriteKit. The developers f'ound that using SpriteKit enabled them to »go
+quickly from conceptto apolished game." The app reached i
+million downloads on the App Store within the first five months.
+· Squashy Bug (by Appsolute Games LLC),, launched in 2oty,,
+is a game that was built using SpriteKit.
+
+y. HcalthKit and CareKit: » Health Kit provides a central, secure repository of health and fitness data on Apple's devices, which applications may access with the consumer's permission. · Apple built CareKit, a platform to allow users to manage ongoing illness and has partnered with several high-profile institutions.
+
+2oi4
+
+Amo n g the first central databases to store health data written» Lifesum; Diet Ik Macro Tracker is an app that allows users
+
+from variousapps on a smartphone.
+
+to collect data on their nutritional intake, integrates with
+
+·Ina few months afterrelease,therewere over tgo apps that HealthKit by sending data on daily nutritional measurements,
+
+integrated Health Kit; many innovative apps collecting various and Aso retrieves data from HealthKit such as the user's
+
+healthmeasurements were released on theApp Store and
+
+weight, or sleep quality. In February 2o2i, the app generated
+
+integrate with HealthKit.
+
+$8oo,ooo inrevenue on iOS devices and was downloaded
+
+over Boo,ooo times.
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUBJECT TO PROTECTIVE ORDER
+DX-5335. 009
+
+8 . H0me& t : · HomeKit is an SDK for creating apps that communicate with and control connected accessories in a consumer's home. a Developers can configure actions for stuart devices which ean also be triggered with Siri. ~ HomeKlt securevKleo {2019j allows local Ilevnees
+to analyzesecuritycamera footage, then enerypts the
+footage before sending it to iCloud for storage. · HomeKit-enabled Routers {2019j automatically firewall off each smart home accessory in a users home.
+
+· HomeKit allows smart home and Internet of Things devices to · Apple now suppoits over goo smart devices, which have
+
+work with iOS devices.
+
+passed HomeKit's security standards. These include smart
+
+· HomeKit enforces end-to-end encryption on all accessories lights, switches, thermostats,,window shades, security,,
+
+and iOS devices, making it more secure than eompetjjtors.
+
+doorbells, and appliances.
+
+· Apple introduced a HomeKit Secure Video feature which
+
+· Eve Systems has created a family of HorneKit-enabled
+
+enerypts and stores security footage for free on iCloud.
+
+accessories such as lights, appliances, radiators, and air
+
+Previously, security camera manul'aeturers would store footage quality monitors.
+
+on their own seii vers.
+
+· Follow the Sun by Matthew Corey is an app that allows
+
+· The automatic firewall for HomeKit-enabled Routers prevents lightjjng that can change to be automatically adjusted
+
+one compromised device from inleeting the rest of the network. throughout the day.
+
+9. Metal:
+
+2014 · Apple Metal is more concise and robust, requiring
+
+· iOS apps now widely use Metal, in 20tp Apple cited 148,000
+
+~ Metal is Apple's proprietary graphics framework.
+
+significantly fewer lines of code compared to other graphics apps making use of Metal directly and another I.p million
+
+·Provides"near-direct access"to the GPU, enabling
+
+APIs.
+
+that benefit from higher-level frameworks optimized for
+
+developers to maximize the graphics quality and
+
+Metal placeslessstrain on the CPU compared to OpenGL {one Metal.
+
+computation efficiency of apps.
+
+of the most common graphics APIs that required a lot of
+
+A sphalt8;A irborne by Gameloft was one ofthe firstapps to
+
+· Enables builds on "an approachable, low-overhead
+
+computationalpower to runj.
+
+be updated for support with Metal when iOS 8 was released,
+
+architecture" with precompiled code to correct the
+
+which greatly improved its graphics without the performance
+
+lighting and shading of SD graphics, fine-grained
+
+deterioration. It has been critically acclaimed, with a score of
+
+resource control, and multithreading support.
+
+9t out of 100 on Metaeritie. The game now has ypo million
+
+players.
+
+· Gameloft's Modern Combat 8: Blackout was also updated
+
+with Metal, which enabled the game to use up to five times
+
+more particles,,allowing for richer environments and weather
+
+effects, improved impact particles, and denser explosions.
+
+10. Save:
+· swift is an open-source, easy-to-learn, general-
+
+2014 · Code written in Swift is often faster than code written in
+
+~ Based on a. 2019 study, some Ilotable exaInples of apps with
+
+previouslanguages used to program iOS apps,and was found to a portion of their code written in Swift include Microsoft
+
+purposelanguage,builtbyApple usinga modern
+
+be 2.6x fasteI' than ObleelIve-C and 8.4x fastei' tlian Python 2.$ Outlook {6y%1, Hulu {62%j, Tmder {4~%1, Postmates {6~%1,
+
+approach tosafety,performance, and sofhvare
+
+in completing a search algorithm.
+
+and walmart {80%j
+
+design patterns. Swift has a more simplified syntax
+
+· Swift became one of the top 10 most popular languages in the · Lyit in 2018, a year after Swift's release, completely rewrote
+
+and grammar, andismore concise,allowing less
+
+world within three years. In 2019, SwiA. was officially the fastest its iOS app in the nev language. Lyft's VP of engineering
+
+code to peifor m the same tasks.
+
+gI'owing pI'ogl'arnnung language In histoIy, according to tile stated that '[y]ou could see the advan tages of Swift jiist in
+
+· It is integrated into Xcode, and is interoperable
+
+TIOBE Index.
+
+eompaetnessand the more modern programming paradigm."
+
+with existing application code written in other
+
+· When Swift launched, Objective-C was the language Apple In the space of three months, nearly all of Lyft's iOS
+
+langiiages.
+
+used for iOS. At the time, Objective-C was the fastest growing developers were working in Swift, with the average engineer
+
+~ swift Plavgi'omlils {2016j was Introduced as an app
+
+language in the world. Apple still chose to create Swift, a new taking 2-8 weeks to be comfortable with the new language.
+
+that helped developers learn how to program in
+
+language with a modern syntax that made it easier for
+
+Previously, a project that took more than a month with
+
+Swift.
+
+developersto make theirapps. Apple made thatlanguage free multiple engineers would now take a week f' or one engineer
+
+· Swift was upgraded vith SwiftUI in 2019, which
+
+and open sourceand supports versions for Linux and Windows. programming in Swift. The re-written app was more eompaet,
+
+enables easier and more interactive development of
+
+performing the same amount of tasks with less than a third of
+
+user interfaces.
+
+the lines of code.
+
+HIGHLY CONlFIDENlTIAL-- ATTORNEYS' EYES ONLY SUBJECT TO PROTECTIVE ORDER
+DX-5335. 01 0
+
+11. Testplight:
+
+2ot4
+
+~ TestFlight provides developers with the tools to
+
+invite volunteer testers, distribute prerelease
+
+versionsoftheirapp, and receive reviews and
+
+feedback.
+
+~Consumers can download TestFlightand browse
+
+for apps that developers are testing.
+
+ta. GGai meplaiK, Model 1/O, andI Replant:
+
+2otg
+
+·As partofthe iOSo update, developers got access to
+
+three new gaming SDKs: GameplayKit (helps create
+
+aiitif|cial intelligence), Model I/O (helps to light SD
+
+models), and ReplayKit 0ets users record and share
+
+gameplay).
+
+· ReplayKit Streaming (2ot6) enabled users to live-
+
+strearn the video on their screens,,such as streaming
+
+gameplay.
+
+· Apple integrated TestFlight into the iOS development
+
+· Clubhouse, by developer Alpha Exploration Co., used
+
+workstream and added key features to improve the distribution TestFlight during its early testing of its new social networking
+
+process such as allowing multiple versions of an app to be
+
+app. Although it was immensely popular, it was important for
+
+tested simultaneously and enabling developers to automatically the developers to grow the app in size gradually to remain in
+
+update the beta versions of apps instead of relying on testers to control of buildmg the composition of their community,,
+
+do rtmanualy.
+
+ensurethe app did not break, and to tune theapp asitgrew.
+
+· Model I/O can share data chrectly with the MetalKit and SceneKit SDKs to help load, process, and render SD assets more efficiently. · ReplayKit enables developers to integrate screen recording in
+theirapps,,so users can now record gameplay and share with friends.
+
+· Google's VouTube Gaming for iOS can now live stream
+games that have ReplayKit enabled. Live streams can capture both what is seen on the screen as well as audio from the user and videofrom the front-facing camera.
+
+1 S. Reseal'ellKit : ResearchKitprovides researchers and developers
+with opensource programming toolsto create apps for medicalresearch. · ResearchKit integrates with HealthKit, providing researchers with access to relevant data from users who opt in.
+t4. Taptie Engine: ·The Tapbc Engine isApple' smechanism forhaptic feedback on the iPhone. Haptic feedback recreates a sense oftouch or movement using a motor that emits different levels of vibration power and sensations. · Some basic applications of the Taptic Engine are to relay system notifiications and reinforce audio alerts.
+
+2o].S · ResearchKit was first to enable medical researchers to crowdsourcedatathrough mobile deviceson a large scale.
+
+»Stanford Researchers released fiveapps using the new ResearchKit framework. One app, MyHeart Counts, studies heAth by measuring the user's daHy activity, fitness level, and otherfactors,and had u.,ooo iPhone userssign up. Previously, enrolling "to,ooo people in a medical study [...] would take a yen."
+
+2otS · In comparison to previous tools used for vibrations, the Taptic · Feral Interactive Ltd's GRID Autosport, an auto racing
+
+Engine is much more precise and gives better and more varied simulation game, uses haptic feedback to let players "feel"
+
+feedback withassociated acbons.
+
+things like hitting curbs and losing tire traction.
+
+· In zot6, Apple made the Taptic API available to developers,
+
+enabling them to utilize the feature in their apps. · In 2ot9, the newly launched iPhone and iOS f'eatured "Haptic
+
+Touch." HapticTouch kicks in v;hen a user long-presses the
+
+screen,offering a small vibration asacknowledgement following the press.
+
+1$. CI&nclKit:
+
+2otS
+
+· CloudKit provides developers with a storage option
+
+fortheirapp'sdata.E ach app getsup to tpetabyte of freestorage on the iCloud, which can be accessed
+
+using the developer tools in CloudKit. · CloudKit also provides a dashboard to monitor app
+
+server activity, user activity, bandwidth usage, and trends.
+
+· CloudKit enables developers to leverage iCloud, which can securelyshare data across allA pple platforms and devices.
+
+· Ulysses is a Markdown editor that uses CloudKit for its native storage.
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335. 01 1
+
+i 6. SiriMt :
+
+2oi6
+
+· SiriKit is a set of tools that allow apps to connect to
+
+Siri to perform different tasks using user voice
+
+commands even whenthe app isnot open.
+
+· Previously, third-patty apps could not chrectly integrate voice commands via Siri. · Introduced Siri Shortcuts in 2oi8 to fuither simplify common acbons hke requesting a rideshare.
+
+i y. ~ t :
+
+2oiy · Apple's ARKit made AR accessible to wider audiences in
+
+· In the first six months atter launch, more than ig million
+
+· SDK thatenabled developers to incorporate
+
+contrast to other paid, third-party AR SDKs prior to 2oiy.
+
+ARKit-built apps had been inst@led by consumers.
+
+augmented reality ("AR"1 into their apps to handle
+
+· Developers can access ARKit through Apple's Developer
+
+· IKEA Place, the retailer's first ARKit app, creates lifelike
+
+functions such as detecting movement in a local
+
+Program for no extra charge.
+
+picturesoffurniture placed live into your home through AR.
+
+environment.
+
+·Apple calibrated the iPhone 8'supgraded camera, gyroscopes, The app scales virtual objects to 98/0 accili'acy. Six months
+
+~ ARKit utdized the iPhone's gyroscope,
+
+accelerometers,and action motion tracking forAR
+
+after launch, it had been downloaded over a million tiumes.
+
+accelerometer,and advanced camera toproject
+
+applications.
+
+·Pokemon GO by developer Niantic was firstreleased in 2oi6
+
+images on red-life surfaces.
+
+with a third-party AR mode. According to CNET, this AR
+
+ARKit 2 (2o>81 mtroduced the ability for shared
+
+mode drainediPhone users'batteries and turned some
+
+AR experiences in multiplayer gaming applications
+
+consumers away from the app. The app now utilizes ARKit,,
+
+· ARKit 8 (2oi9) introduced People Occlusion,
+
+which featuressmoother and better-integrated AR gameplay.
+
+which made it possible for the camera to detect
+
+when real objects were in between the virtual object
+
+and the camera's field of view.
+
+· ARKit 4 (2o2o) introduced Location Anchors,,
+
+allowing developers to place AR experiences, like life
+
+size art installations or navigational dhections, at a specific point in the world.
+
+i8. Core Ml. arid Create ML:
+
+2oiy · Core ML is built on top of technologies such as Mel.al, which · Memrise is an echication app that features flashcard-based
+
+· Cote ML (201$) is a developet tool tliat integi ates a
+
+means it "seamlessly takes advantage" of the CPU and CPU to lesson plans for language learning. The Memrise developer
+
+variety of pre-trained machine learning model types
+
+provide"maximum performance and efficiency."
+
+team oiiginallyused an open source neural nekworks library
+
+into apps.
+
+· Create ML enables developers with "just a little bit of data [...] to train their model, but found that switching to Core ML
+
+·Core ML handlesa variety oftraining tasks such as
+
+and no previous machine learning expertise" to create machine "reduced model training time from 24 hours to 48 minutes,"
+
+recognizingimages, sounds, and motion.
+
+learning models "in minutes."
+
+and "shrank [the model's] footprint from qoMB to SMB."
+
+· Cl cate ML (20181 is adevelopei tool tliat pi ovtdes an easy-to-usevisual interface for developers to
+
+· Homecourt app by NEX Team Inc. uses Core ML and is the "first AI-powered basketball app that uses the latest mobile
+
+create their own machine learning models.
+
+AI to record, track, and chait shots in real time for players of
+
+all levels."
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335.012
+
+19. RcRIXtyKlt RA@ Reality Composer: · RealityKit is a high-level Augmented Reality ("AR") SDK that easily blends virtual objects with real world environments, sexes virtual objects automatically on different devices, and handles the networking demands of shared AR experiences. It is seen as a simpler version of ARKit for less
+experienceddevelopers,can be used in conjunction as it natively integrates with ARKit, and has a Swift API. · Reality Composer is a new utility app that allows designersto editAR scenes, animations, and events
+from Mac and iOS devices.
+
+· RedityKit handles many AR tasks automatically without needing to write boilerplate code unlike previous AR SDKs. · Reality Composer makes it easy to build, test, tune,,and simulate AR experiences directly on the iPhone or iPad.
+
+·RealityComposer isavailableasan app forfree on theApp Store. According to Apple,,"[n]ow anyone can quickly prototypeand produce content forAR experiences that are
+ready tointegrate into apps using Xcode or export to AR @nick Look. Reality Composer lets you build animations and interactions on iOS and Mac to enrich your SD content."
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TG PROTECTIVE ORDER
+DX-5335. 01 3
+
+1. Sanclbnx Envlvunment: ·The sandbox environment isolatesapps from each
+othertoprevent an app's code from interacting with
+the operatingsystem atlarge.Sandboxes isolate apps from critical system resources and other apps, restrictapps from making changes to the device,and prevent apps from accessing files stored by other apps, creating security and stability. · Apple's sandbox environment provides developers
+with tools to test in-app purchases within their apps and morerecently(gonzo) added other features to test.
+2. System SecurityF ea~ e s : · Apple's system security controls access to system
+resources in denees which includes the boot-up process, soAware updates, and protecting system resources such as CPII, memory, disk, software programs, and stored data. · The system contains several layers including hardware,software,and operating system integrity. i) Hardware system security features include a hoot ROM (first code executed by a deidce at star tup),
+AES engines (algoirthmsfor encryption and
+deciyption), and a Secure Enclave (a system on chip v ith its own boot ROM and AES engine). 2) Software system security installs only from Applesigned code. S) Operatingsystem integrity determines what capabilities are afforded to code that is executed.
+
+200'7
+
+·The sandbox environment increasessecurity and ahns to
+
+· All apps benefit from the security and protection that the
+
+preventmalware from infectingthe operating system. By
+
+sandboxing environment provides against malicious attacks.
+
+limiting the permissions of third-patty apps, Sandboxing is able ~Consumers receiveprivacy protection. For example, "third
+
+to increase "the security and integrity of the operating system." party applications can access .. health data through the
+
+· Apple permits testing in a sandbox environment for app
+
+HedthKit framework," which requires the user to grant
+
+featureslike in-app purchases, upgrades, downgrades, and
+
+accessforthe app to read and writehe alth data.
+
+cancellations for subscriptions.
+
+· System security features prevent mahvare attacks at the
+
+· All apps benefit from the security and protection thai
+
+star tup of the device and ensure that devices only execute
+
+Apple s system security features provide against malicious
+
+"known-good code"to prevent attacks while the consumer uses attacks.
+
+the device.
+
+· According to Apple's Platt'orm Security Guide Fall 2otq,
+
+· Compared to eompehtors, the App Store has received far less Apple's app 'Find My uses exishng cryptographic primitives
+
+criticism regarding mahvare. According to ArsTechniea in
+
+to enable the groundbreaking capability of distributed finding
+
+2oi2, " [w]hatever critics may say about Apple's App Store,,[...], of an offline Mac -- without exposing to anyone, uicludtng
+
+complaints about malware aren't one of them."
+
+Apple, the identity or location data of any of the users
+
+involved."
+
+S. Aetivatie tn Leek: Locks iPhoneand prevents itfrom being erased or
+re-activatedwithout theowner's Apple ID password It also prevents Find My iPhone from being disabled.
+
+2otS
+
+· Prior to this feature, an iPhone could be wiped and re-sold after being stolen. ~ The introduction of this feature reduced iPhone theft.
+
+· In t h e year following the introduction of Activation Lock, therewas a 4o Yodecrease in iPhone theA in San Francisco, 25Ã0 decrease in New York, and 5o/o decrease in London.
+
+4. Secure Enclave: ·Established a separate processor on iPhones and Macs thai securely stores enet yption keys for biometric information such as the data used for Face ID and Touch ID.
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335.014
+
+5. Lneatinn sharing Qptinns: · In 20t9, Apple introduced an option that allows iPhone users to only share their location with an app once. · In 2020, Apple gave consumers the option to only
+giveapps an approximate rather than precise location.
+
+·Priorto the"Just Once" feature, consumers only had the
+
+~ Streaming apps have different content rights in different
+
+option to allow location tracking "Always," "Never," and "Whde geographicalregions,,and requireinformation on the
+
+Using."
+
+consumer'slocation to determine what content can be
+
+Priorto the approximate location feature,consumers onlyhad streamed. Since an exact location is not required, the
+
+the option to grant an exact location or no location.
+
+approximate location feature can be used to limit the amount
+
+of informationshared.
+
+· Other examples of apps that can use approximate location
+
+to minimize data collection with no impact to the app
+
+functions include weather apps,, local news apps, and dating
+
+apps.
+
+6. Si~ i n w ith Apple: · Allows iPhone users to securely log in to apps in one click while protecting their privacy. · iPhone users ean "hide" their real email address
+from developersand have emailsforwarded tothem through arandomized addressgenerated by Apple. Any of these randomized addresses can be easily disabled to stop receiving eommunieations from an app.
+
+20t9 · Prior to this feature, apps shared personal data with third- · Many well-known apps have added Sign in with Apple. party sites when those third-party sites were used for sign-in These includepopular games likeCandy Crush Saga by King and Pokemon GO by Nianbc.
+
+Z. Mie/Camera indieatnr:
+
+2020
+
+·iOS providesan on-screen indicator when an app is
+
+accessing the device's microphone or camera.
+
+· Previously, there was no indication that an app was using the ·Allapps that accesstheiPhone microphone or camera will
+
+consumer'smicrophone or camera.
+
+display an indicator light on the iPhone screen. For example,
+
+when usinga video conferencing app such asZoom,
+
+W hatsApp, oSrignal,an orange and a green dot willbe
+
+displayed in the top right hand side of the sets.en.
+
+8 Privacy labels: · List the types of data being collected in an easily scannableformat. Apple has divided the privacy label into three categories: tj Data used to track you: This information is used to follow your activities across apps anti websites. 2j Data linked to you: This information is tied to
+your identity,such as your purchase history or eontaet information. Sj Data not linked to you: This information is not directly tied to you or your account.
+
+2020 · Prior to this feature, consumers did not have clear visibility · Starting in December 2020, all apps will need to publish
+
+into the data eollecl.ion pracbces for each app, especially at the Privacy Labels to be listed or updated on the App Sl ore. For
+
+point of download.
+
+example,a consumer can now find the Privacy Labelslisted
+
+· Privacy Labels present information that Apple requires
+
+for music streaming app Spotify, and learn that Spotiiy tracks
+
+developers to submit, including information on the data
+
+data suchas Location,,Browsing History,,and Usage Data.
+
+collectedand stored when a consumer engages with an app.
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335. 01 5
+
+1. III" app p1I11'cllascs; · Apps can offer in-app purchases to unlock features or functionality. · Since 2020, developers can review and process refund requests for in-app purchases.
+
+2009
+
+·Apple was among the firstto introduce in-app purchases asa ·DeveloperKing'sCandy Crush Saga offersa popular $0.99
+
+new form of app monetization.
+
+"Extra Moves"in-app purchase."Extra Moves" allow a player
+
+·The introduction ofin-app purchases eliminated the need for to move through alevelfaster.In 20l.4,9y.y/0ofCandy Crush
+
+developersto offerseparatepaid and freeversions ofthesame playersdid not make any payments, however the remaining
+
+app.
+
+players spent SI.S billion on in-app purchases whic'h were
+
+· When Touch IDwas introduced in201S, itw as integrated said tohave been forextralives,extra moves, colorbombs,
+
+withthe App Storeto allow users to make one-click purchases, lollipop hammers, and gold bars.
+
+including in-app pure'bases.
+
+·DeveloperSupercell'sClash ofClans offers afree download
+
+· When Face ID launched in 201y, it was also made to allow one with in-app purchases, including a popular $4.99 "Pile of
+
+dick purchases,including in-app purchases.
+
+Gems" in-app purchase.
+
+·Epic Games launched afreeversion ofFortnite with in-app
+
+purchasesin2018.Fortnite'sin-app purchases included
+
+bundles like the S4.99 "Iris Starter Pack."' In the free version
+
+of thegame, players can scavenge forweapons, ammo, and
+
+resourcesforconstructing buiMings, which enables players to
+
+familiarize themselves with the environment prior to making
+
+purchases.
+
+· Top subscription-based apps include entertainment apps (e.g. streaming sernces), gaming, and dating apps. In 2020,, accol'chug to Techcl'unch, the top 100 subscl'lptlon apps worldwide generated SIO.S billion on the App Store, up S2~70 ovel' 2019. · Individual gaming apps also offer subscriptions. For example, Minecraft (by Mojang) offers a SS.99 "Kealtns MQIlthly sllbscl'lp tlon.
+
+S. Pat 611v S11al illg: ~ Enabled families to share purchases including
+
+2014 ·Apple was the firstcompany toallow users to share apps, ·AllApp Store purchases, including in-app purchases or games,books, and video purchases with theirfamily members subscriptions,where the developer has enabled Family
+
+subscriptiongames, apps, and in-app purchases.
+
+acrossmobile devices.
+
+Sharing.For example, the cdorie-tracking app Foodwoms by
+
+· Intended to help developers attract subscribers and
+
+developerAlgebraic Labs, LLC allows consumers toshare its
+
+increaseengagement and retention.
+
+subscriptionamong members oftheirFamily Sharing group.
+
+· Up to six family members can also share Screen
+
+Time, an iCloud storage plan, and a family photo album.
+
+4 . Video Pajvttlejv Piro~ a m : · Apple lowered its commission rate to IS% for members ofthe Video Paltner Program who stream prerniurn TV content.
+
+2016 ·The Video Partner Program enabled subscription video
+
+· Apple allows AInazon Prime Video to bypass Apple's
+
+providers to provide their content on the Apple TV app, helping payment infrastructure and use its own payment system,
+customers discover video content in one app,,across all their when consumers purchase a movie or TV show.
+
+devtces.
+
+· Smaller and international services such as Altice One and
+
+Canal+ are also qualified as Apple's "premium subscription
+
+video entertainment Providers,," and hence exempt from the
+
+SO/0 commlsslon.
+
+HIGHLY CONIFIDENITIAL-- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335.016
+
+Reader r ulc: ·Consumers canaccess contentpurchased through
+
+2olp · This policy clarified how reader apps could allow users to accesspreviouslypurchased content.
+
+· Apps like Amazon's Kindle and Netflix fall under the "Reader" rule. It enabled Kindle to allow users to access
+
+means other than the App Store on their iPhones.
+
+· It also clarified the conditions under which consumers could previously purchased books through the iOS app. It also
+
+The rulespecifically appliesto reader apps such as
+
+createan account on iOS (i.e., for the free tier), and gave
+
+enabledNetflix to allow users to watch videos on the iOS app
+
+m agazinesn,ewspapers, books, audio, music, and
+
+explicit permission for reader apps to offer account
+
+using apreviouslypurchased subscription.
+
+vlcleo.
+
+management functionality to existing customers.
+
+·Reader apps may allow consumers tocreate
+
+accountson iOS forthe freetierversion ofthe app.
+
+Reader appsmay alsoofferaccount management
+
+functionality for existing customers (e.g., suspend an
+
+account).
+
+6. "Multijplatform services"' rulc: · Apps that operate sernees across multiple platforms may allow users to access eontent r subscriptions r or features they have acquired in the app on otherplatforms or on a website, provided those items are also available as in-app purchases within the app.
+
+2o18
+
+· This policy clarified how apps operating across multiple
+platforms could allow users to access content acquired elsewhere.
+
+· Games using microtransaebon systems enable users to
+purchase in-app currency for use across platforms. Por example, Minecraft (by Mojang) offers "Minecoins" as an in-
+game currencythatcan be bought and used on iOS as well as other platforms including Android,,Windows,,and Xbox One.
+
+p. Ayyic Arcade:
+·Apple Arcade isa game service that includes exclusive, eurated games that users can access for a subscription fee. · Apple Arcade is also available on both Mac and Apple TV, and it supports third-party console and Made foriPhone controllers.
+
+·AppleArcade buys and investsin games before they are
+
+· Card of Darkness, a card game in which users battle
+
+launchedinstead ofpaying developers as users spend more monsters,launched on Apple Arcade. The game's creator,
+
+time onthe game. Apple Arcade has been compared toNetflix Zach Gage, stated that it was a difficiflt game to develop
+
+in thatitacquires games and encourages developers to take becauseofissues with pricing, and that hebegan making the
+
+mol'e 1'lsks.
+
+game onceApple reached outtohim about Apple Arcade.
+
+· Byfinancing developers,Apple Arcade offers consumers
+
+games thatthey made nothave had available to them otherwise and gives developers the ability to develop games that may not
+
+fit existing monetization strategies.
+
+8. Small Business P ro~a m i · Eligible small businesses are given a reduced ConlmlSSlon 1'ate Oi lSro On paid appS anCI ln-app purchases. aExisting developers who have nlade up to 1 mjllion U.S. dollars in revenue in 2o2o for all of their apps,, as well as developers new to the App Store,,ean qualifyfor theprogram and the reduced
+
+2020 ·The App StoreSmall Business Program was designed to accelerate innovation and increase revenue for small developers.
+
+· Initial estimate suggests that 98% of developers would benefit from this program. Small developers created the majority of apps and expect to see large commission reducflonsdue to this program.
+·Co-founder ofthe fitnessapp MySwirnPro praised Apple
+and said"The new App Storeprogram will be ahuge help to our revenue from purchases in the App Store." Similarly, developer for game "Song of Bloom" believed that "This is a big opportunity for the indie gaming spirit to become truly mobile."
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUBJECT TO PROTECTIVE ORDER
+DX-5335. 01 7
+
+i. Ayy Stere:
+
+2008
+
+·The App Storelaunched on iPhone SG in 2008.
+
+· In iOS 6 (20t2), the App Store added Top Charts
+
+and Genius tab that offered personalized
+
+recommendations for iOS Applications. In addition,,
+
+A pple releasetdhe Smart Banner feature for
+
+consistent promotion of apps. ~ In iOS y (20IS), the App Store introduced parental
+
+control with classification and filtering capabilities
+
+forapps/game by age.iOS y also introduced
+
+automaticapp updating and app suggestions to
+
+consumers basedon location. ~ In iOS 8 (20i4), Apple added search optimization
+
+capabilities, including App Previews and Explore
+
+tab.App Previews allowed developers to showcase up to three videos to potential players.
+
+· The App Store was redesigned in 20ty.
+
+2. Game Center:
+
+2010
+
+· Game Center is a social gaming network that
+
+features leaderboards, achievements, and matchmaking. It enables real-time and turn-based
+
+multiplayer funel.ionality in game apps. · In 20ii, Game Center was updated so that
+
+consumers coulddownload or purchase games
+
+chrectly through an "App Store-like page" within the
+
+Game Center app. Consumers could view and chreetly download apps in their Game Center
+
+friends' lists of games without leaving the Game
+
+Center app. · Game centel challeIlges (2012) enabled sending of
+
+push notifications to engage with friends.
+
+iMessage Apps:
+
+20i6
+
+· Third Party Messages Access allows developers to
+
+buiM integrations into Apple's popular Messages
+
+app.
+
+· iMessage Apps are apps that can be downloaded or
+
+bought throughthe iMessage App Store and used
+
+directly within the Messages app.
+
+·These include apps intended justforiMessage,,as
+
+well asextensions and integrations ofbigger apps.
+
+·The App Storemade apps more accessible and greatly improve userand developer experiences.Commentators noted that,,before it was invented, "installing software on mobile devices had traditionally been a nightmare. Developers had to host the app themselves, find a place to sell it, then wAk their customers through the mstallation. Few bothered." «UpdatestotheApp Store were designed to make the platform
+more personalizedand convenient for consumers, while
+expandingthe ways in which developers couM promote and monetize 'theil' apps.
+
+·Allapps are transacted through the App Store.
+
+· Game Center successfully implemented a social ganiing network on mobile devices. · Unlike the console networks, which required rigorous
+approvalprocesses for developers to implement features from their network, Game Center was made available to small,, independent developers. ~ coIlsumeI's ean directly download aIICI. purchase games through the Game Center app. In the nine months after its release, Garne Center had 80 million registered users,,which surpassedXbox Live's80 million users.
+
+· Infinity Blade was released by Epic Games on iOS devices in 20io, and v:as among the first games to integrate GameKit features. Users were able to play multiplayer matches with each otherthrough Game Center, and unlock 64
+achievements.By 20i2, Infinity Blade had grossed over $28 million, and was at the time, Epic's most profitable franchise in terms of years invested compared to revenue. · Sonic 8; SEGA All-Stars Racing was initially released with only local online and Bluetooth multiplayer capabilities, which requires users to be within proximity to play against one another. Once integrated with Game Center,,users could then play online with up to three friends.
+
+· iMessage Apps enhanced functionality and offered new ways to createand share content,play games, and make payments.
+
+· One of the first apps to embrace third-party access to
+Messageswas Genius, apopular music lyricsapp. Genius publicly embraced the app's availability through iMessage and described the change as iMessage getting "really crazy" and urgingusers to "gethyped" for a "powerful-and potentially very hilarious" new feature. ~ Games like Words with Friends by Zynga Inc. can be played with othersthrough the Message app.
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335. 01 8
+
+4. App Stox'e Redesign:
+
+2oty
+
+· 'Today"': an editorial section used to promote a
+
+new app every dav along with "how to gujjdes' "article-like description pages for apps."
+
+· Apps could be pre-ordered before release.
+
+· The top charts were separated into those for games
+
+and thosefornon-game apps. Prior to the change,
+
+populargames tended to "crowd outup-and-coming apps on the charts."
+
+· Other smaller tweaks included "use of previews,,
+
+imagery andvideo to bettershowcase an app's content; clearer details about an app's in-app
+
+purchases;easier-to-read information about an
+
+app'srank, star rating,age appropriateness,,and
+
+· With the launch of iOS tt in 2oty, the redesign of the App ·Apps featured by Apple saw download boostsof up to
+
+Store improved design and discoverability.
+
+Booo/0. Big publishers like Electronic Arts and Warner Bros
+
+· The iOS tS (2ot9) update allowed apps to take up to Boo/0 less benefited greatly, but small publishers also got a chance to
+
+storagespacewhen being downloaded, while app updates
+
+shine.According to an industry study, 29% of the apps Apple
+
+would be 6oo/0 smaller. Apps would also load twice as fast as featured since the redesign were from publishers who had
+
+before.
+
+fewer thanto,,ooo downloads.
+
+S. App Clips: · An App Clip is a brief introduction to an app that
+pops uptocomplete individual,discretetaskswhen consumers summon them. · App Clips allow users to preview apps without
+downloadingthem and focus on getting atask done quickly.
+
+·Brought theidea ofa shortapp preview ofan app to a much
+broaderaudience than previous versions by competitors. · integrated real-world tags to call up the app clips, which enablesapp discovery outside ofthe App Store.
+
+· The Panera Bread app allows users to order food from the
+popularchain onlinewhen you navigate towards iton maps.
+Consumers canorder food through the app without downloading the app, but also without navigating to a website, calling, or using another application.
+
+HIGHLY CONFIDENTIAL -- ATTORNEYS' EYES ONLY SUEIJECT TO PROTECTIVE ORDER
+DX-5335. 01 9
+
+

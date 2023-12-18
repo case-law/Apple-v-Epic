@@ -1,0 +1,157 @@
+PLAINTIFF
+U.S. District Court -- NDCAL
+4:20-cv-05640-YG R-TSH
+Epic Games, Inc. v. App/e Inc.
+Date Entered By
+Subject: Re: Blocker on Apple's side blocking Epic &om upgrading to Xcode 11 From: "Mark Grimm"
+Received(Date): Tue, 03 Mar 2020 22:51:47 +0000 To: "Ted Jucevic"
+Date: Tu e, 03 Mar 2020 22:51:47+0000
+
+Just Ted.
+
+NMOS is iOS 14, correct? I won 't reference that to the developer, obviously - but want to make sure we' re not talking about a minor release (i.e. 13.3).
+
+Mark Grimm ~ Partnership Manager, Games i
+
+.I c:
+
+On Mar 2,2020, at4:40 PM, Ted Jucevic (
+
+wrote:
+
+Mark,
+
+What I meant by "a month after NMOS GM" was a month after we ship our next OS release for iOS. NMOS is next major OS.
+
+Regards,
+
+Ted
+
+On Mar 2, 2020, at 3:18 PM, Josh Doss (
+
+wrote:
+
+Hi Mark,
+I'm comfortable with the data we have showing Epic 's work toward compliance. Both Epic and Apple have spent a significant amount of engineering time justifying the repeated requests and both Epic and Apple are investing significantly in reducing the memory footprint of the game.
+
+This includes but is not limited to 1 full time engineer working on FN memory at Apple, 8 full time engineers working at Epic on this problem, investment in project management, a plan for reducing memory footprint, regular onsite sessions in Cupertino, major restructuring of the Unreal Engine for future memory constraints, etc.
+
+Nat Brown is working on addressing the exception in another effort as well. Epic is an extremely important and trusted partner in the games ecosystem and I am really thankful we 're able to continue supporting them on our platform. They have made many changes to the Unreal Engine in the past year that are favorable to our platform, not just for Fortnite but for the many games built with UE4 (including many of the most important Apple Arcade titles.)
+
+Thank you all again for the help. We would love to come in and share our work with Epic in
+Exhibit PX 452
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+APL-EG 04981433
+
+detail with you, I 'll get something on the calendar later this month.
+
+Thank you,
+
+Josh
+
+On Mar 2, 2020, at 3:10 PM, Mark Grimm (
+
+wrote:
+
+Can someone translate "a month after NMOS GM"? I'm okay with communicating this to Epic. I just want to be extra sure everyone knows we had this exact same conversation last year, which led to an extension until iOS 13. Ale, you can speak to it better than I can, but I want to make sure Epic is making every egortto optimize and not just counting on exceptions to our policies (of which they get MANY).
+
+Mark Grimm i Pa r tnership Manager, Games i
+
+Ic:
+
+On Mar 2, 2020, at 2:49 PM, Allan Schaffer (
+
+wrote:
+
++Travis who is also following. On Mar 2, 2020, at 1:36 PM, Ale Segovia Azapian (
+
+) wrote:
+
+Hi Ted,
+
+On Mar 2, 2020, at 1:19 PM, Ted Jucevic (
+
+wrote:
+
++ Mark Grimm, Epic's partnership manager.
+
+Thank you Josh forbumping this up inmy queue.
+
+Ale,
+
+Last week I got approval from App Review and App Import for Epic to continue using the iOS 11 SDK and Xcode 9 to build and submit their app until a month after NMOS GM. This was also a
+plan B.
+I don't know if this is something that has been shared with Epic, so please discuss this with Mark Grimm before talking to Epic.
+
+Excellentnews. Thank you Ted!
+
+@Mark do you want to communicate at the partnership level and I reach out at the engineering level?
+
+We should let them know ASAP. Ale.-
+
+Regards,
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+APL-EG 04981434
+
+Ted
+
+On Mar 2,2020, at 12:54 PM, Josh Doss (
+
+wrote:
+
+Any updates? Do we have a path to an exception or entitlement? On Feb 28,2020, at4:05 PM, Ale Segovia Azapian (
+
+wrote:
+
+Hi Ted and Allan,
+
+As you know, we' ve given Epic Games a deadline of April to upgrade Fortnite to Xcode 11 to continue distributing through the App Store. Epic is operating under the assumption that the
+deadline will be April 1.
+
+The reason I'm reaching out to you is because due to a technical issue on our side with the
+
+Metal Compiler in Xcode 11 ( (r r : r I m
+
+122) ), Ep i c is currently being blocked from
+
+upgrading to Xcode 11.
+
+What is the issue? A bug that was originally introduced in iOS 12 is being triggered by at least one of their shaders when built with Xcode 11. This problem does not occur when they build
+said shader(s) with Xcode 9.
+
+We have fixed the OS side of this problem in an upcoming version of iOS 13 (release "E"), but as you know, Epic needs to continue supporting all existing versions of iOS 13 in the wild, as
+well as iOS 12. So we need another fix in our toolchain in order to to unblock them.
+
+We' re treating this issue as an "Eco Blocker", which is our highest priority in GPUSW. There
+is a chance, however, that depending on how the technical work goes on our end, we might need to consider an extension beyond April 1, just to make sure we can provide them with a
+technical solution that will unblock them.
+
+This is not a request we take lightly. What we are asking is if it would be possible to have this as a plan B, to be activated in case we cannot deliver a solution to them in time for the deadline.
+
+Thanks in advance,
+
+Ale.-
+
+Ted Jucevic Senior Manager Worldwide Developer Technical Support
+Apple One Apple Park Way
+MS: 317-2DTS
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+APL-EG 04981435
+
+Cupertino, CA 95014
+Allan Schaffer ~ T e c hnology Evangelism ~
+Ted Jucevic Senior Manager Worldwide Developer Technical Support
+Apple One Apple Park Way
+MS: 317-2DTS Cupertino, CA 95014
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+APL-EG 04981436
+
+

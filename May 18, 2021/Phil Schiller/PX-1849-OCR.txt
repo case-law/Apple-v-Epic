@@ -1,0 +1,80 @@
+Subje«t: R e: App Store subscripnon info From: "Philip Schillern
+Received(Date)l Thu, 10 Feb 2011 04:43:14+0000 T 7 "Eddy C
+Date: Th u, 10 Feb 2011 04:43:14+0000
+
+PLAINTIFF
+U tl. Dlslrlet Ceerl - ND GAL
+4:20wv45040.YGR TSH
+Eple Games,Ine. e.Apple Ine.
+Ex.ND. PX-1849
+Date Entered
+ey
+
+Here are the key elements to me:
+
+-- General rule about no content purchased outside the app remains in place, new exceptions follow
+
+- New subscription service open to all developers (not just newspapers and magazines)
+
+- Subscriptions in app must use Apple service, developers can also offer subscriptions on their own website or other mechanisms if, and only if, they use our in app subscription service
+
+- Apps can sell approved digital content (books, audio, video) outside of the app for "reading" in the app, if and only if, they offer the same content for sale in the app using Apple's in app purchase system
+
+- All in app purchases snd in app subscriptions share revenue at the same 70/30 split with Apple as app purchases
+
+- Links out of the app to purchase with other mechanisms are no longer necessary or allowed
+
+- All in app purchases and subscriptions are priced at least as good as the items are offered through any other channel or mechanism
+
+0 9 9 9 , 2922 t 7 4 7 PM,EddyC ~
+
+t:
+
+Before we start writing it up, let's see if we get all the points. 1 am not using all the right words but want to see if it covers everything.
+
+· Subscriptions are available to all app developers
+
+· Anyone offering a subscription service (e.g. WSJ, Hulu, Rhapsody, Pandora, etc) will need to add our new subscription billing within the app and remove all links to their web signups by XX/XX
+
+Here are the subscripnon rules-
+
+· Offer can be weekly, monthly, bi-monthly, quarterly, bi-yearly or yearly (you can offer more than one)
+
+· Customer is automatically charged each time (e.g. weekly) until they indicate that they no
+
+CONFIDENTIAL
+
+PX-1849.1 APL-APPSTORE 02828746
+
+longer wish to subscribe. At that point, they will receive anything pending to the end of their paid subscription.
+· When customer buys a subscription, they will be asked if they want to share their name, email and zip code with the app developer. In addition, the publisher can offer a free incentive based on their offer (e.g. extra month) if customer agrees to send the information.
+· Developer sets the subscription pricing (can be free if they want to)
+· Subscription rates must be equal or less than other digital rate offered elsewhere
+· If developer changes the subscription price, it applies to all existing subscribers at the time of renewal (if the price is higher than the customer was paying, they will be notified and will need to agree to the higher rate).
+· Revenue split is the same 70/30 for all subscription payments (Apple is not involved with any transaction that happens outside the store)
+· Subscription can include any other digital access (e.g. access to paid web site)
+· Subscription can not include any physical product (e.g. print)
+· App can not require sign in or personal information at launch but can optionally ask the customer if they wish to register with their site (existing rule already)
+· In the app, you can make other product offerings (e.g. buy a calendar, signup for an email list) transacted directly with the publisher
+· Developer can give &ee access to existing subscribers (developer does authentication)
+· Developer can sell digital subscriptions on their properties and Apple does not get any payments (publisher does authentication)
+· The app must have a subscription offer using Apple's recurring subscription (can not link out &om the app to any subscription offering).
+In addition to subscriptions
+-- all apps selling digital content primarily consumed within the app (e.g. Nook, Vudu) must sell their goods with our in-app billing
+-- revenue split is the 70/30 as it has always been for in-app billing
+--pricefor in-app must be the same astheprice offered elsewhere
+-- can not link within the app to their web sites to buy
+
+CONFIDENTIAL
+
+PX-1849.2 APL-APPSTORE 02828747
+
+-- app can read/watch/consume any product that was bought outside the app (developer responsible for the authentication)
+-- for anything purchased outside the app, Apple receives no revenue share
+Eddy
+
+CONFIDENTIAL
+
+PX-1849.3 APL-APPSTORE 02828748
+
+

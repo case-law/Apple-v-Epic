@@ -1,0 +1,42 @@
+From: Sent:
+TQ:
+Subject:
+
+Mark Rein Fri, 5 Jan 2018 20:46:05 +0000 (UTC) Tim Sweeney Re: Chat with Joswiak
+
+PLAINTIFF
+Um nrrrtrlcl court- NncAL
+4:20cv40040 YOR TSH
+Epic GhrhhsIlls. v. rspprhIhc.
+Brt.hio. PX-2421
+nhlh Ehr«he
+nr
+
+I just finishedtalking toTim Kirby. Hesaidhe'dsetcheckondateson hisendto getthismeeting setupandgeneralmeehngswithyou,KimandI
+and thevariousotherteamsatApple. Alsowe shoulddetmitely take PNBR oniOS to showthem.We talkedquite abitaboutit.
+BTW, he was definitely receptive to thc idea which doesn't mean it will go anywhere but it meanshe'll line up people who wilt listen snd not shoot it down like Phil Schiller would. He says they have had internal discussion about this sort of thing so havirg you in s conversation about it (evcn if it' s a one-wayconversationtostart) wouldbeuseful.
+So maybethere'sasmallest little crackontheverycutersurfaceofthemany feetof icecoveringthefrozenlakethat istheApplestom:)
+How's that for containedoptimism?:)
+
+On Wed, Jan 3, 2018 at 5:21 PM, Tim Sweeney
+
+wrote:
+
+Mark, if we' re able to book a future brainstorming meeting with Apple, I'd love to get 30 tninutes booked with Joswiak to talk about the potential for iOS and future Apple things to operate as open platforms. Background:
+
+With a rigorous OS security model in place and app signature revocation support, Apple could completely decouple its quality, content, and editorial decisions on the App Store from the separate issue of whether a
+remier user hasthe right to install a given program on their device. If the App Store we merely the p way for
+consumers to install software, and not the sole way, then Apple could curate higher quality software overall, without acting as a censor on free expression and commerce on the platform that takes the form of software.
+
+Topics that could be discussed range frotn the technical (security implememations), to principles, to commercial (we have a PC and Mac software store and would love to eventually support it on iOS,)
+
+Ttm
+
+Mark Rein, Epic Games, Inc.
+Visit ug ath: / / w ww. i c a mes.com
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+PX-2421.1 EPIC 00010112
+
+

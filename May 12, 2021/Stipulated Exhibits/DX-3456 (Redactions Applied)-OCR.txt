@@ -1,0 +1,207 @@
+From : To: CC:
+
+Stev e Gedikian Cindy Lin T lerStran
+
+Latika Kirtan Pedraum Pardehpoos
+
+tt Fischer Ricardo Cortes
+
+BCC:
+
+Subject: Re: Binary Size Increase
+
+el
+
+Atbtchments:
+
+Sent:
+
+10/15/2014 02:55:43 AM 0000 (GMT)
+
+Please let us know when this is going to go live. I want tc make sure PR isn't surprised
+
+-s
+
+Uaitcri States Dietrict Court
+NorritcmDistrict of California
+
+CaseNo. 4:20-ev-05640-YGR
+
+CaseTitle Ep/c Gasses,Iae a p f r. lac.
+
+Evitibit No DX-3456
+
+Date Entered coeur V.Soeec,Cleek
+
+etr
+
+, Ceoelr clerk
+
+On Oct 14, 2014, at 6:00 PM, Cindy Lin
+
+wrote:
+
+ssuming I' ll drop a note to some of the other teams to see if they know of any reasons why 4GB would be problematic. A
+dev tools doesn't have a limit, a developer would be able to create an app this size today for distribution outside the app store (e.g. enterprise)
+
+On Oct 14, 2014, at5:23 PM. Tyler Strand
+
+wrote:
+
+Thanks. Assuming we can handle it from a capacity standpoint. do we need a dient change for this?
+
+On Oct 14, 2014, at 4:15 PM, Cindy Lin
+
+rote:
+
++ Latika
+
+Comments inline below
+
+Cindy
+
+On Oct 14, 2014, at 3:37 PM, Tyler Strand
+
+wrote:
+
+By the way, what is this?
+
+!
+
+This is where the work we are doing for Monarch is really the answer - dynamic loading of games as needed.
+
+Is this On Demand Resources, a-la ATV Blacktail?
+It sounds like it, our work to support QDR for ATk/ apps should largely cover iOS apps but may be some incremental updates. I haven't heard that the iOS team is supporting this for Monarch yet though.
+
+CONFIDENTIAL
+
+DX-3456.001
+
+APL-APPSTORE 00808181
+
+On Oct 14, 2014, at 2:24 PM, Matt Fischer
+
+wrote:
+
+Guys,
+
+ERB has approved increasing the maximum app binary size we allow on the App Store from 2 GB to 4 GB. What needs to happen to get this done?
+To go 4GB, we need to check what updates are needed to server capacity to make sure we can process the larger size apps (e.g. memory and heap sizes). Lstika is going to help chase this down.
+
+Thanks, Matt
+Begin forwarded message:
+
+From: Philip Schiller Subject: Re: Binary Size Increase
+
+Date: October 14. 2014 at 12:59:52 PM PDT
+
+To. Matt Fischer Cc: Eddy Cue
+
+, Greg Joswisk
+
+Doug Vettsr
+
+Philli Shoema er aun"
+
+Federighi
+
+Sure
+
+Tob Paterson
+mi Ron Okamoto
+
+ums a
+
+Craig
+
+On Oct 14, 2014, at 9:25 AM, Matt Fischer
+
+wrote:
+
+Phil - are you supportive of upping the binary size restriction to 4 GB to be competitive with Googlsg
+
+On Oct 3, 2014, at 7:50 AM, Greg Joswiak
+
+wrct:
+
+I agree with Eddy that 10GB is too much and I would also support 4GB.
+I think the device restriction request will require more conversation. Unfortunately, neither Phil nor I will be at ERB today and I think we should wait until we have a full quorum to discuss this.
+
+On Oct 3, 2014, at 7:43 AM, Eddy Cue
+
+wrote:
+
+This is where the work we are doing for Monarch is really the answer - dynamic loading of games as needed. The vast majority of phones we sell are 8-32GB and it seems crazy to have 10GB titles. I would be fine increasing to 4GB now to be competitive but the real answer should be Monarch which will require less.
+
+CONFIDENTIAL
+
+DX-3458.002
+
+APL-APPSTORE 08808182
+
+On Oct 2, 2014, at 11:39 PM, Matt Fischer
+
+wrote:
+
+Privileged and Confidential
+
+In advance of ERB tomonow, I wanted to send around some thoughts on two items I'd like to
+discuss tomorrow: 1) increasing our binary size restriction, snd 2) giving developers s wsy to restrict devices for their epps (primarily games).
+
+In terms of a binary size restriiction, Google Play offers up to 4 GB per app/gsme. At a minimum, we should bump up to that level (we' re currently at 2 GB), but my team recommends going upto 10 GB.
+
+Also, we have heard from lots of developers since the launch of iPhone 6 and 6 Plus that it would be
+helpful to allow a device restriction option. Our current situation can lead to a subpar user experience with customers downloading games that don't work well on their older devices, which in turn can lead to lots of negative customer reviews.
+
+More details below.
+
+Thanks, Matt
+
+Begin forwarded message:
+
+From: Greg Essi Subject: Binary Size Increase Date: October 2, 2014 at 5:47:26 PM PDT To: Matt Fischer Cc: Matt Casamassina
+
+Ivy Sheiba
+
+Hi Matt,
+
+Per our conversation in the staff meeting this week, here's why we feel we need a binary size restriction lifl and device exclusion option is needed for continued innovation in the gaming space on the App Store. Many of our top partners like 2K, Activision, EA, Aspyr, Rockstar and Gamsloft have been requesting this for some time. With the launch of metal and increase in graphical capabilities of our latest hardware, it's become imperative to allow developers the ability to build larger binaries and exclude older devices so they can provide the optimal user experiience in their games.
+
+On last generation consoles (X360, PS3), the top 10 titles averaged between 8-1 Ogb in size. This is needed to allow for the slick animations and advanced shsders that make these games ultrarealistic and beautiful. Additionally, advances in enemy Al and parbde physics have ballooned space requirements over the years. The consumer hes grown accustomed to these production values and expects/demands them in premium products of this type. So, as our devices have increased to that level snd these major gaming partners increasingly port Sties and even start to develop titles for simultaneous lsunohes alongside the consoles, we need to allow developers the ability for production pariity so our users get the premium experience on the App Store. This is virtually impossible given the current 2gb limit and requirement to support older devices like the iPhone 4S and iPad 2.
+
+Case Study: Recently, 2K ported Bioshock to iOS. This was an opportunity to really showcase
+
+CONFIDENTIAL
+
+DX-3456.003
+
+APL-APPSTORE 08808183
+
+our devices and give access to one of the highest rated games of all time (think Citizen Kane of games) to our much wider audience. However, the 2GB limit really became an issue during development and the team was forced to downgrade shaders, disable dynamic shadows and turn down textures to the lowest setting. Additionally, they ended up having to remove localized voice-over work, which is unfortunate as this received accolades abroad for its treatment, within EFIGS at least. While I feel they still did an amazing job, a comparison video of the iOS version to X360 version went viral and undermined all the work 2K did to create a great product. There is no reason, other than the size limit, that this 7 year old game couldn't have looked and run BETTER on our hardware. In this case, at least 3.5gb's was needed for more quality (4 was the magic number). LINK
+The games team continues to hear requests for file size lifting and therefore we request you recommend to ERB anew limit of 10gb. This will ensure full porting parity from previous generation consoles. Additionally, they encountered many negative user reviews for not supporting older devices. Users of these older devices shouldn't even see this type of game for sale, especially as a premium title ($1 4.99). Understandably, there were many mistaken purchased of Bloshock who were angry that the game didn't wn well on their older device. We also strongly recommend allowing a device restriction option. This allows developers of high fidelity 3D games to only focus on the best user experience instead of either allocating precious resources to making a subpar version run or, worse yet, releasing a version that doesn't support older devices and garnering lots of negative reviews from black box purchases. Simply messaging this in the description dearly isn't the answer.
+For competitive comparison, Google Play offers up to 4gb per app/game.
+In summary, here's a bulleted list below. Please let us know if you have any questions or want mom information. We all feel this is important.
+2GB download size limit is no longer suflficlent
+- We are asking developers to use Metal to bring over their best PS3 / 360 games, but most of these weigh in at 6GBs or more; size constraint at odds with Metal and our devices, which require better resolutions and bigger file sizes - Serious sacrifices are being made to port over popular titles like Bioshock, a Game of the Year winner which should have looked as good as its Xbox 360 counterpart but didn't in part to outdated size constraints; negative press resulted - Developers are bypassing this limitation with makeshift solutions like post-install downloads; customer experiencesuffering - Google already offers 4GB storage capacity - 10GBs opens up wide opportunity for our best partners to bring over some of their biggest brands; future proofs us for all 360 / PS3 conversions and adaptations
+Device fragmentation is creating subpar experience for developers and customers alike
+- Customers have access to games that either run poorly or crash on their devices - Results in unfair and inaccurate negative reviews for some excellent games - Some developers -- like Super Evil Mega Corp (Vainglory) -- are reluctant to release iPhone versions o their games because they cannot restrict to iphone 6 Plus only - With this one-size-fits-all mentality, studios are catering to the lowest spec instead of the highest one; early adopters and garners with the latest devices do not always reap the benefits of them
+Thanks,
+Greg Essig Games
+
+CONFIDENTIAL
+
+DX-3456.004
+
+APL-APPSTORE 09808184
+
+App Store
+Apple 10420 Bubb Road, MS 66-1 MF Cu crtino, CA 95014
+UDID'siphone(NEW): 7cbcc123555a10cd5a61Td3edcb74310co3991ac ipad:41967327c4939a166dc23e6912bf581f26f9424d
+
+CONFIDENTIAL
+
+DX-3458.005
+
+APL-APPSTORE 08808185
+
+

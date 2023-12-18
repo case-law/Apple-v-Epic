@@ -1,0 +1,686 @@
+App Store Pricing
+
+United States District Court
+
+«I
+
+NorthernDistrictofCalifornia
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games,Inc.v.Apple, Inc.
+
+Exhibit No. DX-4632
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+Decisions Expanded Price Points for Subscriptions
+
+Apple Confidential -- Need to Know
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4632. 001
+
+APL-APPSTORE 08825075
+
+Introduction
+
+Overview · Starting fall 2016, developers will have more capabilities to manage subscriptions, including additional
+pricing granularity and flexibility · 200 price tiers (87 existing and 113 new) across all 155 app stores (25 currencies) · | eo-specific market relevant pricing to allow their subscriptions to be priced consistent with other local competitive offerings and inline with their other distribution channels · Price preservation (aka grandfathering) for existing subscribers when prices are increased
+· Im p roved messaging and consents for price increases without price preservation
+· See Appendix 1 for the summary of subscription features launching
+
+Approach
+· The price points for the 200 price tiers were determined based on various factors including competition, local market conditions, current distribution (see Appendix 2) and the strategic nature of the business opportunity
+· Local pricing conventions and Apple preferred price points and step changes were taken into consideration in deciding the on-store retail price points for each currency
+· Tiers will no longer be globally equalized (see Appendix 3 for USD equivalents) with tools provided to developers to allow for equalized pricing
+· In all territories, Apple's commission will be 30% for billings that occur in the first year of customer's paid service
+· Af ter one year of paid service, the commission rate will be 15% for all subsequent renewals (including renewals of upgrades or downgrades)
+
+Apple Confidential -- Need to Know
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4632. 002
+
+APL-APPSTORE 08825076
+
+Americas
+
+Territory
+~ Un i t ed States/ Rest of World"
+/+f Canada
+Mexico
+
+Entry Tier 0.49 USD 0.49 CAD
+5 MXN
+
+New Tiers
+
+New Tiers
+
+Before Existing Tier 50 Before Existing Tier 60
+
+(US5 49.99)
+
+(Ucg 99.99)
+
+Pricing Summary
+
+50.50 increments to 529.99
+
+30
+
+70
+
+$1.00 increments to $124.99
+
+$5.00 increments to $299.99
+
+Higher increments thereafter to $999.99
+
+50.50 increments to 529.99 51.00 increments to 5119.99 55.00 increments to 5209.99 Higher increments thereafter to $1399.99
+· "5" and "9" endings to 199 pesos · 10 peso increments to 1299 pesos · 50 peso increments to 1999 pesos
+Higher increments thereafter to 18999 pesos
+
+Notes: 1. All countries on USD pricing will share these price tiers:Albania, Algeria, Angola, Anguilla, Antigua & Barbuda, Argentina, Armenia, Azerbaijan, Bahamas, Bahrain, Barbados, Belarus, Belize, Benin,
+Bermuda, Bhutan, Bolivia, Botswana, Brazil, British Virgin Islands, Brunei Darussalam, Burkina Faso, Cambodia, Cape Verde, Cayman Islands, Chad, Chile, Colombia, Congo (Republic of), Costa Rica, Croatia, Dominica, Dominican Republic, Ecuador, Egypt, El Salvador, Fiji, Gambia, Ghana, Grenada, Guatemala, Guinea-Bissau, Guyana, Honduras, Iceland, Jamaica, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Laos People's Democratic Republic, Lebanon, Liberia, Macau, Macedonia, The Former Yugoslav Republic Of, Madagascar, Malawi, Malaysia, Mali, Mauritania, Mauritius, Federated States Of Micronesia, Republic Of Moldova, Mongolia, Montserrat, Mozambique, Namibia, Nepal, Nicaragua, Niger, Nigeria, Oman, Pakistan, Palau, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Qatar, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Solomon Islands, South Korea, Sri Lanka, St. Kitts and Nevis, St. Lucia, St.Vincent &The Grenadines, Suriname, Swaziland, Tajikistan, United Republic OfTanzania, Trinidad &Tobago, Tunisia, Turkmenistan, Turks and Caicos Islands, Uganda, Ukraine, United States, Uruguay, Uzbekistan, Venezuela, Vietnam, Yemen, and Zimbabwe. 2, VAT is 0% for all USD based countries except Albania (20%), Croatia (25%), Iceland (24%), and Korea (10%), where the VAT will be added on top of these prices.
+Apple Confidential -- Need to Know
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4632. 003
+
+APL-APPSTORE 08825077
+
+Europe
+
+Territory
+
+Entry Tier
+
+New Tiers
+
+New Tiers
+
+Before Existing Tier 50 Before Existing Tier 6Q
+
+(US5 49.99)
+
+(Ucg 99.99)
+
+Pricing Summary
+
+Eurozone"'
+
+OA9 EUR
+
+30
+
+· 0.506 increments to 29.996
+
+70
+
+· 1.006 increments to 124.996 5.006 increments to 299.996
+
+Higher increments thereafter to 999.996
+
+i >- United Kingdom
+
+0.49 GBP
+
+aE
+i~ De nmark
+
+5 DKK
+
+(g Sweden
+
+5 SEK
+
+J R
+i ~ Norway
+
+5 NOK
+
+· f0 . 50 increments to f29.99 · f1 .00 increments to f124.99
+f5.00 increments to f229.99 Higher increments thereafter to f899.99
+
+· 1 krone increments to 20 kroner
+
+"5" and "9" endings to 499 kroner
+
+·
+
+80
+
+· 10 krone increments to 999 kroner
+
+Higher increments thereafter to 7999 kroner
+
+· 1 krona increments to 20 kronor "5" and "9" endings to 399 kronor
+·
+· 10 krona increments to 879 kronor
+Higher increments thereafter to 10995 kronor
+
+· 1 krone increments to 20 kroner "5" and "9" endings to 499 kroner
+· 10 krone increments to 799 kroner
+Higher increments thereafter to 10990 kroner
+
+· 0.50 franc increments to 20 francs
+
+Switzerland'
+
+0.50 CHF
+
+21
+
+1 franc increments to 130 francs · 5 franc increments to 300 francs
+Higher increments thereafter to 1100 francs
+
+otes 1. All countrieson EUR pricing will sharethesetiers:Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania,
+Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, and Spain. 2. Two Apple TV-only subscriptions from Viaplay (Adam IDs:984663784 and 984938808) are currently specially priced at 68.95 and 62495 respectively for Finland. These price points will not be
+supported in the 200 tiers; however for launch, the subscriptions will continue to be specially priced until the developer agrees to price these at the new available price points. 3. Two subscriptions from Netflix (Adam IDs:868447470 and 931060833) are currently specially priced at 11.90 CHF. This price point will not be supported in the 200 tiers; however the subscriptions will
+continue to be specially priced.
+Apple Confidential -- Need to Know
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4632. 004
+
+APL-APPSTORE 08825078
+
+Asia Pacific
+
+Territory
+
+Entry Tier
+
+New Tiers
+
+New Tiers
+
+Before Existing Tier 50 Before Existing Tier 6Q
+
+(US5 49.99)
+
+(Ucg 99.99)
+
+Pricing Summary'
+
+· Japan"
+
+50 JPY
+
+42
+
+Australia'
+
+0.49 AUD
+
+New Zealand
+
+0.49 NZD
+
+Indonesia
+
+3000 IDR
+
+Singapore
+
+0.48 SGD
+
+37
+
+~ T h ailand
+
+9 THB
+
+72
+
+V50 increments to V2000+ other strategic I V100 increments to V10000 %200 increments to V14000 Higher increments thereafter to V118800
+50.50 increments to 529.99 51.00 increments to 5119.99 55.00 increments to 5229.99 Higher increments thereafter to 51599.99
+50.50 increments to 529.99 51.00 increments to 5119.99 55.00 increments to 5199.99 Higher increments thereafter to 51599.99
+Rp1000 increments to Rp19000 "5000" and "9000" endings to Rp 99000 Rp10000 increments to Rp1199000 Higher increments thereafter to Rp 14999000
+50.50 increments to 519.98 51.00 increments to 5129.98 "4.98" and "8.98" endings to 5198.98 Higher increments thereafter to 51488.98
+It10 increments to It989+ certain "5" endings "20","50" and "00" endings to It2000 It100 increments to $4900 Higher increments thereafter to $34900
+
+Notes: 1. An Apple TV-only subscription from Hulu (Adam ID:550076503) is currently specially priced at 1007 JPY. This price point will not be supported in the 200 tiers; however for launch, the subscription will
+continue to be specially priced until the developer agrees to price it at a supported price point. 2, An Apple TV subscription from Stan (Adam ID: 991208716) is currently specially priced at 10 AUD. This price point will not be supported in the 200 tiers; however for launch, the subscription will
+continue to be specially priced until the developer agrees to price it at a supported price point.
+Apple Confidential -- Need to Know
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4632. 005
+
+APL-APPSTORE 08825079
+
+Greater China
+
+Territory China Hong Kong Taiwan
+
+Entry Tier 1 CNY 5 HKD 10 TWD
+
+New Tiers
+
+New Tiers
+
+Before Existing Tier 50 Before Existing Tier 6Q
+
+(US5 49.99)
+
+(Ucg 99.99)
+
+Pricing Summary
+
+· V1 increments to V28
+
+44
+
+73
+
+· V5 increments to V398 plus additional prices
+
+%10 increments to V798
+
+Higher increments thereafter to V6498
+
+· HK55 increments to HK5498
+
+31
+
+70
+
+· HK510 increments to HK5998 "48" and "88" endings to HK51988
+
+Higher increments thereafter to HK57888
+
+510 increments to 51000 520, 530, or 540 increments to 51990 5100 increments to 55690 Higher increments thereafter to 529900
+
+Apple Confidential -- Need to Know
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4632. 006
+
+APL-APPSTORE 08825080
+
+Rest of World
+
+Territory
+
+Entry Tier
+
+Q Russia
+
+15 RUB
+
+Turkey
+
+0.59 TRY
+
+~® India ~~ South Africa
+
+10 INR 3.99 ZAR
+
+Israel
+
+1.90 ILS
+
+Saudi Arabia
+
+1.99 SAR
+
+C, UAE
+
+1.99 AED
+
+Apple Confidential -- Need to Know
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+New Tiers
+
+New Tiers
+
+Before Existing Tier 50 Before Existing Tier 6Q
+
+(US5 49.99)
+
+(Ucg 99.99)
+
+Pricing Summary
+
+20, 30, or 50 ruble increments to 999 rubies
+
+"50" and "90" endings to 4990 rubies
+
+30
+
+100 ruble increments to 9990 rubies
+
+Higher increments thereafter to 74990 rubies
+
+0.50 lira increments to 10.99 liras
+
+74
+
+1.00 lira increments to 74.99 liras 5.00 lira increments to 299.99 liras
+
+Higher increments thereafter to 2899.99 liras
+
+%10 increments to %200
+
+74
+
+%10, %20, or %30 increments to %1000
+
+%50 increments to <4000
+
+· Hi g her increments thereafter to %69900
+
+R2 or R3 increments to R49.99
+
+73
+
+R5 increments to R199.99 R10 increments to R999.99
+
+Higher increments thereafter to R19999.99
+
+PLI2 increments to PLI199.90
+
+50
+
+80
+
+PLI5 increments to PLI499.90
+
+PLI2o increments to Pil999.90
+
+Higher increments thereafter to PLI3999.90
+
+1 riyal increments to 20.99 riyals
+
+37
+
+2 or 3 riyal increments to 199.99 riyals
+
+5 riyal increments to 459.99 riyals
+
+Higher increments thereafter to 3699.99
+
+1 dirham increments to 20.99 dirhams
+
+37
+
+2 or 3 dirham increments to 199.99 dirhams
+
+5 dirham increments to 459.99 dirhams
+
+Higher increments thereafter to 3699.99
+
+DX-4632. 007
+
+APL-APPSTORE 08825081
+
+Appendices
+
+Apple Confidential -- Need to Know
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4632. 008
+
+APL-APPSTORE 08825082
+
+Appendix 1: 2016 Subscriptions Features
+
+Increased Proceeds After One Year
+
+Expand to All Categories
+
+Price Preservation
+
+Upgrades, Downgrades, Crossgrades
+
+Ter r itor y Pr icing
+
+Subscription Pricing Tiers
+
+Improved Consent for Price Increases
+
+Manage Subscriptions Page Enhancements
+
+Apple Confidential -- Need to Know
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4632. 009
+
+APL-APPSTORE 08825083
+
+Appendix 2: Existing Tier Distribution
+
+30000
+
+100a/
+
+25000
+/5%
+
+20000
+0
+O
+
+15000
+
+.'F0%
+
+10000
+z5%
+5000
+
+ccbn ccnbconl ccnn ccnnccbb ccnbccnbconl cmbccnbaclbmcbccbnmcbcoblmcnconl ocnl ccbnccbn conl oclnoclnoclnccbnocnl ccbn ccnn mcnccnbccnbmcnmcbmcnOcFbccnbccnbmcncanl ccnb mol cm»ccnn ccbn ccnn ccbn conl ccbbccnbaollccbnmcnmcbccnbmcbconl mcbccnbconl ccnn ccnbconl conl ccbnccnb conl conFcobl ccnn ccnnmcnoollconl conl ccnn ccbn ccnbccnbccnbconl mcbcInn mcbccbbccnbcobl
+
+0
+
+N c 6 c I a la b co c6 0 w N c6 '0bs Ia I m c 6 g N I6 ' 6 I 6 g b co g g
+
+N Q br Icl g I g o l 0
+
+N c6 g l a I6 F cb cFI gcFI g c6 'F m g cbg
+
+3I
+
+8
+
+c6
+
+'6
+
+g
+
+cb
+
+c6
+
+cb
+
+c6
+
+'b
+
+m
+
+c6I
+
+g c6
+CCI N N
+
+g
+
+c6 m g mI
+N N Kl cb cb
+
+mI I I I
+' wlaco
+
+I
+l
+
+I
+c oo l
+
+Notes: For the purposes of this graph, each of the existing 87 tiers are represented by their associated USD retail price.
+Apple Confidential -- Need to Know
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4632. 010
+
+10
+APL-APPSTORE 08825084
+
+Appendix 3: USD Equivalents
+
+Tier FXRate Rer Currency- Summary
+
+Noah America USD
+guroire EUR
+OKK SEK NOK CHF
+Australia, New Zealand, and Jalran AUD NZO
+Greater China CNY HKD TWO
+Asia-Pacific IDR
+THB
+Restof World RUB
+INR
+ILS
+5AR
+Min Max Average
+
+Q.27 OA6 Q.S4
+0.47 0.32 0.29 0.45
+0.22 0.35
+0.23 0.20
+Q.S¹ 0.15 0.38
+
+Tiers(U$0 gqulvatents BeforeTaxes) 10
+
+4.99
+
+24.99
+
+6 9.99 119 . 9 9 999. 9 9
+
+S 8.70
+
+96.83 1067 . 47
+
+2.45
+
+15.72
+
+4 2.9 2
+
+70.11 1033 . 42
+
+74.32 120.7 8 9 29.1 2
+
+7 2.21 127 . 7 7 999. 9 9
+
+1.68
+
+5 3.35 106 . 5 7 958. 9 0
+
+21.67
+
+S2.8$ 124. 7 4 105 9 . 12
+
+3.17
+
+21.59
+
+45.59 129 . 5 7 105 4 .77
+
+4.67
+
+24.28
+
+69.11 115 . $ 0 102 7 . 25
+
+52.36
+
+85.08 1 0¹ 7. 2 7
+
+4 0.52
+
+69.$9
+
+939. 8 2
+
+2.72
+
+54A2 10$. 8 4 107 7 . SS
+
+1.49
+
+13.$9
+
+S QA6 116 . 1 6 970. 1 8
+
+4.89
+
+30.65
+
+62.85 125 . 9 7 101 5 .97
+
+3 Q.61 116 . 0 1 915. 2 1
+
+0.95
+
+20.47
+
+S7.16 117 . 3 3 110 0 . 60
+
+21.69
+
+5 7,$7
+
+94 05 1077 , 41
+
+1.65
+
+12.83
+
+2 6.$0 100 . 5 9 975. 1 6
+
+1.5 2
+5.17 2.45 2,40
+0.95 S.17 2.$$
+
+12.5 5 11.86 11.19 25.97
+23A6
+11.19 30.65 20.15
+
+6 5.1 9 3 5.61 4 4A B 3 9.1 6 S 1. 9 $ 6 1.26 5 9.99
+2 $.80 7 4.3 2 5 3.1 9
+
+130 . 5 3 105 . 1 3 103. 7 8 111 . 8 9 116. 9 5 133. ¹ 0 130 . 6 5
+
+113 9 . 49 983. 5 5 103 6 . 32 111 8 .92 103 9 . 72 1007 . 35 986. 5 3
+
+69.$9 133 AQ 111 . 1 4
+
+915.2 1 113 9 . 49 102 2 . 44
+
+Apple Confidential -- Need to Know
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4632. 01 1
+
+APL-APPSTORE 08825085
+
+

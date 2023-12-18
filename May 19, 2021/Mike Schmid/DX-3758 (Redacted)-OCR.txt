@@ -1,0 +1,72 @@
+Subject: Re: 11.10.1 iOS Build Submission From: oHaseeb Malik o
+
+Received(Date): Thu, 31 Oct 2019 18:19:32+0000 Tot "Mark Grifnm n
+
+Cc: uNat Parkinson" release"
+
+, aAlec Shobin"
+
+United States District Coun
+
+sl
+
+tconttcrn District of California
+
+CaseNo. 4:20-cv4564OYGR
+
+Case TitleE tc 6arrras,faro n. 2 la, lac.
+
+Exhibit No.DX-3758
+
+Date Entered
+
+saon V. Sscsa (1ua
+
+uv:
+
+. Drsstr clos
+
+,"Mike Schmid" nfn-
+,"Paul Ramsbottoma
+
+Date: Th u, 31 Oct 2019 18:19:32+0000
+
+Good feedback Mark. We will be more descriptive going forward and outline what the issues are.
+
+Thanks.
+
+On Thu, Oct 31, 2019 at 2:03 PM Mark Grinun
+
+wrote:
+
+Thanks Nat. We' ve had "emergency" patches with "critical" fixes every week for quite some time. I worry that these words are losing their meaning. What do you think? Is there a better way to express the priority of each submission to us? I'm open to suggestions - just want to make sure we can correctly adjust priority on our side.
+
+-Mark
+
+On Oct 30, 2019, at I:08 PM, Nat Parkinson
+
+wrote:
+
+Hey Everyone.
+I uploaded an 11.10.1 IOS build earlier today as we' re trying to do an emergency patch to address severalcfiticalissues. The plan would bo to release this build as soon as possible.
+It is expected this build will not require downtime and current plan is not to force players onto this version immediately.
+I' ll update here if anything changes.
+Thanks, -Nat
+
+Haseeb Malik Marketing Director
+
+CONFIDENTIAL
+
+DX-3758.001
+
+APL-EG 04007500
+
+Mobile Publishing ~ Epic Games
+
+CONFIDENTIAL
+
+DX-3758. 002
+
+APL-EG 04997567
+
+

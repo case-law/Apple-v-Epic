@@ -1,0 +1,2095 @@
+CONFIDENTIAL
+PLAYSTATION GLOBAL DEVELOPER drP UBLISHER AGREEME N T
+
+United StatesDistrict Coun
+
+el
+
+Northcm District of California
+
+p
+
+CaseNo. 4:20-cv-05640-YGR
+CaseTitlegpicffcmcs, icc. a pi c, icc.
+
+h E xhibit NoD. X-3293
+
+Date Entered
+
+Sruar r. Seeds, Clm
+
+sx
+
+Deadly Clerk
+
+PLEASE SCROLL DOW N AND READ THIS AGREEM ENT CAREFULLY. TO BECOME A LICENSED DEVELOPER OR PUBLISHER ON THE PLAYSTATION PLATFORM, YOU MUST AGREE TO THESE TERMS BY CLICKING THE "ACCEPT" BUTTON BELOW. IF YOU DO NOT AGREE TO THESE T ERMS, YOU WILL NOT BE ABLE TO PROCEED. THIS IS A LEGALLY BINDING AGREEM E N T . THE PERSON ACCEPTING THIS AGREEM EN T ON DEVELOPER'S OR PUBLISHER'S BEHALF REPRESENTS THAT HE OR SHE IS AUTHORIZED TO BIND DEVELOPER OR PUBLISHER TO THJS AGREEMENT.
+
+Tlus PlsyStation Global Developer snd Publisher Agreement ("GDPA"), effective on the Effective Date), is entemd into by Sony Computer Eraertsinment, inc ("SCEI'*). s Jspsttese company vrith offices at 1-7-l Kossn, Minstodku,
+Tokyo IOS4)075, Japan, Sony Computer Entertainment America LLC ("SCEA") s Delswsm limited liability company with offices at 2207 Bridgepointe Parkway, Ssn Mateo, CA 94404, snd Sony Computer Entertainment Eumpe Ltd. (oSCEEo), an English company with offices at 10 Great Marlborough Street. London WJF 7LP, UK, on the one hand (SCEI. SCEA and SCEE each an "SCE Company,'* and collectively. "'SCE"), and the entity identified in your PlayStation partner registration (" Publisher" ). on the other hand.
+
+SCE and its Affiliates design and develop certain core technologv relating to its Systems, aml operate proprietmy network services tluough PSN. including PlayStation Now.
+Publisher desires to be granted a nonexclusive license to develop. publish, have manufactured. market, advertise. distribute or sell PlayStation Compattl>le Pmducts in accordance with the provisions of this GDPA, and SCE is willing, in accordance srith the terms and subject to the conditions of this GDPA, to grant Pubhsher such a license.
+
+SCE and Publislmr agm as follows:
+
+1. a~ u s e o o ea dr dl rl ' n e rd d rl d l s a d e l .
+
+SCE Com an Authori and Re onsib Eac h SCE Company enters into this GDPA individually and binds itself to and benefits fiom the terrss of this GDPA only to tbc extern that such terms relate to the exercise of the rights and obligations under this GDPA taking place in that SCE Company's Territory, or otherwise directly relate to that SCE Company or its Temtory. Each SCE Company shall have no liability outside cf its Territory, shall neither be jointly nor severally liable with the other SCE Corspanies in their Territorie, and nothing contained in this GDPA shall be deemedto make an SCE Company liable with mspect to any activities, demands, obligations, covenants, claims or causes of action outside of that SCE
+Company's Tertitory. R eferemes in this GDPA to "SCE" shalt mean "each SCE Company for its respective Territory only," except where thc context clearly tequtms othersntse. Each SCE Company is authorized by each other SCE Company to presem and execute this GDPA on behalf of each other SCE Company, snd to bind each other SCE Company, as set forth in this Secrion 2. SCE shag be entitled to
+modify or expand the Tenitory of an SCE Company upon mssonable notice to Publisher, btcluding by updating the Guidelines.
+
+3.
+
+Condi tional License Grant. SCE yenta io Publisher, for the Term, s nonexclusive, non-transferable
+
+license, without the right to sublicense (except as specificafiy provided in this GDPA), as follows:
+
+3.1 to u se the SCE Materials solely to dcvclop PlayStation Compatible Products;
+
+3.2 to p u blish, distribute, supply, sell, rent, market, advertise snd pmrnote Digiadly Delivered Pmducts to end-usess, thmugh each applicable SCE Company (or its nominated Afftliate) tluough
+
+solar colspubv Eatcltauuucnt pi.AYsTA110N GDpA vctaics t.oz(ctietdthroush)
+
+CONHDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293.001
+
+EPIC 02070010
+
+PSN, and t o p r o vide PlayStation Compatible Products to o t her L i censed Publishers for exploitation under a Licensed Publisher Agreement;
+
+3.3 wher e P ublisher has exercised its rights under Section 3.2 (or where the requirement of such exercise is expressly waived by the applicable SCE Company), to have the equivalent Physical Media Products manufactured by Designated Manufacturing Facilities according to those facilities' terms;
+
+3.4 to pu b l i sh, distribute, supply, sell, market, advertise and promote Physical Media Products directly to end-users or to third parties for distribution to end-users;
+
+3.5 to us et h e L i censed Trademarks in connection with the manufacturing, packaging, marketing, advertising, promotion, sale and distribution of Licensed Products; and
+
+3.6 to su b l i cense end-users the right to use Licensed Products for personal, noncommercial purposes in conjunction with the applicable Systems only.
+
+Com liance with Guidelines. The licenses granted to Publisher are expressly conditioned on Publisher' s compliance, throughout the Term, with this GDPA's terms, with all Guidelines applicable in the relevant Territories, and with all technical specifications that any Designated Manufacturing Facility issues. Subject to the remainder of this Section 4, SCE may remove any Digitally Delivered Product from P SN (in whole or in part) that does not conform to the Guidelines, notwithstanding any approval given to such product pursuant to Section 6.3. Publisher shall be given reasonable notice of modification or additions to the Guidelines. T o the extent that Guidelines change after any PlayStation Compatible Product or related materials are approved by SCE pursuant to Section 6.3, Publisher is required to implement any such revised Guidelines only in subsequent orders, patches or re-releases of the relevant Physical Media Products, or subsequent publications of relevant Digitally Delivered Products or other PlayStation Compatible Products, unless otherwise advised by SCE (e.g., for System security reasons or compliance with law or government order). P u blisher shall not be required to recall or destroy previously manufactured Physical Media Products unless such Physical Media Products did not comply with the standards, requirements and conditions set forth in the Guidelines at the time they were made, or unless explicitly required to do so in writing by SCE.
+
+Other Limitations on Licensed Ri hts
+
+5.1
+
+Limitations on use of Development Tools. The development license granted in this GDPA is
+
+limited to development and testing of PlayStation Compatible Products, in formats SCE designates,
+
+and any other use of the SCE Materials, direct or indirect, is strictly prohibited. Publisher shall not
+
+use, modify, sublicense, distribute, create derivative works from, or provide to third parhes, the
+
+SCE Materials other than as expressly permitted in this GDPA or the Guidelines. Publisher shall
+
+not make available to any third party any tools developed or derived from the study of the
+
+Development Tools without SCE's express prior written consent. Without limiting the generality
+
+of the foregoing, Publisher will not permit the use of the SCE Materials in connection with the
+
+emulation of Licensed Products, to develop or test products for any third party emulator of any
+
+System, or for any third party hardware that infringes the SCE Intellectual Property Rights (e.g.,
+
+knock-off PlayStation systems). Publisher will not use or permit the use of any of the SCE
+
+Materials in connection with the development of any software, content or service for any computer
+
+hardware or software system, except as expressly permitted under this GDPA. P u b lisher is
+
+authorized to copy the libraries contained within the Development Tools solely to the extent
+
+necessary to integrate the libraries into PlayStation Compatible Products; to copy the Software
+
+Tools to an internal secure repository accessible by authorized personnel; and to make one copy of
+
+the Software Tools per Development Site solely for archival, legal or back up purposes. Publisher
+
+m ust c omply w i t h a l l pr o g ramming p r o cedures, r equirements, g uidelines an d o t h er
+
+recommendations in the Guidelines or communicated by SCE. Specifically with respect to the
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 002
+
+EPIC 02070811
+
+System emulator software, Publisher shall not bypass the System kernel and shall not transmit programming instructions directly to the registers or addresses located in: (i) areas of RAM that are used by the System kernel; or (ii) other System hardware devices (collectively, "System Bypass Areas" ) except with SCE's express prior written consent or to the extent necessary to comply with written instructions in the Documentation. As a prerequisite to requesting SCE's consent, Publisher must comply with SCE's procedures, including submission of a written application accompanied by a detailed specification of Publisher's proposal. Publisher shall not develop any software or tool to circumvent the System Bypass Areas. Publisher shall not make any addition, alteration or improvement to the Development Tools that contravenes or is inconsistent with the Guidelines (including any programming guidelines set forth in the Documentation), or that may compromise the security or integrity of any System, Development Tools, or PSN. Publisher bears all risks arising from incompatibility of its PlayStation Compatible Products and any System resulting from use of Publisher-created tools.
+
+5.2
+
+Reverse Engineering Prohibited. Except where such restriction is prohibited by applicable law,
+
+Publisher wil l n o t d i r ectly o r i n d i rectly d i sassemble, decrypt, electronically scan, peel
+
+semiconductor components from, decompile, or reverse engineer in any manner, or attempt to
+
+reverse engineer or derive any source code from, the Development Tools, or permit, assist or
+
+encourage any third party to do so or acquire or use any materials from any third party that does so.
+
+Publisher may study the performance, design and operation of the Development Tools solely for
+
+the limited purposes of developing and testing PlayStation Compatible Products, or to develop
+
+tools to a s sist Publisher wit h t h e d e velopment and t esting o f P l ayStation Compatible
+
+Products. SCE reserves the right to require Publisher to furnish evidence satisfactory to SCE that
+
+Publisher has complied with this Section 5.2.
+
+5.3
+
+Limitations on Licensed Products. Unless expressly approved in writing by an SCE Company,
+
+Publisher will not:
+
+5.3.1 publ i s h a Licensed Product previously published by another Licensed Publisher in the same Territory for the same System; or
+
+5.3.2
+
+sub m i t for approval as a Licensed Product, under Section 6.3 or otherwise, any non-game product or product which contains significant elements of, or is hybrid with, an audio or video product.
+
+Where an SCE Company consents to any such proposed publication, this GDPA's terms apply, unless otherwise agreed in writing.
+
+5.4
+
+Limitations Regarding Ownership and Protection of SCE Materials and SCE Intellectual
+
+Property Rights. All rights with respect to the SCE Materials and the Systems, including the SCE
+
+Intellectual Property Rights, are the exclusive property of SCE. N othing herein gives Publisher
+
+any right, title or interest in or to the SCE Materials or the Systems, other than the non-exclusive
+
+licenses provided in this GDPA. Publisher shall not contest, impair, or dilute (or assist any third
+
+party in doing so) any of SCE's rights, title or interests in or to the SCE Materials, the Systems or
+
+the SCE Intellectual Property Rights. Publisher shall not (i) apply for, seek to obtain or register
+
+any trademark in its own name or in any other person's name, or use or obtain rights to use Internet
+
+domain names or addresses, that are identical, similar to or likely to be confused with any of the
+
+Licensed Trademarks or any other SCE trademarks or (ii) challenge or attack any SCE Intellectual
+
+Property Rights in any part of the SCE Materials or the Systems. Publisher shall not patent
+
+anything created or derived from the SCE Materials. Publisher shall take all steps as SCE may
+
+reasonably require for the protection and maintenance of the SCE Intellectual Property Rights,
+
+including executing licenses or assisting SCE in obtaining registrations. All goodwill associated
+
+with the L icensed Trademarks, including any goodwill generated or arising by o r t h rough
+
+Publisher's or its subcontractors' or sublicensees' activities under this GDPA, accrues to the
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 003
+
+EPIC 02070812
+
+benefit of and belongs exclusively to the SCE Company that owns or controls the Licensed Trademark in its Territory. The Licensed Trademarks may be modified, supplemented or amended by SCE at any time. N o thing contained in this GDPA grants Publisher the right to use the trademark "SONY in any manner or for any purpose without SCE's prior written consent. Where it is not possible under applicable law to prevent Publisher from challenging the validity of the SCE Intellectual Property Rights, nothing in this Section 5.4 shall prevent Publisher from doing so.
+
+5.5
+
+Reservation of Rights. Th is GDPA does not grant Publisher any right or license except as
+
+expressly authorized by and in strict compliance with this GDPA's terms and conditions. No right
+
+or license is to be implied by or inferred from any provision of this GDPA or from the parties'
+
+conduct. Subject only to the express rights of Publisher under this GDPA, all rights to the SCE
+
+Materials and the SCE Intellectual Property Rights are reserved to SCE.
+
+5.6
+
+Acknowledgment of Publisher's Ownership Rights. Separate and apart from the SCE Materials
+
+and other rights licensed to Publisher by SCE and to SCE by Publisher under this GDPA, as
+
+between Publisher and SCE, Publisher retains all rights, title and interest in and to the Publisher
+
+Property, Product Proposals, and Product Information, including Publisher Intellectual Property
+
+Rights therein, as well as Publisher's rights in any source code and other underlying material such
+
+as artwork and music (but specifically excluding the Licensed Trademarks and the Software Tools
+
+or any derivatives of those trademarks or tools), and any names used as titles for PlayStation
+
+Compatible Products and other trademarks used by Publisher. Nothing in this GDPA shall restrict
+
+the right of Publisher to: (i) develop, distribute or transmit products incorporating the Publisher
+
+Property for any hardware platform or service other than the Systems or related services, provided
+
+that the Publisher Property and underlying material do not contain or were not developed through
+
+use of or in reliance on the SCE Materials or the SCE Intellectual Property Rights, or (ii) use
+
+Printed Materials or Advertising Materials for any hardware platform or service other than the
+
+Systems or related services, provided that the Printed Materials or Advernsing Materials do not
+
+contain any Licensed Trademarks.
+
+Develo ment of Pla Station Com atible Products Product Assessment and al i t A s surance
+
+6.1
+
+Right to Develop. Pu rsuant to Section 3 and subject to payment of any applicable fees, SCE
+
+grants to Publisher the right to place orders for Hardware Tools pursuant to Section 7, and a nonexclusive, non-transferrable license to use Software Tools, for the sole purpose of developing and
+
+testing PlayStation Compatible Products. Each PlayStation Compatible Product developed using,
+
+incorporating or with reference to the Development Tools must be expressly authorized by SCE. SCE's authorization may require, at SCE's discretion, consent by Publisher to additional terms, or
+
+a requirement that the PlayStation Compatible Product be subject to compatibility, assessment and
+
+quality assurance testing by SCE.
+
+6.2
+
+Developer Support Website. Subject to the terms of this GDPA, SCE will grant Publisher access
+
+to relevant portions of the Developer Website to facilitate the dissemination of the Development
+
+Tools and other materials and information.
+
+6.3
+
+Assessment and Quality Assurance of PlayStation Compatible Products. Pu b lisher will
+
+comply with the requirements and related process for assessment and format quality assurance of
+
+PlayStation Compatible Products and Advertising Materials, on a product-by-product basis, as
+
+specified in the Guidelines. All Licensed Products must successfully pass SCE's assessment and
+
+format quality assurance testing before distribution. S C E m a y r e quire other PlayStation
+
+Compatible Products to undergo assessment and format quality assurance testing, in its sole
+
+discretion. SC E may w ithhold approval of a P l ayStation Compatible Product that does not
+
+conform to the Guidelines, as determined by SCE in its sole discretion. O nly upon and not prior
+
+to SCE approval, Physical Media Products may be ordered from a Designated Manufacturing
+
+Facility, and Digitally Delivered Products may be placed on PSN.
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 004
+
+EPIC 02070813
+
+6.4
+
+Authentication. Publisher will use reasonable efforts to protect Licensed Products and any other
+
+PlayStation Compatible Products that include Software Tools from and against illegal reproduction
+
+or copying by third parnes. SCE may use on Licensed Products, or require Publisher to use on
+
+Licensed Products, an authentication or a uthorization system to b e p r ovided, licensed or
+
+designated by SCE to authenticate and verify all Licensed Products and units of the System. SCE
+
+may insert serial numbers or reasonable security measures on Licensed Products for security or
+
+authentication purposes.
+
+6.5
+
+Advice and Support. Any advice or support provided by any SCE Company or Affiliate to
+
+Publisher to assist with the development of PlayStation Compatible Products is provided at the
+
+complete discretion of the relevant SCE Company or Af f iliate, which may change, suspend,
+
+remove or disable access to any such advice or support, or impose limits on its use, at any time without incurring liability. Any such advice or support is provided to Publisher on an "AS IS" and "AS AVAILABLE" basis and SCE shall have no liability whatsoever to Publisher in respect of
+
+such support or advice. Any Publisher Property, or other software, materials or information
+
+provided by Publisher to any SCE Company or Affiliate in connection with obtaining advice and support is provided at Publisher's own risk (but without prejudice to SCE's obligations under
+
+Section 20.6).
+
+6.6
+
+Third Party Tools. If Publisher uses any third-party tools to develop PlayStation Compatible
+
+Products or any portion thereof, Publisher shall be responsible at Publisher's sole risk and expense
+
+for ensuring that it has obtained all necessary licenses for its use.
+
+6.7
+
+Publisher Compliance, Responsibility, Warnings. Pu b l isher bears sole responsibility and
+
+liability fo r P l ayStation Compatible Product operation, features, capabilities, user-generated
+
+content, and Online Activity, including: (i) Online Activity between territories using different
+
+television standards, whether PAL, N T SC, o r a nother standard; (ii) any c ross-functionality
+
+between PlayStation Compatible Products on different Systems or software applications operating
+
+on any device other than the Systems that may interact with PlayStation Compatible Products; (iii)
+
+the granting of the right to end-users, or preventing end-users from exercising the ability, to copy,
+
+modify, distribute, perform, display and share content (including between the Territories)
+
+contained in or created from PlayStation Compatible Products ("IIser Content" ), and (iv) the
+
+suitability or adequacy of health and safety or other warnings or notices that may be appropriate
+
+for PlayStation Compatible Products. SCE makes no representation regarding the suitability or
+
+adequacy of any System-generated warning or any warning provided, suggested, or required in the
+
+Guidelines, Packaging, manual or other templates, or elsewhere by any SCE Company or Affiliate.
+
+6.8
+
+Peripherals and Compatibility of Licensed Products. Publisher will not (directly, or indirectly
+
+through any third party) develop or distribute any Peripheral without the prior express written
+
+consent of SCE. Consent is within SCE's sole discretion, and may be subject to a right to test or
+
+evaluate the Peripheral and subject to other terms presented by SCE. P u b l isher is solely
+
+responsible for the functionality and operational compatibility of it s L i censed Products with
+
+Peripherals that are not distributed by SCE. SCE has no responsibility to test or evaluate the
+
+compatibility of Publisher's Licensed Products with Peripherals that are not distributed by SCE.
+
+SCE is not responsible for any actual, incidental or consequential damages that may result from
+
+any use or inability to use any Peripheral with any PlayStation Compatible Product or System. If
+
+SCE elects, in its sole discretion, to test or evaluate the compatibility of Publisher's Licensed
+
+Products with any Peripheral then, (i) such testing or evaluation will not obligate SCE to test or
+
+evaluate any other Peripheral; (ii) such testing or evaluation will not shift to SCE any responsibility
+
+to ensure or assess the functionality or compatibility of any Peripheral or require SCE to report any
+
+Peripheral incompatibilities; (iii) SCE will not be deemed to have endorsed any Peripheral solely
+
+by reason of such testing or evaluation; and (iv) Publisher will provide SCE, at no additional cost
+
+or expense to SCE, with a reasonable number of samples of any Peripherals for testing and review
+
+in a timely manner. If any PlayStation Compatible Product fails to perform to SCE's satisfaction
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 005
+
+EPIC 02070814
+
+with any Peripheral that the PlayStation Compatible Product is intended to support, SCE may require that Publisher modify or remove such pornons of the Publisher Property as are intended to support the affected third-party Peripheral.
+
+6.9
+
+Publisher's Additional Quality Assurance Obligations. If SCE becomes aware of any material
+
+defect (such materiality to b e determined by SCE i n i t s sole discretion) with respect to a
+
+PlayStation Compatible Product, or if SCE becomes aware of any improper use of the Licensed
+
+Trademarks or SCE Materials, then Publisher shall, at no cost to SCE, promptly correct that
+
+material defect or improper use, to SCE's commercially reasonable satisfaction, which may include,
+
+in SCE's discretion, the recall and re-release of units of an affected PlayStation Compatible
+
+Product distributed on physical media, or publication of an update, upgrade or technical fix to an
+
+affected PlayStation Compatible Product. If any PlayStation Compatible Product creates any risk
+
+of loss or damage to any property or injury to any person, Publisher shall immediately take
+
+effective steps, at Publisher's sole liability and expense, to recall and remove that PlayStation
+
+Compatible Product from any affected channels of distribution; provided, however, that if
+
+Publisher is not acting as the distributor or seller for the PlayStation Compatible Product its
+
+obligation shall be to use its best efforts to arrange removal of all affected units of the PlayStation
+
+Compatible Product from the relevant distribution channels. Publisher shall provide all end-user
+
+support for PlayStation Compatible Products in an efficient manner. SCE expressly disclaims any
+
+obligations or liability to p r ovide end-user support with respect to PlayStation Compatible
+
+Products.
+
+6.10 Rating Requirements. No PlayStation Compatible Product may be published, sold, distributed, marketed, advertised or promoted unless it bears a consumer advisory age rating and product descriptors, either as required by local law or as issued by, and following the rating display requirements of, a consumer advisory ratings system designated by SCE. Publisher alone bears all costs incurred in connection with obtaining any rating. No PlayStation Compatible Product and related Printed Materials or Advernsing Materials may bear more than one consumer advisory rating in any Territory. Any digitally delivered PlayStation Compatible Product that can be used with or directly relates to another existing PlayStation Compatible Product must not bear (or must not contain any content which, if rated, would attract) a higher age rating than the rating issued to that other PlayStation Compatible Product, and, save in the case of an add-on to a previouslypublished PlayStation Compatible Product, shall not bear a rating that is lower than the rating issue to that other PlayStation Compatible Product, unless SCE waives these requirements in writing. Publisher shall comply with any other policies of SCE on the age rating, age gating and labeling of PlayStation Compatible Products intended to protect children as may be provided by SCE to Publisher.
+
+Develo ment Tools
+
+7.1
+
+Acquisition of Development Tools. For the purposes of this Section 7, "the applicable SCE
+
+Company" shall mean the SCE Company in the Territory in which the Development Tools are to
+
+be used or, at that SCE Company's direction, another SCE Company. T h e applicable SCE
+
+Company may sell or loan Development Tools to Publisher in its sole discretion, in accordance
+
+with this Section 7. For the avoidance of doubt, any Software Tools included with or provided in
+
+relation to Hardware Tools are licensed, not sold or loaned, to Publisher pursuant to the terms set
+
+fordi in Sections 3, 5 and 6. Title to Software Tools does not pass to Publisher upon purchase or
+
+loan of the Hardware Tools. T h e nontransferable license of the Software Tools within the
+
+Hardware Tools may act as a restriction or prohibition against the resale of the Hardware Tools.
+
+The purchase price or loan fee for Development Tools, and the payment currency, is set forth on
+
+the Developer Website, or shall be otherwise notified by the applicable SCE Company to Publisher.
+
+Unless otherwise agreed, Publisher shall pay for the Development Tools in full prior to delivery or
+
+download, and title to Development Tools shall remain with the applicable SCE Company until it
+
+has received full payment (save in the case of the Software Tools where title does not pass to
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 006
+
+EPIC 02070815
+
+Publisher at any time). If Publisher collects the Development Tools and transfers them outside the country of collection, Publisher agrees to provide the applicable SCE Company with the relevant transport proofs required by the relevant taxation authorities to allow the supply by SCE to be exempt from VAT. T h e applicable SCE Company reserves the right to either: (i) charge VAT until such documents are provided at which time the VAT will be refunded; or (ii) subsequently charge VAT if those documents are not provided within three months of collection.
+
+7.2
+
+Credit. If the applicable SCE Company extends credit terms to Publisher or facilitates third-party
+
+financing for Publisher, until Publisher makes payment in full for all items so financed, Publisher
+
+(i) grants to that SCE Company, or its designee, a first position purchase money security interest in each Hardware Tool and in the proceeds of disposition of any Hardware Tool and (ii) shall not sell, hypothecate or encumber any such Hardware Tool. P ublisher shall execute and deliver to the
+
+applicable SCE Company or its designee any documents the SCE Company needs to perfect the
+
+security interest, and agrees that applicable SCE Company or it s designee may file t hose
+
+documents in its discretion.
+
+7.3
+
+Orders. Orders for Development Tools shall be submitted via the Developer Website or as
+
+otherwise notified by the applicable SCE Company. The applicable SCE Company may accept or
+
+reject, in its discretion, any Development Tools order, and does not warrant that Development
+
+Tools shall be available when ordered.
+
+7.4
+
+Publisher Terms. Any purchase order or other documentation issued by Publisher, purporting in
+
+any way to relate to the purchase, loan or license of Development Tools, does not amend or modify
+
+this GDPA or any terms presented by the applicable SCE Company in connection with the order of
+
+Development Tools, except as expressly agreed in writing by the applicable SCE Company.
+
+7.5
+
+Delivery. Upon acceptance of Publisher's order for Development Tools, and on payment of any
+
+applicable purchase or loan fee for the Development Tools, the applicable SCE Company will ship
+
+the loaned or purchased Development Tools, when available, to the Development Site. Publisher
+
+bears all expenses associated with delivery of the Development Tools, including insurance costs.
+
+Risk of loss or damage in transit to the Development Tools vests in Publisher immediately upon
+
+the applicable SCE Company's delivery to the carrier of its choice and remains with Publisher until that SCE Company receives return of the Development Tools. Publisher shall provide a signed
+
+acknowledgement of receipt in such form as shall be specified by the applicable SCE Company.
+
+The applicable SCE Company will make Software Tools, excluding Firmware but including Firmware updates, available at the Developer Website as set fordi in Section 6.2, or such other
+
+method aschosen by that SCE Company.
+
+7.6
+
+Deletion of Publisher Code. Prior to Publisher shipping any Development Tool to the applicable
+
+SCE Company either pursuant to an announced upgrade "swap" program, or pursuant to the
+
+warranty provisions set fordi below, or for any other reason, Publisher shall (i) securely delete
+
+Publisher's applications software from the hard drive and all other storage media contained in the
+
+Hardware Tool and (ii) execute any documentation required by the applicable SCE Company
+
+certifying such deletion.
+
+7.7
+
+No Refunds. All Development Tool purchases and loans made under this GDPA are final. In no
+
+event shall the applicable SCE Company be obligated to refund all or any portionofthepurchase
+
+price or loan fee for the Development Tools.
+
+7.8
+
+Care and Maintenance of Development Tools. Publisher shall be solely responsible for the
+
+i nstallation and administration of H a rdware Tools. Publisher shall: (i ) k eep and use t he
+
+Development Tools securely and only at the Development Site(s) notified to the applicable SCE
+
+Company or specified on the Developer Website, or other location approved in advance in writing
+
+by the applicable SCE Company; (ii) allow access to and use of the Development Tools only to
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 007
+
+EPIC 02070816
+
+persons whose duties justify the need for access and use in the exercise of the license granted under this GDPA, and who are authorized under Section 20.2.2 to have access to the SCE Materials; (iii) designate and authorize an individual to act as the applicable SCE Company's contact with respect to Development Tools and, if Publisher wishes to designate a new designee, provide the applicable SCE Company with written notice according to the procedures set forth on the Developer Website or designated by the applicable SCE Company; (iv) preserve any proprietary rights or other notices placed on the Development Tools by SCE or its Affiliates and place all such notices on any copies made as permitted by this GDPA; (v) keep Development Tools in good and serviceable condition; (vi) ensure full compliance with all instructions relating to the maintenance, security or operation of Development Tools; (vii) maintain and service with all due care the Development Tools at Publisher's expense according to SCE's reasonable, written instructions; (viii) take all necessary further steps to ensure that Publisher does not render Development Tools unsafe or a risk to the health or safety of any person or property; (ix) inform the applicable SCE Company immediately of an y b u gs, errors, failure or b reakdown in Development Tools, however caused; (x) inform the applicable SCE Company immediately of any unauthorized access to or use of the Developer Website and cooperate with that SCE Company to take all actions chosen by that SCE Company to address any unauthorized access or use, including taking any actions to prevent the recurrence of unauthorized use of or access to the Developer Website; and (xi) inform the applicable SCE Company immediately of any suspected, potential or actual loss, theft, breach of security or other exposure involving the Development Tools, report any suspected or actual loss or theft to the police and obtain a police incident number, use best efforts to recover such Development Tools and comply with any corrective action specified by the applicable SCE Company to recover the Development Tools and to prevent any re-occurrence of any loss, theft, breach of security or other exposure involving the Development Tools and Publisher appoints the applicable SCE Company as its attorney-in-fact (in territories where such appointment is legally possible), or otherwise gives that SCE Company its authority, to conduct or assist in the recovery of lost, stolen or missing Development Tools. A breach of Sections 7.8(i) or (ii) constitutes a material breach of this GDPA not capable of remedy.
+
+7.9
+
+Inspection. Upon providing Publisher with reasonable, prior notice, the applicable SCE Company
+
+may inspect the Development Site at any time during Publisher's normal business hours to verify
+
+Publisher's compliance with this GDPA. That SCE Company shall not conduct an inspection in a
+
+manner that disrupts Publisher's business activities. P u b lisher shall also provide that SCE Company with an inventory report of Development Tools in its possession within seven days of SCE's request, including the serial number for each Development Tool and its current physical
+
+location.
+
+7.10 Failure or breakdown. In the event any failure or breakdown of any of the Development Tools is notified to the applicable SCE Company pursuant to Section 7.8, that SCE Company shall, at its sole election, either repair or replace the Development Tools at no cost to Publisher provided: (i) such notice shall have been given within six months following the date of the delivery of the Development Tools in question or any component part(s) of such Development Tools; (ii) the failure or breakdown is due to defects in materials and/or workmanship which materially diminish or impair the functionality of the Development Tools; and (iii) the failure or breakdown is not attributable in whole or i n p art to Publisher's negligence or misuse. A n y o t her repairs or replacements are provided at the applicable SCE Company's discretion. Nothing in this GDPA shall impose an obligation on SCE to repair or replace any Development Tools that it considers
+obsolete or beyond economical repair.
+
+7.11 Upgrades. The applicable SCE Company may advise Publisher (either in writing or via t he Developer Website) if and when during the Term that SCE Company makes generally available to Licensed Developers or Licensed Publishers, any revised, updated, modified or enhanced version of any component of the Development Tools. P u blisher shall be entitled or, at that SCE Company's option, shall be required, to use such new version. The applicable SCE Company may,
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 008
+
+EPIC 02070817
+
+upon delivery to Publisher of these Development Tools, require Publisher to return to that SCE Company the Development Tools previously in Publisher's possession.
+7.12 Loan o f H a r d ware Tools.The applicable SCE Company may, in its discretion, loan Hardware Tools to Publisher.
+
+7.12.1
+
+Te Termi n a tion and ReturnT. he term of each applicable loan commences and ends on the dates specified by the applicable SCE Company for each Hardware Tool unit or component. The SCE Company may terminate the loan without cause upon 30-days' notice to Publisher, or immediately if Publisher breaches any obligation in this GDPA. Upon termination: (i) all r i ghts granted to Publisher revert to the applicable SCE Company; (ii) Publisher shall cease and desist from furrier use of the Development Tools; and (iii) Publisher shall immediately return the loaned Development Tools, including any other SCE Materials, to the applicable SCE Company at Publisher's cost. Publisher shall be responsible for any customs formalities or duties arising in connection with any such returns. If the loaning SCE Company reasonably determines Publisher failed to comply with a provision in this GDPA, it may demand immediate return of the loaned Hardware Tools and all Software Tools, and Publisher shall comply within five business days. If Publisher fails to return any Development Tools, and the applicable SCE Company resorts to legal means to recover the same, then Publisher shall pay all of that SCE Company's expenses, including the replacement value of the loaned Development Tools and SCE's reasonable attorney's fees.
+
+7.12.2
+
+Ri s k of L o ss.If any Hardware Tools are lost, stolen, damaged, destroyed or copied, Publisher shall pay the applicable SCE Company the replacement value of the Hardware Tools, as set fordi in the Developer Website or as specified by the applicable SCE Company, in addition to fines, penalties, or any remedy that the applicable SCE Company may have at law or in equity. Publisher shall execute any documents and take all actions that SCE reasonably requests to protect SCE's right, title and interest to the Hardware Tools.
+
+7.12.3
+
+including all Intellectual Property Rights. Publisher shall not sell, lease, license, transfer or dispose of the loaned Hardware Tools, or permit any lien or encumbrance. Publisher shall not do or cause to be done any act or thing in any way impairing or tending to impair SCE's right, title or interest in or to loaned Hardware Tools.
+
+Manufacture and Su I o fP h sical Media Products
+
+8.1
+
+Designated Manufacturing Facilities. To ensure compatibility of Physical Media Products with
+
+the System, consistent quality of the Physical Media Products, and incorporation of anti-piracy
+
+security measures, each SCE Company shall designate and license at least one Designated
+
+Manufacturing Facility to reproduce Physical Media Products. Publisher shall purchase all of its
+
+requirements for Physical Media Products, including demonstration discs and cards, Printed
+
+Materials, Packaging and assembly from a Designated Manufacturing Facility in the Territory in
+
+which they are to be distributed by Publisher under this GDPA, except as expressly set fordi in this
+
+Section 8. Any Designated Manufacturing Facility may enforce the terms of this GDPA that relate
+
+to the manufacture and delivery of Physical Media Products. If law in a Territory prohibits SCE
+
+from requiring Publisher to use only a Designated Manufacturing Facility to manufacture Physical
+
+Media Products, Publisher may have Physical Media Products, including demonstration discs and
+
+cards, manufactured by a third party other than a Designated Manufacturing Facility, but Publisher
+
+may do so only to the extent the law in the Territory requires that Publisher have the right to do so,
+
+and only for Physical Media Products distributed in the Territory with such a prohibition.
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 009
+
+EPIC 02070818
+
+Publisher's use of a third-party manufacturer other than a Designated Manufacturing Facility must otherwise comply with this GDPA, including the obligation to pay a platform charge.
+
+8.2
+
+Creation of Master Media. Us ing a fully-approved, reproducible file containing final Licensed
+
+Product, the applicable SCE Company or the applicable Designated Manufacturing Facility shall
+
+create a reproducible master of the Physical Media Product from which all units of the applicable
+
+Physical Media Product are to be replicated. Publisher shall be responsible for the costs, as
+
+determined by the applicable SCE Company or the applicable Designated Manufacturing Facility,
+
+of producing the reproducible masters of Physical Media Products.
+
+8.3
+
+Orders. Pu b l isher shall issue Purchase Orders to the applicable Designated Manufacturing
+
+Facility, with a copy to the SCE Company in the Territory where the order is placed. No Purchase
+
+Orders will be processed for any Physical Media Product unless that product is approved in
+
+accordance with Section 6, and complies with the Guidelines. All Purchase Orders shall be subject
+
+to approval by the applicable SCE Company, not to be unreasonably withheld, and to acceptance
+
+by the applicable Designated Manufacturing Facility pursuant to the Guidelines. Purchase Orders
+
+issued by Publisher to a Designated Manufacturing Facility for each Licensed Product approved by
+
+the applicable SCE Company shall be non-cancelable and are subject to the terms and conditions
+
+of the Designated Manufacturing Facility. Publisher shall not, directly or indirectly, solicit orders
+
+for or sell any units of Physical Media Products in any situation where Publisher knows or
+
+reasonably should know that any of such Physical Media Products may be exported or resold
+
+outside of the Territory in which they are ordered.
+
+8.4
+
+Manufacture and supply of units. Upon approval of a Licensed Product and associated Printed
+
+Materials pursuant to Section 6, and subject to Sections 8.5 through 8.7, the applicable Designated
+
+Manufacturing Facility will, in accordance with the terms and conditions set fordi in this Section 8,
+
+and at Publisher's request and sole expense (a) manufacture and supply Physical Media Products for and to Publisher; (b) manufacture and supply Publisher's Packaging and Printed Materials; and
+
+(c) assemble the Physical Media Products with the related Printed Materials and Packaging. Publisher shall comply with all Guidelines relating to the production of units of Physical Media
+
+Products. The applicable SCE Company reserves the right to insert or require Publisher to make arrangements for the insertion of certain Printed Materials relating to the System into each unit.
+
+8.5
+
+Manufacture and supply of P r inted M aterials by Designated Manufacturing Facility.
+
+Publisher shall d eliver th e a pplicable SCE-approved Printed M aterials to t h e a p plicable
+
+Designated Manufacturing Facility, at Publisher's sole risk and expense, and the Designated
+
+Manufacturing Facility will manufacture Printed Materials in accordance with this Section 8.
+
+Neither SCE nor any Designated Manufacturing Facility is liable for loss of or damage to Printed
+
+Materials.
+
+8.6
+
+Manufacture of Packaging and Printed Materials by Alternate Source. Subject to the prior,
+
+express, written approval (in its sole discretion) of the SCE Company in the Territory in which the
+
+Physical Media Products are to be distributed by Publisher under this GDPA and the Guidelines, Publisher may elect to be responsible for manufacturing its own Packaging and Printed Materials
+
+(other than artwork which is to be reproduced or displayed on any Physical Media Product, which Publisher will supply to the applicable Designated Manufacturing Facility for incorporation within
+
+the Physical Media Product), at Publisher's sole risk and expense. The applicable SCE Company shall have the right to disapprove any Packaging or Printed Materials that do not comply with the
+
+applicable Guidelines. If Publisher elects to supply its own Packaging or Printed Materials, neither
+
+SCE nor any Designated Manufacturing Facility shall be responsible for any shortage or delays
+
+arising from use of Publisher's own Packaging or Printed Materials.
+
+8.7
+
+Assembly Services by Alternate Source. Subject to the prior, express, written approval (in its
+
+sole discretion) of the SCE Company in the Territory in which the Physical Media Products are to
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 01 0
+
+EPIC 02070819
+
+be distributed by Publisher under this GDPA and the Guidelines, Publisher may procure assembly services from an alternate source. If Publisher elects to be responsible for assembling the Physical Media Products, then the applicable Designated Manufacturing Facility shall ship the component parts of the Physical Media Product to a destination designated by Publisher, at Publisher's sole risk and expense. The applicable SCE Company shall have the right to inspect any assembly facilities that Publisher proposes to use in order to determine if the component parts of the Physical Media Products are being assembled in accordance with SCE's quality standards. The applicable SCE Company may require Publisher to recall any units of any Physical Media Products that fail to comply with the Guidelines. If Publisher elects to use alternate assembly facilities, neither SCE nor any Designated Manufacturing Facility shall be responsible for any shortage or delays or other production issues, including breakage or missing component parts, arising from use of alternate assembly facilities. Publisher shall comply with all applicable labor and employment laws and shall not employ child labor, slave labor or forced labor in connection with the assembly of the Licensed Products, or use any third party that does so.
+
+8.8 Deli v e r y of Physical Media Products.The applicable Designated Manufacturing Facility will deliver Physical Media Products to Publisher at Publisher's sole expense, except where otherwise stated in the Guidelines or agreed in writing by the applicable SCE Company, but does not guarantee delivery by any delivery date stipulated by Publisher. Publisher shall have no right to have completed units o f P h y sical M e di a P r oducts stored at t h e a p p licable Designated Manufacturing Facility after manufacture.
+
+8.9 O wne r s hip of Original Master DiscsN. either SCE nor any Designated Manufacturing Facility has any obligation to release to Publisher any original reproducible masters created under Section 8, or any other in-process materials. These masters and materials are and will remain the sole property of SCE or the Designated Manufacturing Facility (as applicable). Notwithstanding the foregoing, the Publisher Intellectual Property Rights that is contained in these masters or materials are, as between SCE and Publisher, the sole and exclusive property of Publisher or its licensors.
+
+8.10
+
+O t h e r P r oducts. Th is Section 8 shall apply to the manufacture, order, supply and delivery of other non-standard products or Packaging relating to L i censed Products, if any, ordered by Publisher from a Designated Manufacturing Facility, unless otherwise stated in this GDPA or the Guidelines.
+
+Distribution. Di s tribution of any PlayStation Compatible Product is subject to written approval by SCE in its sole discretion. S uch approval may be subject to assessment and testing requirements pursuant to Section 6.3, evaluation of t h e c ommercial aspects of th e PlayStation Compatible Product, and to commercial or other conditions required by SCE (following such evaluation or otherwise), including a requirement that a PlayStation Compatible Product must be distributed through PSN. L icensed Products must be distributed in accordance with Sections 9.1 or 9.2, as applicable.
+
+9.1 Di st r i bution of Ph sical Media Products
+
+9.1.1
+
+For m o f Distribution. Unless expressly approved in writing by the SCE Company in the applicable Territory, Licensed Products distributed physically to end-users shall be in the form of Physical Media Products only. Publisher shall not, directly or indirectly, bundle a Licensed Product with any other Licensed Product or any other content, good or service, without SCE's prior written consent. Where such approval is granted, the terms of this GDPA shall apply to those units.
+
+9.1.2
+
+Di st r i bution Channels. Pu b l isher may use distribution channels for Physical Media Products as Publisher deems appropriate, including the use of third-party distributors, resellers, dealers and sales representatives.
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 01 1
+
+EPIC 02070820
+
+9.1.3
+
+Simultaneous Publishin . Any Physical Media Product must be released by Publisher on the same date as any equivalent Digitally Delivered Product, as determined by SCE under Section 9.2 or as otherwise agreed between the parhes.
+
+9.2 Di st r i bution of Di itall D e livered Products
+
+9.2.1
+
+Distribution Channel for Di itall D e livered Products. Un less expressly approved in writing by all SCE Companies in the relevant Territories, Digitally Delivered Products and any subscriptions or services associated with Licensed Products shall be distributed through PSN only, in accordance with this Section 9. P u b lisher may, however, electronically transmit PlayStation Compatible Products from Development Site to Development Site, or from machine to machine over a computer network, for the sole purpose of facilitating development or testing of PlayStation Compatible Products to be carried out under Section 6, provided that Publisher uses reasonable security measures customary within the high technology industry to reduce the risk of unauthorized interception or retransmission of those transmissions.
+
+9.2.2
+
+PSN. Publisher may offer to sell Digitally Delivered Products and subscriptions or other services related to Licensed Products to the SCE Company in each relevant Territory, or, if SCE chooses to make such option available to Publisher, have that SCE Company sell or rent those products on behalf of Publisher, on the terms of this Section 9 and the Guidelines, or other standard terms SCE may communicate to Licensed Publishers. Publisher grants to SCE the right, which may be exercised by SCE directly or through an Affiliate, on or through PSN, throughout the world, to: (i) install, load, host and reproduce Digitally Delivered Products and Product Information on servers; (ii) resell (including by means of a retail voucher or otherwise), deliver and provide access electronically to and use of Digitally Delivered Products (either alone or as part of a bundle) including by means of reproduction, transmission, digital streaming, broadcast, public performance, public display, public communication, digitally wrapping and repackaging (such rights extending to any product (including its offline manual) published exclusively as a Physical Media Product under a Licensed Publisher Agreement which the parhes agree shall be digitally wrapped or repackaged by SCE for distribution as a Digitally Delivered Product through PSN subject to the terms of this GDPA); (iii) digitally stream Licensed Products to Users via PlayStation Now, and copy and adapt the Licensed Products as necessary for that purpose; (iv) sublicense to Users, for their personal, non-commercial purposes, the right to browse Digitally Delivered Products; and a worldwide, irrevocable and perpetual right to access, download, re-download, store, use and play Digitally Delivered Products, subject to the terms established by SCE under which Digitally Delivered Products are supplied to Users, including in exchange for rental, subscription, bundle or time-based usage fees, and subject to any rental, subscriptions or other usage terms established by SCE; (v) allow Users to re-download and use any Digitally Delivered Product previously downloaded to the same PSN account, without furler charge or obligation; (vi) market, advertise and promote Digitally Delivered
+Products in any media; (vii) use Digitally Delivered Products, AvdertisingMaterial, and
+Product Information, as is reasonable in SCE's judgment, to facilitate Digitally Delivered Product resale on or through PSN; and (viii) make, store and use copies of Digitally Delivered Products and Product Information internally for testing, development, evaluation, quality control, User support, support in the operation of PSN (and any services offered thereunder) and for archiving, administrative, legal and rating board and other compliance purposes.
+
+9.2.3
+
+License to Product Information. Publisher shall provide SCE with Product Information for each Licensed Product for use by SCE in accordance with this Section 9.2.3 and the Guidelines. Publisher grants to SCE, for the Term, a non-exclusive license to use Product
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+12
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293.012
+
+EPIC 02070821
+
+Information to further SCE's resale or other electronic distribution of Digitally Delivered Products. This license includes the following grant of rights to SCE to: (i) use, publish, reproduce, distribute, display, exhibit, transmit and communicate to the public, make available, and publicly perform on or through any media whatsoever Publisher's and its licensors' trademarks, service marks or logos, and Product Information in connection with the marketing or promotion of Digitally Delivered Products on PSN or in connection with any campaign which is primarily aimed at advertising, marketing or promoting PSN, the PlayStation Store, the Systems or the PlayStation brand generally, and; (ii) edit, crop or vignette all such materials as appropriate to comply with technical limitations. The licenses granted in this Section 9.2.3 include a license to use Publisher Intellectual Property Rights as reasonably necessary to exercise the foregoing rights and licenses.
+
+9.2.4
+
+PSN Vouchers. At Publisher's request, SCE may (without obligation) issue PSN voucher codes and printed vouchers displaying such codes for Digitally Delivered Products, subject to agreement with Publisher on Wholesale Price or revenue share, and, where applicable, on payment of SCE's fee for voucher production and supply as stipulated in the Guidelines, for: (i) non-commercial use (including internal use) by Publisher; (ii)
+promotional use by Publisher; or (iii) supply (but not resale) to consumers. SCE may change the fee on reasonable notice. P S N v o uchers issued to consumers may be redeemed in any country of the applicable Territory in which PSN is available.
+
+9.2.5
+
+~No Obli ation. SCE reserves the right, in its sole discretion (utdess otherwise stated), to do any of the following, at any time, without notice to Publisher: (i) operate and manage
+
+PSN; (ii) control the timing, manner, extent and duration of any offer, display, supply,
+
+advertising distribution, delivery, marketing,
+
+and promotion of D i gitally Delivered
+
+Products acting reasonably and in good faith; (iii) distribute, rent, sell, resell or market
+
+any product and service on PSN, including those that compete with Digitally Delivered
+
+Products; (iv) use age gates, filters or other restrictions to accessing Digitally Delivered
+
+Products and Online Activity; (v) acting reasonably and in good faith, commence or
+
+discontinue the marketing, resale, or electronic distribution of any Digitally Delivered
+
+Product; and (vi) suspend or cease PSN's operation, in whole or in part, or suspend or
+
+cancel the offering or supply of any Digitally Delivered Product to a User in accordance
+
+with the ToSUA.
+
+9.2.6
+
+DRM. SCE has no o bligation to u se any digital rights management technology in conjunction with its resale or other electronic distribution of Digitally Delivered Products. If SCE, in its sole discretion, elects to use means to limit the improper use of Digitally Delivered Products, SCE will do so without any liability to Publisher, and Publisher shall support any such efforts.
+
+9.2.7
+
+Product Submission. Pu blisher shall provide Digitally Delivered Products to SCE for supply on or through PSN by submitting to an SCE Company a Digitally Delivered Product pursuant to the process described in the Guidelines or otherwise communicated to Publisher by SCE (each such submission a "Product Submission" ). Ea ch Product Submission must include a true and accurate description of the Digitally Delivered Product, along with complete metadata for the Digitally Delivered Product as specified in the Guidelines or otherwise communicated to Publisher by SCE. Publisher is liable to SCE and Users for inaccurate or misleading (including by omission) product descriptions. There will be no obligation on SCE to supply any Digitally Delivered Product until SCE has accepted the relevant Product Submission (without prejudice to Section 9.2.5(ii)). Each accepted Product Submission is hereby incorporated into and becomes a part of this GDPA. SCE may amend or change the Product Submission process and requirements at any time and will provide reasonable notice to Publisher of those changes. If a change to the Product Submission process or requirements requires additional information from
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+13
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 01 3
+
+EPIC 02070822
+
+Publisher, Publisher shall promptly provide that information to SCE. Publisher shall follow the Product Submission process that is current at the time Publisher submits Digitally Delivered Products. Any changes that Publisher wishes to make to a Product Submission must be notified to SCE by way of a separate Product Submission.
+
+9.2.8
+
+Rem o v al from PSN Storefront. Pu blisher may cease the sale or other provision of a Digitally Delivered Product to SCE by providing SCE with written notice no less than 21 days prior to cessation, or as required by the Guidelines. SCE may purchase and resell or license and otherwise make available for electronic distribution via PSN, an unlimited quantity of Digitally Delivered Products until the date of cessation.
+
+9.2.9
+
+Terr i t o Res t r ictions. SCE shall only be taken to have exercised its rights under this Section 9 in respect of any Digitally Delivered Product in a particular country where SCE's activities in respect of that Digitally Delivered Product are directed at that country. Access to, use of or download of such product through PSN by a User outside the Territory is not a breach of this GDPA or a breach of any Publisher Intellectual Property Rights or (as between SCE and Publisher) the Intellectual Property Rights of any other person.
+
+10. EULAs and Additional Terms
+
+10.1
+
+A dd i t i onal TermsP. ublisher may request presentation on PSN of terms describing or limiting use of its Digitally Delivered Products, in accordance with the Guidelines (" Additional Terms" ). Additional Terms shall be provided to SCE with the relevant Product Submission. A dditional Terms shall be reasonable and consistent with industry practice, and SCE reserves the right to reject, in its sole discretion, Additional Terms that it deems are not, and to review and suggest revisions to the Additional Terms, but without liability for them. Publisher is liable to SCE and Users for Publisher's failure to comply with Additional Terms. The Additional Terms must not be inconsistent with the Software Product License Agreement or the To SUA.
+
+10.2
+
+L ic e nsed Product TermsP.ublisher acknowledges that the Software Product License Agreement shall be the license effective between Publisher and users of Licensed Products. Publisher shall be entitled to present its own license (a "Publisher EULA") provided it is not inconsistent with the Software Product License Agreement or the To SUA, and includes the following terms:
+
+10.2.1 th e Publisher EULA is between Publisher and the user, not between any SCE Company and the user;
+
+10.2.2 Pu b l isher is solely responsible for the Licensed Product;
+
+10.2.3 a l i m i ted license to use the Licensed Product only on a System that the user owns or controls or other such system to which the Licensed Product is delivered by PSN; and
+
+10.2.4 ea ch SCE Company (or the SCE Company for the Territory where the Licensed Product is being sold if the Publisher EULA is regional) is a third party beneficiary of the Publisher EULA,
+
+11.
+
+~Adverrieie
+
+11.1 G en e r ally. Subject to Section 11.2, Publisher may adverhse PlayStation Compatible Products or related Online Activity, but all adverhsing must be carried out in accordance with the Guidelines.
+
+11.2 I n-G a m e A dvertising. No a d v erhsements shall be placed in L i c ensed Products, nor shall adverhsements be placed or served dynamically in Licensed Products, without the express written
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+14
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293.014
+
+EPIC 02070823
+
+approval of SCE. In the event SCE approves such in-game advertisement, the advertisement must comply with the Guidelines. SCE has sole discretion to reject, block placement of, remove or require removal of any advertisement that (i) does not comply with the Guidelines, applicable law, regulations, court decision, other judicial or administrative order, age ratings system, or principles of any applicable age ratings board; or (ii) may cause SCE or any Affiliate to suffer public disrepute, contempt, scandal or ridicule, or which insults or offends the relevant community or any substantial organized group thereof or which could tend to adversely affect SCE or any Affiliate's name, reputation or goodwill. SCE reserves the right to require Publisher to comply with technical requirements to develop and implement a tracking mechanism to verify the number of users
+advertising viewing advertisements. SCE reserves the right to set, and subsequently modify,
+royalty fees. For the purposes of this Section 11.2, "advertisement" shall be deemed to include promotion, product placement, and references and trademarks relating to sponsorship.
+
+12. Online Activit 4 Da t a Collection
+
+12.1
+
+Pub l i sher Obligations.If a L i censed Product allows Users to engage in Online Activity, then Publisher must, at its sole expense for the term in which the User has rights to use the Licensed Product, do the following in compliance with the Guidelines and this GDPA:
+
+12.1.1 ho s t and provide Users with access to Online Activity;
+
+12.1.2 pr o v ide Users with customer support in an efficient manner and in accordance with the Guidelines;
+
+12.1.3
+
+mo n i tor and appropriately supervise Online Activity and, where it becomes aware of any breach or suspected breach by a User of the ToSUA, promptly notify SCE of that breach or suspected breach together with details of the User concerned and take steps to remedy any actualbreach of the To SUA;
+
+12.1.4
+
+ap p oint a dedicated contact person for Online Activity (including, where requested, an emergency email contact to address grief reports made to SCE or Affiliates), who will act as a liaison between SCE and Publisher for all matters relating to the same. Publisher shall give SCE 10 days written notice prior to any change of a designated contact person;
+
+12.1.5 di s play Additional Terms relating to Online Activity prior to allowing any User to engage in Online Activity for the first time;
+
+12.1.6
+
+op e rate all Online Activity in a r e sponsible manner, with particular regard to the
+protection of children and privacy, and in compliance with legal requirements or as stipulated under any voluntary system relating to the labeling and conduct of gameplay websites designated by SCE, and comply with any SCE policy relating to the protection of children during Online Activity and, where Publisher employs PSN authentication on websites in accordance with the Guidelines, implement age filters or gateways to ensure that children do not generally access content which is not appropriate for their age; and
+
+12.1.7
+
+pr o v ide notice to SCE and to consumers in a clear and conspicuous manner of any permanent shutdown to a server hosting or supporting Online Activity at least 90 days prior to any shutdown, and, if Online Activity is a significant feature (as determined by SCE in its discretion in the event of a dispute), use best efforts to arrange removal of all affected units of the relevant Physical Media Product from distribution channels.
+
+12.2 I Is e of PSN ID.Publisher must require all end-users to sign in with their unique PSN ID, or such other SCE identifier specified by SCE, when accessing Online Activity.
+
+Sony Computer Entertainment PLAYSTATION GDPA version 1.02(clickthroughl
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 01 5
+
+EPIC 02070824
+
+12.3 Per s onal Information Collection by Publisher. If Publisher collects any Personal Information from a System or software on that System, Publisher shall do so in strict accordance with all applicable laws and regulations, and the Guidelines. Publisher shall, at a minimum:
+12.3.1 I m plement reasonable and appropriate measures to protect the confidentiality, security, and integrity of any Personal Information collected; and
+12.3.2 W i thout limiting the obligation to comply with all applicable laws and regulations under this Section 12.3, provide notice to users of its privacy practices, including at least material terms relating to the following:
+12.3.2.1 the Personal Information collected;
+12.3.2.2 the purposes for which Personal Information will be used;
+12.3.2.3 to whom Personal Information will be disclosed;
+12.3.2.4 where Personal Information will be transferred; and
+12.3.2.5 how an individual can access, correct and delete Personal Information about them.
+Publisher shall comply with the practices described in Publisher's privacy notice.
+12.4 Per s onal Information Disclosed to Publisher by SCE. SCE has no obligation to disclose data collected by or on behalf of SCE or its Affiliates to Publisher. If Personal Information is disclosed in SCE's absolute discretion, Publisher agrees:
+12.4.1 t o limit its processing of Personal Information strictly to those purposes defined in the Guidelines or in writing by SCE and for no other purpose;
+12.4.2 t hat prior to processing Personal Information for any purposes beyond those defined under Section 12.4. I, it will:
+12.4.2.1 obtain SCE's express, written consent to the use of such data for such purposes such consent to be in SCE's sole discretion;
+12.4.2.2 inform the individual of Publisher's identity;
+12.4.2.3 inform the individual of the purposes for which the data will be used;
+12.4.2.4 obtain the individual's explicit consent to such transfer and use; and
+12.4.2.5 provide notice to the individual that the use and any disclosure of the data shall be subject to Publisher's privacy policy and that SCE is not responsible or liable for Publisher's use of the data;
+12.4.3 t o handle Personal Information in accordance with law, Publisher's privacy policy, the Guidelines and with any terms for handling and use presented by SCE;
+12.4.4 t o i mplement measures to protect the confidentiality, security, and integrity of any Personal Information that SCE Company shares with Publisher that are reasonable, adequate or otherwise required by Section 12.4.3; and
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+16
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293.016
+
+EPIC 02070825
+
+12.4.5
+
+wh e re such data relates to an end user who is located in a country with, or is a customer of SCE that is subject to, a law, regulation or direction of any competent authority that restricts the export or transfer of such data outside of that country (or its region, such as the European Economic Area), if requested by SCE, Publisher shall implement such agreements and take such steps as are required by that law, regulation or direction to ensure SCE is in compliance with the restriction.
+
+13. Ma rk et i n o f L i censed Products
+
+13.1
+
+M ark e t ing Generally.At no expense to SCE, Publisher will, and will direct its distributors to, diligently market, sell and distribute the Physical Media Products, market Digitally Delivered Products, use commercially reasonable efforts to stimulate demand for all L i censed Products throughout the applicable Territories, and supply units of Physical Media Products to satisfy any resulting demand.
+
+13.2 13.3
+
+Sam p les. Pu b l isher will p rovide sample units of each Physical Media Product to the SCE Company in each relevant Territory in the quantities and per the terms specified in the Guidelines. In the event that Publisher assembles any Physical Media Product using an alternate source in accordance with Section 8.7, Publisher will be responsible for shipping such sample units to each applicable SCE Company, at Publisher's cost and expense, promptly following the commercial release of such Physical Media Product. SCE assumes no liability for release of samples prior to commercial release. SCE shall not directly or indirectly resell any such sample units of the Physical Media Products without Publisher's prior written consent. SCE may distribute sample units to its employees or those of its Affiliates, provided that it uses its reasonable efforts to ensure that such units are not sold into the retail market. In addition, subject to availability, Publisher shall sell to each applicable SCE Company additional units at cost.
+M ark e ting Programs. SCE may invite Publisher to partciipate in promotional or advertising
+opportunities that may feature one or more Licensed Products from one or more Licensed Publishers. Participation shall be voluntary and subject to terms to be determined by SCE at the time of the opportunity. I n the event Publisher elects to participate, all materials submitted by Publisher to SCE shall be submitted subject to the Guidelines and delivery of such materials to SCE shall constitute acceptance by Publisher of the terms of the offer. Each SCE Company shall be entitled to display and otherwise use an attribution line substantially similar to the following on its multi-product marketing materials: "Copyrights and trademarks are property of their respective owners."
+
+13.4
+
+Pla y S tation Website.Publisher shall provide SCE with Product Information in HTML or such other format as specified by SCE for each of its Licensed Products for display on one or more PlayStation promotional websites. Specifications for Product Information for those websites shall be as provided in the Guidelines. Publisher shall provide each applicable SCE Company with such Product Information for each Licensed Product upon submission of Printed Materials to the applicable SCE Company for approval pursuant to the Guidelines. Publisher shall also provide updates for any such web page in a timely manner as may be required in the Guidelines.
+
+14. to assist with the development, publication and marketing of PlayStation Compatible Products only where Publisher has: (i) made the subcontractor aware of the confidentiality, data protection, and other relevant provisions of this GDPA; and (ii) received the subcontractor's written commitment to abide by those terms. Publisher shall remain fully liable for Publisher's compliance with all of the provisions of this GDPA, and shall remain fully liable for and hereby unconditionally guarantees all obligations for the compliance of any subcontractor with the confidentiality, data protection, and other provisions of this GDPA. Publisher shall disclose to a subcontractor the SCE Materials only to the extent necessary to allow the subcontractor to assist with the development, publication and marketing of PlayStation Compatible Products. SCE has no
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+17
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 01 7
+
+EPIC 02070826
+
+obligation to grant any subcontractor access to the Developer Website (and Publisher shall not share its access with a subcontractor). A subcontractor has no right to publish Licensed Products, including any right to order or pay for Publisher's Physical Media Product. SCE may prohibit disclosure of the SCE Materials to a subcontractor under this section at any time, effective immediately upon notice from SCE to Publisher. SCE may subcontract or sublicense any of its rights or obligations under this GDPA.
+
+15. Revenue and Pa ments
+
+15 1 Phy s ical Media ProductsP. ublisher shall pay each Designated Manufacturing Facility located in the Territory in which Publisher distributes Physical Media Products, either directly or through its designee, for Physical Media Products, including Physical Media Products in any "Greatest Hits," "Platinum" or any other program, and demonstration discs, at the rates and in the manner specified in the Guidelines, the terms of this Section 15, or otherwise communicated to Publisher by other means used by SCE to communicate standard terms to Publishers from time to time. Publisher shall inform SCE of its Wholesale Price for each Physical Media Product title which shall form the basis of the platform charge payable to the applicable Designated Manufacturing Facility, such amount to be calculated by SCE and notified to the Publisher in accordance with the Guidelines. Payment shall be made prior to manufacture unless the applicable SCE Company has agreed in writing to extend credit terms to Publisher under Section 15.1.1. The burden of proof under this Section 15 shall be on Publisher. SCE reserves the right to require Publisher to furnish evidence satisfactory to SCE that Publisher has complied with any or all of its obligations pursuant to this Section 15.
+
+15.1.1
+
+Cr e dit Terms.SCE may extend credit terms to Publisher in SCE's sole discretion. Credit terms and limits shall be subject to revocation or extension at SCE's sole discretion. If c redit terms are extended to Publisher, Purchase Orders will b e i n v oiced by t h e Designated Manufacturing Facility upon shipment of Physical Media Products and each invoice will be payable within 30 days of the date of the invoice or other period stated in the Guidelines. Publisher shall be additionally liable for all costs and expenses of collection of any unpaid amounts, including reasonable fees for lawyers and court costs.
+
+15.1.2
+
+Ge n eral Terms. Each shipment by the Designated Manufacturing Facility to Publisher shall constitute a separate sale, whether said shipment constitutes the whole or partial fulfillment of any Purchase Order. T i tle to units of Physical Media Products pass to Publisher only upon payment in full of the amounts due under this GDPA for those units. The receipt and deposit of any moneys payable by Publisher under this GDPA shall be without prejudice to any rights or remedies that SCE or the Designated Manufacturing Facility has and shall not restrict or prevent either from challenging the basis for calculation or payment accuracy.
+
+15.1.3
+
+SC E A u d it. Pu b l isher shall keep full, complete, and accurate records covering all transactions relating to Physical Media Products ordered and manufactured pursuant to this GDPA including, the Wholesale Price received for Physical Media Products, and all records relating to indirect revenue under Section 15.3. Publisher shall preserve such records, documents, and materials for a period of twenty-four (24) months after the expiration or termination of this GDPA. SCE's acceptance of any accounting statement, purchase order, or payment will not preclude SCE from challenging or questioning the accuracy thereof at a later time. If SCE reasonably believes that the pricing or revenue information provided by Publisher is not accurate, SCE is entitled to request additional documentation from Publisher to support the information provided. In addition, during the Term and for a period of two (2) years thereafter and upon the giving of reasonable
+prior written notice to Publisher, at SCE's expense, representatives of SCE shall be given access to, and the right to inspect, audit, and make copies and summaries of, and take extracts from, such poisons of all records of Publisher, including those records from
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+18
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 01 8
+
+EPIC 02070827
+
+Publisher's affiliates and branch offices, as they pertain to the Licensed Products and any payments due or credits received. Any such audit shall take place during normal business hours and shall, at SCE's sole election, be conducted either by an independent certified a ccountant or by a n appropriately professionally qualified SCE employee. I f s u c h inspection reveals any under-reporting of any payment due to SCE, Publisher shall immediately pay SCE such amount. If any audit conducted by SCE reveals that Publisher has under-reported any payment due to SCE by five percent or more for the relevant audit period, then in addition to the payment of the appropriate amount due to SCE, Publisher shall reimburse SCE for all reasonable audit costs for that audit and all collection costs to recover any unpaid amounts.
+
+15.2 Dig i t a lly Delivered Products
+
+15.2.1
+
+Publisher Revenue. In consideration of the rights granted by Publisher under Section 9.2.2, each applicable SCE Company shall pay to Publisher the applicable Wholesale Price or agreed revenue share for the Digitally Delivered Products covered by a Product Submission accepted by SCE. SCE has no obligation to pay for any Digitally Delivered Product (and will be entitled to a refund for amounts paid to Publisher): (i) unless and until SCE receives payment from the relevant User; (ii) that is not fully compliant with this GDPA; (iii) that is defective, non-functional or inaccessible through no fault of SCE; or (iv) that is provided by SCE free of charge as a replacement copy or an agreed promotion. Other than the Wholesale Price or agreed revenue share, Publisher is not entitled to any other fee in connection with any Digitally Delivered Products. No further Wholesale Price or agreed revenue share shall be payable to Publisher where a User exercises an entitlement included with a Licensed Product (whether at purchase or at a later time) to download additional copies to other Systems or other compatible devices, whether by means of emulation or otherwise. Publisher may change a Digitally Delivered Product's Wholesale Price or Additional Terms by providing SCE with a revised Product Submission specifying the changes and the desired effective date. S C E m akes no commitment to meet the effective date of any such changes chosen by Publisher. A revised Product Submission shall be subject to the provisions of Section 9.2.7.
+
+15.2.2
+
+Retail Price. Each SCE Company has the sole and exclusive right to set the retail price to Users for Digitally Delivered Products sold or otherwise made available for purchase on or through PSN in i t s T erritory, unless SCE adopts and presents to Publisher an alternative structure for distributing Digitally Delivered Products. The applicable SCE Company may modify any Digitally Delivered Product's retail price at any time without notice to Publisher. Publisher shall not interfere with the applicable SCE Company's price setting, but may provide SCE with suggested retail prices for Digitally Delivered Products. S C E r eserves the right to adopt an alternative distribution model upon reasonable notice to Publisher.
+
+15.2.3
+
+Refunds. SCE has no obligation to make any payment to Publisher under Section 15.2.1 in respect of any sale where SCE has chosen to refund the price paid by the User for that sale for any reason, other than where such refund becomes due directly as a result of SCE's failure to comply with the terms of this GDPA.
+
+15.2.4
+
+Re ort and Pa ment Terms. SCE will provide Publisher with statements identifying the quantity of D i g itally D elivered Product sold or l i censed by SCE to , o r o t herwise purchased by, Users (based upon the date SCE receives payment) as well as any refunds for Digitally Delivered Products. Subject to the receipt of Publisher's valid tax invoice which meets the requirements of the relevant taxation authorities (where requested by an SCE Company), SCE will pay Publisher the Wholesale Price or agreed revenue share for the net quantity of Digitally Delivered Products sold or licensed on PSN in the currency,
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+19
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 01 9
+
+EPIC 02070828
+
+at the times, and in the manner stated in the Guidelines, or as otherwise communicated to Publisher. Where any amounts that SCE must pay under this GDPA are based on SCE or Affiliate revenue, those amounts are calculated after deduction for consumption taxes (including VAT), duties, charges or assessments which SCE or an Affiliate may have to collect or pay with respect to the sale or licensing of Licensed Products. Applicable currency exchanges will be based on the Sony Corporation official rate, or such other independent third party currency conversion provider as SCE may adopt in its sole discretion, for the period in which the relevant Digitally Delivered Products are sold or licensed on PSN. If the total amount of refunds issued by the applicable SCE Company for refunded Digitally Delivered Products exceeds the amount owed by that SCE Company to Publisher in the relevant period, Publisher shall pay that SCE Company an amount equal to the difference. SCE may withhold sums equal to refunds it has made from any payments due to Publisher and withhold payment of any other disputed funds until such time as the parhes resolve any dispute. If requested by SCE, Publisher shall issue credit notes to SCE for all refunds shown in SCE's statement in the month following that in which it receives a statement from SCE itemizing the refund in question.
+
+15.2.5
+
+SC E Subscri tionsF. rom time to time, SCE may offer Publisher the opportunity to make certain Digitally Delivered Products available as part of PlayStation Plus or other premium package of products and services offered through PSN to Users paying the relevant subscription fee. The relevant Digitally Delivered Products and the agreed price, if any, to be paid by SCE for the inclusion of such products shall be recorded in a schedule to this GDPA or otherwise in writing. Failure to provide any such Digitally Delivered Product in the agreed form and at the agreed time shall entitle SCE to a refund of any sums paid for such product as set out in the Guidelines or such agreed writing. Publisher shall not share under this GDPA in any revenue received by SCE or any Affiliate as a result of the operation of or related to PSN generally, including subscription revenue generated by PlayStation Plus, regardless of whether or not a PlayStation Plus subscription is required to access a Licensed Product or elements of a Licensed Product.
+
+15.2.6
+
+Pu b lisher AuditS. CE shall keep complete and accurate records to verify its calculation of proper payment pursuant to this Section 15.2, and shall preserve these records for a period of 12 months after this GDPA's termination, or two years after presenting the applicable periodic statement to Publisher, whichever is earlier. Publisher's acceptance of any accounting statements, records or payment under this GDPA will not preclude Publisher from challenging or questioning the accuracy of any statement or report during the Term and the 12-month period after this GDPA's termination. Publisher will give SCE specific notice of any objection to a statement provided under Section 15.2 within 26 months following the date on which SCE first sent the statement to Publisher, or the statement will become conclusively binding and Publisher waives any further right to object. If Publisher has a good faith and reasonable belief that SCE has not provided accurate information and owes Publisher payment under this Section 15.2 as a result, then Publisher may, upon describing in detail the basis for its reasonable belief and providing
+objective evidence indicating that SCE has underpaid, request additional, supporting
+documentation from SCE to verify the resale of Digitally Delivered Product to Users. If the matter remains unresolved, the parhes shall then attempt in good faith, for a period of not less than 30 days to resolve any dispute related to any statement or payment challenged by Publisher. If such dispute remains unresolved, Publisher may then, at its expense, hire a nationally recognized, third-party accounting firm, on a non-contingency fee basis, reasonably acceptable to SCE, to inspect, audit and make copies and summaries of and take extracts from, those portions of SCE's records pertaining to payments due or credits received under this Section 15.2. Publisher shall require an accounting firm performing an audit to execute a non-disclosure agreement with SCE in a form acceptable to SCE. Information provided to or obtained by Publisher or the accounting firm
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthrough1
+
+20
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 020
+
+EPIC 02070829
+
+performing an audit is deemed SCE Materials. The right to conduct such an audit shall not confer on Publisher the right to access any systems or equipment which comprise or support PSN or any information contained therein. Publisher shall provide SCE with reasonable prior written notice (in no event less than 30 days) of Publisher's intent to perform an audit, but no audit may take place within 45 days after the end of SCE's fiscal year. Any audit must take place during SCE's normal business hours. Anaudit may not be performed more than once every 12 months, and no record may be audited more than once. If an audit reveals any under-reporting of any payment due to Publisher, SCE shall promptly pay Publisher the under-reported amount. If an audit conducted by Publisher reveals that SCE has under-reported any payment due to Publisher by five percent or more for the relevant audit period and that is no less than $10,000, then in addition to the payment of the appropriate amount due to Publisher, SCE shall reimburse Publisher for reasonable third-party audit costs. Nothing in this GDPA shall give Publisher the right to challenge or audit any statement or records pertaining to any period prior to the Effective Date.
+
+15.3
+
+I ndi r ect R evenue. If Pu b l i sher receives revenue or c redit related to t he e xploitation of PlayStation Compatible Products (including related Online Activity), other than revenue from the sale of L i censed Products under Sections 9.1 and 9.2, including from product placement, sponsorships, advernsing, or companion apps, then SCE shall be entitled to a royalty on such revenue received by or credited to Publisher at a rate to be agreed by the parnes, but in no event less than 15% of the gross revenue received by or credited to Publisher or any affiliate of Publisher. Prior to distribution of any PlayStation Compatible Product, Publisher shall advise SCE of any such exploitation. P ublisher shall provide SCE with monthly reports of any such revenue or credits received and shall pay SCE's invoice within 30 days of the date of the invoice. For the avoidance of doubt, nothing in this Section 15.3 shall derogate from Publisher's obligation to distribute Licensed Products only in accordance with Sections 9.1 (for Physical Media Products) and 9.2 (for Digitally Delivered Products).
+
+15.4
+
+T hi r d P arty License Fees.If SCE's exercise of any of the rights granted by Publisher under this GDPA causes SCE or any Affiliate to become legally responsible for the payment of any fees, costs or expenses to any content rights holder or third party collecting payment for the use of voice, music, video, or other content, including unions, guilds, or performing rights organizations, then SCE reserves the right to offset such third party fees, costs or expenses from amounts due Publisher under this Section 15, or, in SCE's sole discretion, reimbursement by Publisher to SCE or the applicable Affiliate.
+
+15.5
+
+Ser v i ce Fees and Charges.Publisher shall pay all fees for services provided by SCE (including format quality assurance) in accordance with terms set fordi in the Guidelines. Where a User downloads a Digitally Delivered Product (including Digitally Delivered Products made available to end users for free), SCE reserves the right to charge Publisher for the cost attributable to bandwidth for such downloads at the current, standard rate set by the applicable SCE Company and specified in the Guidelines. Publisher must pay SCE's current, standard patching fee in respect of any patch published under this GDPA, where the patch is submitted to SCE within 60 days of the approval of the relevant Licensed Product pursuant to Section 6.3, or as otherwise stated in the Guidelines. SCE reserves the right to change, on reasonable notice, the rate or the basis on which any such service fees are calculated.
+
+15.6
+
+Pub l i sher Deduction4s Offsets. No costs incurred in the development, manufacture, marketing, sale or distribution of PlayStation Compatible Products shall be deducted from any amounts payable by Publisher under this GDPA. There shall be no deduction from any amounts owed by Publisher under this GDPA as a result of any uncollectible accounts owed to Publisher, or for any credits, discounts, allowances or returns which Publisher may credit or grant to any third-party
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+21
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 021
+
+EPIC 02070830
+
+customer of any PlayStation Compatible Products. Publisher may not assert any credit, set-off or counterclaim to justify withholding payment under this GDPA.
+
+15.7 T ax e s4 Wi t hholding
+
+15.7.1
+
+Taxes. The amounts that the parhes must pay under this GDPA are exclusive of taxes (including VAT), duties, charges or assessments which the recipient is required to collect, for which the paying party is solely responsible (except that any such amounts that SCE must pay are deemed to be inclusive of all V A T w h ere any such VAT c annot be reclaimed by SCE). W here required by law, each party shall provide the other with a valid VAT registration number and each shall fulfil its obligations relating to VAT under the applicable reverse charge procedure which, in the EU, is stipulated in Article 196 of the EU VAT Directive 2006/112/EC. If the paying party does not provide the appropriate a nd valid VA T r e gistration number, or applicable documentation in support of a n exemption from VAT, then the supplying party will be entitled to charge VAT at the appropriate rate until such a time as an appropriate and valid VAT registration number, or t he applicable documentation, is provided, at which time the VA T c harged will be refunded or otherwise credited as permissible by law, provided the VAT registration number or other exemption was valid and appropriate at the time the VAT was charged.
+
+15.7.2
+
+SCE Withholdin and Offset. If laws or regulations require that SCE or an Affiliate make deductions from sums payable to Publisher under this GDPA, SCE or its Affiliate may withhold those required deductions from the amounts it pays Publisher, remit the deducted amounts to the proper authorities and furnish Publisher, as soon as reasonably p racticable, w it h a n o f f i c ial r e ceipt e v idencing t hose p ayments, together w i t h documentation as Publisher may reasonably require in making submissions to the proper authority. If requested by SCE, prior to any payment being made by SCE Publisher will provide SCE a certificate of tax residency and other documentation required to verify the tax residency of Publisher and, when applicable, to allow a reduction of tax withholding. SCE reserves the right to offset against any payments owed to Publisher under this GDPA any outstanding amounts owed to any SCE Company or Affiliate under this GDPA or otherwise (including any outstanding fees owed to any SCE Company under Section 15.5). SCE shall be entitled to assert any credit, set-off or counterclaim to justify withholding payment under this GDPA.
+
+15.7.3
+
+Publisher Withholdin . P ublisher shall be solely responsible for, and shall not withhold from any payment to SCE or an Affiliate, any withholding taxes or other such assessments which may be imposed by any governmental authority with respect to payments to SCE or an Affiliate. W h ere Publisher has paid any such tax or assessments, Publisher may provide each applicable SCE Company with o f f icial tax r eceipts or o t her such documentary evidence issued by the applicable tax authorities sufficient to substantiate any such taxes or assessments that have in f act been timely paid. W h e r e such substantiation is provided, and SCE or a Designated Manufacturing Facility has issued an approved credit memo o r h a s approved Publisher's invoice describing the credit, Publisher may apply such credit to subsequent payments to the SCE Company or Designated Manufacturing Facility that approved the credit. I f r equested by Publisher, SCE will provide Publisher with a certificate of tax residency and other documentation required to allow, where applicable, a reduction of tax withholding.
+
+15.7.4 Minimizin W i t hholdin . E a ch party shall cooperate in good faith and use reasonable efforts to minimize any withholding tax.
+
+15.8 Ser v e r LocationP. ublisher shall notify SCE in writing of the country location of all servers from which any Online Activity is delivered or made available to Users. Publisher shall notify SCE of
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+22
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 022
+
+EPIC 02070831
+
+any changes to the location of any these servers or the use of additional servers in writing at least three months prior to any change or use of additional servers taking place.
+
+16. Re rese n tations and Warranties
+
+16.1 Rep r e sentations and Warranties of SCE
+
+16.1.1 Ea c h SCE Company represents and warrants, solely for the benefit of Publisher, that it has the right, power and authority to enter into this GDPA for its respective Territory, and to fully perform its obligations hereunder.
+
+16.1.2
+
+Th e f ollowing terms shall apply unless otherwise stated in the Guidelines. All Physical Media Products manufactured by a Designated Manufacturing Facility for Publisher pursuant to this GDPA shall be free from defects in materials and workmanship under normal use and service at time of delivery in accordance with this GDPA. For SCEA and SCEE, the sole obligation of SCE under this warranty shall be, for a period of 90 days from the date of delivery of such Physical Media Products, at SCE's election, either (i) to replace defective Physical Media Products; or (ii) to issue credit for, or to refund to Publisher, the charge for defective Physical Media Products and to reimburse Publisher its reasonable return shipping costs. This warranty is the only warranty applicable to Physical Media Products manufactured by the Designated Manufacturing Facility for Publisher pursuant to this GDPA. This warranty shall not apply to damage resulting from accident, fair wear and tear, wilful damage, alteration, negligence, abnormal conditions of use, failure to follow directions for use (whether given in instruction manuals or otherwise howsoever) or misuse of Physical Media Products, or to P hysical Media Products comprising less than 1% (or, if greater, 100 units) in the aggregate of the total number of Physical Media Products manufactured by the Designated Manufacturing Facility for Publisher per Purchase Order of any Physical Media product. If , during such 90 day period, defects appear as aforesaid, Publisher shall notify SCE and, upon request by SCE (but not otherwise), return such defective Physical Media Products, with a w r itten description of the defect claimed, to such location as SCE shall designate. SCE shall not accept for replacement, credit or refund as aforesaid any Physical Media Products except factory defective Physical Media Products (i.e. Physical Media Products that are not free from defects in materials and workmanship under normal use and service). All returns of Physical Media Products shall be subject to prior written authorization by SCE, not unreasonably to be withheld. If no defect exists or the defect is not such as to be covered under this warranty, Publisher shall reimburse SCE for expenses incurred in processing and analyzing the Physical Media Products. For SCEI, any obligation regarding manufacturing Physical Media Products is stated in the Guidelines.
+
+16.2 Rep r e sentations and Warranties of PublisherP. ublisher represents and warrants throughout the Term that:
+
+16.2.1
+
+th e re is no threatened or pending action, suit, claim or proceeding alleging that the use or possession by Publisher or its affiliates of all or any part of the Publisher Property, Product Proposals, Product I nformation, Printed M aterials, Advertising Materials, Packaging not provided by the Designated Manufacturing Facility, User Content or any underlying work or content embodied in any of the foregoing, including any name, designation or trademark used in conjunction with any PlayStation Compatible Product, infringes or violates any Intellectual Property Rights or other right or interest of any kind whatsoever anywhere in the world of any third party, or contesting any right, title or interest of Publisher in o r t o t h e P u blisher Property, Product Proposals, Product Information, Printed Materials, Advertising Materials, Packaging not provided by the Designated Manufacturing Facility, User Content or any underlying work or content
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+23
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 023
+
+EPIC 02070832
+
+embodied in any of the foregoing, including any name, designation or trademark used in conjunction with any PlayStation Compatible Product;
+
+16.2.2
+
+Publisher Property, P r oduct P r oposals, Product I n f ormation, P r inted M a terials,
+AdvertisingMaterials, Packaging not provided by the Designated Manufacturing Facility,
+User Content, and their contemplated or actual disclosure or use under this GDPA, do not
+and shall not infringe the Intellectual Property Rights, right of publicity, right to privacy,
+or moral rights anywhere in the world of any third party. Publisher has obtained the consent of all holders of Intellectual Property Rights necessary for SCE's or its Affiliates'
+use of any Licensed Products (apart from the SCE Materials), Product Proposals, Product
+Information, Printed Materials, AdvertisingMaterials, User Content and Packaging not
+provided by the Designated Manufacturing Facility provided by Publisher, which may be reproduced, published, publicly displayed, publicly performed, marketed, sold and
+distributed by SCE and any Affiliates in accordance with this GDPA. Publisher has made
+all payments required to any person having any legal rights arising from such disclosure
+or use so that SCE will not incur any obligation to pay any royalty, residual, union, guild, collecting society or other fees or expenses;
+
+16.2.3
+
+Publisher Property does not contain and is not derived in any manner (in whole or in part), from any software, including without limitation open source software, that would require that any SCE or third party proprietary software or information be: (i) disclosed or distributed in source code form; (ii) licensed for the purpose of permitting modifications or derivative works; (iii) reproduced and/or redistributed (with or without charge); (iv) permitted to be reverse engineered; or (v) used only for non-commercial purposes;
+
+16.2.4 Publisher has the right, power and authority to enter into this GDPA, to grant SCE the rights granted hereunder and to fully perform its obligations hereunder;
+
+16.2.5
+
+the making of this GDPA by Publisher does not violate any separate agreement, rights or obligations existing between Publisher and any other person, and Publisher shall not make any separate agreement with any third party that is inconsistent with any of the provisions of this GDPA;
+
+16.2.6
+
+Publisher has not previously taken any action that could be interpreted as having sold, assigned, leased, licensed or in any other way disposed of or encumbered any of the rights granted to Publisher hereunder. Publisher will not sell, assign, lease, license or in any other way dispose of or encumber any of such rights except as permitted by this GDPA;
+
+16.2.7
+
+neither Publisher nor its affiliates shall make any representation or give any warranty to any person or entity expressly or on SCE's behalf, or to the effect that the PlayStation Compatible Products are connected in any way with SCE other than that the Licensed Products have been developed, marketed, sold and distributed under license from SCE;
+
+16.2.8
+
+if any PlayStation Compatible Product that includes SCE Materials is delivered by Publisher to any other Licensed Publishers or Licensed Developers in source code form, Publisher will take all precautions consistent with the protection of valuable trade secrets by companies in high technology industries to ensure that such third parhes protect and maintain the confidentiality of such source code;
+
+16.2.9
+
+PlayStation Compatible Products (apart from the SCE M aterials), and any Product Information will (i ) b e i n a c ommercially acceptable form; (ii) correspond with any written description provided by Publisher to SCE; (iii) be free of unauthorized content (including content that is inconsistent with the age rating applicable to the corresponding PlayStation Compatible Product); (iv) be free of bugs, defects, time bombs or viruses or
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthrough)
+
+24
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 024
+
+EPIC 02070833
+
+any content which could disrupt, delay, or destroy the PlayStation Compatible Product, PSN, or a System, or render any of such items less than fully useful; (v) be free of any content that could cause SCE to suffer public disrepute, contempt, scandal or ridicule, which insults or offends the community or any substantial organized group thereof, which could tend to adversely affect SCE's name, reputation or goodwill associated with the System or which otherwise breaches any objectionable content criteria set out in the Guidelines; and (vi) shall b e f u ll y c o mpatible with th e r elevant Systems and all Peripherals listed on the Printed Materials as compatible with the PlayStation Compatible Product;
+16.2.10 PlayStation Compatible Products will be developed, marketed, sold and distributed by or at the direction of Publisher in an ethical and responsible manner with respect to the protection of c h ildren in th e o nline environment, and in f ul l c o mpliance with all applicable laws, including federal, state, provincial, local laws, and any rules, regulations and standards promulgated thereunder, including lottery, labor, an t i -bribery and corruption laws and will not contain content that violates applicable laws, including those relating to privacy or any obscene or defamatory matter;
+16.2.11 PlayStation Compatible Products will include adequate and appropriate health and safety warnings that preclude Publisher and SCE liability to third parties;
+16.2.12 Publisher's policies and practices with respect to the development, publishing, marketing, sale, and distribution of PlayStation Compatible Products will i n n o m anner reflect adversely upon the name, reputation or goodwill of SCE or any Affiliate;
+16.2.13 Publisher will make no false, misleading or inconsistent representations or claims with respect to SCE, PSN, or any System, PlayStation Compatible Product, or Affiliate; and
+16.2.14 neither Publisher nor any director, officer or controlling shareholder is under sanction by the United States Office of Foreign Assets Control.
+17. Indemnities
+17.1 In de m n ification by SCE. Ea c h S CE Company shall indemnify and hold Publisher and its respective officers, directors, employees, agents, representatives, successors and assigns harmless from and against third-party claims, demands, losses, liabilities, damages, expenses and costs, including reasonable fees for lawyers, expert witnesses and litigation costs, and costs incurred in the settlement or avoidance of any such claim, that result from a breach of any of that SCE Company's representations or w a rranties set f o rth i n S e ction 1 6. 1 ( c ollectively, "SCEIndemnified Claim(s)"); provided that: ( i ) P u blisher shall give prompt written notice to the applicable SCE Company of the assertion of any SCE-Indemnified Claim; (ii) the applicable SCE Company may select counsel and control the defense and settlement of any SCE-Indemnified Claim and Publisher shall not agree to the settlement of any SCE-Indemnified Claim without the applicable SCE Company's prior written consent; and (iii) Publisher shall provide the applicable SCE Company reasonable assistance and cooperation concerning any SCE-Indemnified Claim, except that Publisher need not incur any out-of-pocket costs in rendering such assistance and cooperation. The applicable SCE Company has the exclusive right, at its discretion, to commence and prosecute at its own expense any lawsuit or to take such other action with respect to SCEIndemnified Claims as it deems appropriate.
+17.2 In dem n ification by Publisher. Publisher shall indemnify and hold SCE and its Affiliates and each of their respective officers, directors, employees, agents, representatives, successors and assigns harmless from and against claims, demands, losses, liabilities, damages, expenses and costs, including reasonable fees for lawyers, expert witnesses and litigation costs, and costs incurred in
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthrough)
+
+25
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 025
+
+EPIC 02070834
+
+the settlement or avoidance of any such claim, that relate to (i) a breach or alleged breach of any of Publisher's representations or warranties set forth in Section 16.2, or in any collateral contract; (ii) asserted or actual infringement of a third party's Intellectual Property Rights or any individual consumer or class action claim, with respect to Publisher Property, Product Proposals, Product Information, Printed Materials, Advertising Materials, Packaging not provided by the Designated M anufacturing Facility, User Content, and their disclosure or use under this GDPA; ( i i i ) Publisher's support of unauthorized or unlicensed Peripherals or software that do not comply with an appropriate System format specification as set fordi i n th e Guidelines; (iv) Publisher' s
+AdvertisingMaterials, Product Information, or Publisher's failure to comply with Additional
+Terms or the applicable EULA; (v) any PlayStation Compatible Product features or capability related to cross-regional Online Activity; (vi) asserted or actual personal or b odily i njury (including death or disability) or property damage arising out of, i n w h ole or i n p art, the development, marketing, advertising, sale, distribution or use of any PlayStation Compatible Products unless due directly and solely to the breach of SCE in performing any of the specific duties or providing any of the specific services required of it under this GDPA; (vii) any civil or criminal investigations or actions relating to the development, marketing, advertising, sale or distribution of PlayStation Compatible Products; (viii) access to a Licensed Product outside of the country where SCE directs activity under Section 9.2.9 (Territory Restrictions), (ix) any claim relating to Publisher's handling of data collected from or through a System or software on a System by or on behalf of Publisher or any data provided to Publisher by SCE pursuant to Section 12.4, or (x) any penalties or interest assessed against SCE or an Affiliate for any taxes or charges Publisher is required to remit to any governmental taxing authority with respect to payments made to SCE or an Affiliate (all subsections collectively, "Publisher-Indemnified Claim(s)"), provided that (a) SCE shall give prompt written notice to Publisher of the assertion of any PublisherIndemnified Claim; (b) Publisher shall have the right to select counsel and control the defense and settlement of any Publisher-Indemnified Claim, except that with respect to any PublisherIndemnified Claims made by a third party against SCE, SCE shall have the right to select counsel for itself and control the defense and settlement of the Publisher-Indemnified Claim against SCE; and (c) SCE shall provide Publisher with reasonable assistance and cooperation concerning any Publisher-Indemnified Claim, except that SCE need not incur any out-of-pocket costs in rendering such assistance and cooperation. S ubject to the foregoing, Publisher may, at its discretion, commence and prosecute at its own expense any lawsuit or to take such other action with respect to Publisher-Indemnified Claims as shall be deemed appropriate by Publisher.
+18. L imit a t ion of Liabilit
+18.1 SCE Limitation of Liability for Financial Losses. In no event shall SCE or any Affiliate, or the officers, directors, employees, agents, licensors or suppliers of any of such entities, be liable for loss of revenue, loss of actual or prospective profits, loss of contracts, loss of anticipated savings, loss of business opportunity, reputation, goodwill or market share, loss of, damage to or corruption of data or for any interest or ex gratia payments (whether such loss, damages or payments are direct, indirect, special, incidental or consequential) arising out of, relating to, or in connection with this GDPA or any collateral contract (including the breach of this GDPA by any SCE Company), whether known, foreseen or foreseeable and whether in contract, tort (including negligence), product liability, under indemnity, or otherwise.
+18.2 SCE Limitation of Liability for Other Consequential Losses. In no event shall SCE or any Affiliate or the officers, directors, employees, agents, licensors or suppliers of any of such entities, be liable for any indirect, special, incidental or consequential loss or damage of any kind arising out of or in connection with this GDPA or any collateral contract (including the breach of this GDPA by any SCE Company), whether known, foreseen or foreseeable and whether in contract, tort (including negligence), product liability, under an indemnity or otherwise.
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+26
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 026
+
+CONFIDENTIAL
+EPIC 02070835
+
+18.3 SCE Limitation of Liability for Representations. Publisher shall have no remedy with respect to any representation made to it upon which it relied in entering into this GDPA and SCE or any Affiliate and the officers, directors, employees, agents, licensors or suppliers of any of such entities s hall have no liability to Publisher other than under the express terms of this GDPA. I n t h i s Section 1 8 .3, "representation" m e ans any undertaking, p r omise, assurance, statement, representation, warranty or understanding, whether in writing or otherwise, of any person (whether a party to this GDPA or not), relating to the subject matter of this GDPA.
+18.4 SCE Limitation of L i ability for SC E M a t erials and Publisher's Materials. Ex c e pt as expressly set fordi herein, neither SCE or any Aff iliate company, nor the officers, directors, employees, agents, licensors or suppliers of any of such entities, shall bear any risk, or have any responsibility or liability of any kind to Publisher or to any third parties with respect to the quality, functionality, operation or performance of, or the use or inability to use, all or any part of the SCE Materials, the System, PlayStation Compatible Products, or for any software errors or "bugs" in Product Information included on SCE demonstration discs.
+18.5 SCE Limitation of Financial Liability. In no event shall the liability of each SCE Company or any Affiliate arising under, relating to, or in connection with this GDPA, or any collateral contract, exceed a sum equal to the total amount paid by Publisher under Section 15.1 to that SCE Company or its Designated Manufacturing Facility, and the net amount actually received by that SCE Company from purchases of Digitally Delivered Products by Users pursuant to Section 15.2, within the 12-month period immediately prior to the date of the first occurrence of the event or circumstances giving rise to the claimed liability.
+18.6 Publisher Limitation of Liability. In no event shall Publisher, its officers, directors, employees, agents, licensors or suppliers be liable to SCE for loss of revenue, loss of actual or prospective profits, loss of contracts, loss of anticipated savings, loss of business opportunity, reputation goodwill or market share, loss of, damage to or corruption of data or for any interest or ex gratia payments (whether such loss, damages or payments are direct, indirect, special, incidental or consequential), arising out of or in connection with this GDPA or any collateral contract (including the breach of this GDPA by Publisher), provided that such limitations shall not apply to damages resulting from Publisher's breach of Sections 3 (Conditional License Grant), 5 (Other Limitations on Licensed Rights), 16.2 (Representations and Warranties of Publisher), 17.2 (Indemnification by Publisher) or 20 (Data Security and Confidentiality) of this GDPA, or to any amounts which P ublisher may b e r e quired to p a y p u rsuant to S ections 7.12.2 (Risk o f L o s s), o r 1 7 .2 (Indemnification by Publisher).
+18.7 Disclaimer of Warranty. Ex c ept as expressly provided in Section 16.1, neither SCE or any Affiliate, nor any of i t s of ficers, directors, employees, agents or suppliers, make, nor does Publisher receive, any warranties (express, implied or statutory) regarding all or part of the SCE Materials, the SCE Intellectual Property Rights, the Systems, units manufactured hereunder, PSN, Product Information included on demonstration discs or any services provided by SCE pursuant to this GDPA. S C E d i sclaims any warranties, conditions or other terms implied by any law (including as to merchantability, satisfactory quality or f i tness for a p arncular purpose and warranties against infringement, and the equivalents thereof under the laws of any jurisdiction) to the fullest extent permitted by applicable law. SCE disclaims any duty to determine or ascertain Publisher's authorization, permission or license to sell, supply or distribute any product or service.
+18.8 Law Applicable to Liabilities. Nothing in this GDPA shall exclude or limit any liability of either party which may not be excluded or limited under applicable law.
+19. Infrin ement of SCE I ntellectual Pro er t R i h t s B T hi r d P a r ties. In t h e e vent that Publisher becomes aware that any of the SCE Intellectual Property Rights have been or are being infringed by any third party, Publisher shall promptly notify the SCE Company located in the relevant Territory or
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+27
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 027
+
+EPIC 02070836
+
+Territories. SCE shall have the sole right, in its discretion, to institute and prosecute lawsuits against third parties regarding infringement of SCE Intellectual Property Rights. Any lawsuit shall be prosecuted solely at the cost and expense of SCE and all sums recovered in any such lawsuits, whether by judgment, settlement or otherwise, shall belong solely to SCE. Upon SCE's request, Publisher shall execute all papers, testify on all matters and cooperate in every way necessary or desirable for the prosecution of any such lawsuit. SCE shall reimburse Publisher for the reasonable expenses incurred as a result of such cooperation, but unless authorized by other provisions of this GDPA, not costs and expenses attributable to any crossclaim, counterclaim or third party action by or against Publisher.
+
+20.
+
+Data Securit and Confidentialit
+
+20.1
+
+T erm o f Protection of SCE Materials. The term for the protection of the SCE Materials shall commence on the Effective Date and shall continue in full force and effect for as long as any of the SCE Materials continues to be maintained as confidential and proprietary by SCE or any Affiliate.
+
+20.2 P re s ervation of SCE MaterialsP. ublisher shall:
+
+20.2.1 us e the SCE Materials only for the purpose of performing its obligations or exercising its rights under this GDPA and not permit the use of the SCE Materials for any other purpose;
+
+20.2.2
+
+keep the SCE Materials in strict confidence, and not disclose the SCE Materials to any
+person, other than those employees, directors or officers of the Publisher, permitted subcontractors under Section 14, or legal counsel, whose duties justify a "need-to-know" (and only to the extent necessary) and who have executed a confidentiality agreement in which such employees, directors, officers, subcontractors or legal counsel have agreed not to disclose and to protect and maintain the confidentiality of all confidential information and materials inclusive of that of third parties which may be disclosed to them or to which they may have access during the course of their duties. At SCE's request, Publisher shall provide SCE with a copy of such confidentiality agreement between Publisher and its employees, directors, officers, subcontractors or legal counsel. P u b lisher shall not disclose any of the SCE Materials to third parnes, other than permitted subcontractors under Section 14, including to consultants or agents, without SCE's prior written consent. Any employees, directors, officers, subcontractors, legal counsel, authorized consultants and agents who obtain access to or copies of the SCE Materials shall be advised by Publisher of the confidential or proprietary nature of the SCE Materials, and Publisher shall be responsible for any breach of this GDPA by all such persons. Publisher shall maintain a list of recipients of the SCE Materials and provide such list to SCE on request;
+
+20.2.3
+
+take all reasonable measures necessary to preserve the confidentiality of t h e S CE Materials in order to avoid disclosure, publication, or dissemination, using as high a degree of care and scrutiny as it uses to protect its own confidential information, but at least reasonable care and in a manner consistent with the protection of valuable trade secrets by companies in high technology industries;
+
+20.2.4 en s ure that all written materials relating to or containing the SCE Materials be maintained in a restricted access area and plainly marked to indicate the proprietary and confidential nature thereof; and
+
+20.2.5
+
+implement and maintain adequate security controls or measures to safeguard the SCE Materials while b eing t ransmitted and w h ile a t r est ( i .e., encryption, password management, secure processing and transfer protocols). In addition, Publisher shall at all times:
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+28
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 028
+
+EPIC 02070837
+
+20.2.5.1 implement secure user authentication, including unique (non-shared) user accounts and passwords, for persons having access to the SCE Materials;
+
+20.2.5.2 document processes for issuing and revoking user access, including immediate revocation of access for terminated employees and secure communication of user accounts and passwords;
+
+20.2.5.3 implement encryption or hashing, where such hashing shall include use of a random salt of user account passwords used to access the SCE Materials.
+
+20.2.5.4 at any SCE Company's request, destroy or return promptly to that SCE Company any and all portions of the SCE Materials, together with all copies thereof; and
+
+20.2.5.5 not use, copy, reproduce, modify, create derivative works from, sublicense,
+distribute, or disseminate the SCE Materials or any such derivative works, or any
+portionthereof, or permit any third party to do so, except as expressly authorized,
+nor shall Publisher remove any proprietary legend set fordt on or contained within any of the SCE Materials.
+
+20.3 E xc e ptions.The restrictions in Section 20.2 shall not apply to any portion of the SCE Materials which:
+
+20.3.1 wa s previously known by Publisher without restriction on disclosure or use, as proven by written documentation of Publisher;
+
+20.3.2 is o r l e gitimately becomes part of the public domain (which shall not include limited disclosures to the public) through no fault of Publisher or any of its employees, directors, officers, consultants, legal counsel, or agents;
+
+20.3.3 is i n d ependently developed by Publisher's employees or consultants who have not had
+access to or used the SCE Materials (or any portionthereof), as proven by written
+documentation of Publisher;
+
+20.3.4
+
+is required to be disclosed by court, administrative or governmental order; provided that Publisher must use all reasonable efforts prior to issuance of any such order to maintain the confidentiality of the SCE Materials, including asserting in any action or investigation the restrictions set fordt in this GDPA, and, immediately after receiving notice of any such action, investigation, or threatened action or investigation, Publisher must notify SCE of such action, investigation, or threatened action or i nvestigation, unless Publisher is ordered by a court not to so notify;
+
+20.3.5 is r equired to be disclosed by applicable regulatory regime, in which case Publisher shall disclose only such SCE Materials as are required; or
+
+20.3.6 is a pproved for release by written authorization of SCE.
+
+20.4 N o Obl i g ation to License.SCE may disclose the SCE Materials to Publisher at such times as it
+deems necessary or desirable in its sole discretion. Other than as expressly set forth in this GDPA,
+such disclosure shall not (i) constitute any option, grant or license from SCE to Publisher under
+any SCE Intellectual Property Rights now or after owned or controlled by SCE; (ii) result in any obligation on the part of SCE to approve any materials of Publisher; (iii) give Publisher any right
+to, directly or indirectly, develop, manufacture, sell, market, promote, or distribute any product
+derived from or which uses or was developed with the use of the SCE Materials (or any p ortion
+thereof).
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+29
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 029
+
+EPIC 02070838
+
+205 Pub lisher's Obligations Upon Unauthorized Disclosure. If at any time Publisher becomes aware of or suspects any actual or potential unauthorized duplication. access,,use,,possession or knowledge of any of the SCE Materials or any breach of security or exposure involving the SCE Materials Publisher shall immediate no ' S CE Information Security by telephone at~ or at such other numbers or addmsses as may be pmvided in the Guidelines or notified to Publisher. In the event of such a security breach, Publishershall:
+
+205.1 provide anyandall masonableassistance toSCEto pmtect SCE 's pmprietary rights in
+any of the SCE Materials and collaborate with SCE to implement mitigation and remediationactionsandcontmlstoreducetheimpactofandprevent fintherincidents;
+
+205.2 notify customersofinformationbreachesor incidentsif requestedby SCE:
+
+205.3 pmvide a written report by electronic meansdetailing the incident and corrective snd preventive actions;aad
+
+205A take afi stepsrequestedby SCE topreventtherecurrenceofanyunauthorizeddisclosmu, duplication,access,use,possessionor knowledgeoftheSCEMaterials.
+
+Where Publisher or its employees. directors, offtcets, or subcontractors,,consultants, legal counsel, or agentsmsyhave duectly or indirecfiy disclosedormadeavailable SCEMaterials notexpressly authorized by this GDPA. Publisher shall coopemte fully with SCE in mitigating the effects of such disclosme, including enforcement of confidentiality agreements, commencement and prosecution ingoodfaith (aloneorwithSCE) of legal action, andreimbursementfor all reasonable lawyers' fees, costsand etqpcnsesincurred by SCE to protect its proprietary rights in the SCE Materials.
+
+20.6 Pu b lisher Confidential Information
+
+20.6.1
+
+De finition of P lis r C af i ential t n f ' n. "Publisher Confidential Information" shallmeananyPublisherPmpertyprovidedtoSCEpursuanttothis GDPA and all documentation and information misting themto, including Product Proposals,
+Pmduct Information, Printed Materials aad Advertising Materials (other than documemauonandiuformauonintendedfor release toandusebyend-users,thegeneral public or the nade). Publisher Confidential Information may consist of information in any mediunh whether oml. printed, in machne-readable form or otherwise, pmvided to
+SCE before or during the Term, including information subsequently reduced to tangible or written foun.
+
+20.6.2 Te rm of Protection of Publisher Confidential InformatipuThe term for the pmtection of Publisher Confidential Informauon shall commence on the Effective Date snd shall continue in full force aad effect for as long as any of Publisher Confidential Infomatiou continues to be aintained as confidential and pmprietary by Publisher. SCE shafi have the right to destmy Brblisher Confidcntial Information at any time after the date three
+years after SCE initially received such information.
+
+20.6.3 Pr eserva 'on of Publis r Confidential Information.SCE shall, with rmpect to Publisher Confidential Information:
+
+20Ai.3.1 hold all Publisher Confidential Information in strict confidence and implement reasonable steps to preserve the confidentiality of Publisher Confidential Infonaation and to avoid disclosure, publication, or disseuunation, and to pmvent it from falling into the public domain or into ttw possession of persons
+
+sohy chmpuiw Estcrutuuuu
+
+FLAYsTA110N ODpA vuvion i.oz(ciichlhroush)
+
+30
+
+COPIPIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293.030
+
+EPIC 02070939
+
+other than those persons to whom disclosure is authorized hereunder, but no less than reasonable care and in a manner consistent with the protection of valuable trade secrets by companies in high technology industries;
+
+20.6.3.2 not disclose Publisher Confidential Information to any person other than SCE's or a Designated Manufacturing Facility's employees, directors, officers, agents, consultants, subcontractors, legal counsel, and licensors who need to know or have accessto Publisher Confidential Information for the purposes of this GDPA, and only to the extent necessary for such purposes, and who have executed a c onfidentiality agreement with a n S C E C o mpany o r A f f i liate, o r i n circumstances where such employees, directors, officers, agents, consultants, subcontractors, legal counsel or licensors have a professional obligation to not disclose confidential information and materials inclusive of that of third parties which may be disclosed to them by SCE. A n y such employees, directors, officers, agents, consultants, subcontractors, legal counsel, and licensors who obtain access to or copies of the Publisher Confidential Information shall be advised by SCE of the confidential or proprietary nature of the Publisher Confidential Information;
+
+20.6.3.3 at Publisher's request, return promptly to Publisher any and all poisons of Publisher Confidential Information, together with all copies thereof (except that SCE may retain Publisher Confidential Information in a secure location solely for archival or backup purposes, or as is needed for legal or internal compliance purposes, provided those copies are subject to this GDPA's terms and will eventually be erased or destroyed in the ordinary course of SCE's data processing procedures); and
+
+20.6.3.4 not use Publisher Confidential Information, or any portion thereof, except as
+provided herein, nor shall SCE remove any proprietary legend set fordi on or contained within any of Publisher Confidential Information, and, if explicitly requested by Publisher and agreed by SCE, ensure that all written materials containing highly sensitive Publisher Confidential Information be maintained in a reasonably secure manner and marked to indicate the proprietary and confidential nature thereof.
+
+20.6.4
+
+Additional Information. Publisher may request additional information regarding SCE security controls or measures reasonably required by Publisher to safeguard Publisher Confidential Information (i.e., encryption, password management, secure processing and transfer protocols), which may, upon SCE acceptance, include the following:
+
+20.6.4.1 description of any secure user authentication, including unique (non-shared) user accounts and passwords, for persons having access to Publisher Confidential Information;
+
+20.6.4.2 description of any current document processes for issuing and revoking user access, including immediate revocation of access for terminated employees and secure communication of user accounts and passwords; or
+
+20.6.4.3 description of any encryption or hashing, where such hashing shall include use of a random salt of user account passwords used to access Publisher Confidential Information.
+
+20.6.5 ~Ence tions. Th e f oregoing restrictions shall not apply to any portion of Publisher Confidential Information which:
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+31
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 031
+
+EPIC 02070840
+
+20.6.5.1 was previously known by SCE without restriction on disclosure or use, as proven by written documentation of SCE;
+20.6.5.2 comes into the possession of SCE from a third party which is not under any obligation to maintain the confidentiality of such information;
+
+20.6.5.3 is or legitimately becomes part of information in the public domain through no fault of SCE, o r any o f i t s employees, directors, agents, consultants or subcontractors;
+
+20.6.5.4 is independently developed by SCE's or an Affiliate's employees, consultants or subcontractors who have not relied on Publisher Confidential Information (or any portion thereof), as proven by written documentation of SCE;
+
+20.6.5.5 is required to be disclosed by court, administrative or governmental order; provided that the applicable SCE Company attempts, prior to the issuance of any such order, to maintain the confidentiality of Publisher Confidential Information, including asserting in any action or investigation the restrictions set forth in this GDPA, and immediately after receiving notice of any such action, investigation, or threatened action or i nvestigation, notifies Publisher of such action, investigation, or threatened action or investigation, unless an SCE Company is ordered by a court not to so notify; or
+
+20.6.5.6 is approved for release by written authorization of Publisher.
+
+In addition, SCE shall have the right to disclose the existence of this GDPA, and to make public announcements regarding the GDPA, taking Publisher's reasonable requests into consideration as to the timing of any public announcement.
+
+20.6.6
+
+SCE's Obli ations U on Unauthorized Disclosure. If at any time SCE becomes aware of any unauthorized duplication, access, use, possession or knowledge of Publisher Confidential Information, it shall notify Publisher as soon as is reasonably practicable. The applicable SCE Company shall provide any and all reasonable assistance to Publisher to protect Publisher's proprietary rights in any of Publisher Confidential Information that it or its employees or permitted subcontractors may have directly or indirectly disclosed or made available and that may be duplicated, accessed, used, possessed or known in a manner or for a purpose not expressly authorized by this GDPA, including enforcement of confidentiality agreements, commencement and prosecution in good faith (alone or with Publisher) of legal action, and reimbursement for all reasonable lawyers' fees, costs and expenses incurred by Publisher to protect Publisher's proprietary rights in Publisher Confidential Information. SCE shall take all reasonable steps requested by Publisher to prevent the recurrence of any unauthorized duplication, access, use, possession or knowledge of Publisher Confidential Information.
+
+21.
+
+Term and Termination
+
+21.1
+
+I nit i a l Term. T his GDPA shall be effective from the Effective Date until March 31, 2019 (the "Initial Term" ).
+
+21.2 T erm R e newal. The Initial Term shall be automatically extended for additional 12-month terms, unless either party provides the other with written notice of termination in accordance with this Section 21. T h e period commencing on the Effective Date and ending upon expiration or termination of the Initial Term and any additional terms is the "Term." N otwithstanding any
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+32
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 032
+
+EPIC 02070841
+
+termination or expiration, the term for th e protection of th e SCE M aterials and Publisher Confidential Information shall be as set forth in Section 20.
+
+21.3
+
+T erm i n ation by Publisher. Publisher shall have the right to terminate this GDPA at any time after expiration of the Initial Term, for any reason or for no reason, by providing notice to SCE at least thirty days before the effective date of the termination. In addition, Publisher shall have the right to terminate this GDPA for all Territories immediately, at any time, upon written notice to SCE, if SCE is in material breach of any of its obligations under this GDPA, which breach, if capable of remedy, shall not have been cured in full w i thin 30 days following notice from Publisher specifying and requiring the cure of such breach, or any repetition of a prior material breach of any such obligation, whether or not capable of remedy.
+
+21.4
+
+T erm i n ation for Convenience by SCE.SCE shall have the right to terminate this GDPA at any time after expiration of the Initial Term, for any reason or for no reason, by providing notice to Publisher at least thirty days before the effective date of the termination.
+
+21.5
+
+T erm i n ation for Cause by SCE. SC E s hall have the right to terminate this GDPA for all Territories or on a Territory-by-Territory basis immediately, at any time, upon written notice to Publisher, upon the occurrence of any of the following:
+
+21.5.1
+
+if Publisher is in material breach of any of its obligations under this GDPA or under any other agreement entered into between an SCE Company or any Affiliate, on the one hand, and Publisher on the other hand, which breach, if capable of remedy, shall not have been cured in full within 30 days following notice from SCE (or the applicable Affiliate as the case may be) specifying and requiring the cure of such breach, or any repetition of a prior material breach of any such obligation, whether or not capable of remedy;
+
+21.5.2
+
+a statement of intent by Publisher to no longer exercise any of the rights granted by SCE to Publisher hereunder, or Publisher failing to submit any Purchase Orders for Licensed Products under Sections 8.3 or 9.2.7 during any period of twelve consecutive calendar months;
+
+21.5.3 if P ublisher:
+
+21.5.3.1 is unable to pay its debts when due;
+
+21.5.3.2 makes an assignment for the benefit of any of its creditors;
+
+21.5.3.3 files or has filed against it a petition, or an order of bankruptcy or insolvency is made, under the bankruptcy or insolvency laws of any jurisdiction (and such petition is not discharged within 60 days) or becomes or is adjudicated bankrupt or insolvent;
+
+21.5.3.4 is the subject of an order for, or applies for or notices its intent to apply for, the appointment of an administrator, receiver, administrative receiver, manager, liquidator, trustee or similar officer to be appointed over any of its business or property;
+
+21.5.3.5 ceases to do business or enters into liquidation; or
+
+21.5.3.6 takes or suffers any similar or a n alogous action in a ny j u r isdiction as a consequence of debt;
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+33
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 033
+
+EPIC 02070842
+
+21.5.4 i f a c o ntrolling interest in Publisher, or in an entity which directly or indirectly has a controlling interest in Publisher, is transferred to a party that:
+
+21.5.4.1 is in breach of any agreement with an SCE Company or any Affiliate;
+
+21.5.4.2 directly or indirectly holds or acquires a controlling interest in a third party which designs or develops any of the core components for an interactive device or product which is directly or indirectly competitive with any System, or itself develops any product that is directly or indirectly competitive with any System; or
+
+21.5.4.3 is in l i tigation or i n a n adversarial administrative proceeding with an SCE Company or any Affiliate concerning the SCE Materials or any SCE Intellectual Property Rights, including challenging the validity of any SCE I ntellectual Property Rights;
+
+21.5.5 i f Publisher or any entity that directly or indirectly has a controlling interest in Publisher:
+
+21.5.5.1 enters into a business relationship with a third party related to the design or development of any core components for an interactive device or product which is directly or indirectly competitive with any System; or
+
+21.5.5.2 acquires an interest in or forms a strategic business relationship with any third party which has developed or owns or acquires Intellectual Property Rights in any such device or product;
+
+21.5.6 i f P ublisher or any of its affiliates initiates any legal or administrative action against any SCE Company or any Affiliate or challenges the validity of any SCE Intellectual Property Rights;
+
+21.5.7 i f P ublisher fails to pay any sums owed to any SCE Company on the date due and such default is not fully corrected or cured within ten (10) business days of the date on which such payment was originally due;
+
+21.5.8 i f P ublisher or any of its officers or employees engage in "hacking" of any software for any PlayStation format or in activities which facilitate the same by any third party; or
+
+21.5.9
+
+if any director, officer or controlling shareholder or group of shareholders of Publisher, in their personal capacity, has been, is, or becomes involved in any dispute with SCE or any Affiliate, including being the subject of any allegation of fraud or breach or infringement of the legal rights of SCE or any Affiliate.
+
+As used in this section, "controlling interest" means, with respect to any form of entity, sufficient power to control the decisions of such entity. Publisher shall immediately notify SCE in writing in the event that any of the events or circumstances specified in Section 21.5 occur. In the event of termination under 21.5.8, each SCE Company shall have the right to t erminate any other agreements entered into between that SCE Company and Publisher.
+
+21.6
+
+P r od u c t -by-Product Termination. In addition to the events of termination described in Section 21.5, an SCE Company, at its option, shall be entitled to terminate, with respect to a parncular PlayStation Compatible Product developed or published in that SCE Company's Territory, the licenses and related rights herein granted to Publisher immediately on written notice to Publisher, in the event that:
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+34
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 034
+
+EPIC 02070843
+
+21.6.1
+
+Pu b l isher fails to notify the applicable SCE Company promptly in writing of any material change to any materials previously approved by that SCE Company in accordance with Section 6.3 and the relevant Guidelines, and such breach is not corrected or cured within 30 days after receipt of written notice of such breach;
+
+21.6.2 Pu b l isher fails to comply with the requirements of Section 14 in connection with the development of any PlayStation Compatible Product;
+
+21.6.3
+
+an y t hird party with whom Publisher has contracted for the development of PlayStation Compatible Products breaches any of its material obligations to the applicable SCE Company pursuant to such third party's agreement with that SCE Company with respect to any such Play Station Compatible Product;
+
+21.6.4
+
+Publisher cancels a L icensed Product, or f ails to p r ovide to each applicable SCE Company, in accordance with the provisions of Section 6.3 and the relevant Guidelines, the final version of a proposed Licensed Product or related Packaging and Printed Materials for any Licensed Product within three months of the scheduled release date (as referenced in the Product Proposal or as mutually agreed by the parties in writing), or fails to provide work in progress or a fully tested Licensed Product to each applicable SCE Company in strict compliance with the review process set forth in the Guidelines;
+
+21.6.5 Pu b l isher fails materially to conform to the Guidelines with respect to any particular PlayStation Compatible Product; or
+
+21.6.6 an y PlayStation Compatible Product gives rise to a breach of Section 16.2.
+
+21.7
+
+O pt i o ns in Lieu of Termination.As alternatives to terminating the GDPA or all licensed rights
+
+with respect to a particular Licensed Product as set fordi in Sections 21.4, 21.5 or 21.6, or where
+
+SCE reasonably suspects a breach of the UK B r i bery Act 2010 or the US Foreign Corrupt
+
+Practices Act, SCE may, at its option and upon written notice to Publisher, suspend this GDPA for
+
+articular all Territories or on a Territory-by-Territory basis, entirely or with respect to a p
+
+Licensed
+
+Product, Online Activity, service or program, for a set period of time which shall be specified in
+
+writing to Publisher. Election of suspension shall not constitute a waiver of or compromise with
+
+respect to any of SCE's rights under this GDPA and SCE may elect to terminate this GDPA with
+
+respect to any breach.
+
+21.8
+
+E xt e n sion of this GDPA; Termination Without Prejudice.SCE shall be under no obligation to extend this GDPA notwithstanding any actions taken by either of the parties prior to the expiration of this GDPA.
+
+21.9 N o Ref u n ds. In t he event that this GDPA expires or is terminated under any of Sections 21.4 through 21.7, no poison of any payments of any kind whatsoever previously provided to SCE or any Affiliate under this GDPA shall be owed or be repayable or refunded to Publisher.
+
+22.
+
+Effect of Ex iration or Termination
+
+2 2.1
+
+No Li a b i lity.Up on the expiration or termination of this GDPA pursuant to Section 21, neither party shall be liable to the other for any damages (whether direct, indirect, consequential or incidental, and including any expenditures, loss of profits or prospective profits) sustained or arising out of or alleged to have been sustained or to have arisen out of such expiration or termination. The expiration or termination of this GDPA shall be without prejudice to any rights or remedies which one party may otherwise have against the other party, and shall not excuse either party from liability with respect to any events occurring prior to expiration or the effective date of termination.
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+35
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 035
+
+EPIC 02070844
+
+22.2 Inventory Statement. Within 30 days of the date of expiration or the effective date of termination with respect to any or all Licensed Products or this GDPA, Publisher shall provide each SCE Company with an itemized statement, certified to be accurate by an officer of Publisher, specifying the number of unsold units of the Physical Media Products as to which such termination applies, on a title-by-title basis, which remain in its inventory or under its control in the relevant Territory at the time of expiration or the effective date of termination. Each SCE Company shall be entitled to conduct at its expense a physical inspection of Publisher's inventory and work in progress upon reasonable written notice during normal business hours in order to ascertain or verify such inventory and inventory statement.
+
+22.3 Reversion of Rights. Upon expiration or termination and subject to Section 22.4, the licenses and
+
+related rights herein granted to Publisher shall immediately revert to SCE, and Publisher shall
+
+cease from any further use of the SCE Materials, Licensed Trademarks, and any SCE Intellectual
+
+Property Rights therein, and, subject to the provisions of Section 22.4, Publisher shall have no
+
+furrier right to continue the development, publication, manufacture, marketing, advertising, sale or
+
+other distribution of any PlayStation Compatible Products, or to continue to use any Licensed
+
+Trademarks; provided, however, that for a period of one year after the effective date of termination,
+
+and subject to all the terms of Section 20, and provided this GDPA is not terminated pursuant to
+
+Section 21.5, Publisher may retain such portions of the SCE Materials as SCE in its sole discretion
+
+agrees are required to support end-users who possess Licensed Products but must return all these
+
+materials at the end of such one year period. U pon expiration or termination, the licenses and
+
+related rights herein granted to SCE by Publisher shall immediately revert to Publisher, and SCE
+
+shall cease from any furrier use of Product Information and any Publisher Intellectual Property
+
+advertising, Rights therein; provided that SCE may continue the manufacture, marketing,
+
+sale and
+
+other such distribution by SC E o r i t s d esignee's demonstration physical media containing
+
+Publisher's Product Information which Publisher had previously approved.
+
+22.4 Disposal of Unsold units upon Termination. In the event of termination of this GDPA under Sections 21.4, 21.5.2, 21.5.4 or 21.5.5, Publisher may sell off existing inventories of units of the Physical Media Products, on a non-exclusive basis, and strictly in accordance with this GDPA, for a period of 90 days from the date of expiration or effective date of termination of this GDPA, provided such inventories have not been manufactured solely or principally for sale during such period. S ubsequent to the expiration of such 90 day period, or in the event this GDPA is terminated otherwise under Section 21.5, any and all units of the Physical Media Products remaining in Publisher's inventory or under its control shall be destroyed by Publisher within five business days of such expiration or termination date. W i t hin f ive business days after such destruction, Publisher shall provide each SCE Company with an itemized statement, certified to be accurate by an officer of Publisher, indicating the number of units of the Licensed Products which have been destroyed (on a title-by-title basis) in that SCE Company's Territory, the location and date of such destruction, and the disposition of the remains of such destroyed materials.
+
+22.5 Disposal of Unsold units upon Non-Renewal. In the event that the Term expires and this GDPA is not renewed, Publisher may continue to publish those PlayStation Compatible Products whose development was completed before or during the Term, and to use the Licensed Trademarks strictly, only and directly in connection with such publication, until the Term expires or, if later, until the second anniversary of the 31 January next following such completion. Upon expiration of the Term or, the extended period for publishing PlayStation Compatible Products, Publisher may sell off existing inventories of such PlayStation Compatible Products on a non-exclusive basis for a period of 180 days from the applicable expiration date; provided that such inventory is not manufactured solely or principally for sale within such sell-off period.
+
+22.6 Rights in Digitally Delivered Products on Termination or Expiry. On termination or expiry of this GDPA pursuant to Sections 21.3, 21.4 or 21.5, SCE shall have the right to continue to exercise its rights under Section 9.2.2 in respect of Digitally Delivered Products already available on PSN,
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+36
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 036
+
+EPIC 02070845
+
+in accordance with the terms of this GDPA, for a period of one year from the date of termination or expiry. In addition, upon expiration or earlier termination of the Term: (a) all rights, licenses or other entitlements to Digitally Delivered Products granted to users that purchased such Digitally Delivered Products during the Term shall survive termination and continue for so long as such rights, licenses or entitlements were granted; and (b) SCE shall have the corresponding posttermination rights to store, provide access to, and otherwise enable the permitted delivery of, such Digitally Delivered Products to such users for the remaining duration of their respective rights, licenses and entitlements.
+
+22.7 Return of the SCE M a terials. Up on the expiration or earlier termination of this GDPA or following either the 90 day period or the 180 day period referenced in Sections 22.4 and 22.5, and subject to Section 22.3, Publisher shall immediately deliver to SCE, or i f and to the extent requested by SCE, destroy, all SCE Materials and any and all copies thereof, including any SCE Materials disclosed by Publisher to any third party pursuant to this GDPA, and delete any SCE Materials stored in electronic form. Publisher and SCE shall, upon the request of the other party, immediately deliver to the other party, or to the extent requested by such party destroy, all confidential information of the other party, including any and all copies thereof, which the other
+party previously furnished to it in furdierance of this GDPA. Within five business days after any such destruction, Publisher or SCE, as appropriate, shall provide the other party with a certificate of destruction and an itemized statement, each certified to be accurate by an officer of Publisher or SCE, indicating the location and date of such destruction and the disposition of the remains of such destroyed materials. In the event that Publisher fails to return or certify the destruction of the SCE Materials and SCE must resort to legal means (including any use of lawyers) to recover the SCE Materials or the value thereof, all costs, including SCE's reasonable lawyers' fees, shall be borne by Publisher, and SCE may, in addition to SCE's other remedies, withhold such amounts from any payment otherwise due from SCE to Publisher under any agreement between SCE and Publisher.
+
+23.
+
+Choice of Law and Forum. TH I S GDPA AND A NY D I S PUTE OR CLAIM A R ISING OUT OF ITS
+
+SUBJECT MATTER WILL BE GOVERNED BY AND INTERPRETED IN ACCORD A N C E W ITH THE
+
+LAWS OF THE JURISDICTIONS SET FORTH IN T HI S SECTION 23. P U B L ISHER HEREBY S UBMITS I T SELF T O T H E E X C L U SIVE J U RISDICTION A N D V E N U E O F T H E C O U R T S
+
+DESCRIBED IN T H I S SECTION FOR PURPOSES OF ANY A C T ION O R PROCEEDING, AND
+
+AGREES THAT ANY SERVICE OF PROCESS MAY BE EFFECTED BY DELIVERY OF THE
+
+SUMMONS IN TH E M A N NER PROVIDED IN T H E D E L IVERY OF N O TICES SET FORTH IN SECTION 25.1. I N A D D I T I ON, WHERE PERMITTED BY L A W , P U B LISHER AND E ACH SCE
+
+COMPANY H E R EBY W A IVES THE RIGHT TO A J URY T R IAL IN ANY A C TION OR
+
+P ROCEEDING R E L A TE D T O TH I S G D P A , O T H E R T H A N A C T I O N S A R I S IN G O U T O F
+
+VIOLATION OF INTELLECTUAL PROPERTY RIGHTS OR CONFIDENTIALITY OBLIGATIONS.
+
+23.1 F OR A L L CL A I M S B R O U G HT B Y OR A GA I N S T S C EI O R R E L A T I NG T O SC E I ACTIVITIES OR DEVELOPMENT TOOLS LOCATED IN THE SCEI TERRITORY, THIS GDPA WILL BE GOVERNED BY AND INTERPRETED IN ACCORD A NCE W ITH THE
+LAWS OF JAPAN, EXCLUDING THAT BODY OF LAW RELA TED TO CHOICE OF LAWS. ANY ACTION OR PROCEEDING TO ENFORCE THE TERMS OF THIS GDPA OR TO ADJUDICATE ANY DISPUTE ARISING UNDER THIS GDPA WILL BE HEARD IN THE COURT OF TOKYO DISTRICT COURT, TOKYO, JAPAN.
+
+23.2 F OR A L L CL A I M S B R O U G HT B Y O R A GA I N S T S C EA O R R E L A T I NG T O S C E A ACTIVITIES OR DEVELOPMENT TOOLS LOCATED IN THE SCEA TERRITORY, THIS GDPA WILL BE GOVERNED BY AND INTERPRETED IN ACCORD A NCE W ITH THE
+L AWS OF THE STATE OF CALIFORNIA, EXCLUDING THAT BODY OF LAW RELA T E D TO CHOICE OF LAWS. SUBJECT TO SECTIONS 24.1 AND 24.2, FOR ANY ACTION OR PROCEEDING TO ENFORCE THE TERMS OF THIS GDPA OR TO A D JUDICATE ANY DISPUTE ARISING UNDER THIS GDPA, THE PARTIES CONSENT TO JUSRISDICTION
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+37
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 037
+
+EPIC 02070846
+
+AND VENUE IN THE SUPERIOR COURT FOR THE STATE OF CALIFORNIA IN AND FOR THE COUNTY OF SAN MAT EO, AND THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF CALIFORNIA. P U B L I SHER WAIVES ALL D EFENSES OF LACK OF PERSONAL JURISDICTION AND FORUM NON CONVENIENS.
+
+23.3 F OR A L L CL A I M S B R O U G HT B Y O R A GA I N S T S C EE O R R E L A T I NG T O S C E E ACTIVITIES OR DEVELOPMENT TOOLS LOCATED IN THE SCEE TERRITORY, THIS GDPA WILL BE GOVERNED BY AND INTERPRETED IN ACCORD A N C E W ITH ENGLISH LAW. THE PARTIES IRREVOCA BLY AG REE FOR THE EXCLUSIVE BENEFIT OF SCEE THAT THE ENGLISH COURTS SHALL HAVE JURISDICTION TO ADJUDICATE ANY PROCEEDING, SUIT OR ACTION ARISING OUT OF OR IN CONNECTION WITH SUCH TERMS. HOWEVER, NOTHING CONTAINED IN THIS SECTION 23 SHALL LIMIT THE RIGHT OF SCEE TO T AK E AN Y S UCH PROCEEDING, SUIT OR A CTION A GA INST PUBLISHER IN ANY OTHER COURT OF COMPE T ENT JURISDICTION, NOR SHALL THE T AKING O F A N Y S U C H P R O CEEDING, S UI T O R A C T I O N I N O N E O R M OR E JURISDICTIONS PRECLUDE THE TAKING OF ANY OTHER SUCH PROCEEDING, SUIT OR ACTION IN ANY OTHER JURISDICTION, WHETHER CON C U R R E N T LY OR NOT, TO
+THE E X T E N T P E R M I T TE D B Y T HE L A W O F SU CH O TH E R J U R I SDICTION. PUBLISHER SHALL HAVE THE RIGHT TO TAKE ANY SUCH PROCEEDING, SUIT OR ACTION AGAINST SCEE ONLY IN THE ENGLISH COURTS.
+
+24.
+
+Dis ute Resolution. SCE and Publisher shall attempt in good faith to resolve through informal discussions
+
+or negotiations any dispute, controversy or claim of any kind or nature arising under or in connection with
+
+this GDPA, including breach, termination or validity thereof (a "Dispute" ). Neither SCE nor Publisher may
+
+commence any court or arbitration proceedings in relation to this GDPA until at least 30 days after
+
+commencing such negotiations or discussions, unless interim, equitable, or conservatory relief is sought
+
+pursuant to Section 24.2.
+
+24.1 An y c l a im brought against SCEA, or any Dispute relating to SCEA or Development Tools located in the SCEA Territory, that SCEA and Publisher are unable to resolve through informal discussions or negotiations after 30 days will be submitted to binding arbitration conducted in accordance with and subject to the Commercial Arbitration Rules of the American Arbitration Association, except to the extent otherwise required under this dispute resolution clause. One arbitrator will be selected by the mutual agreement of SCEA and Publisher or, failing that, by the American Arbitration Association. The arbitrator must have substantial experience in disputes involving technology licensing agreements. T h e a rbitrator will a l low such discovery as is appropriate, and impose such restrictions as are appropriate, consistent with the purposes of arbitration in accomplishing fair, speedy and cost-effective resolution of disputes, except that (i) no requests for admissions will be permitted; (ii) interrogatories will be limited to (a) identifying persons with knowledge of relevant facts and (b) identifying expert witnesses and obtaining their opinions and the bases therefor; and (iii) SCEA and Publisher will each be limited to five (5) depositions. Judgment upon the award rendered in any such arbitration may be entered in any court having jurisdiction thereof. Any arbitration conducted pursuant to this section will take place within the Northern District of California. SCEA and Publisher will bear their own costs and will share equally in paying the expenses and fees of the arbitrator. The arbitrator may not alter the foregoing allocation of their costs, nor of the arbitrator's fees and expenses. Other than as set fordt below with respect to interim, equitable, or conservatory relief for SCEA or any action necessary to enforce the award of the arbitrator, SCEA and Publisher agree that the provisions of this section are a complete defense to any suit, action or other proceeding instituted in any court or before any administrative tribunal with respect to any Dispute.
+
+24.2 Not wi t h standing the fo regoing, any S CE C ompany may a pply to a ny c o u rt of c o m petent jurisdiction seeking a temporary restraining order, preliminary injunction, or other interim,
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+38
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 038
+
+EPIC 02070847
+
+equitable, or conservatory relief, with respect to the protection of any SCE Intellectual Property Rights or SCE Materials, including Licensed Trademarks.
+
+25.
+
+Mi sce l l aneous Provisions
+
+25.1 Not i c e s.All notices or other communications required or desired to be sent to either of the parties shall be in writing and shall be sent by registered or cernfied mail, postage prepaid, or sent by recognized international courier service, with charges prepaid. The address for all notices under this GDPA shall be addressed as set forth in this Section 25.1, or such other address as may be provided by written notice from one party to the other on at least ten days' prior written notice. Any such notice shall be effective upon the date of actual receipt.
+
+25.1.1 I f t o Publisher, to the address for the legal contact set forth in Publisher's registration form.
+
+25.1.2 I f t o SCEI:
+
+ATTN: Vice President, Legal Dept. Sony Computer Entertainment Inc. 1-6-27 Konan Minato-ku, Tokyo 108-8270 Japan
+
+25.1.3 I f t o SCEA:
+
+ATTN: General Counsel Sony Computer Entertainment America LLC 2207 Bridgepointe Parkway San Mateo, CA 94404 USA
+
+25.1.4 I f t o SCEE:
+
+ATTN: Vice President, Legal k Business Affairs Sony Computer Entertainment Europe Limited 10 Great Marlborough Street London WIF 7LP United Kingdom
+
+In addition, any notice sent by any SCE Company modifying the Guidelines may be sent by email to the email address of the Publisher contact set fordi in Publisher's registration form.
+
+25.2 Forc eM a jeure. Neither SCE nor Publisher shall be liable for any loss or damage or be deemed to be in breach of this GDPA if its failure to perform or failure to cure any of its obligations under this GDPA results from any event or circumstance beyond its reasonable control, including any natural disaster, fire, flood, earthquake or other Act of God; shortage of equipment, materials, supplies or transportation facilities; strike or other industrial dispute; war or rebellion; shutdown or delay in p o wer, t elephone or o t her essential service due t o t h e f a i lure o f c o mputer or communications equipment or otherwise (each of the foregoing a "Force Majeure Condition" ); provided, however, that the party interfered with gives the other party written notice thereof promptly, and, in any event, within fifteen (15) business days of discovery of any Force Majeure Condition. I f n o tice of the existence of any Force Majeure Condition is provided within such period, the time for performance or cure shall be extended for a period equal to the duration of the Force Majeure Condition described in such notice, except that any such cause shall not excuse the
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+39
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 039
+
+EPIC 02070848
+
+payment of any sums owed to any SCE Company prior to, during or after the occurrence of any Force Majeure Condition. In the event that the Force Majeure Condition continues for more than 60 days, SCE may terminate this GDPA for cause by providing written notice to Publisher to such effect.
+25.3 Non-Solicitation. Ne ither Publisher nor any of its affiliates, by itself, its officers, employees or agents, directly or indirectly will, during the Term, induce or seek to induce, on an individually targeted basis, the employment or the engagement of the services of any employee of SCE or any Affiliate, whose services are (a) specifically engaged in product development or directly related functions or (b) otherwise reasonably deemed by his or her employer to be of material importance to the protection of its legitimate business interests, and (c) with whom Publisher or any of its affiliates shall have had contact or dealings during the Term. These provisions shall continue to apply for a period of 12 months after this GDPA expires or is terminated.
+25.4 No Agency, Partnership or Joint Venture. The relationship between each SCE Company and Publisher is that of licensor and licensee. Both parties are independent contractors and neither party is the legal representative, agent, joint venturer, partner or employee of the other party for any purpose whatsoever. N e i ther party has any right or authority to assume or create any obligations of any kind or to make any representation or warranty on behalf of the other party, whether express or implied, or to bind the other party in any respect whatsoever.
+25.5 Assignment. SCE has entered into this GDPA based upon the particular reputation, capabilities and experience of Publisher and its officers, directors and employees. Except as provided in this GDPA, Publisher may not assign, sublicense, subcontract, encumber or transfer this GDPA or any of its rights hereunder, nor delegate or transfer any of its obligations hereunder, to any third party unless the prior written consent of SCE shall first be obtained. A n y attempted or purported assignment, delegation or other such transfer, directly or indirectly, without the required consent of SCE shall be void and a material breach of this GDPA. SCE shall have the right to assign, sublicense, subcontract, encumber or transfer this GDPA or any and all of its rights and obligations hereunder. Subject to the foregoing, this GDPA shall inure to the benefit of the parnes and their respective successors and permitted assigns (other than in connection with any of the events referenced in Section 21.5,4),
+25.6 Third Party Rights. Except as expressly provided in this GDPA, and save that SCEI may enforce in any Territory the terms of Sections 3 (Conditional License Grant), 5 (Other Limitations on Licensed Rights, 6.1 (Right to Develop), 6.4 (Authentication), 7.8 (Care and Maintenance of Development Tools), 18 (Limitation of Liability), 19 (Infringement of SCE Intellectual Property Rights By Third Parties), 20 (Data Security and Confidentiality), 22 (Effect of Expiration or Termination), 23 (Choice of Law and Forum) and 25 (Miscellaneous Provisions), a person who is not a party to this GDPA shall have no right under any applicable law to enforce any of its terms.
+25.7 Compliance with Applicable Laws. The parnes shall at all times comply with all applicable laws and regulations and all conventions and treaties to which their countries are a party or relating to or in any way affecting this GDPA and the performance by the parties of this GDPA, including the UK Bribery Act 2010, the US Foreign Corrupt Practices Act, the US Children's Online Privacy Protection Act, C anada's Personal Information Protection and E lectronic Documents Act, Mexico's Federal Data Protection Act, and all other laws and regulations relating to the gathering, handling and dissemination of all data from or concerning end-users of PlayStation Compatible Products. Each party, at its own expense, shall negotiate and obtain any approval, license or permit required in the performance of its obligations, and shall declare, record or take such steps to render this GDPA b i n ding, including the r ecording of t h i s G DP A w i t h a n y a p propriate governmental authorities (if required).
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+40
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 040
+
+CONFIDENTIAL
+EPIC 02070849
+
+25.8 Legal Costs and Expenses. In the event it is necessary for either party to retain the services of a lawyer to enforce the provisions of this GDPA or to file or defend any action arising out of this GDPA, then the prevailing party in any such action shall be entitled, in addition to any other rights and remedies available to it at law or in equity, to recover from the other party its reasonable fees for lawyers and expert witnesses, plus such court costs and expenses as may be fixed by any court of competent jurisdiction. T h e term "prevailing party" for the purposes of this section shall include a defendant who has by motion, judgment, verdict or dismissal by the court, successfully defended against any claim that has been asserted against it.
+
+25.9 Remedies. Un less expressly set fordi to the contrary, either party's election of any remedies provided for in this GDPA shall not be exclusive of any other remedies at law or equity, and all such remedies shall be deemed to be cumulative. Any breach of Sections 3, 4, 5, 20, or 22,2 - 22,7 of this GDPA would cause significant and irreparable harm to SCE, the extent of which would be difficult to ascertain and for which damages might not be an adequate remedy. Accordingly, in addition to any other remedies, including damages to which each SCE Company may be entitled, in the event of a b reach or threatened breach by Publisher or any of it s directors, officers, employees, agents or permitted consultants or subcontractors of any such section or sections of this GDPA, each SCE Company shall be entitled to the immediate issuance without bond or other security, of ex parte equitable relief, including injunctive relief, or, if a bond is required under applicable law, on the posting of a bond in an amount not to exceed USD $50,000 (or the equivalent amount in foreign currency as determined by the applicable SCE Company's chosen exchange if located outside of the SCEA Territory), enjoining any breach or threatened breach of any or all of such provisions taking place in that SCE Company's Territory or otherwise affecting that SCE Company or its Territory.
+
+25.10
+
+Severability. In the event that any provision of this GDPA or pornon thereof is determined by a court of competent jurisdiction to be invalid or unenforceable, such provision or pornon shall be enforced to the extent possible consistent with the stated intention of the parties, or, if incapable of such enforcement, shall be deemed to be deleted from this GDPA, while the remainder of this GDPA shall continue in full force and remain in effect according to its stated terms and conditions.
+
+25.11
+
+Sections Surviving Expiration or Termination. The following Sections survive expiration or termination of this GDPA for any reason: 5 (Other Limitations on Licensed Rights), 7.12.3 (SCE Ownership), 8.9 (Ownership of Original Master Discs), 15.1.3 (SCE Audit), 15.2.6 (Publisher Audit), 16 (Representations and Warranties), 17 (Indemnities), 18 (Limitation of Liability), 20 (Data Security and Confidentiality), 21.9 (No Refunds), 22 (Effect of Expiration or Termination), 23 (Choice of Law and Forum), 24 (Dispute Resolution), and 25 (Miscellaneous Provisions).
+
+25.12
+
+Waiver. No failure or delay by either party in exercising any right, power or remedy under this GDPA shall operate as a waiver of any such right, power or remedy. No waiver of any provision of this GDPA shall be effective unless in writing and signed by the party against whom such waiver is sought to be enforced. Any waiver by either party of any provision of this GDPA shall not be construed as a waiver of any other provision of this GDPA, nor shall such waiver operate or be construed as a waiver of such provision respecting any future event or circumstance.
+
+25.13
+
+Modification and Amendment. SCE reserves the right, without notice and with immediate effect, to amend the provisions of this GDPA or the Guidelines to take account of or in response to any decision, order, or objection of any court or governmental or other competition authority of competent jurisdiction, or any statutory or similar measures that give effect to any such decision (from which this GDPA or the Guidelines is not exempt) or to reflect any undertaking by SCE to any such authority. Any such amendment shall be of prospective application only and shall not be applied to any PlayStation Compatible Products submitted to the applicable SCE Company pursuant to Section 6.3 prior to the date of SCE's notice of amendment. Except as otherwise
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+41
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 041
+
+EPIC 02070850
+
+provided in this GDPA, no modification or amendment of any provision of this GDPA shall be effective unless in writing and signed by both of the parties.
+
+25.14
+
+Interpretation. The section headings used in this GDPA are intended primarily for reference and
+
+shall not by themselves determine the construction or interpretation of this GDPA or any p ortion
+
+hereof. Any reference to a section number is to a section of this GDPA. Any reference to persons
+
+includes natural persons as well as organizations, including firms, paMerships, companies and
+
+articular," corporations. Any phrase introduced by the terms "including," "include," "in p
+
+or any
+
+similar expression shall be construed as illustrative and shall not limit the category preceding those
+
+terms.
+
+25.15
+
+Integration. This GDPA, together with the Guidelines, constitutes the entire agreement between each SCE Company and Publisher and supersedes all prior or contemporaneous agreements, proposals, representations, understandings and communications between each SCE Company and Publisher, whether oral or w r itten, with respect to the subject matter hereof, including any confidentiality, licensed developer or publisher, store or development tools agreements. Publisher is not relying upon any statement, representation, warranty or understanding, whether negligently or innocently made, of any person other than as expressly set forth in this GDPA.
+
+25.16 Con s truction.This GDPA shall be fairly interpreted in accordance with its terms and without any strict construction in favor of or against either of the parhes.
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+42
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 042
+
+CONFIDENTIAL
+EPIC 02070851
+
+SCHEDULE I
+DEFINITIONS
+"Additional Terms" has the meaning set forth in Section 10.1.
+"Advertising Materials" means any advertising, marketing, merchandising, promotional, contest or competitionrelated, press release, display, point of sale or website materials regarding or relating to PlayStation Compatible
+Products or depicting Licensed Trademarks. AdvertisingMaterials include any advertisements or promotions in
+which any System is displayed, referred to, or used, including giving away any System as a prize in contests or sweepstakes and the public display of any System in product placement opportunities.
+"Affiliate" means Sony Computer Entertainment Korea Inc., Sony Computer Entertainment Hong Kong Limited, Sony Network Entertainment International, LLC, Sony Network Entertainment Europe Ltd., Gaikai, Inc., Sony Digital Audio Disc Corporation, Sony DADC Austria AG, any Designated Manufacturing Facility, any direct or indirect subsidiary or parent of any of the foregoing, and any other entity created that becomes a direct or indirect subsidiary or parent of, or shares a common direct or indirect parent with, an SCE Company.
+"Designated Manufacturing Facility" means a manufacturing facility that is designated by the SCE Company, in its sole discretion, to manufacture and assemble Physical Media Products or any of their component parts in that SCE Company's Territory.
+"Development Site" means the location(s) where Development Tools are used to develop PlayStation Compatible Products.
+"Development Tools" means the Hardware Tools and Software Tools.
+"Developer Website" means DevNet, TPRNet and any other password-protected website that an SCE Company may maintain to facilitate the dissemination of Development Tools or other SCE Materials to Licensed Publishers, or to provide Licensed Publisher with written materials associated with and that describe the function of the Development Tools, including any data, object code, source code, libraries, firmware, documentation, and other tools and information.
+"Digitally Delivered Product" means a Licensed Product distributed to end-users by electronic or other non-physical means now known or hereafter devised (including wireless, cable, fiber optic, telephone, cellular, microwave or radio waves, the Internet, or private network),
+"Dispute" has the meaning set forth in Section 24.
+"Documentation" means all information or materials that SCE may provide to Licensed Publishers or Licensed Developers that are associated with and describe the function of the Development Tools or other SCE Materials.
+"Effective Date" means the date on which Publisher accepts the terms of this GDPA.
+"Firmware" means all code embedded on any chip contained within any Hardware Tool, as may be upgraded or changed from time to time.
+"Force Majeure Condition" has the meaning set forth in Section 25.2.
+"GDPA" has the meaning set forth in the first paragraph of this agreement.
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+43
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 043
+
+CONFIDENTIAL
+EPIC 02070852
+
+"Guidelines" means any guidelines, specifications or policies of an SCE Company with respect to the development, manufacture, marketing and publishing of PlayStation Compatible Products, including any requirements regarding
+the display of Licensed Trademarks, use of AdvertisingMaterials, or the protection of SCE Intellectual Property
+Rights. The Guidelines, and any modifications or additions made from time to time in accordance with Section 4, shall be set for& on the Developer Website or at such url as is provided by SCE to Publisher. The Guidelines shall be comparable to the guidelines applied by SCE to its own software products for the Systems. The Guidelines are incorporated into and form a part of this GDPA.
+"Hardware Tools" means the hardware components of the development systems used for development of PlayStation Compatible Products, or poisons of such components, as updated or changed, that SCE may provide to Licensed Publishers or Licensed Developers. "Hardware Tools" does not include Software Tools.
+"Initial Term" has the meaning set for& in Section 21.1.
+"Intellectual Property Rights" means all worldwide intellectual property rights, current or future, including rights in or related to patents, inventions, designs, copyrights and related rights, databases, trademarks, service marks, trade names, trade dress, mask work rights, utility model rights, trade secret rights, technical information, know-how, and the equivalents of the foregoing under the laws of any jurisdiction, and any other intellectual property rights recognized in the Territory (including all registrations, applications to register and rights to apply for registration of the same), for their full term including all renewals and extensions.
+"Licensed Developer" means an entity that has in effect a Licensed Developer Agreement with an SCE Company, or that has executed this GDPA and been accepted as a "Licensed Publisher" as set for& in Section 3.
+"Licensed Developer Agreement" means a valid and current license agreement authorizing the development of software for any System, fully executed between a Licensed Developer and a SCE Company.
+"Licensed Product" means a PlayStation Compatible Product that installs or operates (or is designed to install or operate), in whole or in part, on a System, and associated Packaging, Printed Materials, metadata, and content. For the avoidance of doubt, Licensed Product does not include middleware (except as incorporated into a Licensed Product) or Peripherals.
+"Licensed Publisher" means an entity that has executed a GDPA or other Licensed Publisher Agreement in full force and effect, and has been approved in writing by an SCE Company to develop or publish Licensed Products.
+"Licensed Publisher Agreement" means a valid and current license agreement authorizing the publishing of software for any System, fully executed between a Licensed Publisher and an SCE Company, including any Global Developer and Publisher Agreement.
+"Licensed Trademarks" means the trademarks, service marks, trade dress, logos, icons and other indicia designated in the Guidelines or for use on, in or in connection with Licensed Products.
+"Online Activity" means the online interaction by end-users with other end-users (which, for the avoidance of doubt, includes the sharing of User Content within the gameplay or online environment of Licensed Products), with online elements (such as PlayStation Home, the virtual, interactive community of PSN), or with Publisher or its designee, via the use of a PlayStation Compatible Product.
+"Packaging" means the carton, containers, cases, edge labels, wrapping materials, security seals and other proprietary labels and trade dress elements of or concerning the Physical Media Product (and all parts of any of the foregoing) but specifically excluding Printed Materials and discs or game cards.
+"Peripheral" means a device that connects to, interfaces with or interacts with a System, including controllers, cameras, wheels, mice and keyboards and other input devices.
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthrough1
+
+44
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 044
+
+EPIC 02070853
+
+"Personal Information" means information relating to an identified or identifiable natural person, or substantially similar terms as defined by applicable law.
+"Physical Media Product" means a Licensed Product distributed in a physical form specified by SCE, such as a Bluray disc or game card.
+"PlayStation Compatible Product" means any software, content, service, hardware, Peripheral, good, or other item intended for or capable of use on, interaction with, or connection to a System, or which uses or is capable of using any service, aspect, or feature of PSN or PSN data, or which affects the gameplay of Users. PlayStation Compatible Product includes applications (including companion aps), communication features, virtual currency, audio and visual material (including demos, videos, themes, wallpapers, levels, maps, consumable items, skins, virtual items, and avatars), modifications, improvements, additions, upgrades, updates, patches, scripts, player statistics and data, notices, links or other content intended for or capable of use on, interaction with, or connection to a System.
+"PlayStation Now" means the SCE proprietary cloud gaming service that allows Users to access content streamed from remote servers to Systems and other SCE-approved devices.
+"PlayStation Plus" means the SCE premium subscription service available through PSN.
+"PlayStation Store" means the primary destination within PSN for the discovery and purchase of content.
+"Printed Materials" means all artwork and mechanicals for the disc label for each Physical Media Product and for the Packaging relating to any of the Physical Media Products, and all instructional manuals, liners, inserts, and any other materials and user information within or attached to the Packaging and distributed as part of the Physical Media Products.
+"Product Information" means Publisher's name, any extracts or references to Licensed Products, any trademarks, services marks, trade dress, logos, icons or other indicia used on, in or in connection with Licensed Products, any information owned or licensed by Publisher relating to any of the Licensed Products, including demos, videos, hints and tips, artwork, depictions of Physical Media Products, cover art and videotaped interviews; all of the foregoing as may be furrier specified in the Guidelines, and as provided by Publisher pursuant to Section 9.2.3.
+"Product Proposal" means a written proposal prepared by Publisher and submitted to SCE under the Guidelines regarding the concept and design for a PlayStation Compatible Product.
+"Product Submission" has the meaning given to it in Section 9.2.7
+"PSN" means the proprietary online network operated by SCE or Affiliates accessible via the Systems and other devices, including services provided as part of or through that network, such as PlayStation Now and the PlayStation Store. PSN includes new services and features developed and offered after the date of this GDPA, and other online networks launched after the date of this GDPA, as specified by SCE.
+"P SN ID" means SCE's unique User identifier on P SN.
+"Publisher" has the meaning set fordi in the first paragraph of this GDPA. For the avoidance of doubt, a "Publisher" may be an entity which chooses only to exercise the rights to develop, and not the rights to publish, Licensed Products under this GDPA.
+"Publisher Confidential Information" has the meaning set fordi in Section 20.6.1.
+"Publisher EULA" has the meaning set forth in Section 10.2.
+"Publisher-Indemnified Claims" has the meaning set fordi in Section 17.2.
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+45
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 045
+
+EPIC 02070854
+
+"Publisher Intellectual Property Rights" means those Intellectual Property Rights that are owned and controlled by Publisher and that relate to the Publisher Property, Packaging, Product Information, Product Proposals, Printed Materials, Advertising Materials or other materials.
+"Publisher Property" means that part of a PlayStation Compatible Product developed by or on behalf of Publisher, or controlled by Publisher, or provided by or on behalf of Publisher in connection with any PlayStation Compatible Product, not including any Software Tools or SCE Intellectual Property Rights.
+"Purchase Order" means a written purchase order issued by Publisher pursuant to Section 8.3, regarding the purchase of Physical Media Products (or other products or materials that may be ordered under this GDPA), that conforms to the Guidelines and other terms and conditions imposed by the applicable SCE Company or applicable Designated Manufacturing Facility.
+"SCE" has the meaning set forth in the first paragraph of this GDPA.
+"SCE Company" has the meaning set forth in the first paragraph of this GDPA.
+"SCE-Indemnified Claims" has the meaning set fordi in Section 17.1.
+"SCE Intellectual Property Rights" means those Intellectual Property Rights that relate to a System, the design and development of Play Station Compatible Products, P SN and any SCE Materials.
+"SCE Materials" means the Development Tools, this GDPA, the Guidelines, all information obtained from a Developer Website; other information, documents and materials developed, owned, licensed or under the control of SCE or any Affiliate, including all those relating to processes, data, hardware, software, network communications and related activities, inventions, trade secrets, ideas, creations, improvements, designs, discoveries, developments, research and know-how, including SCE Intellectual Property Rights relating to the Development Tools; information, documents and other materials regarding SCE's or any Affiliate's finances, business and business methods (including commercial relationships, licensing terms, pricing and customers lists), marketing and technical plans, and development and production plans; and third-party information and documents licensed to or under the control of SCE or any Affiliate. SCE Materials consists of information in any medium, whether oral, printed, in machinereadable form or otherwise, provided to Publisher before or during the Term, including information subsequently reduced to tangible or written form. In addition, the existence of a relationship between Publisher and SCE shall be deemed to be SCE Materials unless otherwise agreed to in writing by the parhes, or until publicly announced by SCE.
+"SCEA" has the meaning set forth in the first paragraph of this GDPA.
+"SCEE" has the meaning set fordi in the first paragraph of this GDPA.
+"SCEI" has the meaning set fordi in the first paragraph of this GDPA.
+"SCEA Territory" means the following countries: Canada, Mexico, Brazil, Chile, Argentina, Peru, Ecuador, Colombia, Nicaragua, Honduras, Costa Rica, Guatemala, El Salvador, Panama, Bolivia, Paraguay, United States of America (and its territories and possessions), and Uruguay, or as otherwise provided in the Guidelines.
+"SCEE Territory" means the following countries: Albania, Algeria, Andorra, Angola, Armenia, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belgium, Belorussia, Bosnia Herzegovina, Botswana, Bulgaria, Cameroon, Croatia, Cyprus, Czech Republic, Denmark, D j i bouti, Egypt, Estonia, Ethiopia, Fiji, Finland, France, Georgia, Germany, Ghana, Gibraltar, Greece, Hungary, Iceland, India, Ireland, Israel, Italy, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macedonia, Madagascar, Malawi, Malta k Gozo, Mauritius, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, New Zealand, Nigeria, Norway, Oman, Pakistan, Papua New Guinea, Poland, Portugal, Qatar, Romania, Russian Federation, San Marino, Saudi Arabia, Senegal, Slovakia, Slovenia, Somalia, South Africa, Spain, Swaziland, Sweden, Switzerland, Tajikistan, Tanzania, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, united Arab Emirates,
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+46
+
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 046
+
+EPIC 02070855
+
+United Kingdom, Uzbekistan, Vatican, Yemen, Zaire, Zambia and Zimbabwe, or as otherwise provided in the Guidelines.
+"SCEI Territory" means the following countries: Thailand, Philippines, Malaysia, Vietnam, Singapore, Indonesia, Taiwan, Korea, Hong Kong, and Japan, or as otherwise provided in the Guidelines.
+"Software Product License Agreement" means the end-user license agreement between SCEA and a user found at us.playstation.corn/softwarelicense or, for SCEE, the Software Usage Terms (or equivalent) between SCEE and a user found on the packaging or eu.playstation.corn/legal.
+"Software Tools" means software (including object code, source code and l i braries and Firmware) and Documentation relating to the development of Play Station Compatible Products.
+"System" means each of the proprietary PlayStation systems known as the PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable (PSP), PlayStation Vita (PS Vita), and PlayStation Vita TV (PS Vita TV), including all iterations and server emulation of each. C o llectively, all of the foregoing are referred to as the "Systems."
+"System Bypass Areas" has the meaning set forth in Section 5.1.
+"Term" has the meaning set forth in Section 21.2.
+"Territory" means any one of the SCEA Territory, the SCEE Territory, or the SCEI Territory.
+"ToSUA" means the terms of service for PSN, as amended from time to time.
+"User" means an individual with a PSN account.
+"User Content" has the meaning given to it in Section 6.7
+"VAT" means Value Added Tax as set out in the UK Value Added Tax Act 1994 or, in relation to any member state of the European Union, the equivalent system of V alue Added Tax as defined in the EU V A T D i r ective (2006/112/EC) or, in relation to any non-EU country, the equivalent tax, such as, but not limited to, VAT, sales tax and GST.
+"Wholesale Price" means, for D i gitally D elivered Products sold by Publisher to SCE fo r r esale, the price that Publisher offers and SCE accepts for each unit of a specified Digitally Delivered Product, as may be stated in a form provided by SCE. For Physical Media Products, "Wholesale Price" means the initial wholesale price or price to trade Publisher offers to retailers, distributors, wholesalers or other intermediaries of Physical Media Products, as evidenced by sell sheets or other trade materials.
+
+Sony Computer Entertainment
+
+PLAYSTATION GDPA version 1.02(clickthroughl
+
+47
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY DX-3293. 047
+
+CONFIDENTIAL
+EPIC 02070856
+
+

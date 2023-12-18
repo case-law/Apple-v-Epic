@@ -1,0 +1,222 @@
+From: Sent: To: Cc:
+
+And rew Grant
+
+Mon , 3 Jun 2019 19:37:04+0000 (UTC)
+
+Chan ce Ivey <
+
+Don E ubanks
+Jones Publish' Fricker Ozalp Sweeney Wan Hao
+
+; Aden Aden-Farah Anthony Bills
+; Daniel Voge David Nikdel
+; Mark Rein ; Nick Darnell
+an Vance irtualReality Zak Phelps
+
+Subject: e: e ro s e: cro s o t Announces Minecraft World
+
+United StatesDistrict Court Northern District of Caiifomia
+
+Case No. 4:20.cv-05640-YGR
+
+Case Title E ie Ganrea,Iae n .4trrrte, tne
+
+Exhibit No.DX-4119
+
+Date Entered
+
+sana Y. saoaa.Clos
+
+at.
+
+. Danny clos
+
+; Atli Mar
+
+David
+
+; Mike ; Ozgur
+
+airos
+
+They showed the first demo of this today at Apple's WWDC event.
+Two of the most impressive features (human occlusion of CG and live mocap) are powered by tech in the new version of ARKit and were described as "exclusive to iOS".
+h s ://www.thever e.com/2019/6/3/18650201/minecraft-earth-demo-a le-wwdc-2019-microsoft
+
+On Fri,May 17,2019 at7:28 PM Chance Ivey <
+
+wrote:
+
+I know Megan (the dev froin the article) if we want to consult an expert
+
+On Fri, May 17, 2019 at 4:26 PM Don Eubanks
+
+wrote:
+
+Relevant reading for those unfamiliar with the snttggle:
+
+h s //www eek com/ ames/ enis-detection-derailed-the-le o-universe-mmo-1624034/
+
+-Don
+
+On Fri, May 17, 2019 at 7:05 PM Nick Darnell There will also be an equally strong adversarial ML dick generator.
+-Nick On Fri, May 17, 2019 at 6:26 PM David Nikdel
+
+wrote: wrote:
+
+Exhibit 0050
+Grant
+
+The AI singularity will probably be some form of ML dick detector.
+
+On Fri, May 17, 2019 at 12:31 PM Mike Fricker
+
+wrote:
+
+I'm interested in their research into solving curation and offensive content over the long terfn, and at such scale as an entire "planet". Quote from the interview:
+
+"There are lots of veniy real challenges around user-generated content,"says Persson. "/t 's a complicated problem at the scale we 're talking about, but that doesn 't mean we shouldrr 't tackle it. "Microsoft is
+
+CONFIDENTIAL
+
+DX-4119.001
+
+EPIC 00004093
+
+starting careju lly at frrst without user-generated content beingfreely placed into the world, and then it plans toftgure out how to get this content into Minecraft Earth in the future. "Our visionis thai, over time, the collection, the building, the playing, the adventuring will lead to things that people demand they have a place to display, " says Persson. "I think we 've definitely taken the right steps to get started on that
+jo urney. And then we 'll see how rprickly we canftnd the right way for more people to see what you 're doing. "
+--Mike
+
+On Fri, May 17, 2019 at 11:34 AM Atli Mar
+
+wrote;
+
+Totally. We prototyped geo storing of point clouds and fetching a while back (that's the stuff we geeked out on at E3 last year Mark R), using an early version of the RPO galaga stuff. It works reasonably well.
+Over time we' ll have to deal with scaling storage of the point cloud, and during gatneplay, density of players, persistence and replicaflon of stuffs that the UE4 server isn't designed for. Sent frotn my iPhone
+
+On May 17, 2019, at 23:28, Anthony Bills
+
+wrote:
+
+Ingress and Pokemon Go do placing objects via GPSreasonably well already. I remember having to take photos with GPS enabled to sublnit them to google to make ingress portals, which
+are fairly location stable (to the GPS accuracy).
+
+Seelns like ARKit would be at least good enough to do something like "the machines" on iOS and just GPS tag a rough location for which one should appear or not.
+Limited to flat surfaces such as roads.
+
+On Fri, May 17, 2019 at 4:09 PM Chance Ivey
+
+wrote:
+
++Ryan explicitly. WMR Spatial anchors in UE4 are in the works, but I' ve not seen thetn running in a hololens, let alone IOS. I can say that the Hololens 2's ability to reliably identify a space that it knows
+and provide user-dropped anchors is pretty impressive (locally that is.) it works way better than I was expecting it to. If spatial anchors can reliably replicate that ability to other devices, this could work.
+
+On Fri, May 17, 2019 at 8:04 AM Wang Hao
+
+Has anyone tried the spatial anchor thing? Does it really work?
+
+ARKit has a similar feature but it's very hard to use.
+
+Wang Hao
+
+On Fri, May 17th, 2019 at 11:0 PM, Mark Rein
+
+ote:
+
+Yen if it works like they show in the Verge article it is actually very cooL Love to be doing this with Fortnite Creative and Unreal Enginet
+
+On Fri, May 17, 2019 at 10:58 AM Mike Fricker
+
+wrote:
+
+Mapping real world places to virtual spaces that can be customized by users is cool though. Ignoring their ad, I think this would be very popular.
+
+CONFIDENTIAL
+
+DX-4119.002
+
+EPIC 00084094
+
+On Fri, May 17, 2019 at 10;56 AM Mark Rein
+
+wrote:
+
+Yeah humbly overselling AR in a way that poisons the weB for the industry. They did this same shit with Hololens.
+
+On Fri, May 17, 2019 at 10:52 AM Chance Ivey
+
+wrote:
+
+Also worth following how that plan to police content.
+
+On Fri, May 17, 2019 at 7:51 AM Aden Aden-Farah
+
+wrote:
+
+Some more info here; h s / /wwwthever ecom/2019/5/17/18627341/minecraft-earth-ios-android-free-ar- amefeatures- okemon- o
+
+lt 's a complicated problem at the scale we 're talking abottt, bnt that doesn 't mean we shottldtt 't tackle it. " Mi crosoft is starting caref t tlly atf trst wi thottt user-generated content beingPeely placed i nto the
+ttrorldl...j
+
+On Fri, 17 May 2019 at 16:36, Andrew Grant
+
+wrote:
+
+Puzzling.
+
+On one hand there are a lot of really cool things I could imagine a world-scale AR Minecraft experience being, on the other none of them are in this nailer. Instead it's just Magic Leap-level overselling of AR capabilities that aren't going to be anywhere close to what they release.
+
+Feels like a sizzle reel for what's going to be a very different experience.
+
+On Fri, May 17, 2019 at 9:39 AM Daniel Vogel
+
+wrote:
+
+Going wider with this.
+
+On Fri, May 17, 2019 at 9:16 AM Ozgur Ozalp
+
+wrote:
+
+Hey All,
+
+This just hit Kotaku: h s ' //kotaku com/microsoft-announces-minecraft-earth-a-minecralt-versio-1834839262
+
+It is an AR version of Minecraft.
+
+Here is the trailer: htt s//www o u t ube corn/watchstime continue= l t k v = dYKxBK'29dl
+
+Thanks
+
+Ozlntr
+
+-- Daniel, Epic Games Inc.
+
+CONFIDENTIAL
+
+DX-4119.003
+
+EPIC 00084095
+
+- Sent from mobile
+Mark Rein, Epic Games, Inc. Visit us at h / / w ww e ic ames. corn
+
+Mark Rein, Epic Games, Inc. Visit us at h / / w ww e 'c ames corn
+To unsubscribe from this o u and sto receiving emails from it, send an email to
+
+- Sent from mobile
+Ton
+
+'ving emails from it, send an email to
+
+Cheers, Nick
+- Sent from mobile
+
+CONFIDENTIAL
+
+DX-4119.004
+
+EPIC 00084098
+
+

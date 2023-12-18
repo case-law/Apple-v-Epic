@@ -1,0 +1,222 @@
+4/1/2021
+
+Galaxy Store - Distribute I Samsung Developers
+
+Distribution Guide EN KR CN
+App Distribution Guide
+
+i Initc(t Shak;s Aistn(;t Court '%>rket i Dish'i('.i oi Cnlili:)rr(i'((
+
+For thebenefitofits developers and customers, Samsung ensures the appl.ications (apps)meet high standards of qual.ity. Samsung, at its sole discretion and without the consent of any other parties, reserves the right to publish, withhold publication, and remove from publication in the Samsung Galaxy Store all applications (apps) submitted for publication and being published. If an app meets all Samsung pubLication policy requirements, but they do not compLy with the locaL laws or customs of one or more pubLication countries in the app registration, those countries may be removed from the app's publication. WhiLe the app is published in GaLaxy Store, if users find app content or functions to be objectionabLe to users, to no Longer comply with Local Laws of publication countries, or to no Longer compLy with Samsung pubLicationpolicy,Samsung can stop app pubLication.
+ALL apps must meet the requirements in order to pass pubLication review for apps to be avaiLable in GaLaxy Store for downLoad, and have paid app and in-app item saLes supported.
+1. Performance
+This section relates to app operations.
+
+1.1 Functionality
+1.1.1 App installation, launch, termination, and uninstallation must succeed without errors. 1.1.2 App features must not crash or cause functional. problems. 1.1.3 Apps must not include hidden features. 1.1.4 TriaL or beta version binaries must not be submitted. 1.1.5 For apps that require user Login, Login info (such as user ID and password) for a user account to be used to test the app must be provided during app registration. 1.1.6 Apps must not include malware or viruses. 1.1.7Apps must not generate icon shortcuts or bundLes. 1.1.8 Apps must not initiate or support automatic updates. 1.1.9 Apps must not interfere with the behavior of other apps. 1.1.10Samsung IAP must be used to seLLin app products (such as items and subscription).Ifyou use other payment system inyour app, the app may not be confirmed during the review process or be suspended if it's aLready on saLe.
+
+1.2 Usability
+1.2.1 ADDs must be vaLuabLe, entertaininq, unique, or informative.
+We use cookies to make your experience of our website better. Continuing on our website, you give us your consenttosetthese cookies.Find out more
+
+https://developer. samsung.corn/galaxy-store/distribution-guide. html
+
+DX-4922. 001
+
+4/1/2021
+
+Galaxy Store - Distribute I Samsung Developers
+
+1.2.3Apps must not contain an excessive number of advertisements, web clippings, website links,orvideos that degrade the user experience.
+
+1.2.4 App graphics must be visible.
+
+1.2.5App text must be readable and not be truncated or distorted.
+
+1.2.6 App screens must fil.l. the device display screen.
+
+1.2.7Paid apps must not have unreasonably high prices.
+
+1.2.8Apps that offerapp download insidethe app are not al.lowed.
+
+1.3 Metadata
+Note: Metadata refers to information about an app (such as title, description, tags, screenshot and seller name).
+1.3.1 App metadata must be appropriate for users of al.l. ages. 1.3.2 If app registration specifies two or more publication countries, app metadata must support English as the default language. 1.3.3 App registration preview images, screenshot images, and descriptions must accurately show and describe app functionality. 1.3.4 If an app provides in-app item purchases or advertisements, this must be accurately shown and described in the app registration preview images, screenshot images, and descriptions. 1.3.5 App metadata must not incLude irreLevant, misLeading, or frauduLent keywords. 1.3.6 App registration must specify the age rating and categories that are appropriate for the app.
+Note: Ifapp registration does not specify them, Samsung can change them appropriately.
+1.3.7Metadata must not promote other app stores,ormobile platforms. 1.3.8URLs must not cause functional.problems and the web resources of URLs must not contain content that violates App Distribution Guide requirements (including, but not l.imited to, malware and inappropriate or no content).
+
+1.4 Hardware compatibility
+1.4.1Apps must not make sounds insilent mode. 1.4.2Apps must not change defaultsettings ofthe user device. 1.4.3Apps must not restartthe user device. 1.4.4 Apps must not cause problems for embedded device features (including, but not l.imited to, Bluetooth, G-sensor, Wi-Fi, Camera, Cal.l., VDLume/HDLd Key, Alarm, and SMS/MMS). 1.4.5Apps must not cause problems forhardware and system events. 1.4.6 Apps must not crash when the user device is rotated and when device accessories (including, but not limited to, earphones) are plugged into or unplugged from the device. 1.4.7Apps must not consume excessive battery current,generate excessive heat,orrapidly drain the user device battery.
+
+We use cookies to make your experience of our website better. Continuing on our website, you give us your consent toset these cookies. Find out more
+
+https://developer. samsung.corn/galaxy-store/distribution-guide. html
+
+2/7
+
+DX-4922. 002
+
+4/1/2021
+
+Galaxy Store - Distribute I Samsung Developers
+
+Note: If app content violates local. laws or customs, Samsung may suspend app publication or remove countries from app publication.
+
+2.1 Sexual content
+2.1.1 Apps must not visual.ly or audibly present or encourage overt sexual. concepts or content (including, but not l.imited to, explicit nudity, exposed male or female genital.ia, pornography, pedophilia, bestial.ity, sexual.ly expl.icit behavior, and sexual.ly suggestive poses).
+2.1.2 Apps must not visually or audibly present or encourage exploitative sexual. behavior (including, but not l.imited to, sexual. abuse, sexual. assault, and bestial.ity).
+2.1.3Apps must not provide a method to access websites that have a sexual.emphasis (including, but not l.im ited to,adultfriend finder and dating websites).
+
+2.2 Violence
+2.2.1 Apps must not visual.ly or audibly present or encourage murder, suicide, torture, or abuse. 2.2.2 Apps must not visually or audibly present or encourage violence or criminal. behavior that couLd instigate a crime.
+2.2.3 Apps must not visual.ly or audibly present or encourage violent threats toward people or animals. 2.2.4 Apps must not visual.ly or audibly present or encourage recklessly gruesome content (including, but not l.imited to, excessive
+b l.eed ing).
+2.2.5 Apps must not visuaLLy or audibLy present or encourage use in the reaL worLd of weapons, bombs, terrorist actions, or other dangerous
+objects.
+2.2.6Apps must not contain content that couLd Lead to seLf-harm, choking, serious injury,ordeath.
+
+2.3 Alcohol, tobacco, and drugs
+2.3.1 Apps must not visual.ly or audibly present or encourage the il.legal. use of alcohol., tobacco (including electronic cigarettes), or drugs. 2.3.2 Apps must not visual.ly or audibly present or encourage the sale of alcohol., tobacco (including electronic cigarettes), or drugs to minors.
+2.3.3Apps must not encourage excessive consumption ofor make unnecessary references to alcohol.,tobacco,or drugs. 2.3.4 Apps that present medicaL information to users must notify users that the medicaL information couLd be inaccurate.
+2.3.5App content must not contain unauthorized drugs, reguLated drugs, dietary suppLements, or products with names or designs that can cause user confusion.
+
+2.4Defamation and vulgarity
+2.4.1 Apps must not visually or audibly present content that couLd defame (by slander or libel) individual. persons or groups of people based on race, gender, sexual. preference or identity, ethnicity, national.ity, disabil.ity, rel.igion, pol.itical. identity, or ideology.
+2.4.2 Apps must not visuaLLy or audibLy present excessiveLy unpLeasant, repeLLent, obscene, or vuLgar Language or expressions. 2.4.3 Apps must not visuaLLy or audibLy present offensive, discriminatory, or infLammatory content about specific reLigious, sociaL, or poLiticaL parties, groups, or concepts.
+We use cookies to make your experience of our website better. Continuing on our website, you give us your consent toset these cookies. Find out more
+
+https://developer. samsung.corn/galaxy-store/distribution-guide. html
+
+3/7
+
+DX-4922. 003
+
+4/1/2021
+
+Galaxy Store - Distribute i Samsung Developers
+
+2.4.5 Apps must meet all. applicable censorship requirements of the countries the apps are published in (including, but not limited to,
+
+political., social., confLict, and security censorship).
+
+2.5Games and gambling
+2.5.1 Apps must not offer or provide users with real. money, electronic money, or prizes that have any monetary value (including, but not limited to, gift cards and househoLd appliances).
+2.5.2 Apps must not promote or enable gambl.ing (including, but not limited to, lotteries, casino activities, sweepstakes, and sports betting).
+2.5.3For game apps with an18+ age restrictionthat are published inSouth Korea,the apps must be granted Game Rating and Administration Committee (GRAC) rating certificate.
+Note: On a case-by-case basis and subject to applicable laws and other criteria, local. Samsung subsidiaries may approve apps.
+
+2.6 User-generated content
+2.6.1Apps with user-generated content must have a mechanism to filterrestricted content from the app. 2.6.2 Apps with user-generated content must provide measures to resolve intel. lectual. property infringement.
+2.6.3Apps with user-generated content must provide users with a method and instructions to reportto theapp's registering person or entity issues of restricted content or intel. lectual. property infringement.
+
+2.7 Advertisements
+2.71 Ads must be clearly identified as ads and must not harm app or device usabil.ity. 2.7.2Ads must provide close and skip buttons and make them clearlyvisible. 2.73 Thecontent ofads must be appropriate forthe app'sage rating. 2.74 Apps mustnot contain or present ads that have the following types of content: · Violence toward or abuse of humans or animals · Sexual. content (including, but not l.imited to, pornography, pedophil.ia, and bestiality). · Websites that have a sexuaL emphasis or aduLt toys, videos, or products (incLuding, but not Limited to, aduLt friend finder and dating websites) · Ads in Kids category apps that contain content that is not appropriate for chiLdren · Obscene, vulgar, or inappropriate language · Defamatory, l.ibelous, slanderous, or unlawful. content · Promotion of or unnecessary references to alcohol., tobacco (including electronic cigarettes), and drugs · Offensive references or discrimination towards individual. persons or groups of people based on race, gender, sexual. preference or identity, ethnicity, nationaLity, disabiLity, reLigion, poLiticaL identity, or ideoLogy · OvertLy poLiticaL communication
+
+We use cookies to make your experience of our website better. Continuing on our website, you give us your consent toset these cookies. Find out more
+
+https://developer. samsung.corn/galaxy-store/distribution-guide. html
+
+4/7
+
+DX-4922. 004
+
+4/1/2021
+
+Galaxy Store - Distribute I Samsung Developers
+
+· Il.legal., false, or deceptive investment or money-making advice, promotions, or opportunities
+
+· System notifications, push notifications, or simiLar notifications without user consent
+
+· PharmaceuticaL products that are not certified in the countries that the apps are pubLished in
+
+· Content that reasonabLe pubLic consensus may find to be improper or inappropriate
+
+3. Legal
+This section relates to lawful. matters.
+In additionto the requirements below, apps must comply with the local.law s ofthe country ofsale.Be sure to check each country's local. l.aws.
+
+3.1 Privacy
+3.1.1 Apps that access, col.lect, use, transmit, or share user data (including, but not l.imited to, user location, calendar, and SMS/MMS information) must comply with all. applicable local. laws, the European Union's General. Data Protection Regulation (GDPR) and the Samsung Service Terms and Conditions. 3.1.2 Apps that access, col.lect, use, transmit, or share user data must display a user data privacy pol.icy in their apps and provide the URL of the pol.icy during app registration in Seller Portal.. 3.1.3 The app privacy pol.icy must incl.ude the fol.l.owing information:
+· Col.elcted user data items and types · Purposes of using user data ·Listofthird-partiesw ithw hichthe app shares user data and shared data types ·User dataitems and data types that the app shares with third-parties · User data retention period and user data deLetion (for exampLe, upon account deLetion or app uninstaLLation) · Method of notifying users when the privacy poLicy is revised · User data-reLated priviLeges (such as reading, revising, or deLeting data) that can be requested by users 3.1.4 When the user data privacy poLicy is revised, users must be notified. When the privacy poLicy URL is changed, the Privacy PoLicy URL in the appregistration must be updated. 3.1.5 Apps must not access, coLLect, use, transmit, or share user data without Legitimate user consent in accordance with LocaL Laws. 3.1.6 Apps must not require that the user grant more permissions or provide more personaL information than the minimum necessary for the appto successfullysupport itsfeatures. 3.1.7Apps must not display advertisements or push messages based on user data without firstgetting user consent to do so. 3.1.8 Apps must not initiate or support security warnings or malicious means that try to get user data.
+
+3.2Intellectualproperty
+3.2.1Apps must not copy aspects ofany app published inGalaxy Store. 3.2.2Apps must not support the download of any other app by a direct method from insidethe app (for example, through an APK).
+5 7 5 h n n c m n c t n n t c l i c n la u @le nir t n r n e w anu %am c n n n i sle ntific rc (inr lnrlin n h n t n n t li m i t @ rl tn %a m c n n n h r a n cl n e m a n I n n n c
+We use cookies to make your experience of our website better. Continuing on our website, you give us your consent toset these cookies. Find out more
+
+https://developer. samsung.corn/galaxy-store/distribution-guide. html
+
+5/7
+
+DX-4922. 005
+
+4/1/2021
+
+Galaxy Store - Distribute I Samsung Developers
+
+3.2.5Apps that include Free and Open Source Software (FOSS) must comply with appl.icable open source software l.icense terms and conditions.
+
+3.2.6Apps must not include, present, or use any material.w hose use is protected by the laws of any country that the app is published in (incLuding, but not Limited to, copyrighted, trademarked, and patented materiaL) without first getting the permission of the rightfuL owner, maintainevidence ofthe permission, and must present a copy ofthe permission to Samsung.
+
+App content must not contain protected or sLightLy modified materiaL without the owner's consent, incLuding, but not Limited to:
+
+· Business names, trademarks, service marks, coLors, fonts, or Logos that can misLead users
+
+· Watch brand names or Logos, styLes, or inspired designs
+
+· Sports cLub names or Logos, or officiaL coLors or design
+
+· Names, images, and other content protected by inteLLectuaL property rights and pubLicity rights (for exampLe, from movies, TV, and game guides)
+· Fan-made content
+
+· Protected Logos or brand names of products (incLuding, but not Limited to automobiLes, motorcycLes, handbags, and cameras)
+
+·Images ofproducts (incLuding,but not Lim ited to,automobiLes, m otorcycLes,cameras, and handbags) when the product brand can be identified
+
+· Images of private buiLdings not visibLe from a pubLic space, and copyrighted images of any buiLding or structure (for exampLe, St. Peter' s BasiLica, iLLuminated EiffeL tower, and the Empire State BuiLding)
+
+· Works, names, photos, Likenesses, or signatures of any person or ceLebrity (generaLLy, whiLe they are Living or Less than 70 years after their death)
+
+3.2.7 For apps that incLude, present, or use materiaL protected by the Laws of the countries that the app is pubLished in, or support a m ethod tsohare or downLoad materiaL not owned by the person or entity who registered the app, the person or entity must firstgetthe permissionofthe rightfuLowner, maintain evidence ofthe permission, and must present a copy ofthe permission to Samsung.
+
+Note: If you find protected material. inappropriately inside a Galaxy Store app or inappropriately available via a Galaxy Store app, please directly contact the app seller to resolve the issue. In the case that the seller cannot be reached, you can report the violation here.
+
+3.3 Kids category
+3.3.1 Apps published in the Kids category of Galaxy Store: · Must comply with applicable chiLdren's privacy laws and statutes of the countries that the apps are published in (including, but not l.imited to, the ChiLdren's Onl.ine Privacy Protection Act (COPPA) and European Union's General. Data Protection Regulation (GDPR)). · Must be designed for chiLdren under13 years of age. ·Must notcontain l.inksto outside ofthe app.
+
+3.4 Miscellaneous
+3.4.1 Apps must comply with all. local. laws of the countries that the apps are published in. 3.4.2 Apps must observe and comply with all. legal. requirements and local. customs of the countries that the apps are published in. 3.4.3Forapps published inSouth Korea:
+
+We use cookies to make your experience of our website better. Continuing on our website, you give us your consent toset these cookies. Find out more
+
+https://developer. samsung.corn/galaxy-store/distribution-guide. html
+
+DX-4922. 006
+
+4/1/2021
+
+Galaxy Store - Distribute I Samsung Developers
+
+3.4.4Apps must notvisually oraudibly present or encourage any type ofthe following content:
+
+· Overtly pol.itical. communication
+
+· ILLegaL activities, services, or substances
+
+· ILLegaL, faLse, or deceptive investment or money-making advice, promotions, or opportunities
+
+· PharmaceuticaL products that are not certified in the countries that the apps are pubLished in.
+
+Terms Privacy Open Source System status Site map
+Copyright © 2021 SAMSUNG. All rights reserved.
+
+We use cookies to make your experience of our website better. Continuing on our website, you give us your consent toset these cookies. Find out more
+
+https://developer. samsung.corn/galaxy-store/distribution-guide. html
+
+7/7
+
+DX-4922. 007
+
+

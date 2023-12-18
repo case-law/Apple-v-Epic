@@ -1,0 +1,95 @@
+From:
+
+Eric Friedman
+
+To:
+
+Trystan Kosmynka
+
+CC:
+
+Ayman Khali
+
+BCC:
+
+Subject :
+
+Re: s ummary
+
+Attachments:
+
+Sent:
+
+12/14/2017 OB:40:23 PM 0000 (GMT)
+
+PLAINTIFF
+Ua. Dlernrn Court- NDCAL
+4:20cv4I5040 YGR TSH
+Eple Serene,Ine.u.rennnrIne.
+Ex.No.PX42$2
+Dele anlered
+sr
+
+Abuse detection and response
+
+To gain visibility into the extent cf out-of-band payments, we would need to have stslf in-country playing games as normal customers do AND also spending fime on the street looking for promotions with QR codes (on the side Df buses isa real example) that lead to out-of-band purchases. The goal of this acfivity is twofold:
+
+1) identify obvious abuses and refer to AppReview for action 2) develop game-specilic player profiles by dividing players into cohorts -- payer and non-payer [perhaps at different
+attern. spend levels]. The purpose is to establish "ground truth" about each usage p Once we know what a payer looks like, we can study the data available to Apple and correlate time-in-app with purchase activity. If our profile for game X indicates that six hours of game play requires regular payment AND we see a large population of users who are not also payers, we can conclude that purchases are happening out of band.
+Action: establish in-country team for this funcfion.
+
+N.B. beyond finding obvious abuses there is no clearly defined response. If w e had e rfect detection wh atwould we do with that infonnsfion?
+"Hole"
+
+Wechat and Facebook have both tried to create dedicated pipes for out-of-band payments to unlock app features (e.g. subscriptions). This breaks our rules.
+
+What is NOT a violation is the following: 1. Developer pops e dialogue inviting users to 'follow us on [social plafform] to leam about new features
+anrt-lworaegena-[Promofions would be a violation; an invitafion lo follow by itself is not] 2. On social media, without using dedicated pipes from the social media platform, the developer promotes discounted
+content and accepts payment by Wechat or PayPsl, etc.
+
+Actions: Apple creates a better experience for developers to engage users and offer promofions. It would have to be a LOT
+better to overcome the 30% hit however. It would also have to meet the need fulfified by social media platforms for engagement, namely viral reach across friends. This is not something we' ve ever succeeded with and we would not be cross-platform. [included for completeness, not recommended]
+
+On Dec 14, 2017, at 10:39 AM, Trystan Kosmynka <
+
+> wrote:
+
+On Dec 14, 2017, at 9:39 AM, Eric Friedman (
+Abuse detection and response
+
+) wrote:
+
+CONFIDENTIAL
+
+Exhibit
+PX 0257
+PX-0257.1 APL-APPSTORE 01924814
+
+To gain visibility into the extent of out-of-band payments, we would need to have staff in-country playing games as normal customers do AND also spending time on the street looking for promotions with QR codes (on the side of buses is a real example) that lead to out-of-band purchases. The goal of this activity is twofold:
+1) identify obvious abuses and refer to AppReview for action 2) develop game-specific player profiles by dividing players into cohorts -- payer and non-payer [perhaps at different spend levels]. The purpose is to establish
+"ground truth" about each usage pattern. Once we know what a payer looks like, we can study the data available to Apple and correlate time-in-app with purchase activity. If our profile for game X indicates that six hours of game play requires regular payment AND we see a large population of users who are not also payers, we can conclude that purchases are happening out of band.
+Action: establish in-country team for this function.
+N.B. beyond finding obvious abuses there is no clearly defined response. If we had erfect detection what wouldwe do with thatinformation?
+Guidelines "hole"
+WeChat and Facebook have both tried to create dedicated pipes for out-of-band payments to unlock app features (e.g. subscriptions).
+This breaks our rules
+What is NOT a violation is the following: 1. Developer pops a dialogue inviting users to "follow us on [social plafform] to
+leam about new features and promotions
+If we saw "promotions" in the dialog we'd look at it further because there could be a violation there. Features and functionality must only be unlocked via IAP, so if they were to enable unlocking via some promotion on social or elsewhere that could be in issue. Perhaps we just call this section a "Hole" rather than a guideline hole. It's possible a developer can market things outside their app that we do not have visibility to, period.
+3.1.1 In-App Purchase: · If you want to unlock features or functionality within your app, (by way of example:
+subscriptions, in-game currencies, game levels, access to premium content, or unlocking a full version), you must use in-app purchase. Apps may use in-app purchase currencies to enable
+
+CONFIDENTIAL
+
+PX-0257.2 APL-APPSTORE 01924815
+
+customers to "tip" digital content providers in the app. Apps and their metadata may not include buttons, external links, or other calls to action that direct customers to purchasing mechanisms other than in-app purchase.
+2. On social media, without using dedicated pipes from the social media platform, the developer promotes discounted content and accepts payment by WeChat or PayPal, etc.
+Actions: Apple creates a better experience for developers to engage users and offer
+promotions. It would have to be a LOT better to overcome the 30% hit however. It would also have to meet the need fulfilled by social media plafforms for engagement, namely viral reach across friends. This is not something we' ve ever succeeded with and we would not be cross-platform. [included for completeness, not recommended]
+
+CONFIDENTIAL
+
+PX-0257.3 APL-APPSTORE 01924816
+
+

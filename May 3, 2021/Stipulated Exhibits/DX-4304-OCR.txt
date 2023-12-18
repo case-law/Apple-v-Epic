@@ -1,0 +1,156 @@
+From: Sent:
+TQ:
+Cc:
+Subject:
+
+Uaitci States Oistrict Court
+
+es
+
+NorthernDistrcitofCalifornia
+
+CaseNo. 4:20-cv-05640-YGR CaseTitleEicGaraas,Iac. a 4 ic, Iac. h E xttibit NoD. X-4304
+
+Lukasz Furman Wednesday, August 8, 2018 11:01 PM
+
+Date Entered
+
+Sueuer. Seeeg.CIek
+
+Btr
+
+Deoelr Clerk
+
+Daniel Vogel <
+
+Anticheat Core <
+
+'an Brussee
+
+Informanon-Security <
+Calentino ercrom ie
+Justin Sar ent
+
+Chris Babcock <
+
+; Amanda Rubright
+
+Chris Dyl
+
+e izabeth.cook®epicgames.corn; FN-Bacchus-
+
+Heather Hazen <
+
+; James
+
+James Unglesbee
+
+; Joe Barrett
+
+; John
+
+; Mare Hutc eson
+
+Nick Penwarden
+
+; Scott Nolfi <
+
+Re: Potengal mitigations / Pivots to discuss for Android Launch
+
+This requires explicit whitelisnng for given server build (hotfix). We don't have required values (APK size & crc) for final build and will add those tomorrow, shortly after live launch,
+
+On Wed, Aug 8, 2018 at 6:53 PM Daniel Vogel < I thought we ensured integrity of APK?
+
+wrote:
+
+: :Wouldn't changing Java trip that check?
+
+. :Adding a few more folks to chime in on technical bits.
+
+On Wed, Aug 8, 2018 at 6:49 PM Arjan Brussee <
+
+) wrote;
+
+Talking to ChrisB, since the Java code was not protected in the leaked intermediate build and the Java code
+
+is doing the compatibility checks, it is quite possible for someone to disassemble Java, change code,
+
+recompile/repackage APK and release a build that will "work" on an android device.
+
+-arjan
+
+On Wed, Aug 8, 2018 at 18:18 Mare Hutcheson <
+
+wrote:
+
+: :we generally have messaging already around not sharing accounts. Seems like we can decide reactively to
+
+: run that if needed.
+
+- Mare
+
+On Wed, Aug 8, 2018 at 5;39 PM, Amanda Rubright <
+
+wrote:
+
+Arj an/Mmc --on the last bullet on this list about parties offering to unlock the skin for you --dowe have
+
+any messaging ready to go from community to remind players not to share their accounts with
+
+strangers? Is this something we'd proactively message or reactively message?
+
+On Wed, Aug 8, 2018 at 5:22 PM Arjan Brussee <
+
+wrote:
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4304.001
+
+EPIC 00033047
+
++ more people To Dan's question: I'm not convinced we can fully prevent the issues i flag above, even with Arxan and client detections in place. Plus we cannot prevent APK downloads from thirdparty sites. Also, some ofour protections have now leaked and might beeasierto bypass,and theXda developers/hacker coinmunity seem to be actively engaged already.
+i' ll do some more investigations with the devs to get deeper insight on the risks, and keeping what happens in-live under close scrutiny
+
+On Wed, Aug 8, 2018 at 5:03 PM Elizabeth Cook ( +Brooke for email viz
+
+wrote:
+
+On Wed, Aug 8, 2018 at 5;01 PM, Daniel Vogel
+
+wrote:
+
+I thought we had client based detection of running on Samsung and Arxan protected binary anti-
+
+tamper we are confident in!
+
+On Wed, Aug 8, 2018 at 4;59 PM Arjan Brussee :'hey
+
+wrote:
+
+: :with the Android leaks ongoing, i'm having a bit of a fright regarding putting up extra roadblocks for people to play the game, since i think there will be MANY workarounds shared : :immediately, which will all be sideloaded through shady mirrors.
+
+Listing a bunch of things that i think could very well happen, and mitigations:
+
+· Seeing many thirdparty downloads/leaks/workarounds/backs o Samsung only required 48h exclusivity. Could we open up on Saturday? what' s the worst that could happen? o Could we entitle/mail the first group Saturday? o Any CCU concerns at all?
+"/Signed up, butcannotdownload, howeveriseeyoutubesofpeopleplaying,i'mjust
+·
+going to download the YT APE link directly" o maybe just open Downloads for everyone immediately, but then you' re still gated (behind entitlement). o Pivot to Open invite event completely for everyone ASAP -) serve download
+pageand remove entitleinentcheck from game 'Xven though i ittstalied FN, it does not work, since my phone is not compatible. Here' s
+·
+a workaround/sideload" o they might be able to do legit fixes(INI/scalability) somehow o with 5.3 open up compat restrictions wider to larger range of GPUs. It's a Beta. (maybe show "unsupported phone" on the menu's etc). I started a discussion if we feel OK releasing this without able to fully test all potential devices worldwide.
+· lots of partiesoffering "Unlock Galaxy skin" for you o share your Epic account with me, i will give you Galaxy Skin for $50 or something o we know about this hole, but some bad behavior can occur. Can we do anything here?
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4304.002
+
+EPIC 00033948
+
+any other risks/thoughts/insights on the above? could we pivot on the things i identified? -arjan Sent from mobile
+Elizabeth Cook Epic Games
+Amanda Ruimiaht, PMP
+ExecutiveProducer,E ic Games
+Sent from mobile
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4304.003
+
+EPIC 00033949
+
+

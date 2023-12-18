@@ -1,0 +1,877 @@
+Unitcrt StatesDistriot Coun Northern District of California
+
+CaseNo. 4:20-ev-0564OYGR
+
+Case TitleE ic Games,lnc a: f e fne
+
+Exhibit No. DX-4399
+
+Date Entered
+
+SusanY. nouns,etna
+
+Bx
+
+Dspuls stars
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-4399.001
+
+APL-APPSTORE 09848810
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.002
+
+APL-APPSTORE 09848611
+
+Eddy: In a few weeks, the App Store will cross a huge milestone -- $100B in billings LTD -- with nearly 30% of this generated in the past year.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 003
+
+APL-APPSTORE 09848612
+
+®
+®
+
++40'fo
+YQY
+
+Eddy: In 2016, the App Store generated a record $28.6B (click) up 40% Y/Y.
+If we treated the App Store as a standalone company, that would make the App Store ¹98 on the Fortune 500.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 004
+
+APL-APPSTORE 09848613
+
+Matt:
+Here's a closer look at the App Store's growth by quarter. International is now responsible for over 70% of the business.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.005
+
+APL-APPSTORE 09848614
+
+Here's a look at Billings by Region. All regions saw double-digit growth rates, led by Greater China, which nearly doubled year over year.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.006
+
+APL-APPSTORE 09848615
+
+Here's a look at Billings by Platform. We now operate 6 different App Stores, one of each of these 6 plafforms. As you can see, over 98% of the business is driven by iPhone and iPad.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.007
+
+APL-APPSTORE 09848616
+
+Phil talked this morning about our exciting App Store Redesign, and that we' re doing a lot more to create a great experience
+for Games. Well here you can see why. Games is by far the most popular category on the store, generating over 80% of the billings, and a third of the downloads.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.008
+
+APL-APPSTORE 09848617
+
+We had 4 primary drivers that led to our record year in 2016, and I want to spend a few minutes talking about each of them. They are:
+G RO W T H in PAYING ACCOUN T S GROWTH in ARPPU driven by MEDIUM and HIGH SPENDERS NOTABLE BREAKOUT HITS SU BSC R I PT ION S
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 009
+
+APL-APPSTORE 09848618
+
+Let's start with Paying Accounts.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 01 0
+
+APL-APPSTORE 09848619
+
+For the year, PAYING ACCOUNTS grew 19% YN. Over the past 2 years, weVe seen accelerated growth inPAYING ACCOUNTS.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.011
+
+APL-APPSTORE 09848620
+
+In early November, we launched Alipay as a new payment method in China, and it's made a huge impact on our business...
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399.012
+
+APL-APPSTORE 09848621
+
+Since launch, Alipay has delivered over 1 2M New-to-Paying accounts. Over the past 4 weeks, Alipay makes up nearly 60% of total new-to-paying accounts in China.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.013
+
+APL-APPSTORE 09848622
+
+What's also amazing is that Alipay now makes up over 50% of China App Store billings (53% in April)...
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.014
+
+APL-APPSTORE 09848623
+
+...with over $2B in billings from Alipay, just in its first 6 months.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 01 5
+
+APL-APPSTORE 09848624
+
+But it's not just all about Alipay. We' ve been hard at work adding more payment methods to the store, including 20 carriers in 12 countries for Carrier Billing, and adding 10 new currency conversions.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.016
+
+APL-APPSTORE 09848625
+
+Looking ahead, we' ll be launching four more carriers for Carrier Billing later this month, as well as support for Wallets like PayPal and WeChat Pay later this year.
+And also we' ll be adding some important currency conversions, most notably for Brazil and Korea.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.017
+
+APL-APPSTORE 09848626
+
+In addition to more paying accounts, another growth driver was our paying accounts spending more money, or Average Revenue Per Paying User.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 01 8
+
+APL-APPSTORE 09848627
+
+·· ·
+
+0
+
+-
+
+·
+
+-
+
+You' ve seen this before, but as a refresher, a few years ago we started looking at our account base in terms of spend levels -- on the FREE side, we split by customers with and without payment method on file (or PMOF) LOW (typically a one and done customers paying in a paid app or game) MEDIUM - typically entering the low end of medium with a subscription purchase HIGH segment - vast majority of their spend is in games via IAP
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 01 9
+
+APL-APPSTORE 09848628
+
+This is how each segment contributes in share of customers and billings: FREE is our largest segment - over half the customers - these customers cannot pay Free+ PMOF - they can pay,butdon*t Then we have those that do pay - the low end capturing 10% of the accounts, but only 5% of the billings MEDIUM segment is T%o%fdaccounts, 40% of billings
+HIGH segment - paying in excess of $450 in the quarter, 1/2 a percent of all accounts, but they generate over half the billings
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.020
+
+APL-APPSTORE 09848629
+
+Overall ARPPU grew 19% for the year, and is at an all-time high at over $70 per quarter. What's driven this up the average
+growth in HIGH SPENDERS
+Very encouraging is that the MEDIAN is growing, reaching a record $11 last quarter, and up 12% YN.
+Annual ARPPU is $148 (+19% YoY) Annual MRPPU is $16.40 (+1 2%YoY)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.021
+
+APL-APPSTORE 09848630
+
+To further understand our growth, let's take a look at our top developers and apps.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 022
+
+APL-APPSTORE 09848631
+
+For the first time ever, 3 developers surpassed $1 B during the calendar year: Tencent and NetEase from China, along with Supercell from Finland, with XFlag from Japan, just shy of $1 B.
+201 6's top 10 grossing list is filled with familiar faces, but we do see some new entrants: Bandai Namco and Niantic, knocking out EA and Colopl
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.023
+
+APL-APPSTORE 09848632
+
+Here's a look at our top grossing apps from 2016.
+Not only are these all games, but they' re freemium games, meaning they' re free to download, and you then spend money using In-App Purchases to get more features or levels.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.024
+
+APL-APPSTORE 09848633
+
+One of the growth drivers for 2016 were some notable BREAKOUT HITS. All of these launched last year, except for Netflix.
+We included Netflix as a breakout hit because they added IAP in late 2015, and we helped them launch in an additional 100 countries in early 201 6.
+
+These 10 hits contributed $3.3B in billings -- or 15% of our overall 40% YN growth. By comparison, that's $1.3B more than
+Top 10 breakout hits from 2015, or 63% Y/Y.
+
+-Clash Royale: Real-time multiplayer player card battle game from the developer of Clash of Clans, Hay Day and Boom Beach. Game is approachable, fun and
+challenging. 2v2 mode coming in the next few months. - Pokemon Go: Mobile treasure hunting app with made unique with compelling social/community aspects. First meainstream game to use augmented reality. Pokemon
+Company is owned by Nintendo, but this game was published by Niantic Labs, originally a startup within Google that was eventually spun out. - Mobile Strike: MMO strategy game based on modern warfare from Palo Alto based developer of Game of War. - Glory Kings: MOBA (Multiplayer Online Battle Arena) game from Tencent that is almost identical to League of Legends, one of the top PC games in the world. Tencent
+acquired League of Legends creator Riot Games in 2015. - Onmyoji: RPG (Role Playing Game) with card collecting and card battle elements from Chinese developer Netease. Art style of game is Japanese Anime. Expected to
+launch in Japan in February, and then WW in June. - Nett lix - Fate/Grand Order: Story/plot oriented RPG with large amounts of combat. Japanese only.
+- Ghost Story: MMORPG based on the classic movie of the same name, where a boy falls in love with a ghost. From Netease. - Legend of Swordsman: Martial arts based RPG from Tencent.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.025
+
+APL-APPSTORE 09848834
+
+These four titles were very popular around the world:
+- CLASH ROYALE: Real-time multiplayer player card battle game from the developer of Clash of Clans, Hay Day and Boom Beach. Game is approachable, fun and challenging. 2v2 mode coming in the next few months. - POKEMON GO: Mobile treasure hunting app with made unique with compelling social/community aspects. First mainstream game to use augmented reality. Pokemon Company is owned by Nintendo, but this game was published by Niantic Labs, originally a startup within Google that was eventually spun out. - MOBILE STRIKE: MMO strategy game based on modern warfare from Palo Alto-based developer of Game of War. - NETFLIX
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.026
+
+APL-APPSTORE 09848635
+
+These remaining 6 hits are very popular, but only in a concentrated area of the world, and that's ASIA. 5 are from Tencent
+and NetEase, with 90% of billings from China. The other is Fate/Grand Order from Aniplex, with 98% of its billings coming from Japan.
+
+- GLORY KINGS: MOBA (Multiplayer Online Battle Arena) game from Tencent that is almost identical to League of Legends, one of the top PC games in the world. Tencent acquired League of Legends creator Riot Games in 2015. - ONMYOJI: RPG (Role Playing Game) with card collecting and card battle elements from Chinese developer Netease. Art style of game is Japanese Anime. Expected to launch in Japan in February, and then WW in June. - FATE/GRAND ORDER: Story/plot oriented RPG with large amounts of combat. Japanese only. 98% of billings in Japan. - GHOST STORY: MMORPG based on the classic movie of the same name, where a boy falls in love with a ghost. From Netease. - LEGEND OF SWORDSMAN: Martial arts based RPG from Tencent.
+-NARUTO: MMORPG from Tencent based on a Japanese manga series,developed in partnership with Bandai Namco.
+
+The top 10 breakout hits in 201 5 were: - Fantasy Westward $61 0 M
+The LegendofMir$264M Spotify $223M - White Cat Project $21 3M - Clash of Kings - CoK $ 1 49M - We Fire $142M - MU Origin $137M
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.027
+
+APL-APPSTORE 09848636
+
+O ·
+
+·
+
+·
+
+We are working closely with several top developers on a handful of titles launching over the next several months that we anticipate could have a positive impact on billings.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 028
+
+APL-APPSTORE 09848637
+
+The fourth and final growth driver in 2016 was Subscriptions...
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 029
+
+APL-APPSTORE 09848638
+
+Subscriptions are the fastest growing business model on the store, with subscription growing74% YN, to $2.7B.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.030
+
+APL-APPSTORE 09848639
+
+To help further grow our subscription business, we launched several subscription features for developers last year, most notably an adjusted revenue share from 70/30 to 85/1 5 when a developer retains a paid subscriber for more than one year. Also, we expanded subscriptions to all categories, meaning lots of different types of apps can now offer subscriptions, most notably GAMES.
+AS A RESULT OF THESE IMPROVEMENTS...
+-Py elpNII,,withpeIag m~ r cNIPrms. Aoole's subscriotion marain has droooed to 24% but Aoole's commissiorLhl ,
+DXP399.031
+
+YGY
+...our subscription app catalog grew over 20% Y/Y to 23,000 apps
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 032
+
+APL-APPSTORE 09848641
+
++57'jo ·
+...our total number of paid subscriptions grew over 50% Y/Y to 45 million
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 033
+
+APL-APPSTORE 09848642
+
+These were our top subscription apps on the App Store, organized by active paid subscriptions.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.034
+
+APL-APPSTORE 09848843
+
+I
+
+· e·
+
+We' re continuing to invest in building out our subscriptions platform with features that our third party developers want, including...
+Intro pricing: Team are planning on this for Apps and Apple Music this year Account Updater: Phase 1: Visa in US, Canada, UK, Ireland, Italy, Greece. Mastercard in US, Canada, UK, Ireland. Phase 2 is American Express in US. Billing Retry: today we give up after 6 hours. Adding more customizations on retry Grace Period: We still need to establish a standard Apple duration. Give developers the ability to specify custom duration if they want to offer this. Free Trial Durations: Adding 3 day and 14 day options Receipt Enhancements: Gives developers more insight into subscriber status. Multiple releases in 2017, starting with WWDC - Auto-renew-status, Expiration Intent, Cancellation Date, and Web Order ID TV App Direct Subs -- this will deep link into the app, modeling IAP Merchandising from App Store
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 035
+
+APL-APPSTORE 09848644
+
+A year ago, we told you we were going to put ads in our search results. The great news is that search downloads are actually up when a search ad is shown.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 036
+
+APL-APPSTORE 09848645
+
+We created Search Ads as another point of discovery for developers of all sizes, while complementing a user's Search
+experience. Search Ads appear as the first listing in search results on the App Store for iPhone and iPad in the US,UK, AUS, and NZ. They are clearly marked as Ads (with a blue background and an "Ad" icon). The creative leverages the content of
+the developer's App Store product page. The Search Ads that appear always feature apps that are highly relevant to a user's search. In fact, ad relevance is prioritized over ad spend so that no developer can dominate search results no matter how much they are willing to pay. Finally, we are considerate of the user's privacy by not creating profiles of their search history
+and allowing them to see and control what data we use for the display of Search Ads.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.037
+
+APL-APPSTORE 09848848
+
+e wer r y e ' c e
+eedr ehj e m er e c n m tn Im 4 4
+There are 180 million searches in the App Store each week and there are over 9,000 active developers with budgets and bids to display their ads in relevant search results.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.038
+
+APL-APPSTORE 09848847
+
+With an average conversion rate of 50%, App Store users have responded positively to Search Ads downloading over 50
+million apps per quarter. For our developers, Search Ads offer unprecedented cost efficiency (3x Facebook), as they only pay when a user taps on their ad. Search Ads are exposed to customers with a notably strong intent, given they' re viewing ads
+tied to content they were actively searching for, so the cost per download is really efficient.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.039
+
+APL-APPSTORE 09848848
+
+We' ve exceed our original Plan for Search Ads and are anticipating generating $300 million in revenue in the first year of operation. And this should grow to over $1 billion business for us.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 040
+
+APL-APPSTORE 09848649
+
+Search Ads is a powerful business model generating a 78% contribution margin for Apple.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 041
+
+APL-APPSTORE 09848650
+
+Our focus for 2017 and 2018 is to expand Search Ads to the primary global markets where there is a clear opportunity for our developers to drive a meaningful impact for their businesses.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.042
+
+APL-APPSTORE 09848651
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.043
+
+APL-APPSTORE 09848652
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.044
+
+APL-APPSTORE 09848653
+
+· 0
+· ©0
+· 0
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.045
+
+APL-APPSTORE 09848654
+
+Now, Ron will give you an update on our Competition.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 046
+
+APL-APPSTORE 09848655
+
+Google Play stili not in China
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.047
+
+APL-APPSTORE 09848656
+
+Publishers, Marketplaces and Social Plafforms - Baidu, 91 mobile assistant, highmarket
+- Huawei, Xiaomi, Qihoo360, Wandujout, d.cn, - Tencent,
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.048
+
+APL-APPSTORE 09848657
+
+·
+
+·
+
+Mini programs are light apps built on top of WeChat. Normal apps need to be searched for on the app store, downloaded,installed and updated regularly. Some require account creation or payment into.
+Mini-programs require one tap to open and and uses a WeChat ID to login if the program requires.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.049
+
+APL-APPSTORE 09848658
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.050
+
+APL-APPSTORE 09848659
+
+=V
+
+g wh
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.051
+
+APL-APPSTORE 09848660
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.052
+
+APL-APPSTORE 09848661
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.053
+
+APL-APPSTORE 09848662
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.054
+
+APL-APPSTORE 09848663
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 055
+
+APL-APPSTORE 09848664
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.056
+
+APL-APPSTORE 09848665
+
+China is the 2nd largest developer population (from 2nd last year)
+India is now the 7th largest developer population (from 9 last year) Taiwan is now the 17th largest developer population (from 18 last year)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.057
+
+APL-APPSTORE 09848666
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.058
+
+APL-APPSTORE 09848667
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.059
+
+APL-APPSTORE 09848668
+
+Submitted by over 910,000 unique developers
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.080
+
+APL-APPSTORE 09848669
+
+Submissions continue to increase and the team is now working 7 days a week.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.061
+
+APL-APPSTORE 09848670
+
+Taken from a single date each year, April 27.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 062
+
+APL-APPSTORE 09848671
+
+We started the process of removing: -Outdated apps -Apps that no longer functioned as intended -Apps that didn't follow current review guidelines -Many misleading / program abusive Dev's and apps removed
+Many of the apps violated guidelines such as: Apps crashing on launch (2.1) Tasks for cash apps (3.2.2) Pay for social likes / followers (5.2.2) Keyword stuffing (2.3.7) Coupons (PLA 1.2) Web Content Aggregators (4.2.2) Poor-Quality Websites bundled as Apps (4.2) Re-skinned Game Guides(4.2.2) Name 8 Icon Mismatch (4.1)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 063
+
+APL-APPSTORE 09848672
+
+Over 400,000+ apps have been removed to date as part of the cleanup program.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.064
+
+APL-APPSTORE 09848673
+
+thl'I ' Plg ' d d ~
+
+dglpgpS' Wd
+
+SO ~ OO
+
+OOd ~
+
+dd
+
+O g
+
+I OP IW S I
+
+'Ohg .Ihht PSISI SS SOS gg k 4
+
+d
+
+I
+
+'I l g
+
+tg« gh gk P 'IO Od
+'Sd
+
+~ ISO
+
+~
+
+SSS ~
+
+O
+
+OSISS OSt S ~ » SO S
+
+FFS lp'I lgt l 1 4S' S d dh l S l p lh l g l P
+
+t ~
+
+4
+
+I ~
+
+t OM P
+
+OOOO.Pm l g IOPIOI tl S S Ohg I h h
+
+I g
+
+g l IO O 4 O S
+
+d 'I~
+
+d. I ' OOOI
+
+The response to review times and cleanup has been phenomenal.
+
+HIGHLY CONFIOENTIAL-ATTORNEYS' EYES ONLY
+
+DX4399.065
+
+APL-APPSTORE 09848674
+
+1 for each plafform, innovative/different,
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.066
+
+APL-APPSTORE 09848675
+
+Sweat with Kayla
+- One ofourbestworkoutexperiences lo date onWatch - UsingSprimKitforhomescreen+ alsotoanimals theheartilire intheworkout screen - Seauliful, cleandesignwith intuitivecontrolstostart, pause, andslopworkouls. - We chosethis because il's a great Watch-only experience, ANO it can also be a great complement to the iOS app, if you need mors guidance on howtodo each exemise
+PING
+Inthe SwingPramicemode,the PING epp utilizes the gyrascopeandaceelerometsr sensor features ofwatehOS 3toprovidegollsrsreliable and accurateswing-tempomeasuremenls. ThsPlayGolf function allows the slat-focusedgolfer to track irnpohanldale, includingfairwayshit, greensinregulation,andpulls perround.YoucanalsokeepsecreusinglhePING apponApple WelchanditrecordsyourworkoutwithHeakh.
+Proloquo4Text
+AccssslbllW . This app literalty gmesa voioetouserswhocannotspeak - Uses newText loSpeechAPls in wslehOS 3toellawusersaccesstooornmonphrawm with onetap -(Notice thetextis upsidedawnbecause you'reskewing itto somsonei
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.067
+
+APL-APPSTORE 09848676
+
+AirMail by Bloop
+Mac app
+Designed from ground up for Sierra Touch Bar Cross platform development CloudKit Notification Center integration
+iOS app
+3D Touch icloud Sync iMessage and Watch Extensions Apple Pencil support
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.068
+
+APL-APPSTORE 09848677
+
+Zwifi Zwift, inc.
+
+Zwift is a London-based startup that is revolutionizing indoor training with their virtual cycling app and sensors which translate real world effort into speed in the digital one. Already on iPhone, iPad, and Apple Watch, it will be coming to Apple TV soon,
+Your power, measured by the watts you produce, propels you through the digital landscape. Zwift has built software that, from the comfort of your own home or local gym, allows you to feel like you are riding alongside your friends on your favorite scenic road.
+Zwift allow the rider/player to compete against others around the world, while a new generation of 'smart' turbo trainers respond to inputs from the game, increasing or decreasing resistance for climbs, descents and drafting.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.089
+
+APL-APPSTORE 09848678
+
+44
+mavaup 41 75
+
+GO
+"Go - Compare Car Insurance" is to the insurance industry what Pdceline and Kayak are to travel. They partner with all of the major providers. Their latest update brings the 3-7 day process of buying car insurance down to under a minute. Snap your license. Get a quote. Pay with Apple Pay. That's it!
+iCS exclusive title which takes advantage of: -Apple Pay + Wallet -Touch ID -3D Touch Quick Actions -Rich Notifications -Widget -Apple Watch app -Swift
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.070
+
+APL-APPSTORE 09848679
+
+Developer Academies & App Accelerator
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.071
+
+APL-APPSTORE 09848680
+
+20% of scholarship winners came from Apple Developer Academies
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.072
+
+APL-APPSTORE 09848681
+
+Ql
+->9 different sites throughout Brazil ->3000 Students through both programs to date -1 WWDC Design award winner -Over 1000 Apps submitted to App store ->1 22 Students attended WWDC since inception, More the 100 Scholarship winners in last 3 years -WWDC2017 has 43 students scholarship winners from Brazil
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.073
+
+APL-APPSTORE 09848682
+
+800 students to date across 5 universities with 21 0 more to attend through October 2017. 1000+ students planned for 2017/2018 academic year 6th university (Sannio) running it's first program this September.
+108 students applied for a WWDC17 Scholarship (6x increase from WWDC16) -WWDC2017 has 29 students scholarship winners from Italy
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.074
+
+APL-APPSTORE 09848883
+
+India is rapidly growing developer market, last year adding nearly 6,000 new PAID Apple Developer Program members. Many Indian developers also tend to focus on the international markets, which is quite unique among large emerging markets such as China which is predominantly focused on local consumption.
+Despite active developer base, we identified that many Indian developers have great engineering skills, but lack deeper understanding of IOS platform and design conventions, therefore building 'lowest common denominator' apps and games. We wanted to change that by scaling WWDR efforts and launching a dedicate facility to accelerate app development, technology adoption and lift design quality.
+A soft launch has been running since Feb 1st to test the centres facilities, processes, tools and team both functionally and to capacity or load with our grand opening in April.
+Currently we have 11 tech sessions, 7 design and 3 tools sessions, in addition we run simultaneous hands on labs in each category. where as sessions are open to all registered Apple developers...Feedback so far has been great!
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.075
+
+APL-APPSTORE 09848684
+
+Coming Soon - Indonesia, Jakarta.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.076
+
+APL-APPSTORE 09848685
+
+p ~+ ,~ S~ ~ ~ ~ W ~ ' + - 3r · ~ l f
+
+@IsI f + ~ > A,, e r
+lie
+
+, ~~
+
+~
+
+P , y4 Wt ~ &
+
++ o
+
+~ )
+
+~P
+
+e hw]+j
+
+wWP'
+
+.
+..
+
+,··,g
+
+0 ye~e «g+~
+
+Il
+
+~ )
+
+w
+
+Ssn Jose,Ca, Junco-9
+
+.~,f
+
+N s9,
+
+7C
+sue 4~u - a
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.077
+
+APL-APPSTORE 09848686
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.078
+
+APL-APPSTORE 09848687
+
+76 countries represented
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.079
+
+APL-APPSTORE 09848688
+
+Yuma
+Masako created Hinadan --named after a combination of the words hina, meaning 'doll,' and dan, meaning 'tier' --asks
+players to place a total of 12 dolls in their respective positions on a standard display with four tiers. The game finishes once you arrange the dolls in their correct spots.
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.080
+
+APL-APPSTORE 09848689
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 081
+
+APL-APPSTORE 09848690
+
+As Phil, Alan and Jeff showed you yesterday, our focus for the remainder of the year will be delivering the amazing new App Store, redesigned from the ground up.
+As we look to 2018...
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.082
+
+APL-APPSTORE 09848691
+
+... We are working on several exciting new features that we think our customers and developers will love, but the biggest and most important will be...
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DXP399.083
+
+APL-APPSTORE 09848692
+
+A Personalized App Store. The goals of personalizing the App Store are simple:
+- Improve discovery for both customers and developers - Give customers yet another reason to come back to the store every day, because it will always be changing - Help drive downloads and billings
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 084
+
+APL-APPSTORE 09848693
+
+These are a few of the signals we will be exploring to use for a personalized App Store.
+By using signals that customers already share with us, like what types of APPS THEY DOWNLOAD, or SPEND MONEY IN, or their LOCATION, we can recommend the right app for them at the right time, creating an even better discovery experience. We think our customers are going to love this.
+So that's our update for the App Store. Next up is Music...
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 085
+
+APL-APPSTORE 09848694
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-4399. 086
+
+APL-APPSTORE 09848695
+
+

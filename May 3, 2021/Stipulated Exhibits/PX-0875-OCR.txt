@@ -1,0 +1,99 @@
+PLAINhFF
+ty.S.Diselct Coed - NDCAL
+4:20cv45540-YGR-TSH
+Epic Games,Inc. r.Aytrb Inc.
+EytN. D. PX-0875
+Date Entered Sy
+Application Distribution and
+Deployment on MacOS X Embedded
+yteeennl by:tdadt Adler yeanwddht DeltasDeAdsy dcAL Dctcber N,ydey
+
+CONFIDENTIAL
+
+Exhibit
+PX 875
+PX-0875.1 APL-EG 00982923
+
+The transition from a closed system to one with a more open developer model demands answers to questions of control and security. System integrity, core functionality and stabgity are maintained through careful control of interfaces, applkatkrn
+deployment, andruntime executkrn. Methods for this control must be balanced against creating a reasonable environment
+for development and deployment of appNcations Notrhe embedded
+This document deNnes the goals, approach, and basic methods for application identification and privileged access on Apple devices.
+Assumptions
+· Existence of a robust sandbox to contain applications and developers. This document does not address creation of the sandbox, but assumes wewlNhaveone to constrain the behaviors of approved appgcations. This implies that we wiN employ current measures from leopard (e.g. Seatgelt) to restrict access of the applicadons and development environment. This topk requires its own analysis and investigation.
+Goals
+Development Foster development of applications on the device. by creative individuals, 3rd party Isvs and corporate entities.
+Malware reduction Active prevention and discouragement of malware Is a critical part of our security plan. Applkatlon signing provides a process that enables legal protection and the identiNcation method for application blacklisting, (Technical defenses primarily reside in the aforementioned sandboxing - to be covered in another document.) Examples include sofhelare that attempt to copy or transmit data off the device or tries to penetrate its security mechanisms. Restrict feature access
+We intend to designa sche re which allows us to partition system funcdonality into access groups to reserve certain portions of the stadt for Apple use to sadsfy carrier approval and control the user experience. A notable example is the software that allows accesstotheEDGEnetwork
+Revenue from Apple distributed applications Protect revenue for Apple and third parties who subscdbe to Apple's distribution methods.
+Independent application distribution To enable enterprise application distribution we must enable application signing independent of Apple's primary signing and distribution service.
+Distribution Methods
+Dlstributkm wgl be provided in two forms: Apple-signed and distributed and developer-signed and distributed. Deveiopersigned and distributed appgcatlons are currently shted for Nrst deployment to enterprise operations where software wgl only be used Interrwlly (ie: not publkly). There is an open policy question around the models for freaware distribution .
+(Tunes (Apple signed) Distribution through ITunesaNowsApple to apply DRMtoensure non-transferability of purchased applications, Apple could also provide distribution without ORM through iTunes.
+Signing 3rd Party AppNcations - Apple Need to Know ConNdential
+
+CONFIDENTIAL
+
+PX-0875.2 APL-EG 00982924
+
+Mitch Adler October 13, 2007 8:06 PM
+Apple Signed Only? Still investigating if we can delegate signing authority to developers who don' t
+have other incentive to keep their signedapplkations restrkted (e.g. EA)
+
+Web (Apple signed) Distribution tivough the web should be supporte4 but Apple will provide no transfer protection.
+Internal (Developer signed)
+Copmanies that wish to control distribution of their software can deploy packages internally. Again, Apple will provide no
+transfer protection, but will provide mechanisms for use only on devices controlled by the company's trusted IT department Application Development
+Code signing can greatly slow the development process if injudiciously applied. Our system must be designed to ensure that the overhead of security doesnot hinder innovation, We arecreating a systemaround three key pres - development, testing, and release. During development we must enable engineers to quickly iterate and test their code on Apple devices. During test phase,third parties wgl need to Install software onawider range of devices that ara doser to production. Release refers to the Rnal s)gned a distributed binary application. Appendix A contains a flow chart of'a day in the life of a developer'.
+Development During development, engineers must have access to debug tools and ther application. In order to enable development, we plan to tie a developer's identity andSDKto their development devices. This will allow them to iterate without going thmugh an Apple-owned signing server, but restrict execution of their application to those development devkes. It is critical that under-development software not be usable onshipping user devices. We also plan to make it impractkal to convert an unauthorbed I personal) system to a development system.
+After agreeing to the terms of Apple's license/contract, the third party will receive a developer package. This package will contain the SDK, adebug image, and a development key. The debug image and the development key will be tied to that party. In order for a device toacceptanapplication dgned with that devehpment key, the device must be provisioned for that unique party. This is the same mechanism we will use to support enterprise deployment.
+We are crafting a system that allows Apple to control the number of devkes a developer «an use in this fashion.
+Testing We must design a system that allows wider deployment of underdevelopment applications to closer-to-shipping devices for testing. We can employ the same methods outlined above, with a more stringent policy around development-enabled devices.
+Enterprise customers will use their release mechanism for testing, as it is inherently restricted by design.
+Release As noted above, release will come from an Apple-signed and distributed channel, or a developer-signed and distributed channel (enterprise). The former requires an Apple depanment dedicated to review of software before signing. We plan to create tools to validate basic API-compliance. We should also create Ul, power, and stability cr)teda for such signing. Whether this is developer-tested and submitted or Apple-tested is under consideration and will require signlgcant resources to implement
+Apple-signed but developer-distributed software is still under policy consideration.
+Apple will reserve the right to revoke an application'sabilityto run on devices foranyreason,atanytime.
+Signing3rdParty Applications - Apple Need to KnowCongdential
+
+CONFIDENTIAL
+
+PX-0875.3 APL-EG 00982925
+
+Revocation
+The primary purpose ofrevocation is adeterrent for misbehavior. Wehopenot to have toempkryit, but we mustprovide a mechanism tosHowrevocation to be able to inhibit the rÃstributlon of rnalwar».
+The most important moment in the application Hfetime to check for revocation is Installation time, as at that moment the users device is yet to be effected by the revoked application.
+Details of the mechanismsand polides around revocation need to be explored.
+To Do/Open Issues
+· System SecurityImpgcations · Legal Restrictions/Remedies on Applications · SDK SubCA Acquisition and Parameterization LMustbe exclusive witherdsttngsubCAs)-Longleadtime · Open GLAPIS- ecurity,Compatibility w/2.0, Completeness(Threadandonlywhat weneeded) · Writeup on how Signingworks(Codesigning +T SignEverything) · Write up on Keys and Countersigning process for releas, inCludingissuesaroundexpiration
+
+Signing 3rd Party Applications- Apple Need to Know Congdential
+CONFIDENTIAL
+
+PX-0875.4 APL-EG 00982926
+
+Appendix C - Developer Scenarios
+Guy in his basement
+Register with Apple and get SDK and Token for his 1 Unit 'l.l. In s tall Token Into SDK 2. Connect device and invokeSDK 2.1. SD KSigns build Application and downloads Disk Image and Token to Device 2.2. D e bugging/Development and Validation by the same indi~(dual 2,3. U s e device without Development image to validate 3. Dedde you have Anal version to deploy 3.1. S u bmit to Apple for Signing 3.2. G e t signed image and deploy as you wish
+EA 1. Register with Apple and get SDKandTokenfor development and vaadation units
+1,1. I n stall Token into SDK 2. Connect device and invoke SDK
+2.1. S DK Signs build Application and downkurds Disk Image andToken to Device 2.2. D e bugging/Development and Validation by the same Individual 2.3. H a nd off signed development version 3. Dedde you have final version to deploy 3.1. S u b mtiot Apple Rsr Signing 3.2. G et signed image and deploy (using a custom scheme,freeware or deal with Apple for DRM).
+MIT 1. Register with Apple and get SDKand Token for development and validation units
+1.1. I n s tall Token into SDK 2. Connect device and invoke5DK
+2.1. S DK Signs build Applkation and downloads Disk Image and Token to Device 2.2. D e bugging/Development and Validation by the same individual 2.3. M o st applications don't get widely distributed
+3. Dedde you have anapplciationto deploy
+3.1. S u bmit to Apple for Signing 32. G e t signed image and deployment (usaincgustom scheme,freeware or deal with Apple for DRM).
+Genentech 1. Set up a CA for signing applications 2. Register the public key of the CA with Apple and get It certified as an Application signer 3, Create a deployment package for enabling theCA asa signer for phones. 4. Create token for debugging with CA 5. Connect device and invoke SDK
+5.1. 5 DK Signs build Applkatlon and downksadsDiskimageandToken to Device 52. D e bugging/Development and Validation by the sameindividual 5,3. H and off signed development version
+Signing 3rd Party Applications - Apple Need to Know Confidential
+
+CONFIDENTIAL
+
+PX-0875.5 APL-EG 00982927
+
+6. Dedde you have final version to deploy internally 6.1. S i gn with Signing server and deploy
+
+Signing 3rd Party Applications - Apple Need to Know Confidential
+CONFIDENTIAL
+
+PX-0875.6 APL-EG 00982928
+
+

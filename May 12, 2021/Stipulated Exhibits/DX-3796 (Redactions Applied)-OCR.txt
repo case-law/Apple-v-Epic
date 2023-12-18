@@ -1,0 +1,239 @@
+Subject: Re: ERB: Minecrafl shared currency Received(Date): Wed, 31 May 2017 00:34:36+0000
+
+Unitct stets oiCcicl coen NcnhctII ttittnti C/Cctilbmtc
+
+Ccrc No. 4:26-cv45640-YGR
+
+C CI ~
+
+ExhibitNo, DX-3796
+
+Dcic Entices
+caw r Ably,ctw
+
+th
+
+I Ctc t
+
+Cci "StoneyGamble"
+
+,"Anders Baecklund"
+,"Mary Ann Brunson" ,"Alexandria McEnroe
+
+Date: Wed, 31 May 2017 00:34:36+0000
+
+Have we also verified no link outs /marketing material that would let the iOS customer know that coins can be purchased outside of iOS/tvOS
+On May 30, 2017, at 5:09 PM, Bill Havlice New ERB Ticket created and Alexandria hss it for Out of Cycle tonight.
+s.//elevate a le com/tick ts/1724722
+
+Bill
+
+Yes. They will Bx both iOS and tvOS
+
+wrote:
+
+On May 30, 2017, at 4:30 PM, Trystsn Kosmynk When's the call7
+
+wmte:
+
+wrote:
+Hello Trystan, Just FYI in case this escalates through other channels.
+Minecrafn Apple TV Edition for tvOS is requiringusers to sign in with or sign up for an Xbox live account in order to purchase consumable currency. Since the app as a single player mode we would require that users be able to access IAP without forced registration. We are mjecting for 5.1.1.
+It appearsthisnewMarketplacefeatwe wasenabled intheiOSversionandwasapprovedin error wth this same 5.1.1 issue.
+When I spoke to them today, they claimed that because they have a multi-platform shared marketplace for coins, they need users to be logged in to purchase. Pm setting up another call with them and the paimership manager to deliver the news that we are going to require them to allow purchase without sign in and to addrms this on the iOS app too.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX-37IN,001
+
+APL-APPSTORE 09976511
+
+Best regards,
+
+Bill On May 11, 2017, at 9:04 AM, Bill Havlicek
+
+wrote:
+
+Hello Trystan, The call has been made with the Minecraft team at Microsoft. They were happy with the revised guidance and agreed to the points detailed below.
+- Incidental shared currency is OK --Apps must offer IAP for virtual currency - No buttons, links, emails or solicitation that direct iOS or tvOS users to other purchasingmechanisms - The app should be setup for IAP and users should not be directed inside or outside the app to purchase mechanisms other than IAP
+
+Best regards, Bill
+
+On May 10, 2017, at 7;06 AM, Trystan Kosmynka
+
+wrote:
+
+Great, thanks
+
+On May 10, 2017, at 7:04 AM, Bill Havlicek
+
+wrote:
+
+The PM is setting it up.
+
+Likely happening today or tomorrow.
+
+Bill
+
+On May 10, 2017, at 6:53 AM, Trystan Kosmynka If we haven't already moved forward with a caII on this one we can.
+
+wrote:
+
+On May 8, 2017, at 10:53 AM, Bill Havticek
+
+wrote:
+
+Thanks, will do.
+
+On May 8, 2017, at 10:38 AM, Trystan Kosmynka
+
+Give it until say 2PM, doubt there will be any objections or responses, but want to give a few hours to be sure
+
+On May 8, 2017, at 10:34 AM, Bill Havticek
+
+wrote:
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX-3798.002
+
+APL-APPSTORE 09979512
+
+OK for me to reach out to the PM and get a conf call arranged with the team we spoke to
+previously to deliver this info? Best regards,
+
+BIll
+
+On May 3, 2017, at 10:32 AM, Trystan Kosinynka
+
+wrote:
+
+Begin forwarded message:
+
+From: Trystan Kosmynk Date: May 8, 2017 at 10:31:59 AM PDT To: Josh Shaffe Cc: Ron Okamot Blumsack
+Haun"
+
+, Philip Schille Matt Fischer ~
+
+., Emily , "C.K .
+
+Subject: Re: ERB: Mlnecraft shared currency Privileged and Confidential
+
+Thanks for the feedback, we will arrange the call asap.
+
+On May 6, 2017, at 9:38 AM, Josh ShaSer Privileged and confidential
+
+wrote:
+
+Agreed. I think this is necessary for user experience.
+
+Josh
+
+On May 5, 2017, at 11:35 PM, Ron Okamoto
+
+Privileged and confidential
+
+I agree with this approach, no objections.
+
+Sent from my iPhone
+
+On May 5, 2017, at 10:53 PM, Philip Schiller
+
+wrote:
+
+Privileged and Confidential
+
+I think this makes sense and is even necessary.
+
+We don't want to distribute apps that allow purchases of digital goods and services outside of the App Store. But we also have to allow apps that are cross platforin to work properly
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX-3798.003
+
+APL-APPSTORE 09979513
+
+for users. If users play Minecraft on for example the PC, and purchase goods there, and then run Minecraft on iOS or AppleTV with the same log on they would expect those goods to be there as welL I don't see any other way around this.
+
+If anyone feels otherwise pleasesayso. I think this is abig deal.
+
+For reference our current guideline is the following:
+
+Guideline 3.1 "If you want to unlock features or functionality within your app, (by way of
+
+example: subscriptions, in-garne currencies, game levels, access to premium content, or
+
+unlocking a full version), you must use in-app purchase."
+
+On May 6, 2017, at 1:45 AM, Trystan Kosmynka
+
+wrote:
+
+Privileged and Confidential
+
+Atter several discussions we believe we have a path forward for the Minecraft shared currency issue.
+
+We are okay if there is incidental shared currency in Minecraft. The app must use IAP for virtual currency and there must be no buttons, external links or other calls to action that direct customers to purchasing mechanisms other than IAP.
+
+Outside of the app there must be no links, emails or other solicitations that direct iOS/tvOS customers to purchasing mechanisms other than IAP.
+
+The entire app experience must be setup for purchasing with IAP, and nothing the developer does in the app or outside the app is designed to encourage purchases for use on iOS happening anywhere but on iOS.
+
+Unless anyone objects we would like to move forward with letting Minecraft know.
+
+Bill Havllcek I
+
+i 408.974.2992
+
+Information in this email including any attachments may be privileged, confidential and is intended exclusively
+for the addressee. The views expressed may not be official policy, but the personal views of the originator. If
+you have received it in error, please notify the sender by return email and delete it from your system. You should not reproduce, distribute, store, retransmit, use or disclose its contents to anyone. Please note we reserve the right to monitor ag email communication through our internal and external networks. Apple and the
+Apple logo are trade marks of Apple Inc registered in the US and other countries.
+
+Bill Havlicek I
+
+I 408.974.2992
+
+Information in this email including any attachments may be privileged, confidential and is intended exclusively for the addressee. The views expressed may not be official policy, but the personal views of the originator. If
+you have received it in error, please notify the sender by return email and delete it from your system. You
+should not reproduce, distribute, store, retransmit, use or disclose its contents to anyone. Please note we
+reserve the right to monitor ag email communication through our internal and external networks. Apple and the Apple logo are trade marks of Apple Inc registered in the US and other countries.
+
+Bill Havlicek I
+
+i 408.974.2992
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX-3799.004
+
+APL-APPSTORE 09979514
+
+Information in this email including any attachments may be privileged, confidential and is intended exclusively for the addressee. The views expressed may not be official policy, but the personal views of the originator. If
+you have received it in error, pleasenotify the sender by return email and delete it from your system. You should not reproduce, distribute, store, retransmit, use or disclose its contents to anyone. Please note we reserve the right to monitor ag email communication through our internal and external networks. Apple and the
+Apple logo are trade marks of Apple Inc registered in the US and other countries.
+
+Bill Havlicek I
+
+i 408.974.2992
+
+Information in this email including any attachments may be privileged. confidential and is intended exclusively for the addressee. The views expressed may not be official policy, but the personal views of the originator. If
+you have received it in error. pleasenotify the sender by return email and delete it fromyour system. You
+should not reproduce, distribute, store, retransmit, use or disclose its contents to anyone. Please note we reserve the right to monitor afi email communrcation through our internal andexternal networks. Apple and the
+Apple logo are trade marks of Apple Inc registered inthe US and other countries.
+
+Bill Havlicek l
+
+l 408.974.2992
+
+Information in this email including any attachments may be privileged, confidential and is intended exclusively for the addressee. The views expressed may not be official policy, but the personal views of the originator. If
+you have received it in error, please notify the sender by return email and delete it from your system. You should not reproduce, distribute, store, retransmit, use or disclose its contents to anyone. Please notewe reserve the right to monitor afi email communication through our internal and external networks. Apple and the
+Apple logo are trade marks of Apple Inc registered in the US and other countries.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+DX-3795.005
+
+APL-APPSTORE 09976515
+
+

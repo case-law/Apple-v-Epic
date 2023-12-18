@@ -1,0 +1,145 @@
+@ 210584
+0 Haiku Article Preview
+Dc«umcnt 10.2iosas Lo cale: es 05 I rsrsnxpla pub lication 5utus. pubksked Archvalststxs: never Arckwsd
+
+05/02/21, 4:48 PM
+
+seel · Irsvppen ssp csntssu
+
+Va I · I 1 :
+
+App Store dhPrivacy
+App Store is desIgned to protect your information and let you choose when you share.
+Do not send this Kafor localization under anv circumsmnces.This article's contentle provided hv Privacy.Ifyou need to make an update,contactglonica Sarkar.
+
+United StatesDistrict Court Northcnt DistrictofCalifornia
+
+0
+
+CaseNo. 4:20-cv-05640-YGR
+CaseTitle /cGames//Ic. Li · M. Ipe
+
+mExhibit No. DX-4400
+
+Date Entered
+
+Svsm y. ScssgC. lnk
+
+, DspsiyClerk
+
+(7 AUD NNC1: Internal
+
+Please«ontacaMonica Barkerforapprovalifyouneed toeditormake anychanges tothetapsforIbis article.
+AUDIDICE: Istcrrsl
+Ak
+· We collect yourpersonal inforrsati onsothat wecan provide youthe mntent voupurchase.download, or want toupdatem theStores.whichincludeAppStore, iTunesStore. the Storein Apple Books,and ITunes U.
+· We alsouseinformationaboutyouraccount, purchases,anddonwlo ada in theStores tooffer advsmsing to ensure thatSearch Adain the App Store and ads in Apple NewsandStocks,where available, are relevant to
+you. You have choiceswith respect tothis advertising, as described below. · We use informat ion about your purchases, downloads, andother activities in the Stores to tailor features
+and offer personalized ecommendaticns for you. you can opt out of the use ofthis data for this purpose. as described below · To help Identify and prevent fraud, information about how youseyour device, including the approximate number of phonecalls oremailsyousendandreceive, wlI be usedtocomputeadevice trustscorewhee you attempt a purchase.Thesubmissions aredesigned so Apple cannot learn thereal valueson your device.The see scare stored for a lixedtime vn our servers. · To gnd ways to Improve ths Stores we use information about your browsing, purchases searches, snd downloads.These recordsarestortdwith IPaddress. a randomunique Ident lier (where that arises). and Apple ID when you are signed In to a Store
+Providing the Stone
+We use your personal inforrsstion te prov de the services snd features in the Stores. This information includes, forexample.youraccountand payment information,wh ichvou canaccessand changeinseu ings.and your purchase history.
+when you download from a store. or install an app on your Apple watch, Identttiers suchas your device's hardware IDandIPaddress src logged by Appl · along with your Apple ID.
+Improving Ihe Stores
+To irsprovc the mperience in the Storm, we coast Informationabout your usage of the Stores, includmg when
+httpsg/accp.corp. apple.corn/content/haiku/article/en us/Kaase/040/210584.html?cq ck=1612523853960
+
+Page I of 4
+
+CONFIDENTIAL
+
+DX-4400. 001
+
+APL-EG 00464476
+
+D 210684
+you open or closeaStore. what content you search for. and the content you view and download. We also collect Information about your device suchasthe type of device, the version of your operating system. and the amount of free space on your device. Wemayuse this mformati on to assess whether requested content canbe downloaded, to understand general trends ln use of device storage, and whether your device is connected by Wi-Fl or cellular. For example, we may use this information in the following ways:
+· User searchdata makes it possible fores to o/fer trendmg searches. · Knowing what content you view or download makes it possible for us to olFer personalized features like
+"More Garnes You Might Like. · Knowing the free space on your device allowed us to build the feature that lets you buy movies on your
+iPhone without downloadlng it at purchase.
+Additionagy, if you have Popular Near Me enabled in Location Services, your iPhone will periodicafiy send locatoins ofwhen and where you havepurchased or used apps inananonymous and encrypted form toAppl·. and may then be used to o/fer geographically relevant apps and other Apple products and services. Toaccess and change this In Sewings, on IDS or IPadOS, go to Settings > Privacy > Location Services > SystemServices > Popular Near Me.
+Personalizing the Stores
+We use your interactions with the Stores to help you discover the content that's most relevant to you. For example, we recommend content that we think will be of interest to you based on what you' ve previously searched for, viewed, downloaded, updated,orreviewed in the Stores. Wealso use your purchase history and payment methods together with account information derived from your Apple ID. To make better recommendations, we also useaggregate information about app launches, installs, and deleti one from users who choose to share device analytics with Apple. Personalization features can be disabled by slidingo/Fthe Personalized Recommendations switch for your Apple ID m the i Tunes 6 App Store Settings.
+Advertising
+Search Ads is an easy way for developers to promote their apps within App Store search results, helping peop·l discover apps. Weuseinformation about your device, account, purchases, dowlnoads and search terms in the App Stare to ensure that ads in the App Store are relevant. We create groups of people, caged segments, who share similar characteristics and we use these groups for delivering targeted ads. Information about you is used to determine which segments you are assigned to, and thus. which ads you receive. To protect your privacy, targeted ads are only delivered If more than 5,000 people meet the targeting critena.
+When selecting which ad to display from multiple ads for which you are eligible, we may use some of the above mentioned mformati on,aswell asyour AppStore browsing aaivity, to determine which ad is likely to be most relevant to you. App Store browsing activity includes information like the content and apps you tap and view while browsing the App Store. This information is aggregated across users so that it does not id entify you.
+We also use similar mformation from the App Store to make ads in Apple News and Stocks more relevant, but in a way that is tied to an identifier specific to Apple News and not tied to your Apple ID.
+If you do not want to receive ads targeted to your interests framApple's advertising platform, you canchooseto enable Limit Ad Tracking, which will opt your Apple ID out of receiving such ads on devices where you are signed in with the same AppleID.If you choose to limit ad tracking, youwillstill receiveadsbased on search
+terms you enter.
+Learn more About Advertising 6 Privacy in Search Ads and Newsat hnps://support applecom/HT203223
+Learn about how to opt out of interest-based ads in the AppStoreand Apple News at https://support. apple.com/HT202074
+Sharing with Thiwl Paniee
+We are obligatedto provide some non-personal Information to strategic partners that work with Apple to provide our oroducts and services, help Apple market to customers, and sell ads on Apple's behalf to display In the App Store and Apple NewsandStocks. For example, we may share non-personal Information about your content purchaseswithapp developers so that they can measure the perFormance of their creative work, meet royalty and accounting requirements, and improve their products and services.
+We may share information with developers to help them operate and improve their apps. Developers can access usage Information, provided by users who opt in. that allows them to look at aggregated data from groups of users that have similar characteristics or behavior, as long the data comes from groups of no less than five users. Developers can access receipt information for purchases of their products and services in the Stores. Receipts do not include personal information; however, developers could seek to associate them with personal information from your use and download of their apps, if you have provided It to them.
+httper//accp.corp. apple.corn/content/haiku/article/en US/Kgase/040/210584.htmlvcq ck=16I2523863960
+
+06/02/23. 4i48 PM Page 2 of 4
+
+CONFIDENTIAL
+
+DX-4400.002
+
+APL-EG 09484477
+
+D 210684
+
+If you purchaseasubscription in athird-party app, we createa Subscriber IDthat is unique toyouand the developer or pubhsher you can learn more about Subscdiber ID at https //support apple corn/HT207233
+Retention
+Weretainpersonal in(ormat ionassociatedwith your purchases and download s on the Stores for the pe Diode specified by applicable laws relating to gnanaia/ re poning, which vary by country. For most customers,that requiresat least a ten-year retention period. We also retain a record of your purchase anddowlnoads of content for at leastaslong asyou have an account with usto allow you to download that content, again in line with our applicable terms. We retain other Information suchasbrowsmg activity and searches for a shorter period. The period chosen takes account of applicable legal requirements to rebwn data and specigc busmess use cases. However, some information. such as purchases but not your stored card details, may be retainedasbusiness records even after you close your account or stop using the Stores.
+Preventing Fraud and Other Malicious Activity
+We also collect personal information to prevent fraud and other malicious activity in the Stores and other Apple apps and services. Thi· information includes device information, such asdevice type and software version, location information, if available. download and purchase history, and other interactions with the Stores.
+We also computea device trust score on your device when you attempt apurchase using information about how you use your device, including the approximate numberof phone calls or emails you send and receive, The submission i · designed so Apple cannot learn the underlying values on your device. The score is storedfora fixed time an our servers.
+At agtimes Apple collects and uses information in acconlance with our privacy policy located at www.apple.corn/pnvacy
+
+05/02/21. 4I48 PM
+
+general Details
+Products: Produo Securilr
+Tapir Hero Internal
+Countries/Regions: NA
+User Croiipi Public
+Onliiip.
+NA
+Creator: danai
+Wf liar: asra asivasyeda
+
+Document Details
+Content Type: How To
+Inquire ID: NA
+Ruler: NA
+Content Crealion Driver: NA
+Iufoflllaliou Type: NA
+Topics: pfluacif
+In House: NA
+canal Dischimen Third-Pans
+Cfeatloa Date: og/17/2otg
+last Modlged Dale: 02/os/2021
+last Modihed gv. mohammed niaarnuddin t
+
+Product Details
+3fd Palm Pfodllct: NA
+Preview Links
+Online Support t og P« ew I r « i e w b Ps ie
+
+httpsi//accp.corp. apple.corn/content/haiku/article/en US/Kgase/040/210584.htmlucq cko1612523853960
+
+CONFIDENTIAL
+
+DX-4400.003
+
+Page 3 of 4
+APL-EG 09484478
+
+Qo 210584
+
+05/02/21, 4:48 PM
+
+https://accp.corp. apple.corn/content/haiku/article/en US/KBase/040/210584.html?cq ck=1612523853960
+
+CONFIDENTIAL
+
+DX-4400. 004
+
+Page 4 of 4
+APL-EG 09484479
+
+

@@ -1,0 +1,70 @@
+From: Tho mas Ko
+Sent: W ed, 25 Dec 2019 04:5$:30+0000 C To: Rand y Gelber Cc: Tim S weeney
+Sergey Galonkin Subject: Re: Xsolla
+
+Chris Dyl
+
+First of all, thank you for thinking outside of the box to see whether we really want to be 3rd party payment provider as a part of Online services future, As long as the leadership is willing, we have an opportunity to grow and scale as the potential targets are more than xsolla,
+
+For us to truly be able to provide very competitive payment framework, we must have a dedicated company with special licences (eMoney or money transfer), compliance discipline (PCI, PSD II), and regional and local
+operations to be able to do this in scale while achieving the best consumer experience, This means truly owning PII data. This is by no means easy to do it year over year. Therefore for Epic to do, it would be a huge undertaking to build. So my recommendation would also be an acquisition route.
+Currently when you come to IAP within a game, outside of AppStore and Google Play, there is really no truly comprehensive paytnent solunon that does everything needed for a game company. So I see a true opportunity that we could really become competitive as a part of the engine company and a store company.
+
+I did not know Xsolla before I joined, and from what I have engaged so far, they seem competitive but I do have
+some reservations on products, cultures, operations as well. If needed, I could spend some more time getting to know them a little better.
+
+If this would be a route to consider in 2020, then I could work with Randy to put some candidates and a strategy around the pros/cons and opportunties together.
+
+Have a wonderful Christmas and thanks for bringing me on board. I feel very lucky to join and work with everyone!
+
+Best regards,
+
+20198 12% 24R (%) 20:22, Randy Gelber
+
+t I Qi ski.Jcl.
+
+I'm not familiar with Xsolla (outside of the work they do for us). I can do sofne work and try to leam more. Given we are a customer, I would assume it would be easy to tneet them. Who has the best relationship internally? We can also do some analysis on other potential alternatives.
+
+I atn close to the CEOs of Global Payments and Worldpay (whom I' ve introduced to Thotnas). We may also want to think through a white label solution with a partner vs acquiring the capabilities.
+
+Welcome everyone's thoughts and happy to revert later in January with some preliminary analysis.
+
+Happy holidays.
+
+Randy
+
+On Tue,Dec 24,2019 at09:41 Tim Sweeney
+
+ote:
+
+(not time sensitive)
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4406.001
+
+ttaitcri States District Court Northern DistrcitofCalifornia
+
+CaseNo. 4:20-cv-05640-YGR
+
+Case Title E ictlarrret, Iac. a 3 Is, Iuc.
+
+Exhibit No.DX-4496
+
+Date Entered
+
+SusanY. SoenoCkuk
+
+By.
+
+DessarClerk
+
+EPIC 00100170
+
+Before the break, we were talking about whether Epic ought to eventually offer payment processing as one of the Epic Online Services.
+I'm wondering if we have any insight into Xsolla, their valuadon and the opportunity for Epic to conn ol a full payment processing stack of that sort. Benefits would be 1) ablity to process international payments more economically, 2) being ready to go the moment Google and Apple ecosystems are opened up to third-party payment services.
+Tim
+Rand Gelber
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4496.002
+
+EPIC 00190171
+
+

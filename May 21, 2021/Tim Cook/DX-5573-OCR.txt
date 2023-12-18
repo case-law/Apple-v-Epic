@@ -1,0 +1,69 @@
+5/21/2021
+=,,:- Data Transfer Project
+
+https://datatransferproject.dev
+
+Download White Paper
+
+About Com m u nity Doc u m entation Upd a te s FAQ
+
+united States District Court Northern District of California
+
+About us
+
+Case No. 4:20-cv-0%40-YGR Case Title E ie 6rurles,irre. u App/e, (rsvp. Exhibit No. Date Entered
+Susan Y. Soong, Clerk , Depute Clerk
+
+The Data Transfer Project was launched in 2018 to create an open-source, service-to-service data portability platform so that all individuals across the web could easily move their data between online service providers whenever they want.
+
+The contributors to the Data Transfer Project believe portability and interoperability are central to innovation. Making it easier for individuals to choose among services facilitates competition, empowers individuals to try new services and enables them to choose the offering that best suits their needs.
+
+Current contributors include:
+
+· S
+
+0 ·
+
+· S
+
+https://datatransferproject.dev
+
+1/3
+
+DX-5573.001
+
+5/21/2021
+
+https://datatransferproject.dev
+
+What is the Data Transfer Project
+
+Data Transfer Project (DTP) is a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct, user initiated portability of data between the two platforms.
+Learn More
+
+How does it work
+The Data Transfer Project uses services' existing APls and authorization mechanisms to access data. It then uses service specific adapters to transfer that data into a common format, and then back into the new service's API. Learn More
+What are some use cases
+There are many use cases for users porting data directly between services, some we know about today,and some we have yetto discover. A couple of examples of ones we know users want today are: · Trying out a new service · Leaving a service · Backing up your data Learn More
+
+https://datatransferproject.dev
+
+2/3
+
+DX-5573.002
+
+5/21/2021
+Why do we need DTP
+
+https://datatransferproject.dev
+
+Users should be in control of their data on the web, part of this is the ability to move their data. Currently users can download a copy of their data from most services, but that is only half the battle in terms of moving their data. DTP aims make move data between providers significantly easier for users.
+Learn More
+
+https://datatransferproject.dev
+
+3/3
+
+DX-5573.003
+
+

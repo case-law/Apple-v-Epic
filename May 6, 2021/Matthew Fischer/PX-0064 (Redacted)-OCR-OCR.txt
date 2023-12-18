@@ -1,0 +1,56 @@
+FREE TRIAL - https://OCRKit.corrI
+
+From: To:
+
+Carson Gliver
+
+BCC:
+
+S ubject: Re. H u l u
+
+Attachments:
+
+Sent:
+
+16/18/2618 12.46:56 AM 6666 (GMT)
+
+PlANYlFF
+U.S, GlsvIOI Co@it- NDCAI.
+4:2~ v 4 I5640-VGR-TSH Bylaw ~ Inc.v.ApplyInc,
+. ~ X-09
+Omta Erjtsad
+SIN'
+
+Yes, It's the same issue. As you know, we worked with Hulu to fix the issue the day we w'ere made aware of it. However, I think we need to take. immediate steps to protect against further misuse of the. API.
+
+Car sorl
+
+Carson, Isn't this the issue you had to deal with last months
+
+Date: Gctober 17, 2618 at 2:59.49 PM PI3T To: Matt Fischer Cc: Trystan Kosmynka
+
++ Pe'te, dId Hulu review' any of these flows with us befor8 IsunchIAQ th8 'Itve servllce~ Gn Gct17,2618, at2:44 PM, Cindy Lin
+
+Hulu is part of the set of whitelisted developers withaccessto sulbscription cancel/refund API. Back in 2615 they were using this to support instant upgrade using a 2 family set up, before we had subscdption
+upgrade/downgradecspabilles built in.
+Eric - did anyone from your team work with them as part of them launching the live service'P
+Cindy
+
+Gn Gct 17, 2618, at 2.69 PM, Matt Fischer Cindy, See below. What is this aboutV How can Hulu switch people from IAP to Hulu billing'7 This doesn't seem right.
+
+CGNFII3ENTIAL
+
+Exhibit 0064
+PX Qo'64
+APL-APPSTGRE 66228734
+
+FREE TRIAL - https://OCRKit.corn
+Phil saw this and wants to know what"s going on. Thanks, Matt
+David Barnard 9128118 1:54 PM I didn't realize App Store subscriptions could be automatically cancelled through the StoreKit API. I'm surprised I haven't seen more off'ers to switch billmg away from the App Store.
+
+CGNFII3ENTIAL
+
+PX Qo'64 2
+APL-APPSTGRE G0228735
+
+

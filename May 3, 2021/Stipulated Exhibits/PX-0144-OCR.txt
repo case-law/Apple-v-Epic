@@ -1,0 +1,155 @@
+Subject: Re: Novel Malware XcodeGhost Modifms Xcode, Infects Apple iOS Apps and Hits App Store - Palo Alto Networks BlogPalo Alto Networks Blog
+
+From: "Phillip Shoemaker"
+
+Received(Date): Fri, 18 Sep 2015 07:41:06+0000 To nCrai Bradle " Cc: nC.K. Haunn
+
+one oemss, Inc. n Apse ine.
+Ex.no. PX-0144
+
+Attachment: xcode1-500x237.png
+
+Attachment: xcode2-500x683.png
+
+Attachment: xcode3-500x119.png
+
+Attachment: xcode4-500x325.png
+
+Attachment: xcode5-500x165.png Attachment: xcode6-500x462.png
+
+Attachment: xcode7-500x166.png Attachment: xcode8-500x413.png
+
+Date: Fr i, 18 Sep 2015 07:41:06+0000
+
+We are analyzing this now.
+
+On Sep 17, 2015, at 11:57 PM, Craig Bradley
+
+wrote:
+
+C.K.,
+
+This all mmns very technical to me but the coiument that "infected" apps successfully passed app review concerns me.
+
+Is this sinnething we should wony about or actively scan for during app review?
+
+//Craig Sent f'rom my iPhone 6 Plus
+
+Begin forwarded message:
+
+From: Ben Liaw
+
+Date: 18 September 2015 at 4:36:40 PM AEST
+
+To: Craig Bradley
+
+Andrew Yeh
+
+Song
+
+Carolyn Wu
+
+Zenus Cony Cong
+
+Cc: Chi-Hoong Kok
+
+Sofia Qian
+
+Subject: Novel Malware XcodeGhost ModiBes Xcode, Infects Apple IOS Apps and Hits
+
+App Store --Palo Alto Networks BlogPalo Alto Networks Blog
+
+In case you guys didn't see. Not sure if there needs to be any actions?
+
+CONFIDENTIAL
+
+Exhibit PX 0144
+PX-0144.1 APL-APPSTORE 03080299
+
+h: / / m .weibo.cn/1981622273/3888379378522533/weixin?wm = 3 333 20018csource e ~ e i x i >
+h: / / researchcenter. aloaltonetworks.com/2015/09/novel-malware-xcode ost-modifiesxcode-infects-a le-ios-a s-and-hits-a -store/
+Novel Malware XcodeGhost Modifies Xcode, Infects Apple iOS Apps and Hits App Store
+On Wednesday, Chinese iOS developersdisclosed a new OS X and iOS malware on Sina Weibo. Alibaba researchers then posted an analysis report on the malware, giving it the name XcodeGhost. We have investigated the malware to identify how it spreads, the techniques it uses and its impact.
+XcodeGhost is the first compiler malware in OS X. Its malicious code is located in a Mach-0 object file that was repackaged into some versions of Xcode installers. These malicious installers were then uploaded to Baidu's cloud file sharing service for used by Chinese iOS/OS X developers. Xcode is Apple's official tool for developing iOS or OS X apps and it is clear that some Chinese developers have downloaded these Trojanized packages.
+XcodeGhost exploits Xcode's default search paths for system frameworks, and has successfully infected multiple iOS apps created by infected developers. At least two iOS apps were submitted to App Store, successfully passed Apple's code review, and were published for public download.
+This is the sixth malware that has made it through to the official App Store after LBTM, InstaStock, FindAndCall, Jekyll and Fake Tor.
+XcodeGhost's primary behavior in infected iOS apps is to collect information on the devicesand upload that data to command and control(C2) servers.The malware has exposed a very interesting attack vector, targeting the compilers used to create legitimate Apps. This technique could also be adopted to attack enterprise iOS apps or OS X apps in much more dangerous ways.
+Distributing the Malicious Xcode Build
+In China (and in other places around the world), sometimes network speeds are very slow when downloadinglarge filesfrom Apple'sservers.Asthestandard Xcode installerisnearly gGB, some Chinese developers choose to download thepackage from othersourcesor getcopiesfrom colleagues.
+By searching for "Xcode " (Xcode downloading) in Google, in the first page of the
+
+CONFIDENTIAL
+
+PX-0144.2 APL-APPSTORE 03080300
+
+search results (Figure i), we found that six months ago someone posted Xcode download links to multiple forums or websites (including Douban, SwiftMi, CocoaChina, OSChina, etc.) that Chinese iOS developers frequently visit.
+Figure i. Google search results for "Xcode downloading" in Chinese These posts provided links to download all versions of Xcode from 6.0 to y.o (including beta versions). All of the links direct to Baidu Yunpan, a cloud based file storage and sharing service.
+Figure 2. Malicious Xcode shared in Baidu Yunpan We downloaded these Xcode installers and found that all versions of Xcode between 6.i to 6.4 were infected. When attempting to verify the installerd code signing signature, it's clear that some extra files were added into the Xcode (Figure 3).
+Figure 3. Code signing verification shows some extra files in Xcode Those additional files are listed below.
+· Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/Li
+· Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/Li
+· Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/S
+· Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/S
+· Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/Lik
+· Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/Lik
+How the Attack Works
+The primary malicious component in the XcodeGhost infected version is
+
+CONFIDENTIAL
+
+PX-0144.3 APL-APPSTORE 03080301
+
+"CoreServices". What is different from all previous OS X and iOS malware instances is that this file is neither a Mach-0 executable, nor a Mach-0 dynamic library, but is a Mach-0 object file that is used by LLVM linker and can't directly execute in any way. This abnormal file format will cause crashes or errors when analyzing it by format parsers like MachOView, oio Editor (with Mach-0 template) or jtool.
+In iOS, the CoreServices contain many of the fundamental system services, and almost all complex iOS apps reply on it. When such an iOS app is compiled, Xcode will search for the CoreServices framework in some pre-defined paths to link with developer's code.
+XcodeGhost implemented malicious code in its own CoreServices object file, and copies this file to a specific position that is one of Xcode's default framework search paths. Hence, the code in the malicious CoreServices file will be added into any iOS app compiled with the infected Xcode without the developers knowledge.
+The malicious CoreServices file primarily implements extra code in UIWindow class and UIDeviceclass.The UIWindow class "mana es and coordinates the views an a dis la s on a device screen". Almost every iOS app has a UIWindow instance when if s running.
+When an infected app is executed, either in an iOS Simulator or on iOS devices, malicious code will collect some system and app information using its UIDevice AppleIncReserved method. The collected information includes:
+· Current time
+· Current infected app's name
+· The app's bundle identifier
+·Current device'sname and type
+· Current system's language and country
+· Current device's UUID
+· Network type
+
+CONFIDENTIAL
+
+PX-0144.4 APL-APPSTORE 03080302
+
+Figure 4. Collecting system and app information Then, XcodeGhost will encrypt the information, and upload it to a C2 server through the HTTP protocol. From different versions of XcodeGhost, we found three C2 domain names:
+· htt: ini t . c rash-anal ics . com
+· htt: ini t . icloud-dia nostics . com
+· htt: ini t . icloud-anal sis . com
+Figure 5. Uploading stolen information to C2 server Note that, the domain name "icloud-anal sis.com" was also used by a sample in theiOS tro'an Ke Raider we recentl found.
+Malware In the App Store
+According to Joe Blue in Sing Weibo, at least two famous apps were infected by XcodeGhost and successfully landed in the App Store. We have confirmed both. We downloadedtheNetEase Cloud Music App (corn.netease.cloudmusic)from Apples App Store (China region). In its latest version (2.8.g), Info.plist shows that it was built with Xcode 6.4 (6Eg5b). In the main executable file, the malicious XcodeGhost code is present (Figure 7 and Figure 8).
+Figure 6. Infected NetEase App in the Apple App Store
+Figure y. XcodeGhost Present in the Infected NetEase App
+Figure 8. Decompiled XcodeGhost Functions in the NetEase App
+Security Risks
+
+CONFIDENTIAL
+
+PX-0144.5 APL-APPSTORE 03080303
+
+Compiler malware is not a new idea. Starting with the first proof-of-concept written by Ken Thompson g1years ago, realcompiler malware has been discovered in many platforms. Compared with other iOS malware, XcodeGhost's behaviors are not especially significant or harmful. This is why the code can pass App Store code review.
+However, XcodeGhost disclosed a very easy way to Trojanize apps built with Xcode. In fact, attackers do not need to trick developers into downloading untrusted Xcode packages, but can write an OS X malware that directly drops a malicious object file in the Xcode directory without any special permission.
+Additionally, although Apple's code review for App Store submissions is very strict, some applications are never reviewed by Apple. If the iOS app is used by an enterprise internally, for example, it will be distributed in-house and won't go through the App Store. In the same example, an OS X app can also be infected, and lots of OS X apps are directly distributed via the Internet other than App Stores.
+In these situations, Xcode compiler malware can be much more aggressive and risky.
+It's difficult for iOS users or developers to be aware of this malware (or similar attacks) because it is deeply hidden, bypassing App Store code review. Because of these characteristics, Apple developers should always use Xcode directly downloaded from Apple, and regularly check their installed Xcode's code signing integrity to prevent Xcode from being modified by other OS X malware.
+Appendix
+XcodeGhost file hashes
+89c912147165ag167611ceb+4249f981a449019cdb842eccc6771ee4a9yeoyc
+Core Services
+b1f56yafbf02b699ga1ee96bfdb9c54010a1adyg2ab5ge5149dda278dd06c979
+Core Services
+f5a6gc059e91f091dgf1e5d95gd95d2f28yab689455215gflcf8y14a5a5bed2d
+Core Services
+2fde065892a8f1c9f498e6d21f421dbc65g888f4102f91fcof~14689d25c055 xcode 6.2.dmg
+cy41afgoaef915baa605856a5f662668fba1ae94a8f52faf95yb8a52c8b2g614 Xcode 6.4.dmg
+
+CONFIDENTIAL
+
+PX-0144.6 APL-APPSTORE 03080304
+
+

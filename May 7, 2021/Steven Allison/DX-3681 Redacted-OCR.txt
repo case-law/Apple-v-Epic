@@ -1,0 +1,1102 @@
+Thread Id:3018524920
+
+"Alee Shobin"
+
+8/6/2020 1:20:43 PM+00:00
+
+United States District Court
+
+«I
+
+NorthernDistrictofCalifornia
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games,Inc.v.Apple, Inc.
+
+Exhibit No. DX-3681
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+[Thread] Next steps on copy approvals -- would like to get a sense of when diff teams are ready for next round with Tim.
+
+"Alee Shobin"
+
+8/6/2020 1:21:27 PM+00:00
+
+I feel like we can probably get Phase 2 Partner Comms for console and first party mobile in front of Tim today. Do you agree it's ready?
+
+"Alee Shobin"
+
+8/6/2020 1;21:53 PM+00:00
+
+When do you think next round of social copy will be good to look at -- is that more of a Monday thing or do you think today is doable?
+
+"Alee Shobin"
+
+8/6/2020 1:22:33 PM+00:00
+
+Are your blog posts all approved now or do we still need to review Free Fortnite blog?
+
+"Jeremy Hoffmann"
+
+8/6/2020 1:23:01 PM+00:00
+
+We need videocopy locked and localized by Tuesday 9am so that and team can prep forversioning.
+
+"Alee Shobin"
+
+8/6/2020 1:23:49 PM+00:00
+
+what are next steps for PR/pre-brief? In the afternoon call it sounded like pre-brief was vetoed -- did you all connectoffline?
+
+"Alee Shobin"
+
+8/6/2020 1:24;14 PM +00;00
+
+I' ll make sure video copy is included in next round (hopefully today)
+
+"Wick Chester"
+
+8/6/2020 1:24:22 PM +00:00
+
+Tera and I did discuss, and that's correct. No pre-briefs are being planned.
+
+CONFIDENTIAL
+
+DX-3681.001
+
+EPIC 03868245
+
+"Alee Shobin"
+
+8/6/2020 1:25:40 PM+00:00
+
+for vis on this thread. At a minimum, I would like to get Video Copy, Phase 2 Partner Comms for Console and Mobile first party in front of Tim today. Stretch goal may be additional social copy. Lmk what you think.
+
+"Devin %'interbottom"
+
+8/6/2020 1:26:23 PM +00:00
+
+video copy we have a dedicated video review at 5:30 today, so we might not need time in other sessions
+
+"Matt %'eissinger"
+
+8/6/2020 1:29:28 PM+00:00
+
+Let's try and find time for a partner comm's review meeting with Tim today. maybe we repurpose the 6:30pm meeting that's already on the books and add Tim?
+
+"Alee Shobin"
+
+8/6/2020 1:30:01 PM+00:00
+
+Could work -- I' ll ping admins and see if that's doable.
+
+"Mana Drake"
+
+8/6/2020 1;33:20 PM +00:00
+
+I'm going to sync up with Garth today about the video title/description/tags so we can get that taken care of ASAP for review. I'm working on more social copy this morning but happy if anyone wants to jump in with some copy ideas in the doc. Wanting to get that to a good place today.
+
+"Carlos Almeida"
+
+8/6/2020 1:43: 17 PM +00:00
+
+, having Loc back for the video copy by 9AM Tuesday, at this point, will not be possible. We are not planning on sending *any* Loc out for translation until Tuesday morning. So, we may just have to go live with Loc'ed versions later. Happy to discuss this further. Depending on the copy that is needed, we can maybe use our LQA guys to handle it, but we, at this point, also don't have all languages available internally.
+
+"Sarah Germano"
+
+8/6/2020 1;43:44 PM +00:00
+
+Hey Carlos, we just need it locked for you to have Tues. All good:thumbsup:: skin-tone-2:
+
+"Jeremy Hoffmann"
+
+8/6/2020 1:43:59 PM+00:00
+
+CONFIDENTIAL
+
+DX-3681.002
+
+EPIC 03868246
+
+And so that we can start English.
+
+"Jeremy Hoffmann"
+
+8/6/2020 t:44:34 PM +QQ:00
+
+We know the exact copy may change, so we are going to prioritize and then be on standby
+
+"Matt Grandstaff" <"
+
+8/6/2020 2:14:37 PM+00:00
+
+Yeah, I think we' re close on the blog, but would like to make sure we' re good to ship to localization. Should
+we be sharing the assets being used with the various blogs, too? (¹FreeFortnite, safe, etc)
+
+"Alee Shobin"
+
+8/6/2020 2:22:53 PM+00:00
+
+great. Yeah I think including assets would be good.
+
+"Mana Drake"
+
+8/6/2020 2;38; 50 PM +00;00
+
+we should get Tony Rossi read in to help with the above
+
+"Alee Shobin" added
+
+8/6/2020 2:39:34 PM+00:00
+
+"Jodi Lamela" [Thread] First Party Assets
+
+8/6/2020 4:03:42PM +00:QQ
+
+"Jodi Lamela" Did we decide not to make assets for Mega Drop to send to first party?
+
+"Devin %'interbottom" <" Statics we should make.
+
+8/6/2020 4:25:52 PM +00:00
+
+"Devin %'interbottom"
+
+8/6/2020 4:26:14 PM +00;00
+
+CONFIDENTIAL
+
+DX-3681.003
+
+EPIC 03868247
+
+Unclear if they will use them, but should be available.
+
+"Jodi Lamela"'
+
+8/6/2020 4:27: 16 PM +00:00
+
+ok -- we just need to know what level of support we should target. There are many many sizes and most get localized so need to understand scope and details
+
+"Devin %'interbottom"
+Id suggest console support only, I highly doubt mobile will use them. Is that helpful clarification? Or is there some support-intensity level you' re referring to?
+
+"Steven Allison"
+
+8/6/2020 4:54;26 PM+oa;ao
+
+Entitlements could be as high as 12-15mm in that 24 hours
+
+"Alee Shobin"
+
+8/6/2020 4:57:57 PM+00:00
+
+a free game giveaway on EGS hasn't historically caused a payment service outage across our ecosystem, right? that or an inability for players in FN to login are my two concerns. is also worried that EGS will dominate the news cycle this day but Total War is relatively niche, right?
+
+"%'en-Jen Chang" <" has joined the group
+
+8/6/2020 4:57:59 PM+00:00
+
+"Mana Drake"
+
+8/6/20204:58:2>PM+OO:Oa
+
+do you have the apple image without the phone wrapper? I want to use it as a mock up for one of the social posts being pitched.
+
+"Steven Allison"
+
+8/6/2020 5:01:19 PM +00:00
+
+GTA caused EGS to fall over, and issues transnacting for it on launcher and web but my recollection is FN was fine throughout (worth checking in with the ecomm and platform team re 5/14/20 re: services stability besides EGS being overwhelmed) on all platforms -- it was more that the traffic pointed at EGS web and launcher was so much larger than we even expected we had issues for about 8 hours getting that sorted out re: scaling there.
+
+CONFIDENTIAL
+
+DX-3681.004
+
+EPIC 03868248
+
+"Steven Allison"
+
+8/6/2020 5:01:51 PM +00:00
+
+Total War games are pretty huge.... and giving a first run game next in the series away free for 24 hours is going to be big
+
+"Steven Allison"
+
+8/6/2020 5:02:34 PM +00:00
+
+plus we' re also giving Remnant From The Ashes free that week as well...they both go live free 8/13 so that day will be high volume
+
+"Alee Shobin"' ok this is helpful info. for vis
+
+8/6/2020 5:22:06 PM +00:00
+
+"Mana Brake" pickaxe assets:
+
+8/6/2020 5:46:41 PM +00:00
+
+"%'en%en Chang"
+
+8/6/2020 5:50:33 PM+00:00
+
+we' ve separated our paid and free DB's to avoid causing additional stress in situations like this. we expanded our DBs originally for our EGS mega sale, and it worked great. We had 80K+ transaction/minute during ARK's peak for free games. I don't expect to have any payment/transaction issues with Liberty and Total
+War on the same day.
+
+"Garth O' Brien"
+
+8/6/2020 6:13:49 PM +00:00
+
+is the pricing drop for Items and VBucks or just VBucks?
+
+"Matt Grandstaff" < v-bucks and re-money offers
+
+8/6/2020 6:14:33 PM +00:00
+
+"Jodi Lamela"
+The three tabs here are all the possible first party placements. Want to understand how many of these we need to do.
+
+CONFIDENTIAL
+
+DX-3681.005
+
+EPIC 03868249
+
+"Jodi Lamela" -- asking for your assistance to understand first party support:arrow up:
+
+"Cameron Payne" it's on Oyin's radar. we plan to use basic 1P console channels but with standard static campaign.
+
+"Cameron Payne" oh, she's not in the channel. but she's aware of Mega Drop and will put together abasic plan with 1P
+
+"Cameron Payne" oh, she's not in the channel. but she's aware of Mega Drop and will put together a basic plan with 1P
+
+"Cameron Payne"
+
+8/6/2020 6:40: 16 PM +00:00
+
+we are optimizing for confidentiality, so assuming assets not delivered until Aug 13, meaning might not be live on Aug 13
+
+"Cameron Payne"
+
+8/6/2020 6:40:25 PM+00:00
+
+but we' ve told them it's a 2-week promotional push
+
+"Jodi Lamela"
+
+8/6/2020 6:40:46 FM +00:00
+
+ok -- any idea when this will be ready for us to start?
+
+"Cameron Payne"
+
+8/6/2020 6;41:08 PM+00:00
+
+"this" = what assets we need for 1P for MegaDrop?
+
+"Jodi Lamela"
+
+8/6/2020 6:41:24 PM +00;00
+
+When we will understand what we need to make
+
+CONFIDENTIAL
+
+DX-3681.006
+
+EPIC 03868250
+
+"Jodi Lamela" This is a single designer so want to make sure we have enough time
+
+"Tony Rossi" < has joined the group
+
+8/6/2020 6:47:37PM +QQ:00
+
+"Alee Shobin"
+
+8/6/2020 6:48:I5 PM+00:00
+
+see thread above -- looking to get a web page setup to support this
+
+Tony Rossi thanks
+
+8/6/2020 6:49:37 PM +00:00
+
+Tony Rossi
+
+8/6/2020 6:52:20 PM +00:00
+
+so yeah I can create a page within the web application we have at which hosts the fan art policy, community rules page, etc
+
+"Tony Rossi'" <
+
+8/6/2020 6:52:47 PM +00:00
+
+could be the page URL and it wouldn't have to be in the header or footer
+
+"Tony Rossi'" <
+
+8/6/2020 6:53:00 PM +00:00
+
+we can add a link to the header/footer only if we want one
+
+"Alee Shobin"
+
+8/6/2020 6:54:03 PM+00:00
+
+for tim review in an hour, mobile first party comms are updated i REDAGTEDFQRPRlviLEOE l in our existing comms doc here: the stuff for Apple is all set to also work for Google Play so shouldn't require anything additional from you, and we' ll cover carriers later today at 6:30. is your console phase 2 comms(linked to from this deck as well) updated and good to go after the convo last night?
+
+U00
+
+8/6/2020 6:54:Q5PM +00:QQ
+
+CONFIDENTIAL
+
+DX-3681.007
+
+EPIC 03868251
+
+for tim review in an hour, mobile first party comms are updated! REDAGTED«R >RM«« ,''in our existing comms doc here: the stuff for Apple is all set to also work for Google Play so shouldn't require anything additional from you, and we' ll cover carriers later today at 6:30. is your console phase 2 comms(linked to from this deck as well) updated and good to go after the convo last night?
+
+"Tony Rossi" <
+
+8/6/2020 6:54:32 PM +00:00
+
+With very little effort we can add a page which is formatted like ". If we want a different look and feel I can build a custom page too.
+
+"Alee Shobin" I'm adding you to this meeting as well
+
+8/6/2020 6:55:45 PM+00:00
+
+"Devin %'interbottom"
+We' ll likely want a very simple, highly legible page with clearly defined sections. Larger fonts etc. How much of that is you manually building it vs available to us in CMS?
+
+"Jodi Lamela" Mana -- I will get that ime
+
+8/6/2020 6:56:48 PM +00:00
+
+"Jodi Lamela" Mana -- I will get that image
+
+8/6/2020 6:56:57 PM+00:00
+
+"Tony Rossi" <
+
+8/6/2020 6:57;08 PM +00;00
+
+I believe all of the is aggregated together. You can select if a particular post will not show up in the launcher, but all posts will show in the feed on the site.
+
+"Jodi Lamela"'
+
+8/6/2020 6:57:47 PM +00:00
+
+added theMega Drop blog header and thumb
+
+"Jodi Lamela"
+
+8/6/2020 6:58:28 PM +00:00
+
+CONFIDENTIAL
+
+DX-3681.008
+
+EPIC 03868252
+
+Mega Drop assets are here now
+
+"Tony Rossi'" <
+
+8/6/2020 6:58:48 PM +00:00
+
+Let's start with copying community-rules and then l can add custom styles on top of it to match whatever you are looking for. Larger fonts and padding is easy
+
+"Tony Rossi" < do you know the prod url we want yet?
+
+8/6/2020 6:59: 12 P1VI +00:00
+
+"Tony Rossi" <
+
+8/6/2020 6:59:20 P1VI +00:00
+
+"Tony Rossi"
+
+8/6/2020 7;OO:4O PM+OO:OO
+
+"Garth O' Brien"
+
+8/6/2020 7:03:11 PM +00:00
+
+To clarify -- Will Post be published if we need to use the urgent backup post? They both have the same Title which means they will/should generate the same URL.
+
+"Elizabeth Cook"
+
+8/6/2020 7:26:31 PM+00:00
+
+yes, we cannot use outside production help due to sensitive nature so need to consider that in the asks
+
+"Chanc Hollander" < has joined the group
+
+8/6/2020 7:36:15 PM +00:00
+
+"Joseph Sozio" has joined the group
+
+8/6/2020 7;36:15 PM +00:00
+
+"Alee Shobin" <"
+
+8/6/2020 7:36;28 PM+00;00
+
+CONFIDENTIAL
+
+DX-3681.009
+
+EPIC 03868253
+
+[Thread] 13.40 ERs
+
+"Alee Shobin"'
+
+8/6/2020 7:36:53 PM +00:00
+
+Just added and to this channel to discuss the ER but sounds like you are already talking in a diff thread
+
+"Matt Grandstaff" <" when is this happening?
+
+8/6/2020 7:43: 15 PM+00:00
+
+"Alee Shobin"
+
+8/6/2020 7:43:48 PM+00:00
+
+in 15 min but scope is just partner comms at this point
+
+"Alee Shobin" only a 30 min meeting
+
+8/6/2020 7:43:50 PM+00:00
+
+"Alee Shobin" we will def have to setup more
+
+8/6/2020 7;44:03 PM +00:00
+
+"Garth O' Brien"
+
+8/6/2020 7:54:37 PM +00:00
+
+YT Video optimizations are complete. There is an outstanding question about the Short URL. Once that is answered I can give final sign-off.
+
+"Mana Drake" looking now!
+
+8/6/2020 8:0 1:33 PM+00:00
+
+"Matt Grandstaff" <" Post, as in FreeFortnite?
+
+8/6/2020 9:26:l8 PM +00:00
+
+"Matt Grandstaff"
+
+8/6/2020 9:26;27 PM +00;00
+
+CONFIDENTIAL
+
+DX-3681.010
+
+EPIC 03868254
+
+Post 2, as in FreeFortnite?
+
+"Garth O' Brien"
+
+8/6/2020 9:30:03 PM +00:00
+
+The three blog posts we discussed earlier have been optimized. Let me know if we need to discuss my recommendations.
+
+"Matt Grandstaff"
+
+8/6/2020 9:45:04 PM +00:00
+
+Went through. Changes all made sense. Open item h a v e a look at the proposed URLs. I think the Mega Drop recommendation makes sense for SEO. Wondering on the other if we'd want to simplify to just FreeFortnite.
+
+"Matt Grandstaff" <
+
+8/6/2020 9:46:23PM +QQ:00
+
+Now, I follow. We would amend the urgent back up to communicate the points of 2, once the 1 posts.
+
+"Garth O' Brien"
+
+8/6/2020 10:Ql:08 PM +00:00
+
+Not sure I understand. Blog 2 is already FreeFortnite correct?
+
+"Elizabeth Cook" THREAD for video campaign
+
+8/6/2020 10: 10: 19 PM +00:00
+
+"Elizabeth Cook" <"
+
+8/6/2020 10: 10:44 PM +00:00
+
+<@WG41 J6PAB> <@WG2B8AY65> <@WG2UYIURY> <@WG2QCU3FE
+
+"Elizabeth Cook" <"
+
+8/6/2020 10: 10:56 PM +00:00
+
+<@WG41 J6PAB> <@WG2B8AY65> <@WG2UYIURY> <@WG2QCU3FE
+
+"Elizabeth Cook" <"
+
+8/6/2020 10; 11:39 PM +00;00
+
+<@WG41 J6PAB> <@WG2B8AY65> <@WG2UYIURY> <@WG2QCU3FE
+
+CONFIDENTIAL
+
+DX-3681.011
+
+EPIC 03868255
+
+"Mana Drake" Followed up on the doc
+
+8/6/2020 10:11:41 PM+00:00
+
+"Elizabeth Cook" <"
+
+8/6/2020 10: 13:41 PM +00:00
+
+Discussed with Tim and this is the plan to start to work out: 1. Have video ready to go if we are blocked by Apple 2. Once we are, starting appointment setting to see a premiere of a thing (language to be sorted out:)) in Party Royale. We will determine the best time to do the premiere based on when the block happens. Could be Thurs night, could be Friday but want to hit good news cycle 3. After this premiere, put video into MOTD (unskippable) and post to all other social channels 4. Have stream non-stop on Twitch
+
+"Elizabeth Cook" -- did I miss anything?
+
+8/6/2020 10:13:59 PM+00:00
+
+"Garth O' Brien"
+
+8/6/2020 10:17:51 PM +00:00
+
+Nice. Just made a comment in the doc. This is ready to go.
+
+"Carlos Almeida"
+
+8/6/2020 10:19:57 PM+00:00
+
+Sounds good. Quick question: when do we think we' ll have copy for any potential comms drafted and approved?
+
+"Mana Drake"
+
+8/6/2020 10:19:58 PM +00:00
+
+Would the stream just be looping the video?
+
+"David Hook"
+
+8/6/2020 10:20:06 PM +00:00
+
+re MOTD version, At least with current CMS tech I can't make it unskippable, but can autoplay/full screen/loop
+
+"Mana Drake"
+
+8/6/2020 10:ZO:57 PM+00:00
+
+Would the Twitch stream just be looping the video?
+
+CONFIDENTIAL
+
+DX-3681.012
+
+EPIC 03868256
+
+"Jeremy Hoffmann"
+
+8/6/2020 10:22:33 PM +00:00
+
+Megan is not briefed, but she is working on getting the twitch stream set up with NGE
+
+"Mana Drake"
+
+8/6/2020 10:25: 15 PM +00:00
+
+Are we accounting for FNCS with number 4? If that goes into the weekend?
+
+"Jeremy Hoffmann" we know it's a thing
+
+"Jeremy Hoffmann" we are making sure we can stream to multiple channels. would we do the Unreal Engine Twitch too?
+
+"Mana Brake"
+
+8/6/2020 10:27:01 PM +00:00
+
+oh no I mean how long we will have it streaming non-stop and if that is going to affect FNCS broadcast at all that weekend?
+
+"Matt Grandstaff" Just have a clean URL of /FreeFortnite
+
+8/6/2020 10:27:02 PM+00:00
+
+"Devin %'interbottom"
+
+8/6/2020 10:27:28 PM +00:00
+
+We' ll need to work that out based on what it goes live Mana. It's a totally valid concern, we can't completely bump FNCS.
+
+"Devin %'interbottom"
+
+8/6/2020 10:2'7:36 PM +00;00
+
+We' ll need to work that out based on when it goes live Mana. It's a totally valid concern, we can't completely bump FNCS.
+
+"Mana Drake"
+
+8/6/2020 10:27:59 PM +00:00
+
+Yea that weekend is the finals and broadcast starts that Friday ).(
+
+CONFIDENTIAL
+
+DX-3681.013
+
+EPIC 03868257
+
+"David Hook" use the video as an ad break?
+
+8/6/2020 10:29:31 PM+00:00
+
+"Alee Shobin"
+
+8/6/2020 10:31;07 PM +00;00
+
+Fyi saw Megan is getting a brief scheduled
+
+"Alee Shobin"
+
+8/6/2020 10:31;31 PM +00;00
+
+Fyi saw Megan is getting a read-in scheduled
+
+"Elizabeth Cook" Dream team right here
+
+8/6/2020 10:34:59 PM+00:00
+
+"Alee Shobin"
+
+8/6/2020 10:35:53 PM+00:00
+
+Lmk if we need to add more folks onto that meeting as well
+
+"Mana Drake"
+
+8/6/2020 10:37: 16 PM +00:00
+
+oh yea there is that 1hr 15 mins of broadcast before NAE starts too. if we end up airing it during FNCS broadcast as well should we then consider putting the video on FN Comp Twitter as well? Not having access on mobile does hurt a part of the comp community.
+
+"Kd Xobrist" <
+
+8/6/2020 10:47;30 PM +00;00
+
+Tim proposed 8p ET Thurs as the target appt to set, but I think we should be nimble. If Apple blocks that morning, we may want to go with an earlier time. Devin, what do you propose is the IDEAL time? I'm actually thinking that Sp ET (or thereabouts) might be better for maximum impact on players and news cycle?
+
+"Mana Drake"
+
+8/6/2020 10:48: 19 PM +00:00
+
+2PM ET is usually ideal to still be caught by EU news (at least we don't try to go later than that for big beats anyway)
+
+CONFIDENTIAL
+
+DX-3681.014
+
+EPIC 03868258
+
+"Kd Xobrist"
+
+8/6/2020 10:49:14 PM +00:00
+
+I also think we'd cycle it for a day. Then if nothing else is on Main Screen, I guess we could let it run longer. We' ll also want standard PI event analytics on it.
+
+"Jeremy Hoffmann"
+
+8/6/2020 11;02:55 P1VI +00:00
+
+we are looking at the stream to be ready at Noon ET. Let us know if we should go earlier.
+
+"Jeremy Hoffmann"
+
+8/6/2020 11:03: 10 P1VI +QO:00
+
+we have to do this through a vendor, so we want to have wide margins
+
+"Alee Shobin" possible to be ready by as early as 8am?
+
+8/6/2020 11:03:13 PM +00:00
+
+"Garth O' Brien" ahhh. that works too. .corn/freefortnite
+
+8/6/2020 11:04:19 PM+00:00
+
+"Alee Shobin" on a call discussing this now with Ed
+
+8/6/2020 11:04:25 PM+00:00
+
+"Garth O' Brien" <'
+
+8/6/2020 11:04:33 PM +00:00
+
+how would users get to it via internal navigation?
+
+"Jeremy Hoffmann" 8am ET?
+
+8/6/2020 11:04;38 PM +00;00
+
+"Alee Shobin"' yeah
+
+8/6/2020 11:04:42 PM +00:00
+
+CONFIDENTIAL
+
+DX-3681.015
+
+EPIC 03868259
+
+"Jeremy Hoffmann"
+
+8/6/2020 11:05:22 PM +00:00
+
+we can, but the actually asset may not be ready by then.
+
+"Jeremy Hoffmann" Unless it's 1 of the 3 options we start with
+
+8/6/2020 11;05:47 PM +00:00
+
+"Jeremy Hoffmann"
+
+8/6/2020 11;06:02 PM +00:00
+
+if there is any new videos needed it will take about an hour, depending on how many versions
+
+"Chris Adams" has joined the group
+
+8/6/2020 11:07:21 PM +00:00
+
+"Julian Kggebrecht" has joined the group
+
+8/6/2020 11:07:21 PM+00:00
+
+"Alee Shobin" ok this is good context
+
+8/6/2020 11:07:44 PM+00:00
+
+"Alee Shobin" when would the video be ready?
+
+8/6/2020 11:07:S3 PM+00:00
+
+"Alee Shobin" Video Ingestion Thread
+
+8/6/2020 11;08;13 PM+00;00
+
+"Alee Shobin"'
+
+8/6/2020 11:08:37 PM +00:00
+
+were you in the 1984 video meeting today? Question on how long it will take to get the video ingested.
+
+CONFIDENTIAL
+
+DX-3681.016
+
+EPIC 03868260
+
+"Alee Shobin" for vis
+
+8/6/2020 11:09:26 PM+00:00
+
+"Jeremy Hoffmann" adding Sarah
+
+8/6/2020 11:09:46 PM +00:00
+
+"Alee Shobin"
+
+8/6/2020 11: 10;45 PM +00;00
+
+is it right that you' re on point for the appointment setting GTM for this video? just getting up to speed from Ed
+
+"Jeremy Hoffmann" we should talk through this on Monday
+
+8/6/2020 11: 11: 13 PM +00:00
+
+"Jeremy Hoffmann" there are a ton of different factors at play
+
+8/6/2020 11: 11:24 PM +00:00
+
+"Alee Shobin" agree "Devin %'interbottom" <" Yes I' ll take care of and drive this one
+
+8/6/2020 11: ll:25 PM+00:00 8/6/2020 11:11:26 PM+00:00
+
+"Alee Shobin" <"
+
+8/6/2020 11; 11;47 PM +00;00
+
+kk lets set up time to chat. thanks for jumping on this.
+
+"Jeremy Hoffmann" I moved the meeting up
+
+8/6/2020 11:12:20 PM +00:00
+
+CONFIDENTIAL
+
+DX-3681.017
+
+EPIC 03868261
+
+"Jeremy Hoffmann" it was on Tuesday
+
+8/6/2020 11: 12:25 PM +00:00
+
+"Alee Shobin" awesome thank you
+
+8/6/2020 11: 12;50 PM +00;00
+
+"Alee Shobin" 1 may add some folks
+
+8/6/2020 11:12;53 PM +00;00
+
+"Jeremy Hoffmann" add away
+
+8/6/2020 11:13:10 PM +00:00
+
+"Sarah Germano" Adding Chanc to Monday's meeting.
+
+8/6/2020 11:14:32 PM+00:00
+
+"Scott Nellessen"
+
+8/6/2020 11:14:34 PM+00:00
+
+1'm assuming we' ll want to fire up paid media against the video asset as soon as it premiers. Please confirm
+
+"Alee Shobin" already done lo
+
+8/6/2020 11: 14:37 PM +00:00
+
+"Cameron Payne"
+To be ready for multiple scenarios, we should target 8am Thu 8/13 as moment the video goes live in Party Royale. That's current "earliest possible moment".
+
+"Alee Shobin"' this meeting will be great
+
+8/6/2020 11: 15: 18 PM +00:00
+
+CONFIDENTIAL
+
+DX-3681.018
+
+EPIC 03868262
+
+"Alee Shobin" already done lol
+
+8/6/2020 11:15:44 PM+00:00
+
+"Sarah Germano"
+
+8/6/2020 11:16;19 PM +00;00
+
+8am 8/13 is the earliest possible -- and English only
+
+"Carlos Almeida"
+
+8/6/2020 11;16;31 PM+00;00
+
+Hey guys, as much as it pains me to suggest this, should we meet tomorrow instead of Monday? I just fear that if we wait until Monday to 'start', it may be too late to plan this accordingly. Thoughts?
+
+"Cameron Payne" Loc plan is SRTs, no VO?
+
+8/6/2020 11:16:59 PM+00:00
+
+"Cameron Payne" What earliest possible for all languages?
+
+8/6/2020 11:19:01 PM+00:00
+
+"Cameron Payne" What's earliest possible for all languages?
+
+8/6/2020 11:19:18 PM+00:00
+
+"Sarah Germano"
+
+8/6/2020 11;19:42 PM+00;00
+
+We will be localizing all the text in the video and doing SRTs for the VO. Checking with Carlos for ETA of localized translations..
+
+"Alee Shobin"'
+
+8/6/2020 11:20:04 PM +00:00
+
+"Elizabeth Cook"
+
+8/6/2020 11:27: 15 PM +00:00
+
+I can do that it makes everyone feel better about the plans, no prob! Mid-morning?
+
+CONFIDENTIAL
+
+DX-3681.019
+
+EPIC 03868263
+
+"Devin %'interbottom"
+
+8/6/2020 11:27:46 FM +00:00
+
+I think we probably should, esp as we lose half of Monday with midday meeting.
+
+"Elizabeth Cook" <" Let's do it!
+
+8/6/2020 11:28;57 PM+00;00
+
+"Alee Shobin" I have something 8-12 - -
+
+8/6/2020 11:29;09 PM +00;00
+
+"Elizabeth Cook" Oh Alee
+
+8/6/2020 11:29:21 PM +00:00
+
+"Alee Shobin" Can dial in tho if then
+
+8/6/2020 11:29:23 PM+00:00
+
+"Elizabeth Cook" <" Or Ipm?
+
+8/6/2020 11:29:35 PM +00:00
+
+"Alee Shobin" Yeah!
+
+8/6/2020 11:29:38 PM+00:00
+
+"Elizabeth Cook" <" In other words, I'm flexible
+
+8/6/2020 11;29:55 PM +00;00
+
+"Carlos Almeida"
+
+8/6/2020 11:29:57 PM +00:00
+
+On a call with Sarah right now working the details out.
+
+CONFIDENTIAL
+
+DX-3681.020
+
+EPIC 03868264
+
+"Carlos Almeida" Will report back here soon.
+
+8/6/2020 11:30:03 PM+00:00
+
+"Jeremy Hoffmann"
+
+8/6/2020 11:30:30 PM +00:00
+
+you fucking monsters. lol. Send the invite. I' ll be around.
+
+"Alee Shobin"
+
+8/6/2020 11:30;56 PM +00;00
+
+should we just move your meeting to then?
+
+"Alee Shobin" lpm ET Fri?
+
+8/6/2020 11:31:07 PM +00:00
+
+"Matt Salazar" <' im down
+
+8/6/2020 11:32:39 PM +00:00
+
+"Matt Salazar" yes we want to run the ad spend
+
+8/6/2020 11:33:06 PM+00:00
+
+"Elizabeth Cook" <"
+
+8/6/2020 11:34:27 PM +00:00
+
+I expect everyone to be sitting outside with a beverage
+
+"Arthur Flew" <" in the rain? you monster!
+
+8/6/2020 11;34;52 PM+00;00
+
+"Alee Shobin" <" sending a meeting hold stand by
+
+8/6/2020 11;35;39 PM +00;00
+
+CONFIDENTIAL
+
+DX-3681.021
+
+EPIC 03868265
+
+"Carlos Almeida"
+
+8/6/2020 ll:43:15 PM+QQ:QQ
+
+Ok, so it sounds like we would be okay to receive the Loc back by 5PM on 8/12, however, depending on what comes out of the meeting tomorrow, the Loc delivery date/time (for the video content ONLY ) may need to be expedited. I'm already sending over 7K words to be translated in a day, so I'm trying not to throw many more caveats to this vendor to avoid other issues, but I did meet with them today and told them that
+there was a potential for us to need the video copy sooner than 5PM on 8/12, so they are aware.
+
+"Sarah Germano"
+
+8/6/2020 11;46:37 PM+00;00
+
+Let's discuss with Chanc in the meeting tomorrow, to confirm timing on his end. We can plan to deliver all three versions to Media Services Wed night -- but we do not want to start processing until we know for sure which version we are going with.
+
+"Jeremy Hoffmann"
+
+8/6/2020 11:47:07 PM +00:00
+
+sorry, still in an art review. I' ll keep Mondays for now and can cancel is everything is resolved
+
+"Chanc Hollander" <
+
+8/6/2020 11:53:46 PM +00:00
+
+Yup let's discuss. Short rule of thumb is every minute of content takes two minutes to process. With alternate audio tracks additional processing will need to be done.
+
+"Jeremy Hoffmann" 45 second video. only english audio.
+
+8/6/2020 11;S4:17 PM +00:00
+
+"Matt Grandstaff" <
+
+8/7/2020 1:Q4:53 AM +00:00
+
+it would be in the blog rotation, but I think we'd keep it pinned
+
+"Matt Grandstaff" Pin Mega Drop first. Once in phase 2, pin that.
+
+8/7/2020 1:Q5:08 AM +00:00
+
+"Michael House" As an FYI, we' ve begun transferring copy that's ready into the Loc Tracker.
+
+CONFIDENTIAL
+
+DX-3681.022
+
+EPIC 03868266
+
+"Carlos Almeida" Yup, I saw that. Thank you!
+
+8/7/2020 t:09:09 AM+00:00
+
+"Matt Grandstaff" <" Do we know when the next one will happen?
+
+8/7/2020 2:02:29 AM +00:00
+
+CONFIDENTIAL
+
+DX-3681.023
+
+EPIC 03868267
+
+

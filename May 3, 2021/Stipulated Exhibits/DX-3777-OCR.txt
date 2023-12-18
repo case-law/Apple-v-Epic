@@ -1,0 +1,293 @@
+From: Si mon Allaeys Sent: Fri , 8 Feb 2019 13:10:04+0000 (UTC) Tcu Dani el Vo el (
+
+; Oskari Hakkinen
+
+Subject: Re: FOR REVIEW: Fortnite Authenticadon App Designs
+
+Thanks!
+
+ttoitcri States Oittrict Court
+
+cl
+
+Northcm District of Colifomio
+
+CaseNo. 4:20-cv-05640-YGR
+
+Case TitleE fc GarnesIac. ud ic, lac.
+
+g Ex ttibit NoD. X-3777
+
+Date Entered
+
+Sruur Y. Sruog. CI rk
+
+Btr
+
+Drouk Clerk
+
+On Fri, Feb 8, 2019 at 3:06PM Daniel Vogel
+
+wrote:
+
+> Who could help him push this forward and connect the dots? IMO expectation is for his lead or ultimately you to raise this concern as soon as it happens:-P
+
+He canreach outto Andrew Grantand Josh Adams and Pete Sauerbrei.Letme add them tothethread.
+
+-- Daniel, Epic Games Inc.
+
+On Fri, Feb 8, 2019 at 8:05 AM Simon Allaeys
+
+wrote:
+
+Yes, yes... I get it:D Matt is snuggling though. Who could help him push this forward and connect the dots? I don't think this is a healthy onboarding experience for new employees (joined us around Christmas).
+
+We' re expecting to have a producer in that team before the end of February.
+
+OnFri, Feb 8,2019at2:59PM Daniel Vogel (
+
+wrote:
+
+This is what I meant re: why are we not shipping? Because we haven't even seen it yet:-) -- Daniel, Epic Games Inc,
+
+- Forwarded
+
+From: Daniel Vogel
+
+Date: Fri, Feb 8, 2019 at
+
+Subject: Re: FOR REVIEW: Fortnite Authentication App Designs
+
+To: Matthew Bengston (
+
+Cc: Alee Shobin (
+
+an russee
+
+Cumtnin s
+
+r
+
+,E war Zo nst
+
+Emmanuel Servais
+
+Lamela
+
+, Mare Hutcheson
+
+Rampulla
+
+Shane Zimmerman
+
+iza et
+
+Brad Dan Clark
+oo
+, Jodi
+
+This goes back to - when can we try it out via TestFlight or HockeyApp? -- Daniel, Epic Games Inc.
+
+On Fri, Feb 8, 2019 at 7:49 AM Matthew Bengston
+
+wrote:
+
+CONFIDENTIAL
+
+DX-3777.001
+
+EPIC 00173272
+
+Hey, just wanted to check in to see if there was any feedback on the designs. We would prefer not to change the functionality/navigation but are happy to make any design changes to better fit the Fortnite branding.
+
+On Tue,Feb 5,2019 at8;22 PM Daniel Vogel
+
+wrote:
+
+Jamal
+
+On Tue, Feb 5, 2019 at 1:22 PM Matthew Bengston
+
+I' ve got some builds I created today that I was trying to get up on Hockey, but I'm running into permission issues with my apple developer credentials. Currently trying to get those sorted. There are some design related needs above, but the second I' ve got a build of the current iteration I will share it in the original einail thread as well as this one.
+
+Unfortunately I don't have any information about the email fallback, who is currently working on that7
+
+- Matt
+
+On Tue, 5 Feb 2019 at 15.24, Daniel Vogel
+
+wrote:
+
+When can we try the app via TestFlight? Do we have a rough ETA on when to expect 2FA einail fallback/
+
+-- Daniel, Epic Games Inc.
+
+On Tue,Feb 5,2019 at8:22 AM Alee Shobin
+
+Great info, happy to help out. I' ll follow up with some folks offline about next steps with ¹5 and other required store contents (want to make sure we don't cannibalize keywords on iOS too much as well). Keep us posted on when you think release is nearing (ie next few weeks - maybe that's now...).
+Thanks!
+
+-Alee
+
+On Tue, Feb 5, 2019 at 2:46 AM Matthew Bengston
+
+wrote:
+
+Hey Alee,
+
+Sorry for the late response, been a hectic start to the week! Below are some answers to the questions you had.
+
+1. We hope to release as soon as possible, iOS first with Android following closely behind, reasoning for this is in the 3rd item. As mentioned at the beginning of this there are some design related items leII and we still need to do a full round of QA.
+2. So sorry about that, I made them viewable/commentable throughout Epic yesterday so you should be able to see them now.
+3. First and foremost the goal for this app is to get visibility on the Google Play store. That was our ¹1 priority for the app when we came up with the idea for it. Inside of the app there are links to download
+Fortnite so we hope that this will allow us some presence in the Play store so users who don't know where to find Fortnite can find it easily. Our strategy for releasing on iOS first is mostly to disallow Google from having any reasons for rejecting the app when we subinit to the Play store, as it is likely
+they will know exactly what we are doing.
+
+CONFIDENTIAL
+
+DX-3777.002
+
+EPIC 00173273
+
+4. Arjan already answered this one for me;) 5. This approach sounds fantastic. This is an area we would love some guidance on, so any info is greatly
+appreciated!
+
+As mentioned I have updated the privacy settings for the screenshots so anyone in Epic should be able to see/comment on them. There are some tweaks that I have made so I will make sure to keep that folder up to date with the latest screenshots. It also contains a video showing the current interactions.
+
+h s ://drive. oo le com/drive/u/0/folders/1Uh3Dlkr0bVVmX4MVsa -a 4-z9M-IZ 8
+
+- Matt
+
+On Fri, 1 Feb 2019 at 21.51, Alee Shobin
+
+wrote:
+
+Wow! Good find haha, yeah we should difFerentiate...
+
+On Fri, Feb 1, 2019 at 2:49 PM Arjan Brussee
+
+wrote:
+
+btw i mentioned this earlier: There is a "Epic authenticator" already. it uses the satne algorithm, so actually works with FN. LOL
+htl s// Ia o o l a com/stors/a s/detaIlsoid=coma IcauthantIcator&hl=an
+
+that's why i suggested fortnite authenticator
+
+-arjan
+
+On Fri, Feb 1, 2019at2:47PM Elizabeth Cook(
+
+wrote:
+
+Zip file of all screens now attached. +Emmanuel Servais for awareness because a new app will require new metadata and store(s) set up
+
+On Fri, Feb 1, 2019 at 2:43 PM Alee Shobin
+
+wrote:
+
+Hey Matt and Elizabeth, Very cool, thanks for sharing! This could be a great pathway to increasing Android volume via the Google Play store (if Google will allow it).
+
+A couple things that might be worth considering; 1) What's the intended release window? 2) Can I get access to view those assets? 3) What are the desired results overall (a lot of downloads, a cool looking authenticator, X% of FN players
+using this app, etc - any expectations at all are helpful) and are there any other authenticators that we like or dislike (Blizzards came to mind)? 4) If we go with Fortnite Authenticator as a naine (vs Epic Games Authenncator - similar to Blizzard) it's not impossible that this pushes the Fortnite App off the first page of search results in the App Storegiven that search installs on iOS are our biggest source of installs, are we OK with that number potentially going down in order to get more people into the Authenticator? Maybe that's fine or even a good thing? If not, we should think about other names. Don't want to overthink it but want
+to make sure we get whatever the desired results are. 5) If we want this on iOS, we also need a few screen shots - Blizzards Authenticator screen shot approach is
+pretty standard for utility apps right now (ie combining the first two portrait oriented screens to create a pseudo panoramic iinage) - I recommend this approach to make life easy unless we
+
+CONFIDENTIAL
+
+DX-3777.003
+
+EPIC 00173274
+
+already have a dear vision (note that ive seen this approach increase conversion, but unclear if that's a thing we care about in this case)
+
+Apologies if you all already discussed this stuff, happy to help get this to the finish line but some additional details would be great,
+
+Super cool getting this out there!
+
+Thanks,
+
+-Alee
+
+On Fri, Feb 1, 2019 at 2:02 PM Matthew Bengston
+
+wrote:
+
+Hey Elizabeth, This is all correct! Some updates as well:
+
+- We are also looking at releasing on iOS first, to minimize the possibility of Google rejecting the app from the
+play store. - Get Fortnite button is indeed essentially a download button. However, currently it also has functionality to
+actually open the game when the user has Foitnite installed on the device. I was looking at
+making it so that the label changes based on these conditions. - As of now "Fortnite Authenticator" is the name, correct.
+
+The rest is all perfect. As said any help is very much appreciated!
+
+Best regards,
+
+On Fri, Feb 1, 2019 at 8:53 PM Elizabeth Cook
+
+wrote:
+
+Hi all, Matthew (cc'd here) has shared the below screen designs with me for an Authenticator App currently in development.
+
+Need CS teain to review but also want to make sure I am clear on the intent since that will be important for people to understand as they review. We are working on Android download flow design and app icon explorations in parallel paths so including a few more people here for awareness.
+
+Here is what I' ve gathered at a high level from the email chaias about the app - it's a long one so apologies if I missed something:
+
+1. This is an app that will be on the Google Play Store so that we have a presence there 2. Goal is to look official and get people into the Android funnel from Play Store 3. "Get Fortnite" will take people to the Android download flows in a web browser 4. App will be called Fortnite Authenticator - is that correct?
+What's needed:
+1. Review for Fortnite brand consistency - or suggestions for revisions provided 2. Appicon + Splash screen help.Splash screen mock here but looking forguidance. App icon will need to be created.
+
+CONFIDENTIAL
+
+DX-3777.004
+
+EPIC 00173275
+
+Thanks!
+
+-- - - - F orwarded message From: Matthew Bengston < Date; Fri, Feb 1, 2019 at 7:2 Subject:Re:Idea:EpicAuthentication A To: Elizabeth Cook <
+Hey Elizabeth l Here is a full round of screenshots from the app, along with a video showing the animated interactions. I have
+not gotten a design from anyone for the main view when you first open it and don't have any accounts added, so I just had to wing it. Any input would be very much appreciated!
+Another thing I wanted to bring up is the app icon+ splash screen. Currently I have no design or design resources to drill up an icon, nor a splash screen. I am using a similar design to the main app for the splash screen but since neither myself nor our designer is super familiar with all of the brand-related guidelines with logos; I dunno if we want to have someone more familiar with this space make something up? I' ve included a screenshot of the app splash screen in this email.
+BR, Matt
+
+~@+ https://drive-
+
+f~
+
+htt psd/drive-
+
+~~ htt ps://drive-
+~+eg https://drive-
+~ gg https J/drive-
+
+~~ hups ://drive-
+
+~~ htt ps J/drive-
+
+f~~ htt ps://drive-
+
+Splash Screen.png Intro Screen.png Main View - Accounts.png Navigation Drawer.png How It Works View.png Add Account Modal.png Scan QR Code View.png Manual Account View.png
+
+CONFIDENTIAL
+
+DX-3777.005
+
+EPIC 00173278
+
+~~
+
+http s ://drive-
+
+Elizabeth Cook Epic Games
+Sent from mobile
+
+Manual Account View - Input Filled.png
+
+CONFIDENTIAL
+
+DX-3777. 006
+
+EPIC 00173277
+
+

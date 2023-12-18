@@ -1,0 +1,30 @@
+AVCI'Age COIilllllISSi.oil Volte 30%
+
+1 JPilql SiIPS I)i,4i4$,I.:,earl NeIthO~I> i>SiN'k&A'~fi@tIiig.
+It".ate ÃO. 4:59-CV-OS~VCR It,,-iraq Til,lCXjk6mJIII PW. J;9 k" , Iee, Exhibit No. DX.-48l9 Oatc Eni;-@gd
+
+10%
+
+o% 94 13
+
+Source: Apple transaction data
+
+Note: Commission rate is calculated for each transaction, and a simple average is calculated across transactions per quarter.
+
+meaningQ Commission rate is set to 0% for all transactions with no overall revenue. Apple's fiscal year begins in October,
+
+4 starts in
+
+July and ends in September. For example, Ql FY2009 begins in October 2008. Analysis starts in July 2009, the first full quarter in
+
+which the App Store offered in-app purchases. The first instance of an in-app purchase is June 17, 2009. Only original transactions
+
+categorized asin-app purchases are included. Transactions where Apple isthe developer are excluded. See Appendix E fordetails
+
+regarding Apple transaction data processing.
+
+63
+
+DX-481 9. 001
+
+

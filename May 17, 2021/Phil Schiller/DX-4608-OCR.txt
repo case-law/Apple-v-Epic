@@ -1,0 +1,287 @@
+APPLE INC. KEYNOTE SEPTEMBER 9, 2009
+
+S
+
+Steve Jobs
+
+Jeff Robbin
+
+Phil Schiller
+
+JPBD
+
+Ben Matts
+
+Bart Decrem
+
+M
+
+Mark Hickey
+
+T N
+
+Travis Boatman Norah Jones
+
+United States District Court
+
+«I
+
+NorthernDistrictofCalifornia
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games,Inc.v.Apple, Inc.
+
+Exhibit No. DX-460S
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+S Tha n k you. I'm very happy to be here today with you all. As some of you may know, about five months ago I had a liver transplant so I now have the liver of a mid-20s person who died in a car crash and was generous enough to donate their organs and I wouldn't be here without such generosity. So I hope all of us can be as generous and elect to become organ donors.
+I'd like to take a moment and thank everybody in the Apple community for the heartfelt support I got, too. It really meant a lot and I'd also like to especially thank Tim Cook and the entire executive team of Apple. They really rose to the occasion and ran the company very ably in that difficult period. So thank you guys. Let's give them a round of
+applause. [applause]
+So, I'm vertical. I'm back at Apple, loving every day of it, and I'm getting to work with our incredibly talented teams to come up with some great new products for you all in the future. So it's wonderful. Thank you.
+So today we get to talk about music. Before we do I'd like to say, number 1, I'm going to have Phil Schiller join me for part of the presentation, as well as Jeff Robbin, our V.P. of iTunes Engineering, and before we dive into music I'd like to talk for a minute about the iPhone.
+It's thrilling to report to you today that in a little over two years we have sold 30 million iPhones, [cheers and applause] 30 million, and during the last year one of the reasons for that has been the remarkable App Store. The App Store is just a little over a year old and we have now over 75,000 apps in the App Store and users have downloaded over 1.8 billion apps. [applause] Isn't that incredible? And that does not include updates. If it included updates, the number would be a few times more than that.1.8 billion applications have been downloaded.
+Now today we have something new for iPhone and iPod Touch owners. We are introducing iPhone OS 3.1. It's got a bunch of really nice features in it and a bunch of bug fixes as well and I just want to highlight two new things today.
+The first one is our Genius technology. Our Genius technologies work really well for automatically making playlists from songs in your music library that go great together.
+
+APPLE CONFIDENTIAL
+
+DX-4608. 001
+
+APL-APPSTORE 00000027
+
+We' ve applied that same technology now to apps in the App Store. Wouldn't it be great if the App Store could make recommendations of apps to you just like Genius is making recommendations of songs and that's what it does now. It automatically makes recommendations from the App Store based on the applications you own and it's really nice. You turn it on on your iPhone or iPod Touch and we' ve added a third button here called Genius next to New and What's Hot and it will show you recommendations, based on what you already own. It will even tell you what it is basing it on, and this will only get better and better and better as we get larger databases of people, what they buy, what they like. The recommendations will get better and better just like they have for music.
+The second thing we are adding today is ring tones. We are adding ring tones to the iTune Store. We have over 30,000 ring tones from all four major labels. They are going to be sold at a breakthrough price for ring tones of $1.29 -- free previews, one-click purchasing -- and they are in the iTune Store. We bumped podcasts over under More and we' ve given that slot to ring tones and you can just buy ring tones just like you can other music and they show up right on your iPhone and you can set them to ring for any particular number or be your default ring. It's really easy.
+So those are just two of the features in 3.1. 3.1 is free for iPhone and iPod Touch customers with 3.0 and it's available today. It's a free download from iTunes so go check it out. It's really nice.
+So let's move on to music. To start with let's start with iTunes. We all love iTunes. Use it everyday. So do people around the world. ITunes is now in 23 different countries. We just opened Mexico a few weeks ago, and iTunes is the number 1 music retailer in the world now. [applause and cheersi We' ve sold over 8.5 billion songs but a statistic that's even more amazing to me is we' ve recently crossed over 100 million accounts on iTunes and all with credit cards, all with one-click purchasing. So that makes iTunes one of the largest stores on the Web -- 100 million accounts.
+So today we are introducing something really great and that's iTunes 9, the next major release of iTunes, and this is what iTunes has looked like to date and this is what iTunes 9 looks like. We' ve cleaned it up quite a bit and made it much easier to navigate around and you' ll see it in just a few minutes but I wanted to cover a few features of iTunes 9.
+First of all is Genius Mixes. We are going to be applying Genius to yet another area. Now, when we first introduced Genius, it's gotten a great response. ITunes Genius is pure genius, and people have submitted now over 27 million libraries and each has been about 2,000 songs and so they' ve submitted over 54 billion songs that they have got in their libraries and we' ve analyzed all of them and the Genius database has just gotten smarter and smarter and smarter, and hopefully the recommendations have gotten better and better and better. And they' ve enabled all of us to make these Genius playlists. We pick a song from our library and automatically get a playlist of other songs in our library that go great together with that song. Well, we are applying that same technology and that same database now to something new called Genius Mixes and what Genius Mixes are is imagine a Genius DJ that plays endless mixes of songs from your iTunes library that go great together. Almost like radio stations, and iTunes will make up to 12 of them based on the music you have in your library and this awesome
+APPLE CONFIDENTIAL
+
+DX-4608. 002
+
+APL-APPSTORE 00000028
+
+Genius database, and you just click on one to start playing it and you see the album it' s playing in particular, but they' ll go on and on and on playing songs that go well together from your library and it's really quite something. It's like a great DJ or a great radio station and we think you are really going to like this. So Genius Mixes.
+Next, improved syncing. When you want to sync stuff to your iPod Touch or your iPhone, we can make thateven better and we have. So as an example, when you are going to sync music now, you can say,"I want to sync these playlists but I also want all of the music by Bob Dylan and I want rock and roll genre, everything from rock and roll, and it will automatically figure that al out and put the right music on your iPod or iPhone. It' s rea I ly nice.
+Or you might be in Photos and, of course, if you have a PC, you' ll sync photos from your folder on to your iPod or iPhone, but if you are on a Mac, you can sync albums but you can also have Events and Faces from iPhoto and say,"I want to sync these albums but I want Becky's birthday and I want all the photos that have all in them and it will automatically do the right thing. Same with movies. I want the latest three movies that I bought or rented but I always want "Ratatouille" so it will do the right thing. Maybe the most popular thing that we are adding in improved syncing, though, is a way to manage your applications on the iPod Touch [applause] and your iPhone. This is really wonderful and allows you to arrange your applications however you want really fast and then automatically change them on your iPod Touch or your iPhone. It's wonderful. So improved syncing.
+Next up is home sharing. Now today you can stream music from other computers in your house. You can look at their library. You can look at the libraries of your kids, your spouse, whoever, and stream music from those libraries and listen to it on your computer in your house. And it's really cool, but we can go much further than that because with the new home sharing we are going to let you copy songs, movies, TV shows, etc., among up to five authorized computers in your house. And so when you turn Hope Sharing on by typing in your name and password, you are going to still see all the other computers you can share with in your house, you can click on that and you' ll see their contents. You can stream the contents or you can select it and drag whatever you want right into your library and it will copy it, and you know how to copy. As a matter of fact, we make it even easier for you with this little control down here where you can see only stuff on another computer that's not in your library to make it easy to find what you want to copy over and you can even set it up to do this automatically. So it's really nice. Next up is a redesigned store. The iTunes Store is much, much cleaner, much better navigation so you can get from anywhere to anywhere almost instantly. New artist' s pages that are very nice, new movie pages, new TV pages. It's just a much, much cleaner layout that I think you' ll enjoy.
+And finally something I really love -- iTunes LP. You know, some of us here are old enough that we actually bought LPs [laughter] and it was great because you not only got the music but you got great photography, you got liner notes, you got essays. I mean, who could forget some of these classic albums? And unfortunately most of that stuff left us when we went to CDs and then, of course, even more so when we went to digital music, and that shouldn't be the case. We can deliver amazingly rich content
+APPLE CONFIDENTIAL
+
+DX-4608. 003
+
+APL-APPSTORE 00000029
+
+digitally and that's what we are doing with iTunes LP. So if you bought a great album in the past, you can get that content again with iTunes LP so this is iTunes LP for "American Beauty", an awesome Grateful Dead album and it's got everything with it. It's got videos, it's got liner notes, it's got all sorts of stuff. So here's an example of some lyrics. Here's an example of a chronology of their albums you can go into and all the songs. Here's a Bob Dylan album. Here's a Great Doors album, Norah Jones album, Pearl Jam, Dave Matthews Band. And the artists themselves can get involved with creating these things. We are giving all the tools to the labels and the artists so they can bring their creativity directly to the listeners and we think this is going to be really outstanding. [applause].
+
+So these are just a few of the features in iTunes 9 and what I'd like to do now is invite Jeff Robbin up to give us a demo. Jeff. [applause]
+
+J
+
+Than k s, Steve. Good morning. I'm really excited to be able to show you some of the
+
+great new features of iTunes 9 so let's get started. Here it is.
+
+So I'm going to begin by showing you one of my favorite features, which is the Apple organization. I'm going to connect my iPod Touch and here it is shown up on the left, so when I click on Applications, now you can see all of the applications that are on my iPod and you can see all the pages. I can just click on them and if I want to rearrange them, I can just click on an app and drag it wherever I want it to go. It's really easy. I want to put it on to another page, just drop it right there and move it around. I can even select more than one at a time and drag those and put them where I want them and iTunes just lays it out for you automatically.
+
+On the list on the left you can see all of the applications that are in my library. Here's one -- Bejeweled II. If I double click on it, it will take you right to it on your iPod. If you' ve got a lot of apps, this makes it really easy to find where things are. And you know, I' ve played
+a lot of Bejeweled lately. I'm just going to remove it from my iPod. Click, and it's gone. It' s rea I ly easy.
+
+We' ve also added the ability to search. I'm going to look for Tetris, and if I want to add that to my iPod, I just drop it there. And you know, I play my games a lot. I' ve got a lot of great games on the iPod and the iPhone. I am going to put my games page up to the top. It's really easy to rearrange and organize all the applications right on your iPod and when you are done, just click Apply and all those changes are made. It's that easy. [applause]
+
+So now I want to show you Home Sharing. So I' ve already set this up so that my wife' s computer is turned on for home sharing. Now I just need to turn it on for mine. So I am
+going to enter my iTunes account and password, click Create Home Share. Home Sharing is on and you' ll see that Laura's library shows up in the list on the left. I can just click on it. It loads her library and I can see everything on there. Open the triangle, you' ll see music, movies, TV shows, even apps. Everything in her library is available to me and I can scroll through and if I see a song that I like, I can just play it. Just like regular
+streaming. But the one thing you can't do with regular streaming, select the tracks and drag it to your library. It's that easy to manage content within your home.
+
+APPLE CONFIDENTIAL
+
+DX-4608. 004
+
+APL-APPSTORE 00000030
+
+If I go down here, you can see this pop-up for showing all the items or the items that aren't in my library. Now you can see just what's different between the other library and yours and when I select the tracks and tell it to copy, you can see they just disappear from that list. Those songs have been copied into my library, and if you want to have it automatically think new purchases, under Settings just turn it on for the type of content you are interested in and now iTunes, whenever a new song or movie, TV show or app is purchased on another library, it's going to automatically copy it into iTunes. It makes it really easy to manage the content within your home. So that's Home Sharing. [applause]
+So let's take a look at the new iTunes Store. This is what the new store looks like. It's a really clean look. All of the pages throughout the store have been redesigned in this style. One thing you' ll notice right away is that there is this new navigation bar at the top so I can easily go from anywhere in the store, any page, and go directly to music, movies, or TV shows. There's even a drop down. If I want to go right to a genre, I can just go right to Rock and it takes me there. On the top charts we' ve made it even easier to preview what's there. I can just click this Preview button and when you' ve found the song that you want, just click Buy It right from the chart. It's really easy.
+Here's all the new music that's available this week and I can just easily slide through it and when I see what I'm interested in like this Kings of Leon album is pretty great. There's an iButton right on the cover and if I click it, you get a quick view of that album. And previewing, just as easy as with that top song chart. And when you are ready to buy, just click Buy.
+You know, you may have noticed we' ve got these arrows next to all the Buy buttons through the store. We' ve added some interesting new features here. I can gift the album. I can add to a Wish List. You know, wish lists have been a huge request for the iTunes Store and now we' ve got that with iTunes 9. And I can also share directly to Facebook or Twitter a link to any of the content within the store. Let me show you how that works. It takes me right to my page. I can type a note, click Share, and it will be posted right on my wall. Really easy to post information about songs and albums you are interested in right on Facebook.
+So those are just a few of the things that we have for you with the new iTunes 9 Store. We think you are really going to love it. [applause]
+So Steve mentioned iTunes LP. Let's take a look. Here are five albums that I' ve bought from the store and these are some really great albums with some fantastic iTunes LP extras. Let me show you the Doors. It's a great interactive experience. It's got photos, videos, memorabilia, chronology, even liner notes. If I go to the Song List, you can see all the songs that are on the album. I can just play it and, of course, we' ve got the lyrics. I can just flip through the songs. If I see something I like, this one is really great. I am going to play it. The photos are amazing. If you are a Doors fan, this kind of extra material is simply priceless. You can go full screen. It's even got some exclusive videos. These videos were recorded exclusively for this iTunes LP. Here's one from the keyboardist of the Doors. I am going to go to a section I really think is cool here. There are some great extras on these iTunes LP. [applause]
+APPLE CONFIDENTIAL
+
+DX-4608. 005
+
+APL-APPSTORE 00000031
+
+Let me show you one more. This one's from Dave Matthews Band. They can be so beautiful. Let me explore the songs. I can just flip through. You know, the artwork for this LP was drawn by Dave Matthews himself. The fonts is even based on his own handwriting. I can play the track and just scroll through. You can see all the lyrics. Just like the Doors, there are exclusive videos here, all sorts of extra content. If you are a fan, this is a great way to rediscover music with albums.
+I have one last thing I want to show you and that's something that we are calling "iTunes Extras." Just like we' ve got iTunes LP for music, we have iTunes Extras for movies. So here's one for Wall-E. It's got all sorts of extra features -- exclusive features, BOT files. You can just click around and discover it. There's some great video content. It's even got a really nice chapter picker. You can click through, find your favorite scene. Here's one I really like. Lots of great extras. It really makes that movie experience feel even that much more complete.
+So those are just some of the cool new features in iTunes 9. Look forward to having you play with it. [applause]
+S Tha n k you, Jeff. So, again, some of the very cool features of iTunes 9. iTunes 9 is available today. It's a free download at apple.corn, so that is iTunes. [applause]
+Now, it's the biggest release of iTunes in a long time. I think you are going to like it.
+So now let's move on to the iPod. I'm going to ask Phil Schiller to come up and tell us about some new things happening in the world of iPods. Phil. [applause]
+P Than ks, Steve. Good morning everyone. If you haven't heard, the iPod has been a big hit. It's absolutely incredible what's happened. We' ve now sold over 220 million iPods to date and growing. That makes it one of the most successful products in history of all products. It's incredible. Customers love the iPod. If you look at the latest market share data, in the U.S. the iPod is now at 73.8% market share. It's unbelievable. The next biggest category -- Other, other at 18%. Right after that, SanDisk just over 7 and Microsoft pulling in the rear at just about 1%. It's unbelievable and yet with this amazing market of over 220 million iPods, we continue to reach more and more people. In fact, our latest data shows that of all the iPods we sell today, just over 50% are the customers that are new to the iPod. It's their first iPod. We love it when we help new customers discover how great it is to have a great portable music playing device.
+And the fastest growing of our iPod line is the iPod Touch, the most innovative product, and it's incredible. The new iPod Touch is beautiful with that great 3'/~-inch multi-touch display. I'm really proud to tell you that to date we have now sold over 20 million iPod Touch, 20 million. [applause] That's in addition to the 30 million iPhones that Steve talked about. Just remarkable. This amazing new technology is taking off so quickly and it is such a great, beautiful device, but you might ask: Why so quick, so many iPod Touches? Well, we have an idea. We think of three things that really set it apart from any other device that's come before it.
+First, it's a great iPod. And, of course, it needs to be. It's the iPod Touch. It is an amazing way to listen to your music. You just use the multi-touch display to flip through any
+APPLE CONFIDENTIAL
+
+DX-4608. 006
+
+APL-APPSTORE 00000032
+
+songs you want to find or to discover a new album you want to listen to. You just tap on it and play. It's an amazing music experience. It's also a great video experience. You can watch video podcasts, TV shows, movies, even new movies in iTunes that you can rent and put on your iPod Touch to watch on that beautiful 3'/2-inch display. Tap and just enjoy your video, so it's incredible for listening to music and playing videos.
+It's also great for discovering new music like this new Green Day album, because built into every iPod Touch is WiFi and the iTunes Music Store so now wherever you are, you get on WiFi and you just start surfing and finding something new to listen to to take with on a trip, whatever you want to do. It's incredible.
+It's also great for discovering music on your iPod Touch because with thousands of songs sometimes you forget all the great content you have and that's where Genius comes in. This Genius technology is just incredible for helping you find music you love and just enjoy this experience of listening to music on an iPod Touch. Of course, you can create playlists, as Steve talked about. You just tap a song and say,"Make a Genius playlist," and your iPod Touch will make a playlist out of that song and other songs you have that go great with it and just sit back and enjoy it. And now, with the new Genius Mixes, you can also do that on the iPod Touch as well. You don't even have to select a song. iTunes automatically creates mixes for you of the songs you have that go great together. The iPod Touch is a great iPod.
+Customers have already started to figure out it's also something else. It's a great pocket computer. That's a really cool idea that built into every iPod Touch is WiFi so wherever you can get on a WiFi you can get on the Internet, which is great because the iPod touches the first great mobile browser -- Safari -- and with Safari you can have a desktoplike experience, you can surf the Web in portrait and landscape, go to all of your favorite sites all on this great little pocket computer. Of course, it is great e-mail as well. You can have rich HTML e-mail. You can have attachments. You can never disconnect with an iPod Touch.
+You have access to all your contacts as well. You can enter them right on the iPod Touch, sync them back or you can just sync them all from your PC or Mac automatically through iTunes and, of course, you can sync them wirelessly with MobileMe. And there are so many applications in the App Store to really make this a rich experience. Things you like to do on the desktop you can do right on this amazing little computer, things like Facebook. If you have a Facebook account and want to keep in touch with all your family and friends, it's really cool to do on an iPod Touch. Maybe you are a Twitter fan and there are people you like to follow their Tweets. You can do that too. All this power in this little amazing computer and it really fits into your pocket. Not everybody can say that. [laughter] Not everybody's computer fits into their pocket but ours really does.
+The iPod Touch. It's a great iPod. It's a great pocket computer. And you' ve probably noticed people starting to talk about one other thing. It's a great portable game player as well. This beautiful multi-touch display and Accelerometer have allowed developers to create incredible new games on the iPod Touch and people are starting to notice. For example, Business Week wrote:"Apple could be on the cusp of claiming the crown as the world's leader in handheld gaming."That's pretty big words. When you think about it, the companies that have come before us -- Nintendo and Sony -- with devices like the
+APPLE CONFIDENTIAL
+
+DX-4608. 007
+
+APL-APPSTORE 00000033
+
+PSP and the DS. When these things came out, they seemed so cool, but once you play a game on the iPod Touch, you know, they don't really stack up any more. They don't have this amazing multi-touch user interface. Their games are kind of expensive. They don' t even have anything like the App Store for finding great games and titles and they certainly don't deliver a media experience like the iPod that's built into the iPod Touch. And when I say they are expensive, we are talking about $25, $30, $40 for a title. A lot of kids can't afford a lot of titles and when you give one of those, you are giving a need to spend a lot of money on those titles. But worse isn't the price. It's the buying experience, having to go to a store and try to find a hot new title for one of those devices is not a lot of fun. The buying experience on an iPod Touch is incredible. It's truly breakthrough. Built into every iPod Touch is the App Store and you can find access to all of the 75,000 titles. It's just incredible. If you look just at the gaming and entertainment category alone, you are going to see a big difference. So I am going to bring up a chart of the gaming and entertainment titles available on Sony PSP, Nintendo DS and iPhone OS, and here's what it looks like.
+Sony PSPs, 607 titles. Nintendo DS, 3,680 iPhone OS, 21,178
+It's absolutely incredible the amount of work. Developers are going to bring amazing content to the iPod Touch and the iPhone. Now, if you haven't had a chance to play some of these amazing new games and titles yet, we' ve actually grabbed some video off of an iPod Touch to create something just to show you how cool these games have become and let me play that for you now.
+[playing video] [applause]
+Those games are just amazing and every day we are seeing new titles come out that just blow our mind so we wanted to share a few of the things we' ve been seeing going on in development with some of the developers with you so you can see these things for the first time. So I'm going to ask a few developers, our really good friends, who are working hard on this software to come on stage and show you a few things.
+First up I'm going to invite up Ubisoft. Now Ubisoft, if you don't know, is a leader in the entertainment industry and their hot title,"Assassins Creed", became the fastest new video game brand ever and to tell us what's coming up next with "Assassins Creed" is Ben Matts, Producer of Assassins Creed at Ubisoft. Ben. [applause]
+B All r i g ht. Well, I'm really happy to be here and let's just right in. So, Apple has created a world-class gaming platform with the iPod Touch and the iPhone and Ubisoft, as Phil was saying, is putting the finishing touches on one of this holiday season's hottest entertainment properties,"Assassins Creed 2." I'm here today to tell you about how we are bringing these two together.
+In "Assassins Creed 2" you play the hero, Ezio, an Italian nobleman from a family of assassins who have been fighting against the Templars throughout history. Thanks to the ubiquity and the simple distribution of the iPod Touch and the iPhones, now tens of millions can know the thrill of being Ezio.
+APPLE CONFIDENTIAL
+
+DX-4608. 008
+
+APL-APPSTORE 00000034
+
+Ubisoft is well known for the award-winning quality of its graphics and its animations and, as you can see behind me, this game is no exception."Assassins Creed" is all about visceral combat, brutal hand-to-hand and wicked one-shot kills. Thanks to the power of these devices, we can put incredible diversity into the animations and sound effects so when you are fighting in this game, you are going to feel every blow.
+"Assassins Creed" is also about exploration and about customization. Now, whether it be putting your own face on the wanted posters that appear on the walls throughout the game using your photo library, or uncovering a secret art cash where you can unlock an exclusive illustration to use as a wallpaper, or to send to a friend, the iPod Touch and the iPhone let us bring you closer to the world of Ezio than ever before.
+And finally,"Assassins Creed" is all about the flow of spectacular acrobatics through exotic and historic locations. The intuitive touch controls allow you to guide Ezio through these incredible free-running experiences and it's an absolute breeze.
+Fans of "Assassins Creed" can get in on the action from day 1. We are bringing this title to market day and date with the other console versions, November 11'", combined with an exciting fan app and short films on iTunes that flesh out the back story of Ezio and the "Assassins Creed" universe. Clearly, the iPod Touch and the iPhone are the place to be for garners and Assassins fans to light this holiday season. Thank you very much. [applause]
+P Than ks, Ben. That is so much fun. [laughter] Next up, this is really a great storyTapulous. Tapulous is a developer that was founded in January of 2008 with a specific focus to create games and titles for the iPhone and iPod Touch. They' ve had a super hit title in "Tap Tap Revenge." It has over 10 million users today and now they are working on something really creative and new, merging two different styles of games togethermusic and racing -- into something unlike anything we' ve seen before and it's really innovative. To tell you what that is all about, I'd like to invite up there founder and CEO, Bart Decrem. Bart. [applause]
+BD T h a nks, Phil. Good morning. When we launched on the App Store a year ago, our crazy dream was to get to a million users in the first year. We hit that goal in just three weeks. Today,"Tap Tap Revenge" is one of the most popular games on the App Store and an awesome 3.0 release is just around the corner. But today we are introducing "Riddim Ribbon" ,a completely new music game built especially for the iPhone and the iPod Touch."Riddim Ribbon" puts you in the role of the DJ. Now, this is a new kind of game so let me set the stage. You' ll be racing down a ribbon. You are the DJ and your job is to follow the groove or your rich sound will be stripped down to its basic drumbeats. Let' s give it a go and we' ll play to the biggest hit of the year.
+That's Boom Boom Boom Pow by the Black Eyed Peas and Andrew is tilting his phone side-to-side to the beat to follow the groove and keep the ball on the green line. Now, along the way you choose from remixes to your song by some of the biggest DJs on the planet. At the next intersection we are going to cut a right for the super black mix, which is just a little deeper. There we go. There are jumps and hoops that you catch by flicking your phone to lay around additional bonus sounds like these booms. Nice. All right, let's get the third one. Great. Now make sure you don't hit that side rail. Ouch! We
+APPLE CONFIDENTIAL
+
+DX-4608. 009
+
+APL-APPSTORE 00000035
+
+just got dropped back to the bass beat. Andrew, get us back in the groove. All right, there we go. [applause] Now, to stay in the game you need to clear that checkpoint and Andrew did it. Good job. There are tons of combinations of mixes and effects so by the
+end of your level you have created your own unique mix to a hot track and every time you play you can make a new mix. After the game, you can share your mix with your friends and challenge them to beat you at your game."Riddim Ribbon" is launching in October and the game with come with three Black Eyed Peas created especially for this game by Will.i.am. We are delighted to announce that the first special level, which will be available for purchase, will be by Jesto who has been voted the number one DJ in the world three times over. Thank you, and rock on. [applause]
+
+P
+
+Next u p , Gameloft. Gameloft is an amazing developer that's been with us in the App
+
+Store right from the very beginning. Today they are shipping 35 gaming titles in the App
+
+Store. They' ve had some amazing hits and they are working on some incredible new
+
+content for you to see and they have now almost 20 million downloads making them
+
+one of the biggest developers in the App Store. So to show you what they are working
+
+on next, I'd like to bring up Mark Hickey from Gameloft. Mark. [applause]
+
+M Tha n k you, Phil. Good morning. I'm really excited to be able to give you all today a sneak
+preview of our latest project. It's a first person shooter. It's called "Nova" and it is awesome. In "Nova" you play as a space marine and your mission is to defend humanity against an alien attack. The single player game ships with 12 levels, 5 powerful weapons, a wide range of alien enemies, and graphics that we think are the best that have ever
+been seen on the platform.
+
+So now, as you can see, we' ve got our ship. It's landing on this alien world and we are in a hostile environment here so the first thing we are going to do is pull out our arsenal and equip the assault rifle so we are ready for any surprises. So we are getting attached
+by these drone soldiers here. Our mission is to rendezvous with the marine platoon that's waiting for us on the other side of this valley. Now, since we are facing some pretty
+heavy resistance here off the bat, we are going to move forward a little more cautiously, equip the sniper rifle and now you can see there's this enemy patrolling further down the trail, so we are going to zoom in on them and once he's lined up in our sights, once he's lined up in our sights, take the shot. [laughter] Head shot. Nice shot. [applause] Cool.
+Now, of course,"Nova" also ships with media player integration so now you can listen to your iPod music when you are out there flagging aliens. So that huge gun you see there on the screen in the plasma cannon. When you hold down the right fire button, it charges up and releases a huge blast.
+
+Now, over and above the single player game,"Nova" is going to have fully featured multiplayer. We' ve got over WiFi and over Bluetooth. We are going to have a bunch of cool iPhone 3.0 features like push notification, challenger, friends, and voice chat. So we
+are really excited about "Nova."We hope you guys are going to love it and you are going to be able to get your hands on it when it ships a little later this year. Thank you very much. [applause]
+
+P I don ' t know about you, but if you' ve been playing first person shooters like they have for so long, that stuff I put into my personal computer on my desk not too long ago. Just incredible. Now on an iPod Touch.
+
+APPLE CONFIDENTIAL
+
+DX-4608. 01 0
+
+APL-APPSTORE 00000036
+
+Last up of our developers I am going to invite up on stage today, EA. They are such a tremendous force in the gaming industry. They don't need a lot of introduction but they really are an amazing developer and they have been a hit not only on all other platforms but on the App Store as well they' ve had three number 1 selling hit titles. And to show you the next title they are working on, which is sure to be another number 1 big hit, I'd like to bring up Travis Boatman. Travis is in charge of their studios for their mobile applications and he's going to show you what's new. Travis. [applause]
+T Than k s, Phil. Hi everybody. So we are really excited to be back to talk about one of the world's largest video game franchises. This is a game that's been around for over 20 years, really remarkable, and it's coming for the very first time to the App Store and that game is "Madden NFL 10" from EA Sports.
+So a vital component of any Madden game is its NFL authenticity. Now, as you can see here, we' ve have all 32 teams and all the players you'd expect to see in this product. For today's demonstration we are going to be playing with the local boys, the San Francisco 49-ers, going up against the Super Bowl champs, the Pittsburgh Steelers. You can also see not only do we have all the teams and players, we also have the real stadium like Candlestick Park rendered in the background.
+Now, while kickers don't spend a lot of time on the field, when they do, it's usually crucial to game play, so to that end we designed a custom kicking interface for the iPod Touch. Joel is going to demonstrate that for you now and taking his finger and aiming anywhere he wants right on the screen. With a simple sweep up and down he's going to kick that ball. He's been practicing so he's going to kick that right into the end zone. We need todo that so we can get on defense. Now defense,you can see we have a deep NFL playbook with all the plays you'd expect to see on any given Sunday. So let's pick one of our favorite plays and get out there. Now, we don't need the pad to select our players. A great innovative feature of the iPod Touch is you can tap directly on the screen so Joel's tapping on any defender he wants to take control right on the screen. Really intuitive. Take control he did. Good job.
+So now we are going to pick a play that we saw this season in pre-season, tight end flat. So I don't like the look of this line up against us. We' ll probably have a mismatch here and a bad play, so we are going to use another innovative feature of the iPod Touch called Hot Routes. What it allows us to do is to take our finger and simply draw the play right on the screen any way we want. Super intuitive. [applause] And this gives us unparalleled control like never before. Really cool. So now Joel is again going to tap directly on the screen to access any of the open receivers and then hit the Action/ Control button to slow the action down so we can make this important play for you g uys.
+So those are just a few of the features we' ve packed into this year's version of "Madden NFL 10" available in the App Store today. It just launched this morning.
+But that's not all. We also have more games coming to the App Store, including "Command and Conquer","NBALive"and even "Need ForSpeed SHIFT".Thanks everybody. [applause]
+APPLE CONFIDENTIAL
+
+DX-4608. 01 1
+
+APL-APPSTORE 00000037
+
+P I hop e you agree with us that the iPod Touch is not only a great iPod, a great portable computer, but it is an unbelievable game playing device and you' ve just seen some of the hot new titles about to come out. It's just going to keep growing. In fact, when we think about the iPod Touch, it's kind of cool to think about it as really the most affordable gateway to the App Store. That App Store is packed with so much amazing software. Not only the games and entertainment titles you' ve seen but just about anything you want, whether you want to get a title to read a book or to create a piece of art, to follow your favorite stocks or work on an education project. There's something for everyone. There's an incredible category for medical professionals. There's an app for anything you want, whether you are a birdwatcher or a latte sipper. There's something great for everyone in the App Store and especially, as we are talking about the iPod Touch, over 20,000 titles for games and entertainment. It's the most affordable gateway at S229. And most importantly, of course, you don't need a subscription. Once you give it as a gift to a friend, they can just start playing. They don't have monthly fees. They can add and explore that amazing App Store.
+Now, we learned something really important a few years back in the iPod business. We had at the time what was the most affordable and best selling music player, the iPod Mini, and the iPod Mini was selling for S249. We asked the engineering team to work really hard to get the cost down so we could bring it to market at $199, and when we did, something really incredible happened -- the sales doubled. We learned something that day -- $199 is a magic price point in the iPod market. With that price point, we can reach more customers so that's just what we are going to do with the iPod Touch. The most important thing, give it to even more customers to get access to all this incredible software so bring the iPod Touch down today to $199 for a 8-GB iPod Touch. [applause].
+So let's bring up the prices of the iPod Touch line up. We are going to bring that 8-GB in at $199.1n addition, at S299 we are going to double the memory to 32-GB and at S399 we are going to double it again to 64-GB. Think about it, 64-GB of flash memory in this amazing little pocket computer. It's just incredible.
+There's two other things about that 32 and 64-GB version of the iPod Touch I wanted to make sure you knew about. First we' ve worked harder to make it even faster. It's already
+fast but now up to 50% faster in most everything you do. And for garners you are going
+to appreciate that we' ve added the graphics power to bring on OpenGL ES version 2.0 and this is what the next generation games is going to be using to get even more realism on these incredible portable games.
+But the really important thing, and I can't overemphasize this, is the power of that price -- $199, creating an even more affordable gateway to the App Store for our customers. We are so excited about the incredible growth and the amazing software on the iPod Touch that we' ve made yet another ad to show all the world about how great an iPod Touch is. Our agency has created this really killer ad and I'd like to run it for you now.
+[showing ad] [applause]
+So the iPod Touch is without question the funnest iPod ever.
+APPLE CONFIDENTIAL
+
+DX-4608.012
+
+APL-APPSTORE 00000038
+
+Next, the iPod Classic. The iPod Classic is a great device for customers who have a large music library and, for example, like to keep all of those songs plugged in in their car stereo or at home with their home entertainment system and today we' ve got one thin version, that's 120-GB for 5249, so what we are going to do today with the iPod Classic is up that capacity to 160-GB, the same thin size, same price, 5249. 160-GB allows those customers to store 40,000 songs and believe it or not, we have customers with libraries that big. It's just incredible and they appreciate the iPod Classic.
+All right, next -- iPod Shuffle. The iPod Shuffle is an amazing device. It's literally the smallest music player in the world. It's got this great built-in clip so you can clip it right on your clothing and it's the easiest to use iPod as well. There's no controls directly on the device. The controls are on your headset and it's really easy with just a single click to play, pause, volume up, volume down, next song, previous song. It's so easy customers have asked us to expand the range of options of headphones you can use with the iPod Shuffle, so we' ve worked with a number of headphone makers and you are going to see a range of products now coming out that all have the integrated controller for the iPod Shuffle in addition to an adapter that has the control you can plug any headphone into. So the iPod Shuffle. It's the world's smallest music player. It's also the first music player that talks to you. We use voiceover technology so that, for example, if you are using your iPod Shuffle and you want to know what's that song I'm listening to right now? It holds so many. Well, you can just hold down that button and it will tell you. Now when we added that voiceover technology, it allowed us to do something else we couldn't do before in the Shuffle which is we are able to now support multiple playlists so that you can have a different workout mix or a mix for whatever you want and you can just hold down the button and change your mix. So voiceover gives us readings of what your song is, what your artist is, what playlist do you want to listen to? It even gives you status information. And this is really useful. If you use it, as many of our customers do, in active environments -- running, at the gym, on a bike -- you really appreciate the ability to control and change what you are listening to without ever having to look down at the device.
+So what's new with the iPod Shuffle? Well, today we are bringing out all new colorsblack, silver, pink, green, and blue. Five colors. In addition, we are making it even more affordable with a new model -- $59 for 2-GB in those 5 colors. That joins the 4-GB model at 579, again in those 5 colors. And those are all shipping today. So, new price point$59, 579, 5 colors each.
+We also want to make one more that we really think is beautiful. We call it the Special Edition. This is made out of polished stainless steel. It's absolutely gorgeous. It's 599 for 4-GB model and it will be available on the online store and the retail stores. Again, the Special Edition in stainless steel.
+So that's the new iPods. I'd like to turn it back to Steve. [applausej
+S Tha n k you. So, new iTunes 9, new iPod line-up for the holidays. We are really glad to share this with all of you today.
+But we do have one more thing and that is a video camera. You know, we' ve seen video explode in the last few years, nowhere more than on YouTube, which is serving up a
+APPLE CONFIDENTIAL
+
+DX-4608. 01 3
+
+APL-APPSTORE 00000039
+
+billion video streams a day and where are these streams coming from? They are coming from folks like us who are using these portable solid-state video cameras to take personal videos and it's incredible. So here's one, a very popular one -- 4-GB of memory, $149. And this market has really exploded and we want to get in on this.
+So what are we going to do? Well, we are going to start off with 8-GB unit, 8-GB of memory, and we are going to lower the price from $149 to free. This is the new Apple, isn't it? [laughter and applause] So how are we going to do that? The way in which we are going to do that is we are going to build a video camera right into the new iPod Nano. On the back of every Nano is a video camera and a microphone integrated right in. And there is a speaker inside as well to listen to the sound of your videos. So built into every iPod Nano is now an awesome video camera and yet we' ve still retained its incredibly small size and you realize how small when you compare this to other devices, right? A fifth as thick, a tenth the volume. So you can take along your iPod Nano and always have your video camera with you in this tiny little package.
+So how good is it? It turns out it's great. Let me just show you a little bit of real video off of here. So you can watch your video right on the Nano over and over and over again. You can also sync it back to your computer, to you' re My Videos folder if you are on a PC or right into iPhoto if you are on a Mac, and with one click you can send it to YouTube, and this is that same video, undoctored, on YouTube. So, pretty amazing to always have a video camera of that quality in your pocket built right into your iPod Nano.
+Now the iPod Nano is a pretty incredible device. It is the most popular music player in the world. We' ve sold over 100 million iPod Nanos, by far the most popular music player in the world, and it's a great music player. It's got Cover Flow built in. We are adding voiceover, the same as the iPod Shuffle. And we are adding some other really cool things, too, like Genius Mixes so you can make a Genius mix, or actually it will automatically make Genius mixes. Here's three of them -- jazz mix, rock mix, a blues mix. Again, endless mixes of songs that go great together out of your music library created with this giant database and the Genius technology.
+We' ve also built in for the first time an FM radio. You' ve got a great FM radio built into your iPod Nano now. And we' ve built in a voice recorder app using the built in microphone, as well as a pedometer so you can keep track of your steps and you can even sync up on the Web to Nike+ for long-term goals like this. [applause] So, the new iPod Nano -- built-in video camera. It's got a larger 2.2-inch display, same great enclosure, built-in microphone and speaker, voiceover, FM radio, pedometer, a lot of great new stuff in the same beautiful design. And it comes in awesome colors this year. We finally figured out how to do colors that are just unimaginably beautiful. They are polished anodized aluminum and when you see them, it's hard to believe how stunning they are. So, the iPod Nano in all these great colors. It comes in two models -- an 8-GB for $149 and a 16-GB model for $179 and they are all available today. [applause]
+So we made kind of a cool ad that I'd love to show you now. So let's run the ad.
+[applause] Isn't that great? So, the new iPod Nano joins the iPod Shuffle, the iPod Classic and the iPod Touch and this is our line-up for this holiday season. And, of course, we
+APPLE CONFIDENTIAL
+
+DX-4608.014
+
+APL-APPSTORE 00000040
+
+paid attention to the environmentals as well. All these iPods use arsenic-free glass. They are all BFR-free, mercury-free, polyvinyl chloride-free, and with their metal and glass designs they are all highly recyclable. We pay a lot of attention to this. [applause]
+So, iPod plus iTunes, an incredible new release -- iTunes 9 available today. And a great line-up, very strong line-up of iPods for the holiday season. Again, available today.
+So, that's what we wanted to show you. We are really pleased that you came and we' ve got a hands-on area where you can go get your hands on some of this stuff in person.
+Now, we' ve got great teams of people that work really hard to create these products for you and one of the things that really drives us is, like you, we love music and we never want to forget that. That's probably the primary reason we do this, and there's no better way to remind us all at events like this than by having a live performance, and we are really lucky today in that Norah Jones is going to join us for a live performance. [applause]
+Norah has released 3 albums to date and they' ve sold 36 million copies. That is a ton. Highly successful, and an even more important measure is she's won 9 Grammy Awards. So, this is her new album. It's coming out this fall and would you please join me in giving a warm welcome to Norah Jones. [cheers and applause]
+N Tha n k you. Thanks for having is. This is the earliest I think I' ve ever played but it's OK.
+[sings song]
+Thanks to Steve Jobs and really happy to see him doing well. There's a lot of secret passageways back there, secret knocks. I feel like a burden has been lifted now that we are actually playing. No, just kidding. You know what I mean. I'm bad at secrets, though.
+So we are going to do a song from my new album that's going to come out in November and we haven't really played this one that much. This is a song called "Young Blood".
+[sings song]
+Thank you very much. Thanks.
+S All r i g ht. Well, that's what we have for you today. Thank you for coming and we' ll see you soon.
+[End of recording]
+
+APPLE CONFIDENTIAL
+
+DX-4608. 01 5
+
+APL-APPSTORE 00000041
+
+

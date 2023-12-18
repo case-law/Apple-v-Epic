@@ -1,0 +1,134 @@
+Subject: Fwd: The Androidtest
+
+From: nTim Cook"
+
+Received(Date): Fri, 04 Mar 2016 00:28:16 +0000
+
+T : "CddyC n~
+
+"C
+
+Date: Fr i, 04 Mar 2016 00:28:16+0000
+
+g a dedggi"
+
+PLAINTIFF
+U rt. Dialrict Ccnrl - NDCAL
+4:20cv4I5545-YGR-T8H
+uric eamrm, Inc. c.JtagtgInc.
+att.ND. PX-0416
+Data Entered
+ey
+
+Sent f'rom my iPad Pro
+
+Begin forwarded message:
+
+From: Philip Schiller
+
+Date: March 3, 2016 at 10:09:26 AM PST
+
+To: Tim Cook
+
+Subject: Fwd: The Android test
+
+FYI - note Joz and I think moving iMessage to Android will hurt us more than help us, this email illuslrates why
+
+Begin forwarded message:
+
+c : G gr
+
+Date: March 3, 2016 at 10:03:23 AM PST
+
+To: Eddy Cue
+
+Craig Federighi
+
+Phil Schiller
+
+Subject: Fwd: The Android test
+
+Darin Adler
+
+FYI - we hear this a lot. Joz
+
+Begin forwarded message:
+
+From: Frank Casanova < Subject: Fwd: The Android test
+
+Date:March 3,2016 at 9:22:53 AM PST
+
+To: Gregory Joswiak <
+
+), Kurt Knight <
+
+Croii <
+
+), Brian
+
+Guys, This is an email Irom Ian Rogers (formerly Beats/Apple and now LVMH in Paris.
+
+The emailrecountshisexperience using Android andhisfeedback to Google who gave him a
+
+CONFIDENTIAL
+
+Exhibit PX 416
+PX-0416.1 APL-APPSTORE 02970610
+
+phone to use when he left Apple. There's one interesting point in the email below pertaining to iMessage. He refers to the lack of iMessage on Android as a deal-breaker to moving to Android. See below in red...
+
+Frank
+
+Begin forwarded message:
+
+From: lan ROGERS (
+
+Subject: The Android test
+
+Date: March 3, 2016 at 3:49:38 AM PST
+
+To: Eddy Cue (
+
+), Steve Gedikian (
+
+Cassanova (
+
+), Frank
+
+Gents, As you know I carried an Android phone before the acquisition. Google sent me a great phone in an attempt to win me back. I tried for two months and gave up. I thought you might like to see the practical list of reasons.
+
+Short version -- don't make mail, calendar, and iMessage work on Android and it's impossible to switch. And make sure G-apps work perfectly on iOS and it will be easy for Droid users to switch. Obvious but true.
+
+Enjoy.
+
+ian ian c rogers
+
+LVMH
+
+Google friends,
+Thank you again for the excellent phone. The phone is very impressive. I loved it. I used it as my main phone for two months. Unfortunately it's costing me too much productivity and I need to go back to the iPhone. I thought it might be helpful to explain why:
+First, the things that are better:
+SwiftkeyX murders the Apple keyboard The panoramicfeatureson the camera aresuper fun Notifications on Android are much more useful than the ones on iPhone Having access to settings (bluetooth, wifi, etc) from the notifications pulldown is oft-used
+
+CONFIDENTIAL
+
+PX-0416.2 APL-APPSTORE 02970611
+
+As you know, I used an Android phone for two years before joining Google. I think I had a great time with it because Beats Music was a Google Apps house and the Google maiVcalendar/etc integration is perfect on Android. But since I'm using a combo of Apple Mail (personal mail) and Outlook (work mail), productivity is a real hassle:
+MS Outlook is barely usable. A long list of &ustrations: Search doesn't find things you know are there. I can search for the same thing in Outlook on Android and iOS Mail and iOS mail will find it instantly, Android will not. No inline attachments. 15 wait to load your inbox No ability to click phone numbers to call You have to context switch inside of the Outlook app to see your calendar Calandar entries difficult to create Can't click on an address in a calendar entry to get to mail.
+Gmail wasn't reliable. For some reason I never figured out my me.com mail would update every few hours instead of every few minutes as I had it configured to.
+Google Calendar doesn't pull in my Outlook calendar.
+The Android calendar just plain didn't work.
+Apple Music won't download songs for offline use (I get an error every time -- I'm following up with the Apple Music team on this).
+Google Play music hasn't improved at all. Very vanilla, boring recommendations, integrated with my mess of old MP3s.
+And the ¹I most difficult to leave the Apple universe app is iMessage. Moving to Android my family was forced to move to Facebook to message me, I used WeChat, WhatsApp and Slack for work, but I missed a ton of messages from &iends and family who all use iMessage and kept messaging me at my old address. iMessage amounts to serious lock-in.
+I will keep a working SIM in it so I can test our sites and apps on Android (Thank you again, this alone is very helpful) but without fast, reliable access to my mail, calendar, and music I can't use it as my daily phone anymore. I tried!
+Thanks again. I hope this is helpful. See you soon.
+ian
+ian c rogers LVMH
+
+CONFIDENTIAL
+
+PX-0416.3 APL-APPSTORE 02970612
+
+

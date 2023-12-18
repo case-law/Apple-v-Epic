@@ -1,0 +1,147 @@
+Subject: Re: New App Process From: "Phillip Shoemaker"
+
+Received(Date):Wed, 06 Mar 2013 20:43:07 +0000
+
+To: "Peter Stone"
+
+"Cindy Lin"
+
+Date: We d, 06 Mar 2013 20:43:07+0000
+
+PLAINTIFF
+V.e. Dlslrlat eau e - NDCAL
+4:20cv48848 YGR TSH
+see eemes, Inc. v. ~ I na
+ax,uo. PXA176
+sale Entewd
+ee
+
+No, we donot do this aspartofoureveryday process,butwe do so on a serverwhen we can.
+
+If this were done as part of the iTC back end, it would solve the problem.
+
+On Mar 5,2013, at6:03 PM, Peter Stone
+
+) wrote:
+
+Phillip-
+
+Does your team scan apps with .exe's as they come through?
+
+Thanks,
+
+Peter
+
+Begin forwarded message:
+
+From: Cindy Lin Subject: Re: New p p r o cess
+Date: March 5, 2013 4:44:49 PM PST To: Peter Stone Cc: Marianne Edgeworth
+, Vanitha Prabhu , Tyler Stran
+
+, Nik Uglov , Sean Smith
+
+Hi Peter,
+
+Ape Review currently does take apps that we detect as having .exe's and .dll's (excluding those made with Unity or Monotouch) and scan with Norton iAntiVirus and ClamXAV. Its similar to
+what we would implement. I set up some time so I can better understand your requested timing, and I can give you more information about how our planning/scheduling process works.
+
+Thanks, Cindy
+
+On Mar 5, 2013, at 9:04 AM, Peter Stone
+
+wrote:
+
+Cindy-
+
+CONFIDENTIAL
+
+Exhibit PX 0176
+PX-0176.1 APL-APPSTORE 00424815
+
+Thanks for getting back to me. We have been talking to Phillip Shoemaker regarding the App
+review process.There are a number of changes that need to be made tobetter secure that space going forward. However, &om what I understand, you all are the first time that the App is brought into Apple. Scanning it at that point makes the most sense. We need to get this prioritized and implemented sooner rather than later. I would anticipate that this is be completed by the end of March or April at the latest. Should we set up a meeting with Tracy to prioritize this?
+
+ThailkS,
+
+Peter On Mar 4, 2013, at 11:48 PM, Cindy Lin
+
+> wrote:
+
+Hi Peter,
+I'm checking with App Review to see what they do for detecting Malware as part of review (should have more info next week, the main person for this is OOO this week). We also surface .exe and .dll files that we find in the app.
+Re: getting the radar scheduled, we' ll revisit again when we do our next round of planning in a month. I agree this is important and something we do want to do -- we' ve got other project work going on right now for summer/fall commitments, but feel &ee to check in with me again on this.
+
+ThailkS,
+Cindy
+
+On Mar 1, 2013, at 3:28 PM, Peter Stone
+
+> wrote:
+
+We need to put in better controls around Apps to ensure that we are not bringing Malware into
+
+Apple. This sounds like a decent first step and not sure why we wouldn't be doing this.
+
+What would it take to get this in place?
+
+ThailkS,
+
+Peter
+
+On Mar 1, 2013, at 3:22 PM, Cindy Lin
+
+wrote:
+
+There is a radar for this, but we don't currently have a timeline for when this will be done (hasn't really been an issue for the app store).
+
+<rdar:// roblem/11956861> Malware detection within apps
+
+ThailkS,
+Cindy
+
+CONFIDENTIAL
+
+PX-0176.2 APL-APPSTORE 00424816
+
+On Mar 1, 2013, at 3:12 PM, Marianne Edgeworth
+
+wrote:
+
++ Nik and Cindy
+
+Are you aware of a virus scanning solution that is being implemented?
+
+ThallkS,
+Marianne
+
+On Mar 1, 2013, at 3:09 PM, Sean Smith Adding Marianne who works more in the App space.
+
+wrote:
+
+Thanks, Sean
+
+On Mar 1, 2013, at 2:57 PM, Peter Stone Sean-
+
+wrote:
+
+The biggest question we wanted to ask is whether you all do anything to detect malware when we bring new apps in &om iTunes Connect to DJ. I heard that there is a Radar open for you all to implement some type of virus scanning solution. Do you know when that will be in place?
+
+Thanks,
+
+Peter
+
+On Mar 1, 2013, at 10:48 AM, Sean Smith
+
+wrote:
+
+Hi Peter, Really sorry, I got pulled into another meeting. I'm &ee between 3:00 and 4:00 if that works for you.
+
+<PastedGraphic-64.png>
+
+Thanks, Sean
+
+CONFIDENTIAL
+
+PX-0176.3 APL-APPSTORE 00424817
+
+

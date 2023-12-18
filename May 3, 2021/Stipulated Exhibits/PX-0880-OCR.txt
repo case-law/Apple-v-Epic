@@ -1,0 +1,484 @@
+APPLE INC.
+
+iPhone SDK Launch
+
+MARCH 6, 2008
+
+S P
+
+Steve Jobs Phil Schiller
+
+Bob Borchers
+
+SF
+
+Scott Forestall
+
+T
+
+Travis Boatman
+
+C R
+
+Chuck Detrick Rizwan Sattar
+
+G E
+
+Glen Keithley
+Ethan Einhorn
+
+J Q
+
+John Doerr Question from audience
+
+Unknown speaker
+
+PLAINTIFF
+U.S. District Casrl · NDCAL
+4:20n 4 5 640-YGR-TSH
+Gpm Games,Inc. c.Appla Inc.
+Ett.ND. P X48 8 0
+Dsts Entsrad
+etr
+
+S Wel come. [applause] Thanks for joining us this morning for this special event. We are really excited to share some great news with you about the iPhone software roadmap. We' ve been working really hard on this and weVe got some really cool stuff to announce so let's get on with it.
+Before we get into the details, I just want share a few statistics about how far we' ve come with the iPhone in just the first 8 months since we started shipping it. If you look at the U.S. smart phone market, in just 8 months the iPhone has garnered a 28% market share, second only to RIM and dramatically ahead of 3<, 4tD and all the others, so we are pretty excited about this. This is 4ID calendar quarter data here, so that's the first thing. [applause]
+The second thing, though, is, as you know, the iPhone is really bringing the Internet to a mobile device for the first time. You really do have the Internet in your pocket and that's being borne out by the usage statistics for U.S. mobile browser usage. Look at this. IPhone 71% of the U.S. mobile browser usage because for the first time you really do have the Internet in your pocket. So these are very exciting statistics and so let's get on with what we have to talk about today in terms of the iPhone software roadmap.
+Now, I have asked two of my colleagues to do the heavy lifting today --Phil Schiller, our Senior Vice President of Worldwide Product Marketing, and Scott Forestall, our Vice President of iPhone Software. And the first thing we are going to talk about is iPhone in the enterprise and for that I am going to hand it over to Phil. [applause]
+Apple Conmdenlial
+
+Exhibit PX 880
+PX-0880.1 APL-APPSTORE 00000055
+
+P Than ks, Steve. Good morning everyone. I am really excited to be the one to talk to you about iPhone in the enterprise. From the beginning of launching iPhone, which is not so long ago, we' ve had some great customers right at the forefront wanting to work with us to adopt the iPhone into their enterprise environments. For example, Genentech. As you know, Genentech is the world's leading biotech company. We have a great relationship with Genentech. Their CEO, Art Levinson, is a great Board member for Apple, so we do a lot of wonderful things together. Right now with Genentech, they have thousands of iPhones deployed across multiple organizations from sales to R8 D. To get a sense for what does the iPhone mean inside Genentech a quote here from Todd Pierce, the V.P. of Corporate Information Technology:
+"The iPhone is a watershed event in mobile computing for corporations."
+Wow! That's incredible. They are an amazing company with thousands of iPhones.
+It's not just businesses. We also have great enterprises in the incredible universities we work with. We have a great number of great, large customers that have huge networks. In fact, one of the leading universities in the world is right in our backyard -- Stanford University. We have been working with them as well. Right now at Stanford they have hundreds of iPhones deployed across faculty and staff. In the words of their CIO, Bill Clebsch:
+"The iPhone has worked effortlessly at Stanford and the user acceptance just astounded us. We' ve been inundated with orders."
+That's incredible. That's absolutely incredible. I think you can guess why that might be. The iPhone is an amazing device with a breakthrough user interface. With just your finger you can surf the Web, check your email, manage your contacts, contact friends. It's an incredible device for enterprises. But there are a lot of things that enterprise customers, these and others, have told us are the things holding it back from really being huge in the enterprise, so we have been hard at work listening to them, compiling lists, trying to understand what do they really want to take the iPhone way out into giant numbers across enterprises? And what is that?
+Well, first and foremost great e-mail integration. Enterprise customers want the iPhone to integrate and get push e-mail directly from their e-mail servers. Huge request.
+Just as big, they want great calendar integration. They want to be able to get their calendar items pushed to them wherever they are, over the air, all day long.
+Apple Confidential
+PX-0880.2 APL-APPSTORE 00000056
+
+They also want to get access to their contacts and have it pushed back and forth with their servers. They want to get to their corporate contact list through global address lists. They want to build in additional VPN types and, most often requested, is Cisco IPsec VPN built right into the iPhone.
+They want two-factor authentication with certificates and identities.
+They want enterprise class Wi-Fi with WPA2 enterprise and 802.1x.
+They want to be able to have tools to help them enforce security policies like mandating use of PINs on the iPhone.
+They want tools to help them configure thousands of devices as they deploy iPhones across their enterprise to set up all those mail and calendar services, to set up those VPN and security policies, all simply automated.
+And, in the unlikely event it's lost or stolen, they want the ability to protect that data and be able to remotely wipe it.
+That's a long list of important features that enterprise customers have told us that if we just did these things would really help the adoption be huge in the enterprise.
+Well, I'm really excited to be the one to tell you today that we are doing all of these things in the next release of the iPhone software. [applause] Yeah.
+Now they don't just say, "Hey, I'd like push e-mail and push calendaring." They are much more specific than that, right? What our customers have asked us in large part to do is to build in Microsoft's Exchange support right into the iPhone. So I'm also excited to be the one to tell you today that we are working with Microsoft and we have licensed the ActiveSync protocol to build directly into the iPhone so the iPhone can work directly with Corporate Exchange servers and that is a huge request from our customers who deploy iPhones in very large numbers across all these enterprises.
+So how does that work? Well, to help explain it I find it useful to understand the old way before we look at the new way. So there is an older way to do things that some have made to work using older generation smart phone devices, if you ever seeany ofthese around. They do getpush e-mailand contacts and calendaring and you think they come from the servers in the environment but they don't actually work that way. They first come, for example, to your device from a network operation center that is outside your firewall. It's even outside the country for most people. And that has to get its information from something that' s inside your firewall that you have to set up that's a proprietary messaging server. That's where it comes from and, of course, that's gets its data from your Exchange server. So you actually see that what's been built up as a complex
+Apple Confidential
+PX-0880.3 APL-APPSTORE 00000057
+
+scenario that actually takes some money to support and maintain and build and license and, of course, it adds risk to reliability as we' ve seen from time to time.
+Well, that's the old way. Microsoft has really come out with an architecture that' s much more advanced and in the kind of things enterprises want to build in. They' ve built in a way with the ActiveSync protocol where the iPhone can now work directly with the Exchange server to get you all the important corporate information in a more reliable, more affordable way.
+So how is that going to work? We are building an Exchange support right into the iPhone so you get push e-mail, you get push calendaring, you get push contacts, you get access to global address lists, and the ability to remote wipe it if in the event you ever need to do that.
+One of the best things about this is we are building this in to the applications customers know and love on the iPhone. We have great software applications for e-mail. The same e-mail application on the iPhone will now get your information directly from the Exchange server pushed over the air. The same calendar the customers really love on the iPhone gets its information directly from the Exchange server. The same contact management built into the phone application, the iPhone that is so great, gets its information directly from the Exchange server and we are building that all into every iPhone. So this is a great, great way to solve all those requests for the best solution for Exchange support in a phone and that's what it means to have Microsoft Exchange built into the iPhone. What I'd like to do is be the first to show it to you.
+So over here I have an iPhone and I am going to wake it up and, as you see, it' s cabled so that you can see up on this display the very same thing I'm seeing on my iPhone. Let's turn it on. Now you might imagine that I'm an employee in a large enterprise and I' ve been given an iPhone to use as my key business tool and let's go in and see what's been set up for me. Well, go into Contacts and this hasn't been set up yet. There's no contacts in here for me.
+Let's go into Calendar and here's today. No events. I kind of like that. I' ve got my day free. [laughter]
+Go into E-mail. Not only do I not have e-mail, my account is not even set up yet and activated on this phone. Now you know the iPhone has amazing e-mail support for a lot of different services, but as you look at the screen, you' ll see we' ve added one right there at the top -- Microsoft Exchange. So there's tools for an enterprise to automatically configure phones and there's also easy ways for an individual to just tap and follow a few steps and set up their phone for Exchange support. I am going to skip that step for this demo to get through it quickly for you, but let me go into Settings. I' ve set up an account on this phone and I just haven't turned it on yet. Let's go into my Mail Settings and here you see under my accounts. There it is. I' ve built in an Exchange account for me to
+Apple Confidential
+PX-0880.4 APL-APPSTORE 00000058
+
+talk to Exchange server. I'm going to tap on that and turn to its settings. And this is really great, because in a glance you see what it's able to do. So, yes, I want to use ActiveSync for my contacts. I am going to turn it on and now I'm going to get push contact support and, yes, I want to get my calendars from the server as well so I turn that on and the same will happen. Yes, I want to turn on Mail so I get mail pushed over the air to my phone and that's it. I' ve set up my iPhone account and now I am going to go Home to the home screen and let's first go into my phone application and there are all my contacts now. These have been read and pushed directly from the Exchange server to this phone over the air and they are all in here now and, for example, I can just go into Bob's and there' s his information. It's been all brought completely down from the Exchange server onto my phone. Let me go into my calendar and you' ll see ah, I have things to do today now. There's my calendar all being read, pushed over from Exchange. And last we' ll go into Mail and sure enough, here's all my mail all brought in. Again, it's the same applications customers know and love on the iPhone -- the beautiful, rich e-mail experience and attachments and now it's coming from Exchange to the iPhone.
+So now you see it's hooked up, it's working, it's set everything up and got it from the server. The next thing I want to do is show you a little bit what it's like to actually use this in a push environment and how powerful that is. To do that I' ve asked our Bob Borchers, who's on the iPhone product marketing team, to help me out. Bob's here in the audience. He's got a notebook. He is wirelessly connected over Wi-Fi also to the Exchange server with his account and together we are going to be able to do a couple of quick things to give you a feel for it.
+So let's go back into the phone application. Imagine I am out on a business trip and I meet a new contact. So I am going to hit the + sign to create a new contact card here. I am just going to type in a name. Allen Banks. For those of you who have never used typing on an iPhone and wondered how it is, it's awesome. Let me save that. So now I' ve just created a new contact, Allen Banks, and back on the Exchange server, working with his computer, Bob, do you see it?
+B I go ti t .
+P So t a k e our word for it. It worked. [laughter] Right. Now, in case you don't believe me, let's do the reverse. So I'm busy and Bob has gotten a phone number for that contact so, Bob, if you can add a phone number to that Exchange record and let me know when you' ve sent it.
+B It' son its way.
+P And t h ere it is. So Bob has updated Exchange and here I get it. [applause]
+Alright, next, let's go into Mail. So I'm in Mail right now and we are all used to what it's like to pull and get stuff from the server on a periodic basis like a
+Apple Confidential
+PX-0880.5 APL-APPSTORE 00000059
+
+computer does, but now we have push e-mail directly from the Exchange server. So, Bob, if you can send me an email right now in front of this audience.
+B It' son its way.
+P And t h ere it comes, right to me immediately. So Bob has sent me an email, it pushed to my phone right from Exchange server. [applause] This is exactly what the enterprise customers have asked for, what they are waiting for is direct push e-mail from Exchange servers.
+And last, let's go into Calendars. Let's go to today. today is pretty good. I' ve got a lot of time free right now so I can probably just hang out, but imagine, while I'm thinking I' ve got a lot of time to kill actually a meeting gets moved and it's going to move up on the calendar. So, Bob, if you can move a meeting up for me and the Exchange server now knows that and it's going to push it to me as a member of that meeting. I can even tap on that meeting and go into it to see the attendees in that meeting. I can even select an attendee and go and see their names and go in and call one of them if I want to know anything about the meeting, so all that's happening live, pushed right now from Exchange in Exchange server.
+The last, and I think the most fun part of this demo, so I'm out and about on my business trip and I call back to the IT department. "Hey, Bob, I think I left my phone when I was out at dinner last night. I don't know where it is. I'm probably not going to get it back. Can you do me a favor and kill it because I have a lot of important information on that. So, Bob, if you can please use Exchange server to remotely wipe this phone," and Bob's done that. I get no user interaction. I can' t stop it, and the phone has been wiped and protected. [applause]
+Thank you. So we have a lot of great new features but you' ve just seen Exchange live working on an iPhone for the first time and I think enterprise customers are going to be pretty excited. We' ve been working hard on this. Our teams have worked hard and we' ve tested it here but, as you know, enterprise is a very complex environment, all different environments around the world so we' ve started to go out now and bring these new features into some enterprise network environments to test on-site and see how it does. One company we' ve worked with, Nike, we have a great relationship with Nike and have done many great projects with them and they were kind enough to let us come on their site and start to test the iPhone in their enterprise environment with Exchange and here's what they have to say about that test. Roland Paanakker, their CIO, has said:
+"With support for Exchange, ActiveSync and its new iPhone release Apple's offering a plug-and-play enterprise solution."
+Apple Confidential
+PX-0880.6 APL-APPSTORE 00000060
+
+So they are seeing it working now and starting to work with our tests on their site. It's real and it's exciting.
+One other company we' ve taken on-site and working with them to see how it works in their environment is Disney. As you might know, we have an executive relationship with Disney and we do a lot of great things together. They are a wonderful customer and here's what they have to say about the iPhone and its features. Randy Brooks, SVP of IT at Disney:
+"Apple's really done their homework addressing issues of security, manageability and integration. We currently have hundreds of iPhone users and expect the demand to grow significantly with this release."
+That's awesome. That's awesome. We love working with these customers and we are both excited at what we have to offer because this is the feature set I showed you earlier. These are the features customers have asked for in enterprises to make the iPhone a big hit across companies and universities across this country and around the world and I think when we release all of these features, people are going to be blown away that the iPhone is the best mobile device ever in the enterprise. It's a killer device already for all of us with these breakthrough software features and now it's addressing the needs of the enterprise as well with this next release. So that's our news today on the enterprise. Next up I'd like to invite up Scott Forrestall who is going to talk to you about the iPhone SDK. Scott. [applause]
+SF O K , so I'm here to tell you about developers can build great applications for the iPhone. Now, before I get into the native iPhone SDK, I want to give an update on Web Apps.
+LastJune, when we launched the iPhone, we also launched Web Applications as a way for developers to build applications using Web technologies for the iPhone. This has been incredibly successful. There are already well over 1,000 Web applications available for the iPhone. Now over these last 8 months, we' ve continued to make these Web applications even better. In fact, just a couple of months ago we added the ability to take icons and place them directly on the home screen of an iPhone so you can just tap on an icon and launch right into the Web application. Now, as I said, there's a lot of really great Web applications. I'm going to highlight just a couple today. Starting with FaceBook.
+FaceBook has built a really great Web application. It's dynamic, it's interactive, it really takes advantage of our large touch-screen, and this is absolutely the best way totake FaceBook with you wherever you go.
+Next is Bank of America. Bank of America is the largest bank in the United States. They are also the industry leader in mobile banking and Bank of America
+Apple Confidential
+PX-0880.7 APL-APPSTORE 00000061
+
+built this really nice Web application to allow iPhone users to bank directly from the iPhone. Now, already the iPhone is the most popular device used by Bank of America mobile banking customers. In fact, the iPhone accounts for more than 25% of all mobile banking done with Bank of America. It's unbelievable.
+So, Web applications. We' ve really been investing Web applications and they' ve been incredible successful. In this next release we are going to add even more features to make the experience even better. But today what I really want to tell you about is the native iPhone SDK.
+Starting today we are opening up the same native APls and tools that we use internally to build all our iPhone applications. This means that third party developers can build native iPhone applications using the same SDK that we do.
+Now, there are a lot of pieces that make up an SDK but the most important piece is the set of APls, it's the platform. That suits us well because Apple is a platform company. We have the most advanced platform in the world in the form of Mac OS X. Mac OS X is comprised of four architectural layers. You start with the core OS and we havecore services, a media layer,and Cocoa. Cocoa isour user interface application framework. To build the iPhone OS we started by taking the bottom three layers of Mac OS X and moved them straight across to form the basis of the iPhone OS.
+Now Cocoa is interesting. Cocoa is the best application framework out there, but it'sbased on a mouse and keyboard input,so we took everything we knew about creating a great object-oriented, user interface application framework with Cocoa and everything we knew about creating a touch API for the iPhone and we combined them and we built Cocoa Touch, and this is our user interface application framework for the iPhone. In fact, this here is the architecture of the iPhone OS.
+Now, let me dig a little deeper into each of these architectural layers just to give you a flavor for how rich this platform is. We' ll start with the core OS. There are a lot of pieces that make up the core OS. I'm just going to highlight a few. We' ll start with the kernel. This is the same OS kernel built out of the same project with the same source files that we use on Mac OS X. It's the same one. We' ve optimized it in certain ways so it performs great in low memory situations and for the iPhone but it is the same kernel.
+The networking layer we use in the iPhone OS is the same DSD networking layer we use on Mac OS X.
+Power management-Applehas more than a decade ofexperience with advanced power management techniques.We use these techniques tomanage our portables which are more than 50% of the Mac line. We started with these advanced power management techniquesand even went beyond thatforthe
+Apple Confidential
+PX-0880.8 APL-APPSTORE 00000062
+
+iPhone. For the iPhone we have automatic power management. That means the core OS, power manages all of the chips, all of the sensors, and the entire operating system in your application also automatically. So that's just a few, a taste of the core OS.
+Now let's look at core services. Again, there are a lot of different pieces that make up core services so I'm just going to highlight a few. We' ll start with the address book. We have a complete set of APls for your application to talk directly to the contacts database on the iPhone. We also have included an entire database API with SQLite.
+Core LocationY.ou've probably seen on an iPhone where you can tap a button on the Maps application and it will use cell tower information and Wi-Fi Hotspots to triangulate and find exactly where you are. We' ve taken all of that and packaged it into an API so you can use it to create location-aware applications. So, that is core services.
+Media. The media layer is everything you'd expect from Apple. After all, the iPhone is a great iPod, right? It has all the audio and video capabilities you' d expect starting with core audio. Core audio is our low level API that we use on Mac OS X on top of which we have built everything from our consumer applications all the way up to our professional audio applications. That also forms our low level API for audio on iPhone.
+On top of core audio we' ve built OpenAL. OpenAL is an industry-standard audio API. It is used to efficiently render multi-channel, 3-dimensional positional audio. This is great for game developers. It allows them to take and render sounds and special effects in three dimensions around a player and a game. OpenAL built right in.
+Video Playback. We have a really seamless video playback system here. It uses our H264 codec. It's high quality built right in. Core Animation. Core animation is a powerful set of APls that allows the developer to easily create layered animations. Now we introduced this publicly first for Leopard but we built it in many ways for the iPhone and, in fact, almost every animation you see on the iPhone is built on top of core animation.
+And last, but certainly not least, is OpenGL ES. This is the embedded version of OpenGL and it is an absolute screamer for 3D graphics on the iPhone and, in fact, this entire layer is heavily hardware accelerated. We do that for great performance and long battery life. So that's the media layer.
+Cocoa Touch. As I said, Cocoa Touch is built all around the concept of touch as an input so we start with an advanced multi-touch event system. This handles everything from a single finger touch to multi-finger to gestures. On top of this
+Apple Confidential
+PX-0880.9 APL-APPSTORE 00000063
+
+event system we built our multi-touch controls so our controls know all about the multi-touch nature of the iPhone.
+The Accelerometer. You probably know we have an accelerometer built in. We use it for things like in Safari when we go from portrait to landscape mode, but what you might not know is it's a full 3-axis sensor and you can use it in your applications as well.
+Web View. We took the engine or Safari and turned it into a control which you can embed in your application. If you want to get images in your application, you can use the Image Picker to choose directly from the library of all the photos in an iPhone or you can use the camera to take a new photo. So that is Cocoa Touch. In fact, this is the architecture of the iPhone OS. It is the most advanced platform out there for mobile devices. In fact, we think we are years ahead of any other platform for a mobile device. It is fantastic. We borrowed heavily from Mac OS X so we started on the shoulders of a giant and we made it even better.
+So not only do we have a great set of frameworks and APls but we have a comprehensive set of tools to help developers quickly build, debug and optimize their applications. Let's start with Xcode.
+Xcode is our development environment. This is the tool we used to build all of our applications and operating system for Mac OS X. We started there and then we enhanced it to support the iPhone and now we use Xcode to build all of our applications and operating system for the iPhone.
+So what is Xcode? It starts as a great source editor. This is where you write all of your code and the great thing is Xcode knows all about the iPhone SDK. It knows all about all of our APls, so as you are writing your application, it will code complete to the APls in the SDK.
+Project Management. It deals with your project for you. It manages your source files, your header files, your resources, your images, your build settings, everything. It also integrates in with your source control management system so be it Subversion or Perforce or CVS, it integrates directly in with your source code controlmanagement system and you can check files in and out,you can merge files, you can create new branches, do everything you want right from within Xcode. It integrates with the documentation. We are shipping a lot of great documentation as part of the SDK and you can access it directly from within Xcode, and it has a really nice debugger. It does all of the things you'd expect of a debugger. You can set breakpoints and step through functions and examine variables or it goes beyond that. It's a great remote debugger so you can take and plug your iPhone in with the standard 30-pin iPhone and iPod connector to your Mac, run your application live on your iPhone and be debugging it right from your Mac. So this is incredibly powerful. So that's Xcode. It is a great tool. It is
+Apple Confidential
+PX-0880.10 APL-APPSTORE 00000064
+
+our development environment and it's where you will build and debug your applications.
+The next tool I'd like to talk about is Interface Builder. Interface Builder is the tool you use to build your user interface for your iPhone application and, in fact, Interface Builder makes building your user interface as simple as drag and drop. We have a complete library of all of the Ul controls from Cocoa Touch built right into Interface Builder and all you do is pick the ones you want and drag them across onto your canvas and now you have visually built your interface. Interface Builder then goes beyond that. Cocoa Touch supports the model view controller paradigm of development and right from within Interface Builder you can visually tie and connect your view layer to your control layer. You can connect your user interface right to your code from within Interface Builder. Interface Builder is also a great localization tool. After you have created your user interface, you can localize it to all of the languages that you want to support. So that's Interface Builder. It is a fantastic tool for building your user interface, for actually connecting your user interface up to your code, and for localizing as well.
+Next Instruments. Instruments is our comprehensive suite of performance analysis tools. Just like the remote debugger it runs live connected to your iPhone so in this case you can run your application on your iPhone, have it connected up to your Mac and you are recording any number of aspects about the performance of your application. You can look at, say, the graphics performance or the CPU performance or your file system usage or your memory usage to see if you have leaks, all of these things. There's a whole host of different performance tools built right in. It records these live while you are running the application. In fact, it can record more than one aspect at once, so if you actually visually compare the interaction between different aspects of your program. You can then take find your peaks and valleys, find where your hotspots are, dig right down into it, get right to the code that was running, optimize that code, run it again, run Instruments to see, in fact, if you' ve optimized it as you expected. So Instruments is a great tool to do real-time analysis, performance analysis, of your application.
+Now these three tools -- Xcode, Interface Building and Instruments -- we' ve had runningon Mac OS X and we enhanced each to support the iPhone.
+Now today I'm happy to announce a brand new development tool specifically for the iPhone and that is the iPhone Simulator. The iPhone Simulator runs on a Mac and it simulates the entire API stack of the iPhone OS so right here on your Mac you can run your application in the Simulator which gives you an incredible turnaround time on development. It's fantastic. We' ve thrown a few applications directly in from the iPhone into the Simulator just so you can see how they work. The Simulator works great side-by-side on your Mac with Xcode so you can click one button in Xcode, build our application, it loads up in the Simulator, you can debug it while it's running in the Simulator right from within Xcode.
+Apple Confidential
+PX-0880.11 APL-APPSTORE 00000065
+
+So we have a fantastic set of tools in addition to this amazing set of frameworks thatmake up the iPhone OS. Let me go ahead and demo thisto you now.
+So, I'm sitting here at my Mac and I' ll first launch the iPhone Simulator. Here it is. As I said, we threw a few applications directly in from the iPhone so I can launch, say, the Photos application. This is the same Photos application so you can see as I'm clicking here and swiping it's actually sending it an multi-touch swipe event so it's getting exactly the same event as it would from the iPhone. Go back home here and launch the Contacts application. Again, exact same Contacts application. I can swipe around. I can edit, I can add a new phone number. Let' s go ahead andsay 555-1212, so I've added a new phone number and itsaves it and here it actually saves this into the Contacts database in the Simulator so if you are using the address book APIs in our application, you can access that changed record. And, we have a full Safari built in. This is the same Safari from the iPhone. So if you double click, it sends the double tap event, the standard multi-touch event. You can tap on Links. Go to Links. You can even click up here and bring up the text fields. You could do searches. It's the full Safari built in. So, that's the Simulator.
+Let me show you now what it's like to build a new application using all of these tools. So I'm going to build the simplest application in the world which is Hello World. So here is Xcode. I' ll build a new project. I'm just going to choose the Cocoa Touch application. This is a completely empty application and I will call it "Hello World." Alright. Actually, before I even write a single line of code let me just click Build and Go. It's building up this application. It's packaging it together, loading it up in the Simulator, running it and connecting the debugger. Now obviously it's not a very interesting application since I haven't written anything. It's just drawing nothing so it's black, but you can see Hello World has been added to the Simulator. So let's make it a little more interesting and make it actually write Hello World. I have that code in the oven here so I will copy it out of there, paste it into this file and, again, single click to Build and Go. It builds up with that change, links it together, loads it up in the Simulator, and now you see Hello World in the Simulator. It's that simple to make this turnaround time using the Simulator to build your applications.
+Now it turns out it's just as easy to build and run it live on an iPhone so let me show you that. I have an iPhone right here which is plugged in with the standard 30-pin connector into this Mac. It also has a video cable out so you can see it on the screen. What I do is I' ll go back to this project. I' ll make a single change saying "Build for the device, build for the iPhone," and click and go. Now it' s building that same application for the iPhone. It compiles it together, packages up the application, loads it on to the iPhone, runs it and connects in the debugger and here it is running live. So you can see it says, "Hello World," click the Home button, it takes me back. So it's added Hello World right to the bottom here. So that's Hello World.
+Apple Confidential
+PX-0880.12 APL-APPSTORE 00000066
+
+Now let me show you what it's like to make a change in what the development cycle is like building right with the iPhone. So it has Hello World in white text. Let's say I wanted that to be yellow. I' ll go back to my source code here and right here is where it says "white color," so I' ll change that to yellow and I' ll say, "Build and go." So here it's building that application again with that change. It updates the application that was there before, loads it up on the iPhone, runs it and now you see it's yellow. So that's how simple it is. The single button, once you have made any change, single button click loads it up on the iPhone and we are actually connected in the debugger.
+So this is an application that we wrote, I wrote, in about two minutes here right? We wanted to challenge ourselves and say, 'What can we write if we spent two days writing an application?" So we went ahead and did that and we call it "Touch Effects." We wanted to use some more of the native APls and some of the Touch Event APls and so again I' ll single click "Build That" and it loads up this application. This application is sort of, you know, having fun with photos and the touch system. So here I can either choose a photo or take a photo. I' ll go ahead and choose a photo. This now will slide up the standard image picker panel so this is all built in APls. I can choose an album, I can choose a photo. OK, so we have a photo. Now I am going to take a single finger here and touch it down on thescreen and you can see now we are applying an OpenGL meshed distortion right on to this image and you can see it's tracking my finger using the Touch Event system. So I' ll put it right about there. [laughter] This guys not from the audience is he? So that was with one finger, right? But, of course, this is a multi-touch device. So now I' ll take two fingers and I' ll just sort of pinch. Let's see what happens there. It just sorts of sucks in between where I was pinching.
+So then wewanted to have some fun.We said,"How can we undo the change?" Of course, we have an Accelerometer built in here so to undo it, all I do is shake the phone and it undoes it. [applause] So, again, you can grab anywhere, do this multi-touch event, get different effects. His mother would be very proud, and shake to undo. So there's an application we wrote in two days and it's under 2,000 lines of code to write that entire application.
+So nextwe decided what can we do in two weeks? And so we went and wrote a game. It took us about two weeks. It's under 10,000 lines of code for this entire application. So, again, a single click in here builds the application, loads it up and runs it right here on my iPhone. It's actually connected in the debugger as well. So I'm just going to tap to start. As you can see, this is an OpenGL game for graphics. It's an OpenAL for audio. How do I fire at these ships? We are not using up a big chunk of the user interface here for buttons. Well, we have a great touch-screen so I can just tap anywhere to fire.
+But the next question is, I don't have a joystick on here, 4-button toggle control. How do I steer? We' ve got a full 3-axis Accelerometer built in here so all I need
+Apple Confidential
+PX-0880.13 APL-APPSTORE 00000067
+
+to do is move the phone around [applause] and now I'm steering it. Now we are talking. So, it's fantastic. This is two weeks of work, less than 10,000 lines of code. Oh, I should point this out. Since we are using OpenAL, as I move it back and forth you can hear the audio move around, right? So OpenAL gives you full positional audio, 3D positional audio.
+Now another thing that developers really love to do while they are building an application, especially games, is optimize, so I' ll keep this running and go back to my Mac here and I' ll bring up Instruments. Instruments is our performance tool. I'm going to measure the graphics performance. I' ll choose right here on the OpenGL ES template. I will choose the live running application, which is Touch Fighter, and just click record. Now it is live recording the application as we are playing it. So it's live recording the frame rate, it's actually sampling the whole time all the calls that we made so as I move it around you can see we are getting around 30 frames per second. I go ahead and fire. So live while you are running your application, while you are playing your game you can be measuring all of the performance. So let me go back to my Mac here and I' ll stop that recording. Not only did it just record it but it also saved all of this. So if I want to go and look for where my peaks and valleys are I can see here we are at 19 frames per second. We can optimize this and make it better. I can bring up the stack trace right there on the right-hand side. That's the stack trace of exactly what was happening at that point in the game play. I can use that to dive down, optimize the code and make it even faster. So this is what we could do in two weeks in less than 10,000 lines of code to create this application.
+But I don't want you to just take my word for how good this platform is. So a few weeks ago we called up a handful of companies and we asked them if they would send out a couple of engineers each to see what they could accomplish in two weeks on an SDK that they'd never seen before. In fact, most of them had never touched a Mac for development before. And they did and what they accomplished blew me away. It's just fantastic and so instead of having me talk you through it, I' ve asked the engineers who came out and wrote these applications to tell you in their own words what they accomplished. We' ll start with Electronic Arts.
+Every gamer knows all about Electronic Arts for the great applications they' ve written for computers and for consoles. Electronic Arts is also the industry leader in developing and producing games for mobile devices. I'm happy to invite up Travis Boatman to talk you through their experiences with the iPhone SDK. Travis. [applause]
+T Hi e v e rybody. So the first thing I want to say is thank you to Apple for inviting us to join in with this SDK process and given that we only had two weeks, we wanted to do something that took advantage of a lot of the different features of the device, everything from the touch-screen to the Accelerometer. We wanted to
+Apple Confidential
+PX-0880.14 APL-APPSTORE 00000068
+
+have video and audio. We wanted to have a game that described all of that. So the game that we chose was a game that we have in production called "Spore."
+The idea of "Spore" is it's about taking a microorganism from the primordial soup at the bottom of the ocean and helping it evolve and grow and survive in this interesting world we have. So you can see the spore here in the center of the screen and the way that we chose to control the spore was to use the iPhone's Accelerometer. As you can see John using the Accelerometer here to tilt it right and left and get some of that motion you saw earlier in that previous demo.
+The basic goal of the game is to take the spore and eat anything smaller than you and avoid anything larger than you. [laughter] If you do a good job with that, you are rewarded by what we call the "Evolution Editor" and the Evolution Editor is a great place for us to take advantage of a lot of the touch-screen capabilities of this device so we' ve gone from sort of the Accelerometer and now we are playing with the touch. What's so great about this is it allows you to customize the game in two different ways.
+First, we are going to customize the game play a little bit so John's going to go in here and using his finger he is just going to go ahead and touch the offensive track and he is going to add in a pair of formidable looking mandibles here on the front of our spore, so you see those appear on the front.
+The next thing we are going to do is we are going to play with a little bit of creative personalization here. On this part it's more about making the spore look cool and interesting and has less to do with the game play but he is going to go ahead and use his finger and just start moving stuff around. So I think he is going to move the eyes forward here and he's just touching and moving these four. This is all we' ve done in about two weeks but if we had a lot of time, you can imagine us stretching this spore out and adding colors and really making this almost like a player for people to personalize their spores. Let's go ahead and bring that spore back into the game.
+I' ll talk a little bit about development. You notice we are moving from level 15 to level 16 and when we first came and we sat down and started working with the framework it took us about two days to get Cocoa Touch up and running. Once we had that up and running, we were then able to bring in our entire game development and got the whole game up and running. So we are only really demonstrating a couple of levels here in the Editor, but we have actually all 18 levels up and running. We have the full Editor. In fact, John and I were sitting here playing and creating all these different kinds of spores and experimenting with what we thought might look interesting to show you all today. It's really a lot of fun. In fact, the Accelerometer was so comfortable we were showing it to a bunch of Apple employees so they could get a sense of it and they really liked playing with it.
+Apple Confidential
+PX-0880.15 APL-APPSTORE 00000069
+
+And lastly we wanted to experiment with the video capability so we threw in a little cut scene here at the end just to show you what we could do by tossing in a video of our customized spore making his way happily out into the world. And that's Spore from Electronic Arts. [applause]
+SF Th a n ks, that's awesome. That was two weeks of work. I'm sure you' ve read a lot about Spore and in two weeks they got all of that up and running on the iPhone SDK. It's fantastic. Now, as you can see, clearly we have a great platform to build games on top of. It's also great for verticals. Salesforce.corn is an innovator. They provide software as a service. In fact, are the world leader in on-demand CRM services that are both customizable and extensible. I'd like to bring up Chuck Detrick to talk you through their experiences with the SDK. Chuck. [applause]
+C Than k s a lot, Scott. Thank you. First I want to thank Apple for inviting us and I also want to say how excited we are to take software as a service to the iPhone and bring our over 63,000 platform applications to the iPhone. This SDK is really powerful. The iPhone has a lot of unique capabilities and our customers are going to love using our applications on the iPhone.
+To show you this, what we did is we took an SFA application, Sales Force Automation application. Now, many of our millions of subscribers use this to manage the contacts, accounts, leads, who they are selling and what they are selling. And with the iPhone, you can imagine them in a taxicab taking out their device and getting a picture of their business day. They' ve got their activities for the day, they can swipe into those, they can use the touch screen to navigate the activities, see what are the details. Sales reps would love, in fact, to use the rich graphics to get a graphical view on where they are at against their monthly sales goals. They'd like if we could use the Accelerometer to shake them into the green on deals but [laughter] we are not going to do that for them. We are not going to give them that functionality yet, but what we will give them is with the iPhone SDK we' ll tap into the really rich reporting and analytics platform of our force.corn applications to give them really detailed graphic pictures on where they are at against each of their key business metrics, and you can see we are using the swipe screen to navigate this, and if people know how to use the iPhone, they are going to know how to use our applications on the iPhone. Since the SDK allows us to store the data on the device, connectivity is not an issue. If they are on the plane, no problem.
+Let's walk you through another example -- opportunities. These are the deals that a sales rep is trying to close. Now, you can see it's in the standard table view that iPhone users are used to. They get a high level overview of each deal. They get a nice graphic view on where each deal is at from a stage perspective, but what's really interesting is the SDK allows us to repurpose the data from sales force on the iPhone.
+Apple Confidential
+PX-0880.16 APL-APPSTORE 00000070
+
+So, as an example, maybe this sales rep wants to see what opportunities are most likely to close or are the greatest amount and wants to resort that data on the device so he knows exactly where he should focus his limited days on. With that, there you go. We' ve got the opportunities sorted by amount on the top and the rep knows exactly where to focus.
+Now also,since the SDK can speak tothe force.corn API, we can use our advance workf low triggers or apex code to actually send more data down to the device when you are in wireless connectivity. In this example, three new leads just came in on the corporate Web site. He can get them on the iPhone, he can open those leads and start responding to them immediately. In this case, Bertha Boxer's the lead and we can use the SDK to tap into the native functionality of the iPhone like sending a phone call or an e-mail, or even more compelling, maybe we want to map where Bertha is relative to where I'm at. Maybe I can stop by and visit her. So we can do this using the mapping functionality. Very cool stuff. [applause]
+What's really amazing is we only had one developer, Jason over here, up here for less than two weeks and he built all this. Now, we have over 70,000 developers developing on our force.corn platform. They are going to love building the next generation of mobile applications on the iPhone. Thank you very much. [applause]
+SF S o , again, one person in less than two weeks. It's absolutely amazing. The next one -- AOL. AOL runs AIM which is the most popular instant messaging service in the United States. We, in fact, integrate with AIM on the Mac OS X desktop with iChat. I'd like to bring up Rizwan Sattar to talk you through their experience with the SDK. [applause]
+R Hi e v e ryone. We are so excited to show you what we' ve been able to create in just two weeks of the iPhone SDK and we are so happy to show you AIM for iPhone. When you start up this application, you are connected immediately to the AIM network and the first thing you see is a list of all of your online buddies and you can see their status messages and their buddy icons. What's really remarkable about this is I never developed on the Mac before. I had never written a single line of Objective C and we came here with absolutely no code for the device, just a spec sheet of how to talk to AIM and we had a live buddy list up and running in about five days. Speaking of live, it looks like Mark has taken the day off, so let's start a conversation with him.
+So this is actually a live conversation happening over the AIM network and we definitely had an exciting moment the first time we were able to run AIM on the deviceand send a message to one ofour buddies and geta response back.It was definitely one of those "Come here Watson" moments. [laughter]
+Apple Confidential
+PX-0880.17 APL-APPSTORE 00000071
+
+Now, if you happen to use AIM a lot, you tend to have a lot of conversations going on at the same time, so we' ve developed AIM to make it very easy to switch between your active chats just by swiping. [applause] And in addition to getting the buddy list and chat functionality working, we actually had time to go and build a Me Panel where we can update our status and let our friends know what's going on in our lives. Normally you do this...l love floor(??)[57:58]. [laughter] Normally you go in here and you set your state and you set your text base status message. Well, we thought wouldn't it be great if we could interact with the phone and literally a dozen lines of code later I can now tap on my buddy icon, bring up the image picker, choose a photo, and when I do it gets uploaded to the AIM network and now everyone who has me on their buddy list will see a new photo to represent me. [applause]
+We are so excited that we were able to do all this in just two weeks with the SDK and we are really looking forward to working with Apple to bring AIM to the iPhone.Thank you. [applause]
+SF Th a nks a lot. Again, it's amazing the progress we have made. A lot of this is because we have great networking APls built in as part of the SDK.
+Next, Hippocrates. Now, every doctor knows all about Hippocrates. Hippocrates creates products that are used by more than half a million health care professionals including 1 in 4 physicians in the United States. I'd like to bring up Glen Keithley to talk us through their experience. [applause]
+G So H i p pocrates is a leading provider of hand-held clinical reference applications for use by physicians at the point-of-care and I' ve been a mobile developer for the last 8 years developing applications for them and I can tell you that developing software for the iPhone is like developing for no other mobile platform. The sensation is that of developing for a much more powerful, stronger, almost desktop-like environment and the main reason for this differentiation is the availability of the Cocoa Touch frameworks. So we were able to prototype our drug list of use screen, seen here, in a matter of days, and then it was quite simple to hook it up to our existing C++ data access classes and that allowed us to populate this list with 3,300 of the most commonly prescribed U.S. drugs.
+Now tapping on a drug takes you through to the drug monograph and monograph is just an industry term meaning a white paper or detailing information about a drug and this is where we were really excited because we were able to take advantage of some of the unique features of the iPhone, like the SQLite database to store our drug formulation information, and the enhanced screen resolution to show pill images on the device for the first time on any mobile platform.
+In addition to this, just adding other separate, simpler content sections, such as adverse reactions, we are able to take advantage of the standard controls, the
+Apple Confidential
+PX-0880.18 APL-APPSTORE 00000072
+
+table view, and adding this screen literally took me an hour. So in addition to this in our clinical content, we are also able to use the core animation backed frameworks to reinvent and reinnovate some of our existing functionality. For example, Hippocrates Multi-Check. Now, Multi-Check supports the case where a physician, or sorry, a patient may be on multiple medications and a physician wants to see are taking those medications together going to result in any harmful adverse effects? So if we assume the patient is taking the medication selected here, we can tap on "add" and immediately it flies in the drug list. The physician can then enter the drug name they want to add, tap on it and the drug list goes away and all that animation is handled for us by the SDK. We didn't have to write a single extra line of code to do that but it does look cool. [laughter]
+So tapping on "check" you can then go through to the interaction results view and you see a list of the interactions associated with these medications grouped by the severity of the interaction. If you like more detail, you can tap on an interaction pairing and that brings you through to the interaction detail view.
+Finally, we were able to take advantage of the richness of the iPhone Ul to prototype some brand new functionality in the form of our drug identifier functionality. Now this supports the case where a patient may come into a doctor's office and say, "Hey, I'm taking this orange 3-sided pill I found but I'm not sure what it is," [laughter] and the doctor can enter those criteria into the Hippocrates Rx application, tap on "identify drug" and they will be brought to a list of matching medications. [applause] The physician can then tap on one of those matches and, again, they are taken through to the multi-check, sorry, they are taken to the monograph view. This is how Hippocrates is leveraging the advanced features of the iPhone to serve its core mission of supporting physician's clinical decisions and enhancing the quality and safety of patient care in the U.S. Thanks, Scott. [applause]
+SF Th a nks a lot. Alright. So Hippocrates. Last, and certainly not least, is Sega. From Zaxxon toSonic the Hedgehog, Sega has been a household gaming name for more than 25 years. I'd like to bring up Ethan Einhorn to take you through what they accomplished. Ethan. [applause]
+E Than ks, Scott. So when Sega and Apple started talking about what games would be great to bring to the iPhone platform, "Super Monkey Ball" was a natural choice. [laughter] When they told us we'd only have two weeks to create a full 3D demo of the game, I thought that was impossible but here it is, thankfully up and running and it looks awesome and we were able to do this because we were working with a terrific, flexible and powerful SDK.
+So the object of Super Monkey Ball is to guide AiAi the Monkey through a series of mazes, collecting bananas along the way for extra lives. It's a really simple concept to pick up on and the controls are easy to pick up on too. All Gordon has to do to move AiAi around is tilt the device. It's such a comfortable, smooth way
+Apple Confidential
+PX-0880.19 APL-APPSTORE 00000073
+
+to play the game that eve if you' ve never played a video game before, you' ll know exactlywhat to do when you pick up an iPhone.
+Now for me, I'm a hardcore gamer so it was really tough for me to wrap my brain around the idea of not playing with analog sticks but after two weeks with the iPhone it's going to be very hard for me to go back and play this on a traditional game controller. This feels like it's always the way Super Monkey Ball was meant to be played.
+So now I'm a console producer and this team, they are a group of console developers so for us by far the most exciting thing was that we' ve been able to create on iPhone the type of game we are used to making. This is not a cell phone game. This is a full console game and if anything we underestimated what the machine was able to do graphically from the start. We had to actually fly in an extra artist to start scaling up the quality of the visuals to match what the output was capable of giving us and that's the best kind of problem that you have to solve on the development side. [applause] Thanks, Scott.
+SF S or e ally, we' ve been working so hard to get this SDK full featured. It has an advanced set of capabilities and we wanted proof from third parties and they came in and blew us away and blew themselves away. I mean, two weeks with two or one developer in one case is amazing what you can create on this. Everything from games, and we think it's a fantastic platform for creating games, to verticals to just wide commercial applications. Now the next question is once you have all of these amazing applications, how do you get them on your phone? And to answer that, I'd like to turn it back over to Steve. [applause]
+S Than k s, Scott. So you are a developer and you' ve just spent two weeks or maybe a little bit longer writing this amazing app and what is your dream? Your dream is to get it in front of every iPhone user and hopefully they love it and buy it, right? That's not possible today. Most developers don't have those kinds of resources. Even the big developers would have a hard time getting their app in front of every iPhone user. Well, we are going to solve that problem for every developer, big to small, and the way we are going to do it is what we call the "App Store." This is an application we' ve written to deliver apps to the iPhone and we are going to put it on every single iPhone with the next release of the software. And so our developers are going to be able to reach every iPhone user through the App Store. This is the way we are going to distribute apps to the iPhone.
+So let's take a look inside the App Store. It's got the five buttons across the bottom so we have a Featured section, which is the ones we are featuring. Just added staff favorites. We' ve got Categories here if you want to find a game, if you want to find a business application, you want to find an application about finance, as an example. Easy to find stuff and browse the different categories. Of
+Apple Confidential
+PX-0880.20 APL-APPSTORE 00000074
+
+course, we' ve got our top downloads, top 50 in this case, where I can see what the most popular apps are being downloaded. And, if I know what I want, I can easily search for something, in this case a Backgammon game, and instantly find it. I can tap on it, get some screen shots and get a write-up on it. And if I'm interested in using it, this one happens to be free, I just tap up there and I tap the "install" button and the app is wirelessly downloaded to the iPhone using the cell network or Wi-Fi. It's that simple to put the app right on the phone.
+Now we' ve also built a section into iTunes where you can peruse all the apps as well, and you can download them right to your computer, a PC or a Mac, and side load them right into your iPhone as well, but we think most people are probably going to just use their iPhone and do it over the air right to the iPhone.
+So this is pretty cool, but it goes even further. If you' ve downloaded an app and the developer has updated that app, the App Store will automatically tell you that there is an update available and, if you are interested, you just tap on the App Store, it takes you to the Update section, shows you the app that's been updated, you can see exactly what's been updated. If you like it, tap the Update button and your app will be replaced by the updated version, again, over the air, all automatically.
+So we think this is pretty cool and the App Store is going to be the exclusive way to distribute iPhone applications directly to every iPhone user.
+Now, developers are going to ask, "Well, this is great but what's the deal? What' s the business deal?" We think we' ve got a great business deal for our developers. First of all, the developer picks the price. Pick whatever price you want to sell your app at. When we sell the app through the App Store, the developer gets 70% of the revenues right off the top. We keep 30 to pay for running the App Store. There are no credit card fees for the developer. We take care of all that. There are no hosting fees. For us hosting the app we take care of all that. There's no marketing fees. The developer gets 70% of the revenues and it's paid monthly. This is the best deal going to distribute applications to mobile platforms.
+Now, we talk about the 70/30 revenue split but the developer gets to pick the price and you what price a lot of developers are going to pick? Free, right? So when a developer wants to distribute their app for free, there is no charge for free apps at all. [applause] There's no charge to the user and there's no charge to the developer. We are going to pay for everything to get those apps out there for free. The developer and us have the same exact interest which is to get as many apps out in front of as many iPhone users as possible.
+Now, will there be limitations? Of course. There are going to be some apps that we are not going to distribute -- porn, malicious apps, apps that invade your privacy. So there will be some apps that we are going to say no to but, again, we have exactly the same interest as the vast majority of our developers, which is to
+Apple Confidential
+PX-0880.21 APL-APPSTORE 00000075
+
+get a ton of apps out there for the iPhone and we think we' ve invented an incredibly great way to do it, which is the App Store. It's going to reach every single iPhone user.
+So, we' ve talked about some amazing new capabilities for enterprise customers and we' ve talked about the SDK. How are we going to deliver this stuff? Well, both of these are going to be delivered together in one software update -- the iPhone 2.0 software update. So let me tell you about that.
+It's going to again combine the SDK plus all the new enterprise capabilities. There's a beta release going out today. The beta release is going to be in the hands ofthousands of developers and hundreds ofcompanies. We need the feedback. We need to work with enterprises and make sure that all of their configurations for Exchange work great. Of course, we want to continue working with developers and get all of their fantastic feedback and we are going to ship this to every iPhone customer in June and it's going to be a free software update. So that's how we are going to roll this out. [applause] In just a few months every iPhone user is going to have everything you saw today right on their phone as a free software update. So we are very, very excited about this.
+Now there's one other part to this as well. It's not just the iPhone. It's the iPod Touch. The same software release is going to run on the iPod Touch, so developers that develop games or other applications for the iPhone, they are going to run on the iPod Touch as well and all the enterprise features are going to be available on the iPod Touch.
+Now, we account for the iPod Touch a little bit different than we account for the iPhone so there will be a nominal charge for that update, but otherwise it will be exactly the same as the iPhone. So this is our roadmap for the iPhone software, and we think a lot of people, after understanding where we are going, are going to wanttobecome an iPhone developer,so how do you become an iPhone developer? It's really easy. You can go to our Web site, probably starting in about an hour, and download the SDK for free. You can run the Simulator on your Mac and develop your app right on a Mac.
+In addition to that, you can join our iPhone Developer Program if you want to run the app on an iPhone or an iPod Touch, and if you join the Developer Program, again you can test your code on an iPhone or an iPod Touch. We' ve got great technical support and you can distribute your app to every iPhone and every iPod Touch user, right? And to join the Developer Program costs just $99.00, so this is really aggressive. [applause]
+If you have any questions about anything, just give us a ping at developer. apple.corn. You' ll be able to go to the Web site within an hour and learn all about it and we are very excited about our Developer Program for iPhone.
+Apple Confidential
+PX-0880.22 APL-APPSTORE 00000076
+
+So, that is our software roadmap and we hope you are as excited about it as we are. We think this is incredible. So thank you very much for coming today.
+We do, though have [laughter] one last thing. The premier venture capital firm in the world is Kleiner Perkins Caufield and Byers and it is my great pleasure to introduce to you the most well known partner of Kleiner Perkins, John Doerr. John. [applause]
+J Than k you. We are all here today because we love Apple product and I'm here because I really love Apple entrepreneurs. I like to talk about entrepreneurs this way. Entrepreneurs do more than anyone thinks possible with less than anyone thinks possible. Entrepreneurs are the risk takers. They are the revolutionaries, they are the rebels, and so it's particularly touching for me to be here today with the supreme commander of the rebels, [laughter] my friend Steve Jobs.
+By now you all know the story. In 1976 Steve started Apple and the whole personal computer industry and then along the way Steve left Apple, went downhill fast. What's remarkable is this entrepreneur returned and resurrected Apple to greatness, and in his spare time at the same time, he bought, built and ran Pixar, literally defining the computer animated film industry. It's really pretty amazing.
+So on this special day, my friends, please join me in a salute for the world' s greatest entrepreneur, Steve Jobs. [applause]
+Entrepreneurship, then, really matters. The computer scientist and Apple Fellow, Alan Kay, is famous for saying:
+"The best way to predict the future is to invent it."
+At KPCB we like to say:
+"The second best way is to fund it." [laughter]
+So today we are very proud to announce the iFund for the iPhone platform. New platforms are very rare but they can be transformational if they are about great products with robust APls, powerful distribution, outstanding entrepreneurs, and usually a little help from VCs. So we gave a lot of thought of what the size should be of this iFund and, you know, it took a couple of million dollars to start Electronic Arts, $8 million to start Amazon, $24 million to start Google, so we decided the iFund should be $100 million. [applause] That should be enough to start about a dozen Amazons or even four Googles and if we are running out of money, we will look around to try and find some more.
+Now, you know the Mac and the iPod are truly amazing platforms. There's over a million developers on the Mac and over 5,000 independent products for the iPod.
+Apple Confidential
+PX-0880.23 APL-APPSTORE 00000077
+
+Today we are witnessing history, that's the launching of the SDK, the creation of the third great platform, the iPhone and the iPod Touch. Think about it. What the iPhone is all about is in your pocket you have something that's broadband and connected all the time. It's personal. It knows who you are and where you are. That's a big deal, a really big deal. It's bigger than the personal computer.
+So, it's about this great opportunity, but more than the money, it's really about the people. It's about the entrepreneurs. It's about the great team at Apple, and most of all, it's about the great talent that we can recruit together and to go build these amazing companies.
+This iFund is going to be led by my partner, Matt Murphy, who is here today, together with Chi-Hua Chien, Bill Joy, Randy Komisar, Ellen Pao, Ted Schlan, and me. We areallhere today and we are on the Web at KPCB.corn.
+I' ve got to tell you there's never been a better time than now to create a new company for a revolutionary new platform and so my message to the entrepreneurs of the world is:
+If you want to invent the future, the iFund wants to help you build it.
+I can't wait to see the great new companies that we build together. Thank you. [applause]
+S Tha n k you, John. We really look forward to working with you guys to do just that. It's very exciting.
+So this is what we had for you today. We' ve got some refreshments outside for everyone, and if I could ask the press to just stay here for a few more minutes. Thank you very much for coming and we' ll be talking a lot more about this over the next few months. Thank you. [applause] S If w ecould get the press to take their seats and everybody else can get some refreshments outside.
+We wanted to just to a little QLA if you have any questions for 10 minutes or so and try to answer them if you do.
+Q Wha t is the $100 million do for this iPhone community? Can you talk about that?
+S Wha tis the $100 million do for the iPhone community? I think the $100 million is because Kleiner Perkins believes that there is an opportunity to invest in a lot of small companies that are going to jump on to developing for the iPhone and we think it's fantastic because we love young developers, young, innovative developers developing their applications and a lot of them need funding and this is going to help them a lot. Kleiner Perkins loves it because that's the business they are in too is finding young entrepreneurs with talent and funding them and
+Apple Confidential
+PX-0880.24 APL-APPSTORE 00000078
+
+hopefully these companies grow into larger companies so I think it helps the whole ecosystem surrounding the iPhone and the developer community.
+I'm sure a lot of applications will be written for the business world. Do you think that RIM should be worried and what is the message for them?
+Well, you should go ask them. I have no idea what they...
+What'sthe message you are sending them?
+We are notsending them a message. We aresending customers a message and developers a message that we are going to try to serve their needs. We went around and asked a lot of enterprise customers what they wanted and that's where we got our list from. We didn't make it up ourselves.
+Exactly right. This is about addressing what customers want and making the best product ever for enterprise customers because we listen to them and we move quickly to make a killer product. That's what we are doing.
+Remember, the iPhone has been out for less than a year. This stuff is going to be shipping right around the one-year anniversary of the iPhone to every iPhone user as a free software update, so we' ve been moving pretty fast. Scott and his organization have been busy. [laughter] Yes, sir.
+What sort of safeguards have you built in to make sure that all these apps and applications that are going to be coming on to the iPhone are secure?
+Well, that's a good question. The question is what have we done to make sure that these applications are going to be secure and don't violate user privacy and other things that they could do technically? And this is a big concern. It is a dangerous world out there. There are mobile viruses of all sorts that people have to put up with and so we' ve tried to strike a really good path here. On one side you' ve got a closed device like the iPod, which always works. You pick it up, it always works because you don't have to worry about third party apps mucking it up. And on the other side you' ve got a Windows PC where people spend a lot of time every day just getting it back up to where it's usable and we want to take the best of both. We want to take the reliability and the dependability of that iPod and we want to take the ability to run third party apps from the PC world but without the malicious applications. So how are we going to do that?
+The way we are going to do that is that the developers have to register with us and for that $99.00 that they pay to join the program, they actually get a electronic certificate and that tells us who they are so if they write a malicious app, we can track them down, we can tell their parents [laughter] and we will know who they are.
+Apple Confidential
+PX-0880.25 APL-APPSTORE 00000079
+
+The other thing that we can do since the distribution of their applications is going to be through the App Store, if we are alerted to a malicious app that we didn' t catch, we' ll turn off the spigots so no more people download it. So we are putting
+controls in place, some of which we are talking about here today and others which we' ll just keep to ourselves for now to keep the iPhone a great experience for users. But we put a lot of thought into this and I think it's a real problem. You
+have anything to add to that?
+
+SF T e c hnically we are putting a number of different things in place from sandboxing
+to other technical things you want to do to protect applications and the system, but primarily we are actually, when people submit their applications, we will make
+sure that it's not doing things it shouldn't be doing. Legally you are obligated not to do those things as part of the limitations and so we think both technically and on the other side we can really, you know, protect people and we will.
+
+S We'll do the best job we can and we' ll learn as we go.
+
+Q So i t ' s not going to be as secure as a closed iPod platform just by definition [inaudible].
+
+S That ' s correct but we think we' ve put in good safeguards where if we miss something we' ll be alerted to it real fast by users and we' ll just turn off the spigot so no more users have problems and we' ll, again, go talk to that developer's
+parents and get them to... Sir.
+
+Q
+
+voiceover IP application
+
+[inaudible].
+
+S Sure. The initial take on it, and this could become more liberal in the future. The initial take is that we will only limit voiceover IP applications over the cellular net. If you want to develop them...
+
+Over Wi-Fi.
+
+S No, we' ll limit them over the cellular net. We' ll allow them over Wi-Fi, so if you want to write one, it works over Wi-Fi, that's fine.
+Q When you say limit, does that mean you won't be able to use them at all over the cellular network?
+
+S Corr e ct. Initially that is correct. Sir.
+
+Q Tha t ' s me. I will take it. Can people choose multiple sync methods for their iPod? In other words, let's say you select Exchange but will you also be able to choose...will the user be able to use iCal, the Macintosh syncs services as well?
+
+P Yes.
+
+Apple Confidential
+
+PX-0880.26 APL-APPSTORE 00000080
+
+S You can have multiple e-mail accounts. You can have multiple calendar accounts,multiple contacts databases so you may have Exchange atwork and you may want Gmail as well for some of your personal stuff.
+SF There are certain limitations. You can only have one Exchange account set up at once, otherwise they start colliding in different ways, but we do allow multiple of other accounts.
+Q Isn't the fact that Apple is going to be the exclusive distributor for all these applications raise some questions about monopolies and so forth? What if a developer doesn't want to distribute through the App Store?
+S Then they won't be able to distribute their app on the iPhone but we don't think that that's going to be the case with almost every developer. Remember, the developer wants to get their app out in front of every iPhone user and there is no way for even large developers to do that, much less small developers. So we think this is going to be boon for developers and that they are going to love it.
+Q And there just will be no way for somebody, for example, to distribute an app that could be loaded over, say, a Mac hardwired as opposed through the App Store?
+S They can load applications, they can download applications from a version of the App Store, which is going to be built into iTunes on their Mac or PC and then side load it into their iPhone if they choose to.
+Q But there wouldn't be a way for them to distribute it without iTunes or App Store.
+S Correct.
+SF And to be clear, though, Web applications are still fully supported so any Web application can continue to be built, which we are improving upon as well. It doesn't go through the store, not a native application.
+S And also, just to make it a little clearer, we don't intend to make money off the App Store. I mean, we don't make a lot of money off iTunes and the split with the music companies is about the same, so in the case of the iTunes Music Store, we give all the money to the content owners and we are basically giving all the money to the developers here and if that 30% of it pays for running the store, well that will be great, but we just want to create a very efficient channel for these developers to reach every single iPhone user.
+When I think about the class of developers that will be using this store, I think we' ve really come up with the best model for the two big important classes. One is imagine you are just a free developer. You want to get it to everyone for free. Well, there's no better way to get it to everyone for free and we' ve enabled that and it's literally the best way, so for those developers, it's the best.
+Apple Confidential
+PX-0880.27 APL-APPSTORE 00000081
+
+If you want to generate some revenue and drive revenue for your app, we have now a great, secure revenue model. We' ve already proven what a great revenue
+model we can drive in iTunes in its capabilities and now we are building an App Store with an incredible service and support from the back-end of having high volume transactional servers that know how to handle all that and so you are not
+going to find a better revenue generating store either. So I think for both classes, which is all developers, it really is the best choice.
+
+Most developers don't have a store to sell their app on their Web site and so this will provide them all of that and, as Phil said, if they want to give their app away, there's no better way to do it than just put it out there for everybody through the
+App Store. It doesn't cost anyone anything. Yes, sir in the back, brown sweater.
+
+Ryan from Mac Gadget. Will SIM or Carrier unlock software that would make the iPhone usable on a carrier other than the one it's bound to for each country that it's released in? Will that be considered software that won't be allowed in the App
+Store?
+
+Yes. [laughter] Sir, over there.
+
+How much will the software update cost for the iPod Touch and, as that product evolves, are you going to have to change your accounting treatment for that to really see it flourish?
+
+Again, the way we account for the iPhone is with subscription accounting so we actually take the revenue over two years. Help me if I'm getting this wrong, Peter. The way that we account for our iPods is more normal accounting where we take
+the revenue when it's sold. So because of the way we account for it, we do have to charge a nominal fee for updates to the iPod Touch and I don't see that changing.
+
+What is it now?
+
+We' ll set it when we release the software for the iPod Touch in June but it's not in our interest. We don't look at this as a profit opportunity. Sir, right there, yeah. One after the other. Work it out.
+
+Thanks. Steve, what do you see as the IT ease-of-use so that our IT managers can convert from BlackBerry to iPhone?
+
+Phil, you want to take that?
+
+A number of things that we describe. First of all, because we are using the
+
+Exchange server with the built-in
+
+[12:45] protocol, it's built on the
+
+Apple Confidential
+
+PX-0880.28 APL-APPSTORE 00000082
+
+technologythey know how touse and they have in-house. That's great and there's less servers to manage in-between that so it's actually easier to use.
+
+Secondly, we have some tools that we are going to give IT managers that allow them to configure all those devices and they can configure them from a number of ways. The tools allow them to do it via e-mail or through a secure Web site so
+they can make it very simple to automate the process of setting up all those iPhone.
+
+S Let's have Scott describe that.
+
+SF We' ve created this really nice mechanism we are calling "Profiles" and you can create it, you know, so your IS department can create profiles individually automatically on a server as an employee logs in and it can dynamically create for their Exchange set up. It can create the VPN settings, it can create security requirements like PIN code settings. This whole host of things. Certificates can come down, multiple certificates, you know, company certificates, all of these things come down as literally a single tap on a Web page, comes down, installs on your phone. Now they know it's your phone based on the certificate and everything. They know it's your phone. Everything is now configured. So it' s incredibly simple.
+
+S There's never been anything like this for a mobile device.
+
+SF Yeah, and so moving from a BlackBerry to an iPhone will be configuration dirt simple. There's also tools that can plug it into a computer if they want. They can do it on the Web, they can send an e-mail to someone, there's all these mechanisms but at the heart of it, it's a single profile which does everything for you.
+
+On top of that, because of the SDK, we think that IT departments are going to
+absolutely love this because there's a lot of applications they want to write for their enterprises and now there's a mechanism, and on top of this we now have
+Cisco IPsec built in, we have certificate VPN built in, so you can automatically log in to your corporate network using one of your corporate applications inside the firewall securely running any application you want that our IT department has
+provided, so we think the possibilities here for enterprise from all the Exchange pieces all the way to writing custom software that securely talks to the enterprise, there's nothing like it.
+
+By replacing, if you will, the BlackBerry knock QS will be degraded?[14:58]
+Oh no.
+
+instant push performance
+
+Apple Confidential
+
+PX-0880.29 APL-APPSTORE 00000083
+
+SF Absolutely not. It's actually faster because it goes directly. The way the knock works right now is you get a push from Exchange to the server inside your company to the server outside your company to you. On this it goes directly.
+
+S And it gets really slow when the knock goes down. [laughter] The other thing that we haven't been able to figure out is why aren't CIOs really worried about
+security? In other words, every e-mail message that's sent to a RIM device, or from a RIM device, goes through a knock up in Canada. Now, that provides a single point of failure but it also provides a very interesting security situation
+where somebody working up at that knock could potentially be having a little look at your e-mail and yet no one seems to be focused on that. We certainly are. We think that a direct connection is maybe a little more secure. Yes, sir.
+
+Q A couple of questions. First real quick. Is this an international rollout or U.S. only? And the second question is is there anything from preventing you from
+creating an open-source application?
+
+S This is an international rollout. Everything we do will be in all the countries we are in with iPhones. This is not an open-source project. This is a for profit project. Even though we are providing this as a free software update to all the iPhone
+customers, hopefully people will think iPhones are even more valuable and buy more of them. Yes, ma' am.
+
+Q
+
+[inaudible 16:49] additional cellular types of connections or
+
+WiMax, anything like that?
+
+S We are not here to talk about hardware today, really just the software roadmap. Yes, way in the back, ma' am.
+
+Q [inaudible]
+
+S Yes, how would an enterprise distribute their internal applications to their iPhone users?
+
+In addition to all that we have described of how the App Store works, we are working on a model for enterprises where they can securely deliver applications
+just to their end-users in a very protected way so we are going to enable this not only for the broad base of developers but also for enterprise class developers specifically with a program for them to target delivery to their end-users, so we
+have a model we are building for that as well.
+
+S Sir.
+
+Q Scott or
+
+[17:50]. If CIOs and IT organizations, being what they are,
+
+some of them might feel like gee, I really don't want my employees going into the
+
+App Store and buying all these games and such and putting them on the phone.
+
+Apple Confidential
+
+PX-0880.30 APL-APPSTORE 00000084
+
+Will you give the IT organizations the ability to go in and disable any of the functionality that would come on the iPhone or the iPod Touch?
+S You know, I hope we have that problem. I don't know. We could. We haven' t really thought about it. I'm sure as we interact with a lot of these enterprise customers during the beta program if that's a big concern of theirs, we' ll hear that feedback and address it.
+SF So one thing we actually have added in this release that's going out that we didn't talk about is parental controls and so with parental controls you have the ability to turn off things like Safari or the App Store or You Tube or a whole set of different apps so that people who want to give their kids an iPhone or an iPod Touch but don't want them going to You Tube that's available as one of those facilities and so potentially, if that's an issue, we could consider that for enterprise as well.
+S Yes, ma' am.
+Q I have two questions. It's Ellen with The Chronicle. What made you change your mind from last year and also how are the apps going to be managed in the store in terms of is there a waiting period before they are actually available to customers, or are they going to automatically be available once someone develops it?
+S So the first part, change our mind from last year. Well, we all at Apple change our minds a lot I guess from time-to-time, but I don't really know what you are talking about.
+Q When you were talking about only allowing Web applications, going from Web to SDK.
+S Oh, I see. You know, I think the Web applications have worked really well for what they do but developers did give us the feedback that they wanted to do even more, that they thought this platform that we created was revolutionary and they really wanted in and we heard that and we' ve been working on this. To create an SDK is a lot of work because once you give it to developers, you want to live with it for the next 20 years, right? And you want to be able to evolve what's underneath it without changing the APls and breaking their apps. So I think Scott and his team have done just a masterful job of creating a really elegant, pristine API. Apple's very good at this. It's done it a few times before and I think we' ve got something that's really great.
+SF The attention to detail for the SDK has been unbelievable and the team has just worked tirelessly literally going through single API calls for 10 iterations to make sure every single one is perfect. It's a huge team that really concentrated on that and every one cares deeply about it and so what we have here is a set of APls
+Apple Confidential
+PX-0880.31 APL-APPSTORE 00000085
+
+that we can live with and can do the kind of things that you saw the third party developers do in two weeks today because it's really powerful but we care deeply about just nailing those APls and getting them just right.
+On the second part, I' ll address that. We have actually built a brand new program. This iPhone Developer Program is a brand new program specifically designed for this entire process we have described today and, while Scott's team been really hard at work on building this SDK, our developer relations team in parallel has been hard at work working with the iTunes Store team to build a new process for developers to electronically submit and securely submit their applications, get the put into the store in a very quick, efficient process, so we' ve built up a whole new process just to do that and I think developers will be really pleased with how it all works.
+S One or two more and then we' ll all go get some... Yes, over in the corner there.
+Q Hi, I just wanted to know what the relationship is with the carrier. Traditionally, up until now, apps have been released through the carrier DEC and so I'm wondering if you are working with your carrier partners at all, whether it's through a billing relationship or any sort of distribution going forward or I saw that bandwidth might be a concern too with...?
+S We have great relationships with our carriers and we struck a new kind of relationship with our carriers where Apple's responsible for the software on the phone and so we define the software on the phone. We are running the Developer Program. We are distributing the apps. You have an iTunes account with your credit card to pay for them if you want to buy them and really this is our program and we are running it.
+Q They won't be getting a revenue share at all?
+S We don't go into our financial arrangements with our developers but generally we like to see the money flowing the other direction. Sir.
+Q I didn't see anything about it during the event but do you have any plans on letting developers interface with dock-connected accessories?
+SF You are talking about the 30-pin connector? So in iPhone 2.0, the version that goes out in June, there will not be APls to talk through the dock connector, differently than what we have right now, right? So right now there is a made for iPod and made for iPhone programs and through an IP mechanism and so that will continue to be the mechanism to talk through dock-connected devices.
+S Well, thank you very much for joining us today. We really appreciate the chance to roll this out to you. Thanks. [applause]
+Apple Confidential
+PX-0880.32 APL-APPSTORE 00000086
+
+[End of recording]
+
+Apple Confidential
+
+PX-0880.33 APL-APPSTORE 00000087
+
+

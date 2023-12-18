@@ -1,0 +1,9767 @@
+United States District Court
+
+«I
+
+NorthernDistrictofCalifornia
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games,Inc.v.Apple, Inc.
+
+Exhibit No. DX-3441
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+Android to iPhone Switcher Study
+US, Ul<,France, Germany, Japan, and China
+
+APPI(~ Mr3rket RP...Sec3.,FCI'I At AFIt3I'g'SIS I""I(."! Id('.!d 56,...pf.('..mb(-,'..r 201,.3
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.001
+
+Alt joj i CU Nj.'jDE:NT IAL
+APL-APPSTORE 10338528
+
+Why this report?
+
+The purpose of this study is to better understand the key drivers
+and barriers of switching from an Android smartphone to an
+iPhone.
+Topic areas of this report include: · Basic switcher and potential switcher statistics · Barriers to switching
+· Brand perceptions
+· Satisfaction · Drivers of switching · Brand associations · Set up and migration
+· iphone features
+· Satisfaction with features
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.002
+
+APL-APPSTORE 10338529
+
+Methodology
+Android to iPhone Switcher Study
+
+Who did we survey?
+"Switchers:" iPhone owners who replaced an Android smartphone, and "Potential Switchers:" Android smartphone owners who are seriously considering an iPhone for their next smartphone
+8%Aftfid they buy?
+Switchers purchased their iPhone within the past 9 months.
+Potential Switchers were planning their next smartphone purchase in the next 6 months and have owned their current Android smartphone for over 6
+W4iah.products
+Switchers acquired one of the iPhone models below.
+Potential Switchers had to have been most seriously considering an iPhone 5s,iPhone 5c, iPhone 6, iPhone 6 Plus, or a 'new iPhone model not yet launched.'
+
+iPhone 6 Plus
+
+iPhone 6
+
+iPhone Ss
+
+Where?
+US, UK, France, Germany, Japan and China
+How did we reach them?
+The survey was fielded from August 1 thru September 8, 2015 using sample from consumer internet panels. Compared with the general population, Internet panels over-represent urban and metro areas and affluent consumers with Internet access.
+Other notes
+Data for which the base of respondents is less than 50 is not reported and noted as "small base." To simplify reporting, chart labels for values under 3% may not be shown. The term "Top-2 box" refers to the total of the top 2 results in a 5-point scale. Totals, sub-totals, and nets may be off by a point or two due to rounding.
+Other key screening criteria: Respondents were required to be 14 years old or older. Potential Switchers must have actively researched iPhone in the context of their next smartphone purchase.
+Apple worked with db5 to conduct this study.
+
+iPhone Sc
+
+iPhone 5
+
+iPhone 4s
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.003
+
+APPLE CONFIDENTIAL 3
+APL-APPSTORE 10338530
+
+·
+
+·
+
+·
+
+»
+
+Ii i
+
+S
+
+gS S
+
+· a
+
+I
+
+Maximum difference (Max-Diff) technique
+
+· We used a statistical technique called "Max-Diff" to quantify the drivers of switching from an
+Android smartphone to iPhone. Max-Diff is used when a higher degree of differentiation is desired when measuring the importance of attributes, and when understanding the relative difference across attributes is helpful.
+
+· In this study, respondents answered questions that forced trade-offs between statements
+(representing potential drivers of switching). Answers to these questions were used to calculate an Importance Index for each attribute. Importance Index scores are indexed to 100 = average (e.g. Importance Index of 200 is twice as important as 100).
+
+· Switchers answered the question below 15 times but were shown a list of 4 attributes (out
+
+of 29) that varied according to a mathematical design. Potential switchers followed the same
+
+p
+
+6 I "' '" ' " " " ' '" " ' "" '" ' "'" ' ' " " " '" """ " ' " ' " ' ' " " '
+
+I C II I.
+
+Large screen Camera takes high quality pictures Fast smartphone iMessage text messaging with family and friends
+
+Next Page
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.005
+
+APPLE CONFIDENTIAL 5
+APL-APPSTORE 10338532
+
+The top drivers of switching to iPhone are reliability
+
+and speed, followed by quality device construction,
+
+durability and battery
+Importance Index (among Switchers)
+
+~ Reliabilit fe . g. c r a shes and freezes less) ~ L on batter l i f e
+Fast smartphone
+Durability Hi h u alit d evice construction Op~eratin system that is alwa s up-t o - d ate ~Hi h quality screen Better r i va c o f m e rso n a l information C amera takes hi h u a l i t ict u r e s OS that delivers a consistent experience across smart ho ne
+Good value for the money M anufacturer has good service and su o r t Better securit Works well with other technology~roducts, services and
+Features that are easil l e arned Intuitive o eration Manufacturer continues to innovate ~ Ph ~sisal adsearance and design A ccess to better quality a s Easy to holdand o crate in my hands Lar e screen Sim le online backup (to protect data from loss) and sync
+Is a smartphone I'm proud to own Ease of mig~ratin fi le s from other devices (eq., old
+crimpleex erience where eve~thing is alread~set up for me
+FaceTime video calling with family and friends ~ Man e odsle I know haveht~is smart ho ne
+Lar e selection of available music and video
+
+US
+171 162 160 158 145
+121 121 129 115 115. a 194 88 85 83 82 82 81
+75 73
+59 55 49 29
+
+UK France Ger m an y Ja p a n Ch ina
+
+L ty & » hy Et g&R S R
+
+:
+
+139 ~ 16 ~ 0 ~ I'6~
+
+&17&
+
+13 9
+
+12 1
+
+140
+
+1 53 ~ 158~
+
+117
+
+114
+
+123
+
+1
+
+195
+
+86
+
+110
+
+105
+
+80
+
+100
+
+a105
+
+90
+
+60
+
+· s
+RE%
++ % B E R RY
+~ 5~3 ~ 58
+
+8 5 i 94
+
+12 6
+
+134
+
+14 5
+
+98
+
+54
+
+13 2
+
+i l '8
+
+I04
+
+19.9
+
+131
+
+14 1
+
+59
+
+10 7
+
+97
+
+191
+
+89
+
+13 3
+
+48
+
+81 a 199a R 1 29 1 1 2 R 8 0
+
+82
+
+46
+
+90
+
+98
+
+192
+
+121
+
+91
+
+82
+
+119
+
+64
+
+98
+
+144
+
+144
+
+80
+
+80
+
+51
+
+74
+
+73
+
+83
+
+86
+
+88
+
+57
+
+47
+
+57
+
+48
+
+71
+
+52
+
+27
+
+18
+
+30
+
+81
+
+84
+
+44
+
+52
+
+54
+
+22
+
+10
+
+33
+
+39
+
+38
+
+18
+
+34
+
+20
+
+30
+
+481
+
+470
+
+186
+
+286
+
+451
+
+467
+
+Index: 191-125 1 2 6 - 15 9 1 5 1 - 7 5
+
+·
+
+Base: iPhone owners (switchers) QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone?
+
+APPLE CONFIDENTIAL 6
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.006
+
+APL-APPSTORE 10338533
+
+The top drivers of switching among potential
+switchers are similar to those for switchers
+
+Importance Index (among Potential Switchers)
+
+~ Reliabilit fe . g. c r a shes and freezes less) ~ L on batter l i f e
+Durability
+Hi h u alit d evice construction Fast smart ho ne Better p~rivac ~of m p e r sonal information Cood value for the money
+Hi h ualit screen
+~oe r a ti n s y s tem that is alwa s u -to-date
+Better security
+Camera takes hi h ~ualit p i c t u res OS that delivers a consistent ex er ience across smart ho ne M anufacturer has o o d service and su o r t Works well with other technology~roducts, services and
+Features that are easil l e arned E as to hold and o crate in m h a n d s Lar e screen Intuitive o eration
+~Sim le online backup (to protect data from loss) and sync Physical appearance and desi n
+~ Ease of mi ~ratin fi l e s from other devices (ect. old Access to betterqualit a s
+Manufacturer continues to innovate Elm~le ex erience where everything is already set up for me Is a smart hone I'm r o u d to own iMessa e text massa ing with famil a n d f r iends
+FaceTime video calling with family and friends tarcaeselection of available music and video Man e o l e I know have this smart hone
+
+US
+· a
+164 156 150 142 1:3'9 127 122 116 R 112 84
+75 75 73 72
+60 58 55 41 38 31 24
+
+UK France Ger m an y Ja p a n Ch ina
+
+g17~ 51 gER LEM« C
+ted
+14 7
+12 0 12 6
+10 3
+91 80 99 75 74 80 73 77
+47 77 30 31 30 21
+
+·
+
+·
+
+161
+
+·
+
+: . · 16~1 ~ 16~ S
+
+:
+
+· V >y&E R B i R
+
+t y & 4R P S K %8 $ RR
+
+Eye ~ t s~ g · EE Me R B R
+
+16.6. ~ 15~ 4 13 9
+
+13 9
+
+16O ~ 1~ 5 7 12 7
+
+i 89
+
+1 10
+
+1 18
+
+95
+
+98
+
+111
+
+13 5
+
+140
+
+87
+
+53
+
+77
+
+71
+
+72
+
+90
+
+115
+
+59
+
+119
+
+88
+
+79
+
+104
+
+134
+
+154 a l ol g t
+
+100
+
+83
+
+37
+
+89
+
+94
+
+80
+
+89
+
+70
+
+84
+
+79
+
+75
+
+77
+
+88
+
+74
+
+71
+
+40
+
+86
+
+113
+
+59
+
+42
+
+45
+
+73
+
+41
+
+32
+
+53
+
+32
+
+22
+
+37
+
+43
+
+20
+
+19
+
+15
+
+21
+
+19
+
+17
+
+10
+
+31
+
+13
+
+24
+
+483
+
+470
+
+276
+
+339
+
+261
+
+461
+
+Index: 101-125 1 2 6 - 15 0 1 5 1 - 7 5
+
+·
+
+Base: Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone smartphone?
+
+APPLE
+
+CONFIDENTIAL 7
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.007
+
+APL-APPSTORE 10338534
+
+Switchers assign more importance than do
+
+potential switchers to ease of use, innovation,
+design, and better quality apps
+Importance Index: Differences between Switchers and Potential Switchers
+
+~ geliahilit Qe.ch crashes and freezes less) L ong~hatter l i f e Fast smartphone
+Durability High qualit d e v ice construction Operatin s s t em that is always up-to-date
+Hig~huahty screen · atter privet~of m er s o n a l information C amera takes hi h u a l i t ict u r e s OS that delivers a consistent experience across smartghone
+Cood value for the money Manufacturer has good service and sup o rt Better securit
+Works well with other technology~roducts, services and Features that are easil l e arned Intuitive o eration Manufacturer continues to innovate
+Physical a e a r a nce and desi n Access to t>atter g~ualit agps
+E as to hold and o crate in m h a n d s Large screen Simple online backup (to protect data from loss) and s nc Is a smartghone I'm r o ud to own
+Ease of mi~ratin fi l e s from other devices (eg., old iMessa e text messa i n w i t h f a mily and friends gim le ex erience where eve ~thin ~ i s alread set u f o r m e Faceyime video calling with family and friends
+Man~c o l e I know have this smartphone Lar e selection of available music and video
+
+US
+
+UK France Ge r m any J a pa n Chin a
+
+I+ + 10 pts. higher than other gr++$0 pts. higher than other gr+~ 3 0 + p t s . higher than other grf
+
+·
+
+·
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone? (Switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone
+
+smartphone? (Potential Switchers)
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.008
+
+APL-APPSTORE 10338535
+
+·
+
+·
+
+Smartphone brand associations
+
+· A brand association question was asked to understand how iPhone smartphones compare to key competitive smartphones on the same dimensions tested in the Max-Diff exercises
+
+-- Respondents could select up to 10 dimensions per smartphone brand, to understand key brand associations
+
+-- The same dimension could be associated with multiple smartphone brands
+
+-- Switchers were shown three brands: iPhone, the brand they switched from, and the top
+brand from the priority list below that was their 2nd choice when switching to iPhone (or the top brand, if none considered)
+
+-- Potential Switchers were shown three brands: iPhone, the Android brand they currently
+
+own, and the top brand from the priority list they are seriously considering for the next
+
+p~gy.g@gpne (or+e top brand<jf none co~jgl@red) Germayn
+
+Japan
+
+China
+
+1
+
+Samsung
+
+Samsung
+
+Samsung
+
+Samsung
+
+Sony
+
+Xiaomi
+
+· This allows us to ~jj how iPhojeonyp e rforms" Sao~qainst compeontyitive brand@'a,rpon the dirrwueawnesiions
+
+\rAl ·r ·iiVl i·n· n· Q
+
+c i hl i t r - h i n n
+M V V · %M · · · · ·
+
+LG
+
+Nokia
+
+Nokia
+
+Nokia
+
+Fujitsu
+
+Le novo
+
+4
+
+Motorola
+
+LG
+
+LG
+
+LG
+
+Samsung
+
+Samsung
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441. 01 0
+
+Al>j>I i
+Col'~rlL3I.:I"~TIAI,. X
+APL-APPSTORE 10338537
+
+Items related to performance, camera, screen,
+
+design, and construction, top the iPhone
+
+associations for switchers
+Statement describes smartphones from Apple (switchers)
+
+Fast smartphone C amera takes hi h u a l i t ict u r e s Reliabilityge.cL crashes and freezes less)
+~oe r a t ing system that is aiwa s u -to-date
+~ l-li h ~ualit s c r een L ong~batter l i f e
+~Hi h quality device construction Video callin w it h famil a n d friends Is a smartphone I'm proud to own Manufacturer continues to innovate
+Phy~sical adsearance and design OS that delivers a consistent ex er ience across smart ho ne Text messa in w i t h f amil a n d f riends
+Many ~eo le I know have this smartphone Better securit Access to better ualit a ps
+~ou ra hi i i t
+~Sim le online backu ( t o ro t e ct data from loss) and sync Manufacturer has o o d service and sup o rt
+~Lar e screen
+Works well with other technol o rod u c t s , services and
+Features that are easily learned Intuitive operation Better privacy of m p e r sonal information Ease of mi~ratin f i l es from other devices (e.. old
+Sim~le ex erience where everything is already set up for me Good value for the money Lar e selection of available music and video
+
+US
+
+UK France Ger m an y Ja p a n Ch ina
+
+39%o 389o
+
+489o
+
+489o
+
+399' ~4y2~%
+
+399y I+ 509o
+
+3'8%q 35% ~ 4 3
+
+38% 34% 35%
+
+489o
+40%
+469o
+
+37%o 38% ~ 4 2 ~ ~ 44 %
+
+30%y 259o
+
+37%o 369q 34Ão
+3 39o
+
+37%
+2,3 Mo
+31%
+3 lqdo
+
+399y 4~42Z
+
+16%
+
+34%o JI
+
+36% (~ 48%+g
+
+24%o 2 lo/~
+
+28%
+
+3.7%o
+
++ 43&r 2 3%o
+3 2 M ~4>~%
+
+1 19q 2p6%
+
+3'2%q 36% ~5 0 :%
+
+34jo
+
+2 3%
+
+369o
+
+32/o 3 2%o 319o
+
+27%
+389o 2.8%
+
+39%
+
+27%
+
+39%. H
+
+19%
+
+25%
+
+37% 13.9o
+
+28%
+27%
+1'99o
+
+30%o 30% 2 9%0
+
+32%
+3 lqdo
+2696
+
+30% 31%. 23%
+
+22%
+
+89o
+
+2'0% · 42~%
+
+28%
+
+26%
+
+27%
+BQMo 3 r9o
+
+29%
+
+359o 389o
+
+33M 24io
+
+2 9oo
+
+28% 289o
+2 79rg
+
+2 lqo
+2 7/o 19%
+
+32% 30% 20%
+
+36% 27%
+20%
+
+13% 14% I5%
+
+36% 2 2YQ 2 69o
+
+27%
+
+259o
+
+2 39% 25%
+
+29%
+
+21%
+
+26% 2.6%
+
+26go
+
+2 39o
+
+39% 2 19o
+
+29% IBM
+
+28% 15o%
+
+25%
+
+28qo
+
+83%
+
+30oy(g 25%
+
+14%o
+
+24%
+
+24%
+
+309o
+
+31%
+
+30%
+
+21%
+
+24%i
+
+20%
+
+22%
+
+2 3%
+
+189o 26%
+
+23%
+
+2 lqo
+
+2 IFo
+
+20%o 12%
+
+169o
+
+22% 2'1% 19%o
+
+24% 13% 23%o
+
+259o 119o 15.%
+
+15% 15%o 179o
+
+109o 27% 20%
+
+189o
+169o 15'9o
+
+481
+
+4 70
+
+18 6
+
+28 6
+
+4 51
+
+467
+
+1 0 2 0 30 4 Q 50 . ·
+
+· e
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: iPhone owners (switchers)
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand )
+
+A PPLE
+
+CONFIDENTIAL 9
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441. 01 1
+
+APL-APPSTORE 10338538
+
+The top iPhone associations for potential switchers
+parallel those for switchers
+
+Statement describes smartphones from Apple (potential switchers)
+
+Camera takes hi h ~ualit pi c t u res · iri h u a l i t s c r e e n Fast smartphone Manufacturer continues to innovate
+~oe r a t incCsSstem that is alw~as u -to-date
+Reliability (e.g., crashes and freezes less) ~ Ph sical appearance and desi n
+Text messa in w i t h famil a n d f riends Access to better quality apps Durabilit Better security Many~~co le I know have this smart h o ne Lar e screen Is a smartghone I'm r o ud to own High qualit d e v ice construction ~ Video callin w i t h famil a n d friends Eas to hold and o crate in m hands OS that delivers a consistent ex er ience across smart ho ne Manufacturer has o o d service and sup o rt Simple online backup (to protect data from loss) and sync Lar e selection of available music and video Works well with other technol o rod u c t s , services and L ong hatter l i f e Better privacy~of m p e r sonal information Features that are easil l e arned Intuitive operation Good value for the money
+Ease of mi rati n fi l e s f rom other devices e. . old
+
+US
+
+UK France Ger m an y Ja p a n
+
+3990
+
+4490
+
+4490
+
+239'
+
+~4C2~%
+
+3'8%0
+
+3990
+
+37%0 35%
+
+35%0 34%
+
+~56~% 34Y
+
+~4 ~5o%
++ 4 1 0%0 40% 46%
+
+31%
+69a~ op
+~
+38%
+
+349q
+
+2 990,
+
+33%0
+
+3 7%0
+
+3%
+
+33:.7o 36% ~4 8~% ~ 4 5 %
+
+~y
+
+3 390
+
+33Ãci
+
+1 890
+
+2L3YO
+
+1 39q
+
+3'2%q 3190
+
+27%
+
+309o 299o
+
+31YO
+
+26 OA
+
+34%
+
+31%
+
+11%
+
+3190 23%
+
+2 7LYo 24YO 2 P/q
+
+3190 36%o
+
+36%
+29 OA
+
+34% 39%
+
+14% · 48 ~% 2 7%0 21%
+
+30%
+36i%o 280A
+
+33Ãci
+
+32%. 36YO
+
+34% &ERR ~ 4 2 ~/q
+
+36 00
+
+2690
+
+2 3ora
+
+2 890
+3396 129'
+
+28% 2 790
+
+2896 2 2/0
+
+2 8,%0 14%
+
+32% 21%
+
+2 7%0 18%
+
+27%
+
+2490
+
+1996 2 390
+
+14%
+
+25%
+
+26%
+
+22Fo 25%
+
+16%
+
+25% 24%
+
+30% 2 190
+
+15% 1 390
+
+21% 19%
+
+27% 17%
+
+24%
+
+2396 26%
+
+294
+
+19%
+
+23%
+
+18%0
+
+1890
+
+25%
+
+14%
+
+22%i
+
+2 39on 22%
+
+22%
+
+2 1%0
+
+21%
+
+2590
+
+36%
+
+22%
+
+39%
+
+17%
+
+13%
+
+1395
+
+10%o 27%
+
+17%
+
+17% 179'
+
+15%o 109o
+
+17%o 19%
+
+13%
+
+2 290
+
+109o
+
+483
+
+4 70
+
+276
+
+33 9
+
+26 1
+
+Ch ina 45%
+499o 3:1%
+27%
+3 3%0, 46% 46% 3Na 26%
+3 7%
+4 1%0 369o 27% 17%o 2 69o 2$% 18Ãa 13% 269o 2890 1590 189o 17% 1490 1790
+461
+
+1 0 2 0 30 4 6 56 · ·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: Android smartphone owners (potential switchers)
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand )
+
+A ppLE
+
+CONFIDENTIAL 10
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.012
+
+APL-APPSTORE 10338539
+
+Reliability and battery life are among the areas
+
+switchers associate with iPhone more so than
+
+otential switchers
+tatement describes smartphones from Apple: Differences between Switchers and Potential Switchers
+
+Fast smartphone Camera takes hi h ~ualit p i c t ures Reliability (e.g., crashes and freezes less)
+Operating system that is always up-to-date High qualit s c r een ~ L on batter l i f e Hig~huality device construction Video calling with family and friends Is a smart hone I'm r o u d to own Manufacturer continues to innovate
+~ Ph sical appearance and desi n OS that delivers a consistent experience across smart ho ne Text messagin~ with famil and friends
+Man~c o l e I know have this smartphone Better securit A ccess to better ~oalit a p s Durability
+~Sim le online backup (to protect data from loss) and s nc Manufacturer has good service and sup o rt
+Larcaescreen Easy to hold and o~ e rate in m h a n d s Works well with other technolo y products, services and Features that are easily learned
+Intuitive o eration Better p~rivac of m e rs o n a l information Ease of mi rati n fi l e s f rom other devices (e , old ~S im le ex e r ience where every~thin is already set u f o r m e Good value forthe mone Lar e selection of available music and video
+
+US
+
+UK France Ge r m any J a pa n Chin a
+
+Each + represents a score of 5 pts. higher for one group over the other group
+
+glilggg
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers)
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand )
+
+A PPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441. 01 3
+
+APL-APPSTORE 10338540
+
+Switchers: iPhone brand associations and
+Im portance Index
+
+Statement describes smartphones from Apple
+
+Fast smartphone C amera takes hi h u a l i t ict u r e s Reliabilityge.cL crashes and freezes less)
+~oe r a t ing system that is alwa s u -to-date
+~ l-li h ~ualit s c r een L ong~batter l i f e
+~Hi h quality device construction Video callin w it h famil a n d friends Is a smartphone I'm proud to own Manufacturer continues to innovate
+Phy~sical adsearance and design OS that delivers a consistent ex er ience across smart ho ne Text messa in w i t h f amil a n d f riends
+Many ~eo le I know have this smartphone Better securit Access to better ualit a ps
+~ou ra hi I i t
+~Sim le online backu ( t o ro t e ct data from loss) and sync Manufacturer has o o d service and sup o rt
+~Lar e screen
+Works well with other technol o rod u c t s , services and
+Features that are easily learned Intuitive operation Better privacy of m p e r sonal information Ease of mi~ratin f i l es from other devices (e.. old
+Sim~le ex erience where everything is already set up for me Good value for the money Lar e selection of available music and video
+
+US 39% 39 %
+&ea~
+37 %
+34% 33% 32% 32%
+32/0
+30% m 2i 9%0gJ
+2990
+27% 26% 26% 25% 24%
+23% 22% 21%
+19o
+
+UK 890 4 290
+38%
+1 31% 36% 38% 27%
+32% 31% 26% 35% 21/ z /9o 19o 25% 34% 26% 28% 24%
+21% 24% 1390
+2 3 0/r
+
+France Ge r m any J a pa n
+
+3 9%
+
+·
+
+·
+
+509o
+
+34%
+
+Chin a 40%
+
+4 290
+
+4 4M
+
+~39~%
+
+1 6% ~ 3 e ~
+
+~ 3 6 ~ % ~ 48%~
+
+24%
+
+21%
+
+50%
+
+34%
+
+39%
+
+52%
+
+39%o
+
+2 7/00
+
+2 5%
+
+30%
+
+22%
+
+31%
+
+20%
+
+S Oo/r
+
+m 28% z
+
+33 %
+
+30%
+28%
+32",0 11% 23% 37% 37/0 13o 8% 4 2% 2 69 o 2 4%
+
+37% 23%
+~ZW 26% 36% 27% 2 8/' 19o 27% 30%
+2990
+
+309o 20% 2 3 0/r 41%
+339' 30 0Z 22% 21% 2 S%
+1 1/0 15o
+
+cf/o
+20%
+2 590
+39A 2 1%o 309' 31% " '23%o
+20%
+1 5% ' 15%o 17/'
+
+14%
+
+1SM R R 269 o· ~
+
+2 990
+2 9% 1 39'
+
+21%
+2 oc/
+1S%0
+
+2 5%
+
+14o
+
+30%
+
+2 10/
+
+1890 12%
+
+16%
+
+10%
+
+18o
+
+2790 209'
+
+16% 1 50%
+
+481
+
+470
+
+18 6
+
+28 6
+
+4 51
+
+467
+
+I mportance 101 125 1 2 6 - 150 1 51 - 7 S
+Inrlsav
+
+Base: iPhone owners (switchers)
+
+QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone?
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand )
+
+A ppLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.014
+
+APL-APPSTORE 10338541
+
+Potential Switchers: iPhone brand associations and Im portance Index
+
+Statement describes smartphones from Apple
+
+Camera takes hi h ~ualit pi c t u res · iri h u a l i t s c r e e n Fast smartphone Manufacturer continues to innovate ~ Oe r atincCsSstem that is alw~as u -to-date Reliability (e.g., crashes and freezes less) ~ Ph sicai appearance and desi n Text messa in w i t h famil a n d f riends Access to better quality apps Durabilit Better security Many~~co le I know have this smart h o ne Lar e screen is a smartghone i'm r o ud to own High qualit d e v ice construction ~ Video caiiin w i t h tamil a n d friends Eas to hold and o crate in m hands OS that delivers a consistent ex er ience across smart ho ne Manufacturer has o o d service and sup o rt Simple online backup (to protect data from loss) and sync Lar e selection of available music and video Works well with other technol o rod u c t s , services and L ong hatter l i f e Better privacy~of m p e r sonal information Features that are easil l e arned Intuitive operation Good value forthe money
+Ease of mig~ratin fi l e s from other devices (eq., old
+
+US
+
+UK France Ger m an y Ja p a n Ch ina
+
+44ok o
+
+3 9%
+
+4 49o
+
+4 4%
+
+2 3%
+
+4 S9o
+
+dgd 4gtr Wgd&t:
+
+'
+
+gt t
+
+d t t"
+
+38% R>M9 & S OMr. · . R 5 & R KgQ
+
+35Z
+
+4 69
+
+4 09'
+
+4 99'
+
+339'
+
+35 %
+MZR
+
+34'% e
+
+3 4%o
+MRR
+
+M
+
+4'09o
+RR
+
+38%
+
+2 4%
+
+339o
+
+36%
+
+4 89o
+
+4 5%
+
+4 29o
+
+3 1%
+
+33o /
+
+33o/
+
+] Bo/
+
+2 3o/
+
+] 3oi
+
+2 7o/
+
+32%
+
+2?'i
+
+3n9'
+
+29% ' 339o
+
+e
+
+'
+
+·
+
+,o
+
+4 69o
+
+2 39o 2 79o
+
+2 4%o
+
+2 5/o
+
+31%
+
+369o
+
+349o
+
+14%
+
+4 8%o
+
+38%o
+
+30%
+
+29%
+
+39%
+
+27%
+
+21%
+
+20%
+
+30%
+
+33%
+
+32%
+
+30%
+
+2 8%
+
+37%
+
+309o
+
+3%
+
+289o
+
+30%
+
+209o
+
+2 3%
+
+12%
+
+309o
+
+28ko
+
+28.'Yo 324
+
+27A
+
+27
+
+2 1%o
+
+18%
+
+17%
+
+2PA
+
+249'
+
+1 9% 2 3%
+
+14%% R 269 o· ~
+
+25%
+
+20%
+
+22%
+
+25%
+
+16o
+
+25%
+
+25%
+
+30%
+
+15o
+
+21%
+
+27%
+
+18o
+
+24%
+
+21%
+
+13%
+
+19o
+
+MKR
+
+23%
+
+18%
+
+189o'
+
+2 59
+
+17% 14%
+
+139o
+0"
+
+·
+
+·
+
+22 % 21%
+
+23% 2 5%
+
+2 2% 36%
+
+2 2%
+
+2 19o
+
+15o
+
+39%o 189'
+
+17 @
+
+3@
+
+13% ~ iO~Z
+
+2 79o
+
+179o
+
+179 '
+
+179'
+
+179'
+
+15%
+
+10o
+
+14%
+
+17o
+
+19o
+
+13%
+
+22%
+
+10o
+
+17o
+
+483
+
+4 70
+
+276
+
+339
+
+26 1
+
+46 1
+
+I mportance 101 125 1 2 6 - 150 1 51 - 7 S
+I n rl Sa bt
+
+Base: Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone
+
+smartphone?
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441. 01 5
+
+APL-APPSTORE 10338542
+
+I,fl6
+
+·
+
+·
+
+·
+
+» I·
+
+S
+
+gS S
+
+· a
+
+iPhone vs.Samsung smartphone brand associations
+
+(US switchers)
+
+Im po rtan ce Index
+
+Reliability (e.g., crashes and freezes less) Long battery life Fast smartphone Durability
+High quality device construction p erating system t at is a ways up-to- a t e
+High quality screen
+
+389o
+349g
+29%
+269o 299ii 3 S9g 3 3og 29%
+
+Camera takes high quality pictures OS consistent experience across smartphone models
+Good value for the money Manufacturer has good service and support
+· atter security Access to better quality apps
+Large screen Simple online backup and sync across devices
+Is a smartphone I'm proud to own Video calling with family and friends
+
+22%
+21% 279'
+269o 199g
+
+209o
+
+· iPh o ne association (n=375) · Sa m s u ng smartphone association (n=3
+
+Base: US iPhone owners (switchers)
+
+QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone?
+
+Base: US iPhone owners (switchers) who owned a Samsung smartphone before their iPhone or seriously considered Samsung when switching to iPhone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+Showing items with above average () 100) Importance Index or iPhone association +/ - 10 + p ts. compared to comparison brand
+
+APPLE
+
+CONFIDENTIAL 12
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441. 01 7
+
+APL-APPSTORE 10338544
+
+iPhone vs.Samsung smartphone brand associations
+
+(US potential switchers)
+
+Im po rtan ce Index
+
+·
+
+·
+
+Reliability (e.g., crashes and freezes less) Long battery life Durability
+ig quality device construction
+
+34oo
+33%
+26% 27%
+29% 40%
+
+Fast smartphone
+
+Better privacy of my personal information ~
+
+17ss
+
+oo va ue or e mo n ey
+
+High quality screen
+
+Operating system that is always up-to-date
+
+Better security
+
+20%
+
+OS consistent experience across smartphone models
+
+2 7Ão 2 6%o
+
+Manufacturer has good service and support
+
+26% 20%
+
+112
+
+Access to better quality apps
+
+60
+
+Video calling with family and friends
+
+31
+
+Large selection of available music and video ~
+
+t stg
+
+24
+
+· iPh o ne association (n=412)
+
+· Sa m s u ng smartphone association (n=4
+
+Base: US Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone smartphone?
+
+Base: US Android smartphone owners (potential switchers) who currently own a Samsung smartphone or are seriously considering Samsung as their next
+
+smartphone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand )
+
+A PPLE
+
+CONFIDENTIAL 13
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441. 01 8
+
+APL-APPSTORE 10338545
+
+iPhone vs.Samsung smartphone brand associations
+
+(UK switchers)
+
+Im po rtan ce Index
+
+Reliability (e.g., crashes and freezes less) Long battery life Fast smartphone
+High quality device construction High quality screen Durability
+
+2 3% 29Ã
+
+28% 30%
+25%
+
+20% ZS%
+
+38%
+
+Good value for the money OS consistent experience across smartphone models
+
+19%
+
+33%o 30%
+28%
+
+Access to better quality apps
+
+Large screen Simple online backup and sync across devices
+
+449o
+
+Is a smartphone I'm proud to own
+
+Video calling with family and friends
+
+Many people I know have this smartphone
+
+2 1%D
+
+3 2%
+· iPh o ne association (n=396) · Sa m s u ng smartphone association (=n3
+
+Base: UK iPhone owners (switchers) QS/QSa. Which ofthese statements about smartphones was most/least important in your decision to switch to the iPhone? Base: UK iPhone owners (switchers) who owned a Samsung smartphone before their iPhone or seriously considered Samsung when switching to iPhone Q6: Please indicate whic h of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+APPLE CONFIDENTIAL 14
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441. 01 9
+
+APL-APPSTORE 10338546
+
+iPhone vs.Samsung smartphone brand associations
+
+(UK potential switchers)
+
+Im po rtan ce Index
+
+Reliability (e.g., crashes and freezes less) Long battery life Durability
+High quality device construction Fast smartphone
+ig qua sty screen
+
+28% 31%
+
+23%
+
+349g
+
+40%
+35o/ 3 19g
+39% 34%
+
+Good value for the money · atter privacy of my personal information
+Camera takes high quality pictures
+
+tag
+379g
+
+Better security
+
+OS consistent experience across smartphone models 163
+Lar e screen
+
+75
+
+Access to better quality apps
+
+18%
+
+29%
+
+Manufacturer continues to innovate
+
+47
+
+Video calling with family and friends
+
+30
+
+31%
+
+21
+
+Many people I know have this smartphone
+
+37%
+
+13
+
+· iPh o ne association (n=383) · Sa m s u ng smartphone association (=n3
+
+Base: UK Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone smartphone?
+
+Base: UK Android smartphone owners (potential switchers) who currently own a Samsung smartphone or are seriously considering Samsung as their next
+
+smartphone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand )
+
+A PPLE
+
+CONFIDENTIAL 15
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.020
+
+APL-APPSTORE 10338547
+
+iPhone vs.Samsung smartphone brand associations
+
+(France switchers)
+
+Im po rtan ce Index
+
+Fast smartphone Reliability (e.g., crashes and freezes less)
+
+48% 41%
+
+High quality device construction Durability
+High quality screen ong attery i e
+Easy to hold and operate in my hands Operating system that is always up-to-date
+
+34vji 3 Fg
+38%
+2 80/
+33og
+414 35N
+41gvg
+
+Camera takes high quality pictures 130
+Ae~
+
+110 Good value for the money
+
+110
+
+Intuitive operation
+
+30%
+
+Physical appearance and design Features that are easily learned
+
+30oo 31gkfd
+28Yo
+
+414
+
+Is a smartphone I'm proud to own
+
+88
+
+· atter security
+
+Manufacturer continues to innovate
+
+82
+
+Simple online backup and sync across devices
+
+Large screen
+
+24%
+
+42gvg
+
+72
+
+Video calling with family and friends
+
+· iPh o ne association (n=152)
+
+54
+
+· Sa m s u ng smartphone association (n=l
+
+Base: France iPhone owners (switchers)
+QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone? Base: France iPhone owners (switchers) who owned a Samsung smartphone before their iPhone or seriously considered Samsung
+when switching to iPhone Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+APPLE CONFIDENTIAL 16
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.021
+
+APL-APPSTORE 10338548
+
+iPhone vs.Samsung smartphone brand associations
+
+(France potential switchers)
+
+Im po rtan ce Index
+
+Long battery life Reliability (e.g., crashes and freezes less)
+Durability High quality device construction
+ast smartp one Good value for the money
+High quality screen
+
+33% 3 0og
+54%
+
+Easy to hold and operate in my hands
+
+20%
+
+Operating system that is always up-to-date
+
+Lar e screen
+
+100
+
+Features that are easily learned
+
+88
+
+Ease of migrating files from other devices
+
+77
+
+Simple experience where everything is already set up
+
+31%
+
+Access to better quality apps
+
+71
+
+Manufacturer continues to innovate
+
+59
+
+Works well with other technology
+
+28%
+
+59
+
+OS consistent experience across smartphone models
+
+53
+
+Is a smartphone I'm proud to own
+
+32
+
+Video calling with family and friends
+
+21%
+
+19
+
+Many people I know have this smartphone
+
+3 50/ 24%
+
+· iPh o ne association (n=226)
+
+· Sa m s u ng smartphone association (=n2
+
+Base: France Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone smartphone?
+
+Base: France Android smartphone owners (potential switchers) who currently own a Samsung smartphone or are seriously considering Samsung as their
+
+next smartphone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand )
+
+A PPLE
+
+CONFIDENTIAL 17
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.022
+
+APL-APPSTORE 10338549
+
+iPhone vs.Samsung smartphone brand associations
+
+(Germany switchers)
+
+Im po rtan ce Index
+
+Reliability le.g., crashes and freezes less) ~
+
+t ey
+
+Fast smartphone
+
+509o
+
+73
+
+Long battery life
+
+High quality device construction
+
+2z3%
+
+Durability
+
+High quality screen
+
+a sy o o an o pe r a e in my a n s Camera takes high quality pictures
+
+28%
+
+Physical appearance and design
+
+46%
+
+Intuitive operation
+
+22% 31%
+
+Better privacy of my personal information
+
+24%
+
+114
+
+Good value for the money
+
+105
+
+Better security
+
+165
+
+Simple onlinebackup and sync across devices
+
+83
+
+Ease of migrating files from otheLrarcareevsicceresen
+
+50%
+
+80
+
+(e.g., old smartphone, laptop)
+
+30%
+
+Access to better quality apps
+
+34%
+
+Is a smartphone I'm proud to own
+
+57
+
+Video calling with family and friends
+
+22
+
+Many people I know have this smartphone
+
+· iPh o ne association (n=217)
+
+18
+
+· Sa m s u ng smartphone association (=n2
+
+Base: Germany iPhone owners (switchers)
+QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone? Base: Germany iPhone owners (switchers) who owned a Samsung smartphone before their iPhone or seriously considered Samsung
+when switching to iPhone Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+APPLE CONFIDENTIAL 18
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.023
+
+APL-APPSTORE 10338550
+
+iPhone vs.Samsung smartphone brand associations
+
+(Germany potential switchers)
+
+Im po rtan ce Index
+
+·
+
+·
+
+Reliability (e.g., crashes and freezes less) Long battery life Durability Fast smartphone
+
+29%
+30% 29%
+3 1% 349g
+
+High quality device construction
+
+High quality screen Good value for the money
+
+43% 41%
+44% 44%o
+
+Better security
+
+Easy to hold and operate in my hands
+
+0 erat n s s tem t at is alwa s u -t o-date
+
+Lar e screen
+
+Access to better quality apps
+
+31%
+
+40
+
+Is a smartphone I'm proud to own
+
+179o
+
+309o
+
+22
+
+Video calling with family and friends
+
+2 1%o
+
+17
+
+· iPh o ne association (n=286) · Sa m s u ng smartphone association (=n28
+
+Base: Germany Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone smartphone? Base: Germany Android smartphone owners (potential switchers) who currently own a Samsung smartphone or are seriously considering Samsung as their
+
+next smartphone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+Showing items with above average () 100) Importance Index or iPhone association +/ - 10 + p ts. compared to comparison brand
+
+APPLE
+
+CONFIDENTIAL 19
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.024
+
+APL-APPSTORE 10338551
+
+iPhone vs. Sony smartphone brand associations
+
+Japan switchers)
+
+Im po rtan ce Index
+i3
+
+Reliability (e.g., crashes and freezes less) Long battery life Fast smartphone
+Easy to hold and operate in my hands High quality device construction
+Duraiblity ~
+e r pnvacy o my p rs na in orma i n Features that are easily learned Good value for the money Better security High quality screen
+
+33% 22%
+32% 249g l tg
+26% 199o
+28%
+39pyG
+
+Intuitive operation ~
+
+1 BX
+
+Manufacturer has good service and support ~
+
+1BM 2 1%o
+
+i04
+
+Access to better quality apps
+
+269g
+
+88
+
+isystem alway t1pe ratipc
+
+tietit i ~
+
+u Ir-to-.date
+
+85
+
+le.g., old smartphone, laptop)
+
+57
+
+Is a smartphone I'm proud to own
+
+47
+
+Manufacturer continues to innovate
+
+Many people I know have this smartphone
+
+34 . Japan iPhone owners (switchers)
+QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone? Base: Japan iPhone owners (switchers) who owned a Sony smartphone before their iPhone or seriously considered Sony when switching to iPhone
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand) Showing items with above average () 100) Importance Index or iPhone association +/ - 10 + p ts. compared to comparison
+
+· iPh o ne association (n=156) · So n y s martphone association (=n15
+APPLE CONFIDENTIAL 20
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.025
+
+APL-APPSTORE 10338552
+
+iPhone vs. Sony smartphone brand associations
+
+Japan potential switchers)
+
+Im po rtan ce Index
+
+N~"'
+
+Fast smartphone High quality device construction
+Durability Easy to hold and operate in my hands Better privacy of my personal information
+
+30op~
+
+Good value for the money
+
+High quality screen
+
+-al~ p e a r anc Manufacturer has good service and support ~
+Features that are easily learned
+
+11% 20% 249q
+
+Intuitive operation
+
+0 eratin s st em that is alwa s u -t o - d ate
+
+41%0
+
+95
+
+Camera takes high quality pictures
+
+519o
+
+87
+
+Access to better quality apps
+
+Large screen
+
+OS consistent experience across smartphone models Manufacturer continues to innovate
+
+49Po
+
+45
+
+Is a smartphone I'm proud to own
+
+37
+
+Many people I know have this smartphone
+
+18
+
+Large selection of available music and video
+
+· iPh o ne association (n= l 3 2 )
+
+· So n y smartphone association (n=13
+
+Base: Japan Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone smartphone?
+
+Base: Japan Android smartphone owners (potential switchers) who currently own a Sony smartphone or are seriously considering Sony as their next
+
+smartphone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand )
+
+A PPLE
+
+CONFIDENTIAL 2 1
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.026
+
+APL-APPSTORE 10338553
+
+iPhone vs.Samsung smartphone brand associations
+
+(China switchers)
+
+Im po rtan ce Index
+
+Reliability le.g., crashes and freezes less)
+
+44%
+
+·
+
+·
+
+Fast smartphone
+
+2lg
+
+High quality device construction
+
+40go
+
+· atter privacy of my personal information
+
+Durability
+
+High quality screen
+
+118 Camera takes high quality pictures
+
+113 Manufacturer has good service and support
+
+109
+
+Works well with other tech prod, svcs and accessories ~
+
+t ag
+
+Operating system that is always up-to-date
+
+24%
+
+94
+
+Is a smartphone I'm proud to own ~
+
+16%
+
+33 P/
+
+Large screen
+
+51
+
+· iPh o ne association (n=306)
+
+· Sa m s u ng smtphone association (=n3
+
+Base: China iPhone owners (switchers)
+
+QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone?
+
+Base: China iPhone owners (switchers) who owned a Samsung smartphone before their iPhone or seriously considered Samsung when switching to iPhone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+Showing items with above average () 100) Importance Index or iPhone association +/ - 10 + p ts. compared to comparison brand
+
+APPLE
+
+CONFIDENTIAL 2 2
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.027
+
+APL-APPSTORE 10338554
+
+iPhone vs.Samsung smartphone brand associations
+
+(China potential switchers)
+
+Im po rtan ce Index
+
+·
+
+·
+
+Fast smartphone Reliability (e.g., crashes and freezes less)
+High quality device construction
+
+489o 45% 42%
+
+Better privacy of my personal information
+
+65
+
+Durability
+
+bong battery life
+
+Bettersecurity
+
+High quality screen
+
+37% 359o
+
+Camera takes high quality pictures
+
+Manufacturer has good service and support
+
+Access to better quality apps
+Easy to hold and operate in my hands Ease of migrating files from other devices
+(e.g., old smartphone laptop)
+
+229o 259o 24gyo
+
+Is a smartphone I'm proud to own
+
+2 19o
+
+43
+
+Large screen
+
+20%o
+
+37
+
+Many people I know have this smartphone
+
+38%o 28%
+
+17
+
+· iPh o ne association (n=245)
+
+· Sa m s u ng smartphone association (=n2
+
+Base: China Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone smartphone? Base: China Android smartphone owners (potential switchers) who currently own a Samsung smartphone or are seriously considering Samsung as their next
+
+smartphone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+Showing items with above average () 100) Importance Index or iPhone association +/ - 10 + p ts. compared to comparison brand
+
+APPLE
+
+CONFIDENTIAL 2 3
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.028
+
+APL-APPSTORE 10338555
+
+iPhone vs. Huawei smartphone brand associations
+
+(China switchers)
+
+Im po rtan ce Index
+
+Reliability (e.g., crashes and freezes less)
+
+Fast smartphone
+
+50M
+
+· igh quality device construction
+
+· atter privacy of my personal information
+
+Durability atter secunty
+
+Long battery life High quality screen Access to better quality apps
+
+209o 20% 209t'
+
+429o
+
+Camera takes high quality pictures
+
+21%
+
+479o
+
+113
+
+Manufacturer has good service and support
+
+229o
+
+Works well with other tech prod, svcs and accessories ~
+
+17% 29%
+
+Is a smartphone I'm proud to own
+
+Simple experience where everything is already set up ~
+
+11%
+
+52
+
+barge screen
+
+439g
+
+51
+
+33%
+
+48
+
+Text messaging with family and friends
+
+29% 41X
+
+30
+
+· iPh o ne association (n=111)
+
+· Hua w ei smartphone association (n=l
+
+Base: China iPhone owners (switchers)
+
+QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone?
+
+Base: China iPhone owners (switchers) who owned a Huawei smartphone before their iPhone or seriously considered Huawei when switching to iPhone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+Showing items with above average () 100) Importance Index or iPhone association +/ - 10 + p ts. compared to comparison brand
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.029
+
+APL-APPSTORE 10338556
+
+iPhone vs. Huawei smartphone brand associations
+
+(China potential switchers)
+
+Im po rtan ce Index
+
+Fast smartphone
+
+Reliability (e.g., crashes and freezes less)
+
+·
+
+·
+
+High quality device construction
+
+23%
+
+Better privacy of my personal information
+
+24dg 2 IFg
+
+Durability Long battery life
+Bettersecurity
+
+31gg
+
+22/o
+
+32 Yg
+
+32% 26%
+
+High quality screen 139
+
+Camera takes high quality pictures Manufacturer has good service and support
+Access to better quality apps Easy to hold and operate in my hands
+
+27/g 26% 24Yg
+28%
+21oo
+24%
+
+0 crating system that is always up-to-date
+
+98
+
+(a.g., old smartpttooa, laptop)
+
+26oA
+
+Is a smartptrooa I'm proud to owo
+
+43
+
+Large screen
+
+23%
+
+41,%
+
+37
+
+Many people I know have this smartphone
+
+26/g
+
+36l%
+
+17
+
+· iPh o ne association (n=164) · Hua w ei smartphone association (n=l
+
+Base: China Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone smartphone? Base: China Android smartphone owners (potential switchers) who currently own a Huawei smartphone or are seriously considering Huawei as their next
+
+smartphone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+Showing items with above average () 100) Importance Index or iPhone association +/ - 10 + p ts. compared to comparison brand
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.030
+
+APL-APPSTORE 10338557
+
+iPhone vs. Xiaomi smartphone brand associations
+
+(China switchers)
+
+Im po rtan ce Index
+
+·
+
+·
+
+Reliability (e.g., crashes and freezes less) I-ligh quality device construction
+
+4 19b
+
+Better privacy of my personal information Durability
+atter secunty Long battery life High quality screen Access to better quality apps
+~
+
+222b~ '
+21%
+229(1'
+176
+
+Camera takes high quality pictures
+
+4l b
+
+Manufacturer has good service and support
+
+309b 2 3Fb
+
+109
+
+Works well with other tech prod, svcs and accessories ~
+
+16% 199o
+
+Physical appearance and design
+
+91
+
+Intuitive operation ~
+
+16% 269t,
+
+80
+
+Is a smartphone I'm proud to own
+
+Simple online backup and sync across devices ase of migrating files from other devices (e.g., old smartphone, laptop)
+
+199g
+
+309b
+
+48
+
+Features that are easily learned ~
+
+l eg
+
+· iPh o ne association (n=140) · Xi a o m i smartphone association (=n14
+
+Base: China iPhone owners (switchers)
+
+QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone?
+
+Base: China iPhone owners (switchers) who owned a Xiaomi smartphone before their iPhone or seriously considered Xiaomi when switching to iPhone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+Showing items with above average () 100) Importance Index or iPhone association +/ - 10 + p ts. compared to comparison brand
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.031
+
+APL-APPSTORE 10338558
+
+iPhone vs. Xiaomi smartphone brand associations
+
+(China potential switchers)
+
+Im po rtan ce Index
+
+·
+
+·
+
+Fast smartphone Reliability (e.g., crashes and freezes less)
+High quality device construction · atter privacy of my personal information
+Dura i sty Long battery life
+Better security
+
+21% t yg ga d
+289o 189p 28%
+
+High quality screen
+
+2 39o
+
+119
+
+Camera takes high quality pictures
+
+o
+
+Manufacturer has good service and support
+
+29Ã~
+24gyg
+
+Access to better quality apps
+
+289g 2 29o
+
+113
+
+Easy to hold and operate in my hands
+
+279
+
+101
+
+Intuit e o e r at
+
+(e.g., old smartphone, laptop)
+
+33%
+
+Simple experience where everything is already set op
+
+'30%
+
+53
+
+Is a smartphone I'm proud to own
+
+34%
+
+Features that are easily learned
+
+39
+
+Text messaging with family and friends
+
+21
+
+Many people I know have this smartphone
+
+· iPh o ne association (n=172)
+
+17
+
+· Xi a o m i smartphone association (=nl
+
+Base: China Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone smartphone? Base: China Android smartphone owners (potential switchers) who currently own a Xiaomi smartphone or are seriously considering Xiaomi as their next
+
+smartphone
+
+Q6: Please indicate which of the following statements best describes smartphones from each of these brands. (select up to 10 per brand)
+
+Showing items with above average () 100) Importance Index or iPhone association +/ - 10 + p ts. compared to comparison brand
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.032
+
+APL-APPSTORE 10338559
+
+Switchers to hero models assign higher importance
+
+to screen quality, screen size, long battery life, and
+
+qualit c o nstruction
+Differences etween iPhone 6/6 Plus and iPhone 4s/5/5c/5s (importance index"-)
+
+US
+High quality screen Lar
+L ong~hatter l i f e High qualit d e v ice construction Manufacturer continues to innovate Ph sical a e a r ance and desi n
+Intuitive operation Is a smartphone I m proud to own Good value for the mone Easy to hold and o~ e rate in m h a n d s
+Simple experience where everything is already set up for me FaceTime video calling with family and friends iMessage text massaging~with famil a n d f r iends
+Features that are easily learned Ease of mi~ratin f i l e s from other devices fe. ~o ld smart ho ne
+~Man ~eo l e I know have this smart h o n e Sim le online backu ( t o ro t e ct data from loss) and sync across
+Durabilit Reliability (ecl t, crashes and freezes less) Fast smart ho ne
+Op~eratin system that is alwa s op-t o - d ate Better privacy~of m p e r sonal information Manufacturer has good service and sup o rt
+Large selection of available music and video Works well with other technolo p ro d u c ts, services and accessories C amera takes hi h ~ualit ict u r e s Better securit
+A ccess to better quality a s OS that delivers a consistent ex er ience across smart hone models
+
+UK
+
+Fran c e Ger m an y Chi n a
+
++ 10 pts. higher than other gr++$0 pts. higher than other gr+~
+
+3 0 + pts. higher than other gro
+
+'
+
+·
+
+-
+
+·
+
+·
+
+Base: iPhone owners (switchers)
+QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone? -" Japan not shown due to low base of older iPhone models
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.033
+
+APL-APPSTORE 10338560
+
+Potential switchers less satisfied with their
+
+smartphone assign higher importance to camera,
+
+ease of handlin , and simplicity
+Differences between "very satis ed" and less satisfied with current Android smartphone (importance index"-)
+
+Camera takes high quality pictures Eas to hold and o~ e rate in m h a n d s
+Good value forthe mone
+Simple experience where every~thin is already set up for me Reliability (ecl t, crashes and freezes less) Is a smart hone I'm r o u d to own
+Operating system that is alwa s up-to- d ate Manufacturer continues to innovate ~ Lar e selection of available music and video Fast smartphone
+Intuitive operation L ong batter l i f e Lar e screen
+Man~c o l e I know have this smartphone Ease of mi~ratin f i l es from other devices (e.. old Works well with other technolo p rod u c ts, services and Manufacturer has o o d service and sup o rt
+OS that delivers a consistent experience across smart ho ne Sim le online backup (to protect data from loss) and sync ~ iMessa e text massa ing with famil a n d f r iends Physical appearance and design Durabilit Better privacy~of m p e r sonal information
+Better securit Features that are easil l e arned A ccess to better quality a s
+h ualit d evice construction
+High qualit s c r een FaceTime video callin w i t h f I d f d s
+
+US
+· R
+
+UK France Ge r m any J a pa n Chin a
+RR
+
++ 10 pts. higher than other gr++$0 pts. higher than other gr+~ 3 0 + p ts. higher than other grou ~ ~
+
+~
+
+)~
+
+Base: Android smartphone owners (potential switchers)
+
+QS/QSa. Which of these statements about smartphones do you find most/least important when considering whether to switch to an iPhone smartphone?
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.034
+
+APL-APPSTORE 10338561
+
+Drivers of switching to iPhone (by Apple ownership
+status)
+
+Differences between "using Apple product(s) at time of iPhone acquisition" vs. "not using..." (importance
+
+index"-)
+
+US
+
+UK F rance G er m a ny J a p an China
+
+Wor ks well with other technol ogytsroducts services an Better privacy~of m p e r sonal information OS that delivers a consistent experience across smart ho ne
+Simple online backup (to protect data from loss) and sync Better securit Lar e screen Paceyime video calling~with famil a n d f r iends
+
+Good value forthe mone Durabilit Easy to hold and o~ e rate in m h a n d s
+
+Reliability (~e a, crashes and freezes less) Camera takes hi h ~ualit p i c t u res
+
+L ong~batter l i f e ~ iMessa e text messag~in ~with famil a n d f r iends
+Features that are easil l e arned Intuitive o eration Operatin s s t em that is alwa s up-to- date
+~ ls a smart~ hone I'm r o ud to own Large selection of available music and video
+
+Manufacturer continues to innovate
+
+Ease of mig~ratin fi l e s from other devices (eg., old
+
+Manufacturer has good service and sup o rt
+gimme ex erience where everything is already set up for me
+
+~Hi h u a l i t I-lig~h u a l i t
+
+s d
+
+c
+
+r
+
+'e
+
+e
+
+n
+
+t t'
+
+Fast smart ho ne
+
+A ccess to better ~ualit a g s
+
+Ph sical a e a r ance and desi n Man e o l e I know have this smart hone
+
++ 10 pts. higher than other gr++$0 pts. higher than other gr+~ 3 0 + p ts. higher than other gro~ ~ e
+
+Base: iPhone owners (switchers) QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the IPhone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.035
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338562
+
+Switchers under age 35 assign higher importance
+
+to camera, pride in owning, design, iMessage,
+
+s eed and content selection
+Di erences Itetween under 3S and 3S+ yrs. old (importance index"-')
+
+Camera takes high quality pictures Is a smart hone I'm r o u d to own Ph sical a e a r ance and desi n
+Many pleo le I know have this smartphone iMessage~text massa ing with famil a n d f r iends Fast smartphone
+Lar e selection of available music and video FaceTime video callin w i t h f a mi l a n d f r iends 0 eratin s s tem that is alwa s u -to-date
+Large screen Features that are easily learned Ease of migrating files from other devices (e.g., old Better privacy~of m p e r sonal information
+Manufacturer has o o d service and sup o rt OS that delivers a consistent ex e rience across smartghone Better securit Intuitive operation
+~L on batter l i f e Easy to hold and o~ e rate in m h a n d s S imple experience where eve t h i n i s a l read set u f o r m e
+Access to better quality apps ~Hi h quality screen
+High qualit d e v ice construction
+Reliability (e.g., crashes and freezes less) Sim le online backu ( t o ro t e ct data from loss) and sync Manufacturer continues to innovate Good value forthe mone
+Works well with other technology~roducts, services and Durabilit
+
+US
+
+UK France Ge r m any J a pa n Chin a
+
++ 10 pts. higher than other gr++$0 pts. higher than other gr+tI1si-30+ pts. higher than other group
+
+~~+gg
+
+Base: iPhone owners (switchers) QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.036
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338563
+
+Switchers who are female assign more importance
+
+to durability, privacy of personal information,
+
+simplicity, and camera
+Differences between males and females (importance index"-)
+
+~ Du ra hi I it Better privacy~of m p e r sonal information
+~Sim le online backup (to protect data from loss) and sync Camera takes high ~ualit p i c t u res Elm~le ex erience where everything is already set up for me Features that are easil l e arned
+Ease of mi~ratin f i l es from other devices (e.. old ~ iMessa e text massa i n w i t h f a mily and friends
+FaceTime video callin w i t h f a mi l a n d f r iends Manufacturer continues to innovate
+Large screen High qualit s c r een High qualit d e v ice construction
+Manufacturer has o o d service and sup o rt 0 eratin s s tem that is alwa s u - t o - date Fast smart ho ne Intuitive operation
+Access to better uality a s OS that delivers a consistent experience across smart ho ne
+Is a a m ~haonre I'tm ~raud to own
+Reliability (e.g., crashes and freezes less) L ong~hatter l i f e Better security
+Easy to hold and a~ c rate in m h a n d s Lar e selection of available music and video Works well with other technolog rod u c t s, services and
+~ Ph ~sisal adsearance and design Man~c o l e I know have this smartphone
+Good value forthe mone
+
+US
+
+UK France Ger m a ny J a p a n China
+
+~ ~ + 10 pts. higher than other gr++$0 pts. higher than other gr+~ 3 0 + p t s . higher than other group
+
+g g gg
+
+Base: iPhone owners (switchers) QS/QSa. Which of these statements about smartphones was most/least important in your decision to switch to the iPhone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.037
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338564
+
+·
+
+·
+
+·
+
+»
+
+I o
+
+S
+
+gS S
+
+· a
+
+I
+
+Perceived ease of iPhone setup is generally high among switchers, but lower in Germany and Japan
+
+Ease of iPhone setup (among switchers)
+
+94%
+
+88%
+
+94%
+
+100 0
+
+75%
+
+e90%
+
+Top-2 box
+
+20
+
+50%
+
+25%
+0% US
+481
+
+UK 470
+
+France 186
+
+Germany 286
+
+Japan 451
+
+China 467
+
+· Ve ry difficult · So m ewhat difficult · Ne i t her easy nor difficult
+· So m ewhat easy · Ve ry easy
+
+Base: iPhone owners (switchers) Q9: Think back to when you first acquired your iPhone smartphone. Overall, how easy or difficult was the process of setting up your iPhone smarAplb8e?
+CONFIDENTIAL 2 5
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.039
+
+APL-APPSTORE 10338566
+
+Potential switchers' top setup concerns are contact
+
+transfer, photo/video transfer, and getting the apps
+
+on their old phone
+
+iPhone setup concerns (top-2 box, among potential switchers)
+
+US
+
+UK Fran ce Germ a ny Ja p a n Ch ina
+
+Transferring contacts from my old phone
+
+Transferring photos or videos from my old phone
+
+Getting the apps I had on my old phone
+
+459'
+
+46P
+
+·
+
+Operating system (iOS) updates
+
+37%
+
+4 3%
+
+2 2 % 33
+
+Setting up email or additional email accounts 49Fo 36%
+
+'
+
+2 7% 4 6%
+
+· · '.
+
+Transferring music from my old phone
+Transferring text messages from my old phone Transferring calendar entries from my old phone
+Using the App Store
+
+48%
+
+3 3.~A 36%
+
+3 2% 3 09'
+
+4 0% 3:. 9 %
+
+40%
+
+2 2Fi
+
+2696
+
+16 90 2 3%
+
+Using iTunes
+
+3 7% 2 0%
+
+2 49o
+
+2 1%
+
+2 0%
+
+·
+
+483
+
+4 70
+
+2 76
+
+3 39
+
+26 1
+
+461
+
+1 0 20 3 0 4 0 50 · ·
+
+·:
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Base: US Android smartphone owners (potential switchers) Q18: How concerned or unconcerned are you about each of the following when considering the iPhone for your next smartphone purchase? APPLE
+CONFIDENTIAL 2 6
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.040
+
+APL-APPSTORE 10338567
+
+iPhone setup tasks performed
+
+iPhone setup tasks performed (among switchers)
+
+US Operating system (iOS) updates
+
+Setting up email or additional email accounts
+
+'
+
+·
+
+'
+
+.
+
+Transferring contacts from my old phone
+
+Getting the apps I had on my old phone
+Transferring photos or videos from my old phone
+Transferring music from my old phone
+Transferring calendar entries from my old phone Transferring text messages from my old phone
+481
+
+UK Fr an c e G e r ma n Ja an Chi na
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+'
+
+.
+
+·
+
+·
+
+'
+
+.
+
+4 70
+
+18 6
+
+28 6
+
+·
+
+·
+
+·
+
+·
+
+451
+
+467
+
+1 0 20 3 0 4 0 50 · ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: iPhone owners (switchers) Q10: How satisfied or dissatisfied were you with the following when switching to your [IPHONE MODEL] smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.041
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338568
+
+Setting up email accounts and OS updates are the
+setup tasks with the highest satisfaction levels
+amoncI switchers
+Satisfaction with iPhone setup (top-2 box, among switchers who performed each task)
+
+US
+
+Setting up email or additional email accounts
+
+·
+
+·
+
+Operating system (iOS) updates
+
+·
+
+·
+
+Getting the apps I had on my old phone
+
+Transferring contacts from my old phone
+
+Transferring photos or videos from my old phone
+Transferring calendar entries from my old phone
+
+Transferring music from my old phone
+
+Transferring text messages from my old
+
+phone
+
+·
+
+·
+
+'
+
+.
+
+UK Fr ance Ger m a n Ja an Ch ina
+
+·
+
+·
+
+'.
+
+8 2g
+
+· · '.
+
+·
+
+R
+
+·
+
+·
+
+339o
+
+·
+
+·
+
+·
+
+1 0 20 3 0 4 0 50 · ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: iPhone owners (switchers) who performed task (base sizes vary by task) Q10: How satisfied or dissatisfied were you with the following when switching to your [IPHONE MODEL] smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.042
+
+APPLE CONFIDENTIAL 2 7
+APL-APPSTORE 10338569
+
+Switchers have higher levels of dissatisfaction with
+setup tasks around photo, video, music and text
+me s sacI e transfer
+Dissatisfaction with iPhone setup (bottom-2 box, among switchers who performed each task)
+
+US
+
+UK Fr ance Ger m a n Ja an Ch ina
+
+Setting up email or additional email accounts
+
+4%o
+
+3%
+
+2%
+
+7%
+
+49'
+
+Operating system (iOS) updates
+
+5%o
+
+6%
+
+2%o
+
+4%
+
+10%
+
+59o
+
+Getting the apps I had on my old phone
+
+11%
+
+10 %
+
+9%
+
+14%
+
+2 F)6
+
+14%
+
+Transferring contacts from my old phone
+Transferring photos or videos from my old phone Transferring calendar entries from my old phone
+Transferring music from my old phone
+Transferring text messages from my old phone
+
+109a 1 7%
+
+12%
+
+2'395 2 0%
+
+10%
+
+1 59o 19 %
+
+14%
+
+2496 3 1%
+
+1 19o
+
+1 19o 13%
+
+109o
+
+199a
+
+2 5%
+
+9%
+
+16%
+
+20 %
+
+189e
+
+28%
+
+2 4%
+
+129o
+
+18%
+
+2 1%
+
+2 2%
+
+2 5%o
+
+2 6%
+
+149o
+
+1 0 20 3 0 4 ()
+
+· ··
+
+·· s·
+
+·
+
+:
+
+·
+
+Base: iPhone owners (switchers) who performed task (base sizes vary by task) Q10: How satisfied or dissatisfied were you with the following when switching to your [IPHONE MODEL] smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.043
+
+APPLE CONFIDENTIAL 2 8
+APL-APPSTORE 10338570
+
+Satisfaction with iPhone setup tasks (US)
+
+Satisfaction with iPhone setup tasks (among US switchers who performed task)
+
+e89%
+
+88%
+
+79%
+
+78%
+
+76%
+
+71%
+
+67%
+
+60%
+
+Top-2 box
+
+100
+
+75
+
+50
+
+25
+
+Operating systetsetting up email
+
+Transferring Getting the apps
+
+T ran sf e r r i ng
+
+(iOS) updates o r a d d itional email accountscontacts
+
+I had on my old phone photos or videos
+
+Transferring calendar entries
+
+467
+
+463
+
+443
+
+406
+
+378
+
+323
+
+Transferring music
+330
+
+Transferring text messages
+321
+
+· Ve r y dissatisfied · So m ewhat dissatisfied · Ne i t h er satisfied nor dissatisfie
+· So mewhat satisfied · Ve r y satisfied
+
+Base: US iPhone owners (switchers) who performed task (base sizes vary by task) Q10: How satisfied or dissatisfied were you with the following when switching to your [IPHONE MODEL] smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.044
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338571
+
+Satisfaction with iPhone setup tasks (UK)
+
+Satisfaction with iPhone setup tasks (among UK switchers who performed task)
+
+e81%
+100 4
+13
+
+85% 12
+
+68% 12
+
+71%
+
+63%
+
+7
+
+63%
+
+61%
+
+58%
+
+Top-2 box
+
+75
+
+15
+
+50
+
+25
+
+Operating systetsetting up email
+
+Transferring Getting the apps
+
+T ran sf e r r i ng
+
+(iOS) updates o r a d d itional email accountscontacts
+
+I had on my old phone photos or videos
+
+Transferring calendar entries
+
+446
+
+440
+
+417
+
+374
+
+330
+
+282
+
+Transferring music
+303
+
+Transferring text messages
+281
+
+· Ve r y dissatisfied · So m ewhat dissatisfied · Ne i t h er satisfied nor dissatisfie
+· So mewhat satisfied · Ve r y satisfied
+
+Base: UK iPhone owners (switchers) who performed task (base sizes vary by task) Q10: How satisfied or dissatisfied were you with the following when switching to your [IPHONE MODEL] smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.045
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338572
+
+Satisfaction with iPhone setup tasks (France)
+
+Satisfaction with iPhone setup tasks (among France switchers who performed task)
+
+e88%
+
+85%
+
+72%
+
+73%
+
+68%
+
+57%
+
+57%
+
+51%
+
+Top-2 box
+
+100
+
+10 75
+
+50
+
+25
+
+Operating systetsetting up email
+
+Transferring Getting the apps
+
+T ran sf e r r i ng
+
+(iOS) updates o r a d d itional email accountscontacts
+
+I had on my old phone photos or videos
+
+Transferring calendar entries
+
+177
+
+169
+
+153
+
+151
+
+129
+
+99
+
+Transferring music
+119
+
+Transferring text messages
+99
+
+· Ve r y dissatisfied · So m ewhat dissatisfied · Ne i t h er satisfied nor dissatisfie
+· So mewhat satisfied · Ve r y satisfied
+
+Base: France iPhone owners (switchers) who performed task (base sizes vary by task) Q10: How satisfied or dissatisfied were you with the following when switching to your [IPHONE MODEL] smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.046
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338573
+
+Satisfaction with iPhone setup tasks (Germany)
+
+Satisfaction with iPhone setup tasks (among Germany switchers who performed task)
+
+e85%
+
+81%
+
+61%
+
+66%
+
+52%
+
+47%
+
+49%
+
+42%
+
+Top-2 box
+
+100
+
+75
+
+20
+
+50
+
+25
+
+operating systetsetting up email
+
+Transferring Getting the apps
+
+T ran sf e r r i ng
+
+(los) updates o r a dditional email accountscontacts
+
+I had on my old phone photos or videos
+
+Transferring calendar entries
+
+Transferring music
+
+273
+
+268
+
+255
+
+232
+
+216
+
+230
+
+Transferring text messages
+206
+
+· Ve r y dissatisfied · So m ewhat dissatisfied · Ne i t h er satisfied nor dissatisfie
+· So mewhat satisfied · Ve r y satisfied
+
+Base: Germany iPhone owners (switchers) who performed task (base sizes vary by task) Q10: How satisfied or dissatisfied were you with the following when switching to your [IPHONE MODEL] smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.047
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338574
+
+Satisfaction with iPhone setup tasks Japan)
+
+Satisfaction with iPhone setup tasks (among Japan switchers who performed task)
+
+e56%
+
+45%
+
+55%
+
+32%
+
+33%
+
+32%
+
+29%
+
+28%
+
+Top-2 box
+
+100
+
+13
+
+75
+
+33 50
+
+40
+
+36
+
+25
+
+Operating systetsetting up email
+
+Transferring Getting the apps
+
+T ran sf e r r i ng
+
+(iOS) updates o r a d d itional email accountscontacts
+
+I had on my old phone photos or videos
+
+Transferring calendar entries
+
+Transferring music
+
+382
+
+396
+
+414
+
+331
+
+310
+
+250
+
+245
+
+Transferring text messages
+274
+
+· Ve r y dissatisfied · So m ewhat dissatisfied · Ne i t h er satisfied nor dissatisfie
+· So mewhat satisfied · Ve r y satisfied
+
+Base: Japan iPhone owners (switchers) who performed task (base sizes vary by task) Q10: How satisfied or dissatisfied were you with the following when switching to your [IPHONE MODEL] smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.048
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338575
+
+Satisfaction with iPhone setup tasks (China)
+
+Satisfaction with iPhone setup tasks (among China switchers who performed task)
+
+e79%
+
+71%
+
+70%
+
+60%
+
+63%
+
+54%
+
+59%
+
+59%
+
+Top-2 box
+
+100
+
+10
+
+7
+
+75
+
+50
+
+25
+
+Operating systetsetting up email
+
+Transferring Getting the apps
+
+T ran sf e r r i ng
+
+(iOS) updates o r a d d itional email accountscontacts
+
+I had on my old phone photos or videos
+
+Transferring calendar entries
+
+Transferring music
+
+454
+
+440
+
+449
+
+415
+
+432
+
+410
+
+422
+
+Transferring text messages
+414
+
+· Ve r y dissatisfied · So m ewhat dissatisfied · Ne i t h er satisfied nor dissatisfie
+· So mewhat satisfied · Ve r y satisfied
+
+Base: China iPhone owners (switchers) who performed task (base sizes vary by task) Q10: How satisfied or dissatisfied were you with the following when switching to your [IPHONE MODEL] smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.049
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338576
+
+·
+
+·
+
+Apple feature familiarity (US)
+
+98% 94
+
+97% 94
+
+91% 81
+, U>
+
+94% 80
+
+87% 69
+US
+tt
+p
+
+89% 80
+
+68% 47
+
+66% 68
+0U
+
+48% 28 Know at least a little
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+A pp Store
+
+iT un es
+
+FaceT i m e
+
+Siri
+
+n= 481 switchers; 483 potential switchers
+
+Pote n ti a I Switche6witcher
+iMessage
+
+Potential Switche6witcher
+iCloud
+
+Pote n ti a I Switche6witcher
+Touch ID
+
+Potential Switche6witcher
+Apple Pay
+
+Pote n ti a I Switche6witcher
+Air Dro
+
+Base: US iPhone owners (switchers); Android smartphone owners (potential switchers) Q14: How familiar are you with the following?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.051
+
+· Ne v er heard of it · On ly know the name · Kn ow a little · Kn ow a fair amount · Kn ow it well
+APPLE CONFIDENTIAL 30
+APL-APPSTORE 10338578
+
+Apple feature familiarity (UK)
+
+94% 93
+
+92% 93
+
+84% 74 12
+
+84% 63
+a la
+p
+
+83% 61
+
+83% 81
+
+64% 41 24
+
+58% 55 17 15
+
+49% 29 Know at least a little 27
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+A pp Store
+
+iT un es
+
+FaceT i m e
+
+Siri
+
+n= 470 switchers; 470 potential switchers
+
+Potential Switche6witcher
+iMessage
+
+Potential Switche6witcher
+iCloud
+
+I
+Pote n ti a I Switche6witcher
+Touch ID
+
+I
+Potential Switche6witcher
+Apple Pay
+
+Pote n ti a I Switche6witcher
+Air Dro
+
+Base: UK iPhone owners (switchers); Android smartphone owners (potential switchers) Q14: How familiar are you with the following?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.052
+
+· Ne v er heard of it · On ly know the name · Kn ow a little · Kn ow a fair amount · Kn ow it well
+APPLE CONFIDENTIAL 3 1
+APL-APPSTORE 10338579
+
+Apple feature familiarity (France)
+
+99% 91
+
+95% 85
+
+82% 62
+
+73% 53
+
+78% 55
+
+80% 74
+
+48% 3 7
+
+43% 45
+
+39% 28 Know at least a little
+
+32
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+A pp Store
+
+iT un es
+
+FaceT i m e
+
+Siri
+
+n= 186 switchers; 276 potential switchers
+
+Potential Switche6witcher
+iMessage
+
+Potential Switche6witcher
+iCloud
+
+Pote n ti a I Switche6witcher
+Touch ID
+
+Potential Switche6witcher
+Apple Pay
+
+Pote n ti a I Switche6witcher
+Air Dro
+
+Base: France iPhone owners (switchers); Android smartphone owners (potential switchers) Q14: How familiar are you with the following?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.053
+
+· Ne v er heard of it · On ly know the name · Kn ow a little · Kn ow a fair amount · Kn ow it well
+APPLE CONFIDENTIAL 3 2
+APL-APPSTORE 10338580
+
+Apple feature familiarity (Germany)
+
+97% 90
+0'
+
+92% 86
+
+68% 48
+
+86% 60
+
+67% 50
+I'I ,,
+
+74% 67
+&3 I
+
+74% 41
+
+42% 33
+
+37% 23 Know at least a little
+
+'I
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+A pp Store
+
+iT un es
+
+FaceT i m e
+
+Siri
+
+n= 286 switchers; 339 potential switchers
+
+I
+Potential Switche6witcher
+iMessage
+
+I
+Potential Switche6witcher
+iCloud
+
+I
+Pote n ti a I Switche6witcher
+Touch ID
+
+I ia Potential Switche6witcher
+Apple Pay
+
+t
+I
+Pote n ti a I Switche6witcher
+Air Dro
+
+Base: Germany iPhone owners (switchers); Android smartphone owners (potential switchers) Q14: How familiar are you with the following?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.054
+
+· Ne v er heard of it · On ly know the name · Kn ow a little · Kn ow a fair amount · Kn ow it well
+APPLE CONFIDENTIAL 3 3
+APL-APPSTORE 10338581
+
+Apple feature familiarity japan)
+
+90% 85
+'E
+
+83% 87
+
+40% 41
+
+61% 54
+
+38% 45
+
+76% 62
+E4i
+
+42% 33
+
+44% 56
+
+16% 24 Kn ow at least a little
+
+48 '43
+
+·
+an I
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+A pp Store
+
+iT un es
+
+FaceT i m e
+
+Siri
+
+n= 451 switchers; 261 potential switchers
+
+·
+ma Potential Switche6witcher
+iMessage
+
+e e
+I Potential Switche6witcher
+iCloud
+
+I: Pote n ti a I Switche6witcher
+Touch ID
+
+I
+a1 Potential Switche6witcher
+Apple Pay
+
+I
+Pote n ti a I Switche6witcher
+Air Dro
+
+Base: Japan iPhone owners (switchers); Android smartphone owners (potential switchers) Q14: How familiar are you with the following?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.055
+
+· Ne v er heard of it · On ly know the name · Kn ow a little · Kn ow a fair amount · Kn ow it well
+APPLE CONFIDENTIAL 34
+APL-APPSTORE 10338582
+
+Apple feature familiarity (China)
+
+96% 84
+
+87% 76
+p0
+
+80% 70
+
+84% 64
+
+84% 73
+
+85% 72
+
+88% 67 EHJ
+0
+
+77% 75
+
+67% 53 Know at least a little
+
+' lj LJ
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+Pote n ti a I Switche6witcher
+
+Potential Switche6witcher
+
+A pp Store
+
+iT un es
+
+FaceT i m e
+
+Siri
+
+n= 467 switchers; 461 potential switchers
+
+Potential Switche6witcher
+iMessage
+
+Potential Switche6witcher
+iCloud
+
+Pote n ti a I Switche6witcher
+Touch ID
+
+Potential Switche6witcher
+Apple Pay
+
+Pote n ti a I Switche6witcher
+Air Dro
+
+Base: China iPhone owners (switchers); Android smartphone owners (potential switchers) Q14: How familiar are you with the following?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.056
+
+· Ne v er heard of it · On ly know the name · Kn ow a little · Kn ow a fair amount · Kn ow it well
+APPLE CONFIDENTIAL 3 5
+APL-APPSTORE 10338583
+
+Apple feature familiarity (top-2 box)
+
+Top-2 box (know it well/know a fair amount): Differences between Switchers and Potential Switchers
+
+App Store iTunes Store Face Time
+
+US
+
+UK Fra nce Ger m a ny Ja p an C hina
+
+L
+
+O
+
+Siri
+
+iMessage
+
+iCloud
+
+Touch ID
+
+Apple Pay
+
+AirDrop
+
++ 10 pts. higher than other g r~ 0 pts . h i g her than other g r ~ 30 + pt s . h i gher than other group
+Base: iPhone owners (switchers) and Android smartphone owners (potential switchers) Q14: How familiar are you with the following?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.057
+
+EKED
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338584
+
+App Store, iMessage, and Touch ID {and others in China) are rated high in importance
+
+Feature importance -- top-2 box {among those who know feature well/know a fair amount/ know a little)
+
+US
+
+switchers
+
+Potential Switchers
+
+UK
+Swi tch e rs Potential Switchers
+
+France
+
+Switchers
+
+Potential Switchers
+
+Germany
+
+Switchers
+
+Potential Switchers
+
+Japan
+
+Switchers
+
+Potential Switchers
+
+China
+
+Switchers
+
+Potential Switchers
+
+App Store
+
+·
+
+·
+
+iMessage Touch ID iTunes Store Face Time
+
+· '.
+
+46P/j
+
+·
+
+·
+
+·
+
+'
+
+.
+
+· ' '
+
+429o
+
+45%
+
+4 7~ 7o 32/0
+
+4 3M
+
+·
+
+'
+
+· '
+
+5%~
+
+K
+
+s s%~ 40 % .
+
+39/o 4 5fe
+
+3 VJD
+
+·
+
+·
+
+·
+
+·
+
+Siri
+
+·
+
+·
+
+'
+
+.
+
+249a
+
+iCloud
+
+49Yo 4 7Yo
+
+3c6%
+
+·
+
+·
+
+·
+
+Apple Pay
+
+AirDrop
+
+42%
+
+29eA' 43%
+
+1 0 2 0 30 4 0 59 · ·
+
+·:
+
+·
+
+·
+
+·
+
+·
+
+·
+
+-" Base sizes vary by feature (Apple Pay not shown outside
+
+K)
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers) aware (know it well/know a fair amount/know a little) of feature
+
+Q15: How important or unimportant were each of the following in your decision to acquire the [IPHONE MODEL] smartphone? (Switchers)
+
+Q15: How important or unimportant are each of the following in your consideration of an iPhone for you next smartphone purchase? (Potential SAltiablers)
+
+CONFIDENTIAL 3 6
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.058
+
+APL-APPSTORE 10338585
+
+Apple feature importance in purchase/
+consideration
+
+Top-2 box: Differences between Switchers and Potential Switchers
+
+App Store iMessage Touch ID iTunes Store Face Time Siri iCloud Apple Pay AirDrop
+
+US
+
+UK Fra nce Ger m a ny J a p an C hina
+
++ 10 pts. higher than other g r~ 0 pts . h i g her than other g r ~ 30 + pt s . h i gher than other group
+
+EKED
+
+-" Base sizes vary by feature (Apple Pay not shown outside the US/UK) Base: iPhone owners (switchers); Android smartphone owners (potential switchers) aware (know it well/know a fair amount/know a little) of feature
+Q15: How important or unimportant were each of the following in your decision to acquire the [IPHONE MODEL] smartphone? (Switchers) Q15: How important or unimportant are each of the following in your consideration of an iPhone for you next smartphone purchase? (Potential SAltlblers)
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.059
+
+APL-APPSTORE 10338586
+
+·
+
+·
+
+·
+
+» I·I
+
+S
+
+gS S
+
+· a
+
+I
+
+0 0
+
+Smartphone usage (iPhone)
+
+At least weekly usage on iPhone (among switchers)
+
+US
+
+UK
+
+Email (personal or work)
+
+Web browsing( a n yt h i ng d o n e w it hin awe r
+
+d to
+
+apps)
+
+Viewing photos
+
+Check/update social networking sites (e.g., Facebook, etc.)
+
+Game apps
+
+·
+
+·
+
+Front-facing camera (touchscreen side of smartphone)
+
+Music (streaming or downloaded)
+
+Instant messaging/chat (e.g., WhatsApp, iMessage, WeChat, etc.)
+
+Bark-facing camera (opposite side of touchscreen)
+
+Watching video (films/movies, TV shows, video clips, etc.)
+
+Non-game apps
+
+Video calling (e.g. Skype, FaceTime, etc.)
+
+Making payments by NFC
+
+15%
+
+Working on documents, spreadsheets or presentations
+
+109o
+
+None of the above
+
+1%o
+
+2%
+
+Fra nce Ger m an y J a p a n Ch i n a
+
+·
+
+·
+
+·
+
+·
+
+· I'.
+4 8%
+
+4 2%
+
+28 % 8%
+
+2 1% 3%
+
+1%o
+
+0%o
+
+1 5oo BP/ : 5% 1% 49o 2%
+
+·
+
+'
+
+'
+
+·
+
+R1N:
+
+2 99q
+
+3 1%
+
+24 %
+
+0%
+
+481
+
+4 70
+
+186
+
+286
+
+451
+
+467
+
+10 20 3
+
+4 ' 50 · ·
+
+·
+
+·
+
+·
+
+.
+
+·
+
+·
+
+·
+
+Base: US iPhone owners (switchers)
+
+Qll . Which of these, if any, are you currently using or doing on your [BRAND] smartphone at least once a week? (select all that apply)
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.061
+
+APL-APPSTORE 10338588
+
+In Japan/China, higher percentages of potential
+switchers are doing various activities on their
+
+A gal vQII &age orRPA(PoiIe%P4'Ae%cA ti5feeP iPhone andSamsung/Sony
+
+owners
+
+US
+
+UK Fra nce Ge r m any J a pa n Chi n a
+
+Email (personal or work)
+
+Web browsing (anything done within a web browser, as opposed to ~a~s
+
+Viewing photos
+
+Check/update social networking sites (e.g., Facebook, etc.)
+
+Game apps
+
+Front-facing camera (touchscreen side of smartphone)
+
+Music (streaming or downloaded)
+
+Instant messaging/chat (e.g., WhatsApp, iMessage, WeChat, etc.) Back-facing camera (opposite side of touchscreen)
+
+Watching video (films/movies, TV shows, video clips, etc.)
+
+Non-game apps
+
+Video calling (e.g. Skype, FaceTime, etc.)
+
+Making payments by NFC
+
+Working on documents, spreadsheets or presentations
+
+None of the above
+
++ 10 pts. higher than other g r~ 0 pts . h i g her than other g r ~ 30 + pt s . h i gher than other group
+
+Ranked on US switchers
+
+-" Samsung, except in Japan where it is Sony
+
+Base: US iPhone owners (switchers); Android smartphone owners (potential switchers) asked about current Samsung/Sony smartphone
+
+Qll . Which of these, if any, are you currently using or doing on your [BRAND] smartphone at least once a week? (select all that apply)
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.062
+
+APL-APPSTORE 10338589
+
+Smartphone usage (US)
+
+At least weekly usage on smartphone (among owners of each brand)
+iphone Samsung
+
+Email (personal or work)
+
+Web browsing( a n yt h i ng d o n e w it hin awe r
+
+d to
+
+apps)
+
+Viewing photos
+
+Check/update social networking sites (e.g., Facebook, etc.)
+
+Game apps
+
+Front-facing camera (touchscreen side of smartphone)
+
+Music (streaming or downloaded)
+
+Instant messaging/chat (e.g., WhatsApp, iMessage, WeChat, etc.)
+
+Back-facing camera (opposite side of touchscreen)
+
+Watching video (films/movies, TV shows, video clips, etc.)
+
+Non-game apps
+
+Video calling (e.g. Skype, FaceTime, etc.)
+
+4 0% 27%
+
+Making payments by NFC
+
+20%
+
+Working on documents, spreadsheets or presentations
+
+None of the above
+
+1%
+
+1%
+
+481
+
+28 3
+
+1 0 26 30 4 0 50 . ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: US iPhone owners (switchers); Android smartphone owners (potential switchers) asked about current Samsung smartphone
+
+Qll . Which of these, if any, are you currently using or doing on your [BRAND] smartphone at least once a week? (select all that apply)
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.063
+
+APL-APPSTORE 10338590
+
+Smartphone usage (UK)
+
+At least weekly usage on smartphone (among owners of each brand)
+iphone Samsung H TC So ny
+
+Email (personal or work)
+
+Web browsing (anything done within a web browser, as opposed to
+
+apps)
+
+·
+
+·
+
+'
+
+.
+
+·
+
+·
+
+·
+
+Check/update social networking sites (e.g., Facebook, etc.)
+
+·
+
+·
+
+'
+
+Viewing photos
+
+·
+
+·
+
+'
+
+.
+
+Instant messaging/chat (e.g., WhatsApp, iMessage, WeChat, etc.)
+
+·
+
+·
+
+·
+
+'
+
+.
+
+Game apps
+
+Bark-facing camera (opposite side of touchscreen)
+
+Music (streaming or downloaded)
+
+Front-facing camera {touchscreen side of smartphone) Non-game apps
+
+48F~ II 35 % 50r~ 4 2%
+
+38% 4 6%
+
+Watching video {films/movies, TV shows, video clips, etc.)
+
+II 37 %
+
+4 29'
+
+Video calling (e.g. Skype, FaceTime, etc.)
+
+22%
+
+890
+
+16%
+
+Making payments by NFC
+
+4%
+
+890
+
+Working on documents, spreadsheets or presentations
+
+109'
+
+None of the above
+
+2%
+
+3%
+
+0%
+
+0%
+
+470
+
+3 10
+
+52
+
+50
+
+1 0 2 0 30 40 50 . ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: UK iPhone owners (switchers); Android smartphone owners (potential switchers) asked about current Samsung/HTC/Sony smartphone
+
+Qll . Which of these, if any, are you currently using or doing on your [BRAND] smartphone at least once a week? (select all that apply)
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.064
+
+APL-APPSTORE 10338591
+
+Smartphone usage (France)
+
+At least weekly usage on smartphone (among owners of each brand)
+iphone Samsung Web browsing (anything done within a web browser, as opposed to apps)
+Email (personal or work)
+
+Viewing photos
+
+Check/update social networking sites (e.g., Facebook, etc.)
+
+Game apps
+
+Back-facing camera (opposite side of touchscreen)
+
+·
+
+·
+
+'
+
+.
+
+Non-game apps
+
+Music (streaming or downloaded)
+
+Instant messaging/chat (e.g., WhatsApp, iMessage, WeChat, etc.)
+
+Front-facing camera (touchscreen side of smartphone)
+
+4 7% 4 8%
+
+Watching video (films/movies, TV shows, video clips, etc.)
+
+4 %
+
+34%
+
+Video calling (e.g. Skype, FaceTime, etc.)
+
+28 %
+
+19%
+
+Working on documents, spreadsheets or presentations
+
+8%
+
+12%
+
+Making payments by NFC None of the above
+
+8%
+
+S%
+
+1%
+
+0 0/
+
+18 6
+
+19 0
+
+1 0 20 BQ 4 0 50 . ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: France iPhone owners (switchers); Android smartphone owners (potential switchers) asked about current Samsung smartphone
+
+Qll . Which of these, if any, are you currently using or doing on your [BRAND] smartphone at least once a week? (select all that apply)
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.065
+
+APL-APPSTORE 10338592
+
+Smartphone usage (Germany)
+
+At least weekly usage on smartphone (among owners of each brand)
+iphone Samsung Web browsing (anything done within a web browser, as opposed to apps)
+Viewing photos
+
+Email (personal or work)
+
+Instant messaging/chat (e.g., WhatsApp, iMessage, WeChat, etc.)
+
+Check/update social networking sites (e.g., Facebook, etc.)
+
+·
+
+·
+
+Back-facing camera (opposite side of touchscreen)
+
+·
+
+·
+
+Music (streaming or downloaded)
+
+50Yo
+
+Non-game apps
+
+Front-facing camera {touchscreen side of smartphone)
+
+Game apps
+
+Watching video {films/movies, TV shows, video clips, etc.)
+
+Video calling (e.g. Skype, FaceTime, etc.)
+
+1 3%o
+
+Working on documents, spreadsheets or presentations
+
+1 3%
+
+Making payments by NFC
+
+3%
+
+4%
+
+None of the above
+
+Ooo
+
+1%o
+
+286
+
+2 32
+
+1 0 20 30 4 0 50 . ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: Germany iPhone owners (switchers); Android smartphone owners (potential switchers) asked about current Samsung smartphone
+
+Qll . Which of these, if any, are you currently using or doing on your [BRAND] smartphone at least once a week? (select all that apply)
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.066
+
+APL-APPSTORE 10338593
+
+Smartphone usage Japan)
+
+At least weekly usage on smartphone (among owners of each brand)
+iphone Son y Shar p
+
+Email (personal or work)
+
+Web browsing (anything done within a web browser, as opposed to apps)
+
+Instant messaging/chat (e.g., WhatsApp, iMessage, WeChat, etc.)
+
+·
+
+Viewing photos Check/update social networking sites (e.g., Facebook, etc.) Game apps
+
+40%
+
+· · '
+
+42~
+
+42% 45%
+
+Non-game apps
+
+4 5Yo 3 6%
+
+Back-facing camera (opposite side of touchscreen)
+
+2 59o 37% 2 7M
+
+Front-facing camera {touchscreen side of smartphone) Music (streaming or downloaded)
+
+2 B% 2 8%
+
+16%
+
+'2'2~/a 32% 15%
+
+Watching video {films/movies, TV shows, video clips, etc.)
+
+15%
+
+26%
+
+2496
+
+Video calling (e.g. Skype, FaceTime, etc.) Working on documents, spreadsheets or presentations
+
+5%
+
+5%
+
+9%
+
+4%
+
+129 '
+
+9F
+
+Making payments by NFC None of the above
+
+1%
+
+2%
+
+0 0/
+
+0%
+
+451
+
+78
+
+55
+
+1 0 20
+
+BQ 40
+
+50
+
+.
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: Japan iPhone owners (switchers); Android smartphone owners (potential switchers) asked about current Sony/Sharp smartphone
+
+Qll . Which of these, if any, are you currently using or doing on your [BRAND] smartphone at least once a week? (select all that apply)
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.067
+
+APL-APPSTORE 10338594
+
+Smartphone usage (China)
+
+At least weekly usage on smartphone (among owners of each brand)
+i phone Samsung X i aom i Hu a w e i
+Instant messaging/chat (e.g., WhatsApp, iMessage, WeChat, etc.)
+
+Viewing photos
+Web browsing (anything done within a web browser, as opposed to a s) Watching video (films/movies, TV shows, video clips, etc.)
+
+Music (streaming or downloaded)
+
+e · '.
+
+Back-facing camera (opposite side of touchscreen)
+
+Game apps
+
+Check/update social networking sites (e.g., Facebook, etc.)
+
+Front-facing camera (touchscreen side of smartphone)
+
+4 6% 4 8Fa
+
+44Fo
+
+4 5F~ .
+
+Email (personal or work) Non-game apps
+
+40 Y H
+31%
+
+4 59' 3096
+
+4 4% 2 796
+
+4 3% 3 5%
+
+Making payments by NFC
+
+27%
+
+Video calling (e.g. Skype, FaceTime, etc.)
+
+3 69o 1BY E
+
+Working on documents, spreadsheets or presentations None of the above
+
+090
+
+QO/
+
+090
+
+090
+
+467
+
+18 3
+
+77
+
+75
+
+1 0 2 0 30 40 50 . ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: China iPhone owners (switchers); Android smartphone owners (potential switchers) asked about current Samsung/Xiaomi/Huawei smartphone
+
+Qll . Which of these, if any, are you currently using or doing on your [BRAND] smartphone at least once a week? (select all that apply)
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.068
+
+APL-APPSTORE 10338595
+
+App Store,Touch ID, and iMessage have the
+highest usage levels of the iPhone features shown
+to switchers
+At least weekly usage (among switchers)
+
+App Store iMessage Siri Face Time Touch ID"iTunes Store iCloud Apple Pay"AirDrop
+
+US
+
+UK France Ge rm a ny Ja p a n Ch ina
+
+ERR
+
+O4 6 %
+4 09o
+
+3 196 3 19o
+
+34Fo 2 49o
+
+39%
+
+4 6%o
+
+4 09%
+
+2BoA 8%
+
+2 8%
+
+1 1%o
+
+3 0/
+
+219'
+
+37 %
+
+3 2%
+
+2 6%
+
+10%
+
+27 %
+
+2 5%
+
+2 19o
+
+169o
+
+12o
+
+79o
+
+69o
+
+5% o
+
+3%
+
+2%
+
+12%
+
+481
+
+4 70
+
+18 6
+
+28 6
+
+451
+
+467
+
+1 0 2 0 30 40 5 0 · ·
+
+·:
+
+·
+
+·
+
+·
+
+·
+
+·
+
+For t ose who "only know the name or w o a v e n e v e r e a r o it , no n - u s age is assumed (i.e. feature not seen) -" Touch ID base is those with an iPhone Ss/iPhone 6/iPhone 6 Plus; Apple Pay base is those with an iPhone 5 or newer (Apple Pay not shown outside the US/
+
+UK) Base: iPhone owners (switchers) Q16: Which of these, if any, do you use on your iPhone smartphone at least once a week? (select all that apply)
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.069
+
+APL-APPSTORE 10338596
+
+Competitive feature usage (at least weekly) on
+current smartphone
+
+You Tube Gmail/Google Mail Google Maps Google+ WhatsApp Google Play Google Drive Hangouts Google Now Google Cast WeChat Ali pay Wallet QQ Instant Messaging WeChat Payment Youku None of these
+
+US
+
+switchers
+
+Potential Switchers
+
+UK
+
+Switchers
+
+Potential Switchers
+
+France
+
+switchers
+
+Potential Switchers
+
+Germany
+
+Switchers
+
+Potential Switchers
+
+Japan
+
+Switchers
+
+Potential Switchers
+
+China
+
+Switchers
+
+Pote nt i al Switchers
+
+44Y
+169' 12Y o 1 1Yo 79o 49o 2Yo
+
+14o 4 3r 1.5 Yo 11% 69o
+2oo
+
+40% 3 1Ya 12%
+69o
+49o 39o 2 Yo
+
+·
+
+·
+
+'
+
+.
+
+47Yo 2 1%
+
+79o 5% 3Yo
+
+3 4%a 2 7Ya 24% 8%
+3oo
+39' 39' 19'
+
+3 3Y a 2 0%
+89o 6oY
+
+2 8Yo 4 0 il
+30%
+1 4YO
+
+·
+
+·
+
+·
+
+69o
+
+7oo
+
+1 Yo
+
+69'
+
+2 Yo
+
+69'
+
+OYo
+
+19'
+
+10% 19o
+29a 09o 1oo 1%
+
+40Ya
+] aY 5% 09o 49o
+
+8% 25 % 79 o 89o 5% 59o 39a 79a 4%
+
+69' 29Ya 10 % 59o 59o 79a 2Yo
+
+3.%
+
+·
+
+·
+
+·
+
+·
+
+11Y o
+
+79o
+
+89o
+
+10%
+
+89o
+
+2'9o
+
+39
+
+29% 0%
+
+33 % 19o
+
+481
+
+483
+
+470
+
+4 70
+
+186
+
+2 76
+
+286
+
+3 39
+
+451
+
+261
+
+467
+
+461
+
+1 0 20 30 4 0 50 · ·
+
+·
+
+a ·
+
+·
+
+·
+
+·
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers) asked about current smartphone Q13. Which of these, if any, do you use on your [BRAND] smartphone at least once a week? (select all that apply)
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.070
+
+APL-APPSTORE 10338597
+
+·
+
+·
+
+Switchers generally report higher satisfaction with
+
+their iPhone than potential switchers report w ith
+
+their current smartphone
+
+Top-2 box satisfaction
+
+Us
+Switchers SPwo,titecnhteiarls
+
+Switchers
+
+Potential Switchers
+
+Speed of thesmartphone
+
+·
+
+·
+
+Operating system
+
+·
+
+·
+
+·
+
+·
+
+Screen quality
+
+·
+
+·
+
+Ease of holding and operating in my
+
+·
+
+·
+
+·
+
+·
+
+in~el
+
+Physical appearance and design
+
+·
+
+·
+
+·
+
+·
+
+Screen size
+
+· e
+
+Picture quality from the camera
+
+·
+
+·
+
+Reliability (e.g., crashes and freezes
+
+·
+
+·
+
+Iso c c 3
+
+Selection of content available
+
+Durability
+
+Security
+
+·
+
+·
+
+Privacy of my personal information
+
+·
+
+·
+
+Value for price paid
+
+el
+
+Ease of online backup tteeoioo data safe from loeei
+
+Storage space
+
+Batte ry life
+Ease of sharing files across other
+tC
+Ease of synchronization across my
+
+·
+
+·
+
+'
+
+.
+
+· e
+
+·
+
+·
+
+'
+
+France
+
+Switchers
+
+Potential Switchers
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+50%
+· e
+
+Germany
+
+Switchers
+
+Potential Switchers
+
+·
+
+·
+
+'
+
+.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+'
+
+.
+
+·
+
+·
+
+459~
+49~ro
+· e
+
+Japan
+
+Switchers
+
+Pote nt i a I Switchers
+
+China
+
+Switchers
+
+Pote nt i al Switchers
+
+·
+
+·
+
+'
+
+.
+
+el
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+'
+
+·
+
+30Yo
+
+481
+
+483
+
+470
+
+4 70
+
+18 6
+
+2 76
+
+286
+
+339
+
+4 51
+
+26 1
+
+467
+
+46 1
+
+1 0 2 0 30 40 50 · ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+APPLE CONFIDENTIAL 3 8
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.072
+
+APL-APPSTORE 10338599
+
+Satisfaction with current smartphone features (top
+box)
+
+Screen quality
+Physical appearance and design
+Operating system
+Speed of thesmartphone
+Picture quality from the camera Ease of holding and operating in my
+4 o.ncto
+Screen size Reliability (e.g., crashes and freezes
+e
+Durability
+Selection of content available
+Security
+Privacy of my personal information
+Batte ry life Ease of sharing files across other
+~ QM. Lc
+Ease of online backup
+Ease of synchronization across my
+rlouir
+Value for price paid
+Storage space
+
+US
+
+Switchers
+
+Potential Switchers
+
+· '
+
+39/o
+
+37%
+
+UK
+
+Switchers
+
+Potential Switchers
+
+· '
+
+40%
+
+France
+
+Switchers
+
+Potential Switchers
+
+33Ão
+
+Germany
+
+Switchers
+
+Potential Switchers
+
+·
+
+·
+
+Japan
+
+Switchers
+
+Pote nt i a I Switchers
+
+China
+
+Switchers
+
+Pote nt i al Switchers
+
+38% 2 7%
+
+34/
+
+25A
+
+289o
+
+'
+·
+
+30%
+
+'.
+·
+
+4%o
+
+27% 34%
+3%
+
+429o
+
+4 9%
+
+4 lord: 4 3% .
+
+27%
+
+50% 2 9Ão
+
+4 5%
+
+3 9% 3 59o
+
+3 19o
+
+257
+
+·
+
+·
+
+39%o
+
+22oo
+30% 3 1%
+
+10% 79o
+14%
+7 0~
+10%
+
+3.8 %
+39% 30% 27% 4 le 3 6&s
+
+2 0% 18% 2 2% 2 0% 2 5% 189o 19%
+
+48% 3 9.9o
+
+2 696 2 6%
+
+3 8% 3 3%
+
+17% 16o
+
+5:o 37% 309o
+
+169o 8 0/ 7%
+
+2 49o 36 % 26%
+
+169o 199o 2 0%
+
+2?%
+
+3 1%
+
+189o 2 4%
+
+16%
+
+209o 13%
+
+8 0/
+
+2 4% 2 1%
+
+169o
+
+10%
+
+5%
+
+23 %
+
+1?oo
+
+42% 4(PA
+
+21%
+
+26%
+33.9o 16o
+
+33% 12%
+
+1 1%o
+
+10% 12%
+
+2 2%o 21% 2?%
+
+17% o 2 5% 13%
+
+481
+
+483
+
+470
+
+4 70
+
+18 6
+
+2 76
+
+286
+
+339
+
+451
+
+467
+
+46 1
+
+10 2 0
+
+3.0 40
+
+50
+
+·
+
+·
+
+~
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+APPLE CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.073
+
+APL-APPSTORE 10338600
+
+Satisfaction with smartphone features (top-2 box)US
+
+100
+
+90
+
+80
+
+· ·
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+Speed
+
+o f the
+
+O pera t i n g
+
+smartphonesystem
+
+Ease of
+
+holding andPhysical
+
+Picture
+
+Selection
+
+Screen o p erating a p p earance Screen q u a lity from
+
+of content
+
+quality i n m y handstnd design s ize t he c a m era Reliability available
+
+P rivacy of Val u e f o r my personal price
+Dur a b ility S e c urity information p a i d
+
+Ease
+of online
+backup
+
+Storage space
+
+Ease of E a se of
+
+sharing s y n chronization
+
+Battery f i les acrosacross my
+
+life
+
+other deviatettices
+
+Switcher
+
+· Po t ential Switcher
+
+® Difference (Switcher higher)
+
+· Di f fe rence (Potential Switcher higher)
+
+n= 481 switchers; 483 potential switchers
+
+Base: US iPhone owners (switchers); Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.074
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338601
+
+Satisfaction with smartphone features (top-2 box)US (iPhone vs. SamsuncI owners)
+100
+
+90
+
+80
+
+0
+
+·
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+Speed
+
+o f the
+
+O pera t i n g
+
+smartphonesystem
+
+Ease of
+
+holding andPhysical
+
+Picture
+
+Selection
+
+Screen o p erating a p p earance Screen q u a lity from
+
+of content
+
+quality i n m y handstnd design size t he c a m era Reliability available
+
+P rivacy of Val u e fo r my personal price
+Dur a b i l ity Security information p a i d
+
+Ease of online
+ba ckup
+
+Storage space
+
+Ease of E a se of
+
+sharing s y n chronization
+
+Battery f i les acrosacross my
+
+life
+
+other deviatettices
+
+iPhone owners (switchers) · Samsu n g o wners (potential switcher) · Dif e r e n ce (Switcher higher) · Diff er e n ce (Potential Switcher higher)
+
+n= 481 switchers; 283 potential switchers
+
+Base: US iPhone owners (switchers); Samsung Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.075
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338602
+
+Satisfaction with smartphone features (top-2 box)-
+UK
+
+100 90 80 70 60 50 40 30 20 10
+
+P hysical Spe e d appearanceof the
+and design smartphone
+
+Ease of Picture h oldi n g and S creen q u a lity fronoperatin g Scr e e n q uality t h e camera in my hands s i z e
+
+S e I e ct i o n
+
+Operating of content
+
+Storage
+
+system ava i l a bl e Re l i a b ility D u r a b ilit y S e c u r ity space
+
+E ase of
+
+Ease o f
+
+Value for Privacy of Ease sy nc h r o n izatisftttring
+
+price my personal of onlinetcross my fil e s across B a t t e ry
+
+paid inf or m a t io n b a ckup devices other devices life
+
+Switcher
+
+· PotentiaSlwitcher
+
+0 Di f ference (Switcher higher)
+
+· Di f f e rence (Potential Switcher higher)
+
+n= 470 switchers; 470 potential switchers
+
+Base: UK iPhone owners (switchers); Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.076
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338603
+
+Satisfaction with smartphone features (top-2 box)-
+France
+
+100 90 80 70 60 50 40 30 20 10
+
+Ease of
+
+holding andSpeed
+
+Physical
+
+operating o f th e
+
+O per at i n g a ppearance Screen
+
+in my handssmartphonesystem a n d design quality
+
+Picture Screen q u a lity from
+size t he c a m er a R e liability Security
+
+Storage space
+
+Selection of content
+available
+
+E ase of
+
+Ease o f
+
+P rivacy of Ease sy nc h r o n i zatisftttrin g Value f o r
+
+m y personal of onlinetcross my f il e s across p r i ce
+
+Dur a b i lityinformation b ackup devices other devices paid
+
+Battery
+life
+
+Switcher
+
+· PotentiaSlwitcher
+
+0 Di f ference (Switcher higher)
+
+· Di f f e rence (Potential Switcher higher)
+
+n= 186 switchers; 276 potential switchers
+
+Base: France iPhone owners (switchers); Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.077
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338604
+
+Satisfaction with smartphone features (top-2 box)Germany
+
+100 90 80 70 60 50 40 30 20 10
+
+Ease of
+
+Physical Sp e e d Screen a p p earanceof the
+
+ho ldi n ga ncpicture operating q uality from Operating
+
+quality and design smartphonen my handshe camera system
+
+Screen size
+
+S eIe ction of content
+Reliability available Dur a b i l ity Security
+
+P rivacy of Ea s e Storage my personal of online
+spa c e info r m a t io n b a c kup
+
+E ase of
+
+Ease o f
+
+s ynchronizatisftttring
+
+Value f o r
+
+B atteryacross my f il e s across p r i c e
+
+l ife devi c e s other devices paid
+
+Switcher
+
+· Po te nti al Switc he r
+
+® Difference (Switcher higher)
+
+· Di f fe rence (Potential Switcher higher)
+
+n= 286 switchers; 339 potential switchers
+
+Base: Germany iPhone owners (switchers); Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.078
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338605
+
+Satisfaction with smartphone features (top-2 box)Japan
+
+100 90 80 70 60 50 40 30 20 10
+
+Physical
+
+Speed
+
+a ppearance S creen o f t h e
+
+Screen
+
+a nd design q u a l it y s m a r t phone s i z e
+
+Ease of
+
+Picture holdi n g and
+
+quality fronoperating
+
+Operating
+
+the camera in my hands Reliability system
+
+Battery
+I if e
+
+Storage space
+
+Value for
+price
+pal CI
+
+E ase of
+
+Ease o f
+
+Selection Privacy of
+
+Ease s yn c h r o nizatishttring
+
+of content my personal
+
+of onlinacross my f il es across
+
+Security a v ailable i n f o rmation D u rability b a c kup devices other devices
+
+Switcher
+
+· Po t ential Switcher
+
+0 Di f ference (Switcher higher)
+
+· Di f f e rence (Potential Switcher higher)
+
+n= 451 switchers; 261 potential switchers
+
+Base: Japan iPhone owners (switchers); Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.079
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338606
+
+Satisfaction with smartphone features (top-2 box)Japan (iPhone vs. Sony owners)
+100 90 80 70 60 50 40 30 20 10
+
+Ease of
+
+Physical
+
+Speed
+
+Picture holdi n g and
+
+appearance S creen of the
+
+Screen q u a lity fronoperating
+
+Operating
+
+a nd design q u a l i ty smartphone s iz e t he c a m era in my hands Reliability system
+
+Battery
+life
+
+Storage space
+
+Value for
+price
+pal CI
+
+Selection Privacy of of content my personal
+Security a v ailable i n f o rmation Durability
+
+E ase of
+
+Ease o f
+
+Ease s yn c h r o nizatishttring
+
+of onlinacross my f il es across
+
+b ackup devices other devices
+
+iPhone owners (switchers) · Sony o w n e rs (potential switcher) · Dif e re n c e (Switcher higher) · Dif e re n c e (Potential Switcher higher)
+
+n= 451 switchers; 78 potential switchers
+
+Base: Japan iPhone owners (switchers); Sony Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.080
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338607
+
+Satisfaction with smartphone features (top-2 box)China
+
+100 90 80 70 60 50 40 30 20 10
+
+Speed
+
+Picture
+
+Physical
+
+of the
+
+quality from S c reen appearance
+
+Operating
+
+s martphone Reliability the camera qua l i t y and design D u rability system
+
+Screen size
+
+Ease of
+
+holding and
+
+Privacy of S e l e ction Ease
+
+operating
+
+my personal of content of online
+
+in my hands Security information available backup
+
+E ase of
+
+Ease o f
+
+synchronizatisftttnng
+
+S torageacross my f il e s across B a t t e r y
+
+space devices
+
+other devices life
+
+Value for
+price pa I CI
+
+Switcher
+
+· Po te nti al Switc he r
+
+® Difference (Switcher higher)
+
+· Di f fe rence (Potential Switcher higher)
+
+n= 467 switchers; 461 potential switchers
+
+Base: China iPhone owners (switchers); Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.081
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338608
+
+Satisfaction with smartphone features (top-2 box)China (iPhone vs. Xiaomi owners)
+100 90 80 70 60 50 40 30 20 10
+
+Speed
+
+Picture
+
+Physical
+
+of the
+
+quality from Screen a p p earance
+
+Operating
+
+smartphone Reliability the camera quality a n d design D u rability system
+
+Screen size
+
+Ease of
+
+holding and
+
+Privacy of S e l e ction Ease
+
+operating
+
+my personal of content of online
+
+in my hands Security information available backup
+
+E ase of
+
+Ease o f
+
+synchronizatisftttnng
+
+S torageacross my f il e s across B a t t e r y
+
+space devices
+
+other devices life
+
+Value for
+price pa I CI
+
+iPhone owners (switchers) · Xiao m i o w n ers (potential switcher) 0 Dif e r e n ce (Switcher higher) · Dif e re n c e (Potential Switcher higher)
+
+n= 467 switchers; 77 potential switchers
+
+Base: China iPhone owners (switchers); Xiaomi Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.082
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338609
+
+Satisfaction with smartphone features (top-2 box)China (iPhone vs. Huawei owners)
+100
+
+90
+
+80
+
+70
+
+·
+
+·
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+Speed
+
+Picture
+
+Physical
+
+of the
+
+quality from Screen a p p earance
+
+Operating
+
+smartphone Reliability the camera quality a n d design D u rability system
+
+Screen size
+
+Ease of
+
+holding and
+
+P rivacy of S e l e ctio n Ea s e
+
+operating
+
+my personal of content o f o n line
+
+i n my hands Security information available bac k u p
+
+E ase of
+
+Ease o f
+
+synchronizatisftttnng
+
+S torageacross my f il e s across B a t t e r y
+
+space devices
+
+other devices life
+
+Value for
+price pa I CI
+
+iPhone owners (switchers) · Huaw e i o w n ers (potential switcher) 0 Dif e r e n ce (Switcher higher) · Dif e re n c e (Potential Switcher higher)
+
+n= 467 switchers; 75 potential switchers
+
+Base: China iPhone owners (switchers); Huawei Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.083
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338610
+
+Switchers vs. Potential Switchers: smartphone feature satisfaction
+
+Smartphone feature satisfaction (top-2 box) differences
+
+US
+
+UK France Ge r m any J a pa n
+
+Speed of thesmartphone
+
+Operating system (e.g., Android, iPhone iOS)
+
+Screen quality
+
+Ease of holding and operating in my hands
+
+Physical appearance and design
+
+Screen size
+
+Picture quality from the camera
+
+Reliability (e.g., crashes and freezes less)
+
+Selection of content (e.g. apps, music, video) available
+
+Durability
+
+Security
+
+Privacy of my personal information
+
+Value for price paid
+
+Ease of online backup (keeping data safe from loss)
+
+Storage space
+
+Batte ry life
+
+Ease of sharing files (e.g. photos, documents, music, video)
+
+r
+
+t
+
+v
+
+Ease ofsynchronization across my devices
+
+Chi n a
+
++ 10 pts. higher than other g r~ 0 pts . h i g her than other g r ~ 30 + pt s . h i gher than other gr
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.084
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338611
+
+There are several attributes where dissatisfaction
+
+with current smartphone among potential switchers
+
+is hicIh
+Batte ry life Storage space Value for price paid Ease of synchronization across my
+rl oa Iir~ c
+Durability Selection of content available Reliability (e.g., crashes and freezes
+~a~
+Picture quality from the camera Security Ease of sharing files across other
+d ostir~ c
+Screen size Screen quality Ease of holding and operating in my
+hanric
+Speed of thesmartphone
+Ease of online backup Operating system Privacy of my personal information Physical appearance and design
+
+US
+
+switchers
+
+Potential Switchers
+
+149'
+
+30o
+
+12/o
+
+229 o
+
+9%
+
+8%
+
+59'
+
+109'
+
+5/0
+
+8%
+
+Soo .
+
+7%
+
+4%
+
+22FQ
+
+4%
+
+179'
+
+49o
+
+59o
+
+39'
+
+109'
+
+3%
+
+9%
+
+3%
+
+7%
+
+3%o
+
+5%
+
+2%
+
+199o
+
+29o
+
+8%
+
+2%
+
+5%
+
+2%
+
+5%
+
+29'
+
+5%
+
+UK
+
+Switchers
+
+Potential Switchers
+
+2 4% 2 996
+
+179o 79'
+
+19/o 6%
+
+5%
+
+89o
+
+89o
+
+5/0
+
+3or'
+
+Soo.
+
+4%
+
+19/o
+
+3%
+
+10oi o
+
+2%
+
+3%
+
+69o
+
+69'
+
+3or'
+
+6oo.
+
+29'
+
+4%
+
+39'
+
+3%o
+
+2o
+
+39o
+
+5/0
+
+3or'
+
+4oo.
+
+3%
+
+3%
+
+1%
+
+3%
+
+France
+
+switchers
+
+Potential Switchers
+
+2 9% 3.0 %
+
+1 1% 2 89o
+
+I8%
+
+49'
+
+10o
+
+9%
+
+8%
+
+16.%
+
+3%o
+
+59o
+
+5%o
+
+3%
+
+17%
+
+4%
+
+6%
+
+7%
+
+59o
+
+4%o
+
+89o
+
+49o
+
+9%
+
+1%
+
+39'
+
+3%
+
+20%
+
+4%
+
+9%
+
+2%o
+
+4or'
+
+99o
+
+5%
+
+1%o
+
+4%
+
+Germany
+
+switchers
+
+Potential Switchers
+
+209' · 3 8 o o
+
+1 6% 3 3%.
+
+89o
+
+4%
+
+10%
+
+1 2%,
+
+3%
+
+1 5%
+
+4 9o
+
+5%o
+
+3%
+
+39o
+
+20Yo
+
+59'
+
+6%
+
+3 0/
+
+9Ão
+
+1%
+
+69o
+
+2oA
+
+6%
+
+2o
+
+50
+
+] 0/
+
+9Ão
+
+69o
+
+0%
+
+5%o
+
+Japan
+
+Switchers
+
+Pote nt i a I Switchers
+
+119o
+
+China
+
+Switchers
+
+Pote nt i al Switchers
+
+17% · 3 4 X
+
+69o
+
+99o 2 9%
+
+Boo
+
+15%
+
+99'
+
+7%
+
+99o
+
+5%
+
+1 09o 18%
+
+2%
+
+49o
+
+1 lo
+
+69o
+
+59o
+
+36%+ lo
+
+3oo
+
+2 19o
+
+39o
+
+17%
+
+1%
+
+4 0/
+
+5%
+
+79'
+
+9%
+
+49'
+
+49o
+
+1 lo
+
+29o
+
+49o
+
+2%o
+
+10%
+
+2%
+
+Boo
+
+14%
+
+2o
+
+4%o
+
+4%
+
+loÃ
+
+27%
+
+59 o
+
+13%
+
+3%
+
+69'
+
+49o
+
+14o
+
+19o
+
+59o
+
+2%o
+
+4%
+
+2%
+
+1%
+
+5%
+
+481
+
+483
+
+470
+
+4 70
+
+18 6
+
+2 76
+
+286
+
+339
+
+451
+
+261
+
+467
+
+46 1
+
+1 0 20 30 4 0
+
+· ··
+
+~ ·
+
+I ·
+
+·
+
+·
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers) Q12. How satisfied or dissatisfied are you with each of these features or capabilities of your smartphone?
+
+APPLE CONFIDENTIAL 3 9
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.085
+
+APL-APPSTORE 10338612
+
+iPhone feature satisfaction (top-2 box)
+
+iPhone feature satisfaction (top-2 box, among switchers who use feature)
+
+Face Time iMessage Touch ID"App Store iCloud iTunes Store Apple Pay"Siri AirDrop
+
+US
+
+UK Fra nce Ger m a ny Jap a n Chi na
+
+·
+
+·
+
+·
+
+·
+
+'
+
+.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+'
+
+.
+
+1 0 2 0 BO 40 5 9 · ·
+
+·:
+
+·
+
+·
+
+·
+
+·
+
+·
+
+-" Touch ID base is those with an iPhone Ss/iPhone 6/iPhone 6 Plus; Apple Pay base is those with an iPhone 5 or newer (Apple Pay not shown outside the US/
+
+UK) Base: iPhone owners (switchers) who use the feature (base sizes vary by feature) Q17: How satisfied or dissatisfied are you with using each of the following on your [IPHONE MODEL] smartphone?
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.086
+
+APL-APPSTORE 10338613
+
+iPhone feature satisfaction (top box)
+
+iPhone feature satisfaction (top box, among switchers who use feature)
+
+iMessage Touch ID"Face Time App Store iTunes Store Apple Pay"Siri iCloud AirDrop
+
+US
+
+UK Fra nce Ger m a ny Jap a n Chi na
+
+·
+·
+
+3 3.96 3 8P ~'
+
+4 1% 46 7o
+
+·
+
+'
+
+.
+
+'.
+·
+
+3 896 B9F ~ '
+
+· '.
+
+e '.
+
+W
+
+'
+
+·
+
+·
+
+·
+
+e .
+
+28%
+
+4 2/a
+
+· ' '.
+
+BNQ
+
+39 /ct
+
+·
+
+·
+
+24P
+
+44Ã0
+
+56%
+
+4 4%
+
+4 3%
+
+4 1Fo
+
+1 0 2 0 BO 40 5 9 · ·
+
+·:
+
+·
+
+·
+
+·
+
+·
+
+·
+
+-" Touch ID base is those with an iPhone Ss/iPhone 6/iPhone 6 Plus; Apple Pay base is those with an iPhone 5 or newer (Apple Pay not shown outside the US/
+
+UK) Base: iPhone owners (switchers) who use the feature (base sizes vary by feature) Q17: How satisfied or dissatisfied are you with using each of the following on your [IPHONE MODEL] smartphone?
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.087
+
+APL-APPSTORE 10338614
+
+·
+
+·
+
+·
+
+» leo
+
+S
+
+gS S
+
+· a
+
+I
+
+·
+
+·
+
+'' le~
+·
+
+S
+
+gS S
+
+· a
+
+I o· ·
+
+OS of most recently acquired smartphone closely resembles installed base data we have from other
+studies
+OS of most recently acquired smartphone
+100 0
+
+75%
+
+50%
+
+25%
+0% US
+5000
+
+5000
+
+France 5000
+
+Germany 5000
+
+Japan 5000
+
+China 5000
+
+· i OS
+
+· An
+
+· Wi n d o ws · Ot
+
+· Don ' t k n o w
+
+Base: Total smartphone owners (includes those not meeting all screening criteria) -- general population age/gender representative S9. What is the operating system of your [BRAND] smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.090
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338617
+
+Switching accounts for a higher percentage of past 9 month iPhone purchase in China
+
+Switchers (as a percentage of past 9 month smartphone buyers)
+
+9%
+
+8%
+
+17%
+
+18%
+
+14%
+
+40%
+
+100 0
+
+Switchers as a % of iPhone buyers
+
+75%
+
+50%
+
+25%
+
+0% US
+2818
+
+2625
+
+France 2472
+
+Germany 2463
+
+Japan 1448
+
+Base: Smartphone buyers within the past 9 months (includes those not meeting all screening criteria) Switchers are iPhone buyers (within the past 9 months), and their last smartphone was an Android
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.091
+
+China 3200
+
+· Sw i t c h ers iPho n e
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338618
+
+The opportunity around potential switchers is
+highest in China, followed by the US
+
+Potential switchers (as a percentage of >6 mo. smartphone owners, planning next purchase
+
+within 6 mo. )
+
+e38%
+
+49%
+
+Potential Switchers as a% of Android owners
+
+100 0
+
+75% 59
+50%
+
+25%
+
+0% US
+889
+
+UK 1125
+
+France 974
+
+Germany 871
+
+Japan 562
+
+China 993
+
+Android owners · Po t e nti a I Switc he rs
+
+Base: Smartphone owners (for more than 6 months) whose next smartphone purchase is within 6 months (includes those not meeting all screening criteria)
+
+Potential switchers are Android smartphone owners (for more than 6 months), and are seriously considering an iPhone for their next purchase (within 6
+
+months)
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.092
+
+APL-APPSTORE 10338619
+
+·
+
+·
+
+·
+
+» I+
+
+S
+
+gS S
+
+· a
+
+I o· I
+
+Current smartphone acquisition
+
+1,00%
+
+75%
+
+50%
+
+·
+
+·
+
+·
+
+·
+
+25%
+0%
+Potential
+US
+
+Potential
+UK
+
+Potential
+France
+
+Potentia
+Germany
+
+Potenti,
+Japan
+
+Potential
+China
+
+· Re c eived it from your employe · Re c eived it as a gift · Pu r chased it for yourself
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers) S6a: Thinking about the smartphone you most recently acquired, how did you acquire this smartphone?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.094
+
+APPLE CONFIDENTIAL X
+APL-APPSTORE 10338621
+
+Location of current smartphone purchase
+
+Retail (NET) Wireless service provider retail store Apple-owned retail store Consumer electronics retail store
+Another retail location Phone manufacturer-owned retail
+Multi-carrier phone shop Mass merchant store (e.g., Jiangsu
+TCS/ITS Online/on the web (NET)
+Website of wireless service provider Auction website Website of a phone manufacturer Website of a consumer electronics
+Website of multi-carrier phone shop E-commerce site teg. ~a.com,tmell,
+~ o o .t o o
+Another website Elsewhere Don't know
+
+US
+Potential Switchers Switchers
+
+1390
+
+8%
+
+14Y
+
+8%
+
+6%
+
+2890E
+17% 49o
+29o
+
+25%
+129a 2% 390 4%
+
+19'
+
+2F
+
+29o
+
+19'
+
+UK
+Potential Switchers Switchers
+
+209o · 3 1%
+
+13.90
+
+6P
+
+60%
+
+29o
+
+99'
+
+9' , 369~ 1 7% 14%
+
+5%
+
+49'
+
+69o
+
+49o
+
+59o
+
+7%
+
+3%o
+
+39o
+
+69'
+
+39 o
+
+0%
+
+France
+Pote nt i al Switchers Switchers
+
+3 0/
+
+59'
+
+5%
+
+15%
+
+32% 11% 2% 1% 890 59o
+
+4 0% 12% 2%o 4%o 12%o 49o
+
+5%
+
+59o
+
+3%o
+
+4%
+
+1%0
+
+Germany
+
+Japan
+
+Pote nt i a I
+
+Potential
+
+Switchers Switchers Switchers Switchers
+
+· ·
+
+·
+
+·
+
+3%
+
+1 1%0
+
+2 0/ 5 og'
+
+8%o
+
+8%
+
+21% ~ 2 ~ 5%
+
+1%0
+
+09o 15%o
+
+4%
+
+3 49o 1 49o 7% 29a 4% 4%
+
+3 2% 1 2% 39o 2% 490 69o
+
+9%
+
+29a
+
+1%
+
+7%o
+290 19o
+2%o 09' 29o
+
+11%
+19a 1%0
+
+09'
+
+290
+
+0%
+
+1%
+
+lo
+
+09a
+
+China
+Potential Switchers Switchers
+
+290
+
+4%
+
+14%~
+
+0%
+
+090
+
+1 19 0 60%
+
+109o 79o
+
+2%
+
+190
+
+00/
+
+8%
+
+89o
+
+99o
+
+19% 09o 19o 0%
+
+23 % 09o 0% 09o
+
+48 1
+
+483
+
+470
+
+4 70
+
+186
+
+276
+
+286
+
+33 9
+
+4 51
+
+261
+
+467
+
+461
+
+20
+
+30
+
+40
+
+50
+
+·
+
+·
+
+·
+
+e ·
+
+·
+
+·
+
+·
+
+·
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers) Q20: Where was your [BRAND] smartphone purchased?
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.095
+
+APL-APPSTORE 10338622
+
+How current smartphone was purchased
+
+Paying for it monthly
+Discounted phone for signing a 2year contract
+
+US
+Potential Switchers Switchers
+
+36%
+
+16%
+
+UK
+Potential Switchers Switchers
+
+France
+Pote nt i al switchers switchers
+
+Germany
+
+Japan
+
+Pote nt i a I
+
+Potential
+
+Switchers Switchers Switchers Switchers
+
+China
+Potential Switchers Switchers
+
+34% 4 0%
+
+Paid full price upfront
+
+28%
+
+·
+
+·
+
+'
+
+.
+
+Paying in monthly installments over a period of time Paid an upfront fee along with monthly installments over a period of
+*
+Pay full price (without subsidy)
+
+30% 4 2%
+
+10%
+
+199o 12%
+
+11%
+
+59o
+
+209o
+
+1 2%o
+
+·
+
+·
+
+'
+
+.
+
+·
+
+·
+
+'
+
+Discounted mobile tariff for buying the phone
+
+5%
+
+7%o
+
+Discounted phone for signing contract
+
+59o
+
+7%
+
+Pay monthly (without subsidy)
+
+10%o
+
+6o/o
+
+Paying for it monthly
+
+0 9o
+
+09o
+
+Another way
+
+1%o
+
+6%o
+
+4%
+
+3%
+
+6%
+
+4%
+
+2%
+
+2o
+
+09o
+
+0%
+
+Don't know
+
+lo
+
+1%
+
+lo
+
+0%
+
+2%
+
+0%o
+
+4%
+
+39o
+
+19 o
+
+0%
+
+0%
+
+09o
+
+48 1
+
+483
+
+470
+
+4 70
+
+186
+
+276
+
+286
+
+33 9
+
+4 51
+
+261
+
+467
+
+461
+
+20
+
+30
+
+40
+
+50
+
+·
+
+·
+
+·
+
+a ·
+
+·
+
+·
+
+·
+
+·
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers) Q21: How was your [BRAND] smartphone purchased?
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.096
+
+APL-APPSTORE 10338623
+
+Current mobile provider
+
+Verizon Wireless
+
+US
+Pote nt i al Switchers Switchers
+32% 26/
+
+AT84T
+
+27 %
+
+26.%
+
+T-Mobile
+
+18%
+
+199o
+
+Sprint 02
+
+%o iii 1 1%
+
+EE
+
+Vodafone
+
+Three
+
+Orange
+
+SFR
+
+Free Mobile
+
+Bouygues
+
+E-Plus
+
+NTT DoCoMo
+
+KDDI
+
+Softbank Mobile
+
+China Mobile
+
+China Unicorn
+
+China Telecom
+
+Another wireless service provider 99o
+
+UK
+Pote nt i a I switchers switchers
+
+3%
+
+69o
+
+2 89% 2 7%
+
+2 59.' 18% 19%
+
+2%o
+
+17%o 15%o
+
+France
+Potential Switchers Switchers
+
+1 89o 1 4% o
+
+4 0/
+
+59'
+
+Germany
+Potential Switchers Switchers
+2 2% 219 6 ,209o 2 2%
+3 3%o 249o
+
+12%
+
+15%
+
+Japan
+Potential switchers switchers
+9% 19o
+
+China
+Potential Switchers Switchers
+
+159o
+
+89o
+
+0%
+
+09o
+
+481
+
+483
+
+4 70
+
+4 70
+
+186
+
+276
+
+286
+
+33 9
+
+451
+
+261
+
+467
+
+461
+
+1 0 2 0 30 4 0 50 . ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers) Q22: Which wireless service provider are you using with your [BRAND] smartphone?
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.097
+
+APL-APPSTORE 10338624
+
+Devices owned at time of smartphone purchase
+
+Laptop computers (NET)
+Apple Mac
+Lenovo
+Tablets (NET)
+Apple iPad
+Kindle Fire
+Samsung Galaxy tablet
+HDTVs (NET)
+Samsung HDTV
+Desktop computers (NET) Le novo
+Blu-ray, DVD, home theater systems
+Sony Blu-ray, DVD player, or home theater Samsung Blu-ray, DVD player, or h ~ beatm r Media streamers (NET)
+Smart watches (NET) None of the above
+
+US
+Potential Switchers Switchers
+
+UK
+Potential Switchers Switchers
+
+France
+Pote nt i al Switchers Switchers
+
+·
+
+·
+
+Germany
+
+Japan
+
+Pote nt i a I
+
+Potential
+
+Switchers Switchers Switchers Switchers
+
+China
+Potential Switchers Switchers
+
+·
+
+·
+
+'
+
+.
+
+23oA 12%
+
+14%
+
+10%
+
+10%
+
+18% 1 2%
+
+6%
+
+9%
+
+9%
+
+4%
+
+5%
+
+Boo
+
+8%
+
+3%
+
+4%o
+
+6%
+
+109o
+
+3%o
+
+79o
+
+30%
+
+28Fo 39% o
+
+50/o 3 1%
+
+3 2.% 2 1o A 169o 24%
+
+19%
+
+2 39o
+
+109o
+
+9%
+
+0%
+
+1%o
+
+49 o
+
+5%
+
+0%o
+
+79o
+
+2%o
+
+20%
+
+15i%
+
+2 19'
+
+299o
+
+2 1Ya 1 8%
+
+09'
+
+2%o
+
+79o
+
+11%o
+
+2 7Ão 269or
+
+2S~A' 349o
+
+89o 0%o
+
+11% 09o
+
+·
+
+·
+
+439o
+
+·
+
+·
+
+49o
+
+3%
+
+4%
+
+59o
+
+2%
+
+6%o
+
+3%
+
+49o
+
+29o
+
+40% 45N
+
+·
+
+·
+
+329o
+
+17%o
+
+99o
+
+109o
+
+12%
+
+1 2%
+
+69o
+
+109o
+
+109o
+
+219o
+
+13%. 16%
+
+14% 1 69
+
+Qo/
+
+9o/
+
+4%o
+
+49o
+
+50/o
+
+1 1%o
+
+5 0/
+
+29o
+
+3 1/p 30%
+
+39o
+
+3%o
+
+49o
+
+1%
+
+19o
+
+29o
+
+99o
+
+29'
+
+l9'
+
+48 1
+
+483
+
+470
+
+4 70
+
+186
+
+276
+
+286
+
+33 9
+
+4 51
+
+261
+
+467
+
+461
+
+1 0 2 0 30 40 50 · ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+-" Showing all NETs and individual selections above 20% in any country (except for "Other" [device category] brands)
+
+Base: iPhone owners (switchers); Android smartphone owners (potential switchers)
+
+Q23: At the time you acquired your [BRAND] smartphone, which of these devices -- if any -- did you own and use at least once a month?
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.098
+
+APL-APPSTORE 10338625
+
+Influential research sources in iPhone purchase
+
+Influential research sources (among switchers)
+Talking to friends, family, co-workers either in-person or online (email, social media etc c.) Trying a friend, family member or co-worker's phone Reading product blogs, reviews, or articles (online or print) Trying the phone at a retail store Visiting a wireless service provider's retail store Saw advertising Vi' siting the smartphone manu fact u re r s w ebsit e Speaking to a salesperson Visiting the smartphone manufacturer's retail store Using a comparison shopping website Visiting some other retail store Visiting some other website Receiving a demonstration from a salesperson Vi s i ting a TCS/ITS Some other type of research
+
+US 41%
+2 8%a 25% 20% 20% 19i o 13o 11% 10a 6% 5% 5%
+3%
+
+481
+
+UK 40%
+
+Fra nce Ge r m any J a pa n Chin a
+
+4 19a
+
+34 9a
+
+22Ão
+
+35 % 2 39a
+
+29o 18%
+
+34% :
+
+7/q 1 7%
+
+27oy
+
+18%
+
+17%
+
+13%
+
+22
+
+14%
+
+8%
+
+10o
+
+19o
+
+7%
+
+13% 23Fa 8%
+
+12% 199o 17%
+
+17% 4 9o 7%
+
+10o 24 9o , 15o
+
+20% 69' 6%
+
+12%
+
+11%
+
+6%
+
+7%
+
+13%
+
+10o
+
+13%
+
+18%
+
+7%
+
+22%
+
+5%
+
+4%
+
+4%
+
+6%
+
+4%
+
+7%
+
+3%
+
+6%
+
+4%
+
+7%
+
+5%
+
+2%
+
+5%
+
+2%
+
+9%
+
+7%
+
+2%
+
+3o
+
+3%
+
+1%
+
+0%
+
+4 70
+
+18 6
+
+28 6
+
+451
+
+467
+
+Base: iPhone owners (switchers)
+
+Q4: What kind of research -- if any -- was most influential in your decision to acquire your [IPHONE MODEL] smartphone? [Select up to 3]
+
+APPLE
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.099
+
+APL-APPSTORE 10338626
+
+·
+
+·
+
+Why purchased iPhone over an Android smartphone~
+
+Reasons for buying iPhone over Android (among iPhone repeat owners) -- select all that apply
+
+US
+
+UK Fran c e G e r m an y J a p a n Ch in a
+
+Easier to use Wanted appsmade by Apple forthe iPhone I didn't want to lose the apps and other content I had purchased on my
+
+43% 36% 33%
+
+39% 36% 37%
+
+35% ~4 3~% 28% 3896 36%
+
+L 4 9~%
+1190 319o
+
+28% 26% 15%
+
+Didn't want to learn how to use something new
+
+31%
+
+25%
+
+22% 2 3%
+
+7%
+
+4%
+
+The operating system is always up-to-date
+
+3(%
+
+34%
+
+28%
+
+1090
+
+2496
+
+Wanted a reliable smartphone (e.g., crashes or freezes less) Better physical appearance and design
+
+30% 27%
+
+28%
+
+19%
+
+33% ~ 3 5 %
+
+41%
+
+159o 19%
+
+36% 2&e'
+
+Wanted access toiTunes
+
+27%
+
+3 1%
+
+21%
+
+2 89~ 14%
+
+1 1%
+
+Wanted better integration with Apple products and services
+
+26%
+
+29/o
+
+17%
+
+24%
+
+13%
+
+22%
+
+Preferred the size of the phone Access to better quality apps
+
+26% 25%
+
+2:3:% 25%
+
+1790 239b
+
+2 1% 2 59o
+
+13% 11%
+
+25% 36%
+
+Camera takes higher quality pictures
+
+25%
+
+2 7~/o 26%
+
+2:8%
+
+11%
+
+3496
+
+Wanted a faster smartphone Ease of sharing files (e.g., photos, documents, music, video) across
+
+24%
+
+25%
+
+22Y~ 23Y~
+
+990
+
+23FQ 2 1%
+
+19%
+
+29%
+
+8%
+
+38/ 13%
+
+Wanted a higher quality screen
+
+2 3%
+
+2 190 20%
+
+239e
+
+7%
+
+3694
+
+Wanted a simple experience where everything is already set up for me
+
+19%
+
+20%
+
+17%
+
+16%
+
+2%
+
+1 1%
+
+Better security
+
+19%
+
+15%
+
+14%
+
+24%
+
+16% · 3 5 %
+
+Better value for the money
+
+16%
+
+11%
+
+990
+
+109
+
+9%
+
+18%
+
+Wanted better battery life
+
+16%
+
+13%
+
+990
+
+12%
+
+6%
+
+15%
+
+More durable
+
+1690
+
+12%
+
+13%
+
+10%
+
+3%
+
+19%
+
+Moving between different screens and apps is intuitive
+
+14%
+
+14%
+
+15%
+
+14%
+
+7%
+
+8%
+
+Better privacy of my personal information Android smartphones slow down over time
+
+12%
+
+6%
+
+8%
+
+69'
+
+8%
+
+19%
+
+5%
+
+11%
+
+6%
+
+14%
+
+1%
+
+22%
+
+Wanted a smartphone thatfewer people have
+
+3%
+
+39'
+
+390
+
+3%
+
+0%
+
+5%
+
+Other reasons
+
+8%
+
+590
+
+590
+
+590
+
+4%
+
+0%
+
+898
+
+630
+
+4 57
+
+408
+
+90 1
+
+204
+
+10 20 30 4 0 50 · ·
+
+·
+
+:e
+
+·
+
+·
+
+·
+
+·
+
+Base: iPhone non-switchers, who currently own iPhone and whose prior phone was also iPhone (terminated respondents, did not qualify for survey)
+
+521: Thinking about your most recent smartphone purchase, which of the following best describes why you decided to buy an iPhone rather thanNiRLE
+
+Android-based smartphone?
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441. 1 01
+
+APL-APPSTORE 10338628
+
+Why purchased iPhone over an Android smartphone~
+
+Reasons for buying iPhone over Android {among first-time smartphone owner) -- select all that
+
+apply
+
+US
+
+UK Fran c e G e r m an y J a p a n Ch in a
+
+Wanted a smartphone with the iPhone OS (iOS)
+
+38%a 39%
+
+26%
+
+4 0oA 3 7%
+
+38%
+
+Easier to use
+
+379a
+
+39%
+
+37%
+
+35% g 2 7 % 30%
+
+Familiarity with other Apple products
+
+33Ão 349a 28% 3896 / 8 % 20/a
+
+Wanted a reliable smartphone (e.g., crashes or freezes less) Camera takes higher quality pictures Better value for the money
+
+26% 25%
+23%a
+
+25% 25% 14%
+
+20% 27% 14%
+
+2 5%o 2 Sag
+11%
+
+14 %a 7%
+7%
+
+3W~ 25%
+2GPa
+
+Wanted apps made by Apple for the iPhone
+
+21%
+
+28%
+
+2296
+
+1 99o
+
+89o
+
+17%
+
+The operating system is always up-to-date
+
+2 1%a 2 5%o
+
+59o
+
+2 79o
+
+5%
+
+21%
+
+Wanted a simple experience where everything is already set up for me 2 1%
+
+16%
+
+19%
+
+10% o
+
+2%o
+
+14%
+
+Preferred the size of the phone
+
+209a
+
+17%
+
+1.5%
+
+1 99o 15% a 22Ãa
+
+Better physical appearance and design
+
+209o 24%
+
+28%
+
+289o 16%
+
+Wanted a higher quality screen Wanted access toiTunes Access to better quality apps
+
+209a 19%o 199o
+
+189a 229ci 23%
+
+24/o 18% 249'a
+
+16% 2'0%
+19%
+
+5%o · 3 5 %
+
+89o
+
+1096
+
+119'
+
+32%
+
+Wanted a faster smartphone
+
+18%
+
+189o
+
+2la/o
+
+1 9ara
+
+5%o
+
+30%
+
+More durable Ease of sharing files (e.g., photos, documents, music, video) across
+
+17%o 10o
+
+19%a 109o
+
+3oo
+
+17%o 1 8%
+
+16%
+
+2'0%
+
+496
+
+14%
+
+Better security
+
+1796
+
+1696
+
+13ar6 20%
+
+15% o 389a
+
+Wanted better integration with Apple products and services Wanted better battery life
+
+16% 159o
+
+1.9%o 13%o 1.9%a 6%
+
+1 3%o 10oA
+
+12%
+
+49'
+
+159a 18%
+
+Moving between different screens and apps is intuitive
+
+1 196 14%
+
+15%
+
+11%
+
+4%
+
+8%
+
+Better privacy of my personal information
+
+11%
+
+12oia
+
+89o
+
+13%
+
+4%
+
+159a
+
+Wanted a smartphone that fewer people have
+
+5%
+
+5o/
+
+6o/
+
+7%
+
+1%
+
+119o
+
+Android smartphones slow down over time
+
+5%
+
+6oo
+
+6oo
+
+9%
+
+19o
+
+14%
+
+Other reasons
+
+14%
+
+11%o
+
+69o
+
+9 9o
+
+119a
+
+1P
+
+606
+
+359
+
+28 8
+
+248
+
+627
+
+169
+
+10 20 30 4 Q 50 · ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: First-time smartphone owners (first mobile or first smartphone) who own an iPhone (terminated respondents, did not qualify for survey)
+
+S22: Thinking about your most recent smartphone purchase, which of the following best describes why you decided to buy an iPhone rather thanNiRLE
+
+Android-based smartphone?
+
+CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441. 1 02
+
+APL-APPSTORE 10338629
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-3441.103
+
+APL-APPSTORE 10338630
+
+

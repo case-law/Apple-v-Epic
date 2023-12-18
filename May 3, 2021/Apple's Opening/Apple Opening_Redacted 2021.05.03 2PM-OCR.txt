@@ -1,0 +1,2778 @@
+"We' re trying to do two diametrically
+
+opposed things at once -- provide an
+
+advanced and open platform to
+
+developers while at the same time
+
+r /AI,
+
+'13sy
+
+protect iPhone users from viruses,
+
+malware, privacy attacks, etc.
+
+This is no easy task."
+
+Steve Jobs, 2007
+DX-4254.001; DX-4566.001
+
+AppIeE ecutive Witnesse
+
+TIM CQQK
+
+PHIL SCHILLER
+
+CRAIG FEDERIGHI
+
+Developers Have Tremendous Access to iOS, the App Store,
+and Apple's IP
+
+4 4 4· 4
+4 4
+
+0OOy+
+
+0®
+· ~ Og
+
+Store Kit
+
+Research Kit
+
+GameplayKit
+
+Sprite Kit
+
+Care Kit
+
+ARKit
+
+Scene Kit
+
+CloudKit
+
+RealityKit
+
+HealthKit
+
+Home Kit
+
+Core ML
+
+I I
+
+SDK
+
+Reality
+
+Metal
+
+Swift
+
+iOS
+
+SDK
+
+Composer
+
+Developers Have Tremendous Access to iOS, the App Store,
+and Apple's IP
+"A fast, agile, feature-rich API like Metal is exactly what we need to bring a game designed for modern consoles and desktops to the batterypowered iPhone and iPad. As a developer, it blows away OpenGL in every way."
+
+Apple's Integrated Ecosystem Exponentially Exceeded Expectations
+
+Apps (Billions)
+200
+
+180
+
+160 140
+
+120 100
+80
+
+60 40
+
+20
+0 2008
+
+2009
+
+2010
+
+2011
+
+Malackowski Report, Fig. 8; Malackowski DWT fl 21; DX-4841
+
+2012
+
+2013
+
+2014
+
+180B + App downloads by 6/2017
+
+2015
+
+2016
+
+2017
+
+Apple's Integrated Ecosystem Ensured Security,
+Privacy, and Reliability
+Malware Infections
+
+·
+
+·
+
+~
+
+·
+
+0
+
+®·
+
+·
+
+·
+
+·
+
+·
+
+~
+
+·
+
+a ·
+
+1.72%
+iOS platform
+
+Rubin DWT 1I 6; DX-4975.008
+
+Apple Innovation Unlocks the Freemium Model with IAP
+E E In-App Purchases PA
+
+·
+
+·
+
+·
+
+·
+
+SLAV BAT T LE PASS Cl4A LLENGES
+
+LDCKER
+
+C AREER SV D R E
+
+/ga4l 00
+
+FEAYVRES IYENS
+
+~ iiaii
+
+N LL8r TTNSEKP
+
+·p I
+
+/i
+
+l pf
+
+k
+
+1of2
+
+8IIR68
+
+~S
+
+Qut fil
+
+io 1,260
+
+2of 2
+Et t CttOtitti
+Gh
+OWN EDi
+
+Outfit
+'6 2,000
+
+SIIILV IYESIS
+
+Creator supported: None
+g 23 HOURS
+
+iIIiSTI9 AIRRSIII
+autfit g' 1,,5I3'l3
+
+F/ MllSICIII.E
+Harvesting Tool
+5 ltOO
+
+IP IISI875
+Emote
+I i 2tio
+
+QIIICCS$5IIII'i
+Wrap
+@I 59tl
+
+II.R SANO
+Wrap
+zoo
+
+Tiiiw 10fE
+@ 206
+
+These cosmetic items grant no competitive advantage. Certain items aren't useable in Save the World mode: Outfits, 8ackbltng, Wraps, Gliders, and Trails. Outfits and Wraps don't Include weapons.
+
+Epic Launched "Project Liberty" Against the 30/o
+
+Executive Summary
+
+'
+
+·
+
+-
+
+·
+
+.
+
+·
+
+·
+
+·
+
+.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· E p ic Performance is Strong
+
+o F o rtnite reached record engagement of 81.2mm MAUs in May 2020 and Season 13 Battle Pass launched June
+
+2020 is on par with the best season ever --Fortnite revenue in 1H was $2.0bn beatingforecast b y70'/ o W e are seeing a slow down in engagement of last 30-day rolling active users and expect Fortnite revenue in 2H
+
+to be
+
+V
+
+0 Po s t
+· Tid i T Project Liberty, Epic's War Against Mobile Platform Fees
+
+0 Mult o Unhap
+o N e gative Press
+
+· Significant Planning has gone into Pro'ect Liberty, Epic's War Against Mobile Platform Fees
+o E pic has a deta'
+
+· » ~ Time Is Nonstronger creator revenue share from lower mobile platform fees
+
+0
+
+0 F o r t nite's all tirr~~
+
+o G r owth is predicated on user generated content; stronger creator revenue share from lower mobile platform
+
+fees
+
+o S o lve this problem before AR takes off and that rate is set at 30'4
+
+2
+
+DX-3774.002
+
+Epic Asked for a Special Side Deal from Apple
+
+From : S
+
+M att W eissingei
+
+DX-3641.001
+
+From: Tint S~veene
+
+.'subject : ( ' o n s u m e t- t. uoiee EY l v n l p t ' ( i ( l o l l
+
+Date:.1t)ne 3(). '020 nt 1 r)0 ()i) Px( POT
+
+T o: Tint( o o
+
+1)il Sel>ilier
+
+Intt Ft..cl.ct
+
+i raig Fetleriglti
+
+As you know, Epic was required to ac
+
+ndard, r
+
+' 'e contracts, like the Apple
+
+Developer Program License Agreemen~, in order to v»~i t i vuuii~ vn iOS devices through the iOS App
+
+Store. Epic is also required to comply with Apple's unilateral standards documents to obtain app
+
+approval, like Apple's App Store Review Guidelines. Apple's contracts and standards documents contain
+
+restri
+p o Apple would need to provide a side letter or alter its contracts
+
+standa
+
+competing payment processing option to iOS customers.
+
+DX-4477.001
+
+August 13, 2020: Epic Launches Its Hotfix on the App Store
+
+I
+
+·
+
+DX-5317.003
+
+Epic Deceived Apple But Gave Microsoft a Heads-Up About an "Extraordinary Opportunity" for Consoles and PCs
+
+TIM SWEENEY
+Epic CEO
+DX-4579.001
+
+Froru: Sent:
+TQ:
+Subject:
+
+Tim Sweeney Wed, 5 Aug 2020 20:03:46 +0000 {UTG) Phil Spence Subscription-free multiplayer
+
+If this is coming, please consider the possibility of timing the
+progmm to support Fortnite Season 14 launch on 8/27. This launch will follow the confidential Fortnite Mega Drop 20/o price drop that' s coming in mid August, and will be our biggest and best Fortnite season thanks to a huge collaboration with Disney/LVQuvel.
+
+Epic has certain plans for August that will provide an extraordinary
+opportunity to highlight the value proposition of consoles and FCs, in contrast to mobile platforms, and to onboard new console users. While I can't share details with any third party at this point, I give you Epic's assurance that our efforts will be positive and suppornve of
+Microsoft, Xbox and Windows.
+
+I realize this is incomplete information and you have a big ship
+that's slow toturn, sothespecific askis:pleasekeepinmindthis
+possibility for S/27 and expect events throughout August to draw the specific opportunity into focus.
+
+Tim Sweeney: Too Many Platforms... and They All Compete
+
+TIM SWEENEY
+Epic CEO
+DX-3768 Bt 26:31
+
+"We have a lot of platforms coming together, there are the tablet platforms, there are the smartphone platforms, then computers, you know PC and Macintosh,and then there are consoles, Xbox 360, Playstation 360, Wii, and some new handheld dedicated gaming devices, and god knows what else. This is too many platforms.... Over time, these platforms will be winnowed down into a much smaller set of competing platforms -- there might be 1 or 2, maybe 3 winners worldwide across everything -- computers, game platforms, smartphones, so we should expect a lot of consolidation here, and winners and losers, according to who picks the right directions and executes successfully on them."
+-- Technology and Gaming in the Next 20 Years, D.I.C.E. Summit, February 9, 2012
+
+Epic Created The "Coalition for App Fairness" For This Litigation
+'% Coalition for APP FAIRNESS
+O' I le ~I/I
+https://appfairness.org/issues/30-app-tax/ (DX-4167.002)
+
+Competitors Before Apple Entered the Market Charged 30'jo
+1 66%
+
+86% 66% 46%
+
+Typical Publisher Royalty
+handle nngo
+
+26% 16% 6%
+Schmalensee DWT Ex. 1; Sweeney Dep. Tr. 22:5-21
+
+aoa
+Ql
+
+Google Play
+
+I
+
+G alaxy Store
+
+RgRg
+
+aapm~ passztoorne
+
+Epic Cannot Prevail
+Epic is Wrong On Relevant Market Epic Cannot Show Anticompetitive Conduct Epic Cannot Show Anticompetitive Effects Apple Can Show Procompetitive Justifications
+Epic Cannot Prove a Tie
+
+e evan a r e
+
+Epic's "iOS App Distribution" Market is Both Too Broad and Too Narrow
+
+FRANCINE LAFONTAINE, PhD
+Fmr. Director of the FTC's Bureau of Economics, Apple Expert
+LaFontaine DWT 1I22
+
+A proposed market definition is:
+
+· Too broad if it includes products that customers are unlikely to substitute -- all non-game apps; and
+
+· Too narrow if it excludes alternatives that customers are likely to substitute -- digital gaming transactions on other platforms.
+
+· ···· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·J
+: The Court's Pl Order at 14: : "The determination of a 'relevant market' is a highly factual
+question.See Eastman Kodak,504 U.S.at482 ('The proper market: definition in this case can be determined only after a factual inquiry into the "commercial realities" faced by consumers.')."
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Too Narrow: Many Substitutes for Digital Game Transactions
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+iP hone
+e
+aQ
+
+20
+
+Multi-Homing: Survey of iOS Users
+regularly used or could have regularly used devices other than their iOS device
++ 0 000
+Hanssens DWT 1I16 & Ex. 7
+
+Multi-Homing: Developers Offer Games on Multiple Platforms
+
+Q I
+
+·
+
+·
+
+~· ·'o
+
+ORTNIT
+Fortnite revenue across platforms
+(March 2018 -- July 2020)
+
+Hitt DWT Fig. 12
+
+p5
+
+Dr. Hitt: The Majority of Fortnite User Accounts Are Not on iOS
+
+LORIN MITT
+Hitt DWT Fig. 6
+
+I
+
+I
+
+· nK6
+
+I
+
+I
+
+I
+
+I
+
+I
+
+Launch on Andxoih
+
+Rejnm ed Rom the Ayp Stere em6 Goo@i'e PRY Store
+
+Jtjl 17
+
+N GV 17
+
+JQI al '
+
+II II II II
+II II II
+
+e3'tjl 18
+
+N GV 1 8
+
+M a l 19
+
+JBl 19
+
+I NGV 19
+
+M BZ 2 6
+
+J tll ~G
+
+N GV 2 G
+
+23
+
+Epic Recognizes Substitutability Across Game Platforms
+"If you' re left behind on iOS after th.e Chapter 2 --Season 4 launch, the party continues on PlayStation 4,,Xbox One, Nintendo Scotch, PC, II Iac, heForce Noas, and through both the Epic Gmnes App at
+epicgames.cow. and the Sarnsung 6almq Store... iOS players shoeomld.
+check thIs list of alternKtlve Fortnlte-coIIlpatlble devices, you Inay
+already have access to anotheI way to play Fortnite. If so, sixnply install the gaxne and logln xvlth y'our Epic account to get up and runnIng.
+https://www.epicgames.corn/fortnite/en-US/news/freefortnite-cup-on-august-23-2020, DX-3724.002 & .006
+
+/
+Cross-Platform Play: Consumers Play the Same Game at the Same Time on Different Platforms
+iP hone
+
+Cross-Wallet Play: Consumers Buy Game Currency On One Platform, Spend on Another
+
+iP hone
+
+Android
+
+PC
+
+XBOX
+
+26
+
+With a Two-Sided Transaction Platform, the Product Is the Transaction
+Two-sided transaction platforms exhibit "pronounced indirect network effects and interconnected pricing and demand" and are thus "best understood as supplying only one producttransactions --which is jointly consumed." Ohio v. Am. Express Co., 138 S. Ct. 2274, 2286 5 n.8 (2018).
+
+Too Broad: Epic's Market Includes All Apps Without Proving They Are Subject to the Same Competitive Conditions
+
+Jl · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 5·
+The Court said "underlying these questions is a significant and . :unresolved dispute over clustering" Pl Order at 20.
+
+' But Epic's Conclusions of Law do not mention a cluster market.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+' ·
+
+The App Store is a store with products that are not interchangeable substitutes.
+
+·
+
+·
+
+The key question is are the items subject to the same competitive conditions. Thurman Industries, Inc v.P.ay 'N Pak Stores, Inc ,87.5 F.2d 1369, 1375 (9th Cir. 1989); FTC v. Staples, Inc ,190 .F. Supp. 3d 100, 123 (D.D.C. 2016).
+28
+
+Apple Internal Documents Show Evidence of Switching
+
+Smartphone Owners Who Did Not Change to Another Smartphone By Quarter; All Others Did
+
+OS loyalty
+Among smartphone owners who changed to another smartphone each quarter
+
+IOS loyalty
+
+Launch quarter
+
+Launch quarter
+
+In 20'l9 and 2020, Apple's Market Research found meaningful switching
+quarter over quarter when iPhone owners purchased a new phone:
+19 /0, 14/0, 26%, 26%, and 12%
+
+Apple Market Research and Analysis, (Q3 '20) DX-3084.022
+
+29
+
+The Relevant Market is Gaming Transactions and Apple Does Not Have Monopoly Power in that Market
+Gaming Transactions
+
+LiL'
+LORIN HITT
+Hitt DwT fl 8
+
+Apple Share
+23.3% -- 37.5%
+30
+
+o n i c o m e i ive on uc
+
+Epic Challenges Apple's Technical Design and Contracts That Block and Prohibit Third Party Native Apps, App Stores, and Payment Systems -- a Refusal to Deal
+· Apple generally prevents the distribution of iQS-compatible apps to users of iQS devices except through its App Store. Evans DWT 1I 38.
+· The app-distribution restrictions block all channels of distribution, other than the App Store, for all iPhone users and iQS app developers. Evans DWT 1I 159.
+· Apple imposes a set of technical and contractual restrictions that block the emergence of middleware. Athey DWT 11 55.
+· Apple prohibits developers from distributing their apps through a third-party app store. Evans DWT ll 38.
+· What's been foreclosed from the relevant market are the payment solutions that would have been developed and used if Apple did not mandate use of IAP, and the Apple payment solution. Evans DWT flfl 220, 289.
+32
+
+Epic Demands Forced Interoperability and a Compulsory License on Epic's Preferred Terms
+
+"Apple has over 250,000 application programming interfaces that are available to developers and it is virtually impossible to develop an app for, or a toolset for development on, iOS or macOS without them."
+Epic's Response to Apple's First Set of Interrogatories, Response to Interrogatory No. 6, DX-3691.015
+
+%®
+y~ ·
+
+O
+0 +
+
+33
+
+The Law Prohibits Epic's Proposed Remedies
+
+·
+
+~
+
+·
+
+·
+
+·
+
+-
+
+·
+
+~
+
+·
+
+Sideloaded Apps
+
+·
+
+·
+
+·
+
+·
+
+~
+
+·
+
+3«Party App Stores
+
+3«Party Payment Processors
+
+A ···· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · Q
+: For example:
+' Epic asks the Court to prohibit Apple from "Restricting, prohibiting, impeding or deterring users : of iQS devices, through technical, contractual, financial, or other means, from downloading, : executing, installing and/or updating iQS apps and app stores from a distribution channel other : than the App Store." Epic's FQF 5 CQL, App'x. 1, pages 161-62
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+34
+
+o n i c o m e i ive ec s
+
+The Number of Apps in the App Store Has Dramatically Increased
+1,800,000
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2 01 9
+
+2 02 0
+
+Today
+
+Malackowski DWT 1I 21
+
+36
+
+The Number of Users in the App Store Has Dramatically Increased
+1B
+650M 500M
+
+2008
+
+2 00 9
+
+2 010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2 02 0
+
+Tod ay
+
+DX-4593.039; DX-3734.022; DX-4526.027
+
+37
+
+Developer Revenue Has Dramatically Increased
+
+HCUCk9+CF FCVCFkMCJ S9 m ~
+$ Si8pfCFHSCP gi3q RCM9
+
+'S ki&PC I 1 C MXf d~ l 6 '~ A H d RI D - lXjpp plt F C ~ C S ( JHlg 1Aq ~AA8-
+
+) O'eVelopPI FeVeDlle (111QllljlM)DS
+$3,ooo $2,goo $2,4oo $2,1oo Qx,8oo $I,5oo $g coo
+89oo 86oo
+gazoo
+$o Q4o8 Q4 o9 Q4 ~o Q4 u Q4 ~2 Q4 i a Q4 m Q4 i 5 Q4 I 6 Q4 ~a Q4 I 8 Q4 i 9
+
+Hitt DWT Fig. 54
+
+38
+
+The App Store's Effective Commission Has Decreased
+
+P ri e
+Game App Effective Games Commission Rate (FY2o~ g)
+Alii App Effective Commission Rate
+(FY201g Game App Initial Download Commission Rate
+(FF261 g)
+
+8.1%
+4 7~0 0.2%
+
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ay
+
+·
+
+·
+
+·
+
+Today, 84'/0 of apps are free
+
+4 · · · ··· · · · ·· · · ·· · · · ·· · · ·· · · · · · · ·· · · ·· · · ·· · · · ·· · · ·· · · · · · · ·· · · ·· · · ·· · · · ·· · · ·· · · · · · · · · ·%
+
+Hitt DWT Fig. 55
+
+39
+
+The App StoreHas Reduced Commissions
+100o/o 99%
+
+70o/o I
+69%
+
+0
+
+59o/o lh
+
+·
+
+~
+
+E
+
+E 49/. 0 O
+
+30o/o
+
+29%
+
+19%
+
+Go/o
+
+DX-3421.001; DX-4096.001; DX-3256.003-.004
+
+Developer subscription s after first year
+
+Apple Video
+Partner
+Program
+
+Apple Small Business
+Program
+40
+
+Epic's Estimates of the App Store's Margins Are Misleading
+
+L
+RICHARD SCHMALENSEE, Pho
+Apple Expert
+
+"Mr. Barnes' estimate of the App Store's operating margin is unreliable because it looks in isolation at one segment of the iOS ecosystem in a way that artificially boosts the apparent operating margin of that segment. When one looks at Apple's device and services ecosystem as a whole, the operating margin falls to an unremarkable level."
+
+Schmalensee DWT 1I 13
+
+Epic's Lead Economist: Apple Created Value
+
+DAVID EVANS
+Epic Expert Witness
+
+"Apple has obviously made enormous profits and seen the market value of the firm increase because of the success of the iPhone and its application store. iPhone users have done very well also as a result of the tens of thousands of applications they can choose from, some of which enable them to do things that were not possible before. New markets have opened for entrepreneurs that use the iPhone, and some of them are earning significant profits or obtaining fame. By bringing developers and users together the iPhone has served as a catalyst which has created value -- and profit -- out of thin air."
+David S. Evans, Platform Economics: Essays on Multi-Sided Businesses 378 (20'I'I}
+
+Epic's Lead Economist: Apple Created Value
+
+DAVID EVANS
+Epic Expert Witness
+
+"There isn't much controversy that Apple's rules have enabled it to create a high-quality app ecosystem for the iPhone."
+David S. Evans et al, Vertical Restraints in a Digital World 29 (March 22, 2020).
+
+rocom e i ive u s i ica ions
+
+Apple's Procompetitive Justifications
+Consumer Trust Security and Privacy
+Reliability Quality
+User Experience Consumer Choice Protecting Intellectual Property
+
+Apple Refused to Sacrifice Security, Privacy, and Reliability
+
+PHIL SCHILLER
+Dep. Tr. Vol. I, 56:8-18; 57:5-14
+
+When we started working on iPhone, we thought about it as a product that would be different than the PC and Mac. We thought about the fact that the iPhone is a phone that you' re carrying around, you need it to work for you as a phone, and we cared deeply about the security of that device so it would be more protected and more reliable than PCs were at the time.
+
+iOS Devices Face An Extraordinary Threat Model
+
+CRAIG FEDERIGHI
+Senior Vice President, Software Engineering
+
+Number of Devices
+
+1.5 billion active devices almost always on
+
+Number of Opportunities
+
+1.8 million apps available for download; users who frequently download apps; users who engage in financial transactions
+
+AVIEL RUBIN
+Rubin DWT 1I 3
+
+Value of
+Access
+
+Camera/microphone/GPS hardware that follows the user everywhere; storage of sensitive data
+
+iOS Devices Face An Extraordinary Threat Model
+App Review usescomputer-automated and human review on every app and update to ensure:
+
+TRYSTAN KOSMYNKA
+Head of App Review
+
+App performs as represented
+
+App won't damage the user's device
+
+App requests appropriate entitlements
+
+App doesn't contain known malware
+
+App does not contain objectionable content
+
+App is not pirated or a copycat
+
+App Review Protects Security, Reliability, and Functionality
+
+DANIEL RUBINFELD
+DWT 1I 46
+AVIEL RUBIN
+DWT 1I 87
+
+Buggy apps
+
+Insecure apps
+
+Apps that install malware
+
+Apps that harvest user's private data
+
+Apps that drain battery life
+
+Apps that hog bandwidth
+
+· ·· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·I
+: Dr. Evans' Response:
+. :Apple "simply asserts that there is a rogue developer who lacks incentives : to protect users or developers from harm." Evans' Rebuttal Report ll 377.
+P··· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+
+App Review By The Numbers
+
+150k+
+submissions rejected last year for violating privacy guidelines
+2M+
+apps removed because they haven' t been updated or don't work on the
+latest OS release
+
+apps available
+worldwide
+
+1M+
+apps removed for objectionable or illegal content
+
+4 0 ' /o
+submitted apps
+rejected
+
+10 0 0/o
+apps automatically screened for known malware
+
+500
+dedicated expert
+reviewers
+
+100k+
+apps reviewed each week
+
+10 0 k+
+rejected for misuse or unnecessary use of personal
+information in 2020
+
+10,000
+apps use health technology to protect
+patient privacy
+500K+
+developers' accounts were terminated in 2020 for fraud or
+distribution of illegal content
+
+DX-3351
+
+50
+
+Epic Concedes: App Review Provides An Extra Layer of Security
+Malware Infections
+
+·
+
+·
+
+~
+
+·
+
+·
+
+·
+
+·
+
+·
+
+~
+
+·
+
+0
+®·
+
+·
+
+·
+
+·
+
+~
+
+·
+
+a ·
+
+1.72%
+iOS platform
+
+- ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+. :Epic concedes: : "At most, App Review provides an additional
+
+layer of security by filtering out obviously
+
+malicious or otherwise dangerous apps."
+
+Epic COL fl 149
+
+I · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·~
+
+Rubin DWT 1I 6; DX-4975.008
+
+in
+
+There is No Tie: IAP is Neither a Product Nor Required
+A tie exists only if the defendant actually requires the plaintiff to "take the defendant's product B in order to get its A." Philip E. Areeda 8 Herbert Hovenkamp,Antitrust Law: An Analysis of Antitrust Principles and Their Application 1I 1752c (4th ed. 2020). A tie requires a "condition linked to a sale."Aerotec Int'I, Inc v..Honeywell Int'I, Inc ,8.36 F.3d 1171, 1178 (9th Cir. 2016) ("A tie only exists where the 'defendant improperly imposes conditions that explicitly or practically require buyers to take the second product if they want the first one.'").
+R
+R
+53
+
+IAP is a Set of APls Integrated with the App Store, Not A Separate Product
+Jl · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 5 ·
+.:"Here, the IAP system appears to be integrated with the App Store and, : historically, to have never been a separate product. If so, the construct of the . :IAP appears to reinforce the notion that the App Store is a digital marketplace.: : 'where developers on the App Store are able to structure their business :.models however they choose.... The IAP system appears to have been : created, in part, to capture the value of a developer being on the digital shelf : of the App Store which is owed to Apple -- either on the initial download, or in.:
+subsequent IAPs." Pl Order at 23 -- 24.
+I· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+Apple has never charged separately for IAP.
+Apple has never marketed IAP.
+Apple has never offered to sell IAP separately.
+
+There is No Tie: Developers Are Not Required to Use IAP
+
+·
+
+a
+
+a
+
+· ·a
+
+'
+
+·
+
+·
+
+Optional in-app purchases of digital content
+
+Paid downloads+ in-app purchases of digital content
+
+Subscriptions for sale in app
+
+In-app purchases of physical goods and services
+
+In-app ads
+
+In-a pp promotions/events
+
+ic's e ues e e ie o nsumers eve o e r s
+
+Apple's Integrated Ecosystem Exponentially Exceeded Expectations
+
+Apps (Billions)
+200
+180
+
+180B + App downloads by 6/2017
+
+160 140
+
+120
+
+Apple acquires
+
+100
+
+substantial
+
+market power
+80
+
+·
+
+'
+
+·
+
+Epic Expert
+
+60
+
+40
+
+20
+
+0 2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Malackowski Report, Fig. 8; Malackowski DWT fl 21; DX-4841
+
+What If This Had Never Happened?
+
+1,800,000
+
+th
+
+0th
+
+CL
+
+CL
+
+Apple acquires
+
+substantial
+market power
+
+·
+
+~
+
+·
+
+Epic Expert
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2 01 9
+
+2 02 0
+
+Today
+
+Malackowski DWT 1I 21
+
+58
+
+What If This Had Never Happened?
+
+HCUCk9+CF FCVCFkMCJ S9 m ~
+$ Si8pfCFHSCP gi3q RCM9
+
+'Ski & P CI1 C MXf d~l 6 '~ AHd RI D -lapp pl tFC~ CS ( JHlg 1Aq ~AA8-
+
+) O'eVelopPI FeVeDlle (111 QllllM)DS
+$3,ooo
+
+$2,goo
+
+$2,4oo
+
+$2,1oo Qx,8oo $I,5oo $g coo
+
+·
+
+'
+
+·
+
+Apple acquires substantial
+market power
+Epic Expert
+
+89oo
+
+86oo
+
+gazoo
+
+$o Q4c8 Q4 o 9 Q 4~o Q4 u Q 4~2 Q4 i a Q4 m Q4 i 5 Q 4I 6 Q4 ~a Q4 I 8 Q4 >9
+
+Hitt DWT Fig. 54
+
+59
+
+If Epic Prevails, Other Integrated Ecosystems Will Fall Too
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:"Sony, Nintendo and Microsoft all operate similar walled gardens or closed platform models
+
+: as Apple.... As such, a final decision should be better informed regarding the impact of the .:
+
+: walled garden model given the potential for significant and serious ramifications for Sony,
+
+: Nintendo and Microsoft and their video game platforms." Pl Order at 18.
+P· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+
+TIM SWEENEY
+Dep. Tr. 79:14-80:1
+
+Q: And do you consider the console manufacturers to be monopolists within their product?
+A: Without reference to all or any legal opinion or conclusion and with a number of exceptions, the console-makers generally do exercise a monopoly on distribution of purely digital games with respect to their platforms, and there are various exceptions.
+
+60
+
+If Epic Prevails, Other Integrated Ecosystems Will Fall Too
+
+N~>ntendo'
+Google
+
+30% 30% 30% 30% 30%
+
+·
+
+·
+
+·
+
+·
+
+'
+
+·
+
+·
+
+·
+
+Yes Yes Yes
+
+'
+
+·
+
+·
+
+Yes Yes Yes Yes Yes
+
+"My preference would be that all stores were open."
+TIM SWEENEY
+Dep. Tr 70:20
+
+Some of the Many, Many Flaws in Dr. Evans' SSNIP "Tests"
+
+Jl · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · I s
+
+: :Dr. Evans performs no quantitative analysis with Apple consumer data showing actual substitution.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· ··
+
+· · · · · · · · · · · · · 'I
+
+DAVID EVANS
+Epic Expert Witness
+
+Jl · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · I g
+Dr. Evans conducts a SSNIP on operating systems which::
+: :arenot commercially available.
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 'I
+g · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · Sg
+: :Dr. Evansfails to analyze indirect network effects.
+I ·· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+
+Schmalensee DWT 1I 61; LaFontaine DWT 1I1I 61, 84-85
+
+63
+
+Epic's Theory is Based on a False Premise
+
+Tech
+Nintende COLtdl + A d di to myFT
+Nintendlo Switch to be made in Vietnam
+Sony and Microsoft could also shift production froim China as US trade dispute hits gaming industry
+
+ia i
+Tech
+Nintendo Co Ltd + A d dtomyFT
+Nintendo Switch to be made in Vietnam
+Sony and Microsoft could ailso shift productiion from China as US trade dispute hits gaming industry
+
+Nintendo makes almost all of its Simrch consoles m China o Bloomberg
+
+13HOURS AGOibyKana Inagaki in Tokyo
+Nintendo will shortly begin producing Switch consoles in Vietnam for the first time, after USChina trade tensions put the gaming industry's reliance on China-based production in jeopardy.
+
+Analysts said rivals including Sony and Microsoft
+
+W+ FT Q C
+
+Updated 4:54prn
+
+FTj Web
+App
+
+dd dd
+
+ifinrendo makes almost all of irs Swirsh consoles inChina k~Bloombere
+n HOURS AGObyKasia lnagaid in Tokyo
+Nintendo will shortly begin producing Switch consoles in Vietnam for the first time, af'ter USChina trade tensions put the gaming industry's reliance on China-based production in jeopardy.
+
+Q Q
+
+Updated 4:Sspm
+
+FT Native
+App
+
+

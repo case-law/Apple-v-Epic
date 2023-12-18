@@ -1,0 +1,121 @@
+From: Craig Federigbi Subject: Re : Approval to investigate acquisition of Liquidgky Received(Date):Tue, 22 Aug 2017 08:34:11 -0700
+To: John Stauffer Date: Tu e, 22 Aug 2017 08:34:11 -0700
+
+PLAINTIFF
+v.e. Dlevaa cene - NocAL 4:20ev45840-YGR-TSH
+Sale cameoIne. e.ARpfe Ine.
+Ex. No. PX-0464
+Dale Enteeea
+er
+
+John, What would you like to see Io mature the thinking here? I don't even know where to start
+
+You are proposing a massive shift in the way we deliver computing to our customers, seemingly driven by an opportunistic acquisition opportunity. This approach makes some sense for our corupetition, but little sense for Apple (given our strenglh of providing high performance local compute). Our direction with ever more powerful iOS silicon, as well as Olive make such a strategic shift even more counter to our overall customer value proposition.
+We could go item by item through this list snd assess I) whether Apple wants to prioritize that space, snd 2) whether remove cloud streaming of app UI would be our preferred approach. In my quick scan of the list the answer comes up as no.
+(To be clear, we do want to enable moving morecomputation to the cloud -- e.g. cloud-based
+build services, cloud based photo library image processing, but app streauung is another matter).
+Is there a particular member of your team that is pushing for this?
+
+On Aug 21, 2017, at 10:39 PM, John Stauffer
+
+wrote:
+
+Craig,
+
+I agree the Windows apps in the cloud is a slretch, and maybe an unimportant direction.
+
+We could look at this differently. If we were to provide a cloud application streauung solution that supported all our devices (Macs, ipads, iphones, ATVs and even smart TVs), this would represent the single largest application eco system in the world. The hardware in the cloud could be anything, it could be our next gen high end Macs. The point here is we could build out a highly attractive application eco system to attract applications that currently are not available on our products and that could be run across all Apple products. The possibilities are huge.
+
+· Worlds largest application eco system
+
+· With the right business model, this could atlract applications currently not available on Apple products
+Exhibit PX 464
+
+CONFIDENTIAL
+
+PX-0464.1 APL-EG 03776398
+
+· Uniform high end cloud hardware would be very attractive to developers · Including AAA games · Uniform application support across all Apple products · This could enable low cost education devices · Running high end apps on low end systems (Pro apps on Mac Book Air)
+
+· Smart TVs (the future of Apple and game consoles) · This could be the future of applications on Apple products as connectivity improves worldwide · On device applications could be thin apps that look like resident apps
+
+Secondary benefits for the acquisition:
+· The few engineers we have met at LiquidSky are truly talented. If the rest are nearly as talented they would be a great talent find. This would be part of the acquisition eval.
+· They have accumulated some valuable IP in this space.
+
+What would you like to see to mature the thinking here? John
+
+On Aug 21, 2017, at 7:13 PM, Craig Federighi
+
+wrote:
+
+John, I think we should agree on a strategy first, and consider the acquisition(s) to support that acquisition second.
+
+LiquidSky's core IP appears to be 1) management of Windows game apps in the cloud, and 2) low latency graphics streaming. They are not a generic "run anything in the cloud" company. (I fact, that category is an industry, not a company).
+
+I do not believe running AAA Windows game titles in the cloud is consistent with Apple's business model. Nor do I think running other Windows Pro App titles in the cloud is a smart offering for us.
+
+I don't understand the rationale here.
+
+- craig
+
+On Aug 20,2017, at8:10 PM, John Stauffer
+
+wrote:
+
+CONFIDENTIAL
+
+PX-0464.2 APL-EG 03776399
+
+Craig, I would like approval to engage LiquidSky in an initial acquisition discussion.
+
+idk i
+
+d'
+
+i
+
+d d l»
+
+i · i· ». ·
+
+U
+
+official launch in March 2017, they quietly amassed over a million registered users with no
+
+marketing. The company has 25 employees, most of whom are engineers. While their focus
+
+has been gaming, they claim their technology supports a wider range of "PC in the cloud" use
+
+cases. Multiple people from Apple have met with LiquidSky, most recently where we saw an
+
+impressive demo of their macOS client running Blizzard's Overwatch on a MacBook Air and a
+
+similar demo on an Android phone, with surprising fidelity. LiquidSky submitted a working
+
+version of their client to the iOS App Store but it was rejected by App Review due to it being a "sub app store" since they allow games purchased elsewhere to run on their platform. The
+
+company has raised $10m, and Samsung is a strategic investor. A ballpark price for LiquidSky
+
+is in the 40-50M range.
+
+At some point, in the not so distant future, if not now, it's my belief running applications in the cloud will be an attractive solution for some key business cases.
+
+· Running Apple TV in the cloud, providing full Apple TV experience on Smart TVs and sticks · Enabling lower cost education products
+· AAA games in the cloud. Games not available on iOS or MacOS (this represents 2/3 of all
+games) · Mac apps that require more compute horsepower than the client system (e.g., Pro apps on
+MacBook Air) · Windows apps that don't currently run on macOS (some pro apps, high end games)
+
+I would like to acquire LiquidSky as a starting point for a key part of Apple's cloud applications solution.
+
+The plan as I see it would be: · Acquire LiquidSky · Prioritize some key business cases to solve (maybe the above) · Build out business case demonstrations to gain productization approval · Ultimately this team would mostly move into other orgs, cloud be the most obvious.
+
+Can we proceed with initial acquisition discussions?
+
+John
+
+CONFIDENTIAL
+
+PX-0464.3 APL-EG 03776400
+
+

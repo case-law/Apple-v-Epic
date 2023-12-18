@@ -1,0 +1,634 @@
+Case 4:20-cv-05640-YGR Document 551-23 Filed 04/30/21 Page 1 of 13
+Redacted Version of Document Sought to be Sealed
+
+a'~8's'" E'""'-I'F io: 56%5~8'-W8&48% 5P" 85LUment 551-23 File0d4/30/21 Page 2 of13
+
+Independenit DevelopersPiubilshing Progrartn on Xibox one
+Title Licensirrg Agreemten
+
+This Title Licensing Agreement ("TILA") is entered irate and effective as of May 8, 2OI7, betwee rr Microsoft Corporation, a Washington «orporation (" Microsoft" j arrd Epi«Garnes, ln«. ("you" or "youir"). (his TLA des«ribes
+the terms and eanditians of self-publishing the Xbox One vevsian af Fartnite (the "6anrreTMv)ia the Independent
+Developers Publishing Pirogram ("ID'Nl'Xbox" j an Xbex One andmakingthe Game available fal' purchase via the
+Xbox Garrres Stove. You should review the entire TILA, invluding any tervns provided ivr the Publisher Guide, and
+the attached Game Schedule, because tagether these terms create thiis binding TLA. As used herein, "'Xbox One"
+includes Xbox One, Xbax One S, Xbox One S«orpio and their successors and vairiants.
+
+YoILI and Mr«rosoft agree as follows.
+
+Xbax IIrevelopment l6t and Geveloper Account. Xb 0 d I p t kit ( h "XDK" j r licensed to Yau u~nder the terms ef the XDK License Agreement between You and Microsoft for the relevant
+
+territory ("XQK License" ). Microsoft retains title and ownership of the XI3K. Prior to execution of XI3lcl License
+
+and «reation of Your developer account Microsoft may verify cc ntact, financial and other information Yau
+submit. You must be in good financial standing, continue to complywith the terms of the XDK Li«ense and this
+TLA and Yeu ar'e responsible fer all activity that takes place with Youir developer ac«aunt. Your developer
+
+account allows you a«cess to the "Xbox Developer Portal," which hosts iinportant poli«les, guidelines aind
+
+publlshlng Iequlrements. 2. Gar n e Approval, Certl6catlon and Flelease. IIhe standard appraval process Ax the Game is described
+
+below and in the Publisher Guide.
+
+2,1 Co n cept. You well submit ai completed Game Information Form describing the proposed Garne
+
+and indi«ating the «ountries where You grant Xbox Games Store the right ta sell the Game. If Youl want to host
+(or' have a third party host) any online Game features,, then %au ar Yauv thir'd party host mustcomplywtih
+Partner Hosting Services requirements (mere info belaw), M»lcrasoft will notify Yau whether the Game concept
+
+is approved. Adherence to the approved Game information Form is required fov Certification. z,z Fin a l ceirtlIflcatlon. Yau will submit the proposed final-release version af the Game that is
+
+«Gmplete and ready for access and dlstrlbutlan via the Xbox Games Store. Your Game inust have a flnail «enteAt
+
+rating for each release region. Microsoft will conduct compliance,compatibility, functional, and other testing to
+determine the Game's complian«e with "Certification Requiiirernents"' (which are the specific te«hnical
+
+requirements Your Game must meet) and will provide Yau with the testing results, including any fixes required
+
+te pass Certification, Release from Certification requires; (j,) passing Certification Testing; (2) conforming with
+
+the approved Game concept; (3) providing any other materials required by the Publisher Guide; and (4) ongoing
+
+compliance withi all Cer5fication Requirements and other required categories ln the Publisher Guide, including
+
+approval of M a r keting M~sterials"(whi«h are press releases,, marketing, advertising, or promotional materials).
+
+2,3 C o i ntent ratirtrg. In order to enter Certification,, the Game must obtain a rating of '"Mature (17+j"
+
+(or its equivalent) or lower (i.e., more broadly appropriatej from appropriate rating bodies in the regions You intend to ship in, including any Independent content rating authority(ies) that Micvesaft «nay reasonably
+
+designate (e,g,,,ESRS, PEGI). You will rnclude such ratrng(s) prarmnently eni Marketrrig Materra'Is, as per the
+
+applicable rating body's guidelines,,and will include such vating(s) in a header file ov the manifest of the Game.
+
+If, after' comlvlefeial release,,MI«rosaft of iB ratings body determines that a Garne is suitable for adults only of Is
+
+indecent,,obscene, or Illegal,, the Garne will na lorrger be, available via the Xbox Games Store.
+
+sricmsoft «ongidenrrgr
+
+Rigel D/12
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES QNLY
+
+EPIC 92631372
+
+o' -- 3'5' c""'-i'-P"0: CR%%N'-8P688% =FUN" j ume n t 551-23 Filed 04/30/21 Page 3 of 13
+ZA LeCa l lZatiOAi, All Gamew»~ill be IOCalized by YOU 3»requi~ired by IOCal regulat>OAiI~f appliCable) BAd to the same ieXtent tO meet garnie pal"Ity fequIf efnentS IA SectIOn 2 5.
+2.5 i6a ifi ne paffty. The Gaime n sulbIlect tothe following fequ~remenits: Qggllg f ieBltUrg'5 Bind IglQnlltent pari@ I The Galfne will lllave 8tl least tlrle saplle features Rind colnltenit
+asanycorr csponding Console PlatlIorm vcfseA of the Garne, edudiiing all Ihardvtrarc feature updates IIc.g., HDR),
+Io~callzationi, subscf Iptions, airId pack-IA content..
+
+,2.6 PLl l tjllll$her Giuide. Mile/"osoft has, developedBl guide contailning IQgxbox pfggfaim~llde
+requirements,aind Iiniformation (35updated by Microsoft,the "P'Ublilshief 6UIcke"),,' , inc'ludhng Xbox Requirements,
+Branding Specifications, imariketing guiidelines, Xbox GamesStore policy, ainy applicable packagingreqiuifements,,
+BAdother information regarding other opefatioinal aspectsof XboxGne and Xbox Live i mpeach,as Set forth of
+de~i'Aed in the Pubiiisher Guide)i,E8ch Grime must cofnply with thle Publishier 6UIIlcle On publication of3
+supplementr,evision,orUpdated versionofthc Publilshcir 6'uiid'c,Yo'Idyalndthc Gia me w'Ill QutofrIQtI cally bc bouACI
+by all provisions.
+
+3*
+
+Po st =feIC~ e o l vipl lla Ace.
+
+3,$ I IUg s @Ier'rriclf$gAll Games must refnalln IIA complIBftIcc IIvith all CcftiIfIcation require'merits Iin thc
+Puiblillsheir guide. NothIAg in this TLA reliieves you of the obligabion 'to correct ntIatel'ial bUgsand efifofs ilA Garnes whenever dlsGO~veMdllndudlng after COmlNefCIBI release)i IIA a mutually=-agreeid manlnef l[whlCh fnay be v[a a Game update). Microsoft reserves thefighit to chairge 3 I'easonable amount t'ocover aelditia Aal Ceftlficantion
+
+costs If fe-GPft[lfllcaiitIo~niIIS fequIF'Bd. Milcfosoft WillipP'Dvlde you Wlthi 8dlvance Aiotlce of What the ifeaisionable fe
+
+Certifictaioncostsarc andIundcfvfhatclifcuim stances thc costsflMy bc BsscsscdI,
+
+engineering. 3.2 N o reverse
+
+You vvill not, directly or lndiirectly Iiinciudiing by BIdIng a third paifyy to ),
+
+Reverse Eniglinieef Bill or BAy cofnponeint of x¹ x D i ne, ilncIUdlign haifdtivare, Solltwall e,,of fll'Ivlvlfaife, except Bnid oinly
+
+to the extent thataucIhactivity is expressly permittedbyapiplicaIble lair notwtihstandingthis limitation. "Reverse
+
+gngllneelf means,,($) x il'By electfoinllc Scangmg of plihysIical Qrchem/cail stnpp/ng cf jefnlici oniductof cgmponen~t$<
+
+lncludling Ithe imoth~erboaf ld for' xbox Qne,,;9r (z) i dl5355emblllng, d ccofwlipllllllnig, Sniffling, uslllg Iogllc 3 Aailyzeifs ~of
+
+cicctriicalprobes, or rcpiaicing physicalIcomiponc At» of xbox 0 Ae to derive sourcecede. T'hiis section 3.2 docs
+
+Ao~tamend of 5Upefsede Section 3 4 of the XDKLicense between (QU BndMIcfosoft.
+
+3 3 M inil lINlurAComlrnltmcint You will make thc Gamic Bnd BAy Cnllne Garne F88tulle felatecl to consuming the Game, avBiilable via xbox Live for' 3t' least 18 months follovtIiifIg coIlrImef cia I release. Ycfu will
+
+provide necessary customer Suppoirt for such online Game Feature during Its BVBIlabillIty ariId for 6 ~months alIter ldll5co Atl AUB tllion.
+
+IuiemSIIJt' Cangtden5VJ wi6
+
+HIGHLY CONF II3ENTIAL -ATTORNEYS' EYES ONLY
+
+EPIC 92631373
+
+o'~aiq'" E'""'-I'F lo: 56%5~8'-W8&48% 5P" 85LUment 551-23 File0d4/30/21 Page 4 of13
+
+3A Dlsa blarnentM. i«rosoft may disab'le or remove any Gamefree Xbox Liveor on Xbox One
+
+consoles,<mimediaetlyandat any time,>fMicrosoft deterrnlnestheat; (1) You have breached thi>sTLA; (2) ¹u
+
+have terminatedthisTLA; (3j the Game fails to comply with applicable documentation,, the approved Concept,
+
+or other aspectsof thisTLA; (4) theeGame materially d'eviates from the version passing Certification or materially
+
+fails to perform as originally intended;(S)the Game is causing harm to (ar is likely to harm)the Xbox One
+
+console, third=party networks, users, or otherwise (e.g., d'ue to piracy, security breach or security defects, of
+
+technical failure);or (6) the Gameis damaging (or is likely to) damage Microsoft's reputatian, tnvoive Microsoft
+In public controversy, or subject Microsoft to liability.
+
+4.
+
+Marketing,, sglpport, alnd prolvliotlon.
+
+4.X Mark e tIng. As between the parties, Yau are solely responsible fomr arketing thee Garne outside
+
+of the Xbox Games Store, arEd Microsoft is solely responsible and has sole discretion for' marketing on Xbox
+
+Games storeaindjor Ml«rosoft s~ites. This se«tion does not prohibit You from purchasing adverti$'Ing for the
+
+Game on Microsoft's advertising platforms (includingthe Xbox Gaimes Stare).
+
+4.2 supp o rt. You ar'e solely respe nsible feprrevicling technical and ail other support relating tothe
+
+Game. You will provide all apprapriate contact information (ineludiing address and the applicable
+
+individual/group responsible for «ustorner support) andshall also provide all su«h i~formation ta Microsoft for'
+
+4.3 pro m o tion. Yau grant Microsoft a ifully-paid, royalty-free, nan-exclusive license ta: (1j publicly
+
+perform and publicly displaythe Garne at coinventions, events, trade shoes, press briefings, public interactive
+
+romtoional displays, and the like; and (2) use the title of, and screen shots from, the Game In advertising and p
+
+materialrelated ta Xbox one and other Microsoft products and services. The partiesmay,fromtimetotime,
+
+romotion. discuss additional, possible marketing and p
+
+Nothing in thisTLA, however, will preclude Microsoft
+
+from using screen shots, Marketing Materials, etc. as perrnittedby Iaw without a license (e.g,, 'Vair use"' under
+
+applicable copyrightlaw or "referential" use under trademark lawj. Microsoft may usethe code fran the Game
+
+for internal compatibility and testing ta ensure that the Game operates, correctly on Xbox Qne and XboxLive.
+4A Sa m ples. You will provide Microsoft with 3.,000 royalty-freseampleosf the Gamefor
+
+Microsoft'suse In testing, marketing and prarnatioin efforts.
+
+5. 6ar n e Con&nt and your Responsibilities
+
+S.X Sa l e of In&arne Content. Yomu ay sell ini-Garne content and Yau must use Microsoft's
+
+commerce engine.AIIpurchases made through Your Game are subjectta the terms ofthisTLA and the Xlbox
+
+GameStore polli«les,
+
+52
+
+Repr e slentatlons and Warrantl as'
+
+5.2.1 You are responsible for Garne contentincluding anynames, trademarks, logos, icons,
+
+tities, product descriptions and sereenshots You provide to us. If You diiseover that Youir Game violates the
+
+termsof this TLA, You must immedaitelynotify us and work with us to repair the Game; although Microsoft
+
+reserves theright to r'emove the Garne from Xbox Games Store. If Microsoft receives a «omplaintfrom a third
+
+party requestingthat the Game be changed ar removed, Microsoft will contact Youand, as, appropriate, You
+must comply with the notice as soonasreasonably practicaible, together with any other requireemntsin
+
+Microsoft's Notice and Takedown polie[esat htt a im icrosaft.ea f w i k 7 nk l 3=22 390.
+
+5.2.2 Y a u are also warrantying that listing and distribution af Yauir Game tinhe Xbox Garnes
+
+Store does not and will nat. vio'late any Agreements ta which You are a party or of which Youare otherwise
+
+aware,and does notand w illnatmisappropriateor infringe the Intellectual property or proprietary rights of any
+
+third party,
+
+ruicmsoft eongidenbal
+vtl6
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES QNLY
+
+EPIC 92631374
+
+0'~ala'" E'""'-I'F ID:56%Ig~8'-W8&48%50 5I85Lument 551-23 Filed 04/30/21 Page 5 of 13
+
+5,2.3 If your Garne includes free and open source software (any software licensed under' ann
+
+Qpen Source Initiative Approved License "F055") it must not infringe or misappropriate any intellectual
+paoperty or personal r lght of any third party. You mustcomplywith all applicable FOSS licensing terms,, including
+obtaining Cernrnercial Pass-throvgh license(s) and any source availability requirements, and you must not cause
+
+any Microsoft software to become subject to the terms of any FQSS license. If, at any time, Microsoft determines that You afe not In compliance with this Section 5.28, Micl'osoft reserves the fight to remove the
+
+Garnefrom theXboxGames Store,
+
+5.2.4 Y o u will obtaiin and maintaiin all necessary rights, ciearances and consents, and pay all
+
+performance, licenising and reuis4. fees,, ineiudinigany consideration associated with providing music or video
+
+related content ln and through your Garne.
+
+5.3 ISa r ne Ucelnse Rights, ln consideration of royalties payable under Section 8, You gran't Microsoft
+
+a worldwide, transferable, sublicensable license to: (1) broadcast, transmit, distribute, host, publicly perform
+and publicly display, reproduce, stream, and store the Game; and (2j distribute to Xbox Live users, and permit
+Xbox Live users to download and store the Garne and recordings of garneplay. The licenses in this Section 5,3 are
+
+exclusive (ii.e., except as expressly permitted under this TLA, You will not directly or iindireetly permitorenable
+~ccesstotheGame byanymeans, methods,platformso,rservices other than through Xbox Livej.
+Notwithstanding the foregoing, this Section 5.3 does not prevent You from making other platform versions of
+
+the Game available via other platform-specific online services. 5A Uce nse to Users. Microsok will license the right to install and use each Game to users. Yov may
+create a license agreement to govern 'Vc ur relationship with users wealth regard to the Garne (a "EULA" j. If 'you
+
+elect to bind users to ai EULA, Yovr EU'LA must: (1j to the maximum extent allowed by applicaible law, disclaim
+
+amagse any warranties, limit liability, aind exclude d
+
+on behalf of Microsoft and Its a%liates, eithea by category
+
+(e.g,, by a reference to "your licensors") or by name; (2j disclaim any obligation on the part of Microsoft or Its
+
+afflIINes to provide support Qr other services; (3) not prevent Qr limit access to the Game (however, a EULA may
+
+be required to access the Garne's Online Game IFeatures); and (4j not purport to govern or change, in any way, the user's irelationship with Microsoft und'er Microsoft's applicable agreement~ with such user, including the
+
+Xbox Live 'terms of use.
+
+5,5 ISarnepllaryecord and share feature. The Xbox One gameplay record and sharefeature isa
+system feature of Xbox One that allows users to record their gameplay experiences and publishthe recorded
+gameplay to share with third parties via Microsoft and third-party video sharing sites and services. If the Garne enab'les the gameplay irecard and share feature, You grant Microsoft a fully-pa~id, royalty-free, non-exclusive,
+
+perpetual license to, solely as part of the gameplay record and share feature: (ij record portions of the Game
+
+gamepiay; (2) copy, archive, host, and have hosted such recordings; (3) create deriivative works of such recordings (iineluding by application of various compression and streami'ng technologlesj; (4) publicly perform,
+
+publicly display, and stream svch recordings; and (5j grant to third parties the right to view such recordings. 5,6 6arn e play stMarnlng 'fea'Sures. The Xbox One streaAllng features are Xbox Qne system features
+
+that allow users to share and access their gameplay experiences with Microsoft and third-party applications and
+
+services, The licenses granted i' thats Section 5,6 are sublieensable to Microsoft's awliates, third-party contractors, an,d users,
+
+5.6.1 G a r nepllay streaming featunt. Unless the streaming feature ls disabled and subject to
+
+Section 2.5, You grant Microsoft a fully-paid, royafity-firee, noni-exclusive, perpetual license to, solely as part of
+the garneplaystreamingfeature: broadcast, transmit, distrlbvte, host, publicly perform and publicyldisplay,
+reproduce, and stream garneplay of a Garne with Microsoft ancl third=party applications and services.
+
+ruicmsoft congidenbaI vtlo
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES QNLY
+
+EPIC 92631375
+
+o'~sq'" E'""'-I'F io: 56%5~8'-W8&48%5Pst85LUment 551-23 Filed 04/30/21 Page 6 of 13
+
+5,6.z 6 a nteplay' streairnlng and reNote access feature. UInless the streamiing and I«emote
+
+access feature is disabled and suibject to Section 2.5, You grant Microsoft a full'y-,paid royalty-free rion-
+
+streaming exclusive, perpetual licerise to, solely as part of the gameplay
+
+and remote access feature. (aij
+
+brOadeaSt, tranSNit, diSti'ibute,,hOSt,,publicly perfOrm and publi«ly display, repraduee, arid streaming gameplay
+
+of the Game and (b) pl'ovid'e Lise, access8fld coAtfol of the gameplay of the Game one any platform or service olA wh ii«h Xbcix Live is offered. Any Xl)ox Live «loud-based streamlnig gaNe subscription and/or rental service is
+
+exempted from the obligations of this section 5,6.2.
+tiI.7 f Intentionally Omitted].
+
+$ .g Giarne Usage data. The ope'ration of Xbox Uve requires, Microsoft to collect and store Xbox Live
+
+user usage data, induding statistics, scores, Iratings, arid rankings (collectively,,"Xbox Live User Data )p 8'sweII 8's
+
+personally-identifiable Xbox Live User data (e.g,, naime, email address) ("peitsonal Data" ), Microsoft may, iri its
+
+dIscretion, use such xbox Live User Data fcir any purpose, Including postiIng the xbox Live User Dakota on xbox.corn
+
+or other Microsoft websites. Your Game may not collect Personal Data without obtaining user consent. If You
+
+collect Personal Data, then You may not disclose any Personal Data to, or share any Personal Data with, any
+
+third party (without express user consent),,and lnany permittedemail communications withXbox Liveusers,,
+
+You lnust include instructions for opting out of receiving any further comtnunications free You.
+
+comply 5.9 Lornp l i ance with Laws. Your Game and Marketing Materials must
+
+with the laws of each
+
+territory or country into which You request distribution of the Game. This iricludes: (II clata protection,,privacy
+
+and other laws and regulations relating to colic«tion and use of user information by Your Game (ii)
+
+telecommunicationslaws and (Iiij content ratings regulations. If You are required Ito make any disclosures to consumers prior to sale or download of the Game, You must provide those in the Game description field in the
+
+Xbox l3eveloper Portal. Those may lnducle Your full contact Information,, notice that 8 Game supports in-GaIme
+
+purchases, or other disclosures. You must make such notices sufficiently prominent as is required by local Iaw.
+
+Youlr GaNe must riot require further export, import or techlnoiogy coAtfol Iicerlslng from arly government. You
+must disclose to us any controlled technologyemployedu,sed orsupported by Your Game. You may not use the
+xbox Garnes store or any services or tools made avaIilable for the development of Garnes for any illegal activity,
+
+We must expressly consent to any collection by Your Game of Xbox Live user's Personal Data and in such event, You may collect only what Personal Data' that is legitimately necessary for the interided purpose and may not
+
+use any such Personal Data Irelating to the Xbox Qne and the Xbox Live service in any mainner outside of Your
+
+Game without express user consent.
+
+5,M B r a nding Specifications, You wIII incorporate Licensed Trademarks (defined In Section 6),,and
+
+include credit and acknowledge Microsoft as required by the Branding Specifications (in the Publisher Guide).
+
+You will not use Licensed Trademarks with third-party trademarks In 8 manner thatmightsuggestoo-branding
+
+or otherwise create confusion as to source or sponsorshiIp of the Garne and Marketing Materials or ownership of Licensed Trademarks, unless Microsoft has aipproved such use in writing.
+
+I), Lic e nsed TradetInarks. Your use of licensed trademarks, identified in the Publisher Guide as Microsoft
+trademarks (" Licensed TI'rademarks") mustcomplywith the Publisher Guide. Microsoft grants You a non-
+exclusive, non-transferab'le, personal license to use Licensed Trademarks solely in connection with marketing.
+
+YclILI ai'e granted Ao right, 8rld will not purpQrt to permit any third party, to use LiceAsed Trad&miaf ks tn a AY
+manner without Microsoft's prior written consent. You will not contest the validity of, by act or omission
+jeopardize,of take aAY act~ion Inconsistent wllthijl Mllcfosoft s Ii'ights ot' goodwill in Ltcensed Trademarks in arly
+couIntry, Indudingattempted registration of any Licensed Trademark, or use or attentpted registration of any
+mar'kconfusinglysimilar to any Licensed Vradernar k.
+
+sticmsoft congidenbat vtlo
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES QNLY
+
+EPIC 92631376
+
+o'~cia'" ~'""'-I'F ID:56%5~8'-W8&48%5Pst85LUment 551-23 Filed 04/30/21 Page 7 of 13
+
+7, Hos t ling Requlrertitents. If Yoeul'ect to provide a '"Publisher Conitpartion Experience," (which is an
+
+interriet website oran applieationi,e.g. a web portal or rriobil'e appliealtion) through which playel s of the Garne
+
+can accesscertain contenit, including Online Garne Features,,hasted and served through Your hosting servIces or
+
+3~ party hosting services ("Hasted Content" ), than,,as between the Parties,,you will pravide all customer
+
+suppart and technical support to XboxLive users. The Publisher Companion Experiencewill contain certain garne
+
+data inforrriation related to theGame. Microsoft has no support responsibilities whatsoever to Xbox Live users
+
+for the Publisher Corripanion Experience,
+
+requireemnts. 7.5I H o sting Service
+
+You will comply, and on Microsoft"s request, proviide Microsoft
+
+with su%cient informationto verify Yaur compliance, with the following:
+
+7.X.X Standards. You will host the Hosted Conteint aind provide services, eachin a manner
+
+that meets ol' ex~eeeds standards of quality, performance, stability,,and security generally accetped Iln the
+
+Industry, as well as specific requirementsin 5eetion 7 and the Publisher Guide.
+
+7.5L.2 Operation. You will monitor the operation and perfotrnance of Your hosting services;
+
+respond 'to technical and XboxLive user Inquiit'Ies; and have rules, policies, and pi oeedvresfoi' Youl' hosting
+
+7.13 R eporting arid technical policies, You will utshee communication processes stated irt the Publisher Guide for updating Microsoft" s tee'hnieal teams In addition, Yau will comply with the technical
+processes, policies, rules, and detailed procedures. 7,XA Server capacity and load, You will use eommereiall'y reasonable efforts to supportall
+XboxLive usersusing Your hosting services, includingoperating sufficient comiputing resources for traffic.
+me" 7,X.5 Uptlntte. You will operateYour hosting services to 99.5% Uptirne per month. "Up@
+meansthe porttoin of time when the systemis accessible and available to Xbox Lieveusers;Ulptlme ts «aleulated monthly assuming conformance with the industry standard af ntonitoring evet yfive minutes. Yau will report
+uptimestatisticsto Microsoft onrequest.
+7.X.6 'Ifroubleshootingandinotice to Xbox LIve Users. If the hosting servicesor the Publisher Companion Experienceare unable to connect to and properly tinteroperate with XboxL~lve,You will diligently
+work with Microsoft (subject ta the availability of Microsoft resources, ini Microsoft'» discretion) ta troubleshoot
+the problem, and You will diligentlywork to fix arly such problem. If aGameis uriable to access the hosting
+services, then You musk display the appropriate imiessage ta the XboxLive user in accordance withthe Publisher
+Guicie.
+7,Z Xb ttix Livf aemilysettingsfeatures,Thehostingservices,HastedContent,and Publisher Companion Experience will at all times comply with the Xbox Requirements related ta the familysettings
+featuresofXbox One and Xbox Live.
+7.3 X b ex Live Vs6eerne rated Content.
+7.3al M l lorosoft approval~ You may not allouwsers 'to create, share, Qr otherwise provide
+user generated content ln connection withthe Game without Arst obtaining Microsoft's express, written approval. Yau must provide Microsoft a detailed descriptionaf the process and procedures You will have in placeregardiing such user generated content at least 90days prior to Garne commrceial release, and the Garne
+mustcomplywith any Xbax Requireemntsrelatedto the creation and/or consumption of user generated
+content. 7.3.2 I n f ringe@tentI.f Microsoft has approved You ta make user generated eanterit available
+remviong as part of Hasted Content, then You will ntalntain a procedure, that carnplies with applicable Iaw,,for
+this contentin the event of an infr'ingement claim; and You will rentove allegedly Infringing content,,no later
+
+Aticmsoft eongidenbat vtl6
+
+RageScf 12
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES QNLY
+
+EPIC 92631377
+
+G' --8'8' p""'-I'-P"0: CR%%N'-8P688% =FUN" j ume n t 551-23 Filed 04/30/21 Page 8 of 13
+
+thaA45 ho>ursaft~et rpceIipt ofa third partycia Irrj or' notice firoNIMicirosofL I'Uirthier details ava«l able in the
+
+Pujbljish&jr GQIde.
+
+7.3.g V f o l atlonjiosf Xkjox live ternjte Gfelse or code Qf condjuct. Micr iosoft may, lrI its
+
+discretion, reqiuire You to removeusergenerated content for user violations Gf the XboxUve terms of Use, Xkcix Live 'coide Qf conduct, Qf both.
+
+$, 4
+
+jith i ird party gQI$it ~Of Hil5Stlllnjg SerVI~C8S, SLJlbleCt tQ MICrQ@oft 8 adVBIAC8 CorI$8'nt(»Qu miaiy
+
+SulkCOntfact to a 3 pa rty hGSt jaillrOBAIY pOrtlojn Of YOIUrl rightS Or GbllgatiOAS ®IIth regard jto proviidIinig hlOSting services ioinly. All actionsand failuires to act of any 3 party host engaged by Yiou are imputed to, an(5deemed to
+
+bp your BetIQAS oi"fBIIUreS tQ Bct. (QUrl1iay Pjrovidp jtjhe 3 pe if ty Ihost vIIiith access to QAIYthose portliOAS of Xbox
+
+erform ILIvp services th~at are jnpcessary to p
+
+hostljng sprvIces, Bindjto Ao Other p iortilons. You u incondiltIonally and
+
+Irrevocably guafaint88 3 party host"sperforrnaince of the applicable Gk~llgations Irnpiold by thisTLA ajnd the
+
+XDK lj.icenee Agreement; YOUwill jindemnify andhol'd Microsoft harmless frOrn all damages or Costs ofany IQrId
+
+Incurred by Mlcrosjoft Gr an/'/ third party aA'darisljng from Gir related toi3 p'artyhost sfulflllmeintGfi~or faiilujre tio
+
+fiUI f)ill thip appIIICableOlbiigatiOinS Of II'Ou' aACI you Vriili make all pi3$menjtS t9 3 ' parjtY host for Servl CeS performeCI
+
+BAd fGI' an'I/ Qthiel' servijces Qijl' dplilv~prables.
+
+palympltttTprimsq Yioui +fjIII $'Ukmllt Ylgllgr gamp tol M/cr ioso~ft flglr dl/strIkujtIjlgljn VIa tlhlp XkQlx games Stlolrlp,
+
+you Willset the ISIholesale price I VIP"3. NfgpmeanSthe highest per-Unijt price that YOU ijntpjnd to rharge
+
+MIICroeoft Bjs re'taiief. IVIICrQSclft may chQQ$8' tQOffer' the Gajme for sale In currency Qir vlai CUP'erICY St@redvalue 'CSV ) Thp rates valups anjd 'pGIIDipsapp iilcabip tlo Usp of CQf arip aloof'aiiabip in thip Publlshipr Q'Uidp,
+R8'AtfN9jioicI'Rote' nlleansthe rate Used calculate the IRioyaltY Fee for pUrchases jmade we'll CSV. T48 CSV
+
+Remlttaince Retp Is,c UfrejrIt ly 3. 2% Isee'Piubllsher 6UIdp for,BldditNAail dpta III For 6 ames fQlr%t'hiich Mllcrosoft receives payment, Microsoft will pay youa royalty fee as per Section 8,1 jI"Royalty F88"Ii.
+
+g.i
+
+NIQg a l jttijFep. MIcf Qsoft 'Alii pay YQU 8 f~o'lgalty pefcentaige Bs foliows.
+
+jg,$<$ fIIQ'nl csv jp'Urcljllasee. FQrnon CSv purchBlses Qf th8 6aplllep 0'nllllnle Garroteicojntjerjjtp Qlr
+
+conltpnlt distjrlbutedjfor "free" the Royalty Fpewilliequal the greatelr Gf (I) Ithe wholesale price Gr (Ilj 70% Gf the
+
+act iual price for such item. Tihevrholesalle and actual priicesdo not ijncIUde ainy pass-through taxes such as sale,,
+
+ILSSe, 8 Aid/Qir VAT/6ST that BI'8 QjrdIAarlly Collected frQAIIXi box LIVpQSprSIIIrhethipr QI' AotthOSe taxes Bre dlsplaypdj
+
+to Xbox Live Users.
+
+jg.2 peiirllne'nt. Ijlithin 45 daiys aftpir the 8'njdGf each Allo nth, Qr rrIQirp frequently,,MIcrosoft wIII pj} ov/de Youl vr/th access tQ 8 statpmlpnt Bind rielealse paymenjt fot anY Itoyaity Fplps duilp, lnl tlhlp pvejnt RGYality Flplps are less than$290 for a giveA monith, thieA AG payment vrill be Nade until such Royalty Fees accf Uied exceeds $200. Th8 Stajterrje'At e'III contajini infQrfnatlon SUffiicient to discer'A hjow jtihe Itopality Fees were corrjputed, YQQ have '9io days after thip statement date tQ dlspulleth'p InforilmiatloA presented on thip stat~errIente
+g 3 Xho x Uive biljiing, collection,, and HostingServices IMiicrosoft has the soleright to kill and
+~co[lect Bill fees assocIated wIltlh X box Ive for whILh XjblcleLllveUsel's may be chairged,vhlhIch Blrnotllrlts llAtIII bp mj Micros~o@s' discMtloni, As between ¹u and MIcrosoft,,Microsoft will solelgo@8r, host,fulfill and deliveejthe
+Gamp enid Ojnlljnp 6ame Featured and aAy GthBr Xkiox OAe related cGAteAt iolr servjIcps to XkoxjLtve Uselspexcept
+as follows. You mayhost jIand have hostpdGjnYoiur behalf) multiplayer functionality aind server-hosted content
+StiemseJt' Cangtden5v/ ate
+
+HIGHLY CONFII3ENTIAL -ATTORNEYS' EYES DENLY
+
+EPIC 92631376
+
+o'~eiq'" E'""'-I'F io: 56%Ig~8'-W8&48% 5P" 85LUment 551-23 Filed04/30/21 Page 9 of13
+and seirvices necessaryfoir online garne mades, and other such cointent and services approved by Microsoft for the Game.
+8.4 of fs e ts. Microsoft reserves the riigthot adjust Your Royalty Fee payment amount to reflect offsets for: (lj amounts uncollectable (e,g.,canceled credit ear'd payments,, invalid crediit card accountsj; and (2j any return(s) Bs set forth In tlFiilsTLA. Microsoft Inay elect to accept I'etul'nsfrom usersIin accordance with the termsof sale provided via the Microsoft Services Agreement. Unless You have provided Your priorwritten approval, however, or the parties otherwiise agreeto a higher cap amount, the tctal ireturns that can be netted out of the Royalty Fee calculation will not exceed 1%of the total number of units sold in any quarter. For any returns accepted by Miicrosoft, Microsoft willrevoke the digital content license a~ssociated with the applicable end user'sXbox Uve account. Note that any revocation of digitalcontent license inaccordance with Section 3.4 is exclljded fromi the 1% cap referenced above. IJpon wriitten notice to You (erniail shall suffiice), Miicrosoft shall have the flgiiht to offset amouintsclue to Yo'u In the event Youfall 'to paiy Miicrosoft any amountsdiue under 'the TLA.
+8.5 [Intentionally Omitted].
+8.6 %a x es. Neither party is liable for any othfe other party" staixes that the other iislegally obliigated to payancEthat are Incurred or arise in connection with»orrelated to trarrsactions under this TLA,,and all such taxes (iincludiing net incomeoir gross receipts taxes, franchiise taxes, property taxes,,or taxes arising from sales between a party and its subscribers or customers) are the financial ~esponsibility of the party legally obligatedto
+pay such tax,A pairty may provide to the otheraivaliid exemption certificateinwhichcasethait other party will
+not collect taxes covered by such certifiicate. If any taxes must be withheld on payments made by one partyto the other, the paying party will deduct such taxesfrom the amount otiherwiseowed and pay them tothe appropriate taxing authority. ll he paying party will secuire and deliver to the other an offiiciial ireceipt for those withholdiings and other documents reasonably requested by the other toclaim a foreign tax credit or' refund,
+The parties will use reasonable effortsto ensure that any taxes withheld are rnirilmized to th' e extent possible
+under applicable law. This Section 8.6 will govern the treatment of all taxes as a result of,,or connected with, this TLA.
+8.7 Aud i t . You and Microsoft will keep all usuail and proper records irelated tiots performance underthe TLA forthree yearsfrom the datethe recor'dw ascreated.EitherpartyI"Aiuditing Party j may, on 66 businessdays" notice, cauise a mutually agreed upon third-party iindependeint CPAor law fiirm (such agreement not to Ibe unreasonably withheld)to audit or inspect the otiher party's (" Audited Party" ) records no more than once'rn ialny],2,consecultfivemonth peflod to verrfy complrance with the financiail~royailtypandpayrnlent terms of this TLA. Audiiting Party will have access to the previous three years of' Audited Party's records firorrrthe date that the audit request notice was received byAudited Party. The right of inspection and consultation will expire with irespect to all records irelated to any amounts payable under thisTLA on the 3 anniversary of the date of the statementor payment to which such records relate. Any such audit willbe conducted during regular business hours at Audited Party's offrccs and wrll be pakl for by Audrting Party, unless Material Drscrepancre» aire dilsclosed. If Material Discrepancies are disclosed, Audited Partywill pay Auditing Party for the costs associated with the audit, aswell as ireimburse Audiiting Party for all under-reported arnouriu, plus interest at a irate of 12N per alnurn. "Material Discrepancy" meansIo iA of the amounts due to Auditing Party within the audit period (net of any overpayrnents that may have occurred during such audit period). If there is no Material Discrepancy disclosed,then the Auditing Party pays all costs iinivolvedwiith the audilt. 9. A dditionYaelnrns.
+sricmsoft congidenbai
+vtl6
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES QNLY
+
+EPIC 92631379
+
+a' 8'q'" E'""'-I'F io:O.'SFA.259455845-'98%~'NRument 551-23 Filed 04/30/21 Page 10 of 13
+
+9,X Dl s clalnfrtei of warranty. Microsoft provides all tnaterials (including XBK, the Xbox Garnes Store, xbox Live) as-is " "with all faults," and "as available." you bear thee risk af using the materials and the xbax Developer Portal. To the extertt perrrtitted by local law,,Microsoft excludes arty I mplied warranties or conditions, Including those af product liability, rnerchiantability,, fitness far a particular purpose,,workmanlike effort, and
+non-infrignement,relatingto 'tlite materials and Xbox Developer Portal.
+9.Z Li m i tation) olf ITabflity. Except far amounts awecl unclet' this TLA, the maximum liability af' Mici asoft to Yau ar any third party relating to this TLA will be $M,000. Fvirtheir mote, under na ciircvrnstances will Microsoft be liable to You for any damages whatsoever with respect to any claims relating to the Microsoft
+
+SeCVrity technology Or Its effect Ort any Garne ar far arty StaternentS or ClairnS made by yau, Whether in Yaur
+Marketing Materials or otherwise,regardingthe availability or operation of any Game.
+9,3 Du t y ta defend. Yau will defend, inderrtnify and hald harmless Microsoft and its subsidiar'ies
+fl Qm ancl against (Includingby paying associated any ca$ts,, losses, dalnagesQI e'xpenses and attorneys fees) any
+and all third party claims: (i) that your Garne infringes any proprietary or personal right of 8 third party; (iii) alleging Your breach of the TLA, (lkiI) irelatiing to the vse of or iinabblity ta vse the 6arne (to the extent svch claim is not caused directly from the acts or omissiarts of Microsafjt), includiing any product liability claims. Micrasof't will
+rtotify Yau pramptly in writing of the claim and, at yavrt'easartablerequest, provide You with reasortable assistance in defending the claim. You will ireimburse Microsoft for agonryeasonable out-of-pocket expenses Incurted in providing that assistance. You will not make any settlemeritor compromise of a claim, or admit or stipulate agonfyault oir liability on Microsoft part with respect to any c'laim covered by this section without Microsoft's express, prior written consent.
+
+9A Ch ofce Loaf%i'and Venue. ThisTLA Isgaverned bythe laws QfWashington State.You
+irrevocably consent ta the exclusive jurisdiction and venue af the courts In King County, Washington.
+9.5 Limi t a t ion ani Clairnsa TQ the maximum extent permitted by IQcal Iaw, any claIIAl related to this TLA or ta the Mlcirosaft materials must be filed within two years of the claimant first becoming aware of the claim. lf it is not filed within that time, then the claim is permanently barred.
+9,6 No W a l v ere A party $ failure tQ enf'gree any Irights under thfls TLA will not be deeme8d waiver a'f
+
+the same right on anather occasion, or of the right to enforce any other right under this TLA. Microsoft" s decision ta make a 6ante available Qrt the Xbax Games Stare will riot be deerrted a waiiver of arsy rights Microsoft may have under thatsTLA, Incl~udlAg fal' viola'tlons af the CertIAcatlon Requirements of other coAteA't related
+
+terms. 9.7
+
+reemten Co n f identiality; puibliclty, The most recent generally applicable Non-Disclosuire Ag
+
+(ttIDAI executed by You and Microsoft will apply to all Confidential information provided by the parties under
+
+this TLA or the XDK License (regardless af any earlier termination or expiratian of the NDAI. Except if otherwise
+
+stated ln this TLA, neither party will communicate wraith the press ar public about t'heir relationship under, or use
+
+the other'sname connected to,thisTLA,without the other"sexpmss, prior,wr itten consent 9,8 As s ignment. Mi«rasoft imay assign this TLA (or any rights ar duties under it) at any time. Yau
+may not assign this TlA or any rights or duties under it without the written consent of MIcrosoft.
+
+9.9 Rei a tTOAShip. Each party IS Bn independent Cantfaetaf' ta the other and has na autharity ta aet on behalf of or bind the other, and this TLA does not create any other relaitionship te.g., ernployrnent,, partAership,,of ageAcy).
+16. Ter m . Thee term af this TlA Is 3 years beginning with the Effective Date and willautoamticallyrenew
+each year as Iong as the Game remains available via the Xbax Garne Store and Xbax Live. Hawever, iif the Game does not release on Xbax Garnes Store by 3 years after the Effective l3ate, then Microsoft may immediately
+
+tuicmsoft congidenirgt vtl6
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES QNLY
+
+EPIC 02631360
+
+0' 8' q'" E'""'-I'I IDO: .'SFA.259455845-'98%~'NRument 551-23 Filed 04/30/21 Page 11 of 13
+terrrIfinate thi» TLA. Elither party cairt give rtotice of tenTIiiirtation withe 60 day»' notice or If either' party materially bireaches the TLA, the rton-breac4trtg partymiay termiirtate withini 39 days'of notice of the breach ttrtless suchi breach is cured within the notice periiod. Past-termination, irtcliudirtg termination for breach, Microsoftwill keep a COpyOf the Gagee urtleSSa COUirtot'd'et'S uS te delete it beCauSe Of Oepyt'ight irtfflngernent tO Suppart Ii edowrtlaadsto an Xbox Live user, to back up and restore, or other techrtlcalreasons. When 'Your Game is no IOIIIger avaiilable via the XbOIIGameSStere, YOu muSt retuirrt all MICrOSOft materialS, iirtCIIItdirtg arty XUKS,ortleSS otherwise approved in writirtg by Microsoft, when this TLA termlrtates, You nlust feturftall Microsoft materials, including anyXDKs, unless otherwise approved In writing by MIiorosoft.
+By siigAirtg this TLA, YQLIifepfeseAt artd waffaflit to vs that Yoll have tltie attthiorilty to accept this TLA, Youal'e Bt least 18 years of agee tihe Infornlation You provide urtder this TLAis true and correct, artd You agree to be bourtd by its terms.
+
+SlgniaturK
+
+Pligosqft I."ofiitoratioft
+QA5764Crgugai0745T...
+
+christopher sharla
+
+GfiI'ectof, XM X b o x
+
+K ic| ames, lnc
+signature: $Q I II., IttIIrair
+
+Title:
+
+Joseph M. ItIilbttf vp aittsllrIeSS AffB,i lfa
+
+ttrticmsoft Congidenbat vtl6
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES QNLY
+
+EPIC 92631381
+
+o' -- 8'e' ~""'-I'-p' IDC: K4'1.258$%M45-'98Ã~'j u m ent 551-23 Filed 04/30/21 Page 12 of 13
+IndepeedentI Developerspvblisltle~gprogIem ebsXbeeQee Title Ucenslng Agreesnent
++It. QiOIteiOQIIe --eiogTalITg
+Tlhils5dlleduie A I Gable Schedule l Is palFt9'f slid suhiiect to th8 Tlitle LloehsllBgAgl&8568nlt dated MBiIf Hi;2917 ) hetw88n the pasties. This 6@Ime 5clsiedule shallIbe effective upoei the hst signature date helot.
+As tjse(fl ln thIQ ga+'p $(he@Ule @anti+ fpleain$Fo'ntlglge.
+
+Mfolfoeglft gJ}glfel es tihat the featuf ies Iof the Qa/pe thaIt peggy uwf$, to l bund/ol-gaggle
+stfllctuM% Blfe 13ppMVRdlBs ifesiullFRd hip SectlGlll 7.3 Qf 'thie TllA, (pfGiVIlded that You
+comply with sill othew obligations of Sectiion 7.3.
+
+AtiemseJt' Cangtden5v> wto
+HIGHLY CGNFII3ENTIAL -ATTORNEYS' EYES DENLY
+
+EPIC 92631362
+
+0' 8' q'" E'""'-I'FiDO: .'SFA.259455845-'98%~'NRument 551-23 Filed 04/30/21 Page 13 of 13
+
+Third Party Hast af Hosting SertAces
+
+Mi«rasal't agrees that VaomayUse 3'd parties ta hast all ar any partian al your
+rightsor obligations with regardto providinghosting services as required bySection 7A af the TEA,,provided that you comply with allother abligatiarts af Section jA.
+
+In theevent al a cortflict or irtconsistertcy between the TLA artdthis 6arne Schedvle,this Garne Schedvle shall prevail,
+
+Agreed Bind accepted:
+Sigrtatttre:
+DA520eFA38G74s7..
+Nairrte: christopher charle
+
+~~~,,gyni6catfnes, Irtc,
+
+Stg at re:
+
+CA BF ~~3Afi6947C
+
+Name:
+
+3osephi M. wi'llbttr
+
+Date:
+
+director, xctxtbax 5/M/20l7
+
+Aficmsoft congidenrrgt vila
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES QNLY
+
+EPIC 92631383
+
+

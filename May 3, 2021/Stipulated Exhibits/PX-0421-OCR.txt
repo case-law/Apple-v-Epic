@@ -1,0 +1,76 @@
+From:
+
+Peter Stem
+
+To:
+
+Philip Schiller
+
+CC:
+
+Eddy Cue
+
+), Matt Fischer
+
+BCC:
+
+Subject:
+
+Re: TIMELY (NGNix)
+
+Attachments
+
+Sent:
+
+07/30/2018 10:31:30 PM 0000 (GMT)
+
+PULINTIFF
+U.B. DlstrlutCourt - taoGAL
+4:20w45540-YGR-TSH
+Gps Games,Ina v.apparIns.
+Ex.No. PX-0421
+Dale antenul By
+
+Spoke to Bill Holmes. Short version: He is taking our proposal for an extension with no further IAP tests to Reedlate tonight
+(Reed is in Italy) along with the rest of the team, and will get back to us tomorrow. He also knows that Eddy is ready to call Reed if that would help.
+
+Longer vereio: I explained that these IAP tests are not OK for Apple. Our commitment to developers and customers is to run the world's best App Store, and when Nelflix is cycling in and out, they are undermining that. I also explained that we run a principled App Store, and they have a unique arrangement because it was struck before the existing Video Partner Program came into effect. That being said, in the spirit of supporting the long-term partnership and relationship, we would extend our existing deal on current terms for 2 years. I also gave him assurances that we would work with them to cycle our promotions of Netllix so that they can assess their effectiveness, without Net5ix having to exit the App Store. Finally, I 1st him know about some of the initiagves we are pursuing to reduce voluntary churn. Bill let me know that Netllix believes it's in their strategic interest to manage payments themselves, and it's hard with existing data to make a case for keeping going for 2 more years given the current state of their understanding, hence thetests, but they appredate our issues and will see if we cen get this resolved.
+
+Now we wait.
+
+0 J 128,2818, 14 38PM,Pulp sulll Sorry typo 70/30 (duh) Sent from my iPhone 0 J 128,2818, 14 38PM,Pulp sulll
+
+It is true that if they don't renew an agreement they go to the same 79/39 first year model as everyone else.
+If we renew the current agreement for another year (which would be goodfor both of us) I would hope that we get a commitment from them that they will stay with the IAP model, not keep testing no IAP and threatening to drop it during this time.
+
+Sent from my iPhone
+On Jul 28, 2018, at 4:33 PM, Peter Stem <
+Phil, Eddy, In the absence of us being willing to entertain a reduction in NeNix's IAP commission rate below 15%, Netllix 1st us know that they want to extend their IAP tests to all countries induding the US, starting as early as this Wednesday. They seem to want to do this so they can get a reed prior to the expiration of the current agreement in September. They are also likely nervous that if the agreement expires, even though they could shut down IAP going forward, all their current subs in year 1 would pop up from 15'Yoto 30%. Our sense is that the only way we might cool things off would be for us to extend the exisfing rev share agreement as
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+Exhibit
+PX 421
+PX-0421.1 APL-APPSTORE 02026861
+
+is (I'd recommend by a year so it is coterminous with the universal services agreement), while we demonstrate that we have a constructive path forward on voluntary churn. Since TV App is not going to happen right now, there' s nothing else to get from Netflix at this time besides their continued participation in IAP. Please let us know how you would like to proceed, or if you'd like to meet Monday to discuss this. -Peter
+
+On Jul 24, 2018, at 7:04 PM, Peter Stern (
+
+) wrote:
+
+Phil 8 Eddy, Matt and I met with Bill Holmes from Netflix (among others) today to hear the results of their IAP test in ten countries. Here were the takeaways, as they conveyed them:
+
+The good news: Netflix saw significant incremental volume from IAP: 37% of the subscribers we captured were incremental to what they would have captured via web alone The bad news: Apple IAP customers have much shorter lives due to voluntary churn than non-IAP customers -- resulting in our incremental customers being worth 30% as much as subscribers they capture themselves The bottom line: When you factor in our commission (12% net of transaction costs) and our incremental customers' shorter lives, IAP is modestly profitable (+4%) for them, but this may be optimistic (e.g., it excludes the US, which is large and less likely to be incremental). Netflix compared their 4% profit to our 15% commission and suggested that we have an uneven balance of trade.
+
+We pointed out a host of problems with Netflix's analysis, but they don't really matter because this was just a prelude to a negotiation on their part. Netflix suggested ways we might lower our commission, which we shot down forcefully. Netflix also proactively made clear that they have no intention of joining TV App.
+
+We steered the conversation to the positive things we can do together to reduce voluntary churn, increase engagement for all their customers (whether IAP or otherwise), and continue to generate incremental subscribers. The next step is for us to reconvene in a week ortwo to discuss these ideas, with the goal of reaching agreement on something that preserves their participation in IAP on principled terms prior to the expiration of their existing deal in early September.
+
+Please let us know if you have questions or suggestions on any of this. -Peter
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0421.2 APL-APPSTORE 02026862
+
+

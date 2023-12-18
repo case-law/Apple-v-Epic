@@ -1,0 +1,169 @@
+From: Sent: To : Cc:
+
+And rew Grant
+W ed, 22 Jul 2020 14:07:51 +0000 T C Ale e Shobi Aaka sh Gup Emu Servais
+
+Darren Clary Subject: Re: Visibility into Mobile Update Speed
+
+Zobrist Cameron a ne dvick
+Matt Salazar
+
+Just a side note - this shows when those people clogged in* with a new version, not when they actually got the update from the App Store. A good percentage of people coming in "late" will already have received the update via automatic updates, It's hard to get that number, but anecdotally in the early days of mobile, when we oAen released crash fixes as enon-requiredh updates (e.g we did not proinpt you to update to play) we found that within 3 days about 30% of
+players appeared to have received the new build, either via automatic updates or just from checking their update list themselves.
+
+On Wed,Jul22,2020 at10:00 AM Alee Shobin
+
+wrote:
+
+Thanks, Aakash and Aaron! We appreciate the hustle on this.
+
+t acc p
+
+y h l*t t h p 'th @A M d 7 k tl ' 7
+
++Ed Zobrist +Emu Servaisfor vis on % of players that update N days after an update releases.
+
+@Ahakash G ts nAsto Med lck 7 d 'lied do t o should be a pretty good proxy for us here:
+
+l ook at the late pdates 7 seaso 12 just on iOS - that
+
+Uoitcri States District Court Northern District of California
+
+CaseNo. 4:20-ev-05640-YGR 0
+CaSeTitle Epic Games,frt«a yttstyk, Ia«
+
+Exhibit No.Dx-3083
+
+Date Entered
+
+SttsutY. Soosa. Creke
+
+By:
+
+nepsly Cress
+
+It looks like that shows (eyeballing) a quarter of players updating to the new release within under 2 weeks, while a larger chunk updates over the following week or two. Am I interpreting this data correctly or is there a different way we should look at it?
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3083.001
+
+EPIC 00198749
+
+Thanks!
+
+-Alee
+
+On Wed, Jul 22, 2020 at 9:51 AM Aakash Gupta
+
+ote:
+
+Aaron was ahero and did this last night,
+
+On Tue,Jul21,2020 at5:29 PM Caineron Payne
+
+Thanks!
+
+On Tue,Jul21,2020 at4:28PM Aakash Gupta
+
+wrote:
+
+Understood --escalating priority. Will do our best.
+
+On Tue, Jul 21, 2020 at 4: 19 PM Caineron Payne
+
+wrote:
+
+Hate to be that guy, but this is probably going to be a very hot topic question at a big Tim meeting toinorrow at 2pm. Any chance we can get a sense of an answer by then?
+
+cc-ing Matt S just because he's in the same meeting and has some context on importance. Sorry for being vague on the meeting overall.
+
+On Tue,Jul21,2020 at12:27 PM Cameron Payne
+
+te:
+
+Thanks, this is high priority for a Tim meeting. Any chance in the short-term we can just get a quick take for the most recent client update (non-HF), about % of mobile MAU that was updated to latest update version after 9 days7
+
+On Tue, Jul 21, 2020 at 12:24 PM Aakash Gupta
+
+wrote:
+
+gou dsgood Da e t sotptopatemttpkut~A M
+
+d t k 'st eamistooktgt t o.
+
+On Tue,Jul21,2020 at9:16 AM Cameron Payne
+
+wrote:
+
+Aakash, to put an extra fine point to the question, in addition to the general question: We will launch 13.40 on Tue Aug 4th. By the time we hotfix on early morning Thu Aug 13th, what
+% of active mobile players do we think will have updated to that build? By platform (iOS vs Google Play vs Other Android). Do we see any meaningful discrepancies by region/country?
+
+On Mon,Jul20,2020 at7:43 PM Aakash Gupta
+
+ote:
+
+Roger - tracking the issue here.
+
+On Mon,Jul20,2020 at6;59 PM Alee Shobin
+
+ote:
+
+Thanks - Aakash, let me know if you need more info or context. Overall we' re trying to figure out what percent of acnve players update to the new client N days after release.
+
+On Mon, Jul 20, 2020 at 6:48 PM Darren Clary
+
+ote:
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3083.002
+
+EPIC 00198750
+
+Adding aakash, he can find someone to do it
+
+On Mon,Jul20,2020,5:56 PM Alee Shobin
+
+ote:
+
+Hey team,
+
+Thanks,
+
+-Alee
+
+On Thu, Jul 16, 2020 at 10:31 AM Jon Sredl
+
+te:
+
+Adding the rest of
+
+or viz, but Ch n sto her Wri t specifically is probably the
+
+most likely to know w ere totrac these down,
+
+On Thu, Jul 16, 2020 at 10:08 AM Alee Shobin
+
+wrote:
+
+Jon, Darren, We' re looking to get a better understanding of how quickly new players migrate onto a typical
+mobile update.
+
+Example: % of MAU with latest update N days after release
+
+Would it be possible to get this info before EOW?
+
+Thank you,
+
+-Alee
+
+Alee Shobin Publishing, Mobile ) Epic Games
+
+Alee Shobin Publishing, Mobile I Epic Games
+
+Alee Shobin Publishing, Mobile I Epic Games
+
+Alee Shobin Publishing, Mobile I Epic Games
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3083.003
+
+EPIC 00198751
+
+

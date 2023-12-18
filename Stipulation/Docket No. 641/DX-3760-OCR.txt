@@ -1,0 +1,3237 @@
+I NTERACT I V E E NTERTAINM E N T BUSINESS
+
+Xbox LIVE Marketplace -- Future Strategy
+Market Analysis
+Feb 23, 2011
+
+MiCrOSOt't CONFIDENTIAL
+
+Executive Summary
+
+Drivers
+
+Key Points
+
+· WW video game market will grow at a 10.5% CAGR from $51B in 2009 to $84B in 2014 · Online game segment will grow from $11.7B in 2009 to $30.6B in 2014, a CAGR of 21.3%,
+driven by growth in APAC · Wireless game segment will grow from $7.3B in 2009 to $13.1B in 2014, a CAGR of 12.3% · PC Games isthe only decliningsegment
+
+· Traditional physical retailers are expanding their digital presence in games · All major competitors have digital offerings · Competitors typically price digital games at a lower price point than physical games · All digital retail websites focus on targeting the core gamer · New competitors are on emerging gaming platforms such as mobile devices, social networks
+and cloud services
+· Fast improving technology on mobile phones make it a strong alternative to consoles for non-
+core garners
+· Developer community on emerging platforms is fast growing resulting in an abundance of games on these platforms
+· Downward pressure on price is driven by freemium and ad-based games available on mobile and social platforms
+· The Wii, Move, and Kinect coupled with social game publishers developing games for consoles, drives more non-core garners to consoles than ever before
+· New revenue models are being explored on mobile and social platforms that compete for gaming mind and wallet share
+
+Key Implications to XBLM
+· Online and wireless games present strong growth opportunities where XBLM can leverage areas of Microsoft's broader portfolio
+· A key point of differentiation is required to carve a unique value proposition for XBLM users
+· Segmentation is becoming more important with the growth of non-core garners on XBLM who are more price sensitive
+than core garners · There is a need for a strong developer value proposition for
+games on XBLM to counter developer focus on mobile and socialgames, and also maintaindepth and breadth of games that appeal to XBLM's newer customer segments · Low priced and free online social games and wireless games challenge traditional gaming price models · Pricingschemes should be evaluated tocombat popular, emerging revenue models being employed on competing gaming platform marketplaces
+
+/~
+Source: Multiple sources as referenced on slides within "XBLM Future Strategy -- Market Analysis" presentation, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+Outline
+( < IE'0)
+
+· Market Size · Market Trends
+Enabling Technology
+Gaming Content Devices Consumer · Marketplace Competition Revenue Models Consumer Experience Pricing and Positioning
+
+MiCrOSOt't CONFIDENTIAL
+
+Global consumer spend on video games is growing twice as fast as overall media and
+entertainment spend.
+
+Global Media and Entertainment Consumer Related Revenue, 2009- 14
+US Dollars Billions
+
+2009
+
+CAGR 2009 -- 14 (%)
+
+2014
+
+5.4%
+
+·
+
+·
+
+10.5%
+
+Video Game End User Spend*
+
+5.6%of All Consumer Related Global M&E Spend
+
+' Excludes hardware spend Source:PWC Media and Entertainment Outlook Report, Accenture analysis.
+
+Video Game End User Spend*
+
+7.1% of All Consumer Related Global M&.E Spend
+Microsot't coNFIDENTIAL
+
+Mobile and online / social games present fastest growing new gaming opportunities.
+
+GlobalVideo Game Revenue, 2009- 14
+US Dollars Billions
+
+2009
+
+2014
+
+·
+
+·
+
+·
+
+· $ ·
+
+/~
+
+~l
+
+End User Spend
+
+Game Advertising $1.6B
+
+Source: PWCMedia and Entertainment Outlook Report, Accenture analysis.
+
+a ~t· a ~t·
+End User Spend
+
+I ·t
+
+$2.9e
+In Game Advertising
+
+[CAG R 09-14 = 12.9Yo]
+
+Microsot't coN F IDENTIAL
+
+4
+
+APAC is expected to have TM48% of total market in 2014, primarily driven by emerging revenue
+models.
+
+Global gaming Market Revenues by region, 2009-2014
+
+US Dollars Millions
+North America Gaming Market
+($M)
+% of WW Gaming Market
+
+$15.1
+2009 28.8%
+
+$20.7
+2014 23 9%
+
+CAGR 6.596
+
+EMEA Gaming Market
+($M)
+% of WW Gaming Market EMEA Drivers
+
+16.8
+2009 32 0%
+
+$23.0
+2014 26 5%
+
+CAGR 6.496
+
+NA Growth Drivers
+· Online games is the fastest growing segment, CAGR of 7.796, driven by games on social networks and a shift to digital distribution of PC games
+· Wireless games is the 2" fastest growing category, CAGR 7.196, driven by the proliferation of smartphones and tablets
+
+· Online games, driven by casual games and MMOGs, is the fastest growing segment, CAGR 11.996, to $4.9B in 2014 from $2.8B in 2009
+· Wireless game market is growing at a CAGR of 9.596 to be $2.3B in 2014, driven by paid gaming apps on smartphones
+· Console gaming will still be the largest segment growing at a CAGR of 5.496 to reach $13B in 2014
+
+· Console games will rebound and maintain strength growing at a CAGR of 696 driven by innovation in gameplay on consoles
+
+Latin America Gaming Market
+($M)
+
+$1.1 2009
+
+$1.8 2014
+
+CAGR 9.396
+
+APAC Gaming Market
+($M)
+
+$19.4
+
+$41.3
+
+CAGR 16.396
+
+% of WW Gaming Market
+
+21%
+
+20%
+
+Latin America Growth Drivers · New consoles will lead to a rebound in the console game market.
+
+% of WW Gaming Market Asia Pacific Drivers
+
+2009 37.0%
+
+2014 47 O'I
+
+· Launch of 3G networks and expanding coverage will propel wireless mobile game downloads. · Broadband growth will fuel an emerging online game market.
+
+· Online games is the primary growth driver fueled by rising broadband penetration and micro-transactions of downloadable virtual goods
+· Wireless game market is the 2 "d largest growth area driven by smartphone penetration
+
+/~
+
+~l
+
+Source:PWC Media and Entertainment Outlook Report
+
+MiCroSOt't CONFIDENTIAL
+
+Implications of market size to XBLM.
+· Slowdown in console game growth puts pressure on XBLM to derive revenues from other sources, or engage ina fight to capture greater market share of console games
+· In all regions, fastest growth is in online and wireless markets, which present an opportunity for XBLM · APAC, particularly China, show strongest growth in online and wireless games, with the greatest
+opportunity being in virtual goods and micro-transactions
+
+/~
+
+~l
+
+Source:MuItipIe
+
+MiCrOSOt't CONFIDENTIAL
+
+Outline
+( < IE'0)
+
+· Market Size · Market Trends
+Enabling Technology
+Gaming Content Devices Consumer · Marketplace Competition Revenue Models Consumer Experience Pricing and Positioning
+
+MiCrOSOt't CONFIDENTIAL
+
+Framework for Market Trends Analysis
+
+Development
+
+Publishing
+
+Distribution
+
+Physical Digital
+
+Console
+
+Hand-held
+
+PC
+
+·
+
+-
+
+Online
+
+Wireless
+
+·
+
+·
+
+/~
+
+~l
+
+Source:Accenture analysis.
+
+·
+
+·
+
+MiCrOSOt't CONFIDENTIAL
+
+Outline
+( < IE'0)
+
+· Market Size · Market Trends
+Enabling Technology
+Gaming Content Devices Consumer · Marketplace Competition Revenue Models Consumer Experience Pricing and Positioning
+
+MiCrOSOt't CONFIDENTIAL
+
+Technology Trends Framework
+
+·
+
+-
+
+Processor Speeds
+
+NAND Flash
+
+·
+
+·
+
+LCD Display
+
+Camera Sensor
+
+·
+
+·
+
+Broadband
+
+·
+
+·
+
+Wireless
+
+Content Delivery Networks
+
+( < IE'0)
+
+Performance Gameplay
+
+NIICrOSOt't CONFIDENTIAL
+
+Falling technology costs ensure cheaper, more powerful devices capable of playing games in the
+future.
+
+ARM Processor
+Speed (GHzj
+
+CAGR
+
+2.5
+
+33Fo
+
+2.0
+
+0.8
+
+0.8
+
+1.0
+
+LCD Display
+Sq. In. per $100
+
+6.1
+
+6.7
+
+5.3
+
+CAGR
+
+8.1
+
+11Fo
+
+2008
+
+2009
+
+NAND Flash GB per $100
+
+2010
+
+2011
+
+2012
+
+330.0
+
+CAGR 85Fo
+
+194.0
+94.0 52.0 28.0
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+/~
+
+~l
+
+Source: iSuppli, Gartner, DisplaySearch, ARM, Accenture analysis.
+
+2008
+
+2009
+
+Camera Sensor
+Mega pixel per $1
+
+0.15 0.11
+
+2010 0.17
+
+2011 0.23
+
+2012
+
+CAGR
+
+0 29
+
+27%
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+MiCrOSOt't CONFIDENTIAL
+
+Mobile devices are closing the graphics performance gap with consoles, enabling a better gaming experience.
+
+Graphical Performance of Video Game Devices, by Platform Polygons/Second (millions)
+300
+
+Note: Handheld devices, with smaller screens, will require commensurately less graphical performance to reach photo-realistic quality graphics
+
+250 ttemeEbnsoles H a n d held Consoles M o b ile Phones
+200
+
+150
+
+100
+
+First 3-D capable gaming consoles
+
+50
+
+released
+
+Smartphones first offered with g-D gaming graphics
+First g-D capable gaming handhelds released
+
+Reduced differential in graphical performance
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+· Reduced ability for manufacturers to impress and differentiate with graphical capabilities: Between competing platforms Separating home from mobile experience As incentiveto purchase next-generation hardware
+· Increased convergence of experience between home and mobile environments
+· Less reliance on optimized code to produce high quality graphics as graphical capabilities progress through a point of sufficiency to a state of surplus
+
+/~
+
+~l
+
+Source:IGN, Softpedia, iTech News, Tech Radar, Accenture analysis.
+
+Microsot't coNFIDENTIAL
+
+Mobile devices are experimenting with new, differentiated user interfaces.
+
+Innovations in Handheld Gaming Interfaces
+
+Innovation
+Glasses-free 3-dimensional gaming
+
+Product Nintendo 3DS
+March, 2011 $249 LG Optimus 3D
+
+HD gaming &. motionsensing controls
+
+April, 2011 Price TBD Sony "NGP"
+Late 2011 $299-$349
+
+Platform
+N INTE ND O Q Q Q
+'backwards compatible with Nintendo 3DS
+I+ I
+I =IAD Q O I D
+PlayStation.portable
+
+Interface Features
+Display · 240x800 3-D display User Interface · Dual touch screens · Gyroscope/Accelerometer
+Display · 480x800 3-D display User Interface · Touch-Sensitive Gesture UI · Proximity/Accelerometer sensors
+
+Comm.
+Wi-Fi Data
+Cellular Voice/Data Wi-Fi Data
+
+Display · 960x544 display User Interface · Dual analog joysticks · Gyroscopic/accelerator sensors from Sony
+Move
+
+Cellular Data
+Wi-Fi Data
+
+Bringing gaming interface t o a smartphone platform
+
+Sony Ericsson Experia Play
+(wPlaystationPhone" ) March, 2011 -$400
+
+I+ I
+I =IAD Q O I D
+aoverlays PSP navigation paradigms on topofAndroid OS; plays PSPspecific Android games
+
+Display · 854x480 display User Interface · Dual analog joysticks · Gyroscopic/accelerator sensors from Sony
+Move
+
+I
+Cellular Voice/Data
+Wi-Fi Data
+
+/~
+
+~l
+
+Source: Tested, Wikipedia, Gadgetian, GSM Arena, Engadget, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+Growth in broadband consumers subscriptions creates a greater installed based for cloud based digital services.
+Consumer Broadband Connections Worldwide, 2009 -- 14
+Millions of Subscriptions
+
+700
+
+647 Total
+
+610
+
+Middle East & Africa
+
+571
+
+600 528
+
+Eastern Europe
+
+45
+
+51 Lat i nAmerica
+
+500 435
+0CL
+13
+
+Vl
+
+400
+
+48
+
+32
+
+45
+
+107 102 96
+
+North America
+
+90
+0
+85 300
+
+] 23 Western Europe 121 118 116
+
+112
+
+106
+
+200
+
+100
+
+204
+
+228
+
+250
+
+269
+
+Asia Pacific & Japan
+
+CAGR 12.1Yo 16.5Yo 10.7Yo
+2.9
+10.3Yo
+
+2009
+
+2010
+
+/~
+
+~l
+
+Source:Gartner, Accenture analysis.
+
+2011
+
+2012
+
+2013
+
+2014
+
+MiCrOSOt't CONFIDENTIAL
+
+Mobile internet use continues to grow, led by brisk adoption of iPhones and Android devices.
+
+Worldwide Mobile Data Subscribers, 2009 -- 14
+Millions of Subscriptions
+
+2000
+
+1500
+
+1000
+
+878
+
+636
+
+500
+
+1,112
+
+1,315
+
+1,522
+
+1,855
+
+CAGR 23.9%
+
+2009
+
+2010
+
+Mobile Web Usage Growth over 24 Months in US
+Millions of Ads Requested
+
+4,000
+
+v) = 3,500
+C0 =2,500
+
+Igl
+
+2,000
+
+1,500
+
+AJ
+
+1,000
+
+500
+
+0 Apr-08
+
+Jul-08
+
+Oct-08
+
+Jan-09
+
+/~
+
+~l
+
+Source:iDate, IDC, Admob, Accenture analysis.
+
+2011
+Apr-09
+
+2012
+
+2013
+
+Jul-09
+
+Oct-09
+
+Jan-10
+
+2014
+RIM Othersincl. Polm & Windows
+MiCroSOt't CONFIDENTIAL
+
+Falling content delivery prices make digital and cloud-based delivery models increasingly viable.
+
+Content Delivery Pricing, 2008 -- 10
+US Dollars per Gigabyte
+$0.85
+
+So.6s
+
+50
+
+$0.52
+
+So.4s
+
+So.4s
+
+So.4o
+
+Improvement in Content Delivery Networks (CDNs)
+· Expansion of distributed networks with more servers at the network edge to speed up delivery of content, which is critical to stream games
+· Reduced latency with newer Content Delivery technology improves game play
+· More CDNs offer managed hosting services, which allows for optimization of content to be delivered to the end user
+
+So s
+
+Q1-08
+
+/~
+
+~l
+
+.30
+$0.15 Q4-08
+
+$0.20
+$0.10 Q1-09
+
+$0.28
+$O.12 $0.08 Q4-09
+
+$0.25
+$0.10
+So.o6
+Q1-10
+
+Source: Business of Online Video, Akamai, Accenture analysis.
+
+$0.30 S. 5
+
+50TB 100TB
+
+Q4-10
+
+250TB 500TB
+
+· Some CDN providers offer a dedicated optical network that interconnects thousands of servers around the world with more than 900 last-mile access networks which improves quality of service
+Microsot't coN F IDENTIAL
+
+Fasterbroadband speeds,improved technology and cheap CDN costsareenabling cloud based game services.
+
+O BL IV B
+
+Value Proposition · Cloud based streaming games without a
+console · Service with traditional game features
+such aslarge gaming community, leaderboards and brag clips, and free trials on the majority of games
+
+- GAIK A I
+
+Value Proposition rovides publishers and retailers with apabilities to easily run demos and ames on theirweb site Ilows publishers to also manage dvertising campaigns
+
+Target Customer
+·Garners,w ith afocuson hard coregarners
+Pricing Model · OnLive gaming system: $99 (+ free game) · Monthly subscriptionfee:$9.99 · 3-day rental fee: $2.99-$5.99 · 5-day rental fee: $6.99-$8.99 · FullPlay Pass(to ow n)fee:$9.99-39.99 · Eliminated mandatory no subscriptions
+Additional Information · Partnered with Vizio to stream games on new HDTVs · Introducing capability to watch movies
+
+/~
+
+~l
+
+Source: Company Websites, The Escapist, OnLive Informer, ZDNet, Accenture analysis.
+
+Target Customer · Publishers with game demo ad networks, retailers Pricing Model · Publishers pay Gaikai $0.01 for every minute that a user spends playing game
+demos on thepublishers'website · Publishersmake 100% of game sales
+Additional Information · Major Publishers -- EA and Activision · Working on 60 deals with publishers, retailers, media sites, electronic makers, and
+telecom makers
+MiCrOSOt't CONFIDENTIAL
+
+On the whole, technology trends point expanding options for delivery of high quality games.
+
+Graphics on Platforms, Feb 2011
+Traditional Platforms
+Console and PC Games
+
+Mobile Games
+
+New Platforms
+Streaming Games
+
+XP . B
+
+BBmark HP
+mmew I + 1
+
+Silent Hunter on PC
+
+Silent Hunter on iPhone
+
+laZa l
+
+~ a ~ @%~ ~ I
+
+©
+
+,1
+
+.
+
+.
+
+Silent Hunter on onlive.corn
+
+NBA 2K11 on Xbox 360
+
+NBA Elite11 on iPhone
+
+/~
+
+~l
+
+Source:OnLive, Gamerlnvestments, GamesRadar, Kotaku, Upcomingdiscs, Accenture analysis.
+
+NBA 2K11 on onlive.corn
+MiCroSOt't CONFIDENTIAL
+
+Outline
+( < IE'0)
+
+· Market Size · Market Trends
+Enabling Technology
+Gaming Content Devices Consumer · Marketplace Competition Revenue Models Consumer Experience Pricing and Positioning
+
+MiCrOSOt't CONFIDENTIAL
+
+Cost, complexity and risks associated with AAA game development are increasing for online and console games.
+
+Average Development Cost* of Major Console Games by Console Generation
+US Dollars Millions
+
+$0.5
+
+NES (1985)
+
+Playstatio n (1995)
+
+Xbox PS2 (2001)
+
+Time * Does notinclude marketing and distribution costs
+
+Xbox 360 PS3
+(2010)
+
+Costs and Complexity of MMORPG Games
+· From concept to launch, intricate MMORPG games frequently take a team of 100 game developers more than 3 years and a total of more than $30-$50 million in development cost
+· World of Warcraft is estimated to have cost $100M · According to Activision Blizzard, World of Warcraft operates 20,000
+servers in 10 data centers around the world and maintains 1.3 petabytes of storage resulting in costs of over $300M, estimated in 2009
+
+/~
+
+~l
+
+Source:M 2Research,IGN,W edbush Morgan, ParksAssociates,Accenture analysis.
+
+Microsoft coN F IDENTIAL
+
+20
+
+Console gaming continues to be 'hit-based' driven by lower-risk game sequels.
+Total Number of Low-Risk (LR) Sequels vs. Total Number of Higher-Risk (HR) Original IP
+
+20 Titles*
+
+65 M""
+
+20 Titles*
+
+20 Titles*
+
+·
+
+I
+
+LEGEND · Higher-Risk
+Origin al IP
+a Low-Risk Sequels
+* Number of Top Selling 20 Title ** Number of Units Sold
+
+XBox
+
+Playstatlonl'I
+
+~ j j Nlntendol'I
+
+Key Points
+· Publishers heavily rely on pre-established brands, in the form of sequels and licensed intellectual properties, to maximize the predictability of their investments in development and marketing · Benefitsinclude: higher likelihood of market acceptance, iteration breeds perfection, re-usable assets · Drawbacksinclude:few new brands and IP are developed, buyers feel comfortable skipping a title that may not have significant new content (especially sports titles)
+
+/~
+
+~l
+
+Source:CNET, vgchartz.corn,AccentureA nalysis
+
+Number of Top Selling 20 Titles ** Number of Units Sold
+
+[1] Includes use of re-use materials [2] Includes use of re-use materials and licensed properties
+racks;I'680tt CONFIDENTIAL
+
+Driven by lower risk and increased speed to market, more developers are focusing on casual and social games.
+
+Lower Cost and Time of Development US Dollars (millions) / Weeks
+
+$10,000,000
+
+Average Development Costs ($) $20,000,000
+
+$30,000,000
+
+Console Games (PS3/Xbox 360)
+Casua I/Socia I Online Games
+
+Cost Range: $30,000 - $ $300,000 Avg. Dev. Time: 6 months
+
+Cost Range: $11m $28m Avg. Dev.Time: 36 months
+
+Mobile Games
+
+Cost Range: $5,000 - $100,000 Avg. Dev. Time: 4 months
+
+10
+
+20
+
+30
+
+40
+
+Development Time (months)
+
+Drivers of Lower Development Costs on Social and Mobile Platforms · Smaller scope of games -- limited gameplay requirements and expectation for games on social and mobile platforms · Reduced graphical complexity -- screen size and type of engagement do not warrant excessive investment in graphics (e.g. 2D games suffice on mobile,
+while consoles push for 3D content) · Lower pricing -- developers limit time and capital spent because of lower price point of games
+
+/~
+
+~l
+
+Source:Pocket Gamer, Develop Online, VG Sales, Techie Buzz, Gamasutra, Accenture analysis.
+
+MiCroSOt't CONFIDENTIAL
+
+22
+
+Traditional game publishers have been lured to mobile and online platforms in pursuit of larger audiences.
+
+Presence and Pricing of Top Game Publishers on iTunes App Store, 2009
+
+Number of Non-Demo Game Titles by Publisher
+
+Price of Most Popular and Highest-Price Titles
+
+Nintendo
+ElectornicArts
+Activision Blizzard Ubisoft Take-2
+Sony Computer Entertainment Bethesda Softworks THQ Square Enix Microsoft Konami Sega Capcom MTV Games Namco Bandai
+Warner Bros. Interactive Disney Interactive Atari Atlus LucasArts
+Key Points
+
+IIIIumber o$GamelPitles
+
+Nintendo Electronic Arts Act ivision Blizzard
+Ubisoft Take-2 Sony Computer Entertainment Bethesda SofNvorks
+THQ Square Enix
+Microsolt Konami Sega
+Capcorn
+MTV Games Namco Bandai Warner Bros. Interactive Disney Interactive
+Atari Atlus LucasArts
+
+$2
+
+$4
+
+$6
+
+$8
+
+$10
+
+Price of Titles
+
+· Allofthe top Video Game publishers outside of M icrosoft,Sony,and Nintendo, as w ellas Bethesda Softworks, have developed significant number of games applications forthe most popular mobile platforms
+
+· Most of these publishers employ the "Paid Applications at a Low Price" model, although several titles (with Capcom as apparent leader) focused on an "Advertising" model
+
+· These largepublishers didnot leverage the "InG ame Purchases" model toa significant extent, in contrastto m obile-focused developers such as Zynga
+
+/~
+
+~l
+
+Source:Game Developer Magazine, The Hopkinson Report, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+23
+
+Development across platforms is crowding distribution of games.
+
+Number of titles available for download and opening date of platform online channel, by Platform
+
+Gaming Consoles Online Stores'
+
+Store
+
+¹ titles
+
+Launch Date
+
+1,922
+
+Nov. 2005
+
+241
+
+Nov. 2006
+
+Top Mobile Application Stores
+
+S tore
+
+¹ title s
+
+Launch date
+
+300,000+
+
+Jul. 2008
+
+I+ I
+
+100,000+
+
+Oct. 2008
+
+Kil
+
+Top Social Platforms
+
+¹ titles
+
+Launch date
+
+550,000+'
+
+May 2007
+
+Wii.
+
+90
+
+Nov. 2006
+
+15,000+
+
+Apr. 2009
+
+Impact
+
+Facto r s Impacting Developer Choice of Platform
+· Platform maturity, APls8 dev. support · Marketing infrastructure8 support · Monetization options8 business models
+
+· Cost of development · 1st-party competition; poor 3rd-party sales
+· Need for scale · Closed platform
+Notes: 1. Only original downloadable content has been included
+· Xbox Live Marketplace includes Xbox Live Arcade (344)and Xbox Live Indie (1648) titles · Playstation Store includes only download-only PSN games · Wii Shop includes only Wii Ware (90) games; excludes Virtual Console (288) games
+
+5,000+
+
+Oct. 2010
+
+· Market penetration/size · Ease of development, portability of code · Plafform maturity, APls8 dev. support · Monetization options8 business models · Marketing infrastructure8 support
+· Plafform "too open" or "too closed" · Fragmentation of platforms
+
+· Market penetration/size · Platform maturity, APls8 dev. support · Monetization options8 business models
+· Poorly moderated sales channel
+
+2. Facebook applications have been largely un-moderated, resulting in a platform experience described by industry experts as "significantly degraded" · Many mobile platform developers are non-exclusive, cross-platform ·Application totals for mobile and social platforms include non-gaming titles
+
+/~
+
+~l
+
+Source:InformationWeek, Datamation, Mobile DevHQ, Wikipedia, Xbox Live Marketplace, Accenture analysis.
+
+Microsoft coNFIDENTIAL
+
+Game developers are leading the way in app stores.
+
+Top 25 iPhone Develo ers
+THE PLA'Yt'CAGE
+ngm&CCI )
+Tcxpulou s
+Brooklyn Pocket TKAjIviI.A.V'A
+8 M88RK a -
+N · aa M K6666466
+CX i Bayview Labs
+iCIANN~
+The Godfather
+<SIP
+elf lith + xynga
+~ 6 i id e %
+RECHRAGE 8I8 · I188
+J IRS O ' c
+
+App
+Cate or Game Game Game Game Social Game Game Game Game Game Game Game Social Game Game
+Productivity Game Game Game Productivity
+Game Game Game Game Game
+
+Number of PublishedApps, Dec 2010
+· e
+57
+
+51
+
+· 9
+
+~
+
+26
+
+~
+
+25
+
+· 9
+
+· 7
+W ig
+
+· 9
+~ i8
+· i2
+I5
+· io Q 15
+· 8
+138
+· e I5 · e
+W i8
+
+117
+
+Published In-App Purchase A s 611 1 20 3825713
+93510
+23561
+4
+
+/~
+
+~l
+
+Source: Company websites, Xyologic, Accenture analysis.
+
+In-App Purchase Downloads
+8.4M
+6.2M
+3.9M
+3.4M 3.3M
+2.6M 2.6M 2.3M 23M
+
+Total Downloads 10.3M 7.1M
+3.4M 3.7M 2.6M 4.1M 2.6M 2.3M
+
+1.4M 1.1M
+1M E ]
+
+1.4M 1.7M Microsot't coNFIDENTIAL
+
+Gaming features are being adopted across platforms and services.
+
+Scott Forstall, SVP iPhone Software -- iPhone 4th Gen Event Apr 2010
+"Gaming is extremely popular on the iPhone and iPod Touch. In fact, we have over 50,000 games and entertainment apps in the App Store. "
+
+Game Center · Invite friends
+to join games and challenge one another.
+
+n a y ea
+
+Game Center Login
+
+· "Matchmaking" players with similar ability for multi-player games without sufficient players.
+
+· Leader Boardscomparing both global and friends' performance.
+
+· Rumored in-app voice chat while engaging in game activity (based on API).
+· Synchronization of user data (e.g. points, leader boards) with multiple iPxx devices.
+
+/~ I I
+
+Source:Apple, Apple Insider, Engadget, Macworld, MacRumors, Gizmodo, Gearlive, Into Mobile, Accenture analysis.
+
+Microsoft coN F IDENTIAL
+
+26
+
+Social gaming companies are looking to move up-market.
+Mark Skaggs, VP of Product Development, Zynga, 2010
+
+network and maybe then we' ll gointhere withmore hardcore games."
+
+Social Networking Platform
++ zynga
+· Socialgam ingcompany thatdevelopsfree puzzle,card, role-playing, and virtual world games:
+
+Shift to Different Platforms · Zynga has five games in the iPhone app store and is hiring for game designers with experience
+creating Android and iPhone games.
+"Zynga Mobileis lookingfor an experienced game designer to create socialgames for the iPhone, Android and more. Qualified candidates will have experience on mobile, handheld, console and/or PC games(... j"
+
+· Games were originally developed for social networking platforms:
+~~ EXA C3'f.
+
+· Various game job postings also indicate Zynga's interest in expanding into PC and console platforms.
+"Qualified candidates will have experience on console and/or PC games and are fluent in game design practices and overall game development."
+"In addition to bringing social games like Zynga's Farmville to the Windows Phone, Microsoft is sparing no expense in helping develop traditional 2D and 3D games for the platform that would mimic the XBox Live experience on a console (...J"
+-Matt Thompson, GeneralManager, Developer & Platform Evangelism, Microsoft, 2010
+
+/~
+
+~l
+
+Source:Zynga, VentureBeat, GoNintendo, Accenture analysis.
+
+Microsoft coNFIDENTIAL
+
+27
+
+Digital gaming distribution is becoming crowded.
+
+Cloud-hosted Gaming (Streaming)
+
+On Live
+Play games online via broadband on TV, PC, and Mac.
+
+G a lka I
+I OffersPC and console video games and I demos online. I
+
+I
+
+THE NEXT C ENERATIC3N I
+&AME ADVERTISI
+
+ANY SITE. ANY IEVIC S. - ~
+
+& N SC :L I C'K VOPLAY I
+
+I
+
+Wireless Games
+Num of Game Apps-Jan 2011
+27,473
+® 1,863
+47,704
+©
+
+I Download Methods
+
+I
+I Cb
+
+Ildd .d d o P d I
+
+I
+
+I
+
+I
+
+4.T
+
+d td
+
+d d d d dl d . .
+
+I
+
+I I Download directly from app
+store onto mobile device.
+I
+
+®a
+REEI
+Download apps to laptop/PC and upload to mobile device.
+
+/~
+
+~l
+
+Source:Facebook, Pogo, M yspace,Playfish,Yahoo, M yspace,Shockwave, Accenture analysis.
+
+hardParty Platforms
+
+Sites for Online Gaming
+
+Many sitesofferfreegames and applications.
+
+~~zxncA.
+
+·
+
+·
+
+·
+
+· 50,000+ apps
+
+· 1364 games
+
+0
+
+P'®gN
+
+Q
+
+· 500+ games
+
+· 189 games
+
+© playfish
+· 15 games
+SiaCtliiSi aaaeZ
+E H O C K W R V E --G R R E E N E T
+· 848 games
+
+Retail
+Digital Retail Expansion Many companies are extending their physical retail services to online.
+
+Companies
+amazon.corn.
+~m~
+GameStoy
+WAL+ MART
+
+Physical
+v
+
+Digital
+v
+
+Microsot't coNFIDENTIAL
+
+28
+
+Wide distribution, a multitude of publishers and multiple "look-alike" games are pushing pricing
+IowA.
+
+e i
+
+ti t ·
+
+i
+
+·
+
+i· ··
+
+I
+
+·
+
+ss · I I '
+
+Sharply lower price levels characterize the mobile gaming pricing environment for casual games
+Example of Bejeweled 2 Across Platforms
+
+$>0
+
+$>0
+
+$1
+
+PC
+
+Console
+
+Mobile
+
+"Race tothe Bottom" Mechanism · Low Barriers to Entry -- negligible costs to self-develop games · "Pricing as Marketing" -- games offered for free, or below cost, to get on top-download lists
+· Low Willingness-to-Pay by Casual Garners -- for a similar gaming experience, mobile platforms have lower pricing to capture larger casual segment
+
+Effects of "Race to the Bottom" · Commoditization of Games · Proliferation of Substitutes · Eroded Pricing Power
+
+Examples:
+
+Direct Competitors
+
+Close Substitutes
+
+Othello Pro ~ ~ @
+
+Trism
+
+@ $2.99
+
+16 similar games Price range: Free - $1.99
+
+1000s of puzzle games Price range: Free and up
+
+/~
+
+~l
+
+Source:App Cubby, Steam, Xbox Live Marketplace, iTunes App Store, Accenture analysis.
+
+Microsoft coNFIDENTIAL
+
+29
+
+Emerging gaming platforms are leading the way introducing alternative revenue models.
+
+Micro-transactions
+
+"Free mium"
+
+© ~
+
+ownloadableContent forConsoles and PC Downloadable content (e.g. Avatars, weapons etc.) is available via
+sn' cnline retail
+Mobile Content · Mobile app stores offer downloadable content in the form of apps,
+with the most common price of $0.99 25% of theTop 20 iPhone Apps use a paid download revenue model, typically in the form of micro-transactions
+
+Trial and Upgrade ' reemium models now represents a third of top iPhone apps
+,
+eading app developer Rovio uses this model; former premium-only ; levelopers,such as PopCap, are adopting ittoo
+~m m e Games with Virtual Goods · Onlinegames and games on socialnetw orksofferfree gam es supported by micro-transactions on virtual goods used to enhance the xperience
+
+d based
+
+I ~~ (
+
+In Game Advertising / Ad Funded Games
+· In 2010, companies spent $87 million on ads in mobile games, and are · ' xpected to spend TM$894 million in 2015 driven by sophisticated
+obile ad-serving platforms
+Adverga ming · $375M market in 2010 and forecast to grow to TM$600M in 2014, CAGR
+13%
+obile advergaming is driving growth with brands like P&G that contractto develop games likeLuvs Poopdeck and Yuck Mouth
+
+Other
+XBOX
+LIV E
+
+Subscriptions
+· Continuestobe a dom inantmodel forcore garners on consoleand PC platforms
+""X-""So far, few mobile and social games employ a paid subscription revenue model
+Expansion Content
+mployedforgames on consoles and PCs ue to lower price points, expansions come in the form of sequels for mobile games
+
+/ ~
+
+~
+
+Source:148Apps.corn, PWC, Juniper Research, Startup Mktg blog, Peter Christensen blog, Mobile Open, TriplePoint, Pocket Gamer, iTunes, Accenture
+
+analysis.
+
+MiCroSOt't CONFIDENTIAL
+
+30
+
+Outline
+( < IE'0)
+
+· Market Size · Market Trends
+Enabling Technology
+Gaming Content Devices Consumer · Marketplace Competition Revenue Models Consumer Experience Pricing and Positioning
+
+MiCrOSOt't CONFIDENTIAL
+
+Over next three years, mobile and handhelds will lead the growth in gaming devices.
+Global annual gaming device shipments, 2006-2014
+Unit Shipments in Millions
+Online consoles
+
+CAGR (%) '06-'10 '10-'14 '06-'14 -25.2% -2.42% 14.2%
+
+Cell phones, PMPs and Media tablets
+
+26.8%
+
+1 8.5% 27.3%
+
+Installed Base (millions)
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Online consoles
+
+18
+
+67
+
+137
+
+207
+
+274
+
+341
+
+400
+
+Cell phones,
+
+connected PMPs
+
+237
+
+327
+
+and media tablets
+
+525
+
+613
+
+696
+
+734
+
+Handheld Devices
+
+132
+
+169
+
+201
+
+216
+
+216
+
+224
+
+Handheld Devices
+
+4.9%
+
+10 9%
+
+2.8%
+
+2013
+
+2014
+
+· Powerful connected CE devices are all capable of
+
+playing games, which creates an enormous installed
+
+785
+
+838
+
+base of HW capable of playing games
+
+· New connected CE devicesopen up the market to a
+
+281
+
+314
+
+broader set of games beyond those traditionally played
+
+on consoles
+
+/~
+
+~l
+
+Source: IDC: WW Dedicated mobile game HW, WW Connected console, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+32
+
+While console growth has slowed, game play innovation is engaging a wider audience base.
+
+Innovations in Gameplay Driving Console Adoption
+
+Product
+
+Controller
+
+Gameplay
+
+Description
+
+Units Sold
+
+Impact on Console Sales
+
+P layS t a t i o n ~ M o v a
+
+ll i
+
+· Motion-sensing game controller platform
+
+· 2.5 M. units in 1st month after launch
+
+· PS3 sales were down in Japan postlaunch of Move*
+
+-4'
+
+· Motion-control video
+
+· 20 M. units in 1st
+
+' 73% increase in annual sales
+
+a
+
+game console
+
+year after launch
+
+post launch of Wii
+
+KINECT
+fOr + Xf3OX360
+
+pi
+
+· Controller-free gaming · 8 M. units in the
+
+' 42% YOY increase of Xbox
+
+and entertainment
+
+1st 60 days after
+
+360 sales in month after
+
+experience
+
+launch
+
+Kinect launch
+
+~Sony hasn'treleased officialnumbers ofsalesofthePlayStation Move, indicatingthatithasn'tperformed aswellasexpected.
+
+I I
+
+Source:USA Today, Engadget,Boy Genius Report,Fool.corn,N4G,Accenture analysis.
+
+Microsot't coNFIDENTIAL
+
+33
+
+Outline
+( < IE'0)
+
+· Market Size · Market Trends
+Enabling Technology
+Gaming Content Devices Consumer · Marketplace Competition Revenue Models Consumer Experience Pricing and Positioning
+
+MiCrOSOt't CONFIDENTIAL
+
+The average US consumer Internet time is six-times that of console and mobile gaming.
+
+Average Daily Screen Time, US
+Hours per year
+
+Hours per Year
+
+2,149
+
+S71
+
+% ShareofScreen Media
+
+67%
+
+27%
+
+20
+
+·
+
+·
+
+m~
+ZI
+
+16
+
+g ·
+0 Z
+
+1 25 4 9 4% 2%
+, GPG , Cinema
+, Env.
+
+0
+
+/~
+
+~l
+
+Source:Ball State University, 2009 Video Consumer Mopping Study,Accenture analysis.
+
+Computer
+
+Other Mobile
+
+Opportunities for gaming
+
+MiCrOSOt't CONFIDENTIAL
+
+35
+
+Increasingly, consumer Internet time is devoted to social networks and social games.
+
+US and International Facebook Users
+Millions, 2006- 2010
+
+·
+
+·
+
+·
+
+39II
+
+611
+
+C
+
+580
+
+300
+
+550
+
+Users: ROW Users: US - Avg minutes per visitor (US)
+
+~ w mmmm '1a
+
+OroyO
+ggOp>srsoO '
+
+470
+/
+410
+
+& ey
+
+es ~ ~ w m &
+
+320
+
+· I
+231
+
+150
+
+115
+
+90
+
+00
+
+56
+
+68
+
+I
+
+50
+
+38
+
+9
+
+11
+
+13
+
+15
+
+0 2006
+
+Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+2007
+
+2008
+
+2009
+
+2010
+
+· Average minutes per user for Jan 2011 reported as 350, indicating a sustained increase.
+
+/~
+
+~l
+
+Source:Facebook, Socialbakers,comscore,Ac centure analysis.
+
+Microsoft coNFIDENTIAL
+
+36
+
+The availability and popularity of games on app stores is driving consumer wireless game adoption.
+
+I+ I
+45
+
+Number of Game Apps
+Jan 2011
+27,473
+1,863
+
+47,704
+
+Free Game Apps, Jan 2011
+
+Percent of Top 50 Free Apps
+
+I+ I
+
+38%
+
+20%
+
+US Garners on wireless devices, 2005-09
+Percent of US garners
+
+45%
+
+42%
+
+66% 40%
+46%
+
+37o/ 36%
+
+Paid Game Apps, Jan 2011
+
+Percent of Top 50 Paid Apps
+
+I+ I
+
+38%
+
+38%
+
+35%
+
+32%
+
+30%
+
+34%
+
+60%
+
+88%
+
+25%
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+/~
+
+~l
+
+Source:148Apps.corn, App World, Microsoft, Entertainment Software Association, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+37
+
+Gamer age demographics remain stable while females are gaming more.
+Gamer Age demographic,2006-09
+
+24.2%
+
+26.0%
+
+25.0%
+
+47.6%
+
+49.0%
+
+49.0%
+
+28.2% 2006
+
+25.0%
+
+25.0%
+
+2007
+
+2008
+
+· %garnersunder18yrs · %garners between 18-49yrs · %garnersover50yrs
+
+26.0% 49.0% 25.0% 2009
+
+Male to female gamer ratio, 2006-09
+
+1.65 1.60 1.55 1.50 1.45 1.40
+
+/~
+
+~l
+
+2006
+
+2007
+
+2008
+
+Source: Entertainment Software Association (ESA)
+
+2009
+
+Average age of game purchaser, 2006-09
+
+50 38
+
+40
+
+40
+
+30
+
+20
+
+10
+
+39
+
+40
+
+2006
+
+2007
+
+2008
+
+2009
+
+Microsot't coNFIDENTIAL
+
+38
+
+Core garners are characterized by affinity for small number of hit titles, high engagement and low
+
+price sensitivity.
+
+Core Gamer
+
+·
+
+·
+
+.
+
+·
+
+· Predominantly male between ages 18 and 40
+
+2007 Core Gamer
+«1 Purchasing Factor Superior Graphics and/or Superior sound
+
+· At home -- usually on a video console
+
+Average Age of Gamer 35 years
+
+· 46 hrs/week. · Infrequent play, longer dedicated sessions
+
+Average Age of Purchaser 39 years
+
+· Action / Adventure
+
+· High
+· Online and offline social network · Community network with common passion
+· Game purchase, Subscription-based MMORPG
+· Willing to pay premium for new releases. Also, does trade-ins and pre-orders.
+
+2010 Core Gamer
+«1 Purchasing Factor "This console plays the game titles I really like (it has the
+bestgame catalog)"
+Average Age of Gamer 34 years
+Average Age of Purchaser 40 years
+
+/~
+
+~l
+
+Source:Forrester, Gartner, Parks Associates, PWC, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+39
+
+Casual garners are characterized by desire for convenience, lower engagement and higher price
+
+sensitivity.
+
+Casual Gamer
+
+·
+
+-
+
+·
+
+·
+
+.
+
+·
+
+· Varied demographic
+
+2007 Casual Gamer
+Preferred Method of Play Online on PC
+
+· Whenever convenient -- usually on PC, phone, or tablet
+
+Type of Play Individual
+
+· 4 - 26 hrs/week. · Frequent play, short sessions
+
+Affinity to Online Game Brands Low
+
+· Puzzles, Card and Board games
+
+· Low
+
+· Highly active online social network
+
+/~
+
+~l
+
+s
+
+·
+
+· Free-to-play, Micro transactions, pay to download
+· Unwilling to pay premium · Multiple purchases at low, or no price
+
+Source: Forrester, Gartner, Parks Associates, PWC, Accenture analysis.
+
+2010 Casual Gamer
+Preferred Method of Play On Social Networks
+Type of Play More social
+Affinity to Online Game Brands Medium to High
+
+Microsot't coN F IDENTIAL
+
+40
+
+Online subscription volume and pricing trends are down while virtual goods volume and spending is gaining.
+
+Respondentsthat pay a subscription fee to play in a virtual world, 2008-10 Percent of Respondents
+
+Respondents thatpurchase in-game virtualitems, 2008-10 Percent of Respondents
+
+15%
+9% 4%
+
+15% Q
+5%
+
+9%
+
+R
+
+2008
+
+2010
+
+Respondents that subscribe to massively multi-player online role play games, 2008-10 Percent of Respondents
+
+>$2 6 $5-$25 $i - $5
+
+14% 3% 8%
+
+19% 8% 10%
+
+2008
+
+2010
+
+Respondents thatsubscribe (pay monthly fee)to premium online game services, 2008-10 Percent of Respondents
+
+· Increase in virtual goods transactions · Mobile and social game adoption
+shifting consumers towards lower priced virtual goods
+
+25% 5% 16% 4%
+
+22% 9% 10%
+
+Q >$2 6 $5-$25
+R $i - $5
+
+2008
+
+2010
+
+/~
+
+~I
+
+Source:ParksAssociates,Accenture analysis.
+
+35% 6% 18%
+11% 2008
+
+28% 11% 15% 2010
+
+· Decline in overall percent of respondents paying for subscriptions
+· Shift towards lower priced paid subscriptions
+Microsot't coNFIDENTIAL
+
+Consumers are embracing gamification, which is when real world activities become a form of game.
+Games in non-traditional gaming spaces
+
+Enablers
+· Constant Connectivity Increase in smartphones, tablets and other portable connected devices.
+· Social Network High adoption of social networking sites
+· Social Gaming Increased social gaming on online social networks
+· Gaming dynamics Raising old school gamification to anew levelthrough
+connectivity
+
+Gamification in Action
+
+IIII scvngr
+
+Scoring Mechanics
+
+Points, badges, mayor, prizes
+
+Game Play
+
+Explore different venues
+
+Community Interaction
+
+Share with network/ friends
+
+Points, badges, real world awards
+
+Kickbucks for shopping
+
+Go places, take on a challenge
+
+Explore different venues
+
+Share with network/ friends
+
+Share with network/ friends
+
+Number of votes after each show
+Voting for contestant
+Facebook, Twitt e r, online community
+
+Success Factors
+· Immediate and positive feedback cycles
+· Clear goals and rules of play · Compelling narrative · Tasksthat are challenging but
+achievable · Glorified status and Social
+recognition
+
+Current User base 6 M
+
+0.6 M
+
+0.75 M
+
+40 M
+
+/~
+
+~l
+
+Source:Gartner, foursquare, Scvngr, Shopkick, Bostinnovation.corn, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+42
+
+Implications of trends to XBLM.
+· Cheaper, more powerful technology on non-console devices provide more gaming options for
+consumers, which reduces the use of XBLM as an entry point to gaming
+· Developer and publisher focus ensures breadth of games available on new platforms providing
+consumers with greater game options outside XBLM
+· Growth of the non-core gamer segment on XBLM shifts average gaming preference from AAA type games to other type of games
+· Downward pressure on pricing for games on emerging platforms threatens the value of undifferentiatedgames on XBLM as consumers associate certain game types with lower prices
+· Increased price sensitivity for subscriptions, and shift of gaming spend to virtual goods challenges XBLMs current subscription model pricing
+
+/~
+
+~l
+
+Source: MuItipIe
+
+MiCrOSOt't CONFIDENTIAL
+
+Outline
+( < IE'0)
+
+· Market Size · Market Trends
+Enabling Technology
+Gaming Content Devices Consumer · Marketplace Competition Revenue Models Consumer Experience Pricing and Positioning
+
+MiCrOSOt't CONFIDENTIAL
+
+Key Marketplace Competitor Landscape
+Marketplace Competitors by Gaming Focus Area
+
+·
+
+·
+
+· Gaikai · On Live
+
+· Android Market · iTunes Store
+
+· Facebook · Zynga
+
+Digital/Physical · Amazon · Best Buy · GameStop Physical Only · Wal-Mart Digital Only · Game Tap · Steam
+
+· The companies lsited above were the only ones assessed forthe competitive analysis · The intentofthe competitive analysisw asn'tto be comprehensive but provide a directionalsense ofthe landscape
+
+· Nintendo Wi-Fi Connection
+· Nintendo Wii Shop Channel
+· PlayStation Store · Xbox Live
+Marketplace
+
+·
+
+·
+
+· Blizzard · EA Store
+
+( < IE'0)
+
+MiCrOSOt't CONFIDENTIAL
+
+45
+
+Outline
+( < IE'0)
+
+· Market Size · Market Trends
+Enabling Technology
+Gaming Content Devices Consumer · Marketplace Competition Revenue Models Consumer Experience Pricing and Positioning
+
+MiCrOSOt't CONFIDENTIAL
+
+Marketplace competitors are making a stake in the digital space.
+Revenue Models Employed in Marketplaces
+
+Streaming Vendors Mobile Social
+Retailers
+Gaming Console Manufacturers Major Publishers
+
+Companies
+Gaikai OnLive Android Market iTunes Store Facebook Zynga Amazon Best Buy GameStop Game Tap Steam Wal-Mart Nintendo Wi-Fi Connection
+Nintendo Wii Shop Channel PlayStation Store Xbox Live Marketplace Blizzard EA Store
+
+A la carte
+
+Subscription
+
+Website ad
+revenue*
+
+In~arne
+ad revenue
+
+A la carte
+
+Subscription
+
+Website ad revenue'
+
+In~arne
+ad revenue
+
+* Revenue generated from 3' party advertisements on website Source:Company Websites, Bing, Accenture analysis.
+
+** Revenue generated from in-game 3"' party advertisements
+
+MiCrOSOft CONFIDENTIAL
+
+47
+
+Outline
+( < IE'0)
+
+· Market Size · Market Trends
+-- Ena bling Technology
+-- Gaming Content -- Devices -- Consumer · Marketplace Competition -- Revenue Models -- Consumer Experience -- Pricing and Positioning
+
+MiCrOSOt't CONFIDENTIAL
+
+48
+
+To compare online consumer experiences we evaluated sites on a set of categories, comprised of key features as inputs.
+Consumer Experience Inputs
+
+·
+
+.
+
+·
+
+Consumer Experien Categories
+
+Community/Social (Score)
+Community/Social Website Features
+Community Forum/Blog
+
+Product Information (Score)
+Product Information Website Features
+Formal Ratings & Reviews
+
+Sharing (via social networking vehicles) User Ratings & Reviews
+
+Photos
+Promo Videos Quick Links (to other networks) Related Products
+
+Support/FAQs
+
+< I~m
+
+* Short-duration Deal (i.e. Deal of the Day, Weekend Special, etc.) Source:Company Websites, Accenture analysis.
+
+Promotional (Score)
+Promotional Website Features
+Deals*
+Featured Products
+Free Demo/Trial(s)
+Release Calendar
+Top Charts
+
+Has
+Trade-In Program
+For this analysis, website features w ere subjectivelayssessed for the following companies:
+· Amazon · Android Market · Best Buy · Blizzard · EA Store · Face book · Gaikai · GameStop · Game Tap · iTunes Store · Nintendo Wi-Fi Connection · Nintendo Wii Shop · On Live · PlayStation Store · Steam · Wal-Mart · Xbox Live Marketplace · Zynga
+
+MiCroSOt't CONFIDENTIAL
+
+49
+
+Each category was scored and then tallied to get to a final score on each of the dimensions of
+evaluation.
+Calculating Individual Company's Consumer Experience Total Category Score
+
+In order to assess each company's scores for the three main 'consumer experience' categories, applied the following calculation:
+
+core Used the following assigned numbers to calculate the individual website feature scores:
+
+Community Forum/Blog Sharing User Ratings & Reviews
+
+Assigned Value
+
+Weight of Feature Low
+Medium High
+
+Company's Rating (r)
+Bad Average
+Good
+
+Positioned each company accordingly on the bubble chart after calculating the Product Information (x-axis) and Community/Social (y-axis) total category scores.
+For the Promotional total score for each company, used varying bubble sizes to distinguish the impact of the promotional website features on the consumer's experience.
+
+oo O
+
+Score
+
+Low
+
+High
+
+/~
+
+~l
+
+Source: Company Websites, Accenture analysis.
+
+Formal Ratings & Reviews Photos Promotional Videos Quick Links Related Products Support/FAQs
+Deals' Featured Products Free Demo/Trial(s) Release Calendar Top Charts
+j~-
+B Lib bl e C h a r t Da t a
+
+Weight of Feature
+High
+
+Company's
+Rating
+
+Score
+
+Low Medium ompany's TOTALCommunity/scioalScore Medium
+Low High Medium Low Low Company's TOTAL Product Information Score Medium Low High Medium Low Company's TOTALPromotionalScore
+
+LEGEND r Co mpany's Rating y Company's Score per Feature Z Company'sTotalCategoryScore
+
+rltiit i''iiiuiiiit' CQ'll FI CiF'IQVIAL
+
+50
+
+Steam attempts to differentiate by providing the most comprehensive consumer experience of digital
+only marketplaces.
+
+Website Features Shaping Overall Consumer Experience forDi ital Onl Com anies
+
+Good
+
+Community/ Social (Score)
+
+Qoa
+
+Key Points
+· Forthe m ajorityofgarners,Steam isagam ing destinationthat combines socialelements thatgarners w ant, withiann easy to use gaming service that offers key features: -- Creationand use of "mods" of Valve'stitles on the network -- Sale of virtual goods in the form of digital weapons and accessories to enhance games
+· Following Steam's lead, other digital market leaders PlayStation, Xbox Live, and GameTap -- provide a comprehensive experience for the gamer
+
+Poor
+
+Poor
+
+/~
+
+~l
+
+Source:Company Websites, Forbes, Accenture analysis.
+
+Product information
+(Score)
+
+Good
+
+Legend:
+O
+
+Measure of promotional features on website
+
+MiCrOSOt't CONFIDENTIAL
+
+Gamestop and Best Buy attempt to use experience-based differentiation for their physical / digital
+marketplaces.
+
+Website Features Shaping Overall Consumer Experience forDi ital Ph sical Com anies
+
+Good
+Community/ Social (Score)
+
+RIImesmea
+
+Key Points · GameStop provides the most comprehensive gaming
+experience among digital and/or physical retailers
+· Best Buy provides similar website features as GameStop but does not provide many promotional deals on games
+· EA doesn'tfocusonan enhanced consumer experience as its primary revenue stream is from sales on 3" party sites
+· Amazon focuses on providing the most available games at adiscount to be the low-cost leader in the gaming industry
+
+Walmatt =-
+
+Poor
+
+Poor
+
+/~
+
+~l
+
+Source:Company Websites, Forbes, Accenture analysis.
+
+Product Information
+(Score)
+
+Good
+
+Legend:
+O
+
+Measure of promotional features on website
+
+MiCrOSOt't CONFIDENTIAL
+
+52
+
+All physical retailers are employing games trade-in programs to capture garners earlier on in the game lifecycle.
+Website Features and Trade-In Gaming Services Shaping Overall Consumer Experience
+
+Good
+Community/ Social (Score)
+
+RIImeSIea
+
+~e
+
+u
+
+~ ~
+
+Key Points
+· Game Stop'sused game trade-in program creates value forgarners who getto recycle games no longer being played
+· In mid-2010, Best Buy invested more in pre-order kiosks and itstrade-in games program to better compete with GameStop's dominance in "trade-in to pre-order" gaming capture
+· Wal-mart does not tie in a lot of its main site web features with the trade-in portion of the site
+
+%81NBFt ~ ~
+
+Poor
+
+Poor
+
+/~
+
+~l
+
+Source:Company Websites, Forbes, Accenture analysis.
+
+Product information
+(Score)
+
+Good
+
+Legend: Has Trade-in Gaming Program Measure of promotional features on
+O website
+
+MiCrOSOt't CONFIDENTIAL
+
+53
+
+Across the different competitors, Steam provides the most comprehensive consumer gaming
+experience.
+Website Features Shaping Overall Consumer Experience
+Good
+Came8toss
+
+Community/ Social (Score)
+
+®
+
+~gear
+SfAIIZQA
+
+Poor
+
+/~
+
+~l
+
+Poor Source:Company Websites, Forbes, Accenture analysis.
+
+Product Information
+(Score)
+
+Legend: Has Trade-in Gaming Program
+O Measure of promotional features on website
+
+Good
+
+MiCrOSOt't CONFIDENTIAL
+
+54
+
+Outline
+( < IE'0)
+
+· Market Size · Market Trends
+Enabling Technology
+Gaming Content Devices Consumer · Marketplace Competition Revenue Models Consumer Experience Pricing and Positioning
+
+MiCrOSOt't CONFIDENTIAL
+
+Notes on Pricing and Positioning Analysis
+· The pricing and positioning analysis is based on snapshots of each retailers websites and the prices that were available during January and February
+· The analysis is intended to be a directional indicator of pricing across retailers · The positioning analysis across marketplace competitors is primarily based on features and
+promotions on the marketplace websites coupled with analysis of their publicly stated strategies
+
+( < IE'0)
+
+MiCrOSOt't CONFIDENTIAL
+
+In a declining PC Game market, Steam maintains a premium digital position with marketplace
+features valued by garners.
+
+Tier 1: Average Digital PC Game Price* by Retailer, Jan 2011 $5o.oo
+$4o.oo
+
+$30.00
+
+$20.00
+
+$10.00 Color Key:
+
+Amazon
+
+GameStop
+
+~ Mark e t leader
+
+Best Buy
+
+Game Tap
+
+Steam
+
+Tier 2: Average Digital PC Game Price** by Retailer, Jan 2011 $5o.oo
+$4o.oo
+
+$30.00
+
+$20.00
+
+$10.00
+
+Amazon
+
+GameStop
+
+Best Buy
+
+Game Tap
+
+* Average price is based on Tier 1Top 5 games of 2010 (Tier 1: >5 million games; 40% of market) ** Average price is based on the Tier 2 Top games of 2010 (Tier 2: 2-3million games)
+
+Steam
+
+/~
+
+~l
+
+SourceA:mazon, Best Buy,Gamestop, GameTap, Steam, Valve,Accentureanalysis.
+
+Key Points
+· Steam and GameTap have thehighest prices and are stillthe m arket leaders
+· Steam has over 50% market share of digitally downloaded PC games Drivers of Value for Steam and GameTap · Content Depth-
+· Steam has over 1,000 games from over 100 developers and publishers around the world
+· Flexible Consumption Models-
+· Both companies offer monthly subscriptions ("all you can eat") which allow garners to play a catalogue of selected premium and arcade games
+· Social Tools-
+· A community/forum presence on each siteis an attractivefeature for core garners as they are able to interact, develop relationships, and discussthe latestw ith other core garners
+
+MiCrOSOt't CONFIDENTIAL
+
+57
+
+The leading destination for downloadable games, Steam, prices digital content higher than
+competitors and on par with physical games.
+Tier 1: Average PC Game Price* by Medium, Jan 2011 US Dollars
+
+$eo.oo $5o.oo $4o.oo
+$30.00 $20.00 $10.00
+$-
+
+Amazon
+
+· Physical
+
+Gamestop · Digital
+
+Tier 2: Average PC Game Price** by Medium, Jan 2011
+
+US Dollars
+
+$eo.oo
+
+$5o.oo $4o.oo
+
+$30.00
+
+$20.00
+
+$10.00
+$-
+
+Amazon
+
+Gamestop
+
+· Physical
+
+· Digital
+
+* Average price is based on Tier 1Top 5 games of 2010 (Tier 1: )5 million games; 40% of market) ** Average price is based on the Tier 2 Top games of 2010 (Tier 2: 2-3million games) 1 Digital price only, as only digital content is offered on Steam
+
+Best Buy Best Buy
+
+Steam' $47.99
+Steam' $23.32
+
+Hypothesis · Convenience, community and platform features are
+drivers of value in digital games
+
+/~
+
+~l
+
+SourceA:mazon, Best Buy,Gamestop, GameTap, Steam, Accenture analysis.
+
+MiCroSOt't CONFIDENTIAL
+
+58
+
+In physical games, current retailer price positioning is consistent across game platforms for Tier 1 and Tier 2 games, except for Tier 2 physical PC games.
+
+·
+
+' ' ' r vari
+
+i
+
+· r i·
+
+t
+
+t
+
+t
+
+e '· r
+
+e
+
+i r· ·
+
+Tier 1: Average Physical Game Price* by Platform, Jan 2011 US Dollars
+$55.00 $45.00 $35.00 $25.00 $1 5.00
+
+$5.00 PC
+
+Xbox 360
+
+· Amazon
+
+a Wal-Mart
+
+· GameS t o p · Best Buy
+
+Tier 2: Average Physical Game Price** by Platform, Jan 2011 US Dollars
+$55.00
+
+$45.00
+
+$35.00
+
+$25.00
+
+$1 5.00
+
+$5.00 PC
+* Average price is based on Tier 1Top 5 games of 2010 (Tier 1: >5 million games; 40% of market) ** Average price is based on the Tier 2 Top games of 2010 (Tier 2: 2-3million games)
+
+Xbox 360
+
+/~
+
+~l
+
+SourceA:mazon, Best Buy,Gamestop, GameTap, SeekingAlpha,Steam, PWC, Accenture analysis.
+
+Key Points
+· Amazon, the low-price leader in the market with a low cost structure, offers discounted prices across all products (not just games) to generate revenueand achieve high-volume salesacross product categories
+· GameStop enjoys "a monopolistic loyalty base among the under 25 crowd", which gives them pricing power to maintain premium pricing
+· GameStop storesare a destination for game buyers because:
+· Knowledgeable andenthusiasticsalesassociates make the store a destinationforcoregarnerswanting to discussgames
+· Sales associates provide recommendations to non-core garners seekingassistance with theirgame purchase
+· Gaming on demand and windowing will change positioning of retailers in physical games
+
+MiCrOSOt't CONFIDENTIAL
+
+59
+
+MMO games are the most expensive genre for PC games given the costly infrastructure; ease of
+search and lower prices encourage garners to purchase digital over physical PC games.
+PC Physical and PC Digital Products' Average Pricing per Genre Across Major Retail Outlets* $60.00 $5o.oo $4o.oo $30.00
+$20.00
+$10.00
+$-
+~Q OO
+
+· PC Physical · PC Digital
+
+/~
+
+~l
+
+Note:Findings were deemed inconclusive since bestselling listsfrom each company were a current day snapshot versus overaperiod of tim e. Pleaseseeappendix formore details.
+*RetailOutlets:ForPC physicalproducts,looked attop 10 bestsellinggames from Amazon, Best Buy,EA,and GameStop; For PC digital products, looked atGame Tap and Steam
+Source:Company Websites, Google, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+60
+
+PS3 games are priced higher than the other platforms' for higher level of engagement type games; Wii is the preferred console for social and casual interactive games.
+Physical Products' Average Pricing per Genre by Gaming Console Platform Across Major Retail Outlets*
+$eo.oo
+
+$5o.oo $4o.oo
+
+$30.00 $20.00 $10.00
+$-
+~Q
+oo
+
+gQ gc,
+~4
+.~C
+
+· PS3 · Xbox360 · Wii
+
+/~
+
+~l
+
+Note:Findings were deemed inconclusive since bestselling listsfrom each company were a current day snapshot versus overaperiod of tim e. Pleaseseeappendix formore details.
+·Retail Outlets: Looked at top 10 bestselling games from Amazon, Best Buy, EA, GameStop
+Source:Company Websites, Google, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+Amazon is the only retailer to actively use pricing promotions on pre-order; others tend to use
+bundles.
+Promotions on Pre-Order Games Across Retail Outlets
+
+Battlefield 3 Bulletstorm Crysis 2 Dragon Age II Homefront Marvel vs. Capcom Total War: Shogun 2 Two Worlds II
+
+Amazon
+$59.99/ $49.99** (17% off)
+$57.99 (3% off + $10 credit)
+$57.95 (3% off + $10 credit)
+$59.95 (In-game items)
+$59.99/ $47.99** (4% off)
+$59.99 ($10 credit)
+$49.95*
+$49.82*
+
+Best Buy
+$59.99
+$59.99
+$59.95
+$59.95 $49.99*/ $59.99 (Gaming headset) $59.99 $49.95* $59.99
+
+EA
+$59.95
+$59.95 (In-game items)
+$59.95 (In-game items)
+N/A
+N/A
+N/A N/A N/A
+
+GameStop
+$59.99
+$59.99
+$59.95 $59.95 (In-game item) $59.99 (In-game items)
+$59.99 $49.95 $49.99*/ $59.99
+
+Game Tap N/A
+N/A $56.99 ($4% off) $59.95
+$49.99*
+N/A $49.95* $49.99*
+
+Steam
+N/A
+N/A
+N/A $59.99 (in game items) $49.99* (free Metro 2033 game)
+N/A
+$49.99*
+$49.99*
+
+MSRP ($) $59.95/ 59.95*
+$59.95
+$59.95
+$59.95
+$49.99*/ $59.99
+$59.99
+$49.99* $49.99*/
+$59.99
+
+Release Date Fall 2011
+February 22, 2011 March 22, 2011 March 8, 2011 March 8, 2011
+February 15, 2011 March 15, 2011 January 25, 2011
+
+< I~m
+
+~ Digital product price only; **Prices vary across gaming platform (Xbox 360/PlayStation 3 vs. Windows 7 ) Source:Company Websites, Google, Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+62
+
+Steam runs weekly promotions with significant price drops.
+Snapshot of Steam Promotions, Jan --Feb,2011
+
+¹ of Discounts Per Wee Avg. Price Drop Range of Drop Avg. Price Increase Range of Increase
+
+$8.66
+Max: $20 Min: $0.01
+
+13
+Max: $20 Min: $5
+Max: $3 Min: $3
+
+/~
+
+~l
+
+Source:Steam.corn (dataassessed on 2/14/2011, Accenture analysis.
+
+Max: $15 Min: $5
+
+$6.55
+Max: $20 Min: $2
+
+$11.57
+Max: $20 Min: $8
+
+Total ¹ of Unique Games Discounted = 39
+
+Microsot't coNFIDENTIAL
+
+63
+
+Core game market leaders are currently targeting the mature gamer.
+Target Customer* by Company
+
+Mature Gamer (17+ yrs old) Casual Gamer
+Everyone
+Female-Friendly Family-Oriented
+
+Q I I I am+*o+ ~aa4 . a mssaa Q
+
+® o y@t a g,= IaNI ® @ gg Q
+
+Key Points · Major streaming vendors, publishers and gaming console manufacturers are marketing their products to the mature gamer; they feature a large
+selection of "mature" games and website presentation is geared towards an older audience · Premium-priced games are typically played and purchased by the "mature" core gamer · Mobile and social companies target casual garners with games for all ages · EA's casual gaming site, Pogo, has a very different marketing spin than its main EA Store site
+· Companies try to maintain a premium experience for their mature core gamer
+
+/~
+
+~l
+
+*Target customer is determined by evaluating the marketing focus and content provided by the company and its website Source:Company Websites, Wikipedia, Accenture analysis.
+
+Microsot'tcoN F I DENTIAL
+
+64
+
+Implications of marketplace competition to XBLM.
+· Competing marketplaces are focused on or shifting focus to digital games, and they are trying to find ways todifferentiate
+· The many digital marketplaces provide consumers with more places to buy games, which could chip
+away at XBLM's market share
+· Most marketplace share the same focus on the core gamer segment
+· Core gamer focused marketplaces have yet to figure out how to monetize the growing casual gamer
+segment in a meaningful way · The marketplace that figures out how to successfully migrate casual garners to more of a core gamer
+type spending and behavior will reap rewards
+
+/~
+
+~l
+
+Source: MuItipIe
+
+MiCrOSOt't CONFIDENTIAL
+
+Appendix
+· Video Game Genres · Revenue Model Descriptions
+( < IE'0)
+
+MiCrOSOt't CONFIDENTIAL
+
+Video Game Genres (A-M)
+Definitions of Genres and Examples
+
+CR
+
+·
+
+-
+
+Requires players to use quick reflexes, accuracy, and timing to overcome obstacles; Often gameplayhasemphasis on combat.
+
+Uses interactive graphics and point-and-click functionality; Puzzle-solving theme and general lack of violence makes this genre popular for many non-traditional gaming demographics.
+
+Uses simplified graphics aimed at preserving the antiquated coin-operated machine games.
+
+Have very simple rules or play techniques and a a very low degree of strategy: Require no long term commitment.
+
+Player controls an on-screen character and engages in close combat with an opponent.
+
+Generally require a specialized controller and are differentiated by the timed elements usually synched to music.
+Created by individuals or small teams; Often focus on innovation and rely on digital distribution.
+Multiplayer video game capable of supporting thousands of players simultaneously; Played on the internet; Can enable players to cooperate and compete with each other on a large scale; game milieu continues regardless of interaction.
+
+Dead Space, Assassin's Creed series, Call of Duty, Resident Evil series, Grand Theft Auto King's Quest, Indiana Jones, Maniac Mansion, Myst, Police Quest, Syberia Gaplus, Star Force, Space Invaders (Wii Virtual Console); Asteroids, Tron, Missile Command (Xbox Live Arcade)
+LittleBigPlanet, Crazy Frog Racer, Carnival Games, Wii Play, Tetris
+Street Fighter, Soul Calibur, Mortal Kombat, Tekken, Dead or Alive, King of Fighters Dance Dance Revolution, Parappa the Rapper, Bust a Groove, Gitaroo Man, Beatmania Braid, World of Goo, Minecraft
+World of Warcraft, EverQuest Online Adventures, Final Fantasy XI, Happy Farm
+
+/~
+
+~l
+
+Source:Ted Stahl: Video Game Genres, 2005; Wikipedia; Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+67
+
+Video Game Genres (N-Z)
+Definitions of Genres and Examples
+
+·
+
+-
+
+Place the player in the driver seat of a high performance vehicle to partake in a racing competition on land, sea, or air.
+
+Type of adventure game that usually incorporate a specific quest, a process for evolving a character, and the acquisition and management of inventory items for the quest.
+
+Focus on combat involving projectile weapons in which the player navigates an environment from a first or third-person perspective; Allows multiple players to share in the same game
+simultaneously.
+
+Allows players to create and manage an environment; Designed to closely simulate aspects of real or fictional reality.
+
+Simulate the playing of sports; Many incorporate novel aspects beyond the games themselves.
+
+Attempt to capture a sense of realism for the game player to experience; Turn-based with greater sense of player control.
+
+Online community that often takes the form of a computer-based simulated environment through which users can interact with one another and use/create objects.
+
+Midnight Club, Mario Kart, Grand Prix Legends, Live for Speed, iRacing Mana series, Soul Blazer, Diablo series, Final Fantasy series, Elder Scrolls series
+Doom, Halo,Duke Nukem 3D, Descent, Marathon, GoldeenEye, Quake, Time Splitters
+SimCity, Theme Hospital, MicroSoft Flight Simulator, Gran Turismo, Ceasar Madden NFL series,Championship Manager
+Ogre Tactics, Command and Conquer, Worms
+Everquest, Lineage, World of Warcraft, Second Life
+
+/~
+
+~l
+
+Source:Ted Stahl: Video Game Genres, 2005; Wikipedia; Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+68
+
+Video Game Genres in order of engagement (1/2)
+Definitions of Genres and Examples
+
+CR
+
+·
+
+-
+
+Requires players to use quick reflexes, accuracy, and timing to overcome obstacles; Often gameplayhasemphasis on combat.
+
+Uses interactive graphics and point-and-click functionality; Puzzle-solving theme and general lack of violence makes this genre popular for many non-traditional gaming demographics.
+
+Multiplayer video game capable of supporting thousands of players simultaneously; Played on the internet; Can enable players to cooperate and compete with each other on a large scale; game milieu continues regardless of interaction.
+
+Focus on combat involving projectile weapons in which the player navigates an environment from a first or third-person perspective; Allows multiple players to share in the same game simultaneously.
+
+Place the player in the driver seat of a high performance vehicle to partake in a racing competition on land, sea, or air.
+
+Player controls an on-screen character and engages in close combat with an opponent.
+
+Type of adventure game that usually incorporate a specific quest, a process for evolving a character, and the acquisition and management of inventory items for the quest.
+
+Dead Space, Assassin's Creed series, Call of Duty, Resident Evil series, Grand Theft Auto King's Quest, Indiana Jones, Maniac Mansion, Myst, Police Quest, Syberia
+World of Warcraft, EverQuest Online Adventures, Final Fantasy XI, Happy Farm
+Doom, Halo,Duke Nukem 3D, Descent, Marathon, GoldeenEye, Quake, Time Splitters
+Midnight Club, Mario Kart, Grand Prix Legends, Live for Speed, iRacing Street Fighter, Soul Calibur, Mortal Kombat, Tekken, Dead or Alive, King of Fighters Mana series, Soul Blazer, Diablo series, Final Fantasy series, Elder Scrolls series
+
+/~
+
+~l
+
+Source: Ted Stahl: Video Game Genres, 2005; Wikipedia; Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+69
+
+Video GameGenres in order of engagement (2/2)
+Definitions of Genres and Examples
+
+45
+
+·
+
+-
+
+Simulate the playing of sports; Many incorporate novel aspects beyond the games themselves.
+
+Attempt to capture a sense of realism for the game player to experience; Turn-based with greater sense of player control.
+
+Online community that often takes the form of a computer-based simulated environment through which users can interact with one another and use/create objects.
+
+Allows players to create and manage an environment; Designed to closely simulate aspects of real or fictional reality.
+
+Created by individuals or small teams; Often focus on innovation and rely on digital distribution.
+
+Uses simplified graphics aimed at preserving the antiquated coin-operated machine games.
+
+Generally require a specialized controller and are differentiated by the timed elements usually synched to music.
+
+Have very simple rules or play techniques and a a very low degree of strategy: Require no long term commitment.
+
+Madden NFL series,Championship Manager
+Ogre Tactics, Command and Conquer, Worms
+Everquest, Lineage, World of Warcraft, Second Life
+SimCity, Theme Hospital, MicroSoft Flight Simulator, Gran Turismo, Ceasar
+Braid, World of Goo, Minecraft Gaplus, Star Force, Space Invaders (Wii Virtual Console); Asteroids, Tron, Missile Command (Xbox Live Arcade) Dance Dance Revolution, Parappa the Rapper, Bust a Groove, Gitaroo Man, Beatmania LittleBigPlanet, Crazy Frog Racer, Carnival Games, Wii Play, Tetris
+
+/~
+
+~l
+
+Source:Ted Stahl: Video Game Genres, 2005;Wikipedia; Accenture analysis.
+
+MiCrOSOt't CONFIDENTIAL
+
+70
+
+Appendix
+· Video Game Genres · Revenue Model Descriptions
+( < IE'0)
+
+MiCrOSOt't CONFIDENTIAL
+
+Revenue Models Definitions
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Traditional Paid Downloads
+
+Enabled by the online mobile app stores that closely followed introduction of console-basedonline stores
+
+"Freemium" Trial and Upgrade
+
+Provide trial or limited version that provides some value, and a premium version with more features/capacit.yRevenue from paid version subsidized free version
+
+"Freemium" Virtual Goods
+
+Leverages a user base, created by giving away the game for free, to sell virtual goods and upgrades
+
+Expansion Content
+
+Leverages existing user base to sell followon g a ming experiencessu,ch as maps, levels, or tracks
+
+/~
+
+~l
+
+Source:Gartner
+
+·
+
+·
+
+·
+
+·
+
+In-Game Advertising
+
+Advertiser pays the developer for dynamically serving advertisements wit h i n a mobile game at the start (pre-roll) or end (post-roll) of the game, or at level breaks.
+
+Adverga ming
+
+The advertiser pays the developer for preprogramming the brand into a mobile game i.e. Above/ Below/Through the line (ATL, BTL, TTL) and through ProductPlacement. This viralmarketing technique uses games as a vehicle for creating brand awareness, driving internet traffic, and promoting products and services
+
+Ad-Funded Gaming
+
+Advertisements are placed around the games on the mobile portal. Mobile
+games are for free to users. Developers pay for a prominent placement in the store. Developers bid for price per download. GetJar uses advertising revenue to buy popular mobile games, which drive traffic to the store
+
+Subscription-based Revenue
+
+Provide trial/limited version that with some value, and a subscription based premium version. Subscription based model has not yet proliferated within mobile games though ithas some success inmobile apps.
+
+Microsot't coNFIDENTIAL
+
+72
+
+

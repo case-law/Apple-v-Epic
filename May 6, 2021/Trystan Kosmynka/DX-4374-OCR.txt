@@ -1,0 +1,3671 @@
+United States District Court
+
+«I
+
+NorthernDistrictofCalifornia
+
+iOS Apps Reviewed Summary
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games,Inc.v.Apple, Inc.
+
+Exhibit No. DX-4374
+
+Date Entered
+By:
+
+Susan Y. Soong, Clerk Deputy Clerk
+
+iPhone
+
+Approved Rejected
+
+New Update New Update
+
+5,461 29,210 11,296 9,537
+
+Approved iPad
+Rejected
+
+New Update New Update
+
+4,612 36,543 6,988 8,854
+
+Total
+
+112,501
+
+CONFIDENTIAL
+
+Total Apps On Store with Watch OS Total Apps On Store Using In App Purchase (iOS) Total Apps with Hosted IAP (iOS) Net Rejections
+
+17,551 236,743
+2,262 1,525,253
+
+DX-4374. 001
+
+Apple CUltMetlti:tI APL-APPSTORE 09630814
+
+iOS Apps Submissions
+By Week through Nov 3 6, 2039
+
+104,925 102,364
+
+100,114
+
+10p0p 626
+
+97,311
+
+102,561
+
+101,689
+
+98,206
+
+98,873 96,913
+
+98
+
+93,048
+
+92,687
+
+118,686 1
+
+107,702
+
+1'I 4,657 110,351
+
+112,831
+
+1p1 187 103,455
+
+99,929
+
+99,071
+
+115,783
+
+112,735
+
+112,856
+
+·
+
+·
+
+·
+
+I
+
+I
+
+· J
+
+·
+
+I ·
+
+·
+
+I
+
+·
+
+·
+
+J
+
+·
+
+· g
+
+5/25 6 / 1 6/ 8 6/ 15 6 / 2 2 6 / 2 9 7/6 7/ 1 3 7/ 2 0 7 / 2 7 8 /3 8/ 10 8 / 1 7 8 / 2 4 8 / 3 1 9 /7 9/ 1 4 9 / 2 1 9 / 2 8 10/ 5 1 0/12 1 0/19 1 0/26 11/2 1 1/ 9 1 1 / 16
+· New · Update
+
+iPhone iPad Universal
+
+New 16,654 274 11,204
+
+Update 39,204 1,463 44,057
+
+Total 55,858 1,737 55,261
+
+· Incoming volumesadjusted to account for developer rejections. · T his week's Developer Rejected Rate = 7. W7 QIo/
+
+Total
+
+28,132
+
+84,724
+
+112,856
+
+Apple Confidential
+
+CONFIDENTIAL
+
+DX-4374. 002
+
+APL-APPSTORE 09630815
+
+Week y Progress
+This week through Nov 16, 203 9
+
+58,875 54,447
+
+· Up dates · New
+
+· Re jected · Ap proved
+
+,e I ·
+I · '
+
+11/20 Submitted
+
+11/20 Processed
+
+iOS
+
+CONFIDENTIAL
+
+142 120
+
+11/20 Submitted
+
+11/20 Processed
+
+tvOS
+
+DX-4374. 003
+
+681 633
+
+11/20 Submitted
+
+11/20 Processed
+
+macOS
+
+Apple Confidential APL-APPSTORE 09630816
+
+iOS Apps Processed
+By Week through Nov i 6, 203 9
+
+107,071105 87p
+
+102,341
+
+94,832 96,988
+
+94,510 93
+
+105,658 101,493
+
+120,98612p 301
+
+11 7,763
+
+115,822
+
+116,596116,356 112,501
+
+107,190
+
+108,954
+
+109,213
+
+106,508
+
+100,482
+
+100,488 97,878 100,198
+
+103,296
+
+92,724
+
+·
+
+·
+
+· I
+
+·· I
+
+· I·
+
+·J
+
+I
+
+) · · J
+
+·
+
+·
+
+· J
+
+·
+
+·
+
+·
+
+i I·
+
+·
+
+· i I
+·
+
+·
+
+C ·
+
+· I '
+
+· I
+
+5 /25 6 / 1 6/ 8 6/ 15 6/ 2 2 6 / 2 9 7/ 6
+· Ap p roved · Rej e c ted
+
+7/ 13
+
+7/ 2 0 7 / 2 7 8/ 3
+
+8/ 10
+
+8/ 1 7 8 / 2 4 8 / 3 1 9/ 7 9/ 14 9/ 2 1 9 / 2 8 1 0 / 5 1 0 / 1 2 1 0 / 19 10/26 1 1/ 2 1 1 / 9 1 1 / 1 6
+
+Total iOS Apps on App Store iPhone
+
+653,090
+
+Last week Reviewer QT: 2,024.60
+
+iPad Universal
+Total
+
+52,094 1,058,365 1,763,549
+
+Apple Confidential
+
+CONFIDENTIAL
+
+DX-4374. 004
+
+APL-APPSTORE 09630817
+
+New iOS Apps Approved to Store
+By Week through Nov i 6, 203 9
+
+9,946
+
+11,711
+
+11,525
+
+10,451
+
+10,506
+
+10,114
+
+9,762 9,553
+
+9,473
+
+9,907
+
+9,202
+
+8,741
+
+1 0,889
+
+1 0,923
+
+10,711
+
+1 Qi989
+
+10,584
+
+10,306
+
+9,853
+
+" 35711,246
+
+1 0,638
+
+1 0,363
+
+10,35 1
+
+5 I25 6 /1 6/ 8 6/ 15 6/ 2 2 6 / 2 9 7/ 6 7/ 13 7/ 2 0 7 / 2 7 8/ 3 8/ 10 8/ 1 7 8 / 2 4 8 / 3 1 9 /7 9/ 14 9 / 2 1 9 / 2 8 1 0 / 5 1 0 / 1 2 1 0/ 19 1 0/26 1 1I 2 1 1 / 9 1 1 I 1 6
+
+CONFIDENTIAL
+
+DX-4374. 005
+
+Apple Confidential APL-APPSTORE 09630818
+
+ios Week y Inventory
+
+By Week through Nov i 6, 203 9
+
+· Ba c klog (over 48 hours) · Ap p Inventory (@ SLA)
+
+w Backlog as Pct of Inventory
+
+20,000 17,500
+
+17,860 1,55
+
+8 789 1 9,028 12,02
+
+19,188 1,76'
+
+17,486
+
+0 73
+
+,16'
+
+15,000
+
+15,124 14,496 ,44
+
+12,500
+11,048
+
+11,821 ,47
+
+10,000 7,500
+
+9,363
+,62 8,120 ,35
+
+7,508 ,01
+
+13,536 ,'l4
+11,045 ,19.
+
+15,761
+,558
+
+14,694 03
+
+11,987 ,65
+10,006 ,5
+
+13,601
+
+,77 12,707
+
+,494
+
+11,365 ,90
+
+10,800
+,85 9,616
+
+11,008 ,.48
+
+,94 8,610
+
+,67
+
+,597
+
+,551
+
+,,203
+
+5,000
+
+2,500
+
+.6
+
+3~
+
+3 4
+
+.5
+
+' 70
+0
+
+5 / 2' 4 7
+
+00
+
+,46 2.1' 1 3'-
+
+4
+
+0'
+
+.7.
+
+5/25 6/ 1 6 /8 6/ 1 5 6 / 2 2 6 / 2 9 7 / 6 7 / 1 3 7/207 /2 7 8 / 3 8 / 1 0 8 /17 8/24 8 /3 1 9 / 7 9 / 1 4 9 / 2 1 9 / 2 8 1 0/5 10/12 10/1 9 10/26 11/2 11/9 11/1 6
+
+* Total Inventory at the end of the week (EQD saturday) CONFIDENTIAL
+
+DX-4374. 006
+
+Apple Confidential APL-APPSTORE 09630819
+
+iOS Top 10 Re ected
+By Week through Nov i 6, 203 9
+
+7,153
+
+7,084
+
+4,245
+
+3,541
+
+Top 10 Rejections account for 71% of all rejections
+
+2,224
+
+2,104
+
+1,469
+
+1,140
+
+1,133
+
+1,092
+
+· 2. 1 .0 - Performance: App Completeness
+· 2. 1 .0 - Performance: Info Needed Q Other - Other · 5.1 . 1 -- Legal: Data collection 8 storage · 4. 3 .0 -- Design: Spam · 2. 3 .3 - Performance: Relevant screenshots
+· 2. 3 .1 - Performance: Hidden or undocumented features · 5.2 . 1 -- Legal: Intellectual Property -- Legal: Seller/Artist mismatch, Gov't required ICBL 4 4. 0 .0 -- Design: General · 3. 1 .1 -- Business: In-App Purchase
+
+CONFIDENTIAL
+
+DX-4374. 007
+
+Apple Confidential APL-APPSTORE 09630820
+
+iOS App Processing SLAs
+By Week through Nov 16, 2019
+
+, i Day
+
+11/10
+Sunday
+
+11/ 11
+Monday
+
+11/ 12
+Tuesday
+
+11/ 13
+Wednesday
+
+11/ 14
+Thursday
+
+1 1/ 15
+Fnday
+
+1 1/ 16
+Saturday
+
+Average
+
+7 1 . 3 '/0 9 0 . 5 % 9 1 . 3% 9 4 . 7 % 94 . 4 '/ 0 9 2 .5 % 7 5 . 3 % 89.8%
+
+2 Day 92.7% 9 4 .3% 9 7 .6% 9 7 .5% 9 7 .0% 9 7 .2% 9 6 .4% 96.6%
+
+100%
+
+80%
+
+1 Day SM
+
+60%
+
+30 Day Trend 40%
+
+20%
+
+Last Week
+
+100%
+
+90%
+
+80%
+
+2 Day SLA
+
+60%
+
+30 Day Trend 40%
+
+20%
+
+v 0
+
+v 0
+
++v 0
+
+v 0
+
+v v v +v v v v 0 0 00 00 0
+
+zo zo zo zo z0
+
+z0 z0 z0 zo z0
+
+z 0
+
+z 0
+
+z 0
+
+z 0
+
+z 0
+
+z 0
+
+z 0
+
+z 0
+
+z0
+
+Pl Pl B
+
+0
+
+6
+
+Pl
+
+ct
+
+A N ct L h K r co d
+
+* SLA is shown in calendar days (hours) from app submission (Waiting for Review) to final state (Approved, Rejected, Metadata Rejected). * Calculation: [ ¹apps processed within set hours for the selected day. I total apps processed for the selected day. ]
+
+CONFIDENTIAL
+
+DX-4374. 008
+
+Apple Confidential APL-APPSTORE 09630821
+
+watchOS Submissions
+By Week through Nov i 6, 203 9
+
+2,388
+
+1,536 1 515 1,473 1 382 1,421
+
+1 4g2 1,505 1,391
+1,270
+
+1,663
+1,438 1 36g 1 353
+1,307 1,319
+
+2,098 1,842 1,838 1,901 1,854 1,637
+
+1,741
+
+Ie
+
+·
+
+·
+
+5/25 6 / 1 6/ 8 6/ 1 5 6 / 2 2 6 / 2 9 7 / 6 7/ 1 3 7 / 2 0 7 / 2 7 8 /3 8/ 1 0 8 / 1 7 8 / 2 4 8 / 3 1 9 / 7 9/ 1 4 9 / 2 1 9 / 2 8 1 0 / 5 1 0/1 2 10/1 9 10/26 11/2 1 1/9 11/1 6
+· New · Update
+
+New
+
+Watch OS
+
+73
+
+CONFIDENTIAL
+
+Update
+1,668
+
+Total
+1,741
+
+· Incoming volumesadjusted to account for developer rejections. ® This week's Developer Rejected Rate = i l 2n . 0n o/ 0/
+
+DX-4374. 009
+
+Apple Confidential APL-APPSTORE 09630822
+
+watchos Processed
+By Week through Nov i 6, 203 9 2,409
+2,338
+
+1,633
+
+1,552
+
+1,475
+
+1,499
+
+,580 1,521 1 505
+
+1,559
+
+1,417
+
+1,417
+
+1,398
+
+1,430
+
+1,351
+
+1,300
+
+1,311
+
+1,257
+
+gJ
+
+2,007
+
+1,987
+
+1,844
+
+1,825 1,727
+
+5/25 6 / 1 6/ 8 6/ 15 6/ 2 2 6 / 2 9 7/6 7/ 1 3 7/ 2 0 7 / 2 7 8 /3 8/ 10 8 / 1 7 8 / 2 4 8 / 3 1 9/ 7 9/ 1 4 9 / 2 1 9 / 2 8 1 0 / 5 1 0 /12 10/19 10/26 11/2 1 1 / 9 1 1 / 16
+· Ap p r oved · Rej e c ted
+
+CONFIDENTIAL
+
+DX-4374.010
+
+Apple Confidential APL-APPSTORE 09630823
+
+watchos TOP 30 Reected
+By Week through Nov i 6, 203 9
+Top 10 Rejections account for 77% of all rejections
+
+22 18
+· 2 . 1 . 0 -Performance: App Completeness · 2 . 1 . 0 -Performance: Info Needed U 3.1.2- Business: Subscriptions · 5 . 1 . 1 -Legal: Data collection 8 storage · 2 . 5 . 1 -Performance: API Usage · 2 . 3 . 4 -Performance: Previews · 2 . 3 . 0 -Performance: Accurate Metadata · 2 . 3 . 3 -Performance: Relevant screenshots g 4 .0.0- Design: General · 3 . 1 . 1 -Business: In-App Purchase
+CONFIDENTIAL
+
+&&&m
+
+DX-4374. 01 1
+
+Apple Confidential APL-APPSTORE 09630824
+
+Ca Requests
+By Week through Nov i 6, 203 9
+
+1,000
+
+5%
+
+900
+sos
+800 699
+700
+600
+500
+
+804
+
+794
+
+763
+
+779
+
+747
+
+700
+
+710
+
+69O
+
+sso
+
+714 710 683
+
+689
+
+658
+
+661
+
+594 559
+
+5%
+
+798
+
+4%
+
+752
+
+746
+
+4%
+
+3%
+
+3%
+
+400
+
+2%
+
+300
+
+2%
+
+200
+
+I 'e I I· o
+
+I I ·' o
+
+·I· I · I
+
+·I
+
+'· e I
+
+·
+
+1%
+
+100
+
+1%
+
+0% 5/25 6/ 1 6/ 8 6/ 1 5 6 / 2 2 6 / 2 9 7 / 6 7 / 1 3 7 / 2 0 7 / 2 7 8 / 3 8/ 1 0 8 / 1 7 8 / 2 4 8 / 3 1 9 / 7 9/ 1 4 9 / 2 1 9 / 2 8 1 0 / 5 1 0/1 2 10/19 10/26 11/2 1 1/9 11/16
+
+O Percentage Call Vol CONFIDENTIAL
+
+· Ca l l Requests
+
+DX-4374.012
+
+Apple Confidential APL-APPSTORE 09630825
+
+tvOS Apps Reviewed Summary
+
+New
+
+37
+
+Approved
+
+Apple TV
+
+Update
+
+224
+
+New
+
+30
+
+Rejected
+
+Update
+
+20
+
+Total
+
+311
+
+Total Apps On Store Using In App Purchase (tvOS) Total Apps with Hosted IAP (tvOS) Net Rejections
+
+2,138 20
+1,077
+
+CONFIDENTIAL
+
+DX-4374. 01 3
+
+Apple Cot ~Met ~tI:II APL-APPSTORE 09630826
+
+tvOS Submissions
+By Week through Nov i 6 203 9
+
+355
+
+288
+
+280
+
+275
+
+257
+
+235
+
+240
+
+240
+
+232
+
+248
+
+205
+
+223 211
+
+206 210 202
+
+218
+
+224
+
+186
+
+310 294 299 284
+277
+
+258
+
+263
+
+5/25 6 / 1 6/ 8 6/ 15 6/ 2 2 6 / 2 9 7/6 7/ 1 3 7/ 2 0 7 / 2 7 8 /3 8/ 10 8 / 1 7 8 / 2 4 8 / 3 1 9/ 7 9/ 1 4 9 / 2 1 9 / 2 8 1 0 / 5 1 0/1 2 10/19 10/26 11/2 1 1 / 9 1 1 / 16
+· New · Update
+
+New
+
+Apple TV
+
+61
+
+CONFIDENTIAL
+
+Update
+
+Total
+
+249
+
+310
+
+· Incoming volumesadjusted to account for developer rejections. · T his week's Developer Rejected Rate = r6.9O/Q0 /
+
+DX-4374.014
+
+Apple Confidential APL-APPSTORE 09630827
+
+tvOS Processed
+Hy Week through Nov 3 6, 2039 352
+
+257
+
+239
+
+240
+
+234
+
+245
+
+222
+
+221
+
+213
+
+213
+
+203
+
+204
+
+195
+
+II
+
+183
+
+297 282
+250
+
+311
+
+295
+
+299
+
+296
+
+276
+
+256
+
+254
+
+5/25 6 / 1 6/ 8 6/ 15 6 / 2 2 6 / 2 9 7/6 7/ 13 7 / 2 0 7 / 2 7 8 /3 8/ 10 8 / 1 7 8 / 2 4 8 / 3 1 9/ 7 9/ 1 4 9/ 2 1 9 / 2 8 1 0 / 5 1 0 /1 2 10/1 9 10/26 11/2 1 1/ 9 1 1/1 6
+· Ap p r oved · Rej e c ted
+
+CONFIDENTIAL
+
+Total tvOS Apps on App Store DX-4374. 01 5
+
+10,009
+
+Apple Confidential APL-APPSTORE 09630828
+
+tvOS App Processing SLAs
+By Day through Nov 16, 2019
+
+11/10
+Sunday
+
+11/ 11
+Monday
+
+11/ 12
+Tuesday
+
+11/ 13
+Wednesday
+
+11/ 14
+Thursday
+
+1 1/ 15
+Fnday
+
+1 1/ 16
+Saturday
+
+Average
+
+: i Day 1 00.0% 94.7% 93. 1% 93.4% 9 3 .6% 8 9 .8% 9 0 .6% 92.6%
+
+. - 2 Day i 0 0 .0% 97.4'/0 9 8 . 3'/0 9 6 . 7 % 9 7 . 9 % 93 . 2 % 96 . 2 % 96.6%
+
+100%
+
+80%
+
+1 Day SLA
+
+30 Day Trend
+
+60%
+
+40%
+
+20%
+
+Last Week
+
+2 Day SLA 30 Day Trend
+
+100% 80% 60% 40% 20%
+
+90%
+
+UU UU
+0 00 0
+
+U UU UU
+00 00 0
+
+U Up
+00 z
+
+p
+z
+
+p
+z
+
+)p
+z
+
+p
+z
+
+p
+z
+
+p
+z
+
+z p
+
+z p
+
+zp zp
+
+zp zp
+
+z p
+
+z p
+
+z p
+
+zp zp
+
+)
+zp
+
+ct LA K r co p o
+
+* SLA is shown in calendar days (hours) from app submission (Waiting for Review) to final state (Approved, Rejected, Metadata Rejected). * Calculation: [ ¹apps processed within set hours for the selected day. I total apps processed for the selected day. ]
+
+CONFIDENTIAL
+
+DX-4374.016
+
+Apple Confidential APL-APPSTORE 09630829
+
+tvos TOP 10 Re ected
+By Week through Nov i 6, 203 9
+Top 10 Rejections account for 85% of all rejections
+
+&
+
+· 2. 1 .0 -- Performance: App Completeness · 2. 1 .0 -- Performance: Info Needed 4 5. 2.2 -- Legal: 3rd party TMs · 3. 1 .1 -- Business: In-App Purchase · 3. 1 .2 -- Business: Subscriptions
+· 2.3 . 12 -- Performance: What's New text · 1. 3 .0 -- Safety: Kids Category · 2. 3 .0 -- Performance: Accurate Metadata 4 2. 3.3 -- Performance: Relevant screenshots · 2. 3 .8 -- Performance: Age-appropriate metadata and metadata similarity
+
+CONFIDENTIAL
+
+DX-4374. 01 7
+
+&
+
+h8 &
+Apple Confidential APL-APPSTORE 09630830
+
+macOS Apps Reviewed Summary
+
+macOS Total
+
+Approved Rejected
+
+New Update New Update
+
+100 677 191 240 1,208
+
+Total Apps On Store Using In App Purchase ImacOS) Total Apps with Hosted IAP (macOS) Net Rejections
+
+3,554 14,496
+
+CONFIDENTIAL
+
+DX-4374. 01 8
+
+Apple Confidential APL-APPSTORE 09630831
+
+macOS Apps Submissions
+Hy Week through Nov 3 6, 2039
+
+1,429 1,398 1,347
+
+1,228
+I
+
+911
+
+756
+
+831 792
+
+805
+
+853 778
+
+739
+
+719
+
+967
+
+982
+
+926
+
+847
+
+73'I
+
+782 7 27 7 2 3
+
+759
+
+775
+
+5/25 6 / 1 6/8 6/ 15 6 / 2 2 6 / 2 9 7 /6 7/ 13 7 / 2 0 7 / 2 7 8 /3 8/ 10 8 / 1 7 8 / 2 4 8 / 3 1 9 /7 9/ 1 4 9/ 2 1 9 / 2 8 1 0 / 5 1 0 /1 2 10/1 9 10/26 11/2 1 1 / 9 1 1/1 6
+· New · Update
+
+CONFIDENTIAL
+
+Desktop
+
+New 272
+
+Update 916
+
+Total 1,188
+
+· Incoming volumesadjusted to account for developer rejections. · T his week's Developer Rejected Rate =O9. &2 0/0/
+
+DX-4374. 01 9
+
+Apple Confidential APL-APPSTORE 09630832
+
+macos Apps Processed
+By Week through Nov i 6, 203 9
+
+955 815
+683
+
+751
+
+776
+
+689
+
+827
+
+786
+
+738
+
+729
+
+722
+
+736
+
+728
+
+740
+
+730
+
+I
+
+g ·
+
+I
+
+1,531
+
+1,283
+1,068 994
+877
+
+1,360
+1,249 1 228
+I
+
+5 /25 6 / 1 6/ 8 6/ 15 6/ 2 2 6 / 2 9 7/ 6 7/ 13 7/ 2 0 7 / 2 7 8/ 3 8/ 10 8/ 1 7 8 / 2 4 8 / 3 1 9/ 7 9/ 14 9/ 2 1 9 / 2 8 1 0 / 5 1 0 / 1 2 1 0 / 19 10/26 1 1/ 2 1 1 / 9 1 1 / 1 6
+· Ap p roved · Rej e c ted
+
+CONFIDENTIAL
+
+Total macOS Apps on App Store DX-4374. 020
+
+27,240
+Apple Confidential APL-APPSTORE 09630833
+
+macos Top 30 Re ected
+By Week through Nov i 6, 203 9
+189
+Top 10 Rejections account for 84% of all rejections
+
+63
+
+62
+
+· 2 .1 . 0 -Performance: App Completeness · 4. O .O-Design: General · 2 . 4 . 5 -Performance: Mac requirements · 2 .5 . 1 -Performance: API Usage · 2 .1 . O -Performance: Info Needed · 5 .2 . 5 -Legal: Apple products · 2 .3 . 8 -Performance: Age-appropriate metadata · 4 .3 . O -Design: Spam g 2. 3.O-Performance: Accurate Metadata · 4 .1 . O -Design: Copycats
+CONFIDENTIAL
+
+42
+& W m aa~
+
+DX-4374. 021
+
+Apple Confidential APL-APPSTORE 09630834
+
+macOS App Processing SLAs
+By Week through Nov 16, 2019
+
+, i Day
+
+11/10
+Sunday
+
+11/ 11
+Monday
+
+11/ 12
+Tuesday
+
+11/ 13
+Wednesday
+
+11/ 14
+Thursday
+
+1 1/ 15
+Fnday
+
+1 1/ 16
+Saturday
+
+Average
+
+8 3 . 8 % 92 . 3 % 93 . 8 % 95 . 4 % 90 . 6 '/ 0 9 5 . 7 % 9 3 . 9 % 92.5%
+
+2 Day 90.0% 9 2 .9% 9 9 .0% 9 6 .9% 9 5 .3% 9 6 .7% 9 8 .0% 95.7%
+
+100%
+
+80%
+
+1 Day SM
+
+60%
+
+30 Day Trend
+
+40%
+
+20%
+
+Last Week
+
+100%
+
+90%
+
+80%
+
+2 Day SLA
+
+60%
+
+30 Day Trend
+
+40%
+
+20%
+
+v +v
+
+v +v
+
+v
+
+v
+
++v
+
+v
+
+v
+
+v
+
+v
+
+p
+z
+
+p
+z
+
+p
+z
+
+p
+z
+
+p
+z
+
+p
+z
+
+p
+z
+
+p
+z
+
+z0
+
+0 Z
+
+cn w C co 0 co
+
+0 00 00 0 00 0 ZZ ZZ Z ZZ ZZ
+ct cn w c co 0
+
+* SLA is shown in calendar days (hours) from app submission (Waiting for Review) to final state (Approved, Rejected, Metadata Rejected). * Calculation: [ ¹apps processed within set hours for the selected day. I total apps processed for the selected day. ]
+
+CONFIDENTIAL
+
+DX-4374. 022
+
+Apple Confidential APL-APPSTORE 09630835
+
+TestF ight Apps Submissions
+Hy Week through Nov 3 6, 2039
+
+40,462
+
+39,140
+
+38,388 38 064
+
+36,715
+
+37,233
+
+38,352 38,609 37,707 36,477 364gg
+
+41 gg8 41,266 40,275 39 972 40,169 38,544
+
+35,201
+
+33,443
+
+44 207 44,695
+
+44 497 44,729
+
+42,283
+
+42,449
+
+I I
+
+· J
+
+I I I ·
+
+·
+
+II
+
+g
+
+'
+
+·
+
+·
+
+I I
+
+S I
+
+' ·
+
+I · S
+
+5/25 6 / 1 6/ 8 6/ 15 6/ 2 2 6 / 2 9 7/6 7/ 1 3 7/ 2 0 7 / 2 7 8 /3 8/ 10 8 / 1 7 8 / 2 4 8 / 3 1 9/ 7 9/ 1 4 9 / 2 1 9 / 2 8 1 0 / 5 1 0 /12 10/19 10/26 11/2 1 1 / 9 1 1 / 16
+· Sub m itted to Review · Au t o-approved
+
+CONFIDENTIAL
+
+DX-4374. 023
+
+Apple Confidential APL-APPSTORE 09630836
+
+TestF ight Apps Processed
+Hy Week through Nov 3 6, 2039
+
+20,295
+
+19,378 1 7,766
+
+18,785
+16,944 16,222
+
+17,813 17,339
+
+17,552 16,511
+
+19,704
+
+18,271
+
+16,818 16,231
+
+16,600
+I ·
+
+19,636 19 382 19,647 19,621
+
+19 439 19,657
+
+18,885
+
+15,577
+
+15,159
+
+14,476
+
+13,779
+
+5/25 6 / 1 6/ 8 6/ 15 6/ 2 2 6 / 2 9 7/6 7/ 1 3 7/ 2 0 7 / 2 7 8 /3 8/ 10 8 / 1 7 8 / 2 4 8 / 3 1 9/ 7 9/ 1 4 9 / 2 1 9 / 2 8 1 0 / 5 1 0 /12 10/19 10/26 11/2 1 1 / 9 1 1 / 16
+· Ap p r oved · Rej e c ted
+
+CONFIDENTIAL
+
+DX-4374. 024
+
+Apple Confidential APL-APPSTORE 09630837
+
+TestF ight Top 30 Reected
+By Week through Nov 3 6, 203 9
+1,882
+Top 10 Rejections account for 94% of all rejections
+
+33
+
+28
+
+26
+
+24
+
+· 2. 1 -- Performance: App Completeness
+· 2. 3 . 1 -- Performance: Accurate Metadata
+· 5. 1 . 1 -- Legal: Privacy -- Data Collection and Storage · 4. 2 -- Design: Minimum Functionality · Other· 4 -- Design: Preamble
+· ASI Rejection · 2. 5 .4 -- Performance: Software Requirements · 1. 2 -- Safety: User Generated Content · 3. 2 .Z -- Business: Other Business Model Issues -- Unacceptable
+
+CONFIDENTIAL
+
+DX-4374. 025
+
+13
+
+12
+
+Apple Confidential APL-APPSTORE 09630838
+
+TestF ight App Processing SLAs
+By Week through Nov 16, 2019
+
+, i Day
+
+11/10
+Sunday
+
+11/ 11
+Monday
+
+11/ 12
+Tuesday
+
+11/ 13
+Wednesday
+
+11/ 14
+Thursday
+
+1 1/ 15
+Fnday
+
+1 1/ 16
+Saturday
+
+Average
+
+9 8 . 6 % 98 . 5 % 9 8 . 9 % 97 . 5 % 96 . 6 '/ 0 9 3 . 9 % 4 7 . 9 % 90.3%
+
+2 D ay 99. 6% 98. 7% 99. 8% 99. 5% 99. 6% 99. 4% 99. 0% 99.4%
+
+100%
+
+80%
+
+1 Day SM
+
+60%
+
+30 Day Trend
+
+40%
+
+20%
+
+Last week
+
+50%
+
+100% 80%
+2 Day SLA 60%
+30 Day Trend 40%
+20%
+
+oo o o
+
+o o
+
+o o
+
+o o
+
+00 0 00 00 0
+
+d o
+
+Pl r n c' P LA 'o
+
+Pl Pl
+
+Pl P l Pl
+
+0000
+
+O
+
+Pl Pl
+
+M
+
+0 00 0 00 0 00 0 00 0 ZZ Z ZZ Z ZZ Z ZZ Z Z
+ct lh
+
+* SLA is shown in calendar days (hours) from app submission to beta review (Waiting for Beta Review) to final state (Approved for Beta,
+
+Rejected Complete for Beta). * Calculation: [ ¹apps processed within set hours for the selected day. I total apps processed for the selected day. ]
+
+CONFIDENTIAL
+
+DX-4374. 026
+
+90%
+00 0 ZZ Z
+Apple Confidential APL-APPSTORE 09630839
+
+DX-4374. 027
+
+RE 09630840
+
+Carrier Apps
+
+C OHFNM $ 5 C I W I N W
+T-Mobile CallerTunes
+3.1. 1,Carrier. T-Mobile fUSAJ. Update. Ringback tonelmusic service. Users set up music 8rstatus message to play when callers on hold. It requires subscription with carrier billing to use theapp.Users can also subscribe in the app. Members get 2 credits every month toconsume. Although ringback tone isa carrier carveout, can users subscribe in the app without IAP? Free on Android. Platform: iOS (iPhone) Rating: 12+ Audience: United States App Genre: Music Developer. T-Mobile USA, Inc. Price: FREE
+Give your callers more than just a ring! Manage your T-Mobile CallerTunes® ringback service. Play music and status messages to your callers while they wait for you to answer the phone. Choose from thousands ofyour favorite songs to play for your callers or create custom status messages. CallerTunes Powered by LISTEN subscription includes: Music; Play music or status messages from our robust catalog of your favorite artists and genres. Record Your Status: Create your own 30 second voice status message to play to specific callersPersonalization: Enable special songs to play on holidays or special occasions -- -like Mom's birthday. Location: Automatically set a status message to play to callers based on your geographic
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 028
+
+Apple Confidential
+APL-APPSTORE 09630841
+
+Notable
+
+HUAWEI PWP2
+
+II +
+
+2
+
+HUAWEIM I %PI
+l8 I 5
+
+I
+
+I I 8
+
+C 33
+D
+
+Ill I P l MP37 OSIS 3
+32
+
+I A 5 3 MS OV S 3
+
+I h OO
+5
+A hM
+
+10:32 3 OM
+
+.OM~
+
+M OO
+
+OV I O Olh h i PI
+
+·+& I
+
+WVOC I
+
+WOIS PSCS
+
+.®
+
+Huawei -Vmall.corn
+
+Gmail -- Email by Google
+
+Screenwise Meter
+
+City insights by Google Maps M ic r o soft Remote Desktop
+
+2.3.10, Huawei. Update. Store for Huawei products, including mobile devices. Free on Android.500k-1m downloads since4/2019.
+
+40, Google. Update. When composing 5.1. 1, Google. Update (IDFA). App for
+
+an email, users can attach Photos, market researchprogram. Works w/
+
+files from Google Drive, or money from Google-providedhardware, router,8
+
+GPay. However,itdoes not have any TV meter to monitor & collect
+
+way to add files from i Cloud Drive or information on TV viewing habits8
+
+Files. Initially discussed wldev 3/2018 internet traffic. Update collects IDFA
+
+and promised byEOY2019, but has from monitored devices to identify
+
+come offproduct roadmap. 370m
+
+which Google ads user has seen. Free
+
+downloads since2/201 1. Free on
+
+on Android.
+
+Android.
+
+Google. App aggregates local traffic Microsoft. Update (UI 8 icon). Remote
+
+information into a format that can be desktop. Users can connect to PC
+
+used for on-air personnel to customize running Windows Professional or
+
+and present traffic report segments Enterprise8 Mlindows Server. Adds
+
+forincorporation into their local news new Ul, but functionalityis same. Free
+
+broadcasts. Service is free for
+
+on Android.
+
+participating broadcasters. No third
+
+party domain traffic or technical
+
+concerns are seen. Not on Android.
+
+Platform: iOS (iPhone) Rating: 17+ Audience: World App Genre: Shopping Developer. Huawei Device Co,. LTD Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Productivity Developed Google LLC Price: FREE
+
+1. Shop anytime, anywhere-Popular goods and The official Gmail app brings the best of Gmail
+
+mobile phone purchases are more convenient;- to your iPhone or iPad with real-time
+
+Order status in your hand2. Wonderful
+
+notifications, multiple account support and
+
+activities and rights-Gift package for new
+
+search that works across all your mail. With the
+
+users: special benefits for new users-Member Gmail app,you can: Undo Send, to prevent
+
+privileges:coupons, points, sweepstakes, perks
+
+embarrassing mistakes Switch between multiple accounts Get notified of new mail
+
+fast, with notification center, badge and lock
+
+screen options Search your mail faster with
+
+instant results, predictions as you type II amp;
+
+spelling suggestions Swipe to archive/delete,
+
+to quickly clear out your inbox Read your mail
+
+with threaded conversations Auto-complete
+
+contact names as yau type fram your Google
+
+contacts or your phone Respond to Google
+
+Calendar invites right from the app Organize
+
+your mail by archiving, labeling, starring,
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: France, United Kingdom, United States App Genre: Utilities Developer: Google LLC Price: FREE
+The Screenwise Meter iOS app enables registered panelists' participation in Google's meter-based market research programs. A panelist is a member of a recruited group of people who have opted to participate in Google research and have consented to install meters and share their internet usage with Google. In return for their participation, panelists receive rewards. When a panel includes physical meters, like Router Meters or TV Meters, this app helps panelists interact with those meters. For example, the app handles checking in to the router meter, so
+panelists won't be interrupted when they connect to Wi-Fi at home. It may include a TV Meter Remote so panelists can check in and
+
+Platform: iOS (iPad) Rating: 4+ Audience: World App Genre: News Developer: Google LLC Price: FREE
+City Insights by Google Maps empowers newsroom personnel and on-air talent to rapidly author and present compelling live traffic report segments for incorporation into their local news broadcasts.its features include: Live traffic and road incident data by Google Maps Intuitive autharing environment for selecting a city's key major roads and intersections, and incorporating them into the broadcast Custom labeling with familiar local place names Accommodatesforegrounded presenters on-air Supports on-air content display in local languages Configurable safe area for broadcast output High-definition video output via AirPlay or Lightning Digital AV AdapterCity Insights by Google Maps is available for free to participating broadcasters.
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Business Developer: Microsoft Corporation Price: FREE
+Use Microsoft Remote Desktop for iOS to connect to a remote PC or virtual apps and desktops made available by your admin. With Microsoft Remote Desktop, you can be productive no matter where you are. GET STARTEDConfigure your PC for remote access using the information at https://aka.ms/rdsetup.Learn about our other Remote Desktop clients at https://aka.ms/rdclients.KEY FEATURES. Access remote PCs running Windows Professional or Enterprise and Windows Server. Access managed resources published by your admin.Connect through a Remote Desktop Gateway. Rich multi-touch experience supporting Windows gestures.. Secure connection to your data and
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 029
+
+Apple Confidential
+APL-APPSTORE 09630842
+
+Notable
+
+2 33
+
+'W ~
+
+t%CI
+
+- IO~ C
+~ =:JI
+d'Ezu?tt
+
+1333
+
+AEEhttdk 3
+
+'3 3%'
+Q
+
+3 ECR
+
+Add~
+
+I -EE IIEEE VOYOCEE- Ktttkdkdk 3
+
+0
+
+Lineage 2M(19)
+NCSOFT. High quality MMORPG game. Offers IAP consumables to buy items (one-handed sword, weapons, other accessories) and packages of Diamonds (120/$2.99-4,000/$94.99). Diamonds areused topay for additional accessories during gameplay. Free on Android.
+
+Onmyoji Chess
+
+Q Sound 6aby-Early education Kaspersky Passwords 8 Docs
+
+magic tools
+
+NetEase. Chess game. Users draw
+
+Tencent.App has educational games, Kaspersky. Update (bug fixes).
+
+Onmyoji fantasy game characters to songs and stories for kids. Parents Password manager service. Users can use them in the game when playing can set up playing time in the app to store passwords8 other data such as
+
+against other players. Has
+
+limit the use. Users need to login with addresses,bank cads,8 files.Service
+
+consumable IAP ($0.99/60jade-
+
+I/I/eChat. Content is free and app does syncs across devices. First 15entries
+
+$99.99/6480jade) that buys loot boxes not use iAP. Not on Android.
+
+are free and users buy NRS IAP
+
+and outfits. Free on Android.
+
+($14.99/yr) for unlimited entries. Free
+
+on Android.
+
+Platform: iOS (iPhone, iPad) Rating: 17+ Audience: Korea App Genre: Games Developer. NCSOFT Price: FREE
+? game introduction?All Time No.1 graphic 2age and beyondthe boundaries ofthe platform'?the best visual" from theexisting top full 3D graphics,mobile's most beautiful
+visualOne-channelseamless open world"The huge seamless? open world" real worldexperience in the world of one and the same,'?all play in a real worldcomplete the panel about mmorpgs stick,"Write Back" [World] village based on a panel about mmorpgs's hunting-specific features/more beautiful while maintaining the reconfiguration[31] as well as the original class classes that the existing new class emerging[battle] strong and weak can resist the emphasis upon the completion of the battle.'?? Lineage 2 official community: 1. The
+
+Platform: iOS (iPhone, iPad)
+
+Platform: iOS (iPhone)
+
+Rating: 9+
+
+Rating: 4+
+
+Audience: Taiwan App Genre:Games
+
+Audience: China App Genre: Education
+
+Developed LONG E CO., LTD.
+
+Developer: Tencent Technology
+
+Price: FREE
+
+(Shenzhen) Company Limited
+
+Price: FREE
+
+IOnmyojiChess" is based on the 20nmyoji 2 IP
+
+as the original turn-based strategy board
+
+QQ music is an official product. It is purer
+
+game, the style of Godlike, fingertips. Eight without advertisement and focuses on creating
+
+players play against each other, and the
+
+high-quality children's content. Select
+
+strategy matches God chess, and they will win hundreds of thousands of voices, provide rich
+
+at the last moment. The game continues the music enlightenment and diversified story aesthetic and style of 20nmyoji", on the basis exploration for 0-6-year-old babies. -- Product
+
+of retaining the original safe era, a variety of highlights -- [massive stories] Chinese and
+
+chessboard styles are replaced. Global players English children's songs, classic children' s
+
+gather here and win the game in the game.2D stories for free, enlighten children's language
+
+element style Onmyoji IP seriesAs the
+
+expression ability and logical thinking ability.
+
+20nmyoji 2 IP series works, the game continues [age based recommendation] create
+
+the beautiful Japanese style. Each type of god personalized audio content for babies
+
+has its own unique skill design. In this world of according to their age, covering pregnant and
+
+dreams, the gods will be transformed into
+
+0-6-year-old children. [parents setting] parents
+
+pieces and fight under the command of the manage the broadcast time, which is easy for
+
+player. Free combination of multiple
+
+children to accept, prevent addiction, and help
+
+Platform: iOS (iPhone, iPad) Rating: 17+ Audience: World App Genre: Productivity Developer:Kaspersky Lab UK Limited Price: FREE
+Kaspersky Password Manager securely stores
+your passwords, addresses, bank card details, private notes and images of confidential documents, like your passport and driver' s license, and syncs them across all your devices -- giving you faster access to your online accounts, apps and important information.Key features:-KEEP YOUR PERSONAL DATA UNDER LOCK &amp; KEYSecure your passwords, addresses, bank card details, private notes and images of important documents in an encrypted vault only you can unlock.-ACCESS YOUR STUFF MORE EASILY THAN EVERUnlock your vault with a master password not even Kaspersky knows. Plus access everything in double-quick time using Apple Face ID or Apple Touch ID*.-
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 030
+
+Apple Confidential
+APL-APPSTORE 09630843
+
+Business Model
+
+lit'51
+
+, ·
+
+5
+
+I H CI 0 0
+
+t I < --@,+stsislNttS@><
+
+~xlf
+
+C7
+
+h+
+
+I
+
+Kim Lang Alliance
+3.1.1. Update. Coupon creation platform. Businesses use this app to generate coupons fortheir products. When customers usethe coupon in their physical stores, the businesses are charged a convenience fee. Should this use IAP? Not on Android. Less than 10k dovvnloads since 6/2019.
+
+Platform: iOS (iPhone, iPadl Rating: 17+ Audience: World App Genre: Business Developer. Shanghai Ji Yong Information Technology Co., Ltd. Price: FREE
+Kim Lang Alliance is a business development platform for beauty industry. This platform is created by the founder of a well-known spa brand Rubis?, for the purpose of expanding our customer base.?This plaffom?s operation is based on Rubis?s 20-year of successful experinece such as store operation, business development, internet technology, etc. We create a new busienss model of?combining social networking and business development, to help business oweners from beauty industry to get more customers and more sales commissions, to build a high quality ecosystem for business development.?
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 031
+
+Apple Confidential
+APL-APPSTORE 09630844
+
+Business Model In-App
+
+Professional Level
+Subscription
+Start working with our career growth coacheswho'se helped members land joBs at companies like Apple, Amazon,
+& Nvsa
+
+&24.99 monthly
+
+&199.99
+annually
+
+·I
+
+·
+
+Work lt Daily
+
+OxWarriors
+
+3.1.2. ARB-escalated. Update. Career 3.1.1. Update fconsumable IAP). Battle
+
+education platform. Users can
+
+arne. Adds consumable IAP flu?4.99-
+
+subscribe to access multiple video
+
+9.99) for loot boxes w/ equipment 8
+
+courses in auto-renewable
+
+skillupgrades. Users can unlock
+
+subscription packs or subscribe to the same, previouslypurchased items via
+
+course individually. Individual courses crypto wallet. Free on Android. Less
+
+are submittedin generic IAP SKUs as than 10k downloads since 7/2019.
+
+there are 1k+ courses available. Free
+
+on Andrci.
+
+Platform: iOS (iPhone) Rating: 12+ Audience: World App Genre: Social Networking Developer. Blue Kilowatt, LLC Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Games Developen OxGames Limited Price: FREE
+
+As the ¹1 online career growth club, Work It Daily helps people all over the world achieve career happiness, affordably and conveniently. Members land their dream jobs while connecting with like-minded professionals to create a long-lasting network. When you join Work It Daily, you can:+ Access to our private online club, which includes quick video courses, 1-on-1 chats with career growth coaches, and networking opportunities with like-minded professionals to help you stay motivated and accountable.+ Get answers to your questions, personalized feedback, and resume, cover letter, and Linkedln profile reviews. Whatever you' re working toward in your career, our career growth coaches will be there for you, every step of the way.+ Connect
+
+OxWarriors is a multiplayer RPG that lets
+players manage squads of up to five warriors and equip them with hundreds of unique weapons and armor. Each warrior can be customized to have an original style and skillset.Level up and gear up to create your own epic squad to dominate the combat arena and profit from trading ingame items!Game Features: --5x5 online battles- Tons of unique equipment, skills atmp; abilities- Variety of win strategies- Online TournamentsFacebook: fb.corn/Oxwarriors
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 032
+
+Apple Confidential
+APL-APPSTORE 09630845
+
+Objectionable Content
+
+EIS M STREAK
+
+0
+
+18
+1 19.
+
+ONLY 72· y 2 2 h 41 4E RE M A«MIND
+
+REST Oa y
+
+ATTEMPTS 1 I
+
+PRONESS
+
+OM
+
+I ER
+~h O'W'g
+
+ORO I w
+
+f rr D
+
+;)q OI
+
+Ey
+
+'tn k y PMD M
+
+nM toklng thl s louuy enough.
+
+· t«
+
+m df: Streak based wallpapers Opt i m u m
+
+1.1. App for users to track number of days they have gone without masturbating.App references MIVoFapMmovement intended for quitting porn addiction. For every day user goes without breaking their
+streak, app rewards user with a motivational wallpaper. Icon is an
+erupting volcano 8 marketing has masturbationslang. Free on Android.
+
+1.1.4. Update (bug fixes foriOS 13). Video streaming service for existing Optimum cable subscribers. Includes
+an Adult on demand section (displays error message) and Playboy TV (softcore porn). Has parental controls for ratings, channels, content types, or specific titles. Free on Android. 2.5m
+downloads since8/2010.
+
+Platform: iOS (iPhone, iPad) Rating: 17+ Audience: World App Genre: Lifestyle Developer. Omkar Bojjawar Price: FREE
+
+Platform: iOS (iPhone) Rating: 4+ Audience: Llnited States App Genre: Entertainment Developen CSC Holdings, Inc. Price: FREE
+
+It's easy. All you have to do is to abstain from Optimum customers can watch live TV on their
+
+PMO i.e Porn, Masturbation and Orgasms for iPhone/iTouch from any room in their home.
+
+rewiring your brain and a complete reboot of Each ofthese devices can also be used to
+
+your lifestyle.ln this life transforming journey of playback On Demand rentalsor as a TV
+
+yours, we are glad to be your companion, who remote control. iPhone and iPod also make it
+
+will motivate and guide you along the way.
+
+easy as ever to search, browse and record TV
+
+After every successful day of no PMO, you will shows on DVR.App Features:Live TV and On
+
+be rewarded with a new wallpaper as token of Demand Watch all of your channels Live.
+
+your streak which we expect you to set as your Quickly access 'What's On Now'· Use the in-
+
+background with pride.But there's only one app keypad to tune directly to the channel you
+
+rule that if, in case, you fail to abstain from P, want Browse Movies On Demand, Free On
+
+M or 0; you will have to hit 'Relapse' button Demand, and Subscription On Demand
+
+and reset your streak, but this time with more categories Get a list of more titles like the one
+
+stronger will than ever before. That's it. See you have highlighted Rate a title or series
+
+you in the next realm........(you may
+
+which helps make our recommendations for
+
+neglect)keywords:man dont fap, streak, no pmo, nonutnovember, porn free challenge,
+
+you even more accurate Get recommendations of programs that are geared
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 033
+
+Apple Confidential
+APL-APPSTORE 09630846
+
+Current Events
+
+M., 0
+
+0
+
+I d d~
+
+~
+
+N M d M ' '0
+
+y My
+
+NNNPI lt
+
+IN
+
+~
+
+g
+
+MM
+
+'P M
+
+0 dJ 0
+
+IN MNNN
+
+INNNN N M P
+
+I g Ng
+
+IMP
+
+0
+
+P NNNP ~ N I N
+
+N
+
+g~
+
+yg
+
+ly
+
+' I I
+
+0
+
+d IM
+
+P0
+
+4 !
+Ill lilililil ill
+
+IIIINleII
+· g
+
+N ·
+· NNNNNP. PNNJNM t d M · N--NNNNNNNPN · IPM ~
+
+N
+
+N M
+
+ggd g g d y M d ,
+
+MM
+
+g NN M * NN NN M NN NN M N·
+
+4
+
+We Gov -- The people governs
+42. Survey app dedicated to the protests in Lebanon.App has list of questions of what the Lebanese people demand and expect from the protests. Once user select an option, app displays the results. Retrieving stolen money and putting politicians responsible in jail got the highest votes. Dev is not working with any political group or organization. GA recommends approval. Not on
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Social Networking Developer. TecFrac SAL Price: FREE
+
+EU t o p ia
+1.1. TestFlight. By HK company as social platform for users to voice opinions. Primarily includes usergenerated content (text & photos) on police brutality 8 negative sentiments vs police. Other: opinions vs recent legislation (e.g. Anti-Mask law, repost of image from Apple Daily). Has reporting, but not blocking. Per GA, only evaluate App Store submissions. Free on Android.
+Platform: iOS (iPhone, iPad) Rating: n/a Audience: n/a App Genre: n/a Developed EUtopia Labs HK Limited Price: n/a
+
+KOReplace-Find out
+
+6lack cop-killer
+
+replacement items before
+
+1.1. App has list of Japanese brands 1.1. Game wl famous dog from -2010s
+
+and companies. lt includes basic info Chilean university protests. Despite
+
+on these companies and list of
+
+name, dog is a symbol for soft
+
+alternative non-Japanese brands for users to shop. Users can also scan barcodes to learn about
+
+approach of movement for current
+Chileanprotests.Dog character barks to prevent block-shaped policemen
+
+goodslcompany.App has no reference from taking away protesters in to boycott Japan.All the contentin intersection of street. GA
+
+the app is pre-populated and
+
+recommends approval. Free on
+
+continuously updated by the dev. GA Android.
+
+recommends consistent review for
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Utilities Developer: Dong Yeong Kim Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 9+ Audience: World App Genre: Games Developer: Nemoris SpA Price: FREE
+
+The goal of?WE GOV --The people govern'? is obtaining the opinion of the people regarding political and social issues. Opinions and statistics belong to the people and are available to the public. The app?WE GOVThe people govern? is not affiliated at all with any party or ideology/group.
+
+This is basically the first version so test the
+
+If you' re hesitate to buy a product, You can
+
+following: --App usability (unclickable buttons, find out the replacement item. App has added
+
+red/black screens, unexpected behaviour, etc)- barcode scanning feature to verify product?s
+
+Messaging feature (text messages, voice
+
+country of origin. The app is free to use and
+
+messages, photos)- User experience (button size, missing translations, low contrast, etc)
+
+continues to renew the database with the addition of users.(br class= t Apple-
+interchange-newlinet >
+
+Controls the mythical Black Dog Matapacos,
+protects your friends and make your enemies to flee, takes to the streets and join the demands of the people. Please do not hesitate to use the button of "Super barking" to generate a shockwave of deterrence. Matapacos black is a tribute to those who are struggling day by day and also a recognition to the puppy that has become the emblem of the social movement in Chile. Feel the adrenaline of leading a crowd!
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 034
+
+Apple Confidential
+APL-APPSTORE 09630847
+
+Legal
+rendrmndntan 0hdh 1303 133 01 Hddermen 1033-00-01
+Wlnnhhnlme Idn
+Sttttdthmm r Wmnnllphn tnn neth.' Ahnnnent:
+
+Share Incident 0 rem I tt~
+I nde n el d n t t
+
+WET WWW h
+
+InfoTorg
+
+Mr Checkpoint
+
+WV: Fanouel Sportsbook
+
+Fanouel Sportsbook -- 6etting
+
+3.1. 1, 5.1.2. Update. Users look up info 5.0, 5.1.2. Update. Users report and 5.3.4.Update. Real money sports
+
+5.3.4.Update indiana 8 Pennsylvania).
+
+on companies, individuals, cars8 legal rate interactions with police to
+
+betting for West Virginia. Geo-
+
+Real money sports betting for New
+
+cases by entering certain data. It
+
+independent database. Dev has
+
+nestricted, salable to US only, rated Jersey,Pennsylvania, 8tIndiana.Geo-
+
+displays list of info about searched monitoring of user generated content 17+, 8 dev provided gaming license for restricted, salable to US only, rated
+
+entitylcontentl such as, address,
+
+and state they have support of police West Virginia. Free on Android. Less 17+, 8 dev provided gaming license for
+
+phone no, name, court rules, etc. App departments and nonprofits, but is not than 10kdownloads since 8/2019.
+
+IVew Jersey,Pennsylvania, 8 Indiana.
+
+pulls the data from several agencies. officially affiliated. Users can also
+
+Free on Android. 500k-1m downloads
+
+Dev charges for each search and the search the database for prior reports
+
+since 8/2018.
+
+bill is sent to user monthly outside of of officers,badge numbers, or
+
+the app. Free on Android. 10-50k
+
+departments.Free on Android. No
+
+downloads since 7/2011.
+
+downloads since 8/2019.
+
+Platform: iOS (iPhone) Rating: 4+ Audience: Denmark, Finland, Iceland, Norway, Sweden App Genre: Business Developer. Bisnode Sverige AB Price: FREE
+NOTE! This App is only available to companies and organizations that are customers of Bisnode. It is free to download but costs per search, just like Bisnodes, the web service InfoTorg.You can search for facts about companies, people and vehicles. Directly on the phone. The cost of searches in the App follows Bisnode's regular price list.Bisnode's information helps companies, organizations, municipalities and county councils to evaluate target groups, create effective customer
+
+Platform: iOS (iPhone)
+
+Platform: iOS (iPhone, iPad)
+
+Rating: 12+
+
+Rating: 17+
+
+Audience: Developer removed from sale Audience: United States
+
+App Genre:Lifestyle
+
+App Genre. Sports
+
+Developed Mrcheckpoint Foundation Developer: FanDuel Limited
+
+Price: FREE
+
+Price: FREE
+
+The Mr. Checkpoint app now covers the whole West Virginians! Kick-off the upcoming 2019
+
+United States allowing users to upload
+
+football season right by downloading the West
+
+information of police regarding police alerts Virginia Sportsbook app today! Bet all your
+
+and information. People nearby receive push favorite teams year round! Register today for
+
+notifications to encourage
+
+FREE to legally bet on all your favorite sports
+
+responsibility. Because we encourage everyone -- including the NFL, College, and West
+
+to Always Film The Police and social media Virginia football. Year round we offer odds
+
+can be manipulatedand censored, we have boosts across all the major sports like NBA,
+
+decided to build an independent database. The College Basketball, Major League Baseball,
+
+database is for the public and allows anyone at NHL and more. Cashing out your winnings is
+
+anytime to search a particular officer, badge lightning fast, and you' ll get the same
+
+number, or department. The public can then convenience,safety,and securityyou've come
+
+Platform: iOS (iPhone, iPad) Rating: 17+ Audience: United States App Genre: Sports Developer: FanDuel Limited Price: FREE
+FanDuel Sportsbook is officially LIVE in Pennsylvania, New Jersey, and now Indiana! Get through the winter sports calendar with the FanDuel Sportsbook App! In addition to major leagueslikethe NFL, NBA, MLB and NHL, users can take advantage of our in-game betting offers, same game parlay feature, and boosted event odds today! Sign up to bet all your favorite teams year-round with the FanDuel Sportsbook app. Register today for FREE to legally bet on all your favorite sports -- including pro and college football,
+
+registers, avoid financial risks and find new customers. The application provides you with, among other things, population registration information, credit information and information on everything from bankruptcies and board
+
+view and rate the shared incidents 1 -5 stars. The app will share United States constitutional rights and laws. We want to use it as a tool to educate and empower the public. Lastly, if you are needing a trusted and
+
+to expect from FanDuel. You decide what to basketball, baseball, hockey, and more!
+
+put your money on, including live in-game
+
+Cashing out your winnings is lightning fast, and
+
+wagering, cross-sport parlays, futures, teasers, you' ll get the same convenience, safety, and
+
+round robins, numerous prop bets, and
+
+security you' ve come to expect from FanDuel.
+
+more!With FanDuel Sportsbook, getting started You decide what to put your money on,
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 035
+
+Apple Confidential
+APL-APPSTORE 09630848
+
+Kids
+KidHQ
+1.3, 4.2.2. Kids category. Age band (6tr). Interactive videos to leam about toys. ylfalmart Toyiab allows kids to add toys to "toy report" 8 Barbie section allows to "heart" toys. Those are presented as wish lists for parents in gated area to email or link out to Safari to buy from fNalmart website. Repeatedly states, "This is advertising." is marketing concept ok'? Not on Android. Platform: iOS (iPhone, iPad} Rating: 4+ Audience: World App Genre: Entertainment Developer. JBF Interlude Ltd. Price: FREE
+KidHQ is a free, interactive app where kids can test out all the newest and most exciting toysl Using the Fun-o-vator, travel through KidHQ, a magical place with floors upon floors of different worlds to play in and characters to meet. You can become an official Toy Tester in the Walmart ToyLab, "unbox" and play with each of the top-rated toys, add your favorites to your Toy Report, or hang out with Barbie and her friends to collaborate on the latest episode of Barbie's vlog. Coming soon, even meet Santa himself! KidHQ is fun for families too, and brings convenience to holiday shopping. Qn the "grownups only" floor (or over email}, you' ll be able to see which toys your kids liked best.Kid HQ features: - Endless unboxing and playtime in the Toytab with 20
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 036
+
+Apple Confidential
+APL-APPSTORE 09630849
+
+Other
+
+( Sd firn
+
+as
+
+Guide
+
+s ·
+
+-'*
+4
+
+I d dl ada I
+
+f a
+
+s
+
+~
+
+c c ie
+cl s le
+
+d ~
+
+df
+
+ca c
+
+a cl ~
+
+aai
+
+Wyla d
+
+Item Not Available
+The item you' ve requested Is not currently available in the U.S. Store, but it isavailable in the New Zealand Store. Tap Change Store to view this
+item.
+Cancel Cha n ge Store
+
+User Permission
+tace tiueusihoweaafevcumust haedchficatci ssewicese aeied
+Te a he
+
+1 day 1 a
+
+Kid- E- cats circ U s Animal
+
+DevSwitch
+
+CARTA Browser
+
+Game
+
+5.1.4, 2.3.ILUpdate (bug fix). Game w/ 2.5. 1, 45.1. App for users to view apps 2.5.1.Update (bug fix). Browser app.
+
+cat characterintended foryounger
+
+on different storefronts. Thisis done Supports Web Bluetooth by
+
+audience. Requires age. Is analytics by usingpubliciTunes URLs 8
+
+connecting Bluetooth devices to
+
+usage for the app acceptable? Free on displaying each page. Target audience webpage via browser. Web Bluetooth
+
+Android. Less than 10k downloads is devs. Not on Android.
+
+not cun ently supported by Safari. Not
+
+since 11/2019.
+
+on Android. Less than 10k download
+
+since 10/2019.
+
+WeSafe App
+45.4. ARB-escalated. Update. Community safetyapp. Users can see reports8 alerts of events happening in their neighborhood. Users cannot access any app functionality unless they have allowed Push Notifications 8 Critical Alerts. Do Critical Alerts have similar requirements as Push Notifications? Not available on Android.
+
+bickr
+1. 1, 1.4.5. Intended for users to debate on any topic by setting up an "arena" of fighters, topic,8 duration (1 dayinfinite). Debate occurs wlin appin text form 8 can be public or private. Any spectator can view public debates 8tupvoteldownvote an argument. Has blocking 8 reporting. Free on Android.
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Games Developer. DevGame OU Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre:Reference Developed Sunya Limited Price: 82.99
+
+Platform: iOS (iPhone, iPad) Rating: 17+ Audience: World App Genre: Utilities Developer: PRESTON DAVIS Price: FREE
+
+Platform: iOS (iPhone) Rating: 4+ Audience: India, United Kingdom App Genre: Lifestyle Developer:WESAFE LIMITED Price: FREE
+
+Platform: iOS (iPhone) Rating: 17+ Audience: United Kingdom App Genre: Social Networking Developer: William Morrison Price: FREE
+
+Join Kid-E-Cats in their new adventure -- a
+
+DevSwitch is the best way for developers to
+
+Circus Shawl Print out some posters
+
+view their apps in multiple regions. Easily
+
+announcingthe show, choose a friend to come check for features, ranks and more.-- Search
+
+with you and hop on the train that will take you for your own apps and bookmark them for
+
+to the circus field. Be careful on your way and quick access.-- Quickly switch regions to view
+
+help the kitten overcome all obstacles that
+
+ranks and features around the world.-- Use Siri
+
+might appear on the road. Well now, are you Shortcuts to simply ask Siri to change your
+
+ready for the performance? Let's get
+
+region.-- Favourite your most commonly used
+
+started! JUGG LEOhoose the objects you will be regions.
+
+juggling. Be attentive to sort out the
+
+unnecessaryitems. What would you choose to
+
+juggle -- balls, skittles or may be cactuses or
+
+fish bones? JUMP THROUGH A FIRE
+
+RINGScared? Don't be, it's going to be fun.
+
+Jump some objects over while riding your
+
+bicycle and whenever you see a fire ring, jump
+
+through it. Be ready to fix your bike when it
+
+Connect to Bluetooth devices securely over the Web.
+
+WeSafe isthe home and neighbourhood security app that connects your street and wider community. It is an instant alarm that alerts your contacts to domestic violence, burglaries in situ, suspicious activity or disorder in the community. An emergency alarm button sends a critical alert to your emergency contacts alerting them to assist you immediately. Apple have given clearance to WeSafe for a critical alert to bypass the phone's silent function so no emergency alert is ever missed by your contacts. A security alert can be posted asking your neighbours to be vigilant. You and your neighbours can post comments to each other to share information and givereassurances.The newsfeed allows you to scan posts to see what security threats
+
+is an App that has a stream of Arenas. It allows users toargue, debate or "beef" through the app on subjects in a virtual arena Each user gets a turn to argue their case on a subject, after their turn, the spectators of the arena "rate" the message with an "up" or ""down" vote. Like in a virtual boxing match, there will be a winner of the argument.
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+10
+DX-4374. 037
+
+Apple Confidential
+APL-APPSTORE 09630850
+
+Other
+Declaration A c cept
+approval Iha device can be located In casa of loss ewl th 8 foUnd ag8ih.
+Review of seaurgy paroles: Mo personal dele wsl be iransmitted when chscklltg Ihs possible sscudtygUldssras ldeybresh), Processing and forwarding data lo third pedlsw There ls no processing and use of your personal data by the mobile.proliler App beyondthspredously dedawdpoints.In particular, your dale will not be passed on lo thlld pefhes wlaoUt sUmotmaholb
+General informal'wn By enrolbng this device on the mobile.proldsrMDMsystem. youssowth8 admintslrelor to manage your device. The administratormsvcoysct rmrsonaldata.
+
+Qo
+Stol Cbd u b t b GPS su G ku p Wmy O bWCb P O aPrmbi S I b yl py Iw Itch ko tp n sw
+I WSIPSCI k o P m b
+
+privacy yt Data protection
+
+w
+
+Mt wd » ywwnl y p~ .
+
+e'r n p n pp n d t~
+
+dry wmy p
+
+Id t
+
+byy ~ n Py et I I tt t
+A ~ d b y Appt p li y. d t h d t y o db y I ith wt h i m p d f
+
+-®
+
+Privacy andpersonalDate Cogectioh Disdosure
+
+s I I P Pf db kb 5 ft l st yb « C~
+
+rktncuiCSOP I s 8 * 1II I p s
+
+b km
+
+b bl tb
+
+I r b * bbi o i k*
+
+s
+
+kub PPI
+
+I I b PU k
+
+kr s u
+
+I tp p Ib ppb
+
+da I \ a*its bit P
+
+mobile.profiler
+
+GateKeeper
+
+Appaloosa
+
+Trend Micro Parenting
+
+5.5. Update. Device management app 5.5. Update. App to disable camera 5.5. Update. Corporate app
+
+5.5. Update. Parental monitoringapp.
+
+for businesses.Users manage security use on iGS device via configuration management. User'semployer can
+
+Parents can monitordevice usage 8
+
+settings, VPN, certificates, 8
+
+profile when userisinside
+
+deployinternal apps 8 remove apps in let limits via MDM. App has data
+
+bookmarks. Verifies against MDM
+
+government8 secure buildings. User case of device loss via MDM.App has collection disclosures 8 no data is
+
+profilefrom user'semployer. App has can re-enable camera automatically data collection disclosures 8fno data sharedwl third parties. Free on
+
+data collection disclosures 8 no data via location access or manually via QR is shared wl third parties. Free on
+
+Android.
+
+is shared wl third parties. Free on
+
+code. App has data collection
+
+Android.
+
+Android.
+
+disclosures 8 no data is shared wl
+
+third parties. Free on Android.
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Business Developer. midpoints GmbH Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Business Developed MarkAny Inc. Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Business Developer: Appaloosa Technology Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: Taiwan App Genre: Utilities Developer:Trend Micro, Incorporated Price: FREE
+
+Withmid points mobile. profiler you'lhave the optimal tooling for managing your iOS
+devicesA.mong others,you can manage the
+following settings centrally and securely:-
+Security Settings- VPN and WiFi device- E-
+Mail, such as Traveler, POP3 and moreCertificates- Bookmarks- And much
+more. Particularly noteworthy is the deep
+integration in IBM Domino environments.
+mobile.profiler enables -- unique in the worldthe highest possible safety in the distribution of
+native ActiveSync integrationfor the IBM
+Notes Traveler. The mobile.profiler app (or short: profiler) provides you the status review of the MDM connection and further useful features. These include, for example, a
+connection test for upload and download, or
+
+Visitors will no longer have to put up with
+placing the annoying one-time security seal on their mobile device camera when entering limit access area. Unlike other camera disabling applications, the Gatekeeper is a lightweight MDM solution that does not require a server integration to monitor mobile devices that are within limit-access premises. [GateKeeper Check In]1) Use the GateKeeper to scan the Check In QR code near the premise.2) Install Check In Profile.3) Show the GateKeeper application to security personnel and enter the premise. [GateKeeper Check Out]1) Show the GateKeeper application to security personnel and leave the premise.2) Click Check Out and recognize SoundQR. (Or you can use GPS)3) Install Check Out Profile and you are
+
+Appaloosa helps businesses deploy private The best way to educate family's mobile
+
+apps to their employees on iOS.This app
+
+devices usage habits. Your parenting aide to
+
+enables the enrollment of a personal device manage family screen time! · Easy to use,
+
+with Appaloosa, enabling your company to
+
+easy to manage · No account access, all you
+
+deploy and manage corporate apps on your need is a pair up code with other devices
+
+personal phone. Appaloosa only controls
+
+managed applicatoins and as such, does not
+
+control your personal data or apps. Notice: This
+
+app will only work for employees which
+
+company is a customer for Appaloosa's
+
+services.
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 038
+
+Apple Confidential
+APL-APPSTORE 09630851
+
+Other
+
+sme s awe vshe s u
+
+v mnl
+
+Download Profile
+
+To start using Norton Family, download a profile onto this device
+Time aupervolon
+Q InstantLock / Unlock Devices
+
+rh v
+
+h ohuuu
+
+Agree and Download
+Norton Family
+5.5. Update. Parental control app. Parents can monitor child's network activity 8 set filters for apps8f websitesviaMDM. App has data collection disclosures 8fno data is shared wl third parties. Pree on Android.
+
+Platform: iOS (IPhone, IPadl Rating: 4+ Audience: World App Genre: Utilities Developer. Syrnantec Price: FREE
+This app should be installed on the children' s iOS devices.lf you' re looking for the parent app to access child activities from your iOS device, you must download the "Norton Family for Parents" app.The Norton Family app, from the makers of Norton Security, is designed to help kids explore the web more safely, help block unsuitable content, help prevent oversharing and assist them in learning good Internet habits. If you face any issues with the app on your child's device, send us an email NortonFamily SuppottcmSymantec.comSearch Supervision: Track your child's search activities in the Norton browser and filter out inappropriate search results.Web Supervision: Manage yourchild's access towebsites. When your child accesses any of the blocked
+Attorney-Client Privilege
+CONFIDENTIAL
+
+12
+DX-4374. 039
+
+Apple Confidential
+APL-APPSTORE 09630852
+
+Live Apps
+
+Iit)l ==.:. © 'tel==::,. I
+9=-.::. I
+
+Step by Step -- Step recording software assistant
+
+Red Chicken
+
+3.2.2.Update. Fitness app. Users track 1.1.2. ARC8 ARB-escalated. Update.
+
+steps 8 workouts to compete against Cockfighting simulator game from
+
+other users for prizes. App rewards Philippines w/ simulated bidding.
+
+users with money forin-app actions Violence is not realistic 8 has no
+
+such as checkingin every day, inviting blood/gore. Free 8 has no IAP. Is the
+
+friends to join the app, etc. Is this
+
+concept ofgame ok? Free on Android.
+
+incentivized use of the app
+
+Less than 10k downloads since
+
+appropriate?Free on Android. Sm
+
+11/2019.
+
+downloads since8/2019.
+
+Platform: iOS (iPhone)
+
+Platform: iOS (iPhone, iPad)
+
+Rating: 9+
+
+Rating: 12+
+
+Audience: World App Genre: Health 8 Fitness
+
+Audience: World App Genre:Games
+
+Developer. Shanghai Mai Ya Network Developen Joseph Anthony Pascual
+
+Technology Co., Ltd. Price: FREE
+
+Price: FREE
+
+Offered by tataygames is Red Chicken!
+
+[Accurate data analysis record]Accurate
+
+Compete against other chickens to win money
+
+walking record and movement data analysis. for the wife to spend at the market.
+
+Record every movement, make it easy to keep
+
+moving, accompany you from the first step to
+
+every step. With more steps, thinner, stronger
+
+and more beautiful!1. You can easily make
+
+money by walking, make your body healthier
+
+and get more profits;2. Accurately record steps, exercise mileage, time and calories
+
+easily;3. It has rich interesting tasks, and users
+
+make money by completing various tasks;4.
+
+The amount of cash withdrawn, the more you
+
+go, the more you earnFor service, help or
+
+more, please contact us: QQ group 714676299
+
+Attorney-Client Privilege
+
+13
+
+CONFIDENTIAL
+
+DX-4374. 040
+
+Apple Confidential
+APL-APPSTORE 09630853
+
+High Priced Apps
+
+® · ® -
+
+'
+
+-
+
+d h, « tt «r I I , I tdd t « g l
+
+FULL ACCESS U t A II did Gdggf t l d «'d Y
+QII)Igg+~
+
+d d , th « d. d « g I g l
+
+-® 0-®
+
+dd
+
+~
+
+d» Idd d hdh«
+h
+
+t d d td
+
+'d'
+
+hdh
+
+hdt « M
+
+~t
+
+dI «
+
+~
+
+d
+
+g
+
+ltlh
+
+ddd
+
+« ltd
+
+gg
+
+Differences-find 5differences
+3.0.Spot the differences game. Offers a variety of free puzzles, but some require user to sit through a video ad or subscribe in order to access. ARS subscription ($9.99/week) offers unlock of all games, 30 hintslday, and ad removal. Free on Android.
+
+RACK -6e Naughty Chat If
+
+Live Wallpaper 4K
+
+Dating
+
+3.0.Update. Anonymous chat 8 dating 3.0. ARC-escalated. Update. Provides
+
+app withauto-assigned username 8 wallpapers8 custom keyboards. Has
+
+profile image. Requires ARS IAP
+
+ARS IAP ($7.99/wk, $31.99/mo,
+
+($14,99/wk, $39.99/3mo, $89.99/yr) to $51.99/yr) to unlock premium content
+
+be connected w/ others 8 chat. Not on 8 remove ads. Haslarge discrepancies
+
+Android.
+
+among annually paid prices: $415.48,
+
+g83.88, vs. $51.99. Not on Android. 17.5m downloads since2/2018.
+
+Weight Loss Walking
+
+Looks -- My Similary Celebrity
+
+3.0. Update. Workout app. Users can 3.0. Users can upload or take selfie to
+
+choose walking exercises to lose
+
+see how much F%they look like
+
+weight. Has step calculator and
+
+celebrities of their choice. Has ARS
+
+statistics of calories burned. Has ARS IAP ($8.49/wk) to unlock all celebrity
+
+IAP ($14.99/wk, $39.99/mo, $149.99/yr) categories, unlock additional
+
+for unlimited access to 100+ workouts. countrieslnationalities,8 remove ads.
+
+Not on Android. Less than 10k
+
+Not on Android.
+
+downloads since 10/2019.
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Games Developer. Beijing Beiyang Zeren Technology Co., Ltd. Price: FREE
+Find the difference between 2 photos before time runs out.When you find the different object, tap on it as fast as possible!The number of differences increases with levels, as well as the difficulty of the game! If you get stuck, use help: take a hint to see where the pictures differ!Subscription options:Premium VIP members offer weekly subscription: after 3 days of free trial, you can spend 88.00 yuan to unlock all pictures and remove advertisements.End of trial and subscription renewal: This price is for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence. Payment will be charged to iTunes
+
+Platform: iOS (iPhone, iPad) Rating: 17+ Audience: World App Genre:Lifestyle Developen Daniil Brattsev Price: FREE
+RACK is here to deal with common pains of dating apps -- your own privacy and the lack of users online you can talk to right now.On RACK you are connected with like-minded people in real-time to decide what will happen next. Forget about browsing through neverending user lists and social networks, leave left/right-swiping behind, say no to waiting for hours for the partner to reply. RACK is 180-
+degreedifferent. You get on board, you get a
+chat right away. Next, RACK is 100% private and anonymous. On RACK you choose a random profile picture with a nicknamenobody gets to know your real name, see your photo or find out your whereabouts unless you decide to share it yourselves. Join RACK today, start chatting with like-minded people right
+
+Platform: iOS (iPhone) Rating: 4+ Audience: World App Genre: Lifestyle
+Developer:VSP TECHNOLOGIES LP Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Health 8 Fitness Developer:Artem Menshikov Price: FREE
+
+Only in our app! A unique opportunity to bring This app was developed to help my father stay your screen to life with fabulous Live Themes alive and fight against Parkinson decease and and Keyboards! Featuring: --Live wallpapers- help my mother to keep in shape since she is
+
+Live themes with keyboards -- ASMR live
+
+not able to do hard exercises. I also practice
+
+wallpapers -- Lock screen designs --Huge wallpaper catalog -- Trendy patterns and
+
+walking because it's very hard to do fitness sometimes. It is very helpful who doesn't like
+
+freshest designs --App shelves and icons-
+
+to workout and has no passion to do
+
+Thematic categories --Wallpapers with quotes fitnessd¹hidden reasons why walking is
+
+and sayings -- One-tap downloads --Full iOS 13 amazing Walking has lowest barrier to start
+
+and iPhone 11, iPhone 11 Pro &amp; iPhone among all fitness activities and that is why if 11 Pro Max supportWith our app you can:- fits almost everybody. Walking has no will
+
+Browse through the extensive wallpaper
+
+barrier and when I am lazy to workout I usually
+
+catalog -- Easily save wallpapers to Camera Roll --Check how your wallpaper fits Lock
+
+walk. Walking has almost no injures risk and it's very organic for your body. Walking has no
+
+&amp; Home Screen without leaving the appDownload cool iPhone wallpapers
+
+appetite acceleration and you better keep in shape. Walking burn less than fitness but still
+
+collections: Ultra HD, Hot, Sport, Autos,
+
+good enough to keep in shapeand we
+
+Platform: iOS (iPhone) Rating: 4+ Audience: World App Genre: Entertainment Developer: Shanghai Shenpu Information Technology Co., Ltd. Price: FREE
+Wonder Which Celebrity You Look Like? You can choose your photo or the photos of people around you. You can also take a selfie or take pictures of people around you. After you select a photo, you can choose a portrait of the corresponding national celebrity to compare the portraits to get a portrait of you and the celebrity. Similarity. You can choose British celebrities to compare before you subscribe We will continue to update our products, constantly Add more countries and more professional celebrities to enrich our app. We don't collect any of your information, nor send
+your information to others, so you can use our app with confidence. For unlocking all features and content, Premium Membership offers one
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+14
+DX-4374. 041
+
+Apple Confidential
+APL-APPSTORE 09630854
+
+High Priced Apps
+
+NNMNNN
+
+been
+11 1 1 1 5 5
+
+VOSSS t0z
+
+1 vlsusleslsIOees. 55I Nsttszsns. Ixs sennsests exevutseeeslnltesesl
+
+NNNN
+
+V766 ctt
+
+* 1 1 1 * 55 n ese lvs i x e
+vlv n -- xssssl. Nesxlssln'e. Olsslslh. N execu, SI'lslvltslvvl.onesele, et!!I
+
+NN
+
+5666.0 m
+
+* 1 1 1 1 55
+
+s vels lv x e s
+
+lsev!. ssxsxsneeem Nsz'psnsene Nm NNOtzeNN. esesze.lst'esses
+
+Von welcher Ferbe profitiert trine sm meisten7
+
+· T e xt im Display anzeigen7
+
+·
+
+HomdopsthischePctenz elm!Nein?
+
+Anzshl der Ergebnisse · M r ALLE gewehlten Dsten
+tvolgsbe)
+
+Anzehl der Elgebnisse tur JEDE Dstenbsnk indivlduell
+
+R EIIII S
+
+Treasure Garden
+
+ELiP
+
+MOFO
+
+Funny Clip Maker
+
+3.0. Update. Chinese fortune telling app. App has list of fortune masters. Users read the info and check the
+rating to select a master and pay to get their fortune reading. Has consumable IAP ($2.99 to $999.99) for
+readingand price varies based on the master skills. Users can also request
+an optional video chat with master. Not on Android. Less than 10k downloads sinceG/2019.
+
+3.0. App scans static/noise in photos to analyze energy fields, chakras, colors, 8 objects. Has ARS ($2749/mo) for vision board feature where users document, sort, 85edit wishes. Per dev, app is niche product for targeted groupin Germany8 pro upgradeis intended forpeople who have had
+consultations w/ dev. Pro version previously rejected as nonconsumable ($349.99) Not on Android.
+
+3.0. Dating app. Has ARS IAP
+($99.99/mo,$249.99/3mo, g4$9.99IGmo) to unlock premium features: direct messages 8 comments, unlimited card swipes, unlimited rewinds, control age 8 distance visibility, view likes, chose to be only be shown to verifiedlpremium
+users,membership badge, free boosts, 85free gifts to send. Not on Android.
+
+3.0, 3.1.2. Update. Meme video clip creator. Generates short videos using clips from movies,TV shows, etc. Requires ARS IAP ($9,99/wk, $19.99/mo, $59.9916mo, $59.99/yr) to use theapp. Users can make clips or
+view 8 save the ones created by other users. Free on Android.
+
+Platform: iOS (iPhone) Rating: 4+ Audience: World App Genre: Lifestyle Developer. Hangzhou Jibaoyuan Ecommerce Co., Ltd. Price: FREE
+Treasure Garden is a fortune telling app. It has
+
+Platform: iOS (iPhone, iPad) Rating: 12+ Audience: World App Genre: Health 8 Fitness Developed Daniel Berthold Price: FREE
+ELiP analyzes energy and information fields that exist in living things and objects. This
+
+Platform: iOS (iPhone) Rating: 17+ Audience: World App Genre: Social Networking Developer: Yeemos Company Limited Price: FREE
+MOFO is a selective, membership-based network where members can connect for
+
+Platform: iOS (iPhone) Rating: 12+ Audience: World App Genre: Entertainment Developer:FUNPLACEAPP LIMITED Price: FREE
+¹1 CLIP MAKER for making video messages from 10 000 well known movies, shows,
+
+fortune masters from mainland China,
+
+allows deep insights into the biological and
+
+dating, networking, or to meet new friends. For cartoons, youtube videos, vines. Add text
+
+Hongkong, andTaiwan, combining both 5000 years of Chinese tradition and most advanced technologies, providing one on one fortune telling services. The accuracy of the fortune telling is above 95%. It helps you know the future, help your receive helpful answers. Treasure Garden is working hard to break the industry rules which known as fortune telling
+
+subtle nature of the examined objects. This form of analysis, known as radionics and bioresonance, is fully automated by ELiP for the first time and is available everywhere for mobile devices without an active internet connection. ?The investigation is based on the evaluation of the digital noise of the camera of the mobile device. We examine patterns in
+
+more, please see our terms and privacy
+
+&amp; emojis and turn them into funny video
+
+policies: Privacy:
+
+immediately. Great to prank friends or make
+
+https://www. mofo. app/MOFO-
+
+them lol! Make funny clips to share on
+
+privacy.htmlTerms:
+
+iMessage,Instagram, Snapchat, Facebook,
+
+https://www. mofo. app/MOFO-terms. html- Title WhatsApp or any other messengers. EASY TO
+
+of service: MOFO Premium subscription- Price DO1. Type a text to your friends, parents or
+
+and length of subscription: 99.99 USD/1
+
+crush 2. Add any emojis 3. Wait a sec while
+
+month; 249.99 USD/3 months; 349.99 USD/6 famous actors will voiceover your message4.
+
+frauds. It aims to establish a fair and
+
+noise that are unique to the purpose under
+
+months; --Payment will be charged to iTunes
+
+Done! Unique, funny video is ready to
+
+trustworthy plafform and help to boardcast Chinese cultures. come to Treasure garden, meet your fortune: 1, check your fortune before you buy a house 2. check your fortune when you have hard time 3. check your fortune when
+
+investigation.'?Simply choose the concern of the investigation as a database, take a picture of the test object,and sift through the results.ln the transmit range, the results in ELiP can be used directly to harmonize negative states and
+
+Account at confirmation of purchaseSubscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period- Account will be charged for renewal within 24-hours
+
+download or share. EASY TO SHARE --Save to your phone --Share to social networks and messengers --For all occasions: funny messaging, pranks, greetings or just for funMOOD BOOSTERFeeling happy, sad,
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+15
+DX-4374. 042
+
+Apple Confidential
+APL-APPSTORE 09630855
+
+High Priced Apps
+veeoMoqa Q ® '~1)
+
+Device Analyzer: protection
+
+Morph Video- Face Swap tolive Word Candy Puzzle Game
+
+VIP
+
+3.0, 3.1.2. App has list of scan options 3.0. Update. Video editor to add face
+
+to analyze the device performance from selected photo from camera roll,
+
+and issues. Users can scan camera, viacamera, or from Bing image search
+
+microphone, Wi-Fi 4 bluetooth connections, battery, sensors, etc. Has ARS IAP($9.99lwk,$29.99/mo,
+
+to template video clips. Has ARS IAP ($4.99lwk, $49.99lyr) or nonconsumable iAP ($99.99) to unlock
+
+$59.99/2mo, $69.99/Gmo, $89.99/yr) for additional content 8 remove
+
+all scan options, system reports and watermarks. Free on Android.
+
+back up creation.Not on Android.
+
+3.0.Update. Word puzzle game. Has 3.0. Update (ARS changed from
+
+ARS ($1.99-$7.99/wk, $4.99-$1 1.99lmo, annual to monthly). Dating app. Free
+
+$24.99-$99.99/yr) for daily bonus items forfemale users.Male users can only
+
+8 ad removal. Ivot on Android.
+
+create profile 8 look for female users
+
+for free 8 must buy ARS IAP for
+
+unlimited likes8 messaging. ARS
+
+price was changed from $449.99lmo
+
+to $'92.99lmo upon rejection. Not on
+
+Android. I ess than 10k downloads
+
+since 10/2019.
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Productivity Developer. EST ESTATE OU Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Photo 8 Video
+Developed Dexati LLG Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: None App Genre:Games Developer: Dream Big Games inc Price: FREE
+
+Platform: iOS (iPhone) Rating: 17+ Audience: Japan App Genre: Social Networking Developer: OFFIGE BOWL K.K. Price: FREE
+
+Reliable personal data protection with detailed Morph your photo into live characters that will Journey through a tasty lands and solve sweet Fully referral based high spec matching app
+
+device functionality reports. Quick. Trusted. come into action. Live characters include Accurate. "Device Analyzer: protection" is your Dogs, Cats, Funny characters, Celebrities,
+
+word puzzles! Word Candy features over 25,000 challenging levels and fun daily
+
+VIP (vip) xMale suers are monthly fee based. There are no fees incurred otherwise. xFemale
+
+No. 1 resource for secure document storage Scary characters and more. Swap Faces and challenges. Use awesome powerups and
+
+users can use this app for completely free
+
+and mobile device management.lt provides become a celebrity. Face Swap Into Animal compete on global leaderboards to prove
+
+xBoth male and female users will be able to
+
+comprehensive diagnostics in all areas,
+
+Videos or Celebrity videos. Morph Video create you' re the word candy champ! Privacy
+
+use this app based on referral -Safety and
+
+allowing you to manage all your device's
+
+funny videos of you from single photo that you Policy:https://www.dreambiggames.corn/legal/ reassurance At VIP we have the following in
+
+systems and parts. Why take your device to a can sharewith anyone. Funny Videos ofyou privacy.htmlTerms of
+
+place: (1)Users are only able to register via
+
+service center when you can check it yourself? with you turning into famous people to bring Service:https://www.dreambiggames.corn/lega Facebook account or phone number. When
+
+"Device Analyzer: protection" delivers accurate them live into action. Morph Video is easy to I/terms. html
+
+users register, we do a thorough check.
+
+results in mere minutes. Select what you need use:1. Select one of the characters you want to
+
+(2)Your VIP usage will never be posted on
+
+from a list of 20+ scans or run full diagnostics morph into. There are 100's characters in our
+
+Facebook. (3)Your Facebook friends will never
+
+of your device. The app allows you to check:- database and daily new characters are
+
+know you are using VIP. (4)Your Facebook
+
+Your device's camera: main, front, flash.-- Your added.2. Select one of your photo that you
+
+friends will never appear on your VIP search.
+
+device's sound: microphone, speaker,
+
+want so that photo is morphed with
+
+(5)We monitor 24 hours/365 days a year to
+
+headphones.-- All of your device's connection character.3. Watch you morph into a wild
+
+reassure you of your safety (6)We require an ID
+
+types: Wi-Fi, Bluetooth, GPS, Internet
+
+animal of funny character with sounds. You
+
+check. (Users under 18 and Users 18 and High
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+16
+DX-4374. 043
+
+Apple Confidential
+APL-APPSTORE 09630856
+
+High Priced Apps
+
+Hlk,WI
+
+I SF. W Wy d i d lb
+
+t h b b W d l t P S I W ht
+
+0
+
+C ~ yb P- · y RSWS
+S
+Fl WWW C bhhyk
+
+S IHT. FH
+S . SIST. FR
+
+I -HHT. FH
+I. FH HT FT TIPS I HHT Fll . HH .FH
+I.HHT.ITI
+
+SP SF WTS
+SP W1 1PS
+
+C HHWS P
+
+h .F Rdd
+
+R I kd
+
+d I
+
+- ·
+
+I IH Fll S I h lTW W «WT wy I.HHT"FTI h WTb
+I -HHT.FR Sh « l y b
+
+Fixed Matches Tips HT FT Pro FX P r ofit Plus
+
+IMS Scanner
+
+3.0. Update. Betting tips for football 8 basketball. Has ARS ($19.99/wk, $39.99/mo) for VIP tips. While free tips
+are provided by separate tipsters, VIP tips are provided by dev's Al system, which is supposed o give the highest
+proportion tips. Free on Andrci. 1050k downloads since 6/2017.
+
+3.0. Realtime forex alerts indicating changesin stockprices compared to
+pre-determined desiredsales prices
+set by user. Requires ARS ($29.99/wki $100.99/mo) for unlimited alerts. ERB rejected at $29h49/wk & $71.99/mo.
+Dev saysprices are lower than their competitors. Similar products on App Store at this price include analysis, tips, 8I additional features. Not on Android.
+
+3.0.Uses TrueDepth camera to shine infrared light on dev's Intelligent Material, which reacts to light. App
+flashes green to indicate authenticity of product. Intended for businesses using dev's Intelligent Material. Dev
+verified $999.99is intended. Free on Android.
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Sports Developer. gokhan cava Price: FREE
+
+Platform: iOS (iPhone, iPad) Rating: 4+ Audience: World App Genre: Finance Developed Taweechai Maklay Price: FREE
+
+We serve you bet tips football and bet tips
+
+Detail of FxProfitPlus ApplicationThis
+
+basketball.App has 8 different tipster and these application provides real-time trading
+
+tipster share their own bet tips everyday.Our information on the Forex market.You can view
+
+tips are betting tips pro so they are
+
+ads to get unlimited trading order view!We
+
+professional tipsApp also has free and paid analyze the real-time markets in order to send
+
+tips. You can use tipster tips as free, and if you accurate trading signals to our valued
+
+would like to use paid tips, you have to be
+
+members. If you have any additional or
+
+vip.We give betting tips daily. This app gives suggestion, please feel free to contact us at
+
+you Bet prediction soccer and normal bet
+
+fxprofitplus.officialOgmail.corn
+
+prediction. Some tipster gives you their
+
+predictions but we give you exactly ones. We
+
+have betting tips and our tipster gives you
+
+Platform: iOS (iPhone) Rating: 4+ Audience:Canada, United Kingdom, United States App Genre: Business Developer: Intelligent Material Solutions Inc. Price: $999.99
+Scan Intelligent Material® with the True Depth Camera on your IOS device and see it light up! A color change on-screen, as well as on the Intelligent Material® itself, indicates that the material is authentic. This app uses the True Depth Camera in order to detect the sample. Please be sure your device supports Face ID before purchasing, to be sure you have a True Depth Camera.
+
+betting tips daily. we have both premium betting tips and football betting tips.Our tips are fixed matches tips ht ft pro and system calculate automatically tips daily.Bet Tips Football is very important because it is very
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+17
+DX-4374. 044
+
+Apple Confidential
+APL-APPSTORE 09630857
+
+Government
+
+m PISAI TcuAeT
+
+Q? Aoudfiestadetupueblcte gusts mdsy
+Qt SA qud destinarlas los 3.000 euros delosfondos FECER7
+Qy Aoudtipo de restaurants te gustarla quaarhises ennuastro munIcipiq7
+Cud pais te gustaria visitart
+Qt scmtigmdategupmmdsde tu pueblo7
+Q7 scudfiestadetumunicipiote gustan mds7
+Q7 AEn qud inveytirias los 70.000 euros de,los Fondos Federt
+mQ Ou drestaurants detu municipIo te
+
+Take Action Now to Help Impeach Trump
+Contact Congress Q vo te Count
+katest News Volunteer Oon ale QA contact us
+
+0 O
+
+~a
+
+slm
+
+lg a * a
+
+Iu IO
+
+g I cm a
+
+mme
+
+g g nnr
+
+.
+
+Ie
+
+o
+
+Select your choice
+
+pAsspoRuTpAAOTSST
+.9.'==-- =
+
+Identity Card
+
+IParticipate
+
+Impeach Trump Movement
+
+World Trips
+
+Turasistan Reader
+
+5.2.1. Update (improvements). Survey for citizens from Quart de Poblet, Spain. Requires National ID to ensure
+respondents are citizens of the town. Dev has contract w/ town; only
+government leaderscan submit
+sun/ey questions.Free on Android. Less than 10k downloads since
+2/201&
+
+1.1.1. News 8 resources related to Trump impeachment inquiry. Users can read articles 8 view links to
+contact their congressmen within the app. Developeris founder of
+grassroots activist group Build the Wave. App has nopersonal attacks or defamatory content. Not on Android.
+
+5.2.1. Update (improvements). Saudi Arabian travelagency. Processes visa applications once users provide
+passport, ID, family card, 8 photo. Dev is licensed travel agency. Free on Android. Less than 10k downloads
+since 10/201&
+
+5.2.1.Reads 8 verifies RFID chipin passports 8 ID cards. Intended for travel agencies to more easily enter ID
+info when booking for travel. Integrates w/ Turasistan travel management software.Free on
+Android.
+
+Platform: iOS (iPhone) Rating: 4+ Audience: World App Genre: Utilities Developer. Jorge Valldecabres Price: FREE
+The app idsevelopemd as a voting system/survey/questions for the citizens from Quart de Poblet so they can evaluate how popular for future projects, exmaple: Which church do you like the most in the town? where would you invest 100.000 euros in the town'? Which other name would yau put for the XX square? would you like a new swimming pool?
+
+Platform: iOS (iPhone)
+
+Platform: iOS (iPhone, iPad)
+
+Rating: 4+
+
+Rating: 4+
+
+Audience: World App Genre:Social Networking
+
+Audience: World App Genre: Travel
+
+Developed Nathan Lerner
+
+Developer: DUNIA AL REHLAT TRAVEL
+
+Price: FREE
+
+8 TOURISM COMPANY Price: FREE
+
+The official impeach Trump app. Stay up to date on the latest impeachment news and
+
+Thanks to our long experience in the field of
+
+ways to get involved in the fight to impeach Visa application in various types and to many
+
+Trump. See which where members of
+
+countries also dealing with Embassies and
+
+Congressstand on impeachment and which Consulates, we designed this application for Senators might flip for/against impeachment. various types of Visa application including
+
+Contact your members af Congress right from Schengen, American, British and Turkish Visa
+the appand demand they back impeachment. quickly and dynamically from your phone
+
+directly. Don't hesitate and download this app for your visa application. For citizens and
+
+residents in the Kingdom of Saudi Arabia, with
+
+us you can easily have your visa for study,
+
+tourism, visit, business, treatment...etc.Destination of Visa
+
+application:-Schengen/ Czech Republic-
+
+Schengen/Germany-Schengen/ France-
+
+Schengen/ G reece-Schengen/ Austria-
+
+Platform: iOS (iPhone) Rating: 4+ Audience: World App Genre: Utilities Developer: SANALOGI BILISIM SANAYI VE TICARET ANONIM SIRKETI Price: FREE
+Turasistan Reader is a mobile passport
+reader/scanner app which works integrated
+with Turasistan. Using your mobile phone, you can read/scan your passport, and upload all the images and passport information to Turasistan usingf NFC automatically. During upload, you can choose your travel package and your roam type. With using Turasistan, it is no easy to scan passport and register a customer! Turasistan is the best hajj and umrah software.
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+18
+DX-4374. 045
+
+Apple Confidential
+APL-APPSTORE 09630858
+
+Health
+
+Tiny 6eat
+1.4. 1, 1 4.5.Update (improvements). Fetal heart beat monitor. Uses microphone 8 filters sound to detect 8 record heart beat. Med team recommends rejectiondue torisk w/ false detection 8 assurance, lack of detection, 8 unknown effects w/ daily radio frequency exposure. Not on Android. 100-500k downloads since 11/2018.
+Platform: IOS (IPhone, iPad} Rating: 4+ Audience: World App Genre: Lifestyle Developer. Mirko Trkulja Price: 84.99
+Listen, record and share your baby heart
+sounds. Experience the magicfrom within.A
+safeand easy way to bond withyour baby while still in the womb. Now you can hear and feel how your baby's sounds by yourself. Listen any time from the comfort of your home.FAQs*' Works Best From 27 Weeks ** It is possible (but less likely} to hear from as early as 1 6-20 weeks, best results are most often achieved as the baby gets larger.** How It Works **1. We have carefully designed Tiny to listen to abdominal sounds, then record and amplify them.2. It works best when the baby is head down and their back is facing forwards.3. Remove the case, be in a very quiet room and focus on your lower abdomen. Listen then Tap record.4. Our simple recording management
+Attorney-Client Privilege
+CONFIDENTIAL
+
+19
+DX-4374. 046
+
+Apple Confidential
+APL-APPSTORE 09630859
+
+DX-4374. 047
+
+RE 09630860
+
+Notable
+2.5.1, Tencent. Update. Chat service. App uses Screen Recording API to take screenshots orrecord video of user's screen to send to people in chats.Per partnership manager, many usersare not aware ofmacOS shortcuts so devs want to include a screenshotfeaturefor easy access.
+Platform: rnaco Rating: 4+ Audience: World App Genre: Social Networking Developer. Tencent Technology (Shanghai) Co., Ltd Price: FREE
+Ingenious, fresh design of a social platformlnvite you to a different experience*Compatible with TIM: a more convenient chat office experience*Running environment: Mac QS X 10.10 (Yosemite) or above*Multi-account login: Command+N shortcut for you to log in to multiple QQ account?Tencent QQ is an instant messaging tool that gives you the best way to keep in touch with your friends and family.? Here comes the brand new version of QQ for Mac! New design, new features are waiting for you to explore. Compatible with TIM, offer you better working experience.(br class="Apleeinterchange-newline" >
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 048
+
+Apple Confidential
+APL-APPSTORE 09630861
+
+Other
+
+q~ 1
+
+0
+
+s Oc
+
+Massage Envy - Santa Clara Town Centfa
+
+Q Q Q Q E,I'80 reviews
+8$ Massage, Skin Care, Massage Therapy
+
+"I went in for my ~e
+
+~s
+
+uck! Iy they ihs
+
+squeezemlenfors80minutme uc ceeded massa
+
+front desk staff wss amazing. Super friendly end tall
+
+in... reed mere
+
+Honeygain: Make Money Online Uninstaller sensei
+
+MesaExif
+
+Firewall -- Network Monitor
+
+PopClip
+
+5.1.2. Monitors network traffic 8 collects device info (OS 8 IP address). Users get paid 1 credit per 10 MB
+collected 8 must accumulate minimum 200 GB($20) for PayPal cashout.
+
+24.2. Update. Uninstaller app. App
+requires a Helper app installed from dev's website to uninstall apps. It
+requests access to Home and Application folder. Users can delete third party apps, files and native Mac
+apps including i Tunes. To re-install the nativeapps, users need to restore
+the system. Less than 10k downloads since 4/2015.
+
+2.5.1. Update. App to edit metadata of 24.5. ARB-escalated. Monitors full
+
+2.45. Update. App allows users to
+
+photos.Has supplementary browser network with firewall 8 records
+
+select a written text in any third-party
+
+feature whichuses Screen Recording actions. Can also block connections 8r app and displaysconvenient pop-up
+
+API to take photos of websites. Dev claims to reveal hidden services
+
+menu which contains features; such
+
+says this feature was implemented for running oncomputer.Itrequires user as, search, cut, copy, paste, translate,
+
+the Mac versionto have the same
+
+to grant access by going to System send as message, etc. App requires
+
+features as iOS.
+
+Preferences,which isan expected
+
+user to grant access to use
+
+behavior by DTS.
+
+Accessibility API. 100-500k downloads
+
+since 8/2011.
+
+Platform: macOS Rating: 4+ Audience: World App Genre: Finance
+Developer.KHMAS, OOO
+Price: FREE
+
+Platform: macOS Rating: 4+ Audience: World App Genre: Utilities Developen Maksym Katrych Price: $4.99
+
+Platform: macOS Rating: 17+ Audience: World App Genre:Photography Developer: Hirofumi Kuramoto Price: $4.99
+
+Platform: macOS Rating: 4+ Audience: World App Genre: Utilities Developer: Paragon Software GmbH Price: FREE
+
+Platform: macOS Rating: 4+ Audience: World App Genre: Utilities Developer: Nicholas Moore Price: $12.99
+
+Honeygain helps its users make money online by sharing their internet connection with data analysts. The application allows its users to reach their unused internet's full potential in the most convenient way!Setting it up is very easy as well -- simply install the application on any device and connect it to the internet. According to our estimator, by running Honeygain you will get $1 for every 10 GBs shared! Your earnings are unlimited!- PAYOUT RATE AND PAYMENTThe user will receive credits for every KB of data he shares with the Honeygain network, and after collecting enough credits, the user will be able to convert them to USD.Our current payout rate is $1 / 10GB, but take note that results may vary in each individual's case. Currently, we support
+
+Uninstaller sensei is software for completely removing applications and leftover files that associated with app. Cleanup disk space from apps junk by using tools like applications remainders and caches. UNINSTALLER · Remove installed applications by select from list.· Drag &amp; drop applications to directly to app or to dock icon for deletion. Delete applications in usual way just by moving .app files into the Trash. Remove applications that a long time not been used. Reset app to initial state for cleanup application data or if app does not work properly. DISK CLEANER · Delete applications remainder files from previously incorrectly removed applications. Cleanup application cache files for speed up application work and free up disk space.
+
+MesaExif has following features.1. MesaExif is an easy-to-use and powerful Meta Data processor.Z. Choose your photos with jpg / tiff / png. MesaExif shows thumbnails and Meta Data.3. View and edit Exif, ExifAUX, GPS, IPTC, JFIF, TIFF, Canon's and Nikon's.4. Manage yourBase Location by searching map, and tap to set the coordinates to GPS dictionary.5. You can restore a photo and/or photos during staying in a same folder if you do notwant tochange thevalues.6.You can change all EMoji that MesaExif uses as default icons.x The updated values are automatically saved to the original photo file.
+
+Full Network Transparency!The FirewallNetwork Monitor application gives you the full control over your Mac, protects the privacy of your computer, prevents unwanted network connections. Network Monitor- discloses outgoing, incoming connections to your Mackeeps records of the applications' actionsreveals hidden services running on the computerNetwork Filter- Protects your Mac with Firewall- Blocks unknown connectionsInforms about new network activities of applicationsBenefits- Personalized Firewall Filter rules- Optional Filter modes available: Silent, Alert, and Non-distractive OperationAbout Paragon SoftwareSince 1994, Paragon Software Group has delivered a wide range of software tools, solutions, and
+
+PopClip appears when you select text with
+your mouse on your Mac. Instantly access context-specific actions including copy and paste, plus extensions like Send to Evernote. If you select text containing a URL, email address or file path, PopClip can open it. Select a misspelled word, and PopClip offers corrections. Select any text to do a web search with those terms, or select a single word to get the dictionary definition. More than 100 free extensions are available, including Paste and Match Style, Translate, Send to Evernote, Word Count, Capitalize and much, much more. See http: //pilotmoon.corn/popclip/extensions. Please note: PopClip works in most Mac apps, but not in all. For an up-to-date list of known incompatible apps, see
+
+Attorney-Client Privilege
+CONFIDENTIAL
+
+DX-4374. 049
+
+Apple Confidential
+APL-APPSTORE 09630862
+
+

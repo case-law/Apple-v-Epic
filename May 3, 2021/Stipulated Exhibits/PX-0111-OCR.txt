@@ -1,0 +1,96 @@
+Cc: Phillin Shoemaker
+Josw Forstall
+
+C. . aun Matt Fischer
+Emily Blumsac
+
+From: P h ilip Schiller
+
+Subject: R e: ERB: Meeting Notes, 8/12/11
+
+Received(Date): Tue, 16 Aug 2011 08:04:37 -0700
+
+T : E ddy C ~
+
+K 0u
+
+Date: Tue, 16 Aug 2011 08:04:37 -0700
+
+PLAINTIFF
+U.B. Dlslrlot Court - ytDGAL
+4220~45545 YGR TSH
+Epis Games, Ies. u. Apple reo.
+
+Ett.no. PX-0111
+
+Henri Lamiraux
+
+Dele eelered By
+
+Ron Okamoto
+
+Grea
+
+Scott
+
+Privileged and Confidential Based on my experience, I believe an account has always been required.
+
+Sentfiom my iPhone
+
+0 A 6 1 6,2011, t r :60AELEddyC ~
+
+t:
+
+On Pandora, I assume for iree users sm account is not required but optional, right?
+
+Sentfiom my iPad On Aug 15, 2011, at 9:26 PM, Phillip Shoemaker (
+
+wrote:
+
+Privileged and Confidential
+ERR Meeting Notes August 12, 2011
+Attendees:Joz, Phil, Henri, Ron, Emily, Matt, CK, Phillip
+General o Should we consider shutting down app submissions by China Unicorn? They have 121 apps currently in the store, and submit more every week. * Canier billing, from a non-catrier, for the purchase of physical goods: may be OK, but bring all to ERB. * Pandora is adding IAP, but want to know if they can create an account for their fiee users. ERB stated that it was fine. o BT4 dc IOSS has new hardware that is non-MFI support. Should App Review ask for the hardware, or should we allow into the store without our reviewing the integration? Answer was to allow it into the store without reviewing the integration, for now. If we hear of quality issues, we should start reviewing it. * We do not want apps that are alternate stores for Web Apps
+
+CONFIDENTIAL
+
+Exhibit
+PX 0111
+PX-0111.1 APL-APPSTORE 09425339
+
+Carrier Apps
+App Name: The Web Store -- Discover the top fun and useful... Developer: Orange Ruling: Rejected Comments: We do not want apps that replace our store with web apps.
+App Name: Orange Film To Go Developer: Orange UK Ruling: Approved
+Comments: App Name: Optus Call Buddy Developer: Optus Mobile Ruling: Approved Comments: App Name: PPS Developer: KT Powertel Ruling: Rejected Comments: Too lclose to fleet management. Need to get a Google Maps license. App Name: Travel & Surf Developer: Magyar Telekom Ltd Ruling: Approved Comments: App Name: Tbizpoint for iPad Developer: SK Telecom Ruling: Approved Comments: App Name: Crazy Cow. Developer: KTH Ruling: Approved Comments: App Name: Allstar Sports Developer: KTH Ruling: Approved Comments: App Name: olleh CCTV Traffic Developer: KT Corporation Ruling: Approved
+Comments: App Name: olleh my Wallet Developer: KT Corporation Ruling: Approved Comments: App Name: NextGen Tel Secure Storage Developer: TeliaSonera Ruling: Approved Comments: App Name: Telia Secure Storage HD
+
+CONFIDENTIAL
+
+PX-0111.2 APL-APPSTORE 09425340
+
+Developer: TeliaSonera Ruling: Approved Comments: App Name: Telenor Utland Developer: Telenor Ruling: Approved Comments: App Name: DAGOSPIA Developer: 3 Ruling: Approved Comments: App Name: Turkish Hotels Developer: Vodafone Telekomiinikasyon A. Ruling: Approved Comments: App Name: Wo Friend Developer:Unicorn Broadband Online Ruling: Approved Comments:
+Noteable
+App Name: Google Shopper Developer: Google Ruling: Approved Comments: App Name: Disco Messenger Developer: Disco Ruling: Approved Comments: App Name: Photovine Developer: Photovine Ruling: Approved Comments: App Name: Kindle Developer: AMZN Mobile LLC Ruling: Approved Comments:
+Apps
+App Name: 1 million FREE Books -- Read Kobo eBooks! Developer: Kobo Inc. Ruling: Rejected Comments: Clearly a store, even has pricing. This should be an 11.13 rejection, as this is a reader that is driving the purchase of books. This is a store. App Name: Golden Goose Developer: Golden Goose Ruling: Approved
+
+CONFIDENTIAL
+
+PX-0111.3 APL-APPSTORE 09425341
+
+C omments:Before we approved, geta screenshot ofthe language for making the subscription. App Name: Mr.X's night life around the world Macau Version Developer: Production Dream Ruling: Rejected Comments: 18.1 App Name: Jumping Toilet Developer: Yazhi Ruling: Rejected Comments: 16.1 App Name: CRAP ATTACK Developer: creamy games Ruling: Rejected Comments: 16.1 App Name: Zeus Developer: Ma azinecloner.com US LLC Ruling: Approved Comments: App Name: DermoCloud Developer: DocNet Ltd. Ruling: Legal Investigation Comments: Look into the use of IAP for purchasing thediagnoses. App Name: Carma Developer: CustomEgo Ruling: Hold Comments: Put onto next week's deck. Scott to weigh in on use of gamecenter. App Name: Lover Tracker
+Ruling: Approved Comments: App Name: Contest of Talent HTC Vietnam Developer: HTech Ruling: Rejected
+C omments:Competing platform reference:3.1 App Name: The Holy Bobble Developer: Derrik Watts Ruling: Approved Comments: App Name: Good Vibrations -- Loyalty Card Developer: Awesome Game Ruling: Approved Comments: App Name: Earth Bookstore Developer: NTT Solmare Ruling: Approved Comments: App Name: movline Developer: NTT Communications Corporation
+
+CONFIDENTIAL
+
+PX-0111.4 APL-APPSTORE 09425342
+
+Ruling: Approved Comments: App Name: Mobile Phone Office Developer: CHINA MOBILE GROUP JIANGSU CO.,LTD Ruling: Approved Comments: App Name: WLAN Easy Login Developer: China Mobile AnHui Province Limited Corp. Ruling: Approved Comments: App Name: PCCW mobile Smart TIPs Developer: PCCW Ruling: Rejected Comments: 8.3 rejection: too much like our springboard. App Name: H20 Wireless Bit Developer: Locus Telecommunications, Inc. Ruling: Approved Comments: App Name: Dictators Demolition LITE Developer: Demolition Development Ruling: Rejected Comments: 15.3 rejection App Name: FreeAppKing Developer: CyberAgent, Inc. Ruling: Rejected Comments: 3.10 rejection App Name: BMRControl Developer: James Prete Ruling: Approved Comments:
+Note: Color key: Cayenne= Rejected, Black = Approved, Aqua = Hold/Investigation, Plum = Legal Hold
+
+CONFIDENTIAL
+
+PX-0111.5 APL-APPSTORE 09425343
+
+

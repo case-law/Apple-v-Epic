@@ -1,0 +1,270 @@
+Fr om : Sent: To t Cct
+
+An d rew Grant
+
+We d, 30.tan 2019 19:05:48 o0000 (UTC)
+
+A tj a n Brussee
+
+Dani e l Vo e l
+
+Canon Pence
+e tarn as
+
+Subject: e: pp e o t
+
+. >. S .pdf
+
+; Mark Rein ; Tim Sweeney
+
+And FB's certificate has now been revoked. It's really unfortunate that this was the first real test of someone attempting to sidestep Apple.
+Uoitcd Ststcs District Court Northuu District of Cstifomis
+
+CaseNo. 4:20-cv-05640-YGR
+
+Case Title E ic Games, iac. c etpp/c, iac.
+
+Exhibit No DX-4235
+
+Date Entered
+
+Surer Y. Soeoo Cleek
+
+si:
+
+Oeselr Clerk
+
+ht~tp://a~leinsider,corn/articles/19/01/30/apple-has-revoked-faceboodks-entet3xjserdeselolser-cettifiulates-sflerrstdeioad-vtolationg
+
+On Wed, Jan 30, 2019 at 9:27 AM Arjan Brussee
+
+Just imagine what data Google has on everyone. Terrible. However they haven't been able to leverage to snake good social apps;) -ar) an
+
+On Wed, Jan 30, 2019 at 08:14 Daniel Vogel
+
+ssvote:
+
+I can't find the article, but I read a while ago that Facebook picked up on the success of Snapchat Stories due to having access to VPN traffic. They then copied it I; I for Instagram Stories and leveraged their network effect to be successfuL
+
+So their oxrategy was look urhat works, copy it I: I without innovating, and rely on an existing large user base to become more successfuL
+
+-- Daniel, Epic Games Inc.
+
+On Tue, Jan 29, 2019 at 11:21 PM Tim Sweeney
+
+vrote:
+
+It's a shame this rogue means of distribution is being exploited for such a disgusting purpose by Facebook Makes it harder to legitunize the approach for gold purposes.
+
+On Jan 30, 2019, at 5:48 AM, Mike Atamas
+
+umte:
+
+REDACTED FOR PRIVILEGE
+
+On Tue, Jan 29, 2019 at 9: 19 PM Andrew Grant
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4235.001
+
+EPIC 04564604
+
+Related and worth watching - passbook have apparently been distributing their VPN/spyware app outside of the AppStore via their Enterprise certificate.
+h // t ec c ch o 019 /01 9/fa choo
+
+On Mon, Sep 3, 2018 at 9:03 PM Mike Atamas i REDACTED FOR PRIVILEGE~
+On Mon, Sep 3, 2018 at 8:57 PM Tim Sweeney
+
+wrote:
+
+, REDACTED FOR PRIVILEGE:;
+
+Tlnl
+
+On Sep 3, 2018, at 8: 46 PM, Mike Atainas
+
+te:
+
++Canon Pence for visiblity.
+I understand that we' re still looking at this a bit from the technical side, but I wanted to update the youp with a bit on the lanai front,
+I
+
+' .'REDACTED FOR PRIVILEGE .'
+I
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4235.002
+
+EPIC 04564605
+
+' REDACTED FOR PRIVILEGE '
+
+On Thu, Aug 30, 2018 at 11:07 AM Tim Sweeney
+
+wrote:
+
+Their web flow (which I never completed but only looked at) proposes to install a profile, rather than a certificate:
+
+The question is, what do these CA's do7 Does Apple somehow a)Iow certain kinds of certiticates for app installation outside of their stare and outside of the enterprise program (essentially making iOS an open platform, sans press release), or do they do https-bypassing MITM interception of queries to Apple's servers in order to block Apple's blacktisty
+
+Tlln
+
+On Aug 30, 2018, at 10:55 AM, Mike Atamas
+
+te:
+
+REDACTED FOR PRIVILEGE
+The creator of builds io stated iu an interview in 2015 that they don't rely on enterprise cettificatcs. I'd be very curious to understand how bui(ds.io works fiom a technical perspective.
+
+On Thu, Aug 30, 2018 at 10:29 AM Andrew Orant
+
+wrote:
+
+) Is there anyone at Epic who can dig into the details and figure out what approach Builds,ro is taking to avoid being banned by Apple7
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4235.003
+
+EPIC 04564606
+
+) Is it a soflware solution? A business strategy for obtaining enteqirise certificates from shell companies, which is / isn't clearly in violation of T/kC?
+
+Would it be an option for you or Mark to reach out to thebuild io people and just enquire about their technique and how it's been received by Apple? Their interests are very much aligned with ours and I'm sure they are aware we recently bypassed the Play store with Fortuite
+
+I can also work with lush/Pele/JoeB to sec if wc can figure out what they' re doing. Between us we probably know the most about the murky world of app signing but it appears to be something cleverer than the other grey-market app stores.
+Other build io alternatives do take the route of obtaining enterprise certificates via dubious means though they are prone to being revoked. Build.io appear not to use enterprise carts. If I had to guess, and because they charge a per-device fee, they are doing something like on-demand ad-hoc signing using multiple $99 developer accounts. Ad-hoo signing is where a developer registers a device's UUID on Apple's website, addsit to a profile, and then puts the profile in the app bundle.
+
+REDACTED FOR PRIVILEGE
+
+I
+
+Agreement attached.r;'
+
+REDACTED FOR PRIVILEGE
+
+I
+
+0
+
+On Thu, Aug 30, 2018 at 9:31 AM Tim Sweeney
+
+wrote:
+
+Adding Mike Atamas in. Mike is investigating what exactly the Apple terms say about all of this. The goal herc isn't some scheme to siphon money away from the iOS App Store but to find a way to truly treat iOS as an open platform.
+
+REDACTED FOR PRIVILEGE
+
+Is there anyone at Epic who can dig into the details and figure out what approach Builds.io is taking to avoid being banned by Apple'! Is it a sollware solution) A business strategT for obtaininy, enterprise certificates from shell companies,, ' RED ACTEDFOR PRIVILEGE
+
+Tuu
+
+On Aug 30, 2018, at 8:30 AM, Andrew Grant
+
+ote:
+
+The key point here is that although we have an enterprise certificate it can be revoked at anytiine and we'd no longer be able to create installabale builds.
+Whatever thebuilds io signing bypass isa we should also assume it's something Apple can patch when they have the incentive.
+Doing the same Netflix A-B test where a cohort of users can only purchase V-Bucks via a website (that we can't directly link to) to measure impact would be interesting.
+Pulling all purchases out of the app feels like the only way to ensure we don't end up with the app being removed from sale or in a Spotify-2016 situation where we can no longer update it until Apple consider us compliant.
+htt s://arstecbnica.com/ ad ets/2016/06/s ot' -accuses- l e-of-anticom etitive-behavior-alter-a u d ateis-blocked/
+(* They are understandably coy about what exactly they are doing, bw it doesappear that they do not needan enterprise cert like other side-loading websites)
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4235.004
+
+EPIC 04564607
+
+On Thu, Aug 30, 2018 at 7:56 AM Daniel Vogel
+
+wrote:
+
+Adding Andrew Grant -- it looks like the information gathered never made it back to you, Tim. D'oh! From back in Ma)'
+
+Andrew Grant Tim pointed me to bolide)awho seem to have awaytoinskN sofiwsre onyourphone,without A being jail broken, using eerlilieatas.
+Curious where this is goirN.
+
+This form of sideloading combines iOS's built-in ability to install apps via links with an Enterpr/se cerhficate that allows apps to be installed on dev/ces wfihout requir/ng that their 0 VID be in the profile. Search 'iosOTA app distribufion' for lots ol detaih on how to set this up and what the manifests look like.
+
+yah used exairily this method (just mlh irriernal websitss) at Luce sfilr & ILM to distribute internal apps and for testing things like the Star Wars app sowedidn't have to continuafiy manage UUIDs or devhe loaners. In the early days of Bacchus ws talked about getfing an enterprise certncate for similar reasons but it turned out to just be too much efiort (on our side) to get done.
+
+The problem Is that using an Enterprise aooount for external distribution lilw this h firmly
+against Apple's T&C. Technicafiy I don't think you' reevensupposedtousethem fortesting. Therearequfeiafew sfsislikengillfi.ic and they sre confinuafiy having fiwir profiles revoked as Apple plays whackw-rrole with them
+
+Daniel Vagal can you point out to linlw discussing Apple revolong their profilesy
+
+Andrew Grant Hero b a link to cne of the sewices that onsrs to prevent sideloaded apps from having fiwir permissions mvoksd. I think they areafisome form of VPN that intercepts that trams to Apple's serve m
+
+htt s:lf eeksradar.corn/nesstool-iosl
+
+Hem ls FAQ enhy horn s sits that swfiched to 'BufidStore' and talks a liNe how the BuildStore service is different horn existing methods. It sounds like they have some form of exploit that dNers fiom Ihe usual Enterprise ceri hanks. I assume It' ll be patched In IOSt 2'
+
+htt rfiiemulators.comlfieofia seFAQ
+
+lfitgfii//fj//yfirinonkrdnm/nnfin?Idntk((jyj(IICEQ/EINiGny/EG(?S0(IEG Mm8
+
+(qhere have been other exploits that relate to enterprhe ceriilicates
+hips///blogtmndrniyrg,Corn/kfindjfibfi-securilyc/nlfijjigfinfifirr/io&nnsqufi-nfififikcfigoyfwmgpbypasstpriyscgrgroteclionl
+imps,//www/dtheitthonewikl,eomlwikilM(suse qf enterprise and dfiyelgnei cfid/f/cfijfis)
+f~ gg rmdrew AridmwGmrit Also - il we' re looking atways toreduce the 20% cut that Apple take then we should oonwder a) what either removing afi purchases from within the app might look like, or b) Whether the subseripfion model (drops to a 15% cut alter Yt) oould be interesting.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4235.005
+
+EPIC 04564608
+
+-- Daniel, Epic Games Inc.
+On Fri,Aug 24,2018 at8:46PM, Tim Sweeney
+I don't think the web store is something we could feasibly resource this year given competing Diesel and other priorities.
+If we were feeling bold, we could port the launcher to iOS and ship s web-installable using thebuilds io appmach. I don't think we' ll be able to resoume that this year, but could potentially do it in early 2018. It sounds like there's signtflcant pressure on Apple to legitimize this or a similar approach.
+Tnn
+On Aug 24, 2018, at 8:31 PM, Arjan Brussee
+
+Ok
+
+This webstutf is currently not on engineering radar, but perhaps likely a component of kairos anyway
+We have an enterprise certificate finally now, and have been using it to sign internal Epic apps with that, eg I hear for Kun's movie worldlow things. I' ll dig up my previous investigation
+
+-allan
+
+On Sat,Aug 25,2018 at08:27 Tim Sweeney
+
+te:
+
+Let's dig into it.
+
+Having Battle Pass aud VBucks purchasing on the web would be doable. For console, where there' s subsidized hardware etc, we could explicitly revenue-share back with Sony and Microsoft.
+Let's also dig into the enterprise certificate approach. First question: Does Epic have an enterprise catificate compatible with iOST/
+
+Tun
+
+On Aug 24, 2018, at 7:21 PM, Arjan Brussee
+
+Hey
+So I had a thought about this, afler the Netflix news. htt / / www marketwatch corn/sto /netflix-is-the-latest-com an -to- - assin -a les-a
+store-2018-08-23
+So Spotify does not allow you to create an account in their app, but you have to do it on website. *We alreadydo this*,butin an embedded browser. If we just open Safari, that might be a way to bypass in a similar way.
+Then, what if we would enable buying vbucks on our website, or a battlepass 'subscription'"'7 A subscriplion is the same as Netflix is doing. But, this only works on website (cr our PC version) not in app
+In 2015 Netflix sent people emails to this effect: The emaiis said the monthty fees through~So~f' comwouidbe $9.99 versus $f2.99
+thmugh the App Store".
+Discounting could also be an approach to drive people to the extra frichon of paying on a website. We could 'sell it" as well since our battlepass frequency does not gt inside
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4235.006
+
+EPIC 04564609
+
+standatd subscription models. Anyway if you are interested we can dig in and see what*a possible here
+-arjan
+On Sat, Aug 18, 2018 at 00:44 Tim Sweeney
+Wow, (a) industry financial analysts arc on this, and (b) the "maior publisher CEO" (Bobby Koticky) is speaking anonymously.
+Tlm
+Begin forwarded message:
+
+DatatAugust 16, 2018 at 2 10:01 PM PDT To: Paul Meegan
+Cc: "dw(David WaBerstein)" Subject: Apple 30% At Ris
+
+Promt "benfed e nFe der "
+
+ill caseyell Illlssed fills...
+
+<image I.j peg> <llllage2.pllg> <image.png> <Apple Developer Enterprise Program License Agreetnent 20180604.pdf <Apple Developer Program License Agreement 20180604.pdf>
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-4235.007
+
+EPIC 04564610
+
+

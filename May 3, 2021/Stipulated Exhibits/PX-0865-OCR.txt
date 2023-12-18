@@ -1,0 +1,104 @@
+Prom:
+
+To:
+
+Carson Oliver
+
+CC:
+
+BCC:
+
+Subject: FW: Follow up
+
+Attachments:
+
+Sent:
+
+01/24/2019 03:41:50 PM 0000 (GMT)
+
+Hi Carson,
+
+kl like to pick up on the below thread I had opened up with Sheree- specifically on rev share.
+
+In the last couple of weeks, it has come to my attention that Netflix and Apple had an agreed upon rev share deal at 15% (but obviously they' re no longer using in-app billing for new customers --aninteresting approach that more of us are pondering for our strongest brands). Can you confirm if this is true? The main point and why we feel strongly about discussing rev share is that we' re ddiving almost 100% of the revenue growth for you and that we' re episodic and therefore never truly benefit from the 15% terms for subscribers ) 1 year (vs companies like Nettlix that were probably achieving roughly an 18% rev share assuming the 10% based on avg customer retention).
+
+I think this would also go a long way to alleviate the revenue impact from the rate card issue and make it less of an issue for our executive team.
+Thanks -AO
+
+From:Adrian Ong
+
+Sent: Thursday, June 7, 2018 6:11 PM
+
+t i~
+
+gl ppl .
+
+Subject: Follow up
+
+Hi Sheree
+
+Pleasure to meet you and the team in Cupertino and my team looks forward to working with you all.
+
+I wanted to follow up on several topics that we touched on duding our meeting / dinner:
+
+IAP reconciliation
+
+o We need to ensure we have a way to reconcile the transactions we see our end and payments you make to
+
+us
+
+o As discussed, our figures from Apple for just our Tinder business can be off as much as $1M at any time
+
+during the year which is a concern
+
+o According to Erin, this is brought up frequently by other partners
+
+o Can we identify next steps and dates to ensure we are seeing traction on this? FYI We do not have this issue
+
+on Android
+
+Rev share
+
+o As discussed over dinner and per our presentation, we drove ~
+
+in r e v share revenue for Apple, up
+
+d
+
+p tt
+
+tl
+
+lldg W h
+
+5 Apple drove minimal new discovery~ whi le the majority were users organically looking for our
+
+apps~ 5 Our new product features such as TInder Gold drove subscriber growth resulting in the app shooting
+
+up the top grossing charts to g1 outside of games last year
+
+CONFIDENTIAL
+
+PX-0665.1 APL-APPSTORE 06090236
+
+5 Therefore, while we understand the value of the platform historically, we are the ones driving the YoY growth and incremental value add - not Apple (i.e. this wasn't from increased phone sales or features you offered) while your platform reaps the benefit. This feels somewhat one-sided.
+o Dating as a category is episodic 5 The average subscriber stays only 4-5 months 5 As a top grossing partner, we never are able to take advantage of the 15% rev share since the intent of our apps is to actually have people meet and leave our apps g Other top grossing partners such as our colleagues at Netflix have an average subscriber length of 43 months, which means their average rev share works out to be approximately18% - much closer to the 15% than the 30% commissions we pay
+o Channel optimization 5 Historically, Tinder grew up as an app first business and never had their own payment system. Therefore, they had no choice but to utilize IAP on both IOS and Android. Late last year, Tinder launched an international web product and its own payment system. g None of the Match Group brands utilize IAP on Android except for Tinder -- however this is likely to change 5 Therefore looking forward at channels, user acquisition and conversion-Apple becomes the only business that charges 30% and the least attractive since 30% ROI just to break-even is a high hurdle to cross (either from a conversion and/or retention perspective) relative to our other platform options. In the spirit of a true and effective partnership, we should be utilizing your platform and driving growth based purely on its effectiveness- rather than because we have to and/or looking at other channels due to your legacy rules around the 30% and ROI impact. All of this would lead to more app downloads and growth. 5 Being in the payments space for a very long time, we also know that the 30% rate is arbitrary since i) we know that other categories are not forced to use IAP and ii) the cost of accepting payments is only (2-5%
+o I don't know if you' ve already discussed the above with Matt per our discussion at dinner, but Itf like to get the dialogue going about potentially modifying our rev share given that we' re a top grossing partner and especially because of the episodic nature of our business. IU like to propose that the dating category and/or other similar episodic categories are either a) included in the exclusion list (since our subscribers are with us for such a short period of time+ this may be easier since an exclusion list already exists for physical goods, etc) or b) we define a separate category for dating that is able to take advantage of the 15% immediately due to the short term and episodic nature of our businesses
+2-factor Authentication (new topic) o Does Apple have a solution for 2-factor authentication for its apps? We' re looking at introducing this functionality for several of our brands. o I spoke to an old colleague who now works at Hilton and they informed me about Business Chat via Messages. Is it possible and/or do some apps use Business Chat for 2FA or do you have an alternative solution? The other option is obviously to engage a third party like a Nexmo or Twilio.
+I look forward to collaborating with you and the team on this partnership and these are the large ticket items on the top of my mind right now. As I mentioned during our meeting, we could have an extremely beneficial relationship where we share best practices and work together to drive growth for both our businesses. I believe we can provide a lot of value given that we' ve been running subscription / recurring / auto-renewal businesses for longer than almost any digital goods + services business out there today and so whether ith around payment / conversion optimization to retention to auto-renewal best practices, we can assist.
+Look forward to hearing from you and I propose we get something on the calendar to touch base at least once a month.
+Best, -AO
+
+CONFIDENTIAL
+
+PX-0865.2 APL-APPSTORE 06090237
+
+Adrian Ong
+SVP, Operations match group
+
+CONFIDENTIAL
+
+PX-0865.3 APL-APPSTORE 06090238
+
+

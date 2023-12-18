@@ -1,0 +1,6717 @@
+·
+
+·
+
+United States District Court
+
+«I
+
+NorthernDistrictofCalifornia
+
+Case No. 4:20-cv-05640- YGR
+
+Case Title Epic Games,Inc.v.Apple, Inc.
+
+Exhibit No. DX-3781
+
+Date Entered
+
+Susan Y. Soong, Clerk
+
+By:
+
+Deputy Clerk
+
+CONFIDENTIAL
+
+DX-3781.001
+
+APL-APPSTORE 09324447
+
+Why this report7
+Purpose: To measure satisfaction with the iPhone Developer Program (iDP) in order to provide the ADC team with recommendations on how
+to improve it
+Key areas include:
+· Overall satisfaction
+· Importance of aspects of the iDP · Satisfaction and reasons for dissatisfaction · Aspects of the iDP that have impeded app development/
+distribution
+· Awareness and satisfaction with recent changes to the iDP program · Apps promotion and marketing · Satisfaction with other mobile platforms' developer programs · Profile of developers with no apps approved
+·Developerprofiles
+APL-APPSTORE 09324448
+
+Understanding iDP developers
+
+Method: Developers were randomly selected from the Developer Database and invited to participate in a 15-minute Web survey. We conducted our research among a representative sample for both those who have successfully published Apps on the store and those who have not. Apple Market Research developed the questionnaire and used Chadwick Martin Bailey, an independent market research firm, to field the survey and tabulate results.
+Statistical testing was conducted at a 95% confidence interval between groups (Wave 1 vs. Wave 2). If data reported for one group is higher than the corresponding group for the same country, it is indicated with a upward arrow.
+The term 'top-2 box' means the total percentage of the top 2 boxes of a 5-point scale.
+
+CONFIDENTIAL
+
+DX-3781.003
+
+APL-APPSTORE 09324449
+
+Understanding iDP developers
+
+developers)
+
+specific iop
+
+Method: Developers were randomly %8c9NR @ B %e Developer Database and invited to participate in a 15-minute
+
+Web survey. We conducted our research among a representative sample for both those who have successfully
+
+published Apps on the store and those who have not. Apple Market Research developed the questionnaire and used Chadwick Martin Bailey, an independent market research firm, to field the survey and tabulate results.
+
+Statistical testing was conducted at a 95% confidence interval between groups (Wave 1 vs. Wave 2). If data reported for one group is higher than the corresponding group for the same country, it is indicated with a upward arrow.
+
+The term 'top-2 box' means the total percentage of the top 2 boxes of a 5-point scale.
+
+CONFIDENTIAL
+
+DX-3781.004
+
+APL-APPSTORE 09324450
+
+e in in s
+
+Key Conclusions: iDP Satisfaction (1)
+APL-APPSTORE 09324452
+
+Key Conclusions: iDP Satisfaction (1)
+· Most developers are generally satisfied with iDP
+APL-APPSTORE 09324453
+
+Key Conclusions: iDP Satisfaction (1)
+· Most developers are generally satisfied with iDP
+-- Compared to last wave, developers in the US and UK are more likely to be very satisfied with the program
+APL-APPSTORE 09324454
+
+Key Conclusions: iDP Satisfaction (1)
+· Most developers are generally satisfied with iDP
+-- Compared to last wave, developers in the US and UK are more likely to be very satisfied with the program
+-- In general, JP developers are the least likely to be satisfied
+APL-APPSTORE 09324455
+
+Key Conclusions: iDP Satisfaction (1)
+· Most developers are generally satisfied with iDP
+-- Compared to last wave, developers in the US and UK are more likely to be very satisfied with the program
+-- In general, JP developers are the least likely to be satisfied
+·App visibility continues to be the area of most dissatisfaction; followed by the time it takes to get updates
+on the store
+APL-APPSTORE 09324456
+
+Key Conclusions: iDP Satisfaction (1)
+· Most developers are generally satisfied with iDP
+-- Compared to last wave, developers in the US and UK are more likely to be very satisfied with the program
+-- In general, JP developers are the least likely to be satisfied
+·App visibility continues to be the area of most dissatisfaction; followed by the time it takes to get updates
+on the store
+-- For many, the increase in the number of apps in the store has had a negative effect on visibility, and others feel their apps are not featured prominently enough
+APL-APPSTORE 09324457
+
+Key Conclusions: iDP Satisfaction (1)
+· Most developers are generally satisfied with iDP
+-- Compared to last wave, developers in the US and UK are more likely to be very satisfied with the program
+-- In general, JP developers are the least likely to be satisfied
+·App visibility continues to be the area of most dissatisfaction; followed by the time it takes to get updates
+on the store
+-- For many, the increase in the number of apps in the store has had a negative effect on visibility, and others feel their apps are not featured prominently enough
+·The App review process continues to be an issue for many, and it is still the biggest deterrent for successfully developing and distributing applications
+APL-APPSTORE 09324458
+
+Key Conclusions: iDP Satisfaction (1)
+· Most developers are generally satisfied with iDP
+-- Compared to last wave, developers in the US and UK are more likely to be very satisfied with the program
+-- In general, JP developers are the least likely to be satisfied
+·App visibility continues to be the area of most dissatisfaction; followed by the time it takes to get updates
+on the store
+-- For many, the increase in the number of apps in the store has had a negative effect on visibility, and others feel their apps are not featured prominently enough
+·The App review process continues to be an issue for many, and it is still the biggest deterrent for successfully developing and distributing applications
+-- Many complain about the lack of responsiveness from the review team, and how long it takes
+APL-APPSTORE 09324459
+
+Key Conclusions: iDP Satisfaction (1)
+· Most developers are generally satisfied with iDP
+-- Compared to last wave, developers in the US and UK are more likely to be very satisfied with the program
+-- In general, JP developers are the least likely to be satisfied
+·App visibility continues to be the area of most dissatisfaction; followed by the time it takes to get updates
+on the store
+-- For many, the increase in the number of apps in the store has had a negative effect on visibility, and others feel their apps are not featured prominently enough
+·The App review process continues to be an issue for many, and it is still the biggest deterrent for successfully developing and distributing applications
+-- Many complain about the lack of responsiveness from the review team, and how long it takes
+-- However, compared to last wave, developers are slightly more satisfied with the
+APL-APPSTORE 09324460
+
+Key Conclusions: iDP Satisfaction (2)
+APL-APPSTORE 09324461
+
+Key Conclusions: iDP Satisfaction (2)
+·While most developers are satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+APL-APPSTORE 09324462
+
+Key Conclusions: iDP Satisfaction (2)
+·While most developers are satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+-- Many would like downloads and sales report to be easier to read (e.g., with online dashboards, charts, sortable reports, better formatting, etc.)
+APL-APPSTORE 09324463
+
+Key Conclusions: iDP Satisfaction (2)
+·While most developers are satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+-- Many would like downloads and sales report to be easier to read (e.g., with online dashboards, charts, sortable reports, better formatting, etc.)
+-- Many would also want the sales data to be stored for longer
+APL-APPSTORE 09324464
+
+Key Conclusions: iDP Satisfaction (2)
+·While most developers are satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+-- Many would like downloads and sales report to be easier to read (e.g., with online dashboards, charts, sortable reports, better formatting, etc.)
+-- Many would also want the sales data to be stored for longer -- Some have diNculty creating certificates and profiles, and would also like to eliminate
+the 100-device limit
+APL-APPSTORE 09324465
+
+Key Conclusions: iDP Satisfaction (2)
+·While most developers are satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+-- Many would like downloads and sales report to be easier to read (e.g., with online dashboards, charts, sortable reports, better formatting, etc.)
+-- Many would also want the sales data to be stored for longer
+-- Some have difficulty creating certificates and profiles, and would also like to eliminate the 100-device limit
+-- Those dissatisfied with the application submission process mentioned US-centric requirements for tax and banking information (international developers) and problems submitting metadata (particularly application screenshots)
+
+CONFIDENTIAL
+
+DX-3781.020
+
+APL-APPSTORE 09324466
+
+Key Conclusions: iDP Satisfaction (2)
+·While most developers are satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+-- Many would like downloads and sales report to be easier to read (e.g., with online dashboards, charts, sortable reports, better formatting, etc.)
+-- Many would also want the sales data to be stored for longer
+-- Some have difficulty creating certificates and profiles, and would also like to eliminate the 100-device limit
+-- Those dissatisfied with the application submission process mentioned US-centric requirements for tax and banking information (international developers) and problems submitting metadata (particularly application screenshots)
+-- Some would like the enrollment team to be more responsive to inquiries and provide more concise feedback
+
+CONFIDENTIAL
+
+DX-3781.021
+
+APL-APPSTORE 09324467
+
+Key Conclusions: iDP Satisfaction (2)
+·While most developers are satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+Many would like downloads and sales report to be easier to read (e.g., with online dashboards, charts, sortable reports, better formatting, etc.)
+Many would also want the sales data to be stored for longer
+Some have difficulty creating certificates and profiles, and would also like to eliminate the 100-device limit
+Those dissatisfied with the application submission process mentioned US-centric requirements for tax and banking information (international developers) and problems submitting metadata (particularly application screenshots)
+Some would like the enrollment team to be more responsive to inquiries and provide more concise feedback
+Although members are generally satisfied with the development resources on the website, some would like the iphone reference library to be better organized
+
+CONFIDENTIAL
+
+DX-3781.022
+
+APL-APPSTORE 09324468
+
+Key Conclusions: iDP Satisfaction (2)
+·While most developers are satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+Many would like downloads and sales report to be easier to read (e.g., with online dashboards, charts, sortable reports, better formatting, etc.)
+Many would also want the sales data to be stored for longer
+Some have difficulty creating certificates and profiles, and would also like to eliminate the 100-device limit
+Those dissatisfied with the application submission process mentioned US-centric requirements for tax and banking information (international developers) and problems submitting metadata (particularly application screenshots)
+Some would like the enrollment team to be more responsive to inquiries and provide more concise feedback
+Although members are generally satisfied with the development resources on the website, some would like the iphone reference library to be better organized
+Those new to Mac and/or users of different development platforms are more likely to find the tools hard to use and unintuitive
+
+CONFIDENTIAL
+
+DX-3781.023
+
+APL-APPSTORE 09324469
+
+Key Conclusions: Recent changes to
+APL-APPSTORE 09324470
+
+Key Conclusions: Recent changes to
+· Less than half of all developers are aware of the new Member Center and Developer Support center
+APL-APPSTORE 09324471
+
+Key Conclusions: Recent changes to
+· Less than half of all developers are aware of the new Member Center and Developer Support center · Consistent with open ended feedback from previous years, many developers are very satisfied with the fact that WWDC videos are available earlier
+APL-APPSTORE 09324472
+
+Key Conclusions: App promotion and
+APL-APPSTORE 09324473
+
+Key Conclusions: App promotion and
+· Less than 20M of developers have incorporated iAd rich media ads in their application
+APL-APPSTORE 09324474
+
+Key Conclusions: App promotion and
+· Less than 20M of developers have incorporated iAd rich media ads in their application
+-- Many think iAds are an unnecessary distraction to users. Others need more time to learn more about the program and/or how to implement it
+APL-APPSTORE 09324475
+
+Key Conclusions: App promotion and
+· Less than 20M of developers have incorporated iAd rich media ads in their application
+-- Many think iAds are an unnecessary distraction to users. Others need more time to learn more about the program and/or how to implement it
+· Some suggest Apple simplify the ability to track performance of iAds, and improve the fill rate
+APL-APPSTORE 09324476
+
+Key Conclusions: App promotion and
+· Less than 20M of developers have incorporated iAd rich media ads in their application
+-- Many think iAds are an unnecessary distraction to users. Others need more time to learn more about the program and/or how to implement it
+· Some suggest Apple simplify the ability to track performance of iAds, and improve the fill rate · International developers would like iAds to be available globally, and better documentation on how to incorporate in their apps
+APL-APPSTORE 09324477
+
+Key Conclusions: Other platforms
+APL-APPSTORE 09324478
+
+Key Conclusions: Other platforms
+·A quarter of iPhone developers also develop for Android, and are generally satisfied with the experience (Although it is still -15M lower than iDP's).
+APL-APPSTORE 09324479
+
+Key Conclusions: Other platforms
+·A quarter of iPhone developers also develop for Android, and are generally satisfied with the experience (Although it is still -15M lower than iDP's). · Promoters cite that it is free and has no app review process, while detractors dislike the range of devices they need to design for
+APL-APPSTORE 09324480
+
+Key Conclusions: Other platforms
+·A quarter of iPhone developers also develop for Android, and are generally satisfied with the experience (Although it is still -15M lower than iDP's). · Promoters cite that it is free and has no app review process, while detractors dislike the range of devices they need to design for ·WMDC promoters value all documentation and support avai I ab I e
+APL-APPSTORE 09324481
+
+Key Conclusions: Other platforms
+·A quarter of iPhone developers also develop for Android, and are generally satisfied with the experience (Although it is still -15M lower than iDP's). · Promoters cite that it is free and has no app review process, while detractors dislike the range of devices they need to design for ·WMDC promoters value all documentation and support avai I ab I e · Blackberry promoters like that it is Java based, free and easy to use
+APL-APPSTORE 09324482
+
+vera at i s a c t ion wi t t e
+o ne eve o er r o r a m
+
+CONFIDENTIAL
+
+DX-3781.038
+
+APL-APPSTORE 09324484
+
+Most developers are generally satisfied
+with iDP
+
+75%
+
+·
+
+I
+
+73%
+
+78%
+
+77%
+
+71%
+
+78%f
+
+I
+
+·
+
+·
+
+6 5%
+
+·
+
+I
+
+68%
+
+63%
+
+62%
+
+Top-2 box
+· V er y dissatisfied
+
+·
+
+~
+
+0
+
+·
+
+~
+
+·
+
+I
+
+I
+
+·
+
+·
+
+·
+
+I
+
+·
+
+·
+
+·
+
+I
+
+·
+
+·
+
+I
+
+· S om e w h a t
+
+·
+
+·
+
+dissatisfied
+
+· Nei t h e r satisfied nor dissatisfied
+
+Vl
+
+· S om e w h a t
+
+·
+
+~
+
+satisfied
+
+E
+
+P
+
+·
+
+I
+
+Q) J 0
+
+0 4-
+
+· V er y satisfied
+
+·
+
+I
+
+Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010
+
+US
+
+N = 984 2,895
+
+54 2
+
+UK Q
+
+579
+
+2 79
+
+FR
+30 1
+
+Q > GE
+
+4 50
+
+4 87
+
+(Ql® J P
+
+40 3
+
+39 9
+
+Base: Developers with approved apps. Ql l -- Overall, how would you rate your satisfaction with the iPhone Developer program?
+
+12
+
+CONFIDENTIAL
+
+DX-3781.039
+
+APL-APPSTORE 09324485
+
+Most developers are generally satisfied
+
+developers are more likely to be very saba-sgha ee
+
+·
+
+I
+
+I
+
+·
+
+I
+
+· V er y
+
+·
+
+·
+
+dissatisfied
+
+·
+
+~
+
+0
+
+·
+
+~
+
+·
+
+I
+
+I
+
+·
+
+·
+
+·
+
+I
+
+·
+
+·
+
+·
+
+I
+
+·
+
+·
+
+I
+
+· S om e w h a t
+
+·
+
+·
+
+dissatisfied
+
+· Nei t h e r satisfied nor dissatisfied
+
+Vl
+
+· S om e w h a t
+
+·
+
+~
+
+satisfied
+
+E
+
+P
+
+·
+
+I
+
+Q) J 0
+
+0 4-
+
+· V er y satisfied
+
+·
+
+I
+
+Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010
+
+US
+
+N = 984 2,895
+
+54 2
+
+UK Q
+
+579
+
+2 79
+
+FR
+30 1
+
+Q > GE
+
+4 50
+
+4 87
+
+(Ql® JP
+
+40 3
+
+39 9
+
+Base: Developers with approved apps. Ql l -- Overall, how would you rate your satisfaction with the iPhone Developer program?
+
+12
+
+CONFIDENTIAL
+
+DX-3781.040
+
+APL-APPSTORE 09324486
+
+Most developers are likely to recommend
+Likelihood to recommend is highest in the US
+
+and%U +5% 79%
+
+I
+
+·
+
+I
+
+I
+
+·
+
+·
+
+CJ
+
+E
+
+0
+4l CJ
+
+·
+
+I
+
+79%
+
+·
+
+·
+
+73%
+4 I
+
+8 0%t 70%
+
+·
+
+·
+
+I
+
+·
+
+·
+
+7 0% 54 %
+
+58% T op- 2 b o x
+· V ery unlikely
+· S om e w h a t unlikely
+· Nei t h e r l i k ely nor unlikely
+· S om e w h a t likely
+· Very likely
+
+0
+
+I
+
+I
+
+I
+
+I
+
+·
+
+·
+
+I
+
+·
+
+·
+
+I
+
+·
+
+·
+
+Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010
+
+US
+
+N = 984 2,895
+
+54 2
+
+UK Q
+
+579
+
+2 79
+
+FR
+30 1
+
+Q > GE
+
+4 50
+
+4 87
+
+(Ql® JP
+
+40 3
+
+39 9
+
+Base: Developers with approved apps. Q12 -- How likely are you to recommend the iPhone Developer program to others?
+
+13
+
+CONFIDENTIAL
+
+DX-3781.041
+
+APL-APPSTORE 09324487
+
+Two-thirds of those w/approved apps in
+
+US, UK and FR are very likely to submit an
+
+83%
+
+CL
+
+· s
+
+CL
+
+s
+
+s
+
+s
+
+·
+
+~
+
+E
+
+Vl
+
+82%
+
+87%
+
+85%
+
+88%
+
+87%
+
+76%
+
+ES KR Rg · s
+
+s
+
+s
+
+· s
+
+s
+
+· s
+
+s
+
+s
+
+s
+
+s
+
+· s
+
+s
+
+·
+
+·
+
+s
+
+78%
+s · s
+s
+· s
+
+78%
+
+s
+
+·
+
+s ·
+
+·
+
+s ·
+
+s
+
+81% T o p-2 box
+
+·
+
+·
+
+·
+
+s
+
+·
+
+·
+
+·
+
+·
+s
+·
+
+·
+
+Very unlikely
+Som e w h at unlikely Nei t h e r l i k ely nor unlikely
+Som e w h at likely V er y likely
+
+0
+
+·
+
+·
+
+·
+
+s
+
+·
+
+·
+
+·
+
+s
+
+·· s
+
+·
+
+·
+
+· s
+
+s
+
+Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010
+
+US
+
+N = 984 2,895
+
+54 2
+
+UK Q
+
+579
+
+2 79
+
+FR
+30 1
+
+Q > GE
+
+4 50
+
+4 87
+
+(Ql® J P
+
+40 3
+
+39 9
+
+Base: Developers with approved apps. Q14 -- How likely are you to submit a new application for approval within the next three months?
+
+14
+
+CONFIDENTIAL
+
+DX-3781.042
+
+APL-APPSTORE 09324488
+
+m ortance o e ci c s ect s o t e i o ne eve o er
+ro ram
+
+CONFIDENTIAL
+
+·
+
+·
+
+DX-3781.044
+
+APL-APPSTORE 09324490
+
+Xcode is considered one of the top aspects
+
+~t
+
+© g ore d e v elopers now rate the
+
+reference library and the developer forums as
+
+iDP aspects: Top 5
+
+US
+
+~ · · ~ ~UK
+
+FR
+
+Xcode
+
+N = Jul 2010 Feb Jul 2010 Feb
+
+984
+
+2010
+
+S42
+
+20 10
+
+64%1 58% 7 3%t 6 6 %
+
+JUI 2010 279
+69oo
+
+Feb
+2010
+65 j'
+
+Visibility of your app on the Aoo Store
+
+41%
+
+iPhone Simulator
+
+38%
+
+4 7 %I 42% 3 74ro 4 1%
+
+5 0 % i 30% 3 8 % 42r'
+
+36% 409'
+
+Duration of the aooiication review iPhone Reference Librarv
+Sample Code
+
+38% 43%i 35%I 3 1 % 3 4% 3 7 %
+
+4 0% 3 7% 3 5%
+
+4 0 % 32oo 28% 33% 3 1% 3 0 % 3 4 % 41% 44%
+
+Time it takes to get updates available on Clarity of feedback from the aoo review
+Developer Forums
+
+29% 30% 24% 27% 23%1 18o
+
+2 6% 22% 18%
+
+30% 24% 17%
+
+20% 21% 10% 15% 22%1 15%
+
+Interface Builder
+
+22% 20% 23%1 17% 25% 18%
+
+Responsiveness to i i ri e s ro t e
+
+22% 26%1 20% 22% 12% 16%
+
+Jul 2010 4SO
+70 j'
+3 9% 3 4% 3 9% 35% 3 6% 1 2% 22% 1 9%
+16oo
+16oo
+
+GE
+
+Wl JP
+
+Fe b 20 10
+67 j'
+
+Jul 2010 403
+59%
+
+Fe b 20 10
+52o o
+
+4 6 % l 36oo 42%
+
+3 8 % 2 &% 2 7 %
+
+3 8 % 43%i 2 2 oo
+
+3 4% 33% 3 4%
+
+4 1 % 40oo 4 1%
+
+1 2 % 2 0% 18 %
+
+2 1% 2 0% 2 0 %
+
+2 0 % 9% 7%
+
+1 7% 1 7% 1 9 %
+
+1 7% 15oo 17%
+
+Base: Developers with approved apps. Q16 -- What are the five most important aspects of the iPhone Developer Program for you?
+
+17
+
+CONFIDENTIAL
+
+DX-3781.045
+
+APL-APPSTORE 09324491
+
+About one-in-five developers consider
+
+iDP aspects: Top 5~
+
+US
+
+Downloads and sales
+E ase of sub m i t t i n g Mnarv d Timeliness of receiving
+moments
+Ease Gf cl'eating
+certifciates
+I nstr u m e n t s
+
+Jul 2010
+984
+20 0y
+16%
+14%
+10%1
+10%
+
+Feb 2010
+20%
+15 0o
+16 0o
+7% 8%
+
+Ease of cI eating
+JOIST
+Ease of submitting metad Accuracy Qfpayments
+Process of receiving
+General usability/
+
+go/ i 6 0/
+
+7% goo
+
+6% 8%
+
+6 0/
+
+6%
+
+6 0/
+
+50/
+
+Ease of managing
+I e
+
+6%I 3%
+
+UK
+
+Jul 2010 Feb Jul 2010
+
+S42
+
+2 01 0
+
+279
+
+17% 2 1%i 2 50o
+
+18% 1 7% 22%
+
+13o 13% 9%
+
+7% 60ro 10o
+
+13%t 9% 11%
+
+5% 5% 6%
+
+8% 10% 13%
+
+6% 7% 4%
+
+70/ 6% 5%
+
+40/
+
+go/ i 9%
+
+6r' i 3% 4%
+
+FR
+
+Feb Jul 2010
+
+2010
+
+4SO
+
+28% 18%
+
+20% 14 0o
+
+10% 13%
+
+8% 8%
+
+12% 11%
+
+4% 6%
+
+13% 12%
+
+7% 13%
+
+7% 50/
+
+9 0/
+
+9 0/
+
+2% 7%1
+
+GE
+
+Feb JUI 2010
+
+2010
+
+403
+
+24%1 18%
+
+13% 10o
+
+11o 13%
+
+8% 11%
+
+12% 8%
+
+3% 10%
+
+11% 8%
+
+11% 11%
+
+7% go/
+9% 3 0/
+
+3% 6%
+
+Base: Developers with approved apps. Q16 -- What are the five most important aspects of the iPhone Developer Program for you?
+
+JP
+Feb 2010
+22 0o
+10% 16%
+10o
+9% 10% 10% 15% 13%I 3% 4%
+18
+
+CONFIDENTIAL
+
+DX-3781.046
+
+APL-APPSTORE 09324492
+
+Very few developers consider the Cetting Started Videos an important aspect of their
+
+iDP aspects: Top 5
+
+N=
+Ease of enrollment locess
+Getting Started Videos
+
+Jul 2010 984
+4%
+4%
+
+Responsiveness to inquiries from the
+Purchase process
+
+4% 2%
+
+Clarity of feedback from the enrollment
+Explanation of program benefits before
+Ease of managing team members
+Setting up tax form/ bankin information
+Ease of managing con'tracts
+Identity verification process
+
+2% 2% 2% 2% 1% 1%
+
+US
+Feb 20 10
+5% 3% 4% 2% 3% 1% 1% 2% 1% 1%
+
+UK
+
+Jul 2010
+542
+4% 4% 4% 3% 3% 1% 1% 2% 0% 0%
+
+Feb 2010
+4%
+
+Jul 2010 279
+14o/
+
+3 ohio 7%
+
+4% 6%
+
+3% 4%
+
+3% 3%
+
+1% 5%
+
+2% 1%
+
+4% 2%
+
+1% 5%
+
+1% 2%
+
+FR
+
+GE ®) JP
+
+Fe b 20 10
+15
+
+Jul 2010 450
+1 2oo
+
+6% 9% I
+
+7% 6%
+
+5% 5%
+
+3% 5%
+
+4% 1%
+
+3% 2%
+
+6%1 3%
+
+2% 2%
+
+2% 1%
+
+Fe b 20 10
+10% 5% 4% 6% 5% 1% 1% 4% 2% 1%
+
+Jul 2010 Feb
+
+403
+
+20 10
+
+1 8% 20 %
+
+1oo 1%
+
+1 2% 12o o
+
+6% 7%
+
+8 % 11oo
+
+3% 2%
+
+4% 2%
+
+9% 13%
+
+8%
+
+4% i 1%
+
+Base: Developers with approved apps. Q16 -- What are the five most important aspects of the iPhone Developer Program for you?
+
+19
+
+CONFIDENTIAL
+
+DX-3781.047
+
+APL-APPSTORE 09324493
+
+a tis action an easo n s o r
+
+issatis action wit
+
+eci c
+
+s ectso t e i one
+
+e ve o er r o r a m
+
+CONFIDENTIAL
+
+DX-3781.049
+
+APL-APPSTORE 09324495
+
+The software developer kit (SDK) and
+
+development resources continue to be
+
+90ojo
+
+8 7A
+
+8 6 Ão,
+
+SDK
+
+Dev. resources.
+
+...80o/a.....
+
+Enrollment process
+
+7:9 A
+
+7 79e
+
+Application submission
+
+" 68olo
+
+" 459o""
+
+Member Center
+
+Jul 2010
+
+Feb 2gi1D2010
+
+Feb 2gi1D2010
+
+Feb 2gi162010
+
+Feb 2Jill.Q010
+
+Feb 2010
+
+Q US
+
+gwi ~v UK
+
+FR
+
+CE
+
+JP
+
+Qgtljiyfgietjo ig ~
+
+ygd. P p g @g l|d i n g d o n't know (Ns vary). Q18- Q21 -- Please rate your level of satisfaction with each of the following
+
+aspects of t e enrollmeht process/if ' ' one Software Development Kit (SDK)/Development resources on the website/providing resources in the Member
+
+Center. Base: Developers with submitted or approved apps, excluding don't know (Ns vary). Q22 -- Please rate your level of satisfaction with each of the
+
+following aspects of the Application submission process (using iTunes connect).
+
+CONFIDENTIAL
+
+DX-3781.050
+
+APL-APPSTORE 09324496
+
+Conversely, the visibility of apps in the App Store is the area of most dissatisfaction, followed by the time it takes to get updates available on the
+
+Track finances
+
+89%!
+
+App review
+
+Time it takes to
+get updates available
+Visibility of your app on the App Store
+
+Jul 2010
+
+Feb 29i1D2010
+
+Feb 2gi1D2010
+
+3 7A.).
+
+.
+
+.
+
+Feb 29i1D2010
+
+20o/o
+Feb gill.Q010
+
+Feb 2010
+
+US
+
+~ ~ UK
+
+FR
+
+CE
+
+JP
+
+$ yse.irtciefp@rtrvarctnianppnsn es(ctennsnrsmg2tsk. IPInIPvvm)nr). Q23-Q24 -- Please rate your satisfaction with each aspect of the app review process(tracking and managing
+
+finances. Base: Submitted/approved apps, excluding DK (Ns vary). Q25- Q26 -- Please rate your satisfaction w/length of time it takes to get updates available
+
+on the App Store/visibility of your app on App Store.
+
+23
+
+CONFIDENTIAL
+
+DX-3781.051
+
+APL-APPSTORE 09324497
+
+When asked how to make the program better, developers prioritize improving the app review process and translations
+
+Top mentions
+
+July 2010
+
+July 2010
+
+More transparent/consistent rules/processes/ rejection reasons for application review
+Localize: documentation/ interfaces/websites/ certificates
+Faster response from application review team
+SDKs: provide more sample code; reorganize/
+
+11% 11% 9%
+
+Expand Apls, including private ones
+Improve ad hoc distribution/increase 100 unit limit/ease enterprise distribution requirements AppStore: improve ratings system/more visibility for small apps/get rid of app spam/expanded
+More communication during review process
+
+4% 4% 3% 3%
+
+simplify/update documentation; keep documentation current with SDK/reduce download
+Simplify certificate management
+
+8% 8 0/
+
+Issues with bugs in Xcode/Release Xcode 4
+Improve design/functionality of iTunes Connect website
+
+3% 3%
+
+More access ible/localized /faster/ responivse
+support;. more phone support
+
+6%
+
+Allow distribution separate from the AppStore/ Ease enterprise distribution requirements/Open
+
+3%
+
+Simplify provisioning profiles
+
+6%
+
+platform/Less Apple control Simplify entire process
+
+3%
+
+More/better training tools/tutorials Reduce/eliminate $99 fee; make $99 fee one time
+
+6%
+
+Improve financial/analytical reporting features in iTunes Connect
+
+3%
+
+Qg me n t i ons (2%): Priority processing for emergencies andpda4/Om pr ve ~ ~
+
+®/p g r~ h g gy~ y g g ~ g t t r eshold/simplify tax docs, I ovl
+
+Other mentions (1%): Ability to respond to/manage/correct reviews, fix bugs and/or clarify error messages, better promotion of my app, allow testing on/ keep older iOS versions, enable promo codes to work in any country, ability to delete App Ids, simplify language management, add garbage collection, issues with release dates, drop/ease on NDAs.
+
+Base: allrespondents. Q13 -- What one thing could Apple do to make the iPhone Developer Program better?
+
+24
+
+CONFIDENTIAL
+
+DX-3781.052
+
+APL-APPSTORE 09324498
+
+CONFIDENTIAL
+
+DX-3781.053
+
+APL-APPSTORE 09324499
+
+Half of developers in France and Germany
+
+are satisfied with the time it takes to get
+
+updates available on the App Store; less
+
+than half in
+
+oth r,,,countries
+
+52YO
+
+Time it takes to get updates avai I ab I e on the App Store
+
+Visibility of your
+app on the App Store
+
+... 2.09o....
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+US
+
+~ ~ UK
+
+FR
+
+GE
+
+JP
+
+Satisfaction (top-2 box)
+
+Base: Developers with approved apps, excluding don't know (Ns vary). Q25 -- Please rate your level of satisfaction with the length of time it takes to
+
+get updates available on the App Store. Q26 -- Please rate your level of satisfaction with the visibility of your app on the App Store.
+
+26
+
+CONFIDENTIAL
+
+DX-3781.054
+
+APL-APPSTORE 09324500
+
+Developers complain about the sheer quantity of apps on the store and their
+
+41 Lack of visibility: too many apps, only visible when on a list (e.g., Top 10)
+42 SGITle App Store categories too
+broad
+
+47 Unfair/misleading reviews cause
+ml s sed sa,le s
+48 There isn't enough rotation/ shuffling of apps in App5tore lists
+
+43 Too many spBm apps. In the s'tof e
+
+44 Problems with search (e.g., do not understand why their app is so low on
+45 Re/word searches do not bring up
+app, k.eywOrd r'estrlctlons too li miting
+46 Feel neglected as a small/ independent developer
+
+Compared to last wave. · ·
+-- Ability to change keywords after submission is no longer a major issue
+-- More mentions about problemswith search
+-- l3evelopers think search keywords are too
+
+R easons for d i ssatisfaction: Visibility of Ap p o n th e App Store (in decreasing order of m e n t i o n s )
+
+Q27/28/29. What is the main reason you are dissatisfied with [AREA]. Q30. What could Apple do to make [AREA] better?
+
+27
+
+CONFIDENTIAL
+
+DX-3781.055
+
+APL-APPSTORE 09324501
+
+CONFIDENTIAL
+
+DX-3781.056
+
+APL-APPSTORE 09324502
+
+Developers still feel it takes too long to update an App that is already approved
+However, many suggested that wait times have
+
+41 Takes too long tG update App: Ite.g., 7+ days is tGG long, should be
+42 Hard to .comtYlunicate with
+customers when ne® update willbe available; causes negative
+4 3 Takes '%Arne: atYlount Gf time as
+
+Compared to last wave. · ·
+-- Many mentioned that there should be priority on critical updates - Some want to be able. to tell the status of app update so they can more easily relay that information to customel's -- Ifalt tlrne for update's see'ms to have decreased significantly (from 15 to 7 days)
+
+Reasons for dissatisfaction: Time it takes to get updates available on the App Store (in decreasing order of mentions)
+
+Q27/28/29. What is the main reason you are dissatisfied with [AREA]. Q30. What could Apple do to make [AREA] better?
+
+29
+
+CONFIDENTIAL
+
+DX-3781.057
+
+APL-APPSTORE 09324503
+
+CONFIDENTIAL
+
+DX-3781.058
+
+APL-APPSTORE 09324504
+
+The App review process is still an issue
+
+for roughly half of all developers
+More are satisfied with the duration and clarity
+
+Of f Mk)aGk Overall
+
+"
+
+'
+
+'
+
+'0~
+
+"~
+
+' "
+
+4 s~
+
+~4w ,
+
+3 59'
+
+satisfactio
+
+n
+
+Clarity of feedback from app review team
+Duration of the app review process
+
+39Yol
+
+% P'
+
+Responsive -ness to
+inquiries from team
+
+Jul 2010 Feb 2010
+
+3 3Yo J u l 2010 F e b 2010 J u l 20 10 Feb 2010 Jul 2010
+
+Feb 2010 Jul 2010 Feb 2010
+
+US
+
+~ ~ UK
+
+FR
+
+CE
+
+JP
+
+Satisfaction (top-2 box)
+
+Base: Developers with submitted or approved apps, excluding don't know (Ns vary). Q23 -- Please rate your level of satisfaction with each of the
+
+following aspects of the application review process (using iTunes Connect).
+
+31
+
+CONFIDENTIAL
+
+DX-3781.059
+
+APL-APPSTORE 09324505
+
+The time it takes to hear back from the review team continues to be an issue
+
+Pl Time it takes to hear back,
+
+42 Rejection critel"Ia Is Incon5istent
+and/t or not transparent (some
+
+N3 Feedback from app review team is not clear, use of boilerplate
+
+P4 Would likemori visibility in the process, and an ETA ~
+
+Compared to last wave. · ·
+
+45 Some have not yet heard back from App review team
+46 Some complain that n0 all feedback isgiven at once
+
+-- l3evelopers expect faster turnaround times:
+ideally less than 2 days for most inquiries
+-- More developerscomplainedabout lack of
+response outside theIr tllYle ~ne
+
+Reasons for dissatisfaction: App Review Process (in decreasing order of mentions)
+
+Q27/28/29. What is the main reason you are dissatisfied with [AREA]. Q30. What could Apple do to make [AREA] better?
+
+32
+
+CONFIDENTIAL
+
+DX-3781.060
+
+APL-APPSTORE 09324506
+
+CONFIDENTIAL
+
+DX-3781.061
+
+APL-APPSTORE 09324507
+
+With regard to tracking and managing
+
+finances, the accuracy of payments and the
+
+process of receiving payments have the
+
+satisfaction
+
+S7X
+
+sate
+
+55W
+
+SS»
+
+6<~
+
+6 3~
+
+S~W
+
+3 9Fpt
+
+g] oj
+
+Accuracy of payments
+Process of
+
+62X
+
+"
+
+"
+
+"6~~>1"" """579e""""""" 589o" "
+
+60o/o..
+
+payments
+Timeliness of receiving payments
+Download s and Sales
+
+49olo"
+
+6 sing'i
+499~ " " 43oio"
+
+... 3.6% ....
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+Q US
+
+UK Q FR Q CE
+
+® JP
+
+Satisfaction (top-2 box)
+
+Base: Developers with at least one paid app, excluding don't know (Ns vary). Q24 -- Please rate your level of satisfaction with each of the following
+
+aspects oftracking and managing finances {using iTunes Connect).
+
+34
+
+CONFIDENTIAL
+
+DX-3781.062
+
+APL-APPSTORE 09324508
+
+Reporting issues and payment delays are the most common complaints
+
+41 Mfant better financial reporting
+
+47 Excessive wire transfer fees,
+wan"t other fGrlTIS of payment
+
+4f2 Billing problems: delays in
+payments or problemswith billing
+
+N3 Payments arenot received uriless minimum is met (several
+
+44 No conso i-.ation o n a ncia information for apps sold across different territories (i.e., regions or
+
+Compared to last wave. · ·
+
+45 Mismatch between financials, reports Bid actus,I PByments
+46 Sales data should be stored for
+lon er than 6-7 clays
+
+-- l3evelopers are mere likely to request better financial reporting dlr&ctly from Apple (i.e., not third-party apps) -- Less likely to romplain about billing issues,
+
+Reasons for dissatisfaction: Tracking and Managing Finances (in decreasing order of mentions)
+
+Q27/28/29. What is the main reason you are dissatisfied with [AREA]. Q30. What could Apple do to make [AREA] better?
+
+35
+
+CONFIDENTIAL
+
+DX-3781.063
+
+APL-APPSTORE 09324509
+
+CONFIDENTIAL
+
+DX-3781.064
+
+APL-APPSTORE 09324510
+
+Ease of creating certificates and profiles is the most challenging aspect of the
+
+Overall satisfaction
+
+6 5o/'
+
+6 5/
+
+. 65%
+
+5.7o/... ..........61/o
+
+Ease of managing team members
+managing devices
+
+6 2X . .64%. . 6 1 /
+
+.
+
+.
+
+.
+
+5r6/o " " 5 6 / o ""
+
+......61./o.
+
+.
+
+.
+
+.
+
+.61/o.......... ..62./o...... . . .
+
+.62/o...
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.5.8./,... ..........57/ ..... .
+
+5r6o/o
+
+41o/
+
+38o/
+
+Ir w
+
+Ease of creating profiles
+Ease of creating certificate s
+
+5'0/o " "" 5.0/o""
+
+43o/o
+
+... 3.6% .... 44/o
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+US
+
+~ ~ UK
+
+FR
+
+CE
+
+® JP
+
+Satisfaction (top-2 box)
+
+Base: Developers with approved apps, excluding don't know (Ns vary). Q21 -- Please rate your level of satisfaction with each of the following aspects of
+
+providing resources in the Member Center.
+
+37
+
+CONFIDENTIAL
+
+DX-3781.065
+
+APL-APPSTORE 09324511
+
+The 100-device limit is an issue for many who are dissatisfied with the Member
+
+47 Lack of clear documentation for how to create profiles
+
+N2 DifFiculty creating profiles, bar
+to Install In Xcode
+
+48 Certificates expire too quickly
+and renewal is complicated
+
+43 Managing devices Is too complicated: too many steps and har
+
+49 Profiles expire too quickly
+
+44 100-device limit is very constraining for testing multiple
+
+410 %/ant to a:dd Alernl3er5 'to an individual account
+
+45 Complications managing team members (e.g., assigning
+46 ac k of clear documentation on how to create certificates
+
+Compared to last wave. · ·
+- More dissatisfaction with manarging devices -- More problems with profiles expiring too quickly -- Less likely to complain about certificates ex irin u ic k l y, problems addin device Ios,
+
+Reasons for dissatisfaction: Member Center (in decreasing or er o m e n t i ons
+
+Q27/28/29. What is the main reason you are dissatisfied with [AREA]. Q30. What could Apple do to make [AREA] better?
+
+38
+
+CONFIDENTIAL
+
+DX-3781.066
+
+APL-APPSTORE 09324512
+
+CONFIDENTIAL
+
+DX-3781.067
+
+APL-APPSTORE 09324513
+
+Submitting metadata and setting up banking and tax information are the most challenging aspects of the app
+68:»o
+
+Ease of submittin g binary
+managing contracts
+Ease of submitting metadata
+Setting up tax form/ banking informatio n
+
+70%
+
+7094
+
+58»
+
+6 7»o
+
+6'9 » o
+
+~g
+
+65»
+
+59»
+
+68»o
+
+6 3%
+
+6
+
+55N
+
+52%$
+
+46»o $ 34»o.
+
+Jul 2010 Feb 2010 J u l 2010 F e b 2010 J u l 20 10 Feb 2010 Jul 2010 F e b 2010 J u l 201 0 F e b 20 10
+
+Q us j-,' uic
+
+FR
+
+CE
+
+® JP
+
+Satisfaction (top-2 box)
+
+Base: Developers with submitted or approved apps, excluding don't know (Ns vary). Q22 -- Please rate your level of satisfaction with each of the
+
+following aspects of the Application submission process (using iTunes Connect).
+
+40
+
+CONFIDENTIAL
+
+DX-3781.068
+
+APL-APPSTORE 09324514
+
+Many complained about the screenshot submission process, specifically the upload
+
+41 Hard to sLlbmit metadata (e.g., screenshots, platfolm is clunky, not
+42 e gal requirements are too UScentric (international developers)
+N3 Complicated to manage and fill out contracts I hard to update info
+
+46 Hard to read English-only documents (international
+47 Local bank/credit union does not SLlpport Apple requirements
+48 Me a a a uploa i s o o slow (e.g. often lose connection, and can' t save work in the middle)
+
+4 4 Binary at@ gets rejecte t o o often without explanation
+
+Compared to last wave.· ·
+-- More developers are concerned with the
+
+45 Process for submitting binary data is complicated and there are too many steps that aren't outlined beforehand (e.g. the ol"del" Is reversed, binary data must be
+
+process of uploading metadata and binary data -- it is too complicated and not well explained -- Fewer developers have issues with the co t ac s and legal requ r m n
+
+eve opers e e a I al'y u p o a I
+
+R easons for d i s satisfaction: Application su b m i s s ion p r o cess (in decreasing order of m e n t i o n s )
+
+Q27/28/29. What is the main reason you are dissatisfied with [AREA]. Q30. What could Apple do to make [AREA] better?
+
+CONFIDENTIAL
+
+DX-3781.069
+
+APL-APPSTORE 09324515
+
+CONFIDENTIAL
+
+DX-3781.070
+
+APL-APPSTORE 09324516
+
+Most are satisfied with the enrollment
+
+p I'0 s s s 77v
+Overall satisfaction
+
+5¹j o*
+
+50 j
+
+~
+
+· a
+
+Purchas e process
+Ease of enrollment process
+
+74oA
+
+60ojo"
+
+Explanatio n of benefits pree nro I lme nt
+I Llenu l y
+verification process
+Clarity of feedback from enrollment
+Responsiv e-ness to inquiries
+
+0
+
+s.19o...
+
+.
+
+...
+
+.
+
+.
+
+..
+
+29~/o
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+US
+
+~ ~ UK
+
+FR
+
+CE
+
+® JP
+
+Satisfaction (top-2 box)
+
+Base: Developers with approved apps, excluding don't know (Ns vary). Q18 -- Please rate your level of satisfaction with each of the following aspects of the enrollment
+
+process.
+
+43
+
+CONFIDENTIAL
+
+DX-3781.071
+
+APL-APPSTORE 09324517
+
+The time it takes to hear back from the enrollment team was again the most
+
+Pl Takes too long to hear from the
+
+42 Feedback from enrollment team
+is not clear (e.g., canned responses,
+
+43 ld ntit v e r i fi ation ta s t
+much time and effort (particularly
+u sin fax and cred ltcard s
+N4 Process and requirements are too US-centric (particularly Japan)
+45 Lag between payment and activation (should be
+46 ss ues with credit cards (i.e. name not matching or not wanting
+
+Compared to last wave. · ·
+-- Many fewer people complained about not knowing the enrollment fee was recurring -- VK and 'GE developers were slightly less likely to complain about the verification pro'cess -- More JP developers corn lained about
+
+Reasons for dissatisfaction: Enrollment process (in decreasing order of mentions)
+
+Q27/28/29. What is the main reason you are dissatisfied with [AREA]. Q30. What could Apple do to make [AREA] better?
+
+44
+
+CONFIDENTIAL
+
+DX-3781.072
+
+APL-APPSTORE 09324518
+
+CONFIDENTIAL
+
+DX-3781.073
+
+APL-APPSTORE 09324519
+
+Most developers are satisfied with the development resources on the website
+
+P % W ~ P % W P% W ~ ~ ~
+
+iPhone reference
+library
+
+.......82o/o...............81N ...............81%...............65/ol.....
+
+.
+
+.
+
+.
+
+.819e... .78o/o... . .
+
+..
+
+.
+
+.
+
+..
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.81o/o...
+
+.
+
+..
+
+... 77oo.
+
+Developer forums
+Sample Code
+
+7 3%
+
+74 o/o
+
+72%
+
+7 5%
+
+6 go/
+
+75/of
+
+70/ o
+
+7 1-9~
+
+General
+usabiilty/
+org
+Getting Started videos
+
+67/o
+
+67o/o'
+
+70o/o
+
+64o/oi
+
+64/of
+
+Jul 2010 Feb 2010 J u l 2010 F e b 20 10 Jul 2010 Feb 2010 J u l 201 0 F e b 201 0 J u l 201 0 F e b 20 10
+
+US
+
+i ~ UK
+
+FR
+
+CE
+
+JP
+
+Satisfaction (top-2 box)
+
+Base: Developers with approved apps, excluding don't know (Ns vary). Q20 -- Please rate your level of satisfaction with each of the following aspects
+
+of the Development resources on the website.
+
+46
+
+CONFIDENTIAL
+
+DX-3781.074
+
+APL-APPSTORE 09324520
+
+Developers were dissatisfied with the lack of organization, particularly for the
+
+41 Site is poorly organiz-ed, lacks structure (particularly an issue in
+k2 Too little sa e e, wan more snippets and examples
+43 Developer forums -should have more functionality
+
+P7 Lack of examples,
+documentation and sample code in
+the iphone Reference Library
+48 Better search capabilities for
+code
+49 Add o re corn en ary and examples to existing code
+
+4f4 l3eveloper forums' content is
+incomplete and/or outdated, and
+theI'e Is no Apple InvolvelTlent
+45 More multi-language documentation and support
+ettlng tarte v l eos are too vague anti/of' sup'.e flclal
+mentions)
+
+4P16Sample code library should be u -dated more frequently to match
+
+Compared to last wave. · ·
+
+;ant resources
+
+-- Respondents are mere likely to complain
+
+about sample code library not being up-to-
+
+'i%5%86kft '
+
+KM'
+
+Q27/28/29. What is the main reason you are dissatisfied with [AREA]. Q30. What could Apple do to make [AREA] better?
+
+47
+
+CONFIDENTIAL
+
+DX-3781.075
+
+APL-APPSTORE 09324521
+
+CONFIDENTIAL
+
+·
+
+·
+
+DX-3781.076
+
+APL-APPSTORE 09324522
+
+Interface builder received lower satisfaction ratings this wave, and some developers are saying they prefer to skip
+
+Xcode
+
+66.»o. 89»
+
+..84o»o
+
+80o»o
+
+Instrument s
+Interface Builder
+
+69»o "
+74o» ""
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+US
+
+i ~ UK
+
+FR
+
+CE
+
+® JP
+
+Satisfaction (top-2 box)
+
+Base: Developers with approved apps, excluding don't know (Ns vary). Q19 -- Please rate your level of satisfaction with each of the following aspects
+
+of the iPhone Software Developer Kit (SDK).
+
+49
+
+CONFIDENTIAL
+
+DX-3781.077
+
+APL-APPSTORE 09324523
+
+The SDK is too complicated for those new to Mac and/or accustomed to other tools
+
+Pl Tools ale t66 cowpllcated and
+
+47 Poor code completion in Xcode,
+not auf.olTlatecl ellGugll
+
+42 %ould like more integration betvveen tools (particularly Xcode
+N3 Information frow Instruments is too hard to use, particularly on
+
+4'8 Sifnulator dGes not accurately
+resembledevicespec'd,and sofne
+would like to test connectivity (3t
+49 la is too removed from code arid/or hides too much information
+
+44 iPhone simulator does not accurately simulate camera, GPS,
+
+Compared to last wave. · ·
+
+-More developers say they are skipping using
+
+45 Too lYI3,nywindows ln .Xcode and
+I E: Same want m ore i n t u i t i v e
+46 Do not like IB's drag and drop
+and/Gr havp. cGnnectlGn issues with
+k@4kfl44@bA@8C%53lfaction: iPhone $0,tware Develop
+mentions
+
+IB altogether -- Fewer complaints about download size for SDK updates, and Windows compatibility -- For IB, a few complained about the program defaultin t o .SWAN screen size, vertical
+
+Q27/28/29. What is the main reason you are dissatisfied with [AREA]. Q30. What could Apple do to make [AREA] better?
+
+50
+
+CONFIDENTIAL
+
+DX-3781.078
+
+APL-APPSTORE 09324524
+
+s ects o t e i t at av e
+
+m ee
+
+eve o ment
+
+i stri u t i o n
+
+CONFIDENTIAL
+
+DX-3781.080
+
+APL-APPSTORE 09324526
+
+One-third of US developers say that the
+duration of the app review process has impeded their ability to develop and
+
+Duration of app review process
+
+3 3Yo
+
+35Y
+
+28'Yo
+
+2 SY
+
+30Yo
+
+14/o
+
+28Yo
+
+2 8 Yo
+
+Clarity of feedback from app
+review team
+
+16Yo
+
+12oA
+
+Responsiv e-ness to inquiries from team
+
+......20ojo.
+
+23Yoi
+
+11o/o
+
+10Yo
+
+9Yo
+
+10Yo
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+US
+
+i ~ UK
+
+FR
+
+CE
+
+JP
+
+il3P aspects as impediments
+
+N=
+
+984
+
+2,89 5
+
+54 2
+
+579
+
+279
+
+30 1
+
+450
+
+487
+
+403
+
+Base: Developers with approved apps. Q31 -- Which of the following aspects of the iDP experience have impeded your ability to develop and/or
+
+distribute iPhone, iPad or iPod touch applications successfully on the App Store?
+
+399
+53
+
+CONFIDENTIAL
+
+DX-3781.081
+
+APL-APPSTORE 09324527
+
+Application visibility and time it takes to
+get updates available continue to be an impediment to roughly 20% of developers
+
+409oi
+
+Visibility of your
+app on the App Store
+
+28'jot
+
+26'Yo"
+
+2W6" "
+
+Time to
+get updates available
+on App Store
+
+16Yoi
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+Q US
+
+UK Q FR Q CE
+
+® JP
+
+il3P aspects as impediments
+
+N=
+
+984
+
+2,89 5
+
+54 2
+
+579
+
+279
+
+30 1
+
+450
+
+487
+
+403
+
+Base: Developers with approved apps. Q31 -- Which of the following aspects of the iDP experience have impeded your ability to develop and/or
+
+distribute iPhone, iPad or iPod touch applications successfully on the App Store?
+
+399
+54
+
+CONFIDENTIAL
+
+DX-3781.082
+
+APL-APPSTORE 09324528
+
+Ease of creating certificates/profiles is an
+
+issue for one in every five developers,
+
+Ease of creating certificate s
+
+21%
+
+20y,
+
+1996
+
+16Y
+
+Ease of creating
+profiles
+
+1 pe
+
+1 7Ye
+
+( 7~/o p 1m2%
+
+15Y
+
+Ease of managing
+devices
+
+So/o
+
+Ease of managing
+team members
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+Q US
+
+UK Q FR Q CE
+
+® JP
+
+il3P aspects as impediments
+
+N=
+
+984
+
+2,89 5
+
+54 2
+
+579
+
+279
+
+30 1
+
+450
+
+487
+
+403
+
+Base: Developers with approved apps. Q31 -- Which of the following aspects of the iDP experience have impeded your ability to develop and/or
+
+distribute iPhone, iPad or iPod touch applications successfully on the App Store?
+
+399
+55
+
+CONFIDENTIAL
+
+DX-3781.083
+
+APL-APPSTORE 09324529
+
+Very few developers think the SDK has impeded their ability to create
+
+Xcode
+
+10o/o
+
+10o/o
+
+1 4/ol
+
+iPhone
+
+Simulator
+
+6/o
+
+6/o
+
+Interface Builder
+
+5/o
+
+3 o/
+
+Instrumen
+
+ts
+
+3/o
+
+6o/o
+
+4/o
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+US
+
+i ~ UK
+
+FR
+
+CE
+
+JP
+
+iDP aspects as impediments
+
+N=
+
+984
+
+2,89 5
+
+54 2
+
+579
+
+279
+
+30 1
+
+450
+
+487
+
+403
+
+Base: Developers with approved apps. Q31 -- Which of the following aspects of the iDP experience have impeded your ability to develop and/or
+
+distribute iPhone, iPad or iPod touch applications successfully on the App Store?
+
+399
+56
+
+CONFIDENTIAL
+
+DX-3781.084
+
+APL-APPSTORE 09324530
+
+Development resources are also not a big impediment
+
+Sample
+
+9/o
+
+code
+
+l4o/
+
+1 1/o
+
+5o/o
+
+General
+usabliity/
+org
+iphone referenc e library
+Developer forums
+
+7/o 4o/o
+
+6o/o
+
+6/o
+
+4o/o
+
+6o/o
+
+go/
+
+5/o
+
+8,0/
+
+Getting Started videos
+
+1/o
+
+0o/
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+Q us
+
+uii
+
+FR
+
+CE
+
+® JP
+
+iDP aspects as impediments
+
+N=
+
+984
+
+2,89 5
+
+54 2
+
+579
+
+279
+
+30 1
+
+450
+
+487
+
+403
+
+Base: Developers with approved apps. Q31 -- Which of the following aspects of the iDP experience have impeded your ability to develop and/or
+
+distribute iPhone, iPad or iPod touch applications successfully on the App Store?
+
+399
+57
+
+CONFIDENTIAL
+
+DX-3781.085
+
+APL-APPSTORE 09324531
+
+Setting up tax forms/banking information and ease of managing contracts is less of an impediment in Japan compared to
+
+Ease of submittin g binary data
+
+1 3/o
+
+1 2/o
+
+10o/o
+
+10/o
+
+10o/o
+
+5Yo
+
+Ease of submitting metadata
+
+8 Yo
+
+Setting up tax form/ banking informatio n
+Ease of managing contracts
+
+5Yo
+
+7/o 5 Yo 2Yo
+
+7/o 7Yo
+
+6/o'
+
+6/o'
+
+9o/ i
+
+1 5Yo
+
+2:1Yoi
+
+4Yo
+
+4Yo
+
+Zoo
+
+2Yo
+
+13Yol
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+US
+
+i ~ UK
+
+FR
+
+CE
+
+JP
+
+il3P aspects as impediments
+
+N=
+
+984
+
+2,89 5
+
+54 2
+
+579
+
+279
+
+30 1
+
+450
+
+487
+
+403
+
+Base: Developers with approved apps. Q31 -- Which of the following aspects of the iDP experience have impeded your ability to develop and/or
+
+distribute iPhone, iPad or iPod touch applications successfully on the App Store?
+
+399
+58
+
+CONFIDENTIAL
+
+DX-3781.086
+
+APL-APPSTORE 09324532
+
+While tracking and managing finances
+(e.g., accuracy of payments) is an issue for some, it seldom deters them from
+
+Download
+
+s and sales
+
+6/o
+
+7/o
+
+reports
+
+Timeliness of receiving
+payments
+
+0%
+
+0%
+
+Process of receiving
+payments
+
+4%
+
+2%
+
+4%
+
+3%o
+
+1%
+
+2%
+
+7%1 8%1
+
+Accuracy of payments
+
+1/o
+
+1/o
+
+Oo/o
+
+loo
+
+0/o
+
+Oo/o
+
+5o/oi
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+Q US
+
+UK Q FR Q CE
+
+® JP
+
+il3P aspects as impediments
+
+N=
+
+984
+
+2,89 5
+
+54 2
+
+579
+
+279
+
+30 1
+
+450
+
+487
+
+403
+
+Base: Developers with approved apps. Q31 -- Which of the following aspects of the iDP experience have impeded your ability to develop and/or
+
+distribute iPhone, iPad or iPod touch applications successfully on the App Store?
+
+399
+59
+
+CONFIDENTIAL
+
+DX-3781.087
+
+APL-APPSTORE 09324533
+
+Japanese developers still find it diNcult
+
+to enroll in the iDP program
+
+Identity
+
+verificatio
+
+6/o
+
+n process
+
+g,oj
+
+4oo
+
+Responsive -ness to
+inquiries from team
+
+Clarity of
+
+feedback
+
+3/o
+
+from team
+
+Ease of
+
+enrollment
+
+3/o
+
+process
+
+4/e 1/e 4/e
+
+10/o
+10oo 3/e,
+17/ol
+tx
+
+Purchase
+
+process
+
+1/e
+
+program
+
+1 /o
+
+1/o
+
+2/o
+
+1/o
+
+0oe
+
+0/e
+
+5/o
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+Q us
+
+uR
+
+FR
+
+CE
+
+I Jp
+
+iDP aspects as impediments
+
+N=
+
+984
+
+2,89 5
+
+54 2
+
+579
+
+279
+
+30 1
+
+450
+
+487
+
+403
+
+Base: Developers with approved apps. Q31 -- Which of the following aspects of the iDP experience have impeded your ability to develop and/or
+
+distribute iPhone, iPad or iPod touch applications successfully on the App Store?
+
+399
+60
+
+CONFIDENTIAL
+
+DX-3781.088
+
+APL-APPSTORE 09324534
+
+wareness an s a tis action w it recentc a n es to t e i
+
+CONFIDENTIAL
+
+DX-3781.090
+
+APL-APPSTORE 09324536
+
+While most are aware of the WWDC videos,
+
+less than half are aware of the member
+
+Early availabi lit
+y of WWDC videos to all registered Apple
+Developer Pew developer.
+apple.corn site navigation
+
+76Ão
+
+6.8/o
+
+58/o ..40~/o......
+
+53/o
+
+New Member
+Center
+
+45/o
+
+34/o
+
+50/o
+
+New Developer
+Support Center
+
+Jul 2010
+
+32/o Jul 2010
+
+....17o/o.
+
+.
+
+.
+
+.
+
+..
+
+JHI 2010
+
+JHI 2010
+
+Jul 2010
+
+Q US
+
+gwi ~v UK
+
+FR
+
+CE
+
+® JP
+
+Awareness of changes
+
+N=
+
+984
+
+542
+
+279
+
+45Q
+
+403
+
+Base: Developers with approved apps. Q32a -- In an effort to better serve you, several changes were recently made to the iPhone Developer Program. 63
+
+Which of the following recent changes were you aware of prior to taking this survey?
+
+CONFIDENTIAL
+
+DX-3781.091
+
+APL-APPSTORE 09324537
+
+CONFIDENTIAL
+
+DX-3781.092
+
+APL-APPSTORE 09324538
+
+Most developers are satisfied with the time it took for WWDC videos to be
+
+Time it took to have WWDC
+2010 session videos
+RSVP
+of informatio
+n at the Developer Support Center Amount of informatio
+n at the Developer Support Center
+New Developer Tools and Technolog ies section at developer. apple.corn
+
+76%
+Jul 2010
+Q us
+
+Jul 2010
+uR
+
+77oo
+JHI 2010
+FR
+
+70/o
+
+47%
+
+JHI 2010
+CE
+
+Jul 2010
+® JP
+
+Satisfaction (top-2 box)
+
+Base: Developers with approved apps who are aware of each change. Ns vary. Q32b -- Please rate your level of satisfaction with each of the following recent changes to the iDP program.
+
+CONFIDENTIAL
+
+DX-3781.093
+
+APL-APPSTORE 09324539
+
+Except for JP, more than half are satisfied with ease of use and navigation for the
+
+Ease of use for the Member
+Center
+
+69'jo
+
+Ease of navigation for the developer. apple.corn site
+Ease of navigation for the Member Center
+
+74/o
+
+70o/o
+
+Ease of
+finding informatio nat
+developer. apple.corn
+
+Jul 2010
+Q us
+
+Jul 2010
+uR
+
+JHI 2010
+FR
+
+JHI 2010
+CE
+
+Jul 2010
+® JP
+
+Satisfaction (top-2 box)
+
+Base: Developers with approved apps who are aware of each change. Ns vary. Q32b -- Please rate your level of satisfaction with each of the following recent changes to the iDP program.
+
+CONFIDENTIAL
+
+DX-3781.094
+
+APL-APPSTORE 09324540
+
+romotion an ar etin
+
+CONFIDENTIAL
+
+DX-3781.096
+
+APL-APPSTORE 09324542
+
+Only a minority of developers have incorporated iAd rich media ads in their a plications
+
+CJ
++0 Jul 2010
+
+Jul 2010
+
+Jul 2010
+
+Jul 2010
+
+Q us
+
+uR
+
+FR
+
+CE
+
+N=
+
+984
+
+542
+
+279
+
+450
+
+Base: Developers with approved apps. Q33a -- Have you incorporated iAd rich media ads in any of your applications?
+
+Jul 2010
+® JP
+403
+69
+
+CONFIDENTIAL
+
+DX-3781.097
+
+APL-APPSTORE 09324543
+
+Reasons why have not incorporated
+
+lAAsL geLgck (Top reasons)
+
+Reason for not incorporating iAd
+Many developers don't see any benefit from incorporating iAds, and think they will take away from the app experience
+Some suggested that they prefer to charge for their app instead of inflicting iAds on their users
+
+Exam p l e verbatim
+"Don't want to bombard paying customers with ads." --US developer
+"In addition, I feel in paid apps customers will resent ads (they pay to keep app ad free)." -- UK developer "There really is no good place to put an iAd that would not intrude on the user experience." - US developer "Would be an unnecessary distraction."- -UK developer "Wish not to pollute the interface with advertisement... the iPhone's main assets being aesthetic and ergonomic, I don't want to interfere with the interface." --FR developer
+"Would prefer to just charge a fair price than inflict ads on customers. That said, I respect that the iAd system strives to mitigate the negative aspects of ads; just keeping the user *inside* the app is a terrific step." --US developer "Since it's going to be a paid app, it will not have any kind of ads inside. Maybe someday I' ll make a free app with iAd. Not sure." --GE developer "Who pays for it should not be confronted with advertising." --GE developer
+
+Time-factor: Need time to learn/have not had time to look into it/too busy
+
+"Still learning the basics." --UK developer "Not had time to incorporate it yet, but planning to in my next app." --UK developer "Just haven't had time to look into this yet." --UK developer "There's no time to figure out how to use it." --JP developer
+
+Q33a2. What are the main reasons you have not yet incorporated iAd in your application?
+
+70
+
+CONFIDENTIAL
+
+DX-3781.098
+
+APL-APPSTORE 09324544
+
+Reasons why have not incorporated
+
+lAAsL Q g ck (Top reasons)
+
+Reason for not incorporating iAd
+Need more information about
+It.
+Most common mentions include: Want to know how it works, how to implement, iAd effectiveness and payment
+de'taI Is
+
+Exam p l e verbatim
+"Don't really understand it." --JP developer "I would like to see first the ratio between the profits from low-priced apps that are not sold very often to free Apps with iAD." --GE developer "Not enough information." --JP developer "You haven't provided the clear instructions how to." --UK developer "You don't know what will show up. For example, want to avoid having an competitor's ad showed up in our app (and vice versa), the area where the ad will be is unclear. Would like to use it as soon as possible (buying and showing ads both)." - -JP developer
+
+Not flexible enough: only works wl'th iOS 4.0
+
+"It's only supported in iOS4 and later." --JP developer
+"Requires iOS 4+." --UK developer "OS4 and iPhone 4 monopolize all our resources." --FR developer "It only works on iPhone and it only works on iOS 4! Most people never upgrade the firmware." --UK developer
+
+NOt aware t ha t It IS aVaI lab) e I n "There's no iAd support outside of North America." --JP developer
+
+their country (and/or for their speclfIc app)
+
+"The service isn't available for Japan." --JP developer "That these are not yet available in Europe." --GE developer "Not used in the UK yet." --UK developer
+
+"Low fill rates. Not international (UK based)." --UK developer
+
+Q33a2. What are the main reasons you have not yet incorporated iAd in your application?
+
+CONFIDENTIAL
+
+DX-3781.099
+
+APL-APPSTORE 09324545
+
+Reasons why have not incorporated
+
+lAAsL $3gck (Top reasons)
+
+Reason for not incorporating iAd Plan to use in the future
+
+Exam p l e verbatim
+"Plan to use it in the future." --JP developer "Working on completely new version with loads of enhancements which will include an iAd version." --UK developer "Will integrate/test it in future software." --GF developer "Will be implemented in next update." --US developer
+
+Program is too new
+
+"Program still too recent to be convincing." --FR developer "Just started, too early." --US developer "Not tested." --FR developer "Lack of maturity on our market." --FR developer "It's very new." --US developer
+
+Have not heard of it (particularly Japan and UK)
+
+"What's IAd?" --JP developer "Unaware of what this is." --UK developer "Unfamiliar with it as of yet." --UK developer "Never heard of it." --UK developer "I don't know what iAd is." --JP developer
+
+Q33a2. What are the main reasons you have not yet incorporated iAd in your application?
+
+72
+
+CONFIDENTIAL
+
+DX-3781.100
+
+APL-APPSTORE 09324546
+
+CONFIDENTIAL
+
+·
+
+·
+
+DX-3781.101
+
+APL-APPSTORE 09324547
+
+Tracking iAd performance and
+
+ABVQAAM So) rL)ons)
+
+Suggestions for improvement
+Improve and/or simplify the ability to track performance
+
+Example verbatim
+"With small apps, the scalability of charts makes it difficult to read; need more info about requests for ads and so on - - lack of clarity regarding what the information on the iAd web site means and implies to developers." --JP developer "Need a way to download it. Also need a summary for the month total too." --US developer "Very confusing.... please provide clearer scaling values and statistics." --GE developer "It is not possible to sort the table by date (incorrect sorting). Is it real-time? When will the ad be available outside the US?" --FR developer "I would love to see a combined way to track both iAd revenue and standard AppStore paid revenue similar to the AppFigures website." --US developer "Cannot navigate from iAd portal back to iTunes Connect main portal." --US developer
+
+Improve fill rate
+
+"We have iAd in 3 apps, 2 ofwhich have added thousands of requests but zero impressions. Why is this? We have no idea why one of our apps receives ads and 2 others do not. They are all using the exact same code and were all approved by Apple." --US developer "The fill rate is abysmally low, so my iAd-supported app looks just like the paid, full version...no ads!" --US developer "Want to confirm when the service will start in Japan. Fill rate is low." --JP developer
+"The fill rate is currently very low. There is right now no way to find out why." --GE developer
+"I have been very disappointed with the fill rate of iAds in my app: 0.0% after many weeks and several thousand requests." --UK developer
+
+Q33al. Do you have any suggestions or feedback re: Ability to track iAd performance and revenues in the iTunes connect iAd network portal?
+
+CONFIDENTIAL
+
+DX-3781.102
+
+APL-APPSTORE 09324548
+
+Tracking iAd performance and
+
+ABVQAAM So) 2 )ons)
+
+Suggestions for improvement
+Mtould like to know when iAd is available globally
+
+Example verbatim
+"We at least want information regarding the availability of iAd in Europe." --FR developer "It would be good to let developers know that iAd currently only works in the USA." --FR developer "Do not announce: iAd is released globally and then do USA ONLY." --GE developer
+
+Positive feedback: developers like real-time reporting
+
+"Love the near real-time reporting!" --US developer "I love the iAd portal because it is live and has great data breakdown and graphing." -- US developer "I like how it updates near real time." --US developer "Easy and fun to use." --GE developer "Also excellent and almost real time! I would rate it better than the other iTunes connect interfaces." --US developer
+
+Q33al. Do you have any suggestions or feedback re: Ability to track iAd performance and revenues in the iTunes connect iAd network portal?
+
+CONFIDENTIAL
+
+DX-3781.103
+
+APL-APPSTORE 09324549
+
+Ease of Incorporating iAd in your app
+
+nLgd feedback (Top reasons)
+
+Suggestions for improvement
+Simplify, make it easier
+
+Example verbatim
+"When you drop the component into IB, it should automatically add the necessary libs to your project in XCode." --US developer "We believe it would be essential to simplify the inclusion of iAds in an application, having to generate and include a profile for each application is cumbersome, we believe a string identifying the application would be much more flexible and more simple (similarly to networks such as Adwhirl or AdMob for instance)." --FR developer "iAd integration for combined iPhone/iPad apps and for 3.2 backward compatible apps was difficult to accomplish." --GE developer "I wanted iAds to be at the top of my entire application. This was difficult to incorporate when I had to add a subview to each view, so I attempted to encapsulate my entire tabview in another view, with iAds at the top. This caused problems with pushing/popping modal views and had inconsistent affects on automatically scrolling a tableview when the keyboard was visible." - US developer
+
+Better documentation
+
+"There NEEDS to be a source example for iAds as well as clear documentation of its requirements. I had to resort to a Google search to figure out what to include in the project. I had to guess what headers I needed and where they were. And my app was initially rejected because I didn't implement hiding of the banner if it's empty. All of this could have been avoided with a simple example or even more verbose documentation." --US developer
+"The WWDC video had incomplete code and no simple samples were available. Took me many hours to get answers on the dev forum. In contrast, I integrated Mobclix into one of my apps in about 30 minutes due to their excellent documentation and sample code." --US developer
+"I would have liked a complete example of code in addition to the video." --FR developer
+
+Q33al. Do you have any suggestions or feedback re: Ease of incorporating iAd in your application.
+
+76
+
+CONFIDENTIAL
+
+DX-3781.104
+
+APL-APPSTORE 09324550
+
+Ease of Incorporating iAd in your app
+
+r2igd feedback (Top reasons)
+
+Suggestions for improvement
+Make it available with other systems/devices (particularly
+ios 3 and ipad)
+
+Example verbatim
+"You should make it easier to incorporate iAD on apps targeting iPhone OS3." --UK developer "We'd like to have an iPad version. The possibility of having your ad network would be interesting." --FR developer "I would like it on the iPad though." --US developer "Unless you want to drop support for iOS 3, the IB option isn't useful." --US developer "The lack of support for iOS 3.x proved to be quite annoying. I had search user forums for a way to keep my app from crashing for most users who can't or haven't yet upgraded to iOS 4 when a simple Sample Code application that checks for version of the OS or presence of the class would have been great." --US developer
+
+Make it available in other countries (particularly Japan)
+
+"Waiting for it to be offered in Japan." --JP developer "Please start this in Japan!" --JP developer "Hope that service will start in Japan soon." --JP developer "iAds aren't showing up in Japan yet, but it's attractive because the code is all there." --JP developer
+
+Q33al. Do you have any suggestions or feedback re: Ease of incorporating iAd in your application.
+
+77
+
+CONFIDENTIAL
+
+DX-3781.105
+
+APL-APPSTORE 09324551
+
+·
+
+·
+
+CONFIDENTIAL
+
+DX-3781.106
+
+APL-APPSTORE 09324552
+
+Developers promote their apps on their own websites, on blogs, or w/social
+
+® us
+
+UK
+
+FR
+
+GE
+
+JP
+
+N= Promoted on my/our own website
+Blog ging
+
+Jul 2010 Feb 2010 Jul 20 10 Feb 2010 Jul 2010
+
+984
+
+2,89 5
+
+54 2
+
+579
+
+27 9
+
+6 9% 6 8% 6 6% 70% 6 2%
+
+4 7% 44% 49oo 50oo 4 1 %
+
+Fe b 2010 Jul 20 10 Feb 2010 Jul 2010 Feb 2010
+
+30 1
+
+4 50
+
+487
+
+403
+
+399
+
+66% 6 2oo 6 7% 4 0 % 46%
+
+50 % i 29% 3 6%i 4 6 % 50%
+
+Advertising through social networks
+Viral marketing
+
+43oi' 41o 44% 4 1% 4 3% 4 5% 4 1% 40oo 32oo 31% 3 5% 36 % 28% 3 4%I 2 7 % 3 1% 3 5% 38% 1% 2%
+
+PR outreach efforts
+Promoting through participation in online
+
+3 3%1 3 0 % 28% 29% 29 % 3 2% 3 2% 3 1oo 5% 3 3% 32 % 34% 36% 30 % 36% 2 6% 34%1 7%
+
+12%I 13%1
+
+Search-engine related advertising
+Banner ads/links on web versions of your/
+~~ lX ~ l YEX 4 k l %ll'
+Banner ads on iphone
+apps you/your company
+
+2 2% 1 9% 1 7%
+
+2 1% 19% 18%
+
+20%
+16oo
+12%
+
+1 9% 1 0 % 12% 1 6 % 14% 2 1%i 1 7 % 2 2% 15 o o 16% 1 6%i 1 9 % 2 0% 10 % 1 3oo
+
+8% 13%
+16 oo
+
+11% 17% 20%
+
+Base: Developers with approved apps. Q33 -- What, if anything, are you doing to promote and market your applications?
+
+79
+
+CONFIDENTIAL
+
+DX-3781.107
+
+APL-APPSTORE 09324553
+
+Not surprisingly, very few are likely to promote their apps on TV or through
+
+US
+
+~i~ UK Q FR Q GE
+
+~I·& JP
+
+N=
+Online banner ads
+Banner ads on thirdparty iPhone
+Promoted through magazine ads Promoted through Newspaper ads
+Promoted through
+Radio ads
+Promoted through TV ads Promoted through outdoor advertising
+Other
+
+JUI 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+984
+
+2 ,89 5
+
+54 2
+
+579
+
+27 9
+
+30 1
+
+4 50
+
+4 87
+
+403
+
+399
+
+16% 16% 13oo 1 5oo 1 5% 1 5% 18% 1 7% &oo
+
+7%
+
+10% 1 1% 6% &% 7% 10% 8% 8% 9% 9%
+
+50/
+
+5%
+
+7%
+
+6 % 10 % 8 % 1 1oo 9 oo
+
+5%
+
+7oo
+
+3% 2% 2% 3% 5% 8% 5% 4oo 2oo 2%
+
+2%
+
+1%
+
+2%
+
+2%
+
+3%
+
+4 oo
+
+1 oo 1%
+
+1%
+
+2% 1% 3% 2% 3% 4% 1% 2oo 2% 2%
+
+1% 2% 2% 2% 3% 5% 3% 2% 2% 2%
+
+11% 1 1% 1 0 % 10% 6% 7% 7% 8% 5% 10%1
+
+None of the above
+
+13% 13% 1 3% 13% 15% 12% 16% 14oo 21oo 16%
+
+Base: Developers with approved apps. Q33 -- What, if anything, are you doing to promote and market your applications?
+
+80
+
+CONFIDENTIAL
+
+DX-3781.108
+
+APL-APPSTORE 09324554
+
+atis action wit ot er mo i e
+at orms' eve o er ro rams
+
+·
+
+·
+
+CONFIDENTIAL
+
+DX-3781. 1 1 0
+
+APL-APPSTORE 09324556
+
+The most common mobile dev platform for those with approved apps is Coogle
+
+Goog leAndi'old Windows
+
+US j':.' uR Q
+
+Jul 2010
+
+N=
+
+g84
+
+Feb 2010
+
+Jul 2010 g 42
+
+Feb Jul 2010
+
+20 10
+
+27g
+
+26% 2 6 % 26% 240o 34%
+
+14% 130o 1 6% 2 0 % 15 0/
+
+FR
+
+CE
+
+l JP
+
+Feb 2010
+31%
+
+JUI 2010 450
+28%1
+
+Feb 2010
+A
+2 1%
+
+Jul 2010 4pg
+2 60o
+
+2010
+a nn
+26%
+
+18o 1 6% 1 4 % 1 3% 2 0 % 1
+
+Blackberry (RIM)
+
+8% 9% 8% 9% 9% 11% 6% 6% 1% 2%
+
+7% 7% 3% 5%1 4% 5% 3% 6% 2% 3%
+
+2%
+
+3 0o
+
+6% 10M 6%
+
+9%
+
+50o
+
+6%
+
+2% 6% i
+
+1% 2% 1% 1% 0% 1% 1% 0% 5% 7%
+
+Other
+
+6 0/
+
+40/
+
+70/
+
+9 0/
+
+6% 9 0/
+
+8 0/
+
+7% 8% 10%
+
+None
+
+6 4% 6 3 % 6 3% 6 1 % 5 6% 5 7 % 6 1 0o 65% 6 4%I 5 7 %
+
+Base: Developers with approved apps. Q10 -- What other mobile platforms do you develop for?
+
+83
+
+CONFIDENTIAL
+
+DX-3781. 1 1 1
+
+APL-APPSTORE 09324557
+
+Google's Android's program still has high satisfaction ratin s
+75~/~............... 73P ...............76%...............7../e...............71 0/............... 78Fai............ g g@...............68y.
+
+Google Android
+
+6 2~/o
+
+6 1/0
+
+65A
+
+6 3%
+
+6 1~/
+
+60~/
+
+gq /0
+
+0" "
+
+"
+
+" 3.0/q
+
+Windows
+
+Palm"
+
+Blackberr y (RIM)m
+
+"
+
+""27j> " "
+
+"
+
+"
+
+" 42/ol"
+
+~
+
+~
+
+·
+
+.
+
+Symbian*
+
+41MI
+
+Brew*
+
+09a
+
+09s' .
+
+.Oo/0
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+Q us
+
+uic
+
+FR
+
+CE
+
+® JP
+
+h . QQP @tit%APIQQAI
+
+frfno/tlPiKIibile platforms (rus vary). Qly -- you mentioned you also develop applications for other mobile platforms.
+
+Overall, how would you rate your satisfaction with the development program from these platforms?. Caution: *Small base for all except Google Android
+
+and Windows.
+
+84
+
+CONFIDENTIAL
+
+DX-3781.112
+
+APL-APPSTORE 09324558
+
+Some people find it much more
+cumbersome to develop for Google
+ndroid
+
+Reasons for satisfaction...
+
+Reasons for dissatisfaction...
+
+Easy app review process
+"No waiting with registration, un-bureaucratic and simple." --GE developer
+"The procedure for the compilation/submission of applications is very simple, and moreover, there is no approval for the applications which allows for greater reactivity (even if it is a double-edged sword)." --FR developer
+Free and open source
+"Free for programming, more access to hardware, simple programming language." --GE developer
+"Open source, few rules, simpler and clearer (contractual) conditions for developers." --CE developer
+Flexible
+"The fact of being able to develop an android application on Linux/OSX/Windows is a very big advantage, now the tools have nothing to do with yours, Xcode or even the simulator are just very, very useful for us to develop." --FR developer
+Good documentation
+
+All over the place (fragmented platfc)rm, lack of consistency)
+"We' re making a port due to consumer demand only,, in general their documentation is poor and the segmentation of the market (so many different devices) makes it a real pain to develop for." --US developer
+"Tools are a bit more cumbersome. Simulator is pretty dreadful. Fragmentation of the Android device market in terms of device capability and software versions -- although the IOS market is getting a bit like that now with iPad/iPhone4 and the older devices.*' --UK developer
+"Code that should be easy to write takes a Iot more effort (the necessity to define resource ll3s and the use of various classes)." --JP develo.per
+Poor app review process
+"Submission process is shaky. There may be improvements but initially it was a terrible experience." - -US developer
+"Registration, program uploads and releases are far too complicated and take too much administrative time and effort." --GE developer
+
+"Abundance of information and samples." --US developer
+Inexpensive fees
+
+"The Android Market Place is unregulated, and swamped with poor quality Apps." --UK developer
+Dislike ava
+
+Base: those who develop with Google Android, excluding non-members. N =1574. Q 1 5A/8 -- What are the main reasons you are satisfied/dissatisfied
+
+w ith the [PLATFORM] development program?
+
+85
+
+CONFIDENTIAL
+
+DX-3781. 1 1 3
+
+APL-APPSTORE 09324559
+
+·
+
+·
+
+· e
+
+CONFIDENTIAL
+
+DX-3781.114
+
+APL-APPSTORE 09324560
+
+Some disagree on the quality of the
+Windows Mobile developer program
+Windows
+
+Reasons for satisfaction...
+
+Reasons for dissatisfaction...
+
+Lots oF help available, better documentation, rich API
+"Large quantity of resources (examples of codes, very complete technical site, numerous languages supported, better presentation of Windows layer software)." --FR developer
+"Plenty of example code and an easy platform to develop for." --UK developer
+Open market/collaboration,more
+flexible, easy application approval pl'ocess
+"Many sources also available from third parties, significantly more open than Apple, the market for applications is large." -- --GE developer
+"Much better languages to develop with (seriously, Objective C is archaic and can lead to ugly code). Better toolset (sorry Xcode is a glorified text editor, not a proper IDE)." -- UK developer
+"Distribution of applications is free and developers take all m Gn ey --m-ade--f Forn --saIes~ K -- d evel ape Base: those who develop with Windows, excluding non-members. N=1161 the [PLATFORM] development program?
+
+Poor documentation/API
+'"Getting staited s documentation is poor." --UK developer
+"Zero support. Too many variations of instrument 5, OS." --US developer
+Poor developlTIeAt eAvll'GAITIeAt/
+platform
+" Substandard platform means hardware can't be relied upon."- UK dev.clop.er
+"The platform is unstable. The OS can easily get bogged down by multitasking and in the end the entire system becomes slow and unresponsive. The OS has no touch navigation. It is still requires pointers." --US developer
+Challenging marketplace
+"The process for submitting an application on the Marketplace is very tedious, filled with bugs. The process for getting paid is obscure, that is, incomprehensible: my application is the first paid application on the US market and I still haven't managed to get paid. The support is non-existent: in comparison, the Apple support is incredible, I even called personally one time on the phone when my account had a problem..."--FR developer
+Generally dislike Windows
+*'It's Windows. Overt t o m i e s , hard to tmtstement. TTrrtdnto
+Q15A/B -- What are the main reasons you are satisfied/dissatisfied with 87
+
+CONFIDENTIAL
+
+DX-3781. 1 1 5
+
+APL-APPSTORE 09324561
+
+Those that like the Blackberry developer
+
+program cite ease ofuse and no costs as
+Blackberry
+
+Reasons for satisfaction. · ·
+Easy to use and free, Java-based
+"Development in Java language." --FR developer
+"Since came out with JDE it is easier to program." -- US developer "Good tools, numerous tutorials on the Web." -- FR developer
+Flexible
+"Better communication. They didn't impose restrictions on my App without discussing them with me first. You imposed restrictions on my App and didn't and won't give a reason why!" --UK developer "We can distribute our software applications directly to our customers." --U.S developer "Deep access to the platform, more granular security and permissions, non-centralized distribution and simple beta testing." --US developer
+
+Reasons for dissatisfaction. · ·
+Overly complex
+"Poor developer tools. Confusing product line. *' --US developer
+"It is complex. It does not have the nice slick feel of the app store, the variety of devices is huge and the interface of the devices are not very nici. The programme is. slow and to get an app promoted requires a lot of effort in time and money." --UK developer
+DiNcult to use/navigate
+"Rim's tools and dev environment are buggy." --UK developer
+"Development environment not up to speed. API java not very effective. Generally speaking, the user experience for the BlackBerry platform is not satisfactory, which makes the development of applications not very profitable." --FR developer
+"Documentation by far not as good as with Apple Bad tutorials and screen casts. In addition, API appears to be outdated." --GE developer
+"Quality of documentation is poor in comparison to iOS programme." --UK developer
+"It is not guaranteed that an app will get a network connection even when it is a signed app." --UK developer
+
+Base: those who develop with Blackberry, excluding non-members. N =450. Q 1 5A/B -- What are the main reasons you are satisfied/dissatisfied with the
+
+[PLATFORM] development program?
+
+88
+
+CONFIDENTIAL
+
+DX-3781.116
+
+APL-APPSTORE 09324562
+
+Palm detractors think it is out-of-date
+
+Palm
+
+Reasons for satisfaction...
+
+Reasons for dissatisfaction...
+
+Qpen soul'ce
+
+Poor tools, documentation and API
+
+"No problems with certifications. No waiting for App Review. No restrictions on what APIs can be used." - -US developer
+"They also provide not only sample code, but video tutorials along with their documentation. They also offer developers discounted and sometimes free devices." --US developer
+"Reviewing only takes 1-2 days. T here isn't a risk that Palm will reject my app for some unstated reason and then I'd never be able to distribute it. I wouldn't mind that the App Store is Apple's only public distribution channel if Apple were perfectly clear about what the rules are, and they certainly aren' t." --US developer
+Easy to use
+"Palm OS back in the day was an easy to program for platform." --US developer
+"The tools are easy for me to use, quite comprehensible, and I can do the whole thing myself. The complete opposite of the Apple iOS situation, no?" --US developer
+
+"Poor support; API documentation poor." --US developer
+"There is a shortage of learning materials fot the Palm environment," - -VS developer "Not enough documentation." --jP developer "Lack of easy to implement good looking standard interface elements." --UK developer
+"Development software and unsatisfactory programming language and APls.'* - -GE developer
+Poor sales channel
+"Low revenues." --US developer
+"Product hasn't spread." --jP developer
+"Lack of support -- bad distribution channels." --GE developer
+Qut of date
+"Lacking compatibility between versions, complex and malfunctioning app registration encryption (DRM)." --GE developer
+
+'Good-su@po rtM irect-contact~artner-at-Palnr." - --G Base: those who develop with Palm, excluding non- members. N = 370. Q 1 5 A/B -- What are the main reasons you are satisfied/dissatisfied with the
+
+[PLATFORM] development program?
+
+89
+
+CONFIDENTIAL
+
+DX-3781. 1 1 7
+
+APL-APPSTORE 09324563
+
+Developers who use Symbian seem to
+think the platform is too complex
+Symbian
+
+Reasons for satisfaction... Good Support and Libraries
+"Large development community and Java support." - -UK developer "The compilation process is a lot easier. I can access libraries very easily and memory issues whilst programming can easily be fixed." - -UK developer
+Easy to use
+"Openness, flexibility, freedom." --FR developer
+Fewer fees
+"No license fees (e. g. for apps produced for private use)." - GE developer
+
+Reasons for dissatisfaction...
+Comp l ex platform
+"%ay too complicated to write applications -- no common distribution channel." --GE developer "It's an awful fragmented API / C++ variant and return on time investment is not high enough." --UK developer
+"Getting certification and testing is a pain." --JP developer
+"A lot of fragmentations and different APls across different devices. Very hard to support different device releases and SDK releases. Not so smooth and easy approach of supporting older releases with new app release. Very slow response from Nokia for various topics." --UK developer
+"API complexity unnecessarily high." - -US developer
+Poor documentation/support
+"Poor tools and support." - -UK developer
+"No example code." --US developer
+
+Base: those who develop with Palm, excluding non-members. N =370. Q 1 5A/B -- What are the main reasons you are satisfied/dissatisfied with the
+
+[PLATFORM] development program?
+
+90
+
+CONFIDENTIAL
+
+DX-3781. 1 1 8
+
+APL-APPSTORE 09324564
+
+IO e o ev e o er s w i t o s a rove
+
+CONFIDENTIAL
+
+DX-3781.120
+
+APL-APPSTORE 09324566
+
+Two-thirds of US/UK developers feel it takes a long time to become familiar with
+
+US
+
+UK
+
+FR
+
+GE ®) JP
+
+JUI 2010 Feb Jul 2010 Feb Jul 2010 Feb Jul 2010 Feb Jul 2010 Feb
+
+N=
+
+425
+
+2010
+
+298
+
+20 10
+
+162
+
+20 10
+
+288
+
+2010
+
+5 12
+
+2010
+
+Becoming familiar w/ ~Gb ective-C
+Becoming familiar w/Xcode
+
+67% 63% 6 6% 6 3 % 5 6% 4 9 % 52%i 4 3% 6 10o 58% 43% 46% 4 5% 4 1 % S eXt 2 4 % 28% 24% 46% 48%
+
+Becoming familiar w-/Interface Builder
+Becoming familiar w/ Instruments
+Haven't found what I needed in ~ehe Sam le Code
+Difficulty creating/ managing
+provisio~nin ro f iles
+
+36% 25% 14% 14%
+
+3 50ro
+25% 16% 19%i
+
+33% 21% 14%i 11%
+
+32%
+26% 9 0/ 16%i
+
+2 4% 1 7% 2 1% 2 0%
+
+29% 18% 25% 24%
+
+24%i 18% 17%
+20 0o
+
+15o
+14% 13% 19%
+
+25% 17%t 25%
+25o
+
+36o
+12% 23% 33%I
+
+Becoming familiar w/iPhone Simulator
+Haven't found what I needed in Gettin Started Videos
+
+12% 9 0/
+
+15% 13%
+
+11% 12%
+
+12% 11%
+
+8% 4% 5%1 1% 1 5% 1 9 % 15% 16%
+
+11% 11%
+
+13% 9%
+
+Haven't found what I needed in iPhone Reference Librar
+
+8%
+
+14%t 10%
+
+9 0o
+
+7 % 15 % I 1 5 0o 11% 16 0o 15%
+
+DINculty w/security and ermissions
+Difficulty creating all needed metadata
+
+7% 4%
+
+8% 6%
+
+3% 4%
+
+5% 7% 17% 8% 3 0/ 1 2% 1 5 % 7%
+
+7% 8% 12% 70/ 11% 15%
+
+Problems w/compilation rocess
+
+3% 4% 2% 3 0o
+
+5% 7% 3% 50o 12 0o 12%
+
+Base: Those who have started developing apps but have not submitted for approval. QS -- What are the main reasons you have not yet submitted an application for
+
+approval?
+
+93
+
+CONFIDENTIAL
+
+DX-3781.121
+
+APL-APPSTORE 09324567
+
+PJp,App,,De,,vg.,pp,,ers: How are they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully submitted applications
+
+among countries
+
+between waves?
+
+Overall
+scttl sfctctlon with il3P
+
+· Not surprisingly, they are less likely to be satisfied with the iDP overall (62% extremely satisfied, vs. 72%)
+
+~
+
+®GEd e velopers N() di f f erences
+
+'f -- l a r eless likely
+
+to be satisfied
+
+t
+
+eJP developers are much less
+
+likely to be
+
+s 'atis f i e d
+
+Likelihood to
+
+oThose who haven't submitted apps are
+also less likely to recommend iDP (65% very likely, vs. 73%)
+
+®<E developers No d i f f e rences
+are less likely to recommerid
+
+t
+
+®gp developers are much less
+
+likely to
+recommend
+
+94
+
+CONFIDENTIAL
+
+DX-3781.122
+
+APL-APPSTORE 09324568
+
+PJp,App,,De,,vg.,pp,,ers: How are they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully submitted applications
+
+...among countries
+
+...between waves?
+
+LjkeIjhood to
+stlbm jt an app wlthln 3 months
+
+oThey are less likely to submit an application for approval in the next 3 months (58% very likely, vs. 83%)
+
+WGE alld JPare No differences
+less likely to submit an app for approval
+·
+
+Importance
+of pl"ogram
+aspects
+
+· More Important Development resources on website, the Enrollment process, iPhone SDK, Member Center, ease of managing contracts and setting up tax form/banking information
+· Less Important Application review process (using iTunes Connect), tracking and managing finances (using iTunes Connect), visibility of app on the app store, time it takes to get updates available on app store, ease of submitting
+
+Q ·
+
+®Subtle differences among coun'tries: fior
+the most
+important areas (see notes for detai I)
+
+Wave 1 values:
+· Duration of app review process, clarity of feedback, responsiveness
+· Downloads/sales reports · Time it takes to get
+updates available · Visibility of app
+Wave 2 values:
+· Ease of enrollment, explanation of benefits
+· Xcode, Interface Builder, Instruments
+
+US: Explanation of program benefits, iPhone SDK, developer forums, Getting Started videos, iPhone reference library, general usability, ease of managing devices, app review process, time it takes to get
+
+u pd ates available
+
+UK: Explanation of program benefits, iPhone SDK, developer forums, Getting Started videos, iPhone reference library, general usability, ease of managing devices, responsiveness to inquiries from app review
+
+team, quality of feedback
+
+FR: Explanation of program benefits, ease of enrollment process, responsiveness to inquiries from enrollment team, purchase process, iPhone SDK, developer forums, Getting Started videos, general usability,
+
+ease of submitting binary data, ease of managing contracts
+
+GEGE: Ease of enrollment process, clarity of feedback, Xcode, iPhone simulator, interface builder, developer forums, Getting Started videos, general usability, app review process, accuracy of payments,
+
+process of receiving payments
+
+JP: Enrollment process, ease of creating certificates/profiles, ease of managing contracts, setting up tax form/banking info, app review process, tracking and managing finances, time it takes to get updates
+
+available, visibility of app on App Store
+CONFIDENTIAL
+
+APL-APPSTORE 09324569
+
+DX-3781.123
+
+A
+Aspects
+(in order of importance for non
+AwareneSs of
+changes to il3P program
+
+Dev . er s: How are they
+Summary o i e en ce s .· ·
+
+...with those who have successfully submitted
+
+among countries
+
+· Le s s likely to be aware of all
+
+«JP: Less aware of all changes
+
+«FR: Less aware of new Development Support center
+
+«GE: More aware of new site navigation and Member center
+
+S atisfa c t i o n with rec-ent
+changes
+
+«Less satisfied with time it took to have WWDC videos available
+
+«JP: Less satisfied with all c'h.anges
+«05. Much more satisfied with ease of finding info and earlier video availability
+«UK: Much more satisfied with ea'se of finding information, relevance of information and time to have vldeOs available
+«GE Much more satisfied with time to have videos available
+96
+
+CONFIDENTIAL
+
+DX-3781.124
+
+APL-APPSTORE 09324570
+
+PJp,App,,De,,vg.,pp,,ers: Howare they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully submitted applications
+
+...among countries
+
+...between waves?
+
+Satisfaction
+with
+enrollment process
+
+· Lower overall satisfaction
+· Less satisfied with explanation of program benefits, ease of enrollment process, identity verification process and purchase process
+
+eJP: Much less satisfied with all
+aspects
+AGE: Less satisfied overall and with explanation of benefits and ease of enrollment
+
+Wave 2: oHigher satisfaction
+with responsiveness to
+inquiries and clarity of feedback
+
+Satisfaction
+with iphone
+Software Developer Kit
+
+· Lower overall satisfaction · Less satisfied with all aspects
+
+US M h m r ®JI" Much less
+QO satisfied with all aspects
+
+Wave 2: · Lower satisfaction
+with Instruments
+
+AGE: Less satisfied with Xcode, I phon& simulator and instruments
+
+97
+
+CONFIDENTIAL
+
+DX-3781.125
+
+APL-APPSTORE 09324571
+
+A
+Aspects
+(in order of importance for non
+Satisfaction with
+development
+I esoul ces on the website
+
+Dev . er s: How are they
+Summary o i e enc e s·. ·
+
+...with those who have successfully submitted
+
+among countries
+
+· Lower overall satisfaction
+· Less satisfied with developer forums, iphone reference library, sample code and general usability/organization
+
+® JP'. Much less satisfied w i t h all aspects
+®FR: Less satisfied with developer forums and general usability/org
+r~w k i slL
+Tj ®UK: More satisfied with developer forums and sample code
+
+. ..between w a v e s ?
+Wave 2: oHigher satisfaction
+with Getting Started videos
+
+SatiSfaCtiOn with Member
+Center
+
+· Lower overall satisfaction · Less satisfied with all aspects
+
+®US: More satisfied, overall and with developer forullls
+
+· j p: M«h less
+all aspects
+
+satisrled
+
+saith
+
+NO
+
+dif
+
+rerenCeS
+
+- ®US.' More satisfied with ease Qf fnanaging teanl fnelTlbers
+
+98
+
+CONFIDENTIAL
+
+DX-3781.126
+
+APL-APPSTORE 09324572
+
+PJp,App,,De,,vg.,pp,,ers: How are they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully submitted applications
+
+...among countries
+
+. ..between w a v e s ?
+
+Satisfaction
+with appl lcatlon submission
+process (using iTunes Connect)
+
+· Lower overall satisfaction
+· Less satisfied with ease of submitting binary data
+
+eJP-' Much less No differences
+
+·
+
+satisfied erith
+
+all aspects
+
+except ease of
+
+managing
+
+contract's
+
+S atisfa c t i o n
+with
+appl lcatlon
+review process (using iTunes Connect)
+
+· Lower overall satisfaction
+· Less satisfied with duration of app review process and clarity of feedback
+
+® JP: Much less Wa v e2 :
+
+t ) sat i s f ie d e r it h · L ower sati s f a c ti o n
+
+all aspects
+
+with duration of
+
+app review process
+
+99
+
+CONFIDENTIAL
+
+DX-3781.127
+
+APL-APPSTORE 09324573
+
+PJp,App,,De,,vg.,pp,,ers: How are they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully submitted applications
+
+...among countries
+
+. ..between w a v e s ?
+
+Satisfactio n No d if f e r e n c es
+with tracking
+B,nd
+nl a nag I n g
+finances |using iTunes Connect)
+
+S atisfa c t i o n with time it
+takes to get
+updates available and
+visibility of
+app on App
+Store
+
+· Higher satisfaction with visibility of app on App Store
+
+more satisfied with
+timeliness of I ec el vl ng payments,, accuracy of pay'ments and
+process of
+receiving
+0 vtrt rl
+®FR: slightly
+more satisfied with time it takes to get updates on
+App Store
+
+No differences No differences
+
+®Jp: Less satisfied with
+visibility of app
+
+100
+
+CONFIDENTIAL
+
+DX-3781.128
+
+APL-APPSTORE 09324574
+
+PJp,App,,De,,vg.,pp,,ers: How are they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully
+
+submitted applications
+
+...among countries
+
+...between waves?
+
+Aspects that · Ease of enrollment process,
+
+®~P' -All »pec« impe«
+
+No differences
+
+lm pede
+
+identity verification process,
+
+r
+
+development/distribution
+
+development
+
+purchase process and explanation of program benefits
+
+eFR: Ettpianation of
+
+itdistribution are more likely to impede
+
+program benefits, ease of
+
+of apps:
+
+development/distribution
+
+enrollment process
+
+Enrol l ment
+Process
+
+impede development/ distribution
+
+Aspects that
+Inl pe de
+development /distribution of apps:
+iPhone SDK
+
+· Xcode and interface builder impede development/ distribution of apps
+· iPhone simulator is less likely to impede development/ distribution
+
+eFR: All aspectsr impede
+
+Wave 2:
+
+development/distribution · iPhone simulator
+
+less likely to
+
+®US: Xcode, interface
+
+impede
+
+builder, iPhone simulator development/
+
+impede development/
+
+distribution
+
+distribution
+
+Wave 2:
+
++UK: Xcode impedes
+
+oXcode impedes
+
+development/distribution dev e l opment/
+
+4P
+
+distribution
+
+101
+
+CONFIDENTIAL
+
+DX-3781.129
+
+APL-APPSTORE 09324575
+
+A
+Aspects
+(in order of importance for non
+Aspects that
+impede development
+/distribution
+of apps:
+l3evelopment lesoUtces on the website
+Aspects that
+impede
+development /distribution of apps:
+Member Center
+
+Dev . er s: How are they
+Summary o i e enc e s·. ·
+
+...with those who have successfully submitted
+
+...among countries
+
+. ..between w a v e s ?
+
+· Sample code, iPhone reference library and Getting started videos impede development/ distribution of apps
+
+®FR: all aspects impede dev/distribution
+®Us: Sample code, usability impede dev/distribution
+®UK: usability impede dev/ distribution
+
+Wave 2: oiPhone reference
+library and developer forums
+less likely to impede development/ distribution
+
+· Ease of creating certi ficates and ease of creating profiles are less likely to impede
+development/distribution of apps for those who have not submitted apps
+
+eJP: iPhone reference library, dev forums impede dev/distribution ®US: All aspects impede dev/distribution
+eUK: All aspects: impede dev/distribu.tion
+®FR: AII as:p&cts I mpede dev/distribution
+
+Wave 2: oEase of creating
+certificates and ease of creating
+profiles less likely to impede development/ distribution
+
+102
+
+CONFIDENTIAL
+
+DX-3781.130
+
+APL-APPSTORE 09324576
+
+PJp,App,,De,,vg.,pp,,ers: How are they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully submitted
+
+...among countries
+
+. ..between w a v e s ?
+
+Aspects that
+Impede
+development
+/distribution
+of apps:
+Ap p I ication
+submission process (using
+iT I I t-t"ts,
+Aspects that Impede
+development / dI stl'Ibut Ion of apps:
+Application
+I evIew
+process (using iTunes
+
+· Ease of submitting binary data, ease of subm itt ing metadata and setting up tax form/banking information are less likely to impede development/distribution of apps for those who have not submitted apps
+· All aspects of the app review process are less likely to impede development/ distribution of apps for those who have not submitted apps
+
+®JP: Taa form/banking info, Wave 2:
+
+·
+
+ease o f m a n a g i ng Contracts/ o Setting u p t a x
+
+.s Ubmitting rnetada'ta
+
+form/banking
+
+impetles dev/dlstl lbutlon
+
+information less
+
+likely to impede
+
+eGE: tax form/ banking info
+
+development/
+
+impedes dev/distribution
+
+distribution
+
+®FR: binary data IIYlpedes dev/distribution
+
+eUS: clarity of feedbac'k impedes dev/distribution
+,, IIGE: darity Of feedback impedes dev/distribution
+
+Wave 2: · All aspects of the
+app review process less likely to impede development/
+distribution
+
+103
+
+CONFIDENTIAL
+
+DX-3781.131
+
+APL-APPSTORE 09324577
+
+PJp,App,,De,,vg.,pp,,ers: How are they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully submitted applications
+
+...among countries
+
+. ..between w a v e s ?
+
+Other mobile platforms
+
+oMore likely to develop for Windows
+· Less likely to develop for Google Android and Blackberry (BB)
+
+e JP: Less likely for B8, mere likely for
+A ndroid, Bre® and Windows Mobile
+
+Wave 2: o Les s l i k e ly to
+develop for Palm,
+Sy mb i a n
+
+®UK: More likely for Symbian
+
+S atisfa c t i o n with
+development platforms
+
+· More satisfied with Google Android, Windows, Blackberry
+
+eJP- «ch less
+sa't I sf led with
+Android
+®US: More satisfied with Brew, Palm
+eFR: More satisfied with BB
+
+No differences
+
+104
+
+CONFIDENTIAL
+
+DX-3781.132
+
+APL-APPSTORE 09324578
+
+PJp,App,,De,,vg.,pp,,ers: How are they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully submitted
+
+...among countries
+
+. ..between w a v e s ?
+
+Number of
+years developing
+
+· Tend to have been developing for fewer years. Almost half have been developing for less than 1
+year (47% vs. 22% for those with apps)
+
+~ · Ug r UK, ]P: More likely to be developing for less than 1
+r ~. y e'a j "
+eUS JP: More likely tO be
+r® deyelopiog ltd+ years
+
+Wave 1: oMore likely to be
+developing 1-2 years
+Wave 2: · More likely to be
+developing Less
+
+Months
+developing for iphone
+
+· Likely to be developing for less than 6 months
+
+~ e U5: M o r e likely to be developing 6 months or more
+1>r-~w· ,'< ®UK: More likely to be
+84P developing 1 month or more
+®FR: More likely to, be developing 3 months or more
+AGE: More likely to be deyelopiog t months or more
+
+Wave 1: oMore likely to be
+developing 6 months or more
+Wave 2: · More likely to be
+developing 3 months or less
+
+· i eJ F :More likely to be developing less than 3
+105
+
+CONFIDENTIAL
+
+DX-3781.133
+
+APL-APPSTORE 09324579
+
+PJp,App,,De,,vg.,pp,,ers: How are they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully submitted
+
+...among countries
+
+Number of employees
+
+· More likely to have 51 or more employees
+
+®UR More likely to be 1 (indep) or 51-100
+
+«UK: More likely to be 1 (indep) or
+1~ P 50 1 - 9 9 9
+
+...between waves?
+Wave 2: · More likely
+to be 501 or more
+
+«FR: More likely to be 1 (Indep) or 11 -- 25
+
+Active team
+members
+
+· More likely to have 26-50
+or over 100 active members
+
+«GF More likely to be less than 100
+®«US: More likely to be 1 (iridep) «UK: More likely to be 1 (indep)
+«FR: More likely to be 1 (Indep) AGE: More likely to be 2-5 or ever 100 «Jp: More likely to be 2-10 or over 51
+
+Wave 1: · More likely
+to be 2-5 or 11-25
+Wave 2: · More likely
+to be over 100
+
+106
+
+CONFIDENTIAL
+
+DX-3781.134
+
+APL-APPSTORE 09324580
+
+PJp,!pp,,De,,vg.,pp,,ers: How are they
+
+Aspects
+(in order of importance for non
+
+...with those who have successfully submitted applications
+
+...among countries
+
+Software
+development work
+
+· Likely to be a hobbyist
+
+®US: Mor.e likely for mployel 6r' by/for self
+r~w
+®UK: More likely or employer or contracted
+
+®FR: More likely hobbyist
+or contra~ted
+r 1 eGE: More likely for
++o employer, or for self as full-time income
+
+Other Apple
+prog rctm
+membership
+
+oMore likely to be member of Safari developer program
+
+k. · 4
+
+®US: More likely Mac, 5afarI
+®UK: More likely Safari
+eFR: More likely Mac
+
+®GE: More likely Mac
+
+. ..bet w e e n waves?
+Wave 1: · More likely for full time employe
+I
+Wave 2: · More likely Hobbyist
+
+107
+
+CONFIDENTIAL
+
+DX-3781.135
+
+APL-APPSTORE 09324581
+
+CONFIDENTIAL
+
+DX-3781.136
+
+APL-APPSTORE 09324582
+
+Roughly half of developers with apps not approved submitted them in the last week
+
+US
+
+~i~ UK Q FR Q G E (®) JP
+
+Jul 2010 Feb 2010 JUI 2010 Feb 2010 JUI 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+N=
+
+50
+
+46
+
+39
+
+26'"
+
+17'"
+
+14'"
+
+33
+
+9%
+
+51
+
+2 3'"
+
+Within the last week
+Within the last 2 weeks
+
+52%1 28% 14% 9oo
+
+59%
+13oo
+
+50% 12%
+
+47% 6%
+
+29%
+7oo
+
+30% 9%
+
+33%
+
+47%
+20o
+
+43%
+1 7oo
+
+Within the last 3 weeks
+
+4%
+
+5% 4% 12%
+
+18% 11% 8% 4%
+
+Within the last 4 weeks
+
+11%
+
+6 0/
+
+7% 15%
+
+2%
+
+Within the last 5 weeks
+
+4%
+
+12%
+
+3%
+
+4%
+
+Within the
+
+2% 4% 8%
+
+7%
+
+last 6 weeks
+
+Within the
+
+40/
+
+last 7 weeks
+
+2% 3%
+
+4%
+
+8 or more
+
+20%
+
+application7 "CaUtlon: small base
+
+46%I 1 3% 35%
+
+18%
+
+43%
+
+24%
+
+56r' i 20%
+
+30oo
+he original
+109
+
+CONFIDENTIAL
+
+DX-3781.137
+
+APL-APPSTORE 09324583
+
+en IX: eve o er r o es
+
+CONFIDENTIAL
+
+DX-3781.139
+
+APL-APPSTORE 09324585
+
+Nearly everyone has the standard membership
+
+CL
+
+·
+
+·
+
+·
+
+I
+
+·
+
+·
+
+·
+
+I
+
+·
+
+·
+
+·
+
+I
+
+·
+
+·
+
+·
+
+I
+
+·
+
+·
+
+·
+
+I
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· Ent e r p r i se program · S ta n d a rd p r o g r a m
+
+CJ
+E
+CJ
+E
+4Cl
+
+0 CJ CL
+I-
+
+Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010
+
+US
+
+N = 984 2,895
+
+54 2
+
+UK Q
+
+579
+
+2 79
+
+FR
+30 1
+
+Q > GE
+
+4 50
+
+4 87
+
+(Ql® J P
+
+40 3
+
+39 9
+
+Base: Developers with approved apps. QO -- Which type of IPhone developer program (IDP) membership do you have?
+
+112
+
+CONFIDENTIAL
+
+DX-3781.140
+
+APL-APPSTORE 09324586
+
+This wave, more developers have already used ad hoc distribution
+
+Used ad hoc distributio n
+
+42%1
+
+Used inhouse
+distributio n
+
+Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010 Jul 2010 Feb 2010
+
+Q us
+
+go~ ~v UK
+
+FR
+
+CE
+
+JP
+
+Base: Developers with approved apps. Ql. Which of the following, if any, have you done in the iPhone development program.
+
+113
+
+CONFIDENTIAL
+
+DX-3781.141
+
+APL-APPSTORE 09324587
+
+Most iDP developers are not members of other Apple developer programs
+
+Mac developer
+program
+
+2096
+
+Safari
+developer program
+
+None of the above
+
+78%
+
+78%
+
+Jul 2010
+
+Jul 2010
+
+JUI 2010
+
+JUI 2010
+
+US
+
+i ~ UK
+
+FR
+
+CE
+
+Other developer programs
+
+N=
+
+984
+
+542
+
+279
+
+450
+
+Base: Developers with approved apps. Q0.1 -- What other Apple developer programs, if any, are you a member of?
+
+Jul 2010
++® JP
+403
+
+CONFIDENTIAL
+
+DX-3781.142
+
+APL-APPSTORE 09324588
+
+CONFIDENTIAL
+
+DX-3781.143
+
+APL-APPSTORE 09324589
+
+About one-third have only one approved application
+
+6.9
+
+6.1
+
+4.5
+
+5.2
+
+6.1
+
+5.1
+
+4.5
+
+4.9
+
+5.1 Means
+
+·
+
+·
+
+·
+
+·
+
+I
+
+·
+
+I
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· O ve r 1 0
+
+· 6- 10
+
+· 3- 5
+
+·
+
+I
+
+·
+
+I
+
+·
+
+I
+
+· 2
+
+0
+
+·
+
+~
+
+·
+
+~
+
+Q. CL
+t5
+
+·
+
+·
+
+I
+
+·
+
+·
+
+I
+
+·
+
+·
+
+I
+
+·
+
+·
+
+I
+
+·
+
+·
+
+I
+
+0 ~ Q
+lD
+0
+E ~
+Z ra
+
+·
+
+I
+
+·
+
+·
+
+I
+
+Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010
+
+US
+
+N = 984 2,895
+
+54 2
+
+UK Q
+
+579
+
+2 79
+
+FR
+30 1
+
+Q > GE
+
+4 50
+
+4 87
+
+(Ql® JP
+
+40 3
+
+39 9
+
+Base: Developers with approved apps. Q6 -- How many applications have you had approved for distribution on the App Store?
+
+116
+
+CONFIDENTIAL
+
+DX-3781.144
+
+APL-APPSTORE 09324590
+
+The percentage of free apps has increased since February, especially in
+
+63%
+s
+
+CI. CI.
+CI.
++0
+
+·
+
+·
+
+s
+
+s
+
+·
+
+·
+
+69% I
+s
+
+6 2%
+
+·
+
+·
+
+s s
+
+·
+
+·
+
+s s
+
+· s s
+s
+s s
+
+65%
+s
+
+·
+
+·
+
+s
+
+·
+
+·
+
+s
+
+45%
+s
+
+·
+
+·
+
+·
+
+·
+
+· s
+
+s
+
+· s s
+
+57%I
+s
+
+57%
+s
+
+s
+s s
+
+s s
+
+·
+
+·
+
+s
+
+·
+
+·
+
+61%
+· s s s
+s s
+
+58%
+· s
+s s s
+s · s
+
+61%
+s
+
+·
+
+·
+
+· s
+
+Means (% Paid apps)
+· 10 0 % (all paid) · 7 6%- 9 9 % · 5 1% - 7 5 % · 2 6%- 5 0 % · 1 %- 2 5 % · 0%(all free)
+
+·
+
+·
+
+s s
+
+Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010
+
+US
+
+N = 980 2,893
+
+540
+
+UK Q FR Q > GE (Ql® J P
+
+579
+
+2 74
+
+296
+
+447
+
+4 86
+
+40 2
+
+39 9
+
+Base: Those with 1+ approved app. Q6a -- How many of these [4 of APPS] applications are paid (i.e., not free)?
+
+117
+
+CONFIDENTIAL
+
+DX-3781.145
+
+APL-APPSTORE 09324591
+
+About half of developers have had all their ap p s updated
+
+7 2%l
+
+6 7%
+
+·
+
+·
+
+6 5%
+a · I
+
+6 2%
+I
+
+64 %
+I
+
+6 5%
+a ·
+I
+
+7 1%
+I
+
+70%
+
+67%i
+
+60 %
+
+·
+
+·
+
+I
+
+Mean s ( % Updated apps)
+100% (all updated) 76%-99% 51%-75% 26%-50% 1%-25% 0% (no updates)
+
+CL
+
+CL
+
+·
+
+I
+
+CJ
+
+·
+
+I
+
+·
+
+I
+
+·
+
+I
+
+·
+
+I
+
+·
+
+·
+
+I
+
+·
+
+·
+
+CI.
+
+·
+
+·
+
+·
+
+I
+
++0
+
+Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010
+
+US
+
+N = 980 2,893
+
+540
+
+UK Q FR Q > GE (Ql® JP
+
+579
+
+2 74
+
+296
+
+447
+
+4 86
+
+40 2
+
+39 9
+
+Base: Those with 1+ approved app. Q7 -- How many of these I¹ of APPS] applications have been updated?
+
+118
+
+CONFIDENTIAL
+
+DX-3781.146
+
+APL-APPSTORE 09324592
+
+US developers are slightly more likely to have their apps rejected by the app
+
+37%
+
+I
+
+·
+
+I
+
+· I I
+
+CL CL
+I I
+CJ 4l CJ
+
+34%
+
+I
+
+·
+
+I
+
+· I
+
+·
+
+I
+
+I I
+
+27%
+
+I I
+
+I
+
+·
+
+I
+
+31%
+· I I
+· I I
+
+20%
+
+· I
+
+·
+
+I
+
+I I
+
+16%
+
+I
+
+·
+
+I
+
+I I
+
+I
+
+· ·
+
+I
+
+24%
+
+· I
+
+·
+
+I
+
+23%
+· I 'I
+
+23%
+
+I
+
+·
+
+I
+
+19%
+
+· I
+
+·
+
+I
+
+M e ans (% Rejected apps)
+· 10 0 % + nor e rejected than approve
+· 1 00% · 7 6%- 9 9 % · 5 1% - 7 5 % · 2 6%- 5 0 % · 1%-- 25% · 0% ( no rej ecti o n s)
+
++0
+
+Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010
+
+US
+
+N = 980 2,893
+
+540
+
+UK Q FR Q > GE (Ql® JP
+
+579
+
+2 74
+
+296
+
+447
+
+4 86
+
+40 2
+
+39 9
+
+Base: Those with submitted or approved apps. QB -- How many applications, if any, have you had rejected by the application review team?
+
+119
+
+CONFIDENTIAL
+
+DX-3781.147
+
+APL-APPSTORE 09324593
+
+Over 60% of developers had all of their rejected apps approved at a later date
+
+82%
+
+83%
+
+·
+
+·
+
+77%
+
+83%
+
+·
+
+·
+
+66%
+
+·
+
+I
+
+73%
+
+79%
+
+·
+
+I
+
+80%
+
+70%
+
+· ·
+
+I
+
+67% Means (% Rejected, later
+
+a~v)
+
+·
+
+I
+
+100% (all later approved
+
+· 7 6%- 9 9 %
+
+· 5 1% - 7 5 %
+
+· 2 6%- 5 0 %
+
+0CL
+
+· 1 %- 2 5 %
+
+Q.
+
+· 0%(all never approved)
+
+CL Q.
+
+·
+
+I
+
+4l
+
+CJ
+
+NQ
+
+e' I
+
+·
+
+·
+
+I
+
+·
+
+I
+
+·
+
+·
+
+Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010Jul 2010Feb 2010
+
+US
+
+UK Q FR Q > GE (Ql® JP
+
+N = 538 1,584
+
+2 52
+
+298
+
+10 2
+
+10 3
+
+18 8
+
+199
+
+158
+
+14 3
+
+Base: Those with rejected apps. Q9 -- How many of these [4 REJECTED APPS] rejected applications, if any, were approved at a later date?
+
+120
+
+CONFIDENTIAL
+
+DX-3781.148
+
+APL-APPSTORE 09324594
+
+CONFIDENTIAL
+
+DX-3781.149
+
+APL-APPSTORE 09324595
+
+Though most have been developing for Mac for less than 3 years, some are in the
+
+US
+
+UK
+
+FR
+
+GE ®) JP
+
+N = Jul 201 0
+
+Feb JUI 2010
+
+Feb Jul 2010
+
+Feb Jul 2010
+
+Feb Jul 2010
+
+Fe b
+
+Less than one year 1 to less than 2 years 2 to less than 3 years 3 to less than 4 years 4 to less than 5 years
+
+16%
+
+26oo 31% 2 6% 3 3 % 2 2% 2 0 % 3 1% 3 4 %
+
+26%
+
+29% 3S%i 3 1% 3 3o o 29oo 33% 3 0% 3 1 o o
+17%1 12% 1 5% 12o o 1 7oo 14oo 1 los' 7o
+
+6% I 4% 6% 4% 9% 5% 7 j' 69' 3% 3%
+
+4% 3% 5% 3% 1% 3% 6 j' 49' 1% 3%
+
+5 to less than 6 years
+
+2% 2% 2% 1% 1% 2 oo 3% 4% 3% 3%
+
+6 to less than 7 years 7 to less than 8 years
+
+1% 1% 1% 1% 1%
+
+1% 1% 1% 1%
+
+1% 1% 1% 0% 1% 1% 1% 1% 0% 1%
+
+8 to less than 9 years
+
+1% 1% 0% 0% 1% 1% 0% 1% 1% 1%
+
+9 to less than 10 years
+
+2% i 1% 1% 1% 1% 1% 1% 1% 1% 1%
+
+10 years or more
+
+24%i 1 7% 12% 8% 1 3% 1 0 % 1 2% 1 3 % 1 9% 1 6 %
+
+Base: Developers with approved apps, excluding don't remember. Q34 -- Approximately how many years have you been developing software, hardware, and/or digital
+
+media for Mac?
+
+122
+
+CONFIDENTIAL
+
+DX-3781.150
+
+APL-APPSTORE 09324596
+
+Over 75% of US developers with apps have been developing for iphone for a year or
+
+Less than 1
+
+e
+
+US
+
+p UK
+
+JUI 2010
+
+N=
+
+978
+
+Feb
+
+20 10 JUI 2010
+
+2 ,8 79
+
+540
+
+Feb 20 10 S78
+
+JUI 2010 279
+
+1% 1% 1% 1% 3%
+
+FR
+
+GE
+
+Feb 20 10 298
+
+JUI 2010 448
+
+4% 2%
+
+Feb 20 10 482
+2%
+
+· ) JP
+
+JUI 2010 395
+5%
+
+Feb 20 10 392
+4%
+
+1 to less than 3 months
+3 to less than 6
+months
+6 to less than 9 months
+9 to less than 12 months
+1 year or more
+
+3% 3% 4% 4% 5% 4% 4% 3% 1 2% 1 0 % 5% 7%i 11% 8% 10% 8% 9% 9% 1 3% 1 8 % & % 1 2 % 1 1 2% 1 6 % 9% 14% 12% 9% 1 2% 1 5% 9 % 18% 1 1 2% 2 0 %1 1 0% 1 7 % 1 9 % 16% 1 1 1% 1 4 % 74%1 59% 60%1 5 2% 62%1 52% 6 5% 6 0 % 47%1 39%
+
+Base: Developers with approved apps, excluding don't remember. Q35 -- Approximately how many months have you been developing for the iPhone Q5P3
+
+CONFIDENTIAL
+
+DX-3781.151
+
+APL-APPSTORE 09324597
+
+Most work independently or for
+companies with 2-5 employees
+
+US
+
+UK
+
+FR
+
+GE
+
+JP
+
+Jul 2010
+
+N=
+
+976
+
+5 5% One (I work independently)
+
+2-5 employees
+
+2 5%
+
+6%
+
+11-25
+
+3oj
+
+51-100 101-500
+
+3% 1% 3% I
+1 j'
+
+1,001 to 10,000 Over 10,000
+
+2%I 2%
+
+Feb JUI 2010
+
+20 10
+
+536
+
+5 9 %1 60%
+
+2 7 % 22%
+
+5%
+
+50j
+
+3oj
+
+50j
+
+2% 2%
+
+1% 1%
+
+1% 2%
+
+Oj'
+
+loj'
+
+1% loj' 1% loj'
+
+Feb JUI 2010
+
+2010
+
+271
+
+57% 54%
+
+26% 18%
+
+4% 7%
+
+4% 6%
+
+3% 3%
+
+1% 1%
+
+2% 4%
+
+1% 1%
+
+1% 3%
+
+1% 2%
+
+Feb Jul 2010
+
+2010
+
+439
+
+59% 51oo
+
+17% 21%
+
+6% 6%
+
+7% 7%
+
+2% 5%
+
+1% 3%
+
+3% 3%
+
+1% 0%
+
+2% 1%
+
+2% 2%
+
+Feb JUI 2010
+
+2010
+
+398
+
+57% 55%
+
+20% 18%
+
+5% 5%
+
+5% 6%
+
+4% 6%
+
+3% 5%
+
+2% 4%
+
+Ooo
+
+Ooo
+
+1/0
+
+2 jo
+
+1/0
+
+1/0
+
+Feb 2010
+48% 20% 5% 7% 6% 5% 4% 1% 2% 2%
+
+Base: Developers with approved apps, excluding don't know. Q36 -- How many people does your company employ worldwide (including yourself}? 12 4
+
+CONFIDENTIAL
+
+DX-3781.152
+
+APL-APPSTORE 09324598
+
+About two-thirds work as independent software developers
+
+e
+
+US
+
+p UK
+
+JUI 2010
+
+N=
+
+984
+
+Feb 2010
+
+Jul 2010 542
+
+Feb 2010
+
+JUI 2010 279
+
+One (I work inder>end~nt(v)
+
+58% 63%I 6 4% 6 2 % 5 6%
+
+33% 31oo 2 Soo 30% 3 5%
+
+FR
+
+Feb 2p1p
+
+JUI 2010 450
+
+5 7 % 5 3%
+
+3 3o o 35oo
+
+GE
+
+· ) JP
+
+Feb 2010
+
+JUI 20 10 403
+
+5 9 % 62oo I
+
+Feb 20 1 0
+55%
+
+3 1oo 2 9oA 3 3 %
+
+5%i 3% 5% 4% 4% 6% 7% 5% 5% 6%
+
+2% 2% 2% 3% 3% 3% 3% 3% 1% 3%
+
+26-50
+
+1% 0% 1% 1% 1%
+
+1% 1% 1% 2%
+
+51-100 Gver 100
+
+1% i 0%
+
+0%
+
+0% 0% 1%
+
+1% 0 0/
+
+1%
+
+1% 0%
+
+1% 1%
+
+Base: Developers with approved apps. Q37 -- How many people are active members of your software development team?
+
+125
+
+CONFIDENTIAL
+
+DX-3781.153
+
+APL-APPSTORE 09324599
+
+They most commonly do iphone OS software development independently
+
+e
+
+US
+
+p UK
+
+FR
+
+GE
+
+· ) JP
+
+N=
+I do SW dev by-for myself, not my
+rimar source of
+I do SVf dev by-for myself, is my primary source of
+
+JUI 2010 984
+4 1%
+1 9%
+
+I do SN dev for my full-time employer
+
+18% I
+
+Feb
+
+20 10 JHI 2010
+
+2 ,8 95
+
+54 2
+
+Feb 20 10 579
+
+Jul 2010 279
+
+Feb 20 10 30 1
+
+JHI 2010 450
+
+4 7 %i 40% 41% 3 4% 3 8 % 31%
+
+2 0 % 1 8% 1 9 % 15 0/ 14 0 2 2%
+
+12% 1 8% 16 % 1 7% 20% 2 4%
+
+Feb 20 10 487
+
+JHI 2010 403
+
+3 9 %l 4 6%
+
+2 0 % 1 4%
+
+2 0 % 1 4%
+
+Feb 20 10 3 99
+46%
+15%
+15%
+
+I do contract SW dev work for other s
+
+13% 1 1%
+
+1 2%
+
+1 2 % 1 7% 1 1 %
+
+7%
+
+6%
+
+6%
+
+4%
+
+I am a hobbyist
+
+9% 10% 1 1% 1 2 % 1 7% 1 6 % 1 6% 1 5 % 1 9% 2 0 %
+
+Base: Developers with approved apps. Q38 -- Which of the following best describes your software development work for the iPhone OS?
+
+126
+
+CONFIDENTIAL
+
+DX-3781.154
+
+APL-APPSTORE 09324600
+
+e in in s
+
+Key Conclusions: iDP Satisfaction (1)
+· Most developers are generally satisfied with iDP
+-- Compared to last wave, developers in the US and UK are more likely to be very satisfied with the program
+-- In general, JP developers are the least likely to be satisfied
+·App visibility continues to be the area of most dissatisfaction; followed by the time it takes to get updates
+on the store
+-- For many, the increase in the number of apps in the store has had a negative effect on visibility, and others feel their apps are not featured prominently enough
+·The App review process continues to be an issue for many, and it is still the biggest deterrent for successfully developing and distributing applications
+-- Many complain about the lack of responsiveness from the review team, and how long it takes
+-- However, compared to last wave, developers are slightly more satisfied with the
+APL-APPSTORE 09324602
+
+Key Conclusions: iDP Satisfaction (2)
+·While most developers are satisfied with the rest of the aspects of the iDP, other common complaints include (in decreasing order of mentions):
+Many would like downloads and sales report to be easier to read (e.g., with online dashboards, charts, sortable reports, better formatting, etc.)
+Many would also want the sales data to be stored for longer
+Some have difficulty creating certificates and profiles, and would also like to eliminate the 100-device limit
+Those dissatisfied with the application submission process mentioned US-centric requirements for tax and banking information (international developers) and problems submitting metadata (particularly application screenshots)
+Some would like the enrollment team to be more responsive to inquiries and provide more concise feedback
+Although members are generally satisfied with the development resources on the website, some would like the iphone reference library to be better organized
+Those new to Mac and/or users of different development platforms are more likely to find the tools hard to use and unintuitive
+
+CONFIDENTIAL
+
+DX-3781.157
+
+APL-APPSTORE 09324603
+
+Key Conclusions: Recent changes to
+· Less than half of all developers are aware of the new Member Center and Developer Support center · Consistent with open ended feedback from previous years, many developers are very satisfied with the fact that WWDC videos are available earlier
+APL-APPSTORE 09324604
+
+Key Conclusions: App promotion and
+· Less than 20M of developers have incorporated iAd rich media ads in their application
+-- Many think iAds are an unnecessary distraction to users. Others need more time to learn more about the program and/or how to implement it
+· Some suggest Apple simplify the ability to track performance of iAds, and improve the fill rate · International developers would like iAds to be available globally, and better documentation on how to incorporate in their apps
+APL-APPSTORE 09324605
+
+Key Conclusions: Other platforms
+·A quarter of iPhone developers also develop for Android, and are generally satisfied with the experience (Although it is still -15M lower than iDP's). · Promoters cite that it is free and has no app review process, while detractors dislike the range of devices they need to design for ·WMDC promoters value all documentation and support avai I ab I e · Blackberry promoters like that it is Java based, free and easy to use
+APL-APPSTORE 09324606
+
+CONFIDENTIAL
+
+DX-3781.161
+
+APL-APPSTORE 09324607
+
+CONFIDENTIAL
+
+DX-3781.162
+
+APL-APPSTORE 09324608
+
+

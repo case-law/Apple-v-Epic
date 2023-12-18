@@ -1,0 +1,188 @@
+From:
+
+Trystan Kosmynka
+
+)
+
+To:
+
+ERB Team
+
+)
+
+CC:
+
+SCC:
+
+Subject :
+
+Fwd. Uber Subscriptions Concern wl IAP Policy Change
+
+Attachments:
+
+Sent:
+
+10/31/2018 10:59:01 PM 0000 (GMT)
+
+Any background on our side here?
+
+PLAINTIFF
+U.S. OlhtrlntCourt - uOCAL
+4:20mt/4)5040 YGR TSH
+Gp/BGnmnh /nh y.Apple rnc.
+· n ~p - 35
+Ontn ahsrrtht
+sr
+
+Begin forwarded message:
+
+From: Juan Saiz Campillo
+
+Subject: Re: Uber Subscriptions Concern w/ IAP Policy Change
+
+Date: October 31, 2018 at 11:09:35 AM PDT
+
+To: James Yang <
+
+Cc: Tnlstan Kosmynka <
+
+>, Matt Fischer <
+
+>, Carson Oliver <
+
+>, Sean Cameron . B llr BI h« ~
+
+Privileged and Conadential
+Uber launched yesterday a membemhip subscription without IAP and with no prior communication to Apple (to our knowledge). App Review Notables is already aware and asking us to follow up with them, as Uber is dsiming that this was already approved last year. We am asking them to surface those communicakons.
+
+Some details about the subscription: - 5 cities: Austin, Orlando, Denver, Miami and LA
+- 014.99/month (erL LA, 024.99/month) - Pmvides access to flat, discounted fares (up to 1 5dut) on UberX and UberPool - Indudes Jump snd electdc scootem in LA
+
+The person quoted on The Verge Grade ( h s :I/www.thever e.corn/2018/10/30/18042120/uber-ride- ass-month -subscri tion-
+
+~h h
+
+I th d d \
+
+g tg Bll t th t dh Ch g I
+
+I h dh t I I l g.
+
+Thanks, Juan
+
+CONFIDENTIAL
+
+PX-2235.1 APL-APPSTORE 09481247
+
+13
+days left
+Yovr, pass will UeIerlewed on Nov 30,
+HOW fAUCh QOU 'IIe88V81
+This pass
+826
+CONFIDENTIAL
+
+PX-2235.2 APL-APPSTORE 09481248
+
+On Oct 31, 2018, at10:51 AM, James E. Yang <
+Privileged and Confidential [-Sheree, + Juan]
+Juan to report finding.
+
+> wrote:
+
+On Aug 13, 2018, at 1:08 PM, Trystan Kosmynka <
+
+> wrote:
+
+Privileged and Confidential
+
+Needs to use iap. If they were to offer a subscription for a number of rides easy month, that wouldn't need to be iap because the purchase is still for the physical service.
+
+On Aug 9, 2018, at 7:25 AM, Matt Fischer <
+
+> wrote:
+
+Privileged and Confidential
+
+I agree 100%.
+
+Let us know how the discussion goes at ERB tomorrow. Wish I could be there in person.
+
+Thanks, Matt
+
+On Aug 9, 2018, at 6:55 AM, Trystan Kosmynka <
+
+> wrote:
+
+Privileged and Confidential
+
+We will need to discuss at ERB, monthly subscription for a discount is disconnected from the actual physical service transaction. Seems like it should use IAP.
+
+On Aug 8, 2018, at 8:13 AM, Matt Fischer <
+
+> wrote:
+
+Privileged and Confidential
+
+Sheree - thanks for the update.
+
+Trystan - let us know how you want to proceed from an App Review perspective based on their feedback. Then let's brief Phil and Eddy on the situation and have Eddy bring it up with Dara the next time they connect (timing TBD).
+
+Thanks, Matt
+
+On Aug 7, 2018, at 10:23 PM, Sheree Chang <
+
+> wrote:
+
+Privileged and Confidential
+Hi All-
+Please see the following feedback from Uber. I believe they initially planned on having Dara raise this topic with Tim and Eddy a few weeks ago. Since that didn't happen, they' ve crafted this note below.
+Matt, do you know when Eddy's follow-up meeting with Dara is? Trystan, how would you like to handle this? I'm happy to support in any way needed.
+
+CONFIDENTIAL
+
+PX-2235.3 APL-APPSTORE 09481249
+
+Please note that we (the App Store team) have never referred to any "change in policy" - we' ve told them that Membership Subscriptions are in line with our existing policy since the memberships provide digital access.
+Thanks, Sheree
+
+Begin forwarded message:
+
+From: Dan Bilen ( Subject: Uber Subscriptions Concern wl IAP Policy Change Date: August 7, 2018 at 7:16:17 PM PDT
+
+Cc:
+
+, Jun Jiang (
+
+Hi Apple team,
+
+We wanted to follow up with feedback around changes to Apple's In-App-Purchase (IAP) policy and express concerns about how this will impact Uber's Subscriptions (aka Ride Pass) line of business.
+
+For context, the Ride Pass is a membership program, where riders pay an upfront fee for a ride discount, ex. Pay $10 for 15% off all your rides over the next 4 weeks. Uber has been testing various benefit structures for some time now, with the intention of finding a financially efficient structure that we can make broadly available. Introducing a 30% fee with this policy will stop our ability to move forward with a broader rollout. Said differently, our program is not able to support the financial burden of this fee.
+
+Looking at this change fundamentally, our team struggles to understand the rationale for applying this policy on a subscriptions of a physical good . 30% fee on any physical good business has massive margin impact and becomes impossible to sustain.
+
+Upon discussing the rationale for this policy change, we were explained the benefits coming with IAP, but struggle to understand their application in the context of Uber's business model. Flagging these considerations here:
+· Growth: The App store has not been a driver of growth of our subscriptions business as we sell this product fully through owned channels - email, in-app menu, ride request flow. Additionally, we have a fully functional web flow that we have been using to capture non-app based traffic. Given this, we believe the benefit the App Store can provide for growth is immaterial.
+· Nlulti-platform App: Uber's business exists across iOS and Android, and therefore any changes that are unique to iOS create additional burden on our end to build and maintain separate systems. To take advantage of the alleged benefits of IAP, we would need to take on non-trivial work, which we are not staffed to support.
+· Apple Customer Service: Customer service support was flagged as a key benefit that justifies the IAP fee. That said, Uber has a global in-house customer support network to address our support needs. This system has been customized over time for Ride Pass, and will need to exist for Android users, even if Apple users were re-routed. Furthermore, informing riders of unique customer support policy for iOS users on this business line vs. all others creates a poor user experience. Lastly, given the sensitive nature of our data, sharing it with a 3rd party in this way could create security risks.
+· Segmented Pricing: One recommendation was that we can consider passing the 30% fee to iOS users since they are "price inelastic". We have no evidence that supports that claim and in fact have seen the opposite. Furthermore creating this disparity is a very poor user experience, which we are not interested in supporting.
+· StoreKit: To enable the suite of benefits that come with IAP, our team would need to set up StoreKit to support our payments. As flagged by the Apple team, this is a non-trivial amount of work. Per the reasons above, there is no clear benefit to us in setting this up.
+Ultimately a change of this nature would require us to move all of our business to an out-of-app web flow purchase. We are hoping to not have to make these changes, but are willing to do so if needed in order to ensure we can sell
+
+CONFIDENTIAL
+
+PX-2235.4 APL-APPSTORE 09481250
+
+this product at an appealing price point that is sustainable to our business model.
+All the best, Dan
+Daniel Bilen Product Manager Subscriptions t~uber cpm subs
+UBER
+1455 Market Street 4th Floor San Francisco CA 94103
+Sheree Chang I App Store I 1 Apple Park Way, MS: 923-4APP, Cupertino, CA 95014 I
+
+CONFIDENTIAL
+
+PX-2235.5 APL-APPSTORE 09481251
+
+

@@ -1,0 +1,378 @@
+From: Sent: TQ: Subject:
+
+Sat, 3 Aug 2019 13:28:59+0000 (UTC) k3zg E gAAAAE-2019,08,03
+
+Uniteat States District Court
+
+el
+
+Northern DistrcitofCalifornia
+
+CaseNo. 4:20-cv-05640-YGR
+
+Case Titlez icGuarrn,lae a 8 ir, Iae Exhibit No.DX-3782
+
+Date Entered
+
+aural Y. Seella, Clerk
+
+Br.
+
+. Deaelr Clerk
+
+019-08-03 T13: 28:59.3 72Z "This was another known issue that didn't make it in before 10.00 launch" '*
+2019-08-03 T13:32:02.709Z Seriously
+019-08-03 T13: 32:46.923Z I'm not yet clear on where mobile is as a priority for the company.
+2019-08-03 T13;32: 59,856Z Are you involved in making those calls, ie whether it's shippable or not?
+019-08-03 T13: 33:06.552Z Nope
+019-08-03 T13: 33: 17.626Z There is literally no time
+019-08-03 T13:33:41.430Z Let's talk this week. My team is dying for Fortlite. Want to coordinate with you on how to put together a biz case. We can help
+019-08-03 T13: 34: 26. 566Z Major challenge with Fortlite isn't product design, its distribution
+019-08-03T13:34:49.378Z The Android side load approach will make things extremely difficult to scale
+019-08-03 T13:35:02.393Z I get the prioritization for S 11but everyone I talk to (Walter, Lowell) refers back to the Supercell call as indicator for why we think there is no market
+019-08-03 T13:35:22.642Z Yes,we need to push forGoogle Play.The time has come.
+2019-08-03 T13:35:3 7.712Z Maybe that's a pipe dream
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.001
+
+EPIC 00407322
+
+019-08-03 T13: 35;38.248Z
+
+I get death threats when I spin that up 019-08-03 T13;36:05.271Z
+
+But there is no pathway to success for bypassing Google Play
+
+019-08-03 T13: 36:31.066Z
+
+There is. We don't spend to promote the fact we are on Android
+
+019-08-03 T13: 36: 51.240Z
+
+UA traftic spend for July 165 v 770 on iOS
+
+019-08-03T13:37:03.711Z
+
+The only pathway to success for bypassing GO that I see, still relies on FN, and would need Fortlite
+
+019-08-03T13:37:09.312Z
+
+If you want to buy into market you have to spend
+
+019-08-03 T13: 37:14. 598Z
+
+We don't spend
+
+2019-08-03 T13;37:41.353Z
+
+Kk so we think we can spend to overcome sideload friction?
+
+2019-08-03 T13: 37:43.428Z
+
+Is team is blocked on negative ROI spend
+
+019-08-03 T13: 37:54.999Z
+
+We can't even spend to show people it's there 019-08-03 T13: 38: 33.342Z
+
+Won't overcotne friction, but the friction on Samsung is less than non Satnsung
+
+019-08-03T13:39:04.278Z
+
+We don't spend there either, ala "Drive people to Samsung Galaxy Store" like we do to Apple
+
+019-08-03 T13: 39: 52.43 7Z
+
+Mobile has 11M DAU far larger than Switch, but we as a company somehow prioritize Nintendo over mobile
+
+2019-08-03 T13;40:33.010Z
+
+Something is missing, we are meeting with Tim next week, going to ask this stuff.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.002
+
+EPIC 00407323
+
+019-08-03 T13:41:48,574Z Let me know if we can help. Like I said, this is big opportunity for my markets
+019-08-03 T13;42:08.542Z Everyone on team is frustrated
+2019-08-03 T13:42:20.645Z My question is, if we don't care about money, then why do would we care about Fortlite?
+019-08-03 T13:42:44.084Z If we want to grow Android for future publishing opportunities then why aren't we doing Fortlite?
+2019-08-03T13 43:17.925Z If we care about mobile, why isn't it dev staR'ed accordingly?
+019-08-03T13 43:35.407Z And for god*s sake, why do we hate Apple?
+2019-08-03 T13:43:43.364Z No matter how you see the future on mobile, with or without Google Play, seems like Fortlite is an ingredient for success
+019-08-03 T13:45:29.261Z Apparently Mark R had a meeting with Google Play. His offer "Put Fortnite launcher in GP for free, we will give you FN on Stadia."
+019-08-03 T13:45: 54. 102Z Can't imagine they'd consider that
+019-08-03 T13:46: 14.3 73Z Meanwhile we are adapating launcher to deliver 3 games ahead of Battle Breakers and Spyjinx
+019-08-03T13:46:33.204Z He also is steadfast on 95/5 carrier billing
+019-08-03 T13:46: 50. 791Z So far best we have arrived at is 92/8
+019-08-03 T13:46: 54.704Z Does any other app get a pass on GP 30% from Google?
+019-08-03 T13;47:39.787Z
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.003
+
+EPIC 00407324
+
+Not sure, allegedly we were offered 88/12 and Tim said no, unless they gave it to all devs 019-08-03T13:47:50.304Z
+2019-08-03 T13:48:17.339Z This has turned to people inside the company hating Apple at every turn
+019-08-03T13:48:35.135Z Because we pay them the 30%
+019-08-03 T13:48:3 5.649Z Haha well they give us so many reasons
+019-08-03 T13;49:02.766Z That's just it..what reasons? I don't get it, am looking for the reasons
+019-08-03 T13:49: 52. 846Z We have given every platform special outfits, even Samsung, but none for Apple. What did they do?
+019-08-03 T13:49: 54,566Z Their repeated seeming indifference to FN players when it coines to their apparently non-deterministic build review process
+019-08-03 T13: 50: 18. 185Z Or in getting a new build out to players
+2019-08-03 T13: 50;39,040Z Look at the history of our releases, they catch quite a few errors, which negatively impact players
+2019-08-03 T13: 50:54.569Z If we worked together it might be better for both
+019-08-03 T13: 51:24. 827Z But I expect there is more there, I just dont have the history
+019-08-03T13:51:36.058Z Yes, so do the other platforms. No one takes us to the brink like Apple. And otten for bugs that are known and have been in game forlong time
+019-08-03 T13: 53:00,728Z We have good relationship with many at Apple and they still drive us nuts
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.004
+
+EPIC 00407325
+
+2019-08-03 T13: 53:40,379Z
+
+Grab Mare Hutcheson for lunch. I'm sure he has some war stories. 019-08-03 T13: 54:30.701Z
+
+Yes I' ve heard, but those are results of something deeper. I want to know where it's rooted.
+
+2019-08-03 T13: 55:09.329Z
+
+Rooted in Apple's hubris
+
+019-08-03 T13: 55: 11.109Z
+
+Not shipping a build due to some archaic policy is one thing, fighting them feels deeper, historical
+
+019-08-03T13:55:37.782Z
+
+Have we considered just not being there and focusing only on Android?
+
+019-08-03T13:56:03.592Z
+
+In the big picture it's not a Iot of money, right'? $300M or so?
+
+019-08-03 T13: 56: 17.469Z
+
+No, why would we?
+
+2019-08-03 T13: 57:04,73 8Z
+
+That's my point. We wouldn' t, so why ftght, wouldn't a more collaborative approach be better?
+
+019-08-03 T13: 58:03.639Z
+
+It's a pretty fascinating philosophical problem.
+
+2019-08-03 T13: 58:21.727Z
+
+I don't have the impression that our relationship is regularly antagonistic, Epic has been on-stage in several big Apple presentations in last couple of years.
+
+019-08-03 T13: 58:37.626Z I'm hoping to get Tim to restate the strategy for everyone and especially new people
+
+019-08-03 T13: 58;56.246Z
+
+And yes it's regular antagonistic, I deal with everyday
+
+019-08-03 T13: 59: 27,753Z
+
+Was Fortnite on stage recently?
+
+2019-08-03 T13: 59:34.747Z
+
+I' ll have to look that up
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.005
+
+EPIC 00407328
+
+019-08-03 T14:00:30,834Z Can't recall. Wasn't necessarily Fortnite. Other Epic connections for AR or UE tech.
+019-08-03 T14: 00: 56.919Z Are you in town next week? Maybe we have you in the meeting with Tim?
+019-08-03 T14:01: 14.082Z Yah, regular Tue-Thu schedule.
+019-08-03 T14:01:48.452Z I don't have deep history, just watched from a step away. But happy to join to talk importance in regions.
+019-08-03T14:02:17.371Z Okay cool let me check the meeting schedule
+2019-08-03T14:02:17.489Z I think it's clear that waiting for hardware to catch up isn't going to be fast enough.
+2019-08-03 T14:02:42.938Z High end devices not selling as well as before.
+019-08-03 T14: 03:03,183Z Also re Apple, they asked to see Spyjinx, I floated it to the group, summarily shutdown
+2019-08-03 T14: 03:18.624Z We will be showing it to Nintendo on 8/26 in Cary
+2019-08-03 T14:03: 52.527Z Hmrn interesting, Why is that?
+019-08-03 T14: 04: 18.708Z Because Ed and Donald don't think showing it to Apple is valuable at this nme
+019-08-03T14:04:44.365Z Why is it valuable to show to Nintendo?
+019-08-03 T14: 05: 05.914Z Don't know...other than it's going to be on there
+019-08-03 T14; 05:43. 100Z I mean it's great and all, but it not showing it to Apple is odd
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.008
+
+EPIC 00407327
+
+2019-08-03 T14: 05;56.809Z And the specs for the game are high end, like Fortnite
+019-08-03 T14;05: 58.122Z We are always nying to get more love from Nintendo. Not sure we' ve seen much.
+019-08-03 T14: 06:11.965Z I lm vs 2.6m
+2019-08-03 T14:06: 18.008Z Seeins like Apple would be the lead platform
+2019-08-03T14:06:27.059Z Now you are with me
+019-08-03T14:06:39.785Z
+
+2019-08-03 T14:06: 59. 167Z
+
+I thought Spy Jinx was all about mobile-first 019-08-03 T14: 07:26,795Z
+
+PC, Switch, iOS, Android at launch, Xbox and PS to follow 019-08-03 T14: 07:38. 507Z
+
+And it's not inobile first
+
+2019-08-03 T14:07:42.879Z
+
+So iOS effectively.
+
+2019-08-03 T14: 07: 51.3 83Z
+
+The gameisthesame sizeasFN
+
+019-08-03T14:07:57.594Z
+
+Wat 019-08-03 T14: 08: 05. 195Z
+
+Yep 019-08-03 T14:08: 18.805Z
+
+Maybe I should play it more
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.007
+
+EPIC 00407328
+
+019-08-03 T14: 08;28.525Z
+
+3Gb devicesorbetter
+
+019-08-03 T14;08:33.821Z
+
+oof
+
+019-08-03 T14: 09:40.817Z
+
+Let' s chat next week. Love to learn more about the history
+
+2019-08-03 T14:10:43.593Z
+
+Sure happy to. I don't have all the details as it's always been someone else's day-to-day, but can share what I know
+
+019-08-03 T14: 11:03.305Z
+
+I need help on how leadership thinks
+
+019-08-03 T14: 11; 08.149Z
+
+What's our strategy
+
+019-08-03 T14: 11:11.825Z
+
+Philosophy
+
+2019-08-03 T14: 11: 19.851Z
+
+Epic has had successful mobile products going back to Infinity Blade, but even then didn't really understand mobile.
+
+2019-08-03 T14: 11:25.207Z
+
+I have grip on day to day
+
+019-08-03 T14: 11: 39.052Z
+
+I need a cultural lesson
+
+019-08-03T14: 11:54.691Z
+
+Prof. Payne in the house!
+
+2019-08-03 T14: 12:3 8.687Z
+
+Ha I wish I could always decipher our motives.
+
+019-08-03 T14: 13:28.669Z
+
+Tim tends to put high level industry health first, anchored in Engine and tech. Money comes second. And he works with very long term view.
+2019-08-03 T14: 13:44.019Z
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.008
+
+EPIC 00407329
+
+I'm loving the place so far, but do need to learn a lot more. Will take all you can give 019-08-03T14:13:51.332Z
+
+019-08-03 T14: 14:40. 105Z
+It's an amazing place to be right now. Front tow seat for so much that iinpacts our industry, with market power to have big impact and steer the entire industry.
+019-08-03T14:14:49.352Z
+
+si'ow
+
+019-08-03 T14: 15:51.789Z
+
+One thing your team could help with re: Fortlite, "What is the size of audience for the space between 3GB and 2GB devices"
+2019-08-03 T14: 16: 38.489Z
+
+If we can pitch the addressable and the project%adopnon, that could be our angle to get resources reallocated
+
+019-08-03 T14: 16:48.001Z
+
+D oes SensoTrower orAppAnnie have thatdata?
+
+2019-08-03T14: 16: 59.513Z
+
+They don't do device specs
+
+2019-08-03 T14: 17:04.002Z
+
+Yah that' s what we' ve been digging into
+
+019-08-03 T14: 17;26.880Z
+
+atform, And they are per pl
+
+Android is one whole thing from Google Play
+
+2019-08-03 T14; 17:36.081Z
+
+Not accounted for are side loads 019-08-03 T14: 18:05.788Z
+
+Any ideas on where to fin? We' re trying to find that data for the high-water mark in each market, ie Free Fire, Knives Out
+
+2019-08-03 T14:20:02. 544Z
+
+You wouldneed actualdevice specsforthosegames
+
+2019-08-03 T14:20:10.941Z
+
+That would be an interesting chart
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.009
+
+EPIC 00407330
+
+2019-08-03 T14:20;41.547Z And the data should focus on Samsung, we have a special API integration which makes adoption easier
+019-08-03 T14:20:48.379Z Discovered by Hans
+2019-08-03 T14:21:22.069Z If we aimed at Sarnsung like we begrudgingly do with Apple...there lies our collective win
+019-08-03 T14:22:08.338Z Well, Tim S has stated that Samsung is our most important partner, above all others.
+2019-08-03T14:24:37.570Z Let's bring it home
+2019-08-03T14:26:32.948Z At least we now have dedicated people on the publishing team thinking about mobile, with actual mobile experience
+019-08-03 T14:27:27.715Z Given Ed's mobile experience, I'm surprised he hasn't pushed more on mobile beyond involvement on UA
+2019-08-03 T14:27:41.059Z Maybe he has and I just haven't seen it
+019-08-03 T14:47:12.640Z It's why we are here brother, Will start a thread to get the strategy stuff kicked off
+019-08-03 T14: 50:04.060Z
+2019-08-03 T23:35: 56.604Z h s '//lh3 oo eusercontent cpm/-2 RxLIZIt ~ aW2n 5 G VAAAAAAAAEVY/n'eKJPA ou V02AgrA8oZwnoS IM4aWoACK8BGAs/s0/2019-08-03 '
+019-08-03 T23:36: 15.707Z LATAM wide retail promotion with Google Play
+019-08-03 T23:44:27. 896Z We would get a ton of things like that from GP
+2019-08-03 T23:44:43.223Z Withour own cardwe can also organize our own
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.010
+
+EPIC 00407331
+
+Yes that's our intent
+
+2019-08-03 T23:45:02,848Z
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3782.011
+
+EPIC 00407332
+
+

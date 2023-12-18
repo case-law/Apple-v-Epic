@@ -1,0 +1,149 @@
+1/29/2021
+App Store
+
+Discover
+
+Business Models and Monetizatktn - App Store - Apple Developer
+
+Design
+
+Develop
+
+Distribute
+
+Support
+
+Account
+
+Overview Fe a t u re s Art i c le s Gui d e lines Dev e loper Insights
+
+Chaasing aBusiness Madel
+
+The right business model for your app will balance your goals with your target market's
+
+expectations, Consider choosing your business model before you start developing your app
+
+so that you can build it seamlessly into the user experience.
+
+Ullrtcti stoics Dlsltlcl Court Nnrlhcrn Distriei oroalilomi»
+
+Free Model
+ln this model, users don't pay to download or use your app. By removing the barrier of price, you increase the likelihood that users in your target market will download
+
+Case No. 4:26-ev-65646-VGR
+Case TitleK /c6sNrur, /rro n. Is, /rrc, Exhibit No. BX-4614 Daile Entered
+stuan Y. Stretot ,,clerk
+, Deputy Clerk
+
+and try it, which can help increase awareness for your app and grow your user base.
+Some developers choose to offer their app for free and earn revenue by displaying ads within the app. Apps that generate significant ad revenue tend to be those with many users who spend a lot of time engaging with the app. If you show ads in your app, make sure they are appropriate and relevant to your target market, as lowquality, obtrusive, or inappropriate advertising will reduce engagement and retention.
+
+Developers looking to grow their brand or attract a large user base may choose to
+offer their apps for free.
+
+Freerniurn Model
+In this model, users pay nothing to download your app and are offered optional inapp purchases for premium features, additional content, subscriptions, or digital goods. This model allows users to get sofnething great at no cost and have the option to pay if they want to enhance their experience or engage more deeply.
+Many successful freemium apps offer engaging experiences to all users, regardless of whether or not they choose to spend, and can provide customized experiences based on users' preferences. These apps are designed to be freemium from inception, and are built to allow for measurement and enhancement throughout the app's lifecycle.
+While freemium apps are very popular, this model isn't appropriate for every app. Successful freemium apps operate as services that are continuously supported, often requiring sustained content development to retain users.
+For more details on the different kinds of freemium experiences, read Using the Freemium Business Model.
+
+Many successful freemium apps offer engaging experiences to all users, regardless of whether or not they choose to spend.
+Building a Business in the KidsCategory
+Originator shies its approach to building a sustainable business ln the Kids category and how it got the word out about its Endless apps.
+
+Subscription Model
+https//developer. apple.corn/ap p-store/business-models/
+
+DX-4614.001
+
+1/29/2021
+
+Business Models and Monetization - App Store - Apple Developer
+
+In this model, users can buy in-app purchases to access content, services, and
+
+experiences for renewable or non-renewing durations.
+
+Auto-renewable subscriptions give users access to content or services from within your app on an ongoing basis. At the end of each subscription duration, the subscription will automatically renew until a user chooses to cancel it. Autorenewable subscriptions can offer in-app purchases that provide users with a range of service levels and durations to best meet their needs.
+
+As with freemium apps, successful subscription apps focus on retaining users by providing app updates that continually improve the app experience. To be eligible for auto-renewable subscriptions, plan to update your app with feature enhancements or expanded content regularly.
+
+Non-renewing subscriptions are for a limited duration and require users to renew each time a subscription ends. Users are notified when the subscription is due to expire with a prompt to purchase a new subscription.
+
+Subscriptions can be offered as part of a freemium or paymium experience, and subscription in-app purchases can be offered alongside other in-app purchase types.
+
+Paid Model
+In this model, users pay once to download your app and use all of its functionality. There are no additional charges. The paid model resonates with users who prefer to pay once to get the full app experience, without in-app purchases.
+Becausethecost todownload may make usersconsider theapp'svalue more carefully, successful paid apps are often positioned as premium experiences through outstanding design, functionality, and marketing.
+Since paid apps have only one point of monetization, marketing plays an even more important role in acquiring users. Successful developers make sure that their app's title, icon, description, preview, screenshots, and other marketing communications effectively showcase the premium nature of the app.
+If you have multiple paid iOS apps, you can leverage app bundles, which make it easy for users to buy up to 10 of your apps in a single purchase at a reduced price.
+
+· ®
+· 8
+Paid ios apps can leverage app bundles, in which users can buy up to 10 of your apps at a reduced price.
+Using the Paid Business Model 3 Minute Games shares why the paid business model made sense for the Lifeline series of games.
+
+Paymium Model
+In this combination of the paid and freemium models, users pay to download your app and have the option to buy additional features, content, or services through inapp purchases if they want to engage more deeply.
+Successful paymium apps offer premium design, functionality, and content, plus advanced features intended to complement the experience.
+As with paid apps, the cost to download may make users consider the app's value more carefully. Successful paymium developers set expectations about what users get when they pay upfront and what they will get if they purchase optional enhancements. If the features offered through in-app purchase are required to use a
+https://developer.apple.corn/app-store/business-models/
+DX-4614. 002
+
+Bringing CARROT Weather to Apple Watch
+In making CARROT Weather for Apple Watch, Grailr started from scratch and evolved both the app and its business model.
+
+1/29/2021
+
+Business Models and Monetization - App Store - Apple Developer
+
+paymium app,thiscancause a negative experience and may affectyour salesand
+
+retention.
+
+In managing your app's lifecycle, the paymium model offers the possibility of lowering the app's download price while using in-app purchases for ongoing monetization. Paymium apps can also be included in app bundles on the App Store.
+
+Related
+Using the Freemium Business Model Offering Subscriptions In-App Purchase
+
+Selling Multiple Apps with App Bundles Measuring Data With App Analytics Measuring App Performance
+
+Getting Featured
+If your app, game, or developmentteam has a unique
+story, tell us about it.
+Contact us >
+
+Apple Arcade Games
+If you' re working on a unreleased groundbreaking game, we'd love
+to hear from you.
+Contact us >
+
+Support and Help
+Have a question or request? Our supportteam can help by phone
+or email.
+Learn more >
+
+App Store Choosing aBusiness Model
+
+Discover
+ios
+iPadoS macoS tvoS watchoS Safari and Web Games Business Education WWDC
+
+Design Human Interface Guidelines Resources Videos Apple Design Awards Fonts Accessibility Localization Accessodes
+
+Develop Xcode Swift Swift Playgrounds TestFlight Documentation Videos Downloads
+
+Distribute Developer Program App Store App Review Mac Software Apps for Business Safari Extensions Marketing Resources Trademark Licensing
+
+To view the latest developer news, visit News and Updates. Copyright © 2021 Apple Inc. All rights reserved. Te r ms of Usei Privacy Policy i License Agreements
+
+Support Articles Developer Forums Feedback & Bug Reporting System Status Contact Us Account Certificates, Identifiers & Profiles App Store Connect
+English
+
+https://developer. apple.corn/app-store/business-models/
+
+3/3
+
+DX-4614.003
+
+

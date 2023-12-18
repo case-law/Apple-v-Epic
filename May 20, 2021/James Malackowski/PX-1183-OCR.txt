@@ -1,0 +1,2171 @@
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII US010368799B2
+
+(12) United States P atent
+Sannholm et al.
+
+(10) Patent No.: U S 1 0 , 368,79982
+
+( 45) Date of Patent :
+
+A ug. 6, 2 0 1 9
+
+(54) SYSTEM FOR DETERMINING THE QUALITY OF SLEEP
+(71) Applicant: Apple Inc., Cupertino, CA (US)
+
+(58) Field of Classification Search
+
+CPC ................................ A618 5/4815; A618 5/08
+
+USPC
+
+600/300 --301
+
+See application file for complete search history.
+
+(72) Inventors: Fredrik S annholm, Espoo (FI); Joonas ( Paalasmaa, Helsinki (FI); Lasse
+Leppakorpi, Kirkkonummi (FI)
+
+(73) Assignee: APPLE INC., Cupertino, CA (US)
+
+( e ) Notice:
+
+S u b ject to any disclaimer, the term of this patent is extended or adjusted under 35 U.S.C. 154(b) by 0 days.
+
+56)
+
+References Cited
+
+U.S. PATENT DOCUMENTS
+
+5,479,939 A 5,483,261 A 5,488,204 A
+
+I/1996 Ogino I/1996 Yasutake I/1996 Mead et al.
+(Continued)
+
+FOREIGN PATENT DOCUMENTS
+
+(21) Appl. No.: 14/997,Q31 (22) Filed: Jan. 1 5,2016
+
+EP
+
+2278507
+
+I/2011
+
+EP
+
+2301429
+
+3/2011
+
+(Continued)
+
+(65)
+
+Prior Publication Data
+
+US 2016/0213309 Al Jul . 28, 2016
+
+Related U.S. Application Data
+(60) Provisional application No. 62/108,149, filed on Jan. 27, 2015.
+
+(51) In t. CI.
+
+A618 5/00
+
+(2006.01)
+
+A618 5/ll
+
+(2006.01)
+
+A618 5/08
+
+(2006.01)
+
+A618 5/113
+
+(2006.01)
+
+606F 19/00
+
+(2018.01)
+
+(52) U. S. CI. CPC .......... A618 5/4815 (2013.01); A618 5/08
+
+(2013.01); A618 5/1116 (2013.01); A618
+
+5/7271 (2013.01);A618 5/1102 (2013.01);
+
+A618 5/113 (2013.01);A618 5/6892
+
+(2013.01); A618 5/7264 (2013.01); A618
+
+5/7282 (2013.01); A618 2562/0257 (2013.01);
+
+A618 2562/0261 (2013.01);606F 19/30
+
+(2013.01)
+
+OTHER PUBLICATIONS
+
+International Search Report and Written Opinion of the International Searching Authority PCT/FI2015/050959 dated Apr. 8, 2016.
+(Continued)
+
+Primary Examiner Car l H L a yno Assistant Examiner Dac h e ng Xie
+(74) Attorney, Agent, or Firm Morr i s on 8cFoerster LLP
+
+(57)
+
+ABSTRACT
+
+Embodiments of the present invention provide a distributed computer system and a method for determining the quality of sleep of a sleeping user. The distributed computer system will determine the quality of sleep by detecting the changes in body posture of the sleeping user. The quality of sleep will be determined by the feature vectors associated with each posture of the sleeping user. The posture of the user will be determined by recording a body motion signal caused by the mechanical and muscle movement of the body of the user.
+
+18 Claims, 8 Drawing Sheets
+
+i Simt ,' 100
+according a ballistocardiographic signal using a peripheral device
+Arrangingu oommunication connection between the
+peripheral device snd a mobile subscriber terminal
+Communicating said balhstoosmdioaaphic signal to s third party soaware applioatiun assenting iu acid mobile subscriber tcnninal
+ryetennining body posturechangseof the st least one
+user based oii said bat listoccidiographic sigiial aod a respiration cycle amplitude
+..X..
+Stop )
+
+US 10,368,799 82
+Page 2
+
+(56)
+
+References Cited
+
+U.S. PATENT DOCUMENTS
+
+5,825,352 5,835,079 5,880,411 AB l 6,188,391 6,310,610 Bl 6,323,846 Bl 6,425,861 Bl 6,690,387 B2 7,015,894 B2 7,164,941 B2 7,166,952 B2 7,184,064 B2 7,442,107 Bl 7,663,607 B2 8,003,982 B2 8,161,826 Bl 8,479,122 B2 2004/0225179 Al 2005/0042589 Al 2005/0124864 Al 2005/0190068 Al 2005/0209513 Al 2005/0234314 Al 2005/0257822 Al 2006/0169282 Al 2006/0197753 Al 2007/0118054 A l *
+2007/0156060 Al 2008/0306351 A l *
+2010/0016685 Al 2010/0201650 Al 2010/0240982 Al 2010/0331632 Al 2011/0010014 Al 2011/0015467 Al 2011/0190594 Al 2011/0224510 A l *
+2011/0230790 Al 2012/0004523 Al 2012/0092171 Al 2012/0215076 Al 2013/0015866 Al 2013/0030257 Al 2013/0060097 Al 2013/0066168 Al 2013/0178715 Al 2013/0245502 AI~
+2013/0261404 Al 2013/0326811 Al 2014/0005502 Al 2014/0046184 AI~
+2014/0247146 Al 2014/0269224 Al 2014/0276245 Al 2014/0288385 Al 2014/0337450 Al 2015/0011899 Al 2015/0367097 Al 2016/0022218 AI~
+2016/0106339
+2016/0252411 Al 2018/0028111 Al 2018/0042556 Al 2018/0337325 Al
+
+10/1998 Bisset et al. 11/1998 Shieh 3/1999 Gillespie et al.
+
+2/2001 Seely et al. 10/2001 Beaton et al.
+
+11/2001 Westerman et al.
+
+7/2002 Haberland
+
+2/2004 Zimmerman et al. 3/2006 Morohoshi
+
+I/2007 Misczynski et al.
+
+I/2007 Topliss et al.
+
+2/2007 Zimmerman et al. 10/2008 Ueda et al.
+
+2/2010 Hotelling et al.
+
+8/2011 Wang et al. 4/2012 Taylor 7/2013 Hotelling et al.
+
+11/2004 Kaplan et al.
+
+2/2005 Hallestad et al. 6/2005 Mack et al.
+
+9/2005 Gentry et al.
+
+9/2005 Heruth et al. 10/2005 Suzuki et al.
+
+11/2005 Smith et al.
+
+8/2006 Izumi et al. 9/2006 Hotelling
+
+5/2007 Pinhas
+
+A61B 5/1101
+
+600/587
+
+7/2007 Cervantes
+
+12/2008 Izumi .........
+
+A61B 5/113
+
+600/300
+
+I/2010 Muehlstefi' et al. 8/2010 Son
+
+9/2010 Westbrook et al.
+
+12/2010 Chou I/2011 Oexman et al.
+
+I/2011 Dothie
+
+8/2011 Heit et al. 9/2011 Oakhill ................. A61B 5/11
+
+9/2011 Kozlov
+
+600/301
+
+I/2012 Richter et al.
+
+4/2012 Hwang et al. 8/2012 Yang et al.
+
+I/2013 Wendt et al.
+
+I/2013 Nakata et al.
+
+3/2013 Rubin 3/2013 Yang et al.
+
+7/2013 Sakai et al.
+
+9/2013 Lange
+
+A61B 5/1101
+
+10/2013 Sato
+
+600/595
+
+12/2013 Miles
+
+I/2014 Klap
+
+2/2014 Heinrich
+
+A61B 5/0064
+
+600/438
+
+9/2014 Proud
+
+9/2014 Huh et al. 9/2014 Tsutsumi
+
+9/2014 Amurthur et al.
+
+11/2014 Choudhary I/2015 Shigeto et al.
+
+12/2015 Gavish
+
+I/2016 Hayes ............. .... A61G7/005
+
+600/301
+
+4/2016 Behzadi
+
+.. A61B 5/0022 600/302
+
+9/2016 Benaissa et al.
+
+2/2018 Waris
+
+2/2018 Shahparnia
+
+11/2018 Han
+
+FOREIGN PATENT DOCUMENTS
+
+EP
+
+2 644 087 A I 1 0 / 2013
+
+EP
+
+2 783 725 A I 1 0 / 2014
+
+JP
+
+63-016237 A I/19 8 8
+
+JP
+
+2000-163031 A 6/2 0 0 0
+
+JP
+
+2002-342033 A 11/ 2 002
+
+JP
+
+2004-113618 A 4/2 0 0 4
+
+JP
+
+2008-183181 A 8/2 0 0 8
+
+JP
+
+2009-233027 A 10/ 2 009
+
+JP
+
+2012-170471 A 9/2 0 1 2
+
+WO WO-2006/131855 A2 1 2 /2006
+
+WO WO-2006/131855 A3 1 2 /2006
+
+WO WO-2012/122002 A l 9/ 2 0 1 2
+
+WO
+
+2013-179189
+
+12/2013
+
+WO WO-2015/008285 A l I / 20 1 5
+
+WO WO-2015/075692 A l 5/ 2 0 1 5 WO WO-2016/087709 A l 6/ 2 0 1 6
+
+WO WO-2016/124817 A l 8/ 2 0 1 6
+
+WO WO 2018 217585 A I 1 1 / 2018
+
+OTHER PUBLICATIONS
+Lei Song et al., "Health Sensing by Wearable Sensors and Mobile
+Phones: A Survey", Conference Proceedings Article of the 16th
+International Conference on e-Health Networking, Applications and
+Services (Healthcom), p. 453-459, Oct. 15, 2014.
+Joonas Paalasmaa et al., "Unobtrusive Online Monitoring of Sleep
+at Home", Conference Proceeding Article, 34th Annual International Conference of the IEEE EMBS, p. 3784-3788, Aug. 28, 2012.
+Bischofi; "Quantified sleep: a new gadget from China wants to get in bed with you," accessed at https://www.techinasia.corn/quantifiedsleep-gadget-china-bed/, accessed on Nov. 27, 2014, pp. 1-6.
+Kortelainen et al., "PCA model for recording respiration and posture
+with multichannel BCG sensor in bed mattress," presented at the 4th pHealth Conf., Porto Carras, Greece, Jun. 20-22, 2007, pp. 1-5. Final Olfice Action dated Aug. 22, 2016, for U.S. Appl. No.
+14/934,472, filed Nov. 6, 2015, 14 pages. International Search Report, dated Feb. 5, 2016, for PCT Applica-
+tion No. PCT/FI2015/050751, twelve pages. International Search Report dated Apr. 25, 2016, for PCT Applica-
+tion No. PCT/FI2016/050048, filed Jan. 28, 2016, ten pages. Kortelainen et al. (May 2010). "Sleep Staging Based on Signals Acquired Through Bed Sensor," IEEE Transactions on Information Technology in Biomedicine,vol. 14, No. 3, pp. 776-785. Non-Final Olfice Action dated Mar. II, 2016, for U.S. Appl. No.
+14/934,472, filed Nov. 6, 2015, ten pages. Non-Final Olfice Action dated Jan. 3, 2017, for U.S. Appl. No. 14/934,472, filed Nov. 6, 2015, twelve pages. Paalasmaa, J. (2014). "Monitoring Sleep with Force Sensor Measurement," University of Helsinki, Department of Computer Science, Series of Publication A, Report A-20 14-2, 69 pages. Lee, S.K, et al. (Apr. 1985). "A Multi-Touch Three Dimensional Touch-Sensitive Tablet," Proceedings of CHI: zt CJIrI Conference on Human Factors in Computing Systems,pp. 21-25. Rubine, D.H. (Dec. 1991). "The Automatic Recognition of Gestures," CMU-CS-91-202, Submitted in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy in Computer Science at Carnegie Mellon University, 285 pages. Rubine, D.H. (May 1992). "Combining Gestures and Direct Manipulation," CHI '92, pp. 659-660. Westerman, W. (Spring 1999). "Hand Tracking, Finger Identification, and Chordic Manipulation on a Multi-Touch Surface," a Dissertation Submitted to the Faculty of the University of Delaware in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy in Electrical Engineering, 364 pages. International Search Report dated Feb. 6, 2018, for PCT Application No. PCT/US2017/046521, filed Aug. II, 2017, eight pages. Final Otfice Action dated Sep. 22, 2017, for U.S. Appl. No. 14/934,472, filed Nov. 6, 2015, 12 pages. Non-Final OQice Action dated Mar. 8, 2019, for U.S. Appl. No. 15/548,744, filed Aug. 3, 2017, 15 pages.
+
+US 10,368,799 82
+Page 3
+
+(56)
+
+References Cited
+
+OTHER PUBLICATIONS
+
+Final Office Action dated Apr. 5, 2019, for U.S. Appl. No. 14/934,472, filedNov. 6, 2015, 12 pages. Dagdeviren, C. et al. (Dec. I, 2016). "Recent Progress in Flexible and Stretchable PiezoelectricDevices for Mechanical Energy Harvesting, Sensing and Actuation",Extreme Mechanics Letters, vol. 9: 269-281.
+Feng, X. et al. Mar. 23, 2011"Stretchable Ferroelectric Nanoribbons with Wavy Configurations onElastomeric Substrates", ACS XA//0,
+5(4):3326-3332 (p. 3329, col. I, paragraph 2 -- col. 2, paragraph 1 figure 3.). International Search Report datedJul. 30, 2018, for PCT Application No. PCT/US2018/033534, filed May 18, 2018, five pages. Non-Final OfficeAction dated Sep. 27, 2018, for U.S. Appl. No. 14/934,472, filed Nov. 6, 2015, 11 pages.
+
+e cited by examiner
+
+U.S. Patent
+
+Aug. 6, 2019
+
+Sheet 1 of 8
+
+Us 10,368,799 82
+
+Start ~
+
+t OO
+
+Recording a ballistocardiographic signal
+
+using a peripheral device
+
+l 10
+
+Arranging a communication connection between the
+
+peripheral device and a mobile subscriber terminal
+
+120
+
+Communicating said ballistocardiographic signal to a
+
+third party software application executing in said
+
+130
+
+mobile subscriber terminal
+
+Determining body posture changes of the at least one
+
+user based on said ballistocardiographic signal and a
+
+II40
+
+respiration. cycle amplitude
+
+Stop
+
+150
+
+1.0
+
+220 Raw BCG signal. The spikes shown are due to large body movements.
+
+200
+
+I
+4
+
+0 210
+0 20
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+400
+
+Respiration amplitude I'normalized) with detected posture changes.
+9
+
+j~w:
+
+50 ~ 100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+230
+
+Time from measurement start in minutes
+
+200 ~ 3 4 500
+
+34000
+
+33500
+
+,",,',", .ear;,"AV«("igAVV,~A~ I
+
+32000 31500
+
+;::II,;I"!"IIII IIiIIIjI' j<I)i <I I[I(f )I '«)j>IJ'I)'/jI I, IIIII( I /'gI
+
+31000
+
+30500
+
+50.0
+
+SO.S
+
+51.0
+
+51.S
+
+52.0
+
+53.0
+
+Respiration amplitude (normalized) with detected posture changes.
+
+4 D y
+
+50.0
+
+SO.S
+
+51,0
+
+~q 5]..5
+
+52,0
+
+52.5
+
+53.0
+
+53.5
+
+Time from measurement start in minutes
+
+230
+
+U.S. Patent
+
+Aug. 6, 2019
+
+Sheet 4 of 8
+
+US 10,368,799 82
+
+34500 34000 33500 200 ~ 3 3 0 0 0 32500 32000 31500 31000 30500
+50 8 51 . 0 51.2 51.4 51.6 51.8 52.0 52.2
+38000 200 ~3 6 0 0 0
+34000 32000 30000
+8 5! .0 51,2 ~) 51.4 51 . 6 51.8 52.0 52.2 21
+
+U.S. Patent
+
+Aug. 6, 2019
+
+Sheet 5 of 8
+
+US 10,368,799 82
+
+310
+
+300
+
+350~
+
+0
+
+30
+
+340
+0/ /
+
+200
+
+Raw BCG signal. The spikes
+
+shown are due to large body
+
+Hlovements.
+
+4IO y
+
+320--
+
+330
+1
+
+300
+c'
+
+0 50 100 150 200 250 300 350 400
+Respiration amplitude {normalized) with detected posture changes
+g,,5 , . '!.y 350 0 4 50 l 00 150 200 250 300 350 400 Time &om measurement start
+ln n11nutes
+40
+
+I -310
+00
+
+Aug. 6, 2019
+
+Sheet 7 of 8
+
+US 10,368,799 82
+
+470
+
+/
+
+/
+
+Processor
+
+//
+
+/
+4 30 -~ :
+
+C OI11munlcat ton Hardware
+/
+User Interface : / I
+:/
+
+F .V, I F.V . 2
+// yp
+F .V. 3 F. V .4
+
+4SO--: ; : T hir d P arty Software
+Applciation
+
+F .V. 5 F.V . 6
+
+Storage Medium
+
+F .V. 7 F.V . n Feature Vectors
+
+U.S. Patent
+
+Aug. 6, 2019
+
+Sheet 8 of 8
+
+US 10,368,799 82
+
++~ C Start
+
+Recording a ballistocardiographic signal using a peripheral device
+
+Arranging a communication connection between the peripheral device and a mobile subscriber terminal ~ S 20
+
+Communicating said ballistocardiographic signal to a third party software application executing in said mobile
+subscriber terminal
+
+Determining the quality of sleep fioin said ballistocardiographic siglral based on skeletal muscle body,:~ S40
+posture changes
+
+~ Isthere
+
+SSO
+
+~ a s tep change in respiration ~
+
+amplitude corresponding to one or more
+
+~~ sp i k es in baliistocardiograpchi~
+
+signal
+
+Yes Static posture change is detected
+
+Body Movement is detected without any static posture change
+~--. S70
+
+Arranging the classifier to know how the features of ballistocardiographic signal are kiiov n to look like in
+di fferent user body postures
+
+Determimng the body posture of at least one user by
+
+SO
+
+classifying feature vectors
+
+I ~ 59 0
+
+Storing the image and/or. data of body postures of the at least one user by third party application in to data storage ~ S 9 2
+
+Displaying the image and/or data of body postures of the at least one user on the screen of mobile subscriber terminal ~-- S94
+
+US 10,368,799 B2
+
+1
+
+SYSTEM FOR DETERMINING THE QUALITY OF SLEEP
+FIELD OF INVENTION
+
+of at least one user. The present invention discloses a method of determining a quality of sleep of the at least one user using a peripheral device. As said, ballistocardiographic measurements comprise measurement of force generated
+
+due to the cardiac function of the body, movement due to
+
+The present invention relates to a system for determining respiration and other muscle movements of the human
+
+the quality of sleep of a sleeping user. More particularly, the being. In this invention a somewhat similar "body motion
+
+present invention is related to a system and a method for signal" is used, but this signal does not necessarily comprise
+
+determining the quality of sleep by detecting the changes in a cardiogram. The body motion signal of the invention is a
+
+body posture of the sleeping user.
+
+10 signal that comprises the signal generated by the skeletal
+
+BACKGROUND OF INVENTION
+
+muscles and at least one internal organ, such as the lungs and/or the heart. "Body motion signal" is construed as
+
+Sleeping habits have been considered an important factor for the physical and physiological wellbeing of human
+
+15
+
+explained in the preceding sentence throughout this application. The peripheral device includes at least one sensor
+
+beings. Bad sleeping habits may lead to many health disor- that records a body motion signal occurring due to mechani-
+
+ders. Hence, there is a need for monitoring sleep to analyze cal and muscle movements of the body of the at least one
+
+fitness of human beings.
+
+user.
+
+For example, there is a technique known as ballistocar-
+
+The method initiates by arranging a communication con-
+
+diography to determine repetitive movements of a human 20 nection between the peripheral device and a mobile subbody. Ballistocardiography has been used in art for clinical scriber terminal. Further, the peripheral device communi-
+
+purposes like monitoring human health, respiration rate and heartbeat etc. Ballistocardiographic measurements comprise measurement offorce generated due to the cardiac function
+
+cates the body motion signal to a t h ird party software application. The mobile subscriber terminal includes a processor for executing the third party software application. The
+
+of the body, movement due to respiration and other muscle 25 quality of sleep is determined from the body motion signal
+
+movements ofthe human being.
+
+based on the detected body posture changes.
+
+There are quite a few systems known in the prior art based
+
+It is a further object of the present invention to provide a
+
+on this technique, for example, a US patent application method of communicating the quality of sleep by determin-
+
+2010/0016685 discloses a system for detecting body move- ing the body movements and posture change of a sleeping
+
+ments using a ballistocardiographic sensor and a noise 30 user from one or more spikes in said body motion signal.
+
+sensor. However, this patent application does not disclose
+
+In another embodiment of the present invention, the one
+
+any means for detecting posture change, or what the posture or more spikes in the body motion signal and a step change
+
+of a sleeping user is at a given time. This document is in the respiration amplitude occurring simultaneously is
+
+incorporated here as reference.
+
+determined to correspond to the body posture change of at
+
+There are also prior art devices known to allege that they 35 least one user, and the body motion signal lacking a simul-
+
+detect posture of user while sleeping, for example, there is taneous step change in the respiration amplitude is deter-
+
+a RestOn device and application for monitoring sleep of a mined to correspond to the body movement but no static
+
+user, particularly to determine how many times a user has body posture change of the at least one user. In a broader
+
+changed posture while sleeping. The RestOn device uses a embodiment of the invention, the one or more spikes in the
+
+strip of sensors for this purpose; however, it is not very 40 body motion signal and a step change in the at least one
+
+efficient for determining the exact body posture of the user. physiological property determined from the body motion
+
+This App is publicly available in the Apple iOS App Store. signal (respiration cycle shape, respiration cycle amplitude,
+
+The Techinasia news article is cited here as reference, please heartbeat cycle shape, heartbeat cycle amplitude, presence
+
+see references section.
+
+signal value) occurring simultaneously is determined to
+
+There are other more complex systems and methods also 45 correspond to the body posture change of at least one user
+
+known in the prior art for monitoring sleep using video and the body motion signal lacking a simultaneous step
+
+recorders and/or radars. For example, US patent application change in the at least one physiological property is deter-
+
+2007/0156060 discloses a system for automatically moni- mined to correspond to the body movement but no static
+
+toring the sleep of a person using a video recorder for body posture change of the at least one user.
+
+recording live images of a subject sleeping. However, such 50 It is a further object of the present invention to provide a
+
+systems are complex and expensive, and not efiective during distributed computer system for determining the quality of
+
+night and/or in dark rooms. Further, realization of such sleep of at least one user using a peripheral device that
+
+devices as a consumer application is not easy and they may comprises at least one sensor to record a body motion signal
+
+even create hindrance in a user's sleep. This document is and communicate the body motion signal to a third party
+
+also incorporatedhere as reference.
+
+55 software application executing in a mobile subscriber ter-
+
+As seen, none of the available prior art disclosures pro- minal.
+
+vide any method of determining the quality of sleep by
+
+It is yet an object of the invention to provide a computer
+
+analyzing the body posture and accurately distinguishing program product for determining the quality of sleep of at
+
+static body posture changes from minor body movements. least one user. The computer program product comprises at
+
+In light of the above discussion, there is a need for a 60 least one non-transitory computer-readable storage medium
+
+system that can overcome one or more problems associated having computer-readable program code portions stored
+
+with the prior art.
+
+therein.The computer-readable program codeportions com-
+
+prise instructions for performing aforesaid method of deter-
+
+SUMMARY OF INVENTION
+
+mining the quality of sleep.
+
+65 A method of determining the quality of sleep of at least
+
+The invention under study is directed towards a system one user in accordance with the invention comprises:
+
+and a method for efiectively determining the quality of sleep
+
+recording a body motion signal using a peripheral device;
+
+US 10,368,799 B2
+
+arranging a c ommunication connection between the
+
+not limited to respiration cycle shape, respiration cycle
+
+peripheral device and a mobile subscriber terminal or a
+
+amplitude, heartbeat cycle shape, heartbeat cycle
+
+computer;
+
+amplitude and/or presence signal value, wherein the
+
+communicating said body motion signal to a third party
+
+determination of the body posture changes of at least
+
+software application executing in said mobile sub- 5
+
+one user is used to determine the quality of sleep.
+
+scriber terminal or a computer;
+
+A distributed computer system for determining the quality
+
+determining body posture changes of the at least one user of sleep of at least one user in accordance with the invention
+
+based on said body motion signal and a respiration comprises:
+
+cycle amplitude signal or other signal generated by an
+
+a peripheraldevice arranged to record a body motion
+
+internal organ of the user, wherein the determination of 10
+
+signal;
+
+the body posture changes of at least one user is used to
+
+said peripheral device and at least one network computer
+
+determine the quality of sleep.
+
+arranged to communicate the body motion signal to
+
+A method of determining the quality of sleep of at least
+
+said at least one network computer including but not
+
+one user in accordance with the invention comprises:
+
+limited to a cloud service,
+
+recording a body motion signal using a peripheral device; 15 said at least one network computer arranged to determine
+
+determining body posture changes of the at least one user
+
+body posture changes of the at least one user based on
+
+with said peripheral device based on said body motion
+
+said body motion signal and at least one physiological
+
+signal and at least one physiological property determined from the body motion signal including but not
+
+property determined from the body motion signal including but not limited to respiration cycle shape,
+
+limited to respiration cycle shape, respiration cycle 20 amplitude, heartbeat cycle shape, heartbeat cycle
+
+respiration cycle amplitude, heartbeat cycle shape, heartbeat cycle amplitude and/or presence signal value,
+
+amplitude and/or presence signal value, wherein the
+
+wherein the determination of the body posture changes
+
+determination of the body posture changes of at least
+
+of at least one user is used to determine the quality of
+
+one user is used to determine the quality of sleep.
+
+sleep.
+
+A method of determining the quality of sleep of at least 25 A computer program product for determining the quality
+
+one user in accordance with the invention comprises:
+
+of sleep of at least one user is in accordance with the
+
+recording a body motion signal using a peripheral device; invention, and the computer program product comprises at
+
+communicating the body motion signal to at least one least one non-transitory computer-readable storage medium
+
+network computer including but not limited to a cloud having computer-readable program code portions stored
+
+service,
+
+30 therein, said computer-readable program code portions com-
+
+determining body posture changes of the at least one user prising instructions for:
+
+with said at least one network computer based on said
+
+recording a body motion signal using a peripheral device;
+
+body motion signal and at least one physiological
+
+arranging a c o mmunication connection between the
+
+property determined from the body motion signal including but not limited to respiration cycle shape, 35
+
+peripheral device and a mobile subscriber terminal or computer;
+
+respiration cycle amplitude, heartbeat cycle shape,
+
+communicating said body motion signal to a third party
+
+heartbeat cycle amplitude and/or presence signal value,
+
+software application executing in said mobile sub-
+
+wherein the determination of the body posture changes
+
+scriber terminal or computer and,
+
+of at least one user is used to determine the quality of
+
+determining body posture changes of the at least one user
+
+sleep.
+
+40
+
+based on said body motion signal and a respiration
+
+A distributed computer system for determining quality of
+
+cycle amplitude signal or other signal generated by an
+
+sleep of at least one user is in accordance with the invention,
+
+internal organ of the user, wherein the determination of
+
+the distributed computer system comprising:
+
+the body posture changes of said at least one user is
+
+a mobile subscriber terminal or a computer;
+
+used to determine the quality of sleep.
+
+a peripheraldevice arranged to record a body motion 45 A computer program product for determining the quality
+
+signal and to communicate said body motion signal to of sleep of at least one user in accordance with the invention
+
+a third party software application and is characterized comprises program code instructions for:
+
+in that,
+
+recording a body motion signal using a peripheral device;
+
+the mobile subscriber terminal or computer comprises a
+
+determining body posture changes of the at least one user
+
+processor to execute the third party software applica- 50
+
+with said peripheral device based on said body motion
+
+tion, wherein the third party application is arranged to
+
+signal and at least one physiological property deter-
+
+determine body posture changes of the at least one user
+
+mined from the body motion signal including but not
+
+based on said body motion signal and a respiration
+
+limited to respiration cycle shape, respiration cycle
+
+cycle amplitude signal or other signal generated by an
+
+amplitude, heartbeat cycle shape, heartbeat cycle
+
+internal organ of the user, wherein the determination of 55
+
+amplitude and/or presence signal value, wherein the
+
+the body posture changes of said at least one user is
+
+determination of the body posture changes of at least
+
+configured to be used in determining the quality of
+
+one user is used to determine the quality of sleep.
+
+sleep.
+
+A computer program product for determining the quality
+
+A distributed computer system for determining the quality of sleep of at least one user in accordance with the invention
+
+of sleep of at least one user in accordance with the invention 60 comprises program code instructions for:
+
+comprises:
+
+recording a body motion signal using a peripheral device;
+
+a peripheraldevice arranged to record a body motion signal;
+
+communicating the body motion signal to at least one network computer including but not limited to a cloud
+
+said peripheral device arranged to determine body posture
+
+service,
+
+changes of the at least one user based on said body 65 determining body posture changes of the at least one user
+
+motion signal and at least one physiological property
+
+with said at least one network computer based on said
+
+determined from the body motion signal including but
+
+body motion signal and at least one physiological
+
+US 10,368,799 B2
+
+property determined from the body motion signal may correspond to the posture change. This feature is
+
+including but not limited to respiration cycle shape, utilized in the present invention.
+
+respiration cycle amplitude, heartbeat cycle shape,
+
+According to an embodiment of the invention, the third
+
+heartbeat cycle amplitude and/or presence signal value, party software applications are deployed to distinguish the wherein the determination of the body posture changes 5 breathing cycles from the recorded body motion signal (raw
+
+of at least one user is used to determine the quality of body motion signal) and to calculate the respiration ampli-
+
+sleep.
+
+tude. The third party software applications are capable to
+
+According to an embodiment of the invention, at least one detect the change in posture by analyzing the spikes of the
+
+static sensor and at least one dynamic sensor is integrated to body motion signal with respect to the simultaneous step
+
+the at least one sensor device of the peripheral device. The 10 changes in the respiration amplitude.
+
+at least one sensor device is further arranged to determine presence signals and further to determine the presence of a
+
+BRIEF DESCRIPTION OF DRAWINGS
+
+sleeping user on a bed. A presence signal describes the user's proximity to o r p r esence on the bed/sensor. It can be
+
+15
+
+In the following the invention will be described in greater detail with reference to exemplary embodiments in accor-
+
+measured e.g. with dynamic sensors (e.g. piezoelectric sen- dance with the accompanying drawings, in which:
+
+sors) or static sensors (e.g. capacitive sensors). It can be a
+
+FIG. 1 demonstrates a flowchart depicting a method of
+
+binary value (present/absent) or continuous value. In fact, in determining the quality of sleep in an embodiment 10 in
+
+one embodiment of the invention the one or more spikes in accordance with the invention.
+
+the body motion signal and a step change in the at least one 20 FIG. 2 demonstrates a graphical representation of the
+
+physiological property determined from the body motion body motion signal and the respiration cycle amplitude in an
+
+signal (respiration cycle shape, respiration cycle amplitude, embodiment 20 of the invention.
+
+heartbeat cycle shape, heartbeat cycle amplitude, presence
+
+FIG. 2b demonstrates a graphical representation of the
+
+signal value) occurring simultaneously is determined to body motion signal and the respiration cycle amplitude in an
+
+correspond to at least one user entering or exiting the bed 25 embodiment 20 of the invention.
+
+and the body motion signal lacking a simultaneous step
+
+FIG. 2c demonstrates a graphical representation of the
+
+change in the at least one physiological property is deter- body motion signal and the respiration cycle shape in an
+
+mined to correspond to the body movement but no entering embodiment 21 of the invention.
+
+or exiting of the at least one user.
+
+FIG. 3 demonstrates an embodiment 30 depicting a sleep-
+
+Some or all of the aforementioned advantages of the 30 ing user 340, sensor with both dynamic 310 and static 360
+
+invention are accrued by the integration of the static sensor sensors integrated, a mobile subscriber terminal 320 with a
+
+and the dynamic sensor in the at least one sensor of the third party software application in accordance with the
+
+peripheral device. The dynamic sensor may be any sensor invention.
+
+that can detect the motion signals (due to respiration, heart-
+
+FIG. 4a demonstrates an embodiment 40 depicting a
+
+beats, blood pressure etc.) including, but not limited to, a 35 sleeping user 340, body movements and posture change of
+
+piezoelectric sensor and/or a piezo thin film sensor. The the sleeping user in accordance with the invention.
+
+static sensors may include one or more sensors to detect the
+
+FIG. 4b demonstrates an embodiment 41 depicting a
+
+presence and static parameters (weight, temperature etc.) of mobile subscribers terminal 320 comprising a s torage
+
+the at least one user including, but not limited to, a strain medium 450 having plurality of body postures 460 and
+
+gauge, a capacitive sensor, a proximity sensor, a thermo- 40 feature vectors associated with each body posture in accor-
+
+couple, an inductive sensor etc.
+
+dance with the invention.
+
+The best mode of the invention is a system wherein a
+
+FIG. 5 demonstrates a flowchart depicting a method of
+
+peripheral device comprises an i ntegrated sensor that communicating the quality of sleep in an embodiment 50 in
+
+includes both dynamic and static sensors, and provides the accordance with the invention.
+
+recording of body motion signal and presence signal to the 45 The features of the invention illustrated above and below
+
+third party software application of the mobile subscriber in the specification, are described with reference to the
+
+terminal. The integrated sensor provides a great advantage in drawings summarized above. The reference numbers shown
+
+accurately measuring the presence of at least one user. in the drawings may be used at one or more places to
+
+Further, in the best mode, the simultaneous spike in the body indicate the functional relation between the referenced ele-
+
+motion signal and the step in the respiration amplitude are 50 ments. Some of the embodiments are described in the
+
+interpreted as a change of body posture, whereas only spikes dependent claims.
+
+in body motion signal typically indicate the mere body
+
+movements. The respiration amplitude is also measured
+
+DETAILED DESCRIPTION OF EMBODIMENTS
+
+ballistographically, i.e. by force measurements in the best
+
+mode.
+
+55 As depicted in FIG. 1, an embodiment 10 of the present
+
+The respiration amplitude varies during various stages of invention provides a method for determining the quality of
+
+sleep. Roughly speaking, it has been observed that it is stable sleep of at least one user. The method is initiated at step100.
+
+when the user is awake; it is less stable in non-REM (rapid
+
+At step 110, a peripheral device records a body motion
+
+eye movement) stage, while in REM stage, the respiration is signal. The body motion signal is a combination of various
+
+unstable. On the other hand, the body motion signal ampli- 60 signals such as signals occurring due to difl'erent mechanical
+
+tude majorly depends on the posture and position of human body movements, heartbeats, respiration, breath cycles,
+
+body. It has been observed that body motion signal such as blood pressure and/or other skeletal muscular movements, a ballistocardiographic signal has a bigger amplitude when and presence signal etc. The peripheral device includes a
+
+a person sleeps on his back or on stomach than when the sensor to record these signals as a raw body motion signal.
+
+person sleeps on the sides. Further, it has also been seen that 65 Thereafter at step 120, a communication connection is quick changes in the amplitude of the body motion signal established between the peripheral device and a mobile
+
+such as a ballistocardiographic signal, as a step function, subscriber terminal, to communicate the recorded body
+
+US 10,368,799 B2
+
+motion signal. These signals have difi'erent amplitudes and embodiment. The presence signals are basically the signals
+
+frequencies, hence one or more signals such as respiration generated due of the presence of user in the proximity of the
+
+cycle amplitude, respiration cycle shape, heartbeat cycle at least one sensor.
+
+shape, heartbeat cycle amplitude and presence signal can be
+
+The algorithms of the third party software application are
+
+determined by deploying various algorithms.
+
+5 capable of distinguishing individual breathing cycles, res-
+
+In an e m bodiment, th e c o mmunication connection piration and presence signals from the body motion signal.
+
+between the peripheral device and the mobile subscriber terminal may be v i a an y n etwork including, but not
+
+The respiration amplitude signal, i.e. the change of the amplitude, during the night is analyzed with a simple step
+
+restricted to, wireless networks such CDMA, GSM, UMTS, recognition method and the times of the recognized step
+
+HSPA, EV-DO, EV-DO rev. A, 3GPP LTE, WiMAX, Wi-Fi, Bluetooth, internet, telephony, and/or wired network such as optical fibres, cables, other communication formats and combinations thereof.
+
+10
+
+changes from the signal are recorded. At the same time, it is possible to detect absence of the user from the bed. During the absence of user the amplitude of body motion signals will be significantly low and/or static over the time. This will i ndicate that the user is not sleeping and/or not in t h e
+
+Thereafter, at step 130, the peripheral device communi- 15 proximity of the at least one sensor.
+
+cates the body motion signal to a t h ird party software
+
+The method is terminated at step 150.
+
+application executing on a mobile subscriber terminal via the communication channel. The mobile subscriber terminal
+
+It should be noted that any features, phases or parts of embodiment 10 can be freely permuted and combined with
+
+may be any dedicated mobile device that includes a proces- any of the embodiments 20, 21, 30, 40, 41 and/or 50 in a
+
+sor for executing the third party software application, com- 20 combination of two or more embodiments in accordance munication hardware, a user interface and a non-volatile with the invention.
+
+storage medium. In some embodiments of the present inven-
+
+Moving on, FIG. 2 demonstrates a graphical representa-
+
+tion, the mobile subscriber terminal is a mobile phone or a tablet device. In some other embodiments the mobile sub-
+
+tion of a body motion signal 200 and a respiration cycle amplitude 210, in accordance with an embodiment of the
+
+scriber terminal may be substituted by a computer.
+
+25 invention. An embodiment 20 of present invention provides
+
+Moving on at step 140, the third party software applica- a way to analyze these signals for determining the static
+
+tion determines body posture changes of the at least one user body posture change and/or body movements. FIG.2b
+
+based on the body motion signal and the respiration cycle demonstrates a graphical representation of a body motion
+
+amplitude. In an embodiment, the respiration cycle ampli- signal 200 and a respiration cycle amplitude 210, in such a
+
+tude is determined from the raw body motion signal. The 30 way that the signals are the same as in FIG. 2, but the
+
+temporal range in the figure is shorter.
+
+body posturechange may be determined by analyzing the spike in the body motion signal, such as a ballistocardio-
+
+In FIG. 2 and FIG. 2b, in the top chart, there is shown the
+
+raw body motion signal200, which has been recorded
+
+graphic (BCG) signal, and step change of amplitude of the during one night and the respiration cycle amplitude 210
+
+respiration cycle amplitude by a step recognition method. 35 (bottom of the chart) that has been determined from the body
+
+When the step change of the respiration amplitude and the motion signal 200. Various algorithms can be deployed to
+
+spike in the raw BCG occur at the same time, the posture of detect the spikes caused by body movements, and further in
+
+the user has changed.
+
+between the spikes, there are level plateaus from which the
+
+The detected body posture changes further help in deter- breathing cycles can be easily detected. In the figure the
+
+mining the quality of sleep. Various algorithms can be 40 vertical dotted lines show the detected changes of body
+
+deployed to analyze the body posture of the user to deter- posture. By comparing the raw body motion signal 200 and
+
+mine the physical and physiological condition of user. The the respiration cycle amplitude 210, it is possible to detect
+
+body movements can then be analyzed to determine various a change in body posture. The change in body posture is
+
+sleep stages. For example in a light sleep stage the user body determined when the spike in body motion signal 200 occurs
+
+may show some frequent body movements such as eye 45 concurrently with the step change in amplitude of the
+
+movement, hand movement etc. and in deep sleep stage the respiration amplitude cycle 210.
+
+user may show no mechanicalbody movement and respi-
+
+As shown in FIG. 2, there is a simultaneous occurrence of
+
+ration may be high etc.
+
+the spike 220 and the step change230 at time 51 and at time
+
+It has been observed that the respiration amplitude varies 104 or so. This indicates that user has changed the posture
+
+during various stages of sleep. The respiration is stable when 50 at time 51 and at time 104. Further, it has been seen that
+
+the user is awake; it is less stable in non-REM (rapid eye almost no step change and/or very low amplitude spikes are
+
+movement) stage, while in REM stage, the respiration is detected in the body motion signal 200 between 100 to early
+
+unstable. On the other hand, the body motion signal ampli- 200 minutes, the third party software application may
+
+tude predominantly depends on the posture and position of deduce that the user is in deep sleep during this period and
+
+human body. It has also been observed that respiration signal 55 further, the frequent change in the posture of the at least one
+
+has a bigger amplitude when a person sleeps on his back or user has been recorded around 350 minutes which indicates
+
+on stomach than when he sleeps on either side. Further, it is that the user is in light sleep or no sleep during this period.
+
+examined that the quick changes in the amplitude of respi- Thus, in this way the third party software application will
+
+ration signal, as a step function, may correspond to the determine the quality of sleep of the at least one user.
+
+posture change. This feature is utilized in the present inven- 60 It should be noted that any features, phases or parts of
+
+tion and in this way the quality of sleep may be analyzed. embodiment20 can be freelypermuted and combined with
+
+Various techniques and/or algorithms can be deployed to extract aforementioned signals and/or parameters from the
+
+any of the embodiments 10, 21, 30, 40, 41 and/or 50 in a combination of two or more embodiments in accordance
+
+body motion signals. In order to identify the ballistic efi'ect with the invention.
+
+of cardiac activity and the pushing efiect of respiratory 65 FIG. 2c demonstrates a graphical representation of a body activity, one or more signal processing techniques, such as motion signal 200 in accordance with an embodiment of the
+
+iterative analysis and adaptive filtering can be utilized in the invention. In the figure, there is shown a 1.5-minute excerpt
+
+US 10,368,799 B2
+
+10
+
+of the raw body motion signal 200. There is a simultaneous
+
+A piezoelectric sensor installed at a surface of a deform-
+
+occurrence of the spike 220 (the spike occurring between able object, such as a mattress, can be used for measuring the
+
+51.2 minutes and 51.5 minutes) and a step change of the amount of deformation of the object when experiencing a
+
+respiration cycle shape and respiration cycle amplitude in mechanical load. The piezoelectric measurement has supe-
+
+the raw body motion signal 200. This indicates that user has 5 rior sensitivity for dynamic phenomena, so it is the primary
+
+changed the posture between 51.2 minutes and 51.5 minutes. method for vital sign detection and posture detection. Even
+
+Two zooming levels of the body motion signal 200 are provided in FIG. 2c, so that it can be recognized that in
+
+though having no significant static presence detection capabilities, the variability of the piezoelectric output is also used
+
+addition to the evident step change in respiration cycle as a presence indicator in some embodiments, since the
+
+amplitude, there is a step change also in the respiration cycle 10 human body is never completely still.
+
+shape. The third party software application algorithm is config-
+
+In an embodiment of the present invention, the strain gauge may be used to detect the state of physical motion of the user on the bed, by detecting the static deflection of the
+
+ured to distinguish the static body posture change and/or sensor caused by the presence of the person. The strain
+
+body movements of the at least one user. It may utilize the 15 gauge integrated into the piezo sensors may be utilized to
+
+step recognition method for analyzing the body motion measure the vibration signals occurring due to the respira-
+
+signal 200. In this method, basically, the third party software application recognizes the one or more spikes in the body
+
+tion and/or other body movements of the user. In some embodiments, the strain gauge sensor is arranged on the
+
+motion signal 200 and a concurrent step change in the elastic fabric of user mattress in such a way that movements
+
+respiration cycle amplitude 210. These concurrent events are 20 of the user's chest due to heartbeat and/or respiration lead to determined to mean that posture has changed. Various a fluctuating strain gauge signal. The direct signal originat-
+
+techniques can be utilized for step recognition. The step ing from the strain gauge in order to record heartbeat and
+
+recognition may utilize one or more statistical and/or signal respiration may be communicated to the mobile third party
+
+processing algorithms.
+
+software application.
+
+In one aspect of the present invention, the simultaneous 25 In another embodiment of the present invention, two
+
+occurrence of the one or more spikes in said body motion capacitive load cells may be mounted at/on near the top and
+
+signal and a step change in the respiration amplitude is bottom middles of the user's bed to detect the presence of
+
+considered as the body posture change of the at least one the user by detecting an increment in the weight on the bed.
+
+user. The combination of one or more spikes in said body
+
+In some further embodiments of the present invention, the
+
+motion signal lacking a simultaneous step change in the 30 capacitive proximity sensor film may be used to detect the
+
+respiration amplitude is considered as a mere body movement without static body posture change of the at least one
+
+presence of user in the proximity of one or more sensors. For example, the presence of the user alters the electric flux field
+
+user. Thus it is clear that the spikes of significant threshold lines of at least one capacitive proximity sensor films which
+
+in body motion signal may refer to the body movements but is detected. Typically the electric flux density increases
+
+not necessarily posture change. This is simply because body 35 when the user lies on top of the capacitive proximity sensor
+
+movements do not always lead to the body posture change. film.
+
+It should be noted that any features, phases or parts of
+
+The presence of the user may also be indirectly deter-
+
+embodiment21 can be freelypermuted and combined with mined from the presence of the mobile subscriber terminal,
+
+any of the embodiments 10, 20, 30, 40, 41 and/or 50 in a for example by determining the location of the mobile using
+
+combination of two or more embodiments in accordance 40 WIFi, GPS, BlueTooth, iBeacon, GSM, CDMA, 3G, 4G,
+
+with the invention.
+
+and/or any other cellular technology.
+
+FIG. 3 depicts a distributed computer system for deter-
+
+In further embodiments of the present invention, the one
+
+mining the quality of sleep of at least one user in accordance or more sensors of sensor device are enabled to measure
+
+with the invention. In an embodiment 30 of the present temperature diflerences between the one or more thermo-
+
+invention, the posture of a sleeping user 340 is detected 45 couples and the sensor device. The temperature difl'erence
+
+using a peripheral device 300. The peripheral device 300 is between the terminals of thermocouples indicates presence
+
+in a communication connection 330 with the mobile sub- of one user, or more than one user.
+
+scriber terminal 320. The peripheral device 300 includes at
+
+In some aspects, the piezoelectric sensor and/or a piezo
+
+least one sensor to record the body motion signal of a user. thin film sensors are arranged on the elastic fabric of a user
+
+In one embodiment of the present invention the peripheral 50 mattress 350 in such a way that movements of the user's
+
+device includes a plurality of sensors. In some embodiments chest due to heartbeat and/or respiration lead to a mechani-
+
+the plurality of sensors may be dynamic sensors310 such as cal stress on the thin film of the piezoelectric sensors. The
+
+piezoelectric sensor and/or piezo thin film sensors. In other direct signal originating from these sensors to monitor
+
+embodiments the sensors may be static sensors 360 such as heartbeat and respiration may be communicated to the
+
+one or more of the following: a strain gauge, a capacitive 55 mobile third party software application.
+
+sensor, a proximity sensor, a thermocouple, an inductive
+
+In an embodiment, the peripheral device 300 may be in
+
+sensor etc. In another embodiment of the present invention, form of a thin IC device and can be placed on the user's bed
+
+the peripheral device includes both the static sensors 360 and/or it may be adapted to be located at a remote location
+
+and the dynamic sensors 310.
+
+with communication enabled with the one or more sensors.
+
+In some aspects of the present invention, the measurement 60 In some embodiments, the peripheral device 300 can be in
+
+of the cardiac activities through ballistocardiography utilizes the form of a thin lace or strip of soft fabric so that the user
+
+one or more piezoelectric sensors. A piezoelectric sensor can may find it convenient to easily sleep on it.
+
+have a crystal and when the crystal gets deformed under a
+
+In an embodiment of the present invention, the peripheral
+
+m echanical load, the crystal starts re-distribution of i t s device 300 includes a plurality of sensors that are placed at
+
+electric charge to the surroundings. This piezoelectric efl'ect 65 multiple sensitive areas for determining the presence sigcan be used to measure, e.g., pressure, acceleration, strain or nals, and/or further determining the position of the person on
+
+force.
+
+the bed. The plurality of sensors may determine how many
+
+US 10,368,799 B2
+
+12
+
+times the user exists from the bed, how many times user the body posture when the user sleeps on his stomach. The
+
+changes his position, at what time user usually changes his feature vector 3 (F.V. 3) may correspond to the body posture
+
+position or at what time the user sleep stage changes etc. In when the user sleeps on his back with arms up (generally
+
+some embodiments of the present invention, the static sen- called starfish posture). The feature vector 4 (F.V. 4) may
+
+sors sense the user position and/or dimension on the bed and 5 correspond to the body posture when the user sleeps on his
+
+dynamic sensors sense the respiration, heart rate etc. Using right side. The feature vector 5 (F.V. 5) may correspond to
+
+the collaborated data of static and dynamic sensors, the third the body posture when the user sleeps on his left sides with
+
+party algorithm such as the one of the Beddit App or the like arms in their sides. The feature vector 6 (F.V. 6) may
+
+may detect and/or analyze one or more of the following: sleep stage of a user, sleeping time of a user, user presence
+on bed, presence of more than one user on the bed etc. It should be noted that any features, phases or parts of
+embodiment 30 can be freely permuted and combined with
+
+10
+
+correspond to the body posture when the user sleeps on his right sides with folded legs. The feature vector 7 (F.V. 7) may correspond to the body posture when the user sleeps on his back with down arms. The feature vector n (F.V. n) may
+
+any of the embodiments 10, 20, 21, 40, 41 and/or 50 in a correspond to the body posture when the user sleeps on his
+
+combination of two or more embodiments in accordance right side with down arms on their sides. Many other feature
+
+with the invention.
+
+15 vectors can be assigned for the body postures of the user in
+
+FIG. 4a demonstrates a system for determining the quality accordance with the invention.
+
+of sleep according to an embodiment 40 of the present
+
+In one embodiment, the feature vector can be assigned on
+
+invention. In the embodiment, the peripheral device 300 the basis of user's dimensions on the bed. Then each feature records the body motion signal of the sleeping user 340 in vector may be associated with a s l eep parameter, for
+
+order to detect the body movements and posture changes of 20 example if the user is sleeping with folded leg and in curl
+
+the sleeping user 340. The user 340 is sleeping on the posture, the third party software application may assume
+
+mattress 350. In the embodiment a plurality of sensors are that the user is sufi'ering from anxiety.
+
+integrated into the mattress350 for detecting the presence of
+
+The human body postures are classified in FIG. 4b in a
+
+the user 340 and for recording the body motion signal 200. 2*4 posture matrix, each associated with a feature vector.
+
+The static posture change and the body movements may be 25 The posture classification may be performed by a variety of
+
+detected by analyzing the body motion signal 200 and the methods. Some postures may be classified through support
+
+respiration cycle amplitude 210 by a third party software vector machines (SVM) or some other suitable classifier
+
+application executing on the mobile subscriber terminal320. such as artificial neural network in accordance with the
+
+The spikes of the body motion signals 200 represent the invention. The posture of the at least one user can be
+
+skeletal muscle movements in the user body. As shown in 30 determined by classifying the feature vectors. In the embodi-
+
+the figure, when the user 340 moves a hand while sleeping, ment, a classifier is arranged to know how the features of
+
+the spike 410 corresponding to that movement occurs in the body motion signal are known to look like in difi'erent user
+
+body motion signal 200 without any step change in the body postures based on reference data in data storage. The
+
+respiration amplitude signal 210 at that time.
+
+parameters of the feature vectors include the at least one
+
+This is in stark contrast to what happens e.g. at 350 35 physiological property determined from the body motion
+
+minutes when the user 340 changes his posture, a spike in signal (respiration cycle shape, respiration cycle amplitude,
+
+body motion signal 200 with simultaneous step change 420 heartbeat cycle shape, heartbeat cycle amplitude, presence
+
+in respiration amplitude signal 210 is detected. The ampli- signal value).
+
+tude of the spikes shows the strength of body movements.
+
+In the embodiment, a posture reference data may be
+
+The larger amplitude of spikes, the larger the body move- 40 accessible in online and/or ofi'-line mode, and the posture
+
+ment, while lower amplitude spikes show a smaller move- reference data may include one or more sets of posture
+
+ment in the user's body. The static posture of the user 340 according to each user of the distributed computer system.
+
+may be detected using one or more static sensors.
+
+In the posture reference data a featurevector may be
+
+It should be noted that any features, phases or parts of assigned to the each body motion and/or posture. When a
+
+embodiment40 can be freelypermuted and combined with 45 posture change is detected, a camera may capture an image
+
+any of the embodiments 10, 20, 21, 30, 41 and/or 50 in a or a recording module records the posture statistics and may
+
+combination of two or more embodiments in accordance communicate the data to the mobile subscriber terminal 320.
+
+with the invention.
+
+The classifier may utilize various techniques to compare the
+
+In one embodiment 41 as depicted in FIG. 4b, the mobile feature vector with the posture recorded by the distributed
+
+subscriber terminal 320 includes communication hardware 50 computing system to calculate a degree of similarity.
+
+430, user interface 440, a storage medium 450 and a
+
+Further, the third party software application is arranged to
+
+processor 470. The storage medium 450 includes a third store images and/or data of body postures of the at least one
+
+party software application and a memory to store a plurality user during sleep into data storage, and display said images
+
+of bo d y pos t u res 460 a nd featu r e v ect o r s and/or data later on screen of said mobile subscriber termi-
+
+(F.V. 1, F.V. 2,... F.V. n) associated with each body posture. 55 nal. The images may be real time still images and/or motion
+
+The processor 470 is configured to execute the third party pictures. The classifier and/or the third party software appli-
+
+software application. Further in some embodiments the cation may be arranged to classify one or m ore users
+
+storage medium 450 includes a third party software appli- according to their physical statistics such as height, weight
+
+cation configured to detect the body posture of the user etc. In this way the classifier and/or the third party software
+
+based on the physiological properties of the user determined 60 application will be able to recognize the one or more users
+
+from the body motion signal, such as any of the following: and may recordthe posture data corresponding to the each
+
+respiration cycle shape, respiration cycle amplitude, heart- user.
+
+beat cycle shape, heartbeat cycle amplitude and/or presence
+
+It should be noted that any features, phases or parts of
+
+signal value.
+
+embodiment41 can be freelypermuted and combined with
+
+In an exemplary embodiment, the feature vector1 (F.V.1) 65 any of the embodiments 10, 20, 21, 30, 40 and/or 50 in a
+
+may correspond to the body posture when the user sleeps on combination of two or more embodiments in accordance
+
+his left side. The feature vector 2 (F.V. 2) may correspond to with the invention.
+
+US 10,368,799 B2
+
+13
+
+14
+
+Referring to FIG. 5, an embodiment 50 of the present the peripheral device 300. The dynamic sensors 360 may be
+
+invention provides a method of determining the quality of any sensor that can detect the motion signals (due to
+
+sleep of at least one user.
+
+muscles, heartbeats, respiration etc.) including but not lim-
+
+The method is initiated at step 500. At step 510, the at ited to a piezoelectric sensor and/or a piezo thin film sensors.
+
+least one sensor of the peripheral device records the body 5 The static sensors 310 may include one or more sensors to
+
+motion signal, which is a ballistocardiographic signal in this detect the presence and static parameters (weight, tempera-
+
+case. At step520, a communication connection between the ture etc.) of the at least one user including but not limited to
+
+peripheral device and the mobile subscriber terminal is a strain gauge, a capacitive sensor, a proximity sensor, a
+
+arranged to communicate the said body motion signal to the thermocouple, an inductive sensor etc.
+
+third party software application executing on the mobile 10 The best mode of the invention is the system wherein a
+
+subscriber terminal.
+
+peripheral device 300 comprises an integrated sensor that
+
+Further, in step 530, the peripheral device communicates includes both dynamic 360 and static sensors 310, and
+
+the body motion signal to a third party software application. provides the recording of body motion signal 200 and
+
+The third party application is arranged to determine one or presence signal to the third party software application of the
+
+more parameters from the signals such as respiration cycle 15 mobile subscriber terminal 320. The integrated sensor pro-
+
+shape, respiration cycle amplitude, heartbeat cycle shape, vides a great advantage in accurately measuring the presence
+
+heartbeat cycle amplitude and the presence signal etc.
+
+of at least one user 340. Further, in the best mode, the
+
+Thereafter at step 540, the quality of sleep is determined simultaneous spike in the body motion signal 200 and the
+
+from said body motion signal based on skeletal muscle body step in the respiration amplitude 210 are interpreted as a
+
+posturechanges.The posture change may be detected by 20 change of body posture, whereas only spikes in body motion
+
+comparing the simultaneity of spikes in the body motion signal 200 typically indicate the mere body movements.
+
+signal and the step change in the respiration cycle amplitude. Further, in another preferred mode of the invention, the
+
+At step 550, the third party software application checks if mobile third party software application is enabled to deter-
+
+there is any step change in respiration amplitude correspond- mine the quality of sleep of more than one user using the one
+
+ing to one or more spikes in body motion signal at a time. 25 or more physical statistics detected by the sensor elements.
+
+At step 560, it is checked if there is a simultaneous step The combination of above mentioned sensor elements used
+
+change in respiration amplitude with the one or more spikes in determination of the one or m ore physical statistics
+
+in body motion signal. If there is none, then the third party enables the distributed computer system to determine the
+
+software application assumes it is only a body movement posture of more than one user more precisely. Further,
+
+and returns to step 510.
+
+30 various algorithms may be deployed to analyze the posture
+
+If there is a simultaneous step change in respiration of more than one user and to determine the physical and
+
+amplitude with the one or more spikes in body motion physiological conditions (such as whether and to what extent
+
+signal, the third party software application will assume it as the user is relaxed, in stress, in fever etc.) using the com-
+
+the static posture change of at least one user in step 570.
+
+bination of various sensing data such as(respiration, breath,
+
+Furthermore at step 5SO, the third party software appli- 35 blood pressure, posture and position etc.).
+
+cation arranges the classifier software (such as support
+
+It should specifically be noted that the respiration ampli-
+
+vector machine (SVM) or artificial neural network) to know tude signal may be replaced by a measured signal of
+
+how the features of body motion signal are known to look respiration cycle shape, respiration cycle amplitude, heart-
+
+like in difierent user body postures. Thereafter, at step590, beat cycle shape, heartbeat cycle amplitude and/or presence
+
+the body posture of at least one user by classifying feature 40 signal, and in an equal manner the concurrency of spike or
+
+vectors is determined.
+
+step change in the two signals (body motion signal+physi-
+
+At step 592, the image and/or data of body postures of the ological property signal extracted therefrom ) will signify
+
+at least one user by third party application is stored to data body posture change of user.
+
+storage. Subsequently, at step 594 the image and/or data of
+
+An embodiment of the invention provides a computer
+
+body postures of the at least one user is displayed on the 45 program product forrecording and analyzing the body
+
+screen of the mobile subscriber terminal. In some embodi- motion signal of at least one user by the computing device.
+
+ments of the invention the postures are displayed on the The computer device includes at least one non-transitory
+
+mobile subscriber terminal screen as a video, fast-forward computer-readablestorage medium having computer read-
+
+video, orslow-forward video or any other video.
+
+able program code portions stored therein. The said com-
+
+The method is terminated at step 596.
+
+50 puter-readable program code portions comprise instructions
+
+It should be noted that any features, phases or parts of to implement the aforementioned method of determining the
+
+embodiment50 can be freelypermuted and combined with quality of sleep. The exemplary methods described above
+
+any of the embodiments 10, 20, 21, 30, 40, and/or 41 in a are typically stored on a computer readable storage medium,
+
+combination of two or more embodiments in accordance which may be anydevice that can store code foruse by a
+
+with the invention.
+
+55 computer system, mobile computer system and/or other
+
+In some other embodiments of the invention, the mobile computer systems. The computer-readable storage medium
+
+third party software application may be configured to gen- includes, but is not limited to volatile memory, non-volatile
+
+erate sleep reports of one or more users. The mobile third memory, magnetic and optical storage devices such as disk
+
+party software application may also communicate the user drives, magnetic tape, CDs compact discs, DVDs digital
+
+sleep reports to one or more centralized server or hub, which 60 versatile discs or digital video discs, or other media capable
+
+may be located at e.g. hospitals and/or clinics. The mobile of storingprogram code now known or laterdeveloped.
+
+third party software application can also be configured to
+
+Furthermore, methods described herein can be embossed
+
+share user sleep data with one or more mobile applications on hardware modulesorapparatus. These modules ordevice
+
+for further analysis.
+
+may include, but are not limited to, an application-specific
+
+Some or all of the aforementioned advantages of the 65 integrated circuit ASIC chip, a field-programmable gate
+
+invention are accrued by the integration of the static sensor array FPGA, a dedicated or shared processor that executes
+
+310 and the dynamic sensor 360 in the at least one sensor of a particular software module or a piece of code at a par-
+
+US 10,368,799 B2
+
+15
+
+16
+
+ticular time, and/or other programmable-logic devices Quantified sleep: new gadget from China wants in your bed
+
+known or laterdeveloped. When the hardware modules or
+
+Nov. 27, 2014 18:14, Paul Bischofi'(http: //www.techina-
+
+apparatus are activated, they perform the methods and
+
+sia.corn/author/paulbischofi'/) 10:28 am on 19 Nov. 2014
+
+processes included within them.
+
+The invention claimed is:
+
+It should be noted that any features, phases or parts of any 5 1. A method of determining quality of sleep of at least one
+
+embodiment10,20, 21, 30, 40, 41 and/or 50 can be freely user, the method comprising:
+
+permuted and combined with any of the embodiments 10,
+
+using a peripheral device to record a body motion signal
+
+20, 21,30,40 ,41 and/or50 ina com binationoftw o orm ore
+
+of the at least one user, the peripheral device compris-
+
+embodiments in accordance with the invention. Various alternatives and modifications can be made to the 10
+aforementioned embodiments. It should further be noted that the embodiments described above may be used in both ways either individually or two or more embodiments may be combined according to the user's need. The embodiments 15 should not be limited by their names. For example, the
+
+ing a static sensor and a dynamic sensor; using the peripheral device to establish a communication
+connection between the peripheral device and a mobile phone; communicating the body motion signal from the peripheral device to the mobile phone; and using the mobile phone to: determine respiration amplitudes from the body motion
+
+construction of any sensors, e.g. proximity sensors may take on any of a variety of forms, including, but not limited to,
+
+signal; detect a change in the body motion signal in a given
+
+an ultrasonic sensor, a capacitive sensor, a photoelectric
+
+window of time;
+
+sensor, an inductive sensor, a camera, a light sensor such as 20 a photo detector, a sound sensor such as a microphone, a
+
+detect an increase or an absence of an increase in a respiration cycle amplitude in the given window of
+
+mechanical sensor and/or the combination(s) thereof. Further, another preferred mode of the invention is where
+
+time, wherein the respiration cycle amplitude is an average of the respiration amplitudes taken over the
+
+the peripheral device 300 includes one or more sensors
+
+being integrated with the one or more sensor elements 25
+
+including but not limited to the strain gauge, capacitive
+
+sensors, proximity sensors, thermocouples, inductive sen-
+
+sors, excited piezo film and their combination thereof. In the
+
+preferred embodiment, the peripheral device can be inte-
+
+grated in to the mattress 350 of user.
+
+30
+
+The invention has been explained before primarily with
+
+reference to the embodiment wherein the following phases
+
+occur:
+
+given window of time; determine body posture changes of the at least one user
+when the change in the body motion signal and the increase in the respiration cycle amplitude are detected simultaneously; determine body movements of the at least one user when the change in the body motion signal and the absence of the increase in the respiration cycle amplitude are detected simultaneously; and determine the quality of sleep of the at least one user
+
+1. Recording using a peripheral device,
+
+based onoccurrences ofthe determined body posture
+
+2. Communicating the signal to a t hird party software 35
+
+changes andthe determined body movements.
+
+application executing in a mobile subscriber terminal,
+
+2. The method as claimed in claim 1, wherein the body
+
+3. Determining body posture changes in the mobile sub- posture changes are further determined using a change in
+
+scriber terminal. This is believed to be the best mode in one or more of signals determined from the body motion
+
+terms of network topology.
+
+signal, the signals include:
+
+However, the invention is not limited to this network 40 a respiration cycle shape, a heartbeat cycle shape, a
+
+topology or these phases. In one alternative both the record-
+
+heartbeat cycle amplitude, and a value of presence
+
+ing of the signal and the determination of the body posture
+
+signals.
+
+changes are done on the peripheral device. In another
+
+3. The method as claimed in claim 1, wherein the deter-
+
+embodiment the signal is recorded at the peripheral device, mination of the body posture changes of the at least one user
+
+then communicated to a server in a cloud service, and the 45 includes:
+
+body posture changes are determined in the cloud service.
+
+classifying the body motional signal to feature vectors,
+
+The foregoing detailed description will provide those
+
+the feature vectors associated with body postures.
+
+skilled in the art with precise disclosure for implementing an
+
+4. The method as claimed in claim 1, further comprising:
+
+exemplary embodiment of the invention, it being understood
+
+capturing one or more images and data of body postures
+
+that various changes may be made in the methods and order 50
+
+of the at least one user during sleep;
+
+of steps described in an exemplary embodiment without
+
+storing the one or more of images and the data of the body
+
+departing from the scope of the invention as set forth in the
+
+postures of the at least one user into a data storage; and
+
+appended claims and their legal equivalents. The invention
+
+displaying the one or more of the images and the data of
+
+has been explained above with reference to the aforemen-
+
+the body postures on a screen of the mobile phone.
+
+tioned embodiments. However, it is clear that the invention 55 5. The method as claimed in claim 1, wherein the dynamic
+
+is not only restricted to these embodiments, but includes all sensor is one or more of a piezoelectric sensor and a piezo
+
+possible embodiments within the spirit and scope of the thin film sensor, and
+
+inventive thought and the following patent claims.
+
+the static sensor is one or more of a strain gauge, a
+
+capacitive sensor, a proximity sensor, a thermocouple,
+
+REFERENCES
+
+60
+
+and an inductive sensor.
+
+US 2010/0016685 Al, "Separating Cardiac Signal And Respiratory Signal From Vital Signs", Pedro Miguel
+
+6. The method as claimed in claim 1, wherein the peripheral device comprises a plurality of sensors placed at multiple sensitive areas to determine one or more of (a) presence
+
+FONSECA et al, 2012
+
+signals and (b) a position of the at least one user on a bed.
+
+US 2007/0156060 Al, "Real-Time Video Based Automated 65 7. A distributed computer system to determine quality of Mobile Sleep Monitoring Using State Inference", Miguel sleep of at least one user, the distributed computer system
+
+Cervantes, 2005
+
+comprising:
+
+US 10,368,799 B2
+
+17
+
+18
+
+a mobile subscriber terminal comprising a processor;
+
+readable storage medium having computer-readablepro-
+
+a peripheraldevice configured to record a body motion gram code portions stored therein, said computer-readable
+
+signal and to communicate the body motion signal to program code portions comprising instructions for:
+
+the mobile subscriber terminal, the peripheral device
+
+using a peripheral device to record a body motion signal
+
+comprising at least one static sensor and at least one
+
+of the at least one user, the peripheral device compris-
+
+dynamic sensor,
+
+ing a static sensor and a dynamic sensor;
+
+wherein the mobile subscriber terminal:
+
+using the peripheral device to establish a communication
+
+determines respiration amplitudes from th e b o dy
+
+connection between the peripheral device and a mobile
+
+motion signal;
+
+phone;
+
+detects a change in the body motion signal in a given
+
+communicating the body motion signal from the periph-
+
+window of time;
+
+eral device to the mobile phone; and
+
+detects an increase or an absence of an increase in a
+
+using the mobile phone to:
+
+respiration cycle amplitude in the given window of
+
+determine respiration amplitudes from t h e b o dy
+
+time, wherein the respiration cycle amplitude is an average of the respiration amplitudes taken over the
+
+motional signal; detect a change in the body motion signal in a given
+
+given window of time; determines body posture changes of the at least one
+user when the change in the body motion signal and
+
+window of time;
+detect an increase or an absence of an increase in a respiration cycle amplitude in the given time window
+
+the increase in the respiration cycle amplitude are
+
+detected simultaneously;
+
+20
+
+of time, wherein the respiration cycle amplitude is an average of the respiration amplitudes taken over the
+
+determines body movements of the at least one user
+
+given window of time;
+
+when the change in the body motion signal and the absence of the increase in the respiration cycle amplitude are detected simultaneously; and
+
+determine body posture changes of the at least one user when the change in the body motion signal and the
+increase in the respiration cycle amplitude are
+
+determines the quality of sleep of the at least one user 25 based onoccurrences ofthe determined body posture changes andthe determined body movements.
+
+detected simultaneously; determine body movements of the at least one user
+when the change in the body motion signal and the
+
+S. The distributed computer system as claimed in claim 7,
+
+absence of the increase in the respiration cycle
+
+wherein the body posture changes are further determined using a change in one or more of signals determined from 30
+
+amplitude are detected simultaneously; and determine the quality of sleep of the at least one user
+
+the body motion signal, the signals include:
+
+based onoccurrences ofthe determined body posture
+
+a respiration cycle shape, a heartbeat cycle shape, a heartbeat cycle amplitude, and a value of presence signals.
+9. The distributed computer system as claimed in claim 7, wherein the determination of the body posture changes of the at least one user includes:
+classifying the body motion signal to feature vectors, the feature vectors associated with body postures.
+10. The distributed computer system as claimed in claim 7, further comprising:
+
+changes andthe determined body movements. 15. The computer program product as claimed in claim 14, wherein the body posture changes are further determined using a change in one or more signals determined from the body motion signal, the signals include: a respiration cycle shape, a heartbeat cycle shape, a
+heartbeat cycle amplitude, and a value of presence signals. 16. The computer program product as claimed in claim 14, wherein the determination of the body posture changes
+
+capturing one or more images and data of body postures of the at least one user during sleep;
+
+of the at least one user includes: classifying the body motion signal to feature vectors, the
+
+storing the one or more of images and the data of the body
+postures of the at least one user into a data storage; and displaying the one or more of the images and the data of
+
+feature vectors associated with body postures. 17. The computer program product as claimed in claim 14, further comprising:
+
+the body postures on a screen of the mobile subscriber
+
+capturing one or more images and data of body postures
+
+terminal.
+
+of the at least one user during sleep;
+
+11. The distributed computer system as claimed in claim
+
+storing the one or more of images and the data of the body
+
+7, wherein the at least one dynamic sensor is one or more of a piezoelectric sensor and a piezo thin film sensor.
+
+postures of the at least one user into a data storage; and displaying the one or more of the images and the data of
+
+12. The distributed computer system as claimed in claim
+
+the body postures a screen of the mobile phone.
+
+7, wherein the at least one static sensor is one or more of a strain gauge, a capacitive sensor, a proximity sensor, a
+
+1S. Thecomputer program product claimed in claim 14, wherein the dynamic sensor is one or more of a piezoelectric
+
+thermocouple, and an inductive sensor.
+
+sensor and a piezo thin film sensor,
+
+13. The distributed computer system as claimed in claim
+
+the static sensor is one or more of a strain gauge, a
+
+7, wherein the peripheral device comprises a plurality of
+
+capacitive sensor, a proximity sensor, a thermocouple,
+
+sensors placed in multiple sensitive areas to determine one
+
+and an inductive sensor, and
+
+or more of (a) presence signals and (b) a position of the at least one user on a bed.
+
+the peripheral device further comprises a plurality sensors placed on multiple sensitive areas to determine one or
+
+14. A computer program product for determining the
+
+more of (a) presence signals and (b) a position of the at
+
+quality of sleep of at least one user, the computer program
+
+least one user on a bed.
+
+product comprising at least one non-transitory computer-
+
+

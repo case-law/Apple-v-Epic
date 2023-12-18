@@ -1,0 +1,34 @@
+From: Sent: TQ: Subject:
+
+Ed Zobrist Fri, 24 Apr 2020 17:30:18 +0000 (UTC) Ed Zobrist Mobile payment strategies
+
+ttaitcri States District Court
+
+es
+
+NorthernDistrcitofCalifornia
+
+CaseNo. 4:20-cv-05640-YGR Case TitleE fc Goraas,Iac. a 4 ic, Ioc. b E vltibit NoDx-4333
+
+Date Entered
+
+Sueue r. Seeea CI ek
+
+Btr
+
+Deoelr Clerk
+
+Hey all, At Tim's request, we are forming a special project team to produce details for mobile payment strategies and related options. The specific asks are 1) How long on Android and iOS would it take to implement Epic payment processing side by side with platform payments? 2) What are the implications of offering different value to the mobile payment choice (eg, Apple/Google payment would be set to 18%o%hiugher price than using Epic mobile payment processing and console/PC)? 3) During this timeframe, can we make the Samsung Pay UX nice? 4) What should be the priority order of new payment options (e,g carrier billing, Sarnsung Pay on Android, etc.) 5) What other mobile payment strategies or tactics should be considered? Our goal is to present at least a first draft of responses by next Thursday (mtg to be scheduled). To expedite, I propose assigning leads to each question (they can ask for team member assistance as needed).and we' ll have akickoffm eeting on Tuesday. I've created a shared deck forpeople to use and ideally by Monday COB everyone can have contributed or reviewed the deck. Ask Leads (slides assigned in the shared deck)
+1. Dave Nikdel 2. NateAdams, Dave Nikdel
+3. Phil Buuck 4. Thomas Ko/Hans Stolfus 5. Thomas Ko
+Team members (areas) Dave N (payment tech), Philip B (Ul), Thomas K (strategy, payment svcs and Samsung), Frank L (ecomm), Hans S (Google, plafform mkt, and partnerships in general), Kayla P (legal), Haseeb M (Apple, consumer mkt), Nate A (rev/economy implications). Optional invitees to the meetings are Chffis B (client tech), Joe K and David S (1st party console). I' ve also created a private slack channel atmobile- a ment-strat- lannin . Thanks, Ed
+
+Head of Publishing E ic Games
+
+CONFIDENTIAL
+
+DX-4333.001
+
+EPIC 00420882
+
+

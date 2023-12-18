@@ -1,0 +1,594 @@
+Dr. James Mickens
+Direct Examination
+
+Summary of Conclusions
+iPhone's security guarantees are predominantly enforced by the iPhone's operating system (iOS)
+Evidence suggests that the App Review process does a weak job of enforcing additional security properties that cannot be enforced by the OS alone
+iOS, much like macOS, is already capable of installing applications that were not distributed via Apple's App Store
+If Apple allowed iPhone users to opt into third-party app distribution channels, those users would not suffer from a meaningfully less-secure experience
+Mickens Direct Written Testimony ("DWT") Section II PDX 0081 1
+
+How isSecurity Enforced on iPhones?
+
+OFF-DEVICE SECURITY app distribution
+1
+ON-DEVICE SECURITY operating system
+
+Can be
+performed by
+third parties
+
+i
+
+·
+
+·
+
+·
+
+·
+
+ON-DEVICE SECURITY
+hardware
+
+Independent
+of app
+distribution method
+
+· ·
+
+· ·
+
+·
+
+·
+
+·
+
+·
+
+Mickcns DWT %6, Scchons V, VII PDX-OO81.2
+
+Operating System Design
+
+I
+
+I
+
+· I
+Operating System
+
+Mickens DWT Section VI PDX-oo8>.3
+
+On-Device Security: Operating System
+
+ON-DEVICE SECURITY operating system
+
+Digital Signature Validation Sandboxing
+Address Space Layout Randomization (ASLR) E xecute Never (W X ) Memory Isolation
+
+· ·
+
+· ·
+
+·
+
+·
+
+· ·
+
+I
+
+'
+
+·
+
+Mickens DWT Section V PDX-oo8>.4
+
+On-Device Security: Operating System
+
+ON-DEVICE SECURITY operating system
+
+Digital Signature Validation
+
+Sandboxing
+
+i
+
+·
+
+·
+
+·
+
+·
+
+kernel Integrib Protection Page Protection Layer
+
+I
+
+I
+
+Mickens DWT Section V PDX-oo8>.5
+
+On-Device Security: Operating System
+
+ON-DEVICE SECURITY operating system
+
+Digital Signature Validation
+· ·
+Address Spa«e Layout Randomization (ASLR) E xecute Never (W X ) Memory Isolation
+kernel Integrity Protection Page Protection Layer
+
+· ·
+
+8
+
+0
+
+·
+
+Mjpkens DWT Seehpns V, VII PDX-oo8~.6
+
+On-Device Security: Operating System
+
+ON-DEVICE SECURITY operating system
+
+Sandboxing Address Space Layout Randomization (ASLR)
+E xecute Never (W X ) Memory Isolation
+kernel Integrity Protection Page Protection Layer
+Mjpkens DWT Seehpns V, VII PDX-oo8~.7
+
+On-Device Security: Operating System
+
+ON-DEVICE SECURITY operating system
+
+· ·
+
+·
+
+·
+
+i
+
+·
+
+·
+
+· ·
+
+· ·
+
+·
+
+·
+
+·
+
+I
+
+Mjckeps DWT $6, Septjpns V, VII P D X -pp8~.8
+
+iOS: Models of App Distribution
+App Store
+
+iOS
+
+Mickens DWT Section VII
+
+PDX-0081.9
+
+iOS App Review: Security Properties
+
+Mjqke~g DWT Se~p~VI I
+
+PDX-pp8>.>p
+
+iOS App Review: Security Properties
+· I'
+
+Sandboxing
+
+weak, at best
+
+A SLR I G P W " X PP L
+Anti-malware scanners
+System call monitoring
+
+Dif6cult to ascertain by App Review or the OS
+
+Mickens DWT Sechon VIII
+
+PDX-OO81.11
+
+App Store
+
+iOS: Models of App Distribution
+
+ios
+
+Apple Developer Enterprise Program
+
+/
+Internal
+Apple Testing
+Distribution
+
+iOS App Distribution Models: Security Features
+
+ON-DEVICE SECURITY operating system
+
+OFF-DEVICE SECURITY app distribution
+
+App Store
+
+0 Apple Developer Enterprise Program
+N Internal Apple Testing Distribution
+
+Partially
+
+Not by Apple
+
+Mjqkens DWT Se~pn VII
+
+PDX-PP8>.>3
+
+macOS Operating System
+
+macOS
+
+Mickens DWT Section IX
+
+P DX-0081. 14
+
+macOS: Models of App Distribution
+
+Mac App Store
+
+Third Party
+Distribution
+(Notarization)
+
+macOS
+Third Party
+Distribution
+(unreviewed + unnotarized)
+
+Mickens DWT Section IX
+
+PDX-0081.15
+
+iOS vs. macOS Software Layers
+
+iOS applications
+
+macOS applications
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+gR W
+I I I I I I I I I I I I I I I
+
+&
+
+W
+
+W & W
+
+·
+
+·
+
+·
+
+&
+
+W &
+·
+
+W
+
+&
+
+W W W W
+· ·
+·
+
+&
+
+W
+
+& W & W & W W & W & W
+Core OS functionality
+shared by both OSes
+
+&
+
+W
+
+&
+
+W
+· ·
+
+W
+·
+
+&
+
+W
+
+&
+·
+
+W
+
+&
+
+W
+
+& W W
+
+·
+
+·
+
+·
+
+&
+
+W
+
+Q
+I I I I I I I I I I I I I I I
+
+Im m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m a
+
+.. · &
+
+· 4
+
+4
+
+·
+
+·
+
+I
+
+'
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Mjqke~gDWT Se~p~VI
+
+PDX-pp8>.>6
+
+How is Security Enforced on iOS and macOS?
+macOS
+
+·
+
+·
+
+·
+
+·
+
+·
+
+-
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+-
+
+·
+
+·
+
+Page Protection Layer Mjckena DWT Section V, VI
+
+PDX-oo8L>7
+
+How is Security Enforced on iOS and macOS?
+macOS
+
+·
+
+·
+
+·
+
+·
+
+·
+
+-
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+-
+
+·
+
+·
+
+Page Protection Layer Mjckena DWT Section V, VI, IX PDX-oo8t.~8
+
+How is Security Enforced on iOS and macOS?
+Notarization
+
+macOS
+
+Gatekeeper Malware Scarmers
+
+·
+
+·
+
+·
+
+·
+
+·
+
+-
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+-
+
+·
+
+·
+
+Page Protection Layer Mjekens DWT Section V, VI, IX PDX-oo8r.r9
+
+App Distribution: Design Implications
+
+App Store
+
+Yes
+
+Developer Enterprise
+
+Yes
+
+iOS
+
+Internal Apple
+Testing Distribution
+
+Yes
+
+Mac Store
+
+Yes
+
+Notarized
+
+Yes
+
+macOS
+
+Unsigned
+Third-Party
+
+Yes
+
+Yes
+
+Apple
+
+No
+
+Enterprise
+developer
+
+No
+
+Nobody
+
+Yes
+
+Apple
+
+Yes
+(malware scan only)
+No
+
+Tlllrd-party
+developer
+Third-party
+developer or nobody
+
+Mjqke~g DWT Se~o~ X
+
+PDX-OOS>.20
+
+

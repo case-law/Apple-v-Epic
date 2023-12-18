@@ -1,0 +1,68 @@
+5/1 5/2021
+g Ap ple Open Source
+Releases
+
+Open Source - Releases
+
+macOS
+11.0.1 11.3 11.2 11.1 11.0.1
+10.15 10.14 10.13 10.12 10.11 10.10 10.9 10.9 10.7 10.6 10.5 10.4 10.3 10.2 10.1 10.0
+
+Developer Tools
+12.0 12.0
+11.0 10.0 9.0
+9.0 7.0 6.0 5w 4x 3Jr 3.0/3.1 2Jr WWDC2004DP WWDC2003DP Dec2001
+
+iOS
+13.0 13.5.1 13.4 13.3.1 13.3 13.22
+13.2 13.1.1 13.1 13.0
+12.0 11.0 10.0 9.0 9.0 7.0 6.0 5w 4x 3m 2x SDK 1.x
+
+Open Source Reference Library
+A colledion of useful documents about open source from Apple Developer
+
+Webigt Daemons & Sen/Icos
+
+Porting
+I/O Igt
+
+hups://opensource.apple.corn
+
+OS X Server
+3m 3.0 2
+X11 Concunency
+
+PLAINhFF
+res. rxrucrcoun-uoau 4:20oe05640-YGR-TSH
+mucanesIhc.cSee In@.
+Sx. No. PX-1893
+rue suited
+sr
+Related Sites
+Open SourceDevelopment
+Documentabon and resounes for Bonjour, Java, UNIX, and Weblgt.
+mm MacOSForge MBCO9
+Open develapment of select macOS projeds
+Al
+Tools and Technolagies Why yoU' ll love to develop an your Mac
+
+Open Source in macOS
+Leam aboutthe 209+ open source pmjeds that ship with macOS
+
+Denuln Technolaglee
+
+QQ IJ
+
+Beneath the easy-to-use Interface af macOS is a rock-solid, UNIX foundation.
+
+PX-1893.1
+
+5/15/2021
+
+Open Source - Releases
+
+https://open source.apple.corn
+
+PX-1893.2
+
+

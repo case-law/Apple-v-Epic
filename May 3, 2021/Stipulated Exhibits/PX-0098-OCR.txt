@@ -1,0 +1,537 @@
+1IB/2021
+
+A Modem Content Slore. The Apple App Store and the Googte Play. . l by Phillip Shoemaker I Medium
+
+Get started Ope n in app
+
+PLAINTIFF
+U.a.Oisras cosh - Noose
+4:20cv45040-YGlt-TSH
+Epic eases rrlc. sApse rtÃ.
+att. No. PX-0098
+Dale esssad
+ey
+
+Phllllp Shoemaker
+
+A universe of options for a blockchain based content shtre
+A Modern Content Store
+
+Phillip Shoemaker Dec12,2017 . 21 min read
+
+The Apple App Store and the Google Play Store, the most popular of their kind, are over ten years old. If you consider the iTunes Music Store, you' re looking at a product that hasn't fundamentally changed in over 20 years, with the technology behind it just as antiquated. Granted these stores have changed their appearance and features over the years, but there's been no radical innovation, only evolution.
+
+Today we are in dire need of a revolution. We need digital stores that service multiple
+
+platforms, with different rule sets, and it needs to be a distributed autonomous
+
+enterprtse, one that creates value and wealth for the people involved, wtthout a centralized control authority.
+
+Exhibit PX 0098
+
+I intend to walk you through a new type of content store, one that uses modern technologies, integrates social media, improves payment options, allows for resales, provides abundant income opportunities, and doesn't require a 30% cut of your sales.
+
+blips symedrum.corn/@phil ttpshoemeker/a-modeincrmtent-store3344bbeygedc
+
+P X-0098.1 l n s
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+First, let me discuss a few issues that plague our existing, not-so-modern content stores,
+
+with a few ideas on how to fix them.
+
+Issues with Existing Content Stores
+· They do a less than optimal job of vetting content creators; many content creators are unknown to the content store and to the customer.
+· They are centralized and owned by a single entity, making and enforcing their rules.
+
+· They takenearly 1/3rd ofyour sales.
+
+· They don't support pico-transactions, nor cryptocurrencies.
+· They enforce archaic digital content rights, more strict than their physical counterparts.
+
+· They only create financial opportunities for content creators and themselves.
+
+· They give preferential treatment to big names, not good citizens.
+
+· They only have maintenance and support functions occur during their office hours.
+
+· They are slow to change.
+
+· They only support their preferred platform.
+
+· They are ripe with IP violations.
+
+· Their rules make transferring companies, let alone apps, incredibly difficult and time consuming.
+
+· They are loathe to provide analytical capabilities, fearing to give away too much knowledge of their stores.
+
+Introduction
+I joined Apple in early 2009 to run, and build, the process to vet the apps for the App Store. This team, come to be known as the App Store Review Team, was small, but over time grew to a very large organization. Most work was done by new hires, hired for their ability to work hard, smart, and follow instructions. Over time, more automation was
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.2
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+created, but by and large the review team conducted their business by using human capital. Endless hours, nearly every day.
+
+Over time I realized that the rules were often arbitrary, arguable, and created by middle aged white men (I am one), many of whom never wrote a single line of code, nor built any company. Certainly they were successful within Apple, but they often don' t understand what it takes to build a company on a new platform.
+
+At each of my team meetings, I reminded the team what they were responsible for. How their work enabled developers to get their apps onto the store, and in turn, put food on the table for their families. Our work enabled many to create livelihoods and build brands. I fondly remember meeting with Brian Armstrong when Coinbase had issues on the App Store. Additionally, I remember talking with Evan Spiegel about review problems with his unknown app Snapchat. These two men, with visions of a future that Apple didn't understand, hit the wall known as App Review, and had their apps summarily rejected, or removed, simply because they were pushing the envelope.
+
+Additionally, I pleaded with the execs to create an App Review team outside of Cupertino and Sunnyvale, one that could help us review while we slept and could bring needed jobs into impoverished areas (like Detroit). Apple prizes secrecy above all else, and due to a first mover advantage, we decided against sending this black box elsewhere.
+
+I have moved on from Apple, but my vision of creating a store where everyone can profit, bringing business opportunities to more than just developers, has only grown stronger. With technological unemployment looming around the corner, I want to put something good into the world, where one can find additional ways of maintaining their livelihood.
+
+I recently read Blockchain Revolution by Don and Alex Tapscott where they discuss the new prosperity paradox, and how corporations may be profiting, but few else.
+
+For the first time in modern history, the global economy is growing but few are benefiting. On onehand, the digital age isbringing limitless possibilities for innovation and economic progress. Corporate profits areballooning. On the other hand, prosperity has stalled. Throughout modern history, individuals and families at the 51 st percentile were on the rise. Despite depressionsand upheavals, prosperity for these individuals, and for society as a
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.3 3/18
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+whole, steadily increased. This is no longer the case. Standards of living are even declining in
+
+the developed world. Median wagesare stagnating in OECD countries. And, according to the
+
+International Labour Organisation, youth unemployment in most of theworld is stuck at
+
+about 20 percent. "Young people I are) nearly three timesas likely as adults to be
+
+unemployed," the ILO reported. In many developing nations, the numbers are significantly higher. Such unemployment is corrosive to all societies, nomatter what their level of
+
+development. Most cituens want to contribute to their community. Anyone who has been
+
+jobless knows how it erodes self-esteemand well-being. Those with power and wealth are
+
+getting ahead, and those without arefalling behind.
+
+The corporations who own content stores make significant amounts of money just from running the store. In June 2017, Apple boasted that developers have earned more than $70 billion through their App Store. Knowing that Apple takes 30% of each purchase, means that Apple raked in over $30 billion just for the App Store alone! Lets put the power and the profit into the hands of the people, and build a better store.
+The Modern Content Store
+I want this new content store to be used by everyone, as a way to acquire content, but also as a way to make a living. I also believe that we should leverage existing technologies wherever possible, instead of building our own.
+
+We need to build a true meritocracy inside a revenue generating platform that is resilient and robust, always on, responsive to all of our customers, radically open, and constantly evolving. We wish to create new business models and opportunities, giving everyone in the ecosystem the ability to make money.
+
+I envision a Modern Content Store would have the following 9 characteristics.
+
+I. Utilize the blockchain for content distribution
+
+One of the keys to creating a content store is responsive distribution. What good is a
+
+content store if the content is too slow to download or just not available? Distribution is
+
+key, and that's why we will pay people to host the content. Small areas of distribution
+
+can be distributed around the world (similar to Tor), allowing anyone to make money by
+
+hosting the content on their machines. When a user chooses to purchase the content, a
+
+percentage of the sale goes to the owner of the machine who distributes the content to
+
+the customer. Imagine this happening thousands of times a day, every day of the year.
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.4 4/18
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+Apple and Google Play take a cut of your sales (up to 30%) simply because they are
+
+hosting your content. While this may seem high, know that typical stores mark your
+
+items up significantly due to their need of warehouse and shelf space. Digital content
+
+stores have to consider the cost of storage space, bandwidth, and supporting the store
+
+and various programs (developers programs, technical support, customer service...).
+
+Our mission is to keep the store competitive by allowing for reductions in costs across the board. Without having a single corporation owning every aspect of this store, we achieve this by putting all of the supporting functions into the hands of our "miners" by allowing them to be involved in every aspect of the process, including hosting of the content.
+
+We achieve this cost reduction by allowing people around the world to host content for sale in their region, and they make a percentage of each sale.
+2. Integrate a modern, robust payment system
+Creating a new content store means that we must rethink the payment system. Content creators want to be paid immediately for their purchases, but content stores hold on to the money for weeks. Customers want to be able to pay small amounts for content (read: micro or pico-transactions), yet they are forced to pay a minimum of 99 cents. Why all of the rules?
+
+Existing content stores are tied to the antiquated banking system, and these banks make
+
+rules that often hamstring the store operator's ability to deliver what their customers
+
+want. Pico-transactions are disallowed because of the costs inherent in using credit cards
+
+(high transaction fees). Certain app types like real money gaming, are disallowed by the
+
+banking industry strictly due to fear of international laws (Apple's App Store was
+
+ly Pl
+
+'g «gl I d p i d
+
+I« g pp lyp~ il Pl
+
+Of course, not all of the rules have to do with the regulations of the banking industry.
+
+Sometimes the store operator doesn't understand how to work within the rules of these
+
+banks, or they just don't understand the industry. While we may understand the time it
+
+takes to settle a trade in the stock market (or maybe not), it doesn't make sense to do this
+
+with content store sales. Those need to be seen and felt immediately by the content
+
+creator. Nothing encourages more creation than seeing value from your previous
+
+creation.
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.5
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+Sometimes fear of banks, or of the unknown, finds its way into the rules governing a
+
+platform. For Apple, they were deadset against any cryptocurrency apps on the store, for
+
+fear that the review team would not be able to understand the difference between
+
+selling a digital good through bitcoin, versus selling a digital good through their In-App
+
+Purchase system. While a compromise was ultimately made (allowing wallets and
+
+trading, but not purchasing), it was only done due to a bigger fear: people destroying
+
+their iOS devicesand moving to a competing platform. A few days after the
+
+aforementioned video, Apple allowed Blockchain and Coinbase (among others) back
+
+into the store.
+
+Native Currency
+Another issue that content creators have with existing app stores is the amount paid to them, because the store's native currency is not their native currency. For many outside of the US, the exchange rate varies, but the price doesn't go up and down along with the rate. Sometimes this works to their detriment, and this directly affects their livelihood.
+
+To help combat the above problem, and to help kickstart the monetization opportunities for the "miners", we will offer our native currency, a wallet, and an exchange for customers to purchase our currency.
+Reduced transaction fees
+Cryptocurrency doesn't need the high fees that are typically associated with credit cards. Reducing these fees enables the store to spend more on content creators and the various miners who are keeping the store in operation.
+Store prices in crypto
+Rather than geographically based fiscal favoritism, I prefer one that is based on the store itself. This removes the geography component, and instead relies on the customer component -- being a shopper on the store.
+
+Additionally, by putting all of prices in our cryptocurrency, we have no issues with transaction fees or pico-payments.
+Payment APls
+Good content stores provide APIs to help their content creators in monetizing their products. Most of these content stores provide APIs for developers of apps only, reducing
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.6
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+the ability for other forms of content (movies, tv, books, etc.) to monetize as well.
+
+Additionally, many of these systems only provide help for the payment, but not in the delivering of the content, which happens to be one of the most important components.
+
+In-App Purchasing: All current app stores include In-App Purchasing, to help their content creators monetize within the app. Apple added this in 2009, and it has aided their bottom line significantly.
+
+By adding APIs to allow all content creators to easily monetize within their content (app, movie, stream, book, etc.) I believe that we can add new interactive features, as well as monetization opportunities, to content that doesn't currently have the ability to realize
+
+Content Delivery: The Modern Content Store provides mechanisms to deliver content only to those who have purchased or subscribed to your app. Some developers are worried about apps being stolen; there is a mechanism to record the purchase in the blockchain, and give you the ability to look it up, even if the app has been resold.
+
+Subscriptions: Some app stores disallow you from selling a subscription to your app, no matter how little you charge. A new subscription policy could be more open than that, allowing the market to decide on the best way to monetize a given industry. If the market feels that casual gaming should not be a subscription model, it will decide by money: no sales means no interest, move on.
+Resales
+Everything that is sold on the Modern Content Store can be sold to someone else on the store: digital books, songs, movies, apps, etc. Anything you buy, can be resold, just like a physical version of the same thing. This way, if you buy something you' re just not a fan of, you can at least recoup some of your costs. I used to do this all of the time with my physical goods, be it a DVD, CD or boxed software. iTunes and the existing content stores did away with all of this, due to their poor licensing deals from the content creators, and their inability to track.
+
+With the blockchain, all of your digital content (songs, books movies, etc.), are
+
+considered smart properties, where you cannot doubly own any of this content. When
+
+you sell the content, it is no longer yours, and cannot be played.
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.7
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+Rental
+
+Content creators have the ability to just let people rent content, like music or movies.
+
+This will be built into the system, allowing the creators to set the prices and rules around
+
+the service.
+
+Pay-per-view
+Content creators have the ability to set up pay-per-view events, and not just for live streams. If you have a movie or song that you don't want people to own, give them a short window in which they can watch or listen.
+
+Streaming Content
+If you want to monetize your videos, perhaps a cooking show or a show on Bitcoin, you can do so directly in this system. No longer do you have to embed advertising within your content and wait months to see any return. Just set a price and the system will charge any viewers. You will see the results while you stream. It's that easy.
+
+Twitch is a great example of a company creating new monetization opportunities for their customers, but failing to deliver the monetization for weeks, if not months. If Twitch were a modern streaming store, they would pay their creators within minutes, not months.
+3. Create financial opportunities for all users
+
+"For the first time in modern history, the global economy is growing but few are benef/.'ting." Blockchain Revolution, Don gr. Alex Tapscott
+
+Imagine a system where the operation of the site is not handled privately by a company in charge, but distributes that operation to the world. A place where anyone can work hard, and make a living helping to build and sustain the largest content store in the world!
+
+In the cryptocurrency space, you have miners trying to mine the latest block of coins, but you also have them verifying transactions. These processes use a percentage of bitcoin called gas, to help motivate the miners into reviewing the transaction and approving it.
+
+The system will be distributed, much like Tor, as a Distributed Autonomous
+
+Organization (DAO). People throughout the world can sign up to be a specific type of
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.8
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+"miner", and can make an earning doing different tasks to help the system be successful.
+
+That's how we are going to power the Modern Content Store, by giving standard operations work over to different types of "miners", where anyone can apply to be a vetted miner.
+Content Storage
+People with excess storage availability (and bandwidth), or those wishing to create a business in hosting portions of the Modern Content Store, can become content storage "miners". These types of miners receive a percentage of each sale when the content is distributed from their store.
+Automated Content Validation
+An API for automated content validation will be made available, allowing engineers to implement validation mining by integrating with the blockchain. These validation miners will receive an amount of gas (fee) for each piece of content they validate.
+
+In the Bitcoin world, there isn't much use for engineers. For the most part, engineers are out there creating new uses of blockchain and cryptocurrency (read Fred's post "Blockchain Governance" )as mining isn't in their field of interest. This is one area in which engineers could continue to innovate while making money.
+Manual Content Validation
+A key component in any content store is ensuring that the content is as advertised, is of the quality required, is rated properly, and doesn't violate any of the issued guidelines for the store. The Apple App Store uses significant manual resources to review every app that get submitted to the store. Google Play uses automated tools to review apps that get submitted to the store (and manual resources to a lesser extent).
+Content Reviews
+An issue that many content stores face is not having all of their content reviewed, sometimes at all. In the App Store, a very large number of apps have no reviews. With no incentive to post, people don' t. It's absolutely that simple.
+
+Customers too, can join in the profit making, by posting reviews of their purchased content. When a customer writes a review for purchased content, and that review is
+
+validated and approved, that customer receives some gas (fee) in their account.
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe7gedc
+
+PX-0098.9 g/18
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+Content Review Validation
+
+One of the issues facing reviews on content stores is the legitimacy of the review. Often
+
+times, a company will post negative reviews for their competition, and without proper
+
+identification, nor review validation, these reviews stay put and affect future
+
+downloads.
+
+When a customer writes a review of content, that review is sent to review validation miners, where they either approve or reject the review. For doing this validation, these miners receive some gas (fee).
+Customer Surveys
+Surveys are available by our content creators as a method of getting to know more about their customers, learning about their likes and dislikes, strictly as a way for that specific company to create better products for their customers. In these cases, the customer is paid for that information.
+
+Imagine allowing users to answer a store survey, with only high level information like gender and age, and get paid for doing so. No requirements; they just get paid.
+Policing the Store
+The people who end up knowing the store the best are the ones that use it, not the ones building it. Customers and creators alike tend to peruse the store to find new content to view, or content to create, and tend to find the present issues in the store. Users can notify the system when there are problems with content, like encoding issues or app crashes. The system will take this information, put it into a queue for someone to verify, and if validated, the user will get an increase in their Instant Karma (IK) rating (more on this later), and get paid for finding this issue. In this instance, two people (the customer and the validator) will be rewarded for their work.
+Customer Service
+Everyone needs a little help at times, be it a customer trying to download some content or a creator trying to understand why their content is being denied entry into the store. We want to encourage the best customer service for our store, and therefore will have a new type of "miner": a customer service agent.
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.10 10/18
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+While we will encourage developers to create chat bots to help combat the simpler issues
+
+(another way to make money), we also want to have strong Tier 3 support agents
+
+available to make the store more user friendly. As with the rest of this system, customer
+
+service agents will be able to make a living by supporting this new modern content store.
+
+Developer Customization
+There are numerous areas where engineering talent can continue to add benefits to this modern content store. The initial focus will be on the backend, and the services it will deliver, giving third parties the ability to control more of the look and feel of the product.
+
+I envision engineers being able to develop for the front end (Web, Android, Mac, Windows, etc.), Customer service bots, Automated Content Validation and more.
+Ongoing Sweepstakes
+Pryze will be built into the system for the store to continually use to award people who are helping make the store a better place. Customers who help policing, validating, creating, etc. Additionally, APIs will be integrated for content creators to use to award content to their customers.
+
+Sweepstakes will be used to award prominent placement in our content store. On most platforms, these placements, or swooshes, are something that people rarely get, but when you do it is financially rewarding. These are not merit-based, but more based on a certain amount of manipulation, who-you-know and good timing.
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.11 11/1 8
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... l by Phillip Shoemaker l Medium
+
+Sample Ul of Store: Nooks awarded to creators weekly!
+Content Validation Services
+One of the biggest issues that developers run into is when dealing with user generated content. Stores like the App Store and Google Play have strict guidelines around appropriate content including validating posts to see if they' re appropriate (racist remarks, death threats, pornography, etc.), yet they offer no services to help ensure a safe, consistent and time sensitive store.
+The Modern Content Store will offer an API similar to Amazon's Mechanic Turk, allowing content to be vetted in minutes, through the use of our smart economy, giving the developer instant response, and giving someone money for their hard work.
+4. Will be a true meritocracy
+An issue that the App Store and other content stores have is one of trust-ability. How do you know that this creator is who you think they are? How do you know that the reviews or ratings of content are truly from users and not just a marketing arm of the content creator or even their competition? I cannot tell you how many times developers tried to trick us into approving their apps, telling us that they represented the bank when they were just a scam artist trying to snarf your account information.
+To combat this, I have created something I refer to as Instant Karma (you can listen to the John Lennon songh~ere . Everyone has an IK rating, whether you are one of the myriad miners or just a customer. Imagine as a creator, you develop an app and submit it, and from that point on, your IK rating gets affected throughout the life on the store. An app, from submission, goes through many steps that may increase your IK rating, or decrease it. For example, here are a few steps:
+1. Creator submits app.
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.12 12/1 8
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+2. App is reviewed by automated "review miners". If app is approved by consensus of
+
+these automatons, IK rating goes up and app is sent to human review. If rejected, IK
+
+rating goes down and creator is notified.
+
+3. App is then reviewed by "review miners". If app is approved by consensus, the creator's IK rating goes up; if rejected, the IK rating goes down. (" review miners" also get IK ratings, and go up or down based on their results versus the consensus)
+
+4. User downloads the app. This will increase the IK rating for that creator.
+
+5. User leaves review for the app, which will affect the IK rating of the creator.
+
+InstantKarma goes up and down based on your successes.
+As you can see, there are many steps through the process where a creator can have their IK ratings positively or negatively affected. Creators with good reputation/trust levels
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.13 13/1 8
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+can get prioritized review (by the store paying a higher gas by default) and a better
+
+percentage for the sales of their content.
+
+5. Allow for an unlimited number of content types
+Each platform has it's own content store and they decide what content types to support. Most support digital books, but not digital comic books. Audiobooks are usually separated into an app. Some stores support streaming services, others do not. Research papers may be in a separate app. Apple's iOS allows you to side-load music and books, but not apps.
+
+A modern content store should contain whatever people want, including, but not limited to the following:
+
+· Apps, extensions, plug-ins, etc. · Books · Magazines · Movies · TV shows · Streaming content or similar · Music · Images · Research papers · In-game items
+
+· Anything you can imagine...
+
+With support for just about anything, a Modern Content Store can support any platform.
+
+6. Give digital content similar rights as physical
+With the advent of digital content, your rights have changed significantly, and the technology enforces those rights. Technology should liberate, not hamstring you.
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.14 14/1 8
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... l by Phillip Shoemaker l Medium
+
+The modern content store will enable you to sell, or even rent, your content to interested
+
+parties. And the technology will not only enable this, but the content store will help you
+
+find interested parties.
+
+Whether you are selling an album you don't like that was gifted to you, or a song that you simply out-grew, you can do so within the content store. Additionally, imagine if you could rent out movies from your extensive library, with the content store helping you find customers!
+
+One of my favorite ICOs happening right now is Gameflip. A new decentralized ecosystem for the sale of digital goods -- digital goods that you earn by playing your favoritegames. Imagine a marketplace where you can sellyour hard earned work in your favorite game, to someone you meet online. You just found a new way to earn money. Anything to help with the bleak future of technological unemployment is golden in my book!
+
+Gamef lip will help garners transact utilizing the FLIP smart contracts
+Disclaimer: I like the folks at Gameflip a lot. They are fiscally conservative, talented, have an existing ecosystem, and have a leadership maturity that I like. For this reason, I have invested in their pre-ICO. Watch their video or download their whitepaper for more information.
+7. Verify identities with Civic
+I' ve already received pushback with this one, but I truly appreciate Civic for their goals in the space of identity verification. Others have suggested UPort, among others, but I
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.15 15/1 8
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... i by Phillip Shoemaker i Medium
+
+like the direction that Civic is going, and believe that proper identification is important
+
+for the trust of any content store.
+
+Civic Architecture
+
+Why is identification so important for a content store? Trust. I remember early on at Apple when Steve said that the most important thing for the App Store is that people can trust in what they download. Trust that the app is worth the price. Trust that the app won't try to steal your information. Trust that the app does what says it will. Trust that there will be no pornography. I cannot tell you how many times I' ve stated this. In meetings with the governments of Brazil, Australia, the United States, Germany, to name just a few. The review process, which included reviewing the company name and, at times, identity, was built to ensure that this developer was working in good faith.
+
+Trust goes well beyond the developer; it encapsulates every member of the store, including the customer. After all, the customer often writes product reviews. How do we know that this isn't a marketing shill for the developer of the app? How do we know that this person is who they say they are, an unbiased user of the app and not a marketing manager for the competition? In most app stores, you don' t. You have to take every
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.16 18/1 8
+
+1/8/2021
+
+A Modem Content Store. The Apple App Store and the Google Play... ( by Phillip Shoemaker ( Medium
+
+review with a grain of salt, making the judgements yourself. Without identity trust, why
+
+even bother with reviews?
+
+Apple had significant problems with this. While Dun 8 Bradstreet was used to verify the identity of a corporation, it wasn't used for individuals. In fact, individual identification required a few things, like a name, physical address, email address and bank account. Individuals could create an account, do all sorts of shady business, get kicked off, and create a new account almost immediately. This is how apps that are in violation of App Store rules, can appear again nearly overnight.
+
+Identity verification doesn't necessarily mean you lose anonymity, it means you lose the ability to disguise yourself and create multiple accounts. Tie in an Instant Karma rating, and you will know whom you can, and cannot, trust. You would be able to give as much information as you want to the community, even answering surveys like age or gender, to help determine how to market to you. Or give none of that information. It is up to you.
+8. Utilize blockchain services to protect intellectual property
+All content stores have to do some amount of vetting to ensure that the person using a specific logo or intellectual property (IP), has the rights to that IP. While difficult to do in existing app stores, integrating an existing blockchain IP solution like Digitereum, will make this process smooth and simple for those in a modern content store.
+
+By registering your IP in the blockchain, you have an immutable record of your ownership, allowing for simple checks by the validation team, getting your content onto the store in record time!
+9. Simplify app and company ownership
+For many stores, transferring of an app, or a company, to a new entity is pretty much the place of nightmares. Apple, for instance, takes far too long to transfer apps, due to a fear of apps being stolen, understanding who owns what, and ensuring that the correct folks realize the profits.
+
+In a system where the funds are distributed immediately and the identities are known, the transferring of apps or companies is easy, and doesn't require much work. The validators will ensure that this is all on the up and up, and will require three party sign off: seller, buyer and validator.
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.17 17/1 8
+
+1/8/2021
+Next Steps
+
+A Modem Content Store. The Apple App Store and the Google Play... l by Phillip Shoemaker l Medium
+
+We need to move this app economy forward, without sacrificing any more control than
+
+we alreadyhave.The day of thewalled garden isover.We need totake back our future, and help others find new ways of earning an honest living.
+
+Blockchain App S tor e Twi t c h Goog l e Play Cro w d funding
+
+Get the Medium app
+~e· ·
+
+·· · ~
+
+r
+
+About Help Legal
+
+https://medium.corn/@phillipshoemaker/a-modem-content-store-3344bbe79edc
+
+PX-0098.18 18/1 8
+
+

@@ -1,0 +1,74 @@
+From:
+To:
+Sebastiani
+CC: BCC: Subject: Attachments: Sent:
+
+Mark Hickey Matt Fischer
+r
+,John W
+
+r
+), Julian Murphy
+
+PLAINTIFF
+U.S. Distriol Court. tdDCAL
+4tg04v45040-YGR-TBH
+Epic Games, Ine. u.Apple Ine.
+Bx.ND. PX 2125
+Dale Entered
+sr
+, Nicola
+
+Re: Fortnite: tentative nquietnlaunch on Thursday 3/29 04/11/2018 08:53:38PM 0000 (GMT)
+
+Hi Team, Here are the latest numbers.
+
+KPls Downloads Billings 01 Grossing Countries Top 5 Grossing Countries Peak Mobile DAU Peak Mobile CCU CCU All Pla orms
+
+4/2/18 27M
+511.2M
+32
+250k 5.35M
+
+4/9/18 31M
+$19M 12 53
+4.1M 250I< S.SM
+
+- Nt Matt: App Review has required Epic to remove their Starter Pack IAP because it mixes consumable (in-game currency) and non-consumable items (character skins). Please be advised that Epic is going to escalate this rejection. In the few days the The Starter Pack IAP was live, it accounted for 33% of revenue and 58% of transactions before App Review forced them to remove it. In 3 days the Starter Pack alone generated $1.13M in billings...
+
+- Massaging continues on Epic marketing and social channels but MOTD has not been activated yet because of the starter pack issue.
+PX-2125.1
+
+- They are asking about featuring on a daily basis now. Any guidance on timing for using a "trending now" solution?
+- No solution yet found for iPhone 5 and iPhone 6 devices. They are investigating technically how they would add support for those older devices but expect this to take several weeks. Targeting 4/20 to complete analysis.
+- Epic has changed their in-app messaging about the game not running on iPhone 5 and iPhone 6 to only appear once after launching the app, before exiting. While adhering to policy, this is doing little stem one-star reviews.
+- Epic will not pursue AR content as a solution.
+Pleaseletme know ifyou have any questions.
+Thanks. Mark
+On 4/2/18 8:38PM, Mark Hickey wrote:
++John Wu
+On 4/2/18 8:37PM, Mark Hickey wrote:
+Hi Folks, Here is the latest update on Fortnite:
+Key stats 27M dls
+PX-21 25.2
+
+$11.2M Billings ¹1 Free in 28 countries ¹1 Grossing in 5 countries (including US), Top 5 in 32 Peak Mobile DAU: 4M Total peak mobile concurrent players: 250k Total peak concurrent all platforms: 5.35M
+- Fortnite is now out of the invite phase and available to all iOS 11 customers. Epic has begun messaging this on social channels and via email. The expectation is that mobile installs and CCU (concurrent players) will begin to surge quickly. It's important to note the game only runs on iPhone 6s and higher. Users who are on iPhone Ss or iPhone 6 receive an in-app message (post download) that the game will not run on their device. This is against App Review policy. After talks with WWDR and App Review, Epic has been given seven days to solve this situation. They can either add support for the iPhone Ss and iPhone 6 (major technical challenge, months aw
+- They will begin paid UA in some territories this week, including Japan and Korea. Their numbers are lower than desired in these territories.
+- The biggest lever Epic has to pull from a messaging standpoint is the MOTD (Message of the Day) on PC and PS4/Xbox One. The MOTD appears every time you log into Fortnite. Epic is planning to inform their PC and console players that Fortnite is available on iOS via MOTD this week.
+- Once all of Epic's marketing kicks off in earnest, the game will effectively be in official full launch. They estimate this to be within three weeks. If we are going to feature the game in any capacity, we should probably target this time frame.
+Pleaseletme know ifyou have any questions.
+Thanks, Mark
+On 3/24/18 12:41PM, Mark Hickey wrote: Hi Folks,
+
+Epic reached out to inform me their technical testing is going well and they are thinking of opening up the game to everyone on Thursday 3/29. They would do this without any messaging or announcements. The intent is to get the service under greater load since they seem to think they' re ready.
+I asked that they please await our feedback before doing this. Some important items:
+1. Clarity needed on if/how we will promote the game given current sensitivities. Epic isn't looking for global featuring on 3/29 but they are very intent to have the conversation and discuss dates.
+2. They did ask if we would consider promoting the game in Japan and Korea because their install numbers are weaker in those territories.
+3. The Retail team reached out saying sales of Gamevice have doubled since the launch of FN. Unfortunately this is resulting in unhappy customers and refunds because MFI controllers are not supported yet. We should expect this problem to worsen if Epic opens up the game completely on Thursday. Epic has not prioritized support for MFI controllers at this time, though they may consider it.
+I will put time on your calendars to discuss the situation. Hopefully we can align around next steps on Monday.
+Please let me know if you have questions. Thanks. Mark
+APL-APPSTORE 06085255 CONFIDENTIAL
+PX-21 25.4
+
+

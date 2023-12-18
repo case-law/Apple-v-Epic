@@ -1,0 +1,57 @@
+From:
+
+To:
+
+J A yy y G y ~
+
+CC:
+
+G n · Gn * ~
+
+BCC:
+
+Subject :
+
+Re: R eviewing complex apps
+
+Attachments:
+
+Sent:
+
+12/09/201 0 03:11:26 AM 0000 (GMT)
+
+PLAINTIFF
+Us. olnlrlnt cnurl - NBCAL
+4:2thcv4)5645-YGR-TSH ny/GSame, Inn.nJrnnaInn.
+Sx. No. PX-0140
+onln Bnlnrnd By
+
+We review, we do not test. That's been a guiding principle in App Review since we conceived of it. There are iOS apps that are very deep, and we don't get toall of the parle of them. That's OK, and should be the norm. We review what we can quickly and competently get to, we will never have all the expertise or time to go into everything.
+
+There will be times when launch/quit, and poke around at things as best we can, is the appropriate level of review. We can never, and will never, be able to gnd ag the crashes hidden in a complex (or even simple) app. From a functionality standpoint, developers agree (in the PLA and in the guidelines) that they are providing our app store customers with quality apps that do not crash. We review to have some comfort in that assurance, never 100% assurance.
+
+If we find a hotspot of app types that we think needs particular expertise then we' ll develop that, but not for only a few.
+
+And in the case of an app like this we' ll take it one-off, not make e policy. --ck
+
+On Dec 5,2010, at6:52 PM, Jason Anthony Guy wrote:
+
+» C.K.,
+
+» I'd like your advice from your experience.
+
+» How do you suggest we approach reviewingcomplex applications. For example, Keymap Pro (402732159) appears to be a deep app that is for musicians who know what they' re doing (and have additional apps like Logic).
+
+» From what I can tell, this app was not reviewed for actual funcuonality, but approved based on its apparent depth, and perhaps the website and other marketing materials (induding videos on the website).
+» I'm concerned about nol givingan app its proper review, and letting apps that consistently crash, into the store (for example). Yet we can't reegy use apps without proper hardware, sogware and, in some cases, expertise.
+
+» Whatdo you recommend? » » Jason.
+
+--CKH
+
+CONFIDENTIAL
+
+Exhibit PX 0140
+PX-0140.1 APL-APPSTORE 00293204
+
+

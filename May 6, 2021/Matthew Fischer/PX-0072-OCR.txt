@@ -1,0 +1,844 @@
+'
+
+·
+
+·
+
+4 ·
+
+·
+
+-
+
+December 17, 2015
+
+CONFIDENTIAL
+
+PLAINTIFF
+U.e. Dlselm coun- NOGAL
+4:2lhev45840 YGR TSH
+Ep/e Gemerr lne. nAppteInn
+Et(. No. PX-0072
+Dele Entered
+ey
+Exhibit 0072
+PX-0072.1 APL-APPSTORE 09145562
+
+App Store i Vision
+
+Wfiitetafi App Store Feature Definition
+-- Since the launch of App Store in July 2008, our goals have remained the same: Help customers discover great apps Enable developers to build successful global businesses
+CONFIDENTIAL
+
+Apple Confidential-Internal Use
+PX-0072.2 APL-APPSTORE 09145563
+
+App Store I Agenda
+Customer · Sticker Store
+·Subscriptions 2.0 ·Sponsored Search ·App Store Enhancements
+Infrastructure
+·Streamline Daemons
+· Installation Improvements
+
+Deve lope r ·Siri Synapse Support
+·TestFlight l. l
+· Columbus
+·Crossfire Enhancements
+
+CONFIDENTIAL
+
+PX-0072.3 APL-APPSTORE 09145564
+
+CONFIDENTIAL
+
+Sticker Store
+
+Apple Confidential-Internal Use
+PX-0072.4 APL-APPSTORE 09145565
+
+App Store I Sticker Store
+Support for the Expressive Messaging initiative
+· Full featured App Store experience within Messages · Search
+· Charts
+· Categories and subcategories · Editorially driven pages
+
+CONFIDENTIAL
+
+PX-0072.5 APL-APPSTORE 09145566
+
+App Store I Sticker Store I Risks
+· Search implementation coming in post featurecom piete · Sticker evaluation requirements on App Review · Sticker bundle format currently undefined
+
+bundle format and image types impact app ingestion and app review CONFIDENTIAL
+
+PX-0072.6 APL-APPSTORE 09145567
+
+App Store I Sticker Store I Target Schedule
+
+Core Client Develo ment
+
+Expose API for Store sheet Addition of Search
+
+in Messages
+
+capaiblity
+
+Sample sticker app for testing
+
+Core Server Development
+Wfiitetafi App Store Feature Definition
+iTC Flows coming in post M4 Still evaluating schedule across teams
+
+Create FC Keys in Store Bag
+Provide Search endpoint/ url
+Determine sticker categorization approach
+
+Manual sticker app ingestion into QA
+est Sticker App in QA env
+ticker app indicators plumbed through to
+torefront
+Grouping pages are programmed with QA Sticker
+pps
+earch endpoint returns unfiltered results
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.7 APL-APPSTORE 09145568
+
+App Store I Sticker Store I Acceptance Criteria
+
+M4
+
+Sticker store can be launched in Messages
+Confirm Search endpoint is accessible and functional automation can be written. Sample Stickers can be purchased
+
+erifySearch results are accessible Stickers can be purchased rom Messages and sticker apps can refunded and redownloaded be discovered.
+
+ticker app can be ingested and pushed to the store with no manual intervention.
+
+Grouping pages can be used and rendered per spec
+Stickers are restorable via backup
+
+ticker app indicators are viewable s per spec in the store
+
+ticker apps can be featured and purchased.
+
+Wn tetatl app Store reatn e Depnttron
+iTC Flows coming In post Me Still evaluating schedule across teams
+CONFIDENTIAL
+
+AppleConpdendal Internal Ut
+PX-0072.8 APL-APPSTORE 09145569
+
+Expressive Messaging ~ Stickers
+
+MO
+Core Development Prototype of sending a
+sticker
+Acceptance Criteria
+
+Browser for individual stickers
+Caching of stickers
+Stickers intranscript
+
+Store sheet in Messages
+
+Final stickers transport
+
+Place stickers on a bubble
+Sticker format finalized
+Plan for stickers app ingestion to App Store determined
+
+Store sheet support for itic-bar and back-arrow
+Stickers haptics support
+QA environment supports stickers apps submission
+
+Xcode tools work completed for building sticker bundling, preview, and submission
+App Store review process defined
+
+Sample sticker app for testing
+Design for favorite and recent stickers created
+
+code tools work begins for building sticker bundling, preview, and submission
+Implementation of favorites and recent stickers
+
+Me-stickers bundle
+
+Browsing and sending of stickers functioning
+
+Initial sticker store can be Sticker store is browsable,
+
+seen in Messages
+
+pp can be downloaded in
+
+QA
+
+Stickers can be rotated and
+
+scaled
+
+tickers present haptics on n~n
+
+Xcode used to create stickers and submitted to QA environment
+
+Expressive Messaging
+Items in red are assumed and/or need confirmed dates
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.9 APL-APPSTORE 09145570
+
+Subscriptions 2.0
+
+Whitetafi App Store Feature Definition
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.10 APL-APPSTORE 09145571
+
+App Store I Subscriptions 2.0
+· Offer subscription to all apps · Commission change after one year for all subscriptions · Geo specific pricing for in-app purchases
+· Consent dialog for price change notifications · Grandfathering · Upgrade and downgrade support ·Additional price tiers for in-app purchase
+15% after one year Consent dialog for price change notifications Grandfathering Upgrade and Downgrade support Additional price tiers for in-app purchases
+
+CONFIDENTIAL
+
+PX-0072.11 APL-APPSTORE 09145572
+
+App Store I Subscriptions 2.0 I Acceptance Criteria
+·Verify Apps can be updated to new subscription model 8 new Apps can include the offering ·Verify initial standard commission and updated commissions after one year. ·All currencies can pricing is verified along with new commission model · Subscriptions can be managed in existing and Whitetail Ul · SAP/Finance Integration and Acceptance tests are passed.
+iTC Flows coming In post Me Still evaluating schedule across teams
+
+CONFIDENTIAL
+
+PX-0072.12 APL-APPSTORE 09145573
+
+App Store I Subscriptions 2.0 I Developer Benefits
+·Commission Change after one year -- Increased developer compensation for customer
+retention
+·Add 2QQ new price tiers for in-app purchases -Allows subscriptions to keep pace with other physical/
+digital distribution channels
+· Region-specific pricing for in-apps to address market disparities
+
+CONFIDENTIAL
+
+PX-0072.13 APL-APPSTORE 09145574
+
+App Store I Subscriptions 2.0 I New Features
+· Commission Change after one year
+· To pass the benefits of the savings of customer acquisition costs after a lyear. · Increased compensation for customer retention
+·Add additional price tiers
+· Enable developers to price their subscriptions on par with other available distribution channel's (physical 8 digital) by exposing 200 additional tiers available for lAPs.
+· Geo-specific pricing for subscriptions lAPs to account for market disparities.
+·Subscription Management
+· Add additional marketing information to customer on the available subscriptions through improved dialogs and updates to Manage Your Subscription page
+
+Wfiitetafi App Store Feature Definition
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.14 APL-APPSTORE 09145575
+
+App Store I Subscriptions 2.0 I Development Impacts
+
+· Update the App Model
+
+· Updates to the Pricing rules and structures
+
+· Updates to the Commerce buy and dialog experience
+
+· Full iTunes Connect redesign of the developer IAP management experience, including adding the mechanism to manage the new subscription features.
+
+· Updates to App Ingestion flow
+
+· Store display and consumptions
+
+....?No Client features identified yet (potentially none)
+
+·
+
+.
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.15 APL-APPSTORE 09145576
+
+App Store ~ Subscriptions 2.0 & In App Purchase
+Core Development
+
+Acceptance Criteria
+Wfiitetafi App Store Feature Definition
+Items in red are assumed and/or need confirmed dates
+CONFIDENTIAL
+
+Apple Confidential-Internal Use
+PX-0072.16 APL-APPSTORE 09145577
+
+CONFIDENTIAL
+
+Sponsored Search
+Apple Confidential-Internal Use
+PX-0072.17 APL-APPSTORE 09145578
+
+App Store I Sponsored Search
+· Personalized ads per user · First slot on search result page (keyword and user targeted) · First position on trending search (user targeted)
+· Infrastructure enhancements for search personalization and performance improvements
+· Self-serve interface for app developers to set up their
+Speak to trending search item being user targeted. Not keyword targeted
+
+CONFIDENTIAL
+
+PX-0072.18 APL-APPSTORE 09145579
+
+App Store I Sponsored Search I Target Schedule
+
+Core Client Develo ment
+
+Prototype for Sponsored Search
+
+Render Sponsored Search Results
+Render Sponsored Trending pp
+
+Core Server Development
+
+Integration design Proof of concept testing SFEdge development
+
+Plug gable Algorithm
+Marketplace design
+SFEdge development
+
+In Production dLib with CoreDuet
+User segments integration Relevance algo
+d Server Request logging Marketplace Auction
+
+Ad Transparency A/B Testing Attribution Initial Campaign flow KW Suggestion
+Targeting jobs Core ETL Load testing
+
+Wfiitetafi App Store Feature Definition
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.19 APL-APPSTORE 09145580
+
+App Store I Sponsored Search I Target Schedule
+
+Core Client Develo ment
+
+Prototype for Sponsored Search
+
+Render Sponsored Search Results
+Render Sponsored Trending pp
+
+Core Server Development
+
+Integration design Proof of concept testing SFEdge development
+
+Plug gable Algorithm
+Marketplace design
+SFEdge development
+
+In Production dLib with CoreDuet
+User segments integration Relevance algo
+d Server Request logging Marketplace Auction
+
+Ad Transparency A/B Testing Attribution Initial Campaign flow KW Suggestion
+Targeting jobs Core ETL Load testing
+
+Acce tance Criteria
+
+Ad appears in the prototype*
+
+* Relevance test -- all apps deemed as advertisers -- no paid
+Wfiitetafi App Store Feature Definition
+
+ds will appear during carry* Ad transparency (Privacy)
+
+BET relevance testing
+
+Attribution API functional
+
+Client -> Server events
+
+Data flowing through iAd
+
+loaaed
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.20 APL-APPSTORE 09145581
+
+App Store I Sponsored Search I Acceptance Criteria
+
+M4
+
+Validate Ad appears in prototype
+
+erify that Ads render in client app s intended
+
+Store services passes load testing
+
+Attribution is functional and API erify appropriate logs and data are tests can be authored ent to the store as expected
+
+Data is flowing to the iAd stack Privacy is validated
+
+Wn tetatl app Store reatn e Depnttron
+iTC Flows coming In post Me Still evaluating schedule across teams
+CONFIDENTIAL
+
+AppleConpdendal Internal Ut
+PX-0072.21 APL-APPSTORE 09145582
+
+App Store Enhancements
+
+Wfiitetafi App Store Feature Definition
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.22 APL-APPSTORE 09145583
+
+App Store I Enhancements · Bringing back the category tab · Introducing My Apps tab
+-Updates -Purchases
+· Filter out apps if installed on device · Extend personalized game recommendations · (Scoping) Merchandising in-app purchase · (Open) Desktop iTunes iOS App Store
+Editorial resourcing to program out all category pages. No one uses top left switcher
+CONFIDENTIAL
+
+PX-0072.23 APL-APPSTORE 09145584
+
+App Store I 2.0 I Merchandising In-App Purchases
+· Feature an in-app purchase on main, or genre pages · Remove featured placement if parent app is not owned ·Add Screenshots, Titles, Tag Lines ·Surface key in-apps on Product details page · Developers choose which in-App are featured on product pages
+
+CONFIDENTIAL
+
+PX-0072.24 APL-APPSTORE 09145585
+
+App Store I Enhancements I Charts
+· Use additional signals to improve charts and reduce fraud · Proposed charts · Free only · Free, with in-app · Paid · Remove Top Crossing chart
+
+Wfiitetafi App Store Feature Definition
+Team working for a year No longer a science experiment Risk: Crossfire data not scoped beyond Feb Using Crossfire data to create chart-specific aggregations to create signals App usage session length How often apps are launched Exact set of signals are tbd . Building an eval dashboard, with additional sources to review All whitetail timeframe
+CONFIDENTIAL
+
+Apple Confidential-Internal Use
+PX-0072.25 APL-APPSTORE 09145586
+
+App Store I Enhancements I Target Schedule
+
+Core Client Develo ment
+
+Definition/Scoping/Resourcing
+
+Designs for category root and My My Apps tab
+
+Apps
+
+Charts with usage data
+
+Filter installed apps from browse
+
+Categories tab
+
+Core Server Development
+
+Definition/Scoping/Resourcing
+
+Editorial key to tag containers for app filtering when on device
+
+Acceptance Criteria
+Wfiitetail App Store Feature Definition
+
+Container key for filtering is exposed to client
+
+Installed apps are removed from browse
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.26 APL-APPSTORE 09145587
+
+App Store I Enhancements I Acceptance Criteria
+
+M4
+
+Container key for filtering is exposed
+
+Installed apps are removed from browse
+ategories and My Apps tab ppear
+alidate layout and design using erver side tools to generate harts
+alidate removal of Top Crossing hart from Whitetail
+Ensure layout and design of creen captions, compatible platforms and reviews
+Use existing review data from production in QA environments
+
+Wn tetap App Store reatn e Desnltron
+iTC Flows coming In post Me Still evaluating schedule across teams
+
+AppleConodendat Internal Ut
+
+CONFIDENTIAL
+
+PX-0072.27 APL-APPSTORE 09145588
+
+Streamline Daemons
+
+Whitetafi App Store Feature Definition
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.28 APL-APPSTORE 09145589
+
+App Store l Streamline Daemons
+· Reduce footprint of store daemons as part of Memory and IO Tentpole · Move Music specific functions of itunesstored to medialibraryd and air traffic control · Move users of Download Manager in itunesstored to call NSURLSession directly ·Create appstored to centralize work that is currently spread out across a number ofdifferent daemons
+-- Responsible for downloading, installing, updating and restoring Apps -- Manages on-demand resources ·Create storemetricsd
+Everything backwards compatible to not break test flight
+
+CONFIDENTIAL
+
+PX-0072.29 APL-APPSTORE 09145590
+
+App Store l Streamline Daemons
+
+MO
+Core Development
+
+Planning
+
+Create appstored
+
+Create storemetricsd
+
+Move App downloading and Move metrics related code
+
+installation from
+
+rom itunesstored into
+
+itunesstored into appstored storemetricsd
+
+Move App Update polling from itunesstored into appstored
+
+Move downloading and managing of on-demand resources into appstored
+
+Retire ondemandd
+
+Performance
+
+Whitetafi App Store Feature Definition
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.30 APL-APPSTORE 09145591
+
+App Store I Daemons I Acceptance Criteria
+
+M4
+
+Verify app download and installation is routed to
+
+erify metrics parity with store metricsd
+
+appstored in all cases Full regression of on --demand
+Verify traffic from all other store resources with appstored related apps are routed to
+
+itunessto red
+
+Validate performance using shipping clients as a baseline
+
+Wn tetap App Store reatn e Desnltron
+iTC Flows coming In post Me Still evaluating schedule across teams
+CONFIDENTIAL
+
+AppleConsdendat Internal Ut
+PX-0072.31 APL-APPSTORE 09145592
+
+App Installation Improvements
+
+Whitetafi App Store Feature Definition
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.32 APL-APPSTORE 09145593
+
+App Store l App Installation Improvements
+· Hit a breaking point in iOS 9
+-App Thinning, ODR, VPP, ATB, Sochi Rescue, Edu
+Mode · Cross functional effort between Mobilelnstallation, LaunchServices, ATC and Springboard ·Transaction log added in Eagle
+· Automated testing for common install paths · Re-architect APls to be declarative
+backwards compatible to not break test flight
+
+CONFIDENTIAL
+
+PX-0072.33 APL-APPSTORE 09145594
+
+App Store l App Installation Improvements l Target
+
+MO
+Core Development
+
+Scoping Goal Agreement
+
+New APls created for Install Coordinator
+launchservicesd and Mobilelnstallation create shims for new APls
+
+launchservicesd and Mobilelnstallation adopt new
+Pls
+ppstored takes over from itunesstored with the new
+Pls
+
+Performance
+Deploy Continuous Automated Tests for App Installation
+
+Acceptance Criteria
+Expressive Messaging
+
+Typical app install paths are ypical app install paths are Dashboard showing results
+
+executed and continue to executed and continue to
+
+of automation
+
+function
+
+unction
+
+TestFlight, VPP, Columbus
+C..
+
+estFlight, VPP, Columbus
+> tnrti n n
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.34 APL-APPSTORE 09145595
+
+CONFIDENTIAL
+
+Siri Synapse Support
+Apple Confidential-Internal Use
+PX-0072.35 APL-APPSTORE 09145596
+
+App Store I Siri Synapse Support I Developer Tools
+
+· Synapse = Siri API ·App developers will be able to register for specific "intents" (defined by Apple) · Users will then be able to Use Siri to interact with th eir favorite apps · Whitetail / D aytona plan · iOS, WatchOS, and CarPlay · Intent categories:
+
+Ride (Taxi) Messages Dialing / FaceTime Photos Fitness Native/OEM Car apps
+Wn tetatl app Store Featn e Depnttron
+
+nGet me an I/berX to SFO" "Send a WhatsApp message to Robbtr I'm running
+"CaiI Vineet on Skype" "Show me photos of puppies on Instagram" "Start a run with Nike+ a "Make it warmerin here"
+
+AppleConodendal Internal Ut
+
+CONFIDENTIAL
+
+PX-0072.36 APL-APPSTORE 09145597
+
+App Store I Siri Synapse Support I Developer Tools
+·App Model updates to support intents and vocabularies ·App intents will be exposed in:
+·TestFlig ht · iTunes Connect
+·App Review Tools
+
+CONFIDENTIAL
+
+PX-0072.37 APL-APPSTORE 09145598
+
+App Store I Siri Synapse Support I Risks and
+
+Plan needs to be fleshed Discussions ongoing, aiming to lock down in
+
+out across engineering
+
+early M2
+
+Ingest work requires plist Close to final plist format. To be reviewed with
+
+formats to be finalized
+
+App Store engineering team soon.
+
+App Review tools work
+
+Initial discussions with App Review, but AR has
+
+cannot begin until App
+
+not finalized Synapse support plan yet. Siri
+
+Review policies are decided planning to help AR process with automation
+
+TestFlight integration not Discussions ongoing, aiming to lock down in
+
+yet defined
+
+early M2
+
+CONFIDENTIAL
+
+PX-0072.38 APL-APPSTORE 09145599
+
+Wfiitetafi App Store Feature Definition
+CONFIDENTIAL
+
+TestFlight 1.1
+Apple Confidential-Internal Use
+PX-0072.39 APL-APPSTORE 09145600
+
+TestFlight ~ 2.0 ~ Overview
+·TestFlight makes it easy for developers to beta test and get feedback on their apps before releasing them on the App Store. ·With 2.0, we' ll add the most requested features from the
+
+CONFIDENTIAL
+
+PX-0072.40 APL-APPSTORE 09145601
+
+TestFlight I 1.1 I New Features
+· Multiple Croups and Builds
+·Today, limited to only internal 8 external groups.
+·With 1.1 we will enable developers to create 8 manage groups of beta testers and simultaneously distribute different builds to each of these gl oups
+
+Wfiitetafi App Store Feature Definition
+Additionally, today we only have 2 builds that can concurrently be distributed to different teams at any given time. E.g. v2.0 build 105 to the QA group and v1.0 build 110 to the design group.
+CONFIDENTIAL
+
+Apple Confidential-Internal Use
+PX-0072.41 APL-APPSTORE 09145602
+
+TestFlight I 2.0 I Quality Focus Areas
+· iTunes Connect stability for TestFlight flows · TestFlight for iOS 5 tvOS clients stability · TestFlight server-side scalability
+
+CONFIDENTIAL
+
+PX-0072.42 APL-APPSTORE 09145603
+
+CONFIDENTIAL
+
+Co lumbu s
+
+Apple Confidential-Internal Use
+PX-0072.43 APL-APPSTORE 09145604
+
+App Store I Columbus I App Review Tools & Automation
+· Reduce number of manual items for app reviewers · Reduce developer-perceived app review time · Improve app review consistency · Improve app store quality
+
+CONFIDENTIAL
+
+PX-0072.44 APL-APPSTORE 09145605
+
+Features
+· Mac app for App Review ·Streamlined Review for App Updates (Delta Review) · Deeper App Analysis (Binary and Dynamic) · Datastore for App Review & App Analysis Results ·Submission and Post Submission Rulesets
+
+App Store
+
+Apple Confidential-Internal Use Only
+
+Mac App One stop shop for reviewers Currently iPad-only app. Needs more real estate and horsepower
+Streamlined Review for App Updates (Delta Review) Currently artifacts do not carryover from app version to version, resulting in inconsistency and low quality Analyze app metadata, text, images, binary data for delta review Collect data for app review and security Automate app execution
+Deeper App Analysis (Binary and Dynamic) Today we are limited to binary analysis and have nothing dynamic.
+Datastore for App Review and App Analysis Results Today's shared infrastructure limits flexibility and performance
+Submission and Post Submission Rulesets With newfound data from deeper app analysis, we will be able to provide additional rulesets capable of reducing number of manual app review items
+CONFIDENTIAL
+
+PX-0072.45 APL-APPSTORE 09145606
+
+App Store I App Review Tools 4 Automation I Assisted Review and Delta Review
+·Validate Apps as they are submitted in ITC ·Validate Apps as they are reviewed by App Review · Have a dynamic and pluggable Rule System
+·Allow Rules to generate App Attributes
+
+CONFIDENTIAL
+
+PX-0072.46 APL-APPSTORE 09145607
+
+App Store l App Review Tools & Automation
+
+Core Development
+
+Datastore for App Reviewvl
+
+Mac App for App Review vl
+
+Acceptance Criteria
+Expressive Messaging
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.47 APL-APPSTORE 09145608
+
+CrossfireEnhancements
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.48 APL-APPSTORE 09145609
+
+App Store I Crossfire Enhancements
+· App Referrers
+· Which channels are most important for customer acquisition
+· Top queries that lead to downloads · Conversion Rates
+
+CONFIDENTIAL
+
+PX-0072.49 APL-APPSTORE 09145610
+
+App Store I Crossfire Enhancements I Risks
+·Working on feature schedule ·Analyzing impact to client for Whitetail
+
+CONFIDENTIAL
+
+PX-0072.50 APL-APPSTORE 09145611
+
+App Store I App Review Tools 4 Automation I Assisted Review and Delta Review
+·Validate Apps as they are submitted in ITC ·Validate Apps as they are reviewed by App Review · Have a dynamic and pluggable Rule System
+·Allow Rules to generate App Attributes
+
+CONFIDENTIAL
+
+PX-0072.51 APL-APPSTORE 09145612
+
+App Store l App Review Tools & Automation
+
+Core Development
+
+Datastore for App Reviewvl
+
+Mac App for App Review vl
+
+Acceptance Criteria
+Expressive Messaging
+
+Apple Confidential-Internal Use
+
+CONFIDENTIAL
+
+PX-0072.52 APL-APPSTORE 09145613
+
+CONFIDENTIAL
+
+PX-0072.53 APL-APPSTORE 09145614
+
+

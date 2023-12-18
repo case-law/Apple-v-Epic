@@ -1,0 +1,324 @@
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+
+Page 1 of14
+
+a oas Security Trends Report Lea m
+
+Services
+
+Our Experts
+
+Free Consultation United States District Court
+Northern District of California
+
+Case Np. 4:20-cv-05640-YGR
+
+Case Tjtic F. fc Grrrrresf,rru a .4pfrfc, frrc
+
+Fxi)jiijt Np DX-4956
+
+·
+
+.
+
+Datc Entered
+
+moan Cyber Security Statistics
+
+Ssraa Y. Scone, Clerk
+. Doped Clerk
+
+The Ultiniate List Of Stats, grata ScT.rend's
+
+Looking for the latest cyber security stats and trends? We' ve got you covered.
+· ·
+
+Cybercrime Up 600% Due To COVID-a9 Pandemic
+Due to the COVID-tg outbreak an uptick in sophisticated phishing email schemes by cybercriminals has emerged. Malicious actors are posing as the Center for Disease Control and Prevention (CDC) or World Health Organization iWHO) representatives.
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.001
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+
+e M Inta omm
+
+Or fre O' 0 l g I 1n t lap -'anM s - O'Wm ro n Om n S Mi Ory-
+
+I c a c Info «oc.y I llhmoMMn.
+
+c arm Outre-ann
+
+~
+
+MP rrr
+
+r
+
+O X W nab e r l i ~ ~ 9 I M M
+
+Distributedvis theCDCHaugh Alert Networb February 13. 2020 COCHANOOa26
+Dear 1he Centersfor DiseaseGmtralandPreuanti on (CDC(continues to closelymonitor an authrestof a 2019novel coronaWms (2019nCoV) In WuhaGn tuHubel province. Chinethat beganin December2019.CDChas establishedenInddent Management gyylemtocoordinate s domesgcand Intemago netpuhgcbeehhresponse.
+Updatedlistofnewcasesaround yourcityaresvagableat (htt s www cdc ov coronavirus 019nCoV newcssescitieshtml)
+you areimmediately advised to go throughthe casesaboveto avoid potmvdelbarents.
+sincerely, COC-INFOa0donet Contact Center Nadonal Center Mr Heahh Martetmg Divlslon of eHealthMerhsgng CenterfsorDiseasecentlolendPierrerules
+aaagrmrlw a ~ odom . a lsuoaonmauoaallwmpahraylIGFAI ah adhoml 2FMmswcnnmuwdomn~~
+These emaiis are designed to deceive and trick recipients into taking an action such as clicking a malicious link, or opening an attachment with a virus. Learn what steps you can take to help prevent phishing attacks.
+
+Page 2 of 14
+
+Network Security Vulnerabilities
+A network security vulnerability is a weakness or flaw which can be exploited by a malicious actor to perform unauthorized actions within a computer system.
+Malmara Statistics
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.002
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+
+Malware, or malicious software, is any piece of software that was written with the intent of doing harm to data, devices or to people. Types of malware include computer viruses, trojans, spyware, ransomware, adware, worms, file-less malware, or hybrid attacks. Recent malware attacks have bencome more sophisticated with the advent of machine learning and targeted spear phishing emails.
+
+812.67 782.86 588.48
+452.93
+388.96
+
+165.81
+82.62 48.17 12.4
+
+II' 5 5 I
+
+I
+
+5
+
+I'
+
+I
+
+I
+
+I
+
+Total nalnaro lnfoation oroath nato (ln Nilliono)
+
+The total malware infections have been on the rise for the last ten years: · aoog --22.4 million · aolo -- ag.g7 million ' 2022 --48.27 million · 2022 --82.62 million · aol3 -- 266.82 million
+2024 -- 308.g6 million ' 2036 --462.93 million
+2o26 --Sgo.so million 2o27 --Toa.o6 million · aolg --822.67 million g2% of malware is delivered by emaiL Mobile malware on the rise with the number of new malware variants for mobile increased by 64% In 2028. Third-party app stores host gg.g% of discovered mobile malware. More than 26o,ooo unique users were attacked by Trojan-Banker.AndroidOS.Asacub malware application. g8% of mobile malware target Android devices. Over the last year, MacOS malware has increased by 266%. Malware development rates for Windows decreased by 22.6% since reaching an all-time high In 2025. Malware is still the preferred distribution model, used 72.24% of the time over the last22 months, while PUAs were only used in 28.86% of instances. Gamut spambot was the most frequently used, with over 86% of all spambot cases involving its use. The United States continues to host the most botnet control servers in the world. Over the last year, 36% of these servers were hosted in America, while 24% were hosted in undefined countries. Trojans make up 62.46% of all malware. 7 out of every lo malware payloads were ransomware. 230,000 new malware samples are produced every day -- and this is predicted to only keep gi'owing. Malware and web-based attacks are the two most costly attack types -- companies spent an average of US$2.4million in defense. Overall business detections of malware roseTg%from ao27 due to an increase in backdoors, miners, spyware, and information stealers Over 28 million websites are infected with malware at a given time each week. 34% of businesses hit with malware took a week or more to regain access to their data. go% of financial institutions reported being targeted by malware in aolg.
+Ransommaro Statistics
+
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.003
+
+Page 3 of14
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+
+Ransomware is a form of malicious software that
+
+threatens you with harm, usually by denying you
+
+access to your data. Ransomware attacks are often deployed via social engineering tacitics. Once a user falls victim to the attack, their data is encrpyted. The
+
+I, I
+stj ·
+
+attacker then demands a ransom from the victim, with the promise to restore access to the data upon payment.
+Ransomware attacks worldwide rose 86o% in zo18. Ransomware attacks are estimated to cost $6 trillion annually by zozz.
+
+Ransomware attacks worldwide rose
+350%
+in 2012.
+
+So% of a surveyed Sgz information security professionals do not believe their organization is prepared to repel a ransomware attack. 81% of cyber security experts believe there will be more ransomware attacks than ever in
+
+2018. z6% of companies infected with ransomware were running up-to-date endpoint protection.
+Ransomware costs businesses more than $TS billion per year. The Notpeyta ransomware attack losses could exceed $1 billion.
+
+FedEx lost an estimated $goo million in Q1 zozy from the Notpetya ransomware attack. Atlanta, Georgia has spent more than $6 million rebuilding its computer network, after being
+
+hit by the Samgam ransomware attack in March zo18.
+
+The averagecostofa ransomware attack on businesses was $133,ooo. Businesses lost around $8,6oo per hour due to ransomware-induced downtime. z6% of business executives would be willing to pay between $zo,ooo and $6o,ooo to regain access to encrypted data
+
+go% of organizations who pay the ransom receive all of their money back. do% of ransomware victims paid the ransom. More than So% of ransoms were paid by bitcoin in zo18. 1o% of all ransom demands are over $6,ooo.
+
+Df the 1,1oo IT professionals surveyed, go% had clients that suffered ransomware attacks in the past year. do% had clients that were subject to at least 6 ransomware attacks.
+
+A new organization will fall victim to ransomware every zd seconds in zozg, and every11
+
+seconds by 2021. 1.6 million new phishing sites are created every month.
+
+In zozg ransomware from phishing emails increased 1og% over zozy.
+
+Crjfptojackini
+Cryptojacking is the unauthorized use of someone else's computer to mine cryptocurrency. Hackers do this by getting the victim to click on a malicious link in an email that loads crypto mining code on the computer, or by infecting a website with JavaScript code that executes once loaded in the victim's browser.
+z6% of businesses are estimated to have been victims of cryptojacking Cryptojacking activity surged to its peak in December zozy, when more than 8 million cryptojacking events were blocked by Symantec. z6% of the WordPress plugins among Alexa's most popular sites are flagged with critical vulnerabilities that could allow mining botnets in. Applications can take 6 -- 1o longer to load when a computer is being used for coin mining.
+
+Page 4 of 14
+
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.004
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+Social Engineering Statistics
+Social engineering in cyber security is the psychological manipulation of people into performing actions or divulging confidential information. Candidates for a social engineering attack can range from a corporate executive to an elementary school student. Even the most seasoned IT professional can be victimized by this type of attack.
+
+Page 5 of14
+
+88% of cyber attacks rely on social engineering. S3% of the IT professionals said they had been targeted by social engineering schemes in the last year. New employees are the most susceptible to socially engineered attacks, with 6o% of IT professionals citing recent hires as being at high risk. zt% of current or former employees use social engineering to gain a financial advantage, for revenge, out of curiosity or for fun. Social engineering attempts spiked more than Soo% from the first to second quarter of zotg. The number of breach incidents by type: · Identity theft -- 66%
+Account access -- ty% · Financialaccess --13% · Nuisance -- S% · Existential data -- t% The number of breach incidents by source: · Malicious outsider -- 66% · Accidental loss -- 3S% · Malicious insider -- T% · Hackivist -- z% · Unknown -- t% Numbers of records breached by industry in zotg: · Social media: za billion records, or 66% · Government: t.z billion records, or ztl · Other industries: 38o million records, or 8% · RetaiL t86 million records, or S% · Technology: tyt million records, or s%
+Phising Statistics
+Phishing is a type of cyber attack where threat actors randomly send emails to a broad audience in an attempt to trick people into providing sensitive information such as account credentials or sensetive information.
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.005
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+View
+
+Page 6 of 14
+
+56% of IT decision makers say targeted phishing attacks are their top security threat. 83% of global infosec respondents experienced phishing attacks in zo18, an increase from 76% In 2017. Business email compromise (BEC) seams cost organizations $676 million in 2017. CEO fraud is now a$12 billion scam. 3o% of phishing messages get opened by targeted users and tz% of those users click on the malicious attachment or link. Only 3% of targeted users report malicious emails to management. 53% of IT and security professionals say they have experienced a targeted phishing attack in
+2017.
+Credential compromise rose 70% over zo17, and they' ve soared z80% since zo16. 50% of phishing sites now using HTTPS. Fake invoices are the rft disguise for distributing malware. · Bill / invoice 15.g% · Email delivery failure 15.3% · Legal / Iaw enforcement 13.2% · Scanned document 11.5% · Package delivery 3.9% The most common malicious attachment types: · Office 38% · Archive 37% · PDF 14% · Other Ext 6% · Binaries 4% · XML/HTML/JS 1% The volume of email fraud that organizations receive has increased 8% year-over-year. By the end of zo17, the average user was receiving 16 phishing emails per month. 66% of malware is installed via malicious email attachments. 4g% of non-point-of-sale malware was installed via malicious emaiL z1% of ransomware involved social actions, such as phishing. 3o% of phishing messages were opened in zo16 -- up from z3% in the 2015 i'epoi't.
+General Cyber Security Statistics
+The Cost Of Cyber Security
+In zo17, cyber crime costs accelerated with organizations spending nearly z3% more than zo16 -- on average about $11.7 million. By zozo, we expect IT analysts covering cyber security will be predicting five-year spending forecasts <to zoz5) at well over $1 trillion.
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.006
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+The average cost of a malware attack on a company is $zs million.
+
+Page 7 of 14
+
+The average cost in time of a malware attack is So days. From 2016 to 2017 there was a 22.7 % increase in cyber security costs. The average global cost of cyber crime increased by over 27% in zo17. The most expensive component of a cyber attack is information loss, which represents S3% of costs. Ransomware damage costs exceed $5 billion in zo17, 15 times the cost in 2015. The Equifax breach cost the company over $S billion in totaL The average cost per lost or stolen records per individual is $1st -- but that cost varies per country. Breaches are most expensive in the United States ($225) and Canada ($19o). Including turnover of customers, increased customer acquisition activities, reputation losses and diminished goodwill the cost of lost business globally was highest for U.S. companies at sas3 million per company. Damage related to cybercrime is projected to hit $6 trillion annually by zo21.
+Data Breach Statistics
+The average cost of a data breach to companies worldwide is $3.86 mi Llion. It takes organizations an average of 191 days to identify data breaches. Global average total cost of a data breach <in millions): ' 2014 -- $350 ' 2015 -- $379
+· zo16 -se.oo
+' 2017 -- $3.62 · zo18 -- $3.86 ' 2019 -- $3.92
+
+2019 COST OF A DATA BREACH REPORT Measured in US6 Millions
+14.00
+es ee
+esse
+
+g IBM Scour)tv
+ss.ee
+
+Ss.ee
+
+FYso7e
+
+FY201 5
+
+FY2 0 16
+
+FY2017
+
+FY2018
+
+GLOBAL AVERAGE TOTAL COST OF A DATA BREACH
+
+FY2019
+
+The root causes of data breaches for small businesses broke out as following: · Negligent employee or contractor A8% · Third party mistakes A1% · Error in system or operating process
+Don't know · External <hacker) attacks z7% · Malicious insider 5% · Other z% 95% of breached records came from three industries in zo16: · Government · Retail
+
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.007
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+· Technology Recent data breach statistics found that 63% of successful attacks come from internal sources, either control, errors, or fraud. 33% of data breaches involved social engineering. 43% of data breaches involved small businesses. The average size of a data breach is z6,676 records. The total number of breaches in 2019 was %273, up from Az67 the year before. 262.6 million records were exposed in 2018. The average cost per lost record is $260. Targeted emails, or spear phishing, is reported by businesses to be used in gz% of successful data breaches and g6% of all enterprise networks. Half of all data breaches globally to occur in the United States by2023. zg.6% of companies will experience a data breach in the next two years. In zozg, the number of data breaches in the United States amounted to %073 with over 26668 million sensitive records exposed. The United States and the Middle East spend the most on post-data breach response. Costs in the U.S. were $%66 million and $%23 million in the Middle East In companies with over Sok compromised records, the average cost of a data breach is $6.3 million. The average cost of lost business for organizations in the zotg study was $%sz million, which represents 36 percent of the total average cost The impact of a data breach is disproportionately larger for smaller organizations between Soo and booo employees at an average cost of $z.66 million, or $3,633 per employee. Breaches caused a customer turnover of 3.g% in zozg. Emailcompromises costonaverage $22,039 percase. 36% of breaches were in the medical or healthcare industry in zozg. Healthcare organizations have the highest average industry cost at $6.06 million. Healthcare data breaches are costing the US industries $6.z billion per year. 6g% of those in the healthcare industry believe they are at great risk for a data breach than other industries. Banks were the target 27/ of financial data breaches The financial sector experienced 237 breaches in zozg that exposed %7 miNon accounts. Share prices of breached companies hit a low point approximately S4 market days following a breach. Share prices fall 7.z7% on average, and underperform the NASDAQ by -SS8%.
+Cyber Security Risks
+In zozg there were go,ooo cyber attacks per day or over 3o miNon attacks per year. zz% of all files are not protected in any way. SS% of companies have over booo sensitive files including credit card numbers and health
+records leftunprotected.
+70% of organizations say that they believe their security risk increased significantly in2017. 6g% of organizations don't believe the threats they' re seeing can be blocked by their antivirus software. So% of the security risk that organizations face stems from having multiple security vendors anci pl'oducts. 7 out of zo organizations say their security risk increased significantly in zoz7. 66% of companies have over Soo users who never are never prompted to change their passwoi'cls. Ransomware attacks are growing more than 360% annually. loT attacks were up 6oo% in zoz7. 62 percent of breach victims in 2027 were businesses with under booo employees. Ransomware damage costs will rise to $u.6 billion in zozg and a business will fall victim to a ransomware attack every S4 seconds at that time. zoz7 represented an 80% increase in new malware on Mac computers. In zoz7 there was a 23% overall increase in reported system vulnerabilities. zoz7 brought a zg% Increase in industrial control system-related vulnerabitities
+
+Page 8 of 14
+
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.008
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+Coin mining represented the biggest growth area in cybercrime in zozy, with antivirus detections up 8,5oo% go% of remote code execution attacks are associated with crypto mining. Over So Internet of Things commercially available devices shares security vulnerabilities. 6t% of organizations have experienced an loT security incident. zz% of compromised attacks in zotz were fileless. 68% of companies see compliance mandates driving spending. 88% of companies spent more than $z million on preparing for the GDPR. z5% of organizations have a standalone security department. SA% of companies experienced an industrial control system security incident Cyber criminals will steal an estimated 33 billion records in 2023. In zoty there were over zso large-scale, targeted breaches in the U.S. per year, and that number is growing by 2<A per year. 3t% of organizations have experienced cyber attacks on operational technology infrastructure. too,ooo groups in at least t5o countries and more than soo,ooo machines were infected by the Wannacry virus in zotz, at a total cost of around $s billion. In zoty S.S billion attacks by the WannaCry virus were blocked. There are around zs,ooo malicious mobile apps blocked every day. In zoty, the average number of breached records by country was za,o88. The nation with the most breaches annually was India with over 33k files; the US had z8.5k. Between January% zoo5 and Aprilt8,zozathere have been 8,85S recorded breaches.
+Recent Cyber Attacks And Breaches
+As data breaches become more pervasive in our interconnected world so must our understanding of modern day cyber attacks.
+In this video series, we sit down with cyber security experts and get their take on the most recent cyber attacks and breaches in 202%
+
+Page 9of14
+
+sess -- Cyber criminals hacked Yahoo's 3 billion email accounts gaining access to sensitive customer information. sess -- Cyber attackers used malware to steal data from Target company point of sale systems compromising information of approximately one hundred and ten mit8on credit/debit carrying customers. aesa -- Syrian Electronic Army cyber hacking group infiltrated eBay's network stealing sensitive information of one hundred and forty-five million users. aes8 -- Hackers broke into Anthem inc. servers and stole 37.5 million records consisting of sensitive information. aes8 -- Peace a Russian based Cyber-attack group infiltrated Linkedln stealing email and password combinations of over ttz million customers.
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.009
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+Scag --Peace cyber-attackers hacked Myspace compromising over 66o million accounts. Scag --Uber reported that hackers stole the information of over ST million riders and drivers. Sesy --Uber network was breached compromising data of fifty million riders, seven million drivers and 6oo,ooo US based driver license details. Sesy --Cyber attackers hacked into Equifax servers and exposed over tSS million consumers' personal information. sesy -- 412million user accounts were stolen from Friendfinder's sites. sesy --14%gmillion consumers were affected by the Equifax Breach. Scag --Cyber attackers hacked into Marriot international computer systems and compromised five hundred million accounts. Scag --Cathy pacific was hacked and g.4 million accounts compromised. Scag --Facebook code was exploited by attackers and So million user accounts compromised. Scag --Quora was hacked and information belonging to toomillion users compromised. Scag --Under Armor reported that its "My Fitness Pal" was hacked, affecting sgo million users. Scag --Maryland Department of labor was breached by hackers who illegally accessed names and social security numbers belonging to Tg,ooo people. Scag --Captical One recently had over so6 million records stolen containing personal and financial information. Seas - The hotel chain Marriott disclosed a security breach that impacted the data of more than 6.2 million hotel guests who used their company's loyalty application. Seas - MOM Resorts suffered a massive data breach resulting in the leak of tS2 million personal details of hotel guests. Seas - Soo,ooo stolen Zoom passwords available for sale in dark web crime forums. Seas - Magellan Health was struck by a ransomware attack and data breach stating that 666,ooo patients were affected in the sophisticated cyberattack. Seas - Twitter breach well-coordinated scam made attackers swindle $12%ooo in Bitcoin through nearly goo transactions.
+
+Page 10 of 14
+
+Federal And Local Government
+Over yo,ooo Department of Defense contractors are required to meet CMMC compliance by
+2021.
+Nearly6 o million A medica ns have been affected by identity theft.
+U.S. government to spend $16 billion on cyber security related activities in aosg up 4% over the previous year. The United States is the number one target for targeted cyber attacks. · United States: 68%. · India: 1T/.
+Japan: 11%. · Taiwan: Ql. · Ukraine: 6%. · South Korea: 6%. · Brunei: S%. · Russia: 4%. · Vietnam: 4%. · Pakistan: 6%.
+Small Businesses
+46% of cyber attacks target small business. 4</ of small businesses had at lease on cyber attack in the past year, 44% of those had two to four attacks.
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.010
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+To%of small businesses are unprepared to deal with a cyber attack. 3 out of 4 small businesses say they don't have sufficient personnel to address IT security. 66% of small business are very concerned about cyber security risk. 86% of small businesses plan to increase spending on managed security services. Sz% of small businesses say they are not allocating any budget to cyber security. 68% of malware attack victims are categorized as small businesses. In zozg, cyber attacks cost small businesses an average of $34,6o4. Ransomware damage costs alone are on track to hit $t%6 billion in zozg, at which point it' s estimated that small businesses will fall victim to a ransomware attack every t4 seconds. 4% of malware sent to small businesses is delivered via emaiL The most common malicious email disguises are: · T% bill / invoice · 3% email delivery failure notice · 4% package delivery · Ez% legal/law enforcement message · 0.3% scanned document 6o% of small businesses say attacks are becoming more severe and more sophisticated. Only t4% of small businesses rate their ability to mitigate cyber risks, vulnerabilities and attacks as highly effective. 6o% of small companies go out of business within six months of a cyber attack 48% of data security breaches are caused by acts of malicious intent Human error or system failure account for the rest Small businesses are most concerned about the security of customer data: · Consumer records 66% · Intellectual property 4g% · Customer credit or debit card information 46% · Financial information z6% · Employee records 8% · Business correspondence 6% · Other z% The types of cyber attacks on small businesses broke out as following: · Web-based attack 4g% · phishing / social engineering 43% · General malware 36% · SQL injection z6% · Compromised / stole devices z6% · Denial of services zz% · Advance malware / zero day attacks t4% · Malicious insider z3% · Cross-site scripting tt% · Ransomware z% · Other z% Percentage of small businesses that store valuable data · 68% store email addresses · 64% store phone numbers · 64% store billing addresses Small businesses are not investing in cyber security · 38% regularly upgrade software solutions · 3t% monitor business credit reports · zz% encrypt databases 6g/ of small businesses do not strictly enforce password policies z6% of small businesses say they had only reviewed their cyber security posture after they were hit by an attack Only z6% of small business are very confident in their cyber security readiness. These areas are lacking: · Strategy --Sz%of small business have a clearly defined strategy around cyber security.
+
+Page 11 of 14
+
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.011
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+· Accountability --z8%of small businesses have a leadership role dedicated to cyber, whereas 46% have no defined role at alL
+· Willingness to respond --66%of small businesses have failed to act following a cyber security incident
+· Training -- Sz%of small businesses have conducted phishing experiments to assess employee behavior and readiness in the event of an attack.
+· Insurance --zt%of small businesses have a standalone cyber insurance policy, compared to 68% of large companies.
+4 out of 6 small businesses report malware has evaded their antivirus.
+Financial Institutes
+BT% of financial institutions reported an increase in cyber attacks over the past year. z6% of financial enterprises faced a destructive attack. y8% of financial CISOs said threat actors are deploying more sophisticated attacks. zt% suffered a watering-hole attack in the last year. Bz% of financial institutions encountered island hopping, is leveraging one compromised organization to gain entry into another. z6% of all malware attacks hit banks and other financial industries, more than any other industry Credit card compromised increased by ztz% year over year, credential leaks experienced a similar increase of tag%, and malicious apps increased by toz%. 4y% of financial institutions reported an increase in wire transfer fraud. Bt% of financial institutions reported an increase in home equity loan fraud. y8% of financial institutions said cybercriminaLs have become more sophisticated, leveraging highly targeted social engineering attacks. Bz% of financial institutions reported experiencing counter incident response. zt% of financial institutions reported experiencing Cz on a sleep cycle. yo% of financial institutions said they are most concerned about financially motivated attackers. 80% of financial institutions said they are most concerned with nation-state activity. Global attack types and sources on financial sectors: · Web attacks-- 46% · Service-specific attacks -- z8% · DoS/DDoS 8% 68% of financial institution CISOs are planning to increase cyber security spending by to% or more in zotg. 4y/ of financial institution CISOs said their organizations are operating threat hunt teams. Bz% of financial institution CISOs said they conduct threat hunts on a monthly basis. yo% of cyber crimes targeting surveyed financial institutions involve lateral movement
+Healthcare Providers
+t6% of healthcare providers report having "fully functional" security programs. 48% admitted that they are either still developing security programs or have not developed one. 88% of healthcare organizations are currently using some form of cloud services.
+68% plan to usemultiple cloud vendors.
+zo% of healthcare domain emails were fraudulent in 2017. Healthcare has the highest number of attacks by ransomware over any other industry. Bz% of surveyed healthcare organizations say that security is a top concern. The average cost of a cyber attack in health care is $$6z mi Llion. 88% of healthcare organization had patient data lost or stolen in the past two years. Patient health records can be sold for as much as $868 on the black market which is more than any piece of information from other industries
+
+Page 12 of 14
+
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.012
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+Ss% of healthcare business associates say their top vulnerability is tied to employee negligence in handling patient information. Bz percent of healthcare cyber security incidents are rooted in employee negligence. 68% of healthcare organizations site negligent or careless employees as their top worry for security incidents, followed by cyber attacks <s6%) and insecure mobile devices <So%). The healthcare industry was the victim of as%of all ransomware attacks in US industries in zoz6. Bs% are now using some form of advanced technology to protect sensitive data. z6% healthcare organizations using the public cloud report that they are not encrypting patient data.
+
+Page 13 of 14
+
+Higher Education And School Districts
+The education industry is ranked last in cyber security preparedness out of t? major industries. st% of higher education cyber security incidents and breaches were caused by social engineering attacks. There were S66 cyber security incidents in the educational sector last year. Educational records can fetch up to Sz66 on the black market s8% have had student data attacked, including dissertation materials and exam results. z6% have experienced critical intellectual property theft z8% have had grant holder research data attacked. By/ have experienced at least one successful cyber attack. 86% believe cyber attacks are increasing in frequency and sophistication. ?8% universities have experienced damage to reputation and almost? S% have had to halt a valuable research project as a result of a cyber attack. ??% also say a cyber breach has the potential to impact national security, due to the potentially sensitive nature of the information which could been compromised. Bs% don't believe their existing IT infrastructure will protect them against cyber attacks in next tz-tsmonths. z?% see the current security of their data center as 'inadequate' and in urgent need of updating. 86% of universities agree that more funding must be given to IT security to protect critical research IP. On average, So% of users in the education industry have fallen for phishing emails. The education sector accounted for t8% of all data security breaches during the first half of zot?, resulting in the compromise of some Sz million personal records. In March sots, over Boo universities worldwide suffered from a giant cyber attack organized by nine Iranian hackers. According to the official information, St terabytes of "valuable intellectual property and data" was exposed.
+Frequently Asked Ouestions
+Not finding the right answer to your questions? Ask our experts!
+
+What percentage of malware is distributed by email?
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.013
+
+2021 Cyber Security Statistics: ... 2021 Cyber Security Statistics: ...
+
+Page 14 of 14
+
+What percentage of successful cybsr attacks were caused by someone
+0 falling for a phishing attack?
+
+·
+
+·
+
+·
+
+https://purplesec.us/resources/c... https://purplesec.us/resources/c...
+DXX956.014
+
+

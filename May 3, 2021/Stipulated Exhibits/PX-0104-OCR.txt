@@ -1,0 +1,49 @@
+Subject: Fw d: App Store Notes From: "Phillip Shoemaker"
+Received(Date): Mon, 04 Jan 2016 23:34:24+0000 TD: ePBShoemaker Directs E 5 67373$e
+
+PUUNTIFF
+U.B. Dlalrtra Ceart - ytDCAL
+4:20<;v45540-YGR-TSH
+Eple Gelee!a tile. aApple lrie.
+ax.ND. PX4104
+Date Beleaal By
+
+Date: Mo n, 04 Jan 2016 23:34:24+0000
+
+This is the year for fixing the App Store review process. Our offsite will be spent mostly on this concept, but I wanted you to read what Phil forwarded us from our fiiends at Panic.
+Stoney, can you pull something together for what we rejected the Panic folks for over the course of the past 2 years? How bad has it been for them in the Mac or iOS app stores? Anders, any recollecfion of their constant communicafions with Richard?
+
+From: Cabel Samer <
+Subject: App Store Notes Date: January 4, 2016 at 11:34:14 AM PST To: Philip Schiller <
+
+Thank you for giving me this opportunity. If it 's OK, I' ll just write up a handful of anecdotes. Like you, I think that will be more helpful than feature demands. We can follow up with a phone call at any time!
+Of course, it's important to note we 're in a unique position with the Mac App Store. We' re already set up with credit card processing. We know how to do marketing. We have an established fanbase. We sell lots of software every day. That leaves basically two advantages in selling through the Mac App Stom: one-click purchasing (which is huge!) and easy installation/updates.
+� When we decided to pull Coda from the App Store (due to sandboxing, which is probably a separate topic) I immediately felt an enormous sense of relief that truly caught me by surprise. In thinking about it more, I realized that I felt like we once again had "control" over our sofiware, and our destiny, and it felt so good. Practically speahng, I suppose this means we regained our ability to release sofiware the moment we need to. If a critical bug catches us by smprise, we can fix it, qualify it, and have it out the door in 30 minutes. There is a constant drumbeat of background stress when developing pro applications customers rely on that are distributed through the App Store -- we have a great QA team, but shit happens, right? And when shit happens, it is fifly times worse due to the sometimes-lengthy review process. Ironically, even the "expedite" process for critical fixes doesn 't help with that stress, because we know that if we use an expedite we won't be able to use one again for a long time, which makes us extremely reluctant to use them in case a bigger bug pops up. The pain of this was made more apparent to
+
+CONFIDENTIAL
+
+Exhibit
+PX 0104
+PX-0104.1 APL-APPSTORE 00058136
+
+us as we began working on our game, Firewatch, which will be distributed on the Steam gaming platform. On Steam, after our initial app approval, all future patches are NOT manually approved and are automatically posted, limited to one every 15 minutes. Stress gone. Instantly.
+� Like many others, we could fill a small book with frustrating and tragicomic App Review anecdotes. So many that I 've become strange bedfellows with Richard Chipman, a man who has an extremely unenviable job. (Each time he calls us I make sure to tell him I appreciate his hard work and that I know he 's just the messenger!) That he and I have talked enough to have any kind of rapport is a distressing sign for a company like Panic that 's been around for 15+ years and is clearly focused on releasing top-quality software. Now, please don't get me wrong, I know App Review is an enormously difficult problem to solve and I have no good answers. Yes, it feels like there needs to be someone "checking the work", and things are better for it. But, as you know, sometimes the work checking is inconsistent, misapplied, and frequently &ustrating. We' re even luckier than most, in that we have developer relations folks to help us with issues, but it's clear that our reps have no idea what 's going on in App Review and can only pass vague message back and forth. Ultimately, this situation leads to even more background stress: each time we hit that "Submit App" button, we sit back and wait for the inevitable new surprise problem to arrive.
+톂he worstcustomer support issupportthatarrivesin the form of aone-starreview ofyour app, especially when that one-star review has a known fix or workaround or very simple solution, and we have no way of communicating that back to the customer. Most of our reviews are positive and helpful, but these ones are hard to get over. I 've actually spent time Googling for people's iTunes handles in the hopes of fining the customer so I can contact them. Like App Review, though, it's a hard problem to solve. I do not think reviews should become "forums" and I think it gets messy (even visually! ) if Reviews turn into a big back-and-forth. We 've talked about how maybe it'd be great if I could fire off an anonymous response to the customer through a protected one-time e-mail address -- their privacy is maintained but I can tell them how to do the thing they thought they couldn't do. Or what if Reviews were just thumbs up / thumbs down, not text? Whatever can be done, it's clear that "Reviews" are often the dumping ground of the uninformed, and it's extremely stressful because it can reflect poorly upon us.
+� There are times when a user has purchased our software to discover that it doesn 't meet their needs. This probably wouldn't be a problem for a game (either you like it or you don 't!), but for something like, say, Transmit, which may have strict compatibility requirements for specific SFTP servers or whatever, this is a very real possibility. And when this happens, we can do nothing. Technically, the App Store is "no refunds". But in reality, as you know, there 's a chance (75%? 90%?) if you e-mail Apple that you will get a refund. So we tell people to ignore the "no refunds"and e-mailanyway, which already feelsweird.Worse? When they do getarefund,they are then banned from ever re-purchasing the app. They can never buy it again! We 've literally lost that customer forever, no matter what we do, or if we add their feature later. It 's nuts.
+It's interesting to note these first four points are all stress-related: the A S t o re takes arts of our 'ob that we' re alread extremel ood at -- like customer su ort u i c k u dates eas refunds -- and makes them all more stressful and@fficult in exchan e for ivin A l e 3 0% of our revenue. That's the equation that makes us want to stay away &om the store. I want that equation to change. If the stress goes away, the 30% might start to be more palatable.
+
+CONFIDENTIAL
+
+PX-0104.2 APL-APPSTORE 00058137
+
+Finally, one note on the iOS side:
+� Our iOS software, which takes a lot of time and energy to develop and is best-in-class, makes an absolutely miniscule fraction of the revenue of our Mac software. Now, this might be our fault: our iOS apps might not be a good fit for iOS and we miscalculated the market. Coda, for example, is extremely capable, but how many people want to code a website on their iPad? That being said, iOS pricing is an eternal struggle for us. In theory, we should be pricing the software equal to our Mac software, but it feels like the pricing scale has slid so far downward on iOS that we don't feel comfortable doing that -- the fact that our customers have to purchase software "blind", roll the dice and hope it works well, means people are extremely sensitive to price. Games have solved this intractable pricing problem by coming up with a workaround -- &ee downloads with in-app purchases. But this is much harder to pull off with "pro" apps -- we 're not about to make you purchase "fuel" to keep the Transmit truck rolling! Shareware solved this problem so very long ago by letting customers download and try a demo of our app. It 's a model we' ve run our entire business on for 17 years -- if you use it and you like it, then you buy it. I want Apple to come up with some way to encourage customers to take a chance on moreexpensive software, something to make that process less risky. That might help drive app prices upward, instead of downward.
+Ok, ok, that's probably enough for now. If you'd like me to expand on any of this, or want to chat on the phone, please let me know!
+I hope you had a great holiday, and I hope you have an even more incredible 2016 (I can 't wait to see what's in store!), and thanks again for always working to make Apple great.
+Best, Cabel Panic
+
+CONFIDENTIAL
+
+PX-0104.3 APL-APPSTORE 00058138
+
+

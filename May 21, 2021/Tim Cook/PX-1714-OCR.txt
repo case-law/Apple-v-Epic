@@ -1,0 +1,98 @@
+Subject: Re : Second Request for Assistance From: "Phillip Shoemaker"
+Received(Date): Thu, 11 Nov 2010 21:23:58 +0000 To: "Mark Malonen
+Date: Th u, 11 Nov 2010 21:23:58 +0000
+
+PLAINTIFF
+U.B. DnretctCapri - NDCAL
+4tzaev4I5040-YGR-TSH
+Spic Gernca Inc. e apple Inc,
+ax.uo. PX-1714
+Dele Bnleree By
+
+For e-books we allow them to do what Amazon's Kindle app does: they kick you out to their website to purchase the actual book. In the Amazon app, where you can purchase physical books, you can do so directly in the app.
+They cannot useIAP to do physical goods, but they could use the Amazon Kindle model for both types of goods.
+On Nov 10, 2010, at 11:21 AM, Mark Malone wrote:
+Hey Phillip,
+Is there a requirement or any advice for someone selling both virtual or hard goods?
+Cheers,
+-Mark
+Begin forwarded message:
+
+From:nBierbach, Rebecca" ( Date: November 10, 2010 11: To: Mark Malone Subject:RE: Secon eques or ssistance
+Hi Mark,
+We had further questions:
+Will Apple approve an application with an inapp purchase pmcess that does not use Apple's in-app purchase technology when a particular sale does not deliver a tangible good? (ie. Is completely virtual with no pnnted copy)
+
+I am wonted that Apple will force us to implement 2 different in-app purchase processes. One for selling our tangible books, and another fior selling books that are purely virtual.
+I wony about this because in the Amazon i phone app, they do not sell their electronic books. They point you to their eCommerce website. However, you can purchase tangible goods in that iPhone app. I have other similar examples. I
+
+CONFIDENTIAL
+
+PX-1714.1 APL-APPSTORE 05434990
+
+ABve not managed to fMd an example app where gou can pu'rchBse bofA wrfual and tangibl8 obj'ects ln ifhe safne iPAQne app. l have also not managed ifo find an app wA8r8 ]fou can immediately purcAase a virfual object with a non-Apple inapp purchase mecharusm.
+Perhaps Amazon does not sell virtual books in their iPhone app because Apple insisfed thaf the purchase mechanism be the Apple in-app purchase. l can understand whg Amazon woUld not wanif 2 dlf5erent purchase mechanisms m th8ir iPAone app as tAat woUld be vega confusing and fmstrating for users.
+Please let me know how to answer my colleagues.Thank youl
+Rebecca
+Rebecca L. Blerbach Peterson's, a Nelnet company 2000 Lenox Drkre, 3rd Floor Lawrencevllle. NJ 08548 Phone Fax: Email:
+www. etersons.com
+From: Mark Malone [rnailto Sent Monday,November 08, 2010 12:33 PM To: Oemente, Stephen Cc: Hierbach, Rebecca Subject: Re: Second Request for Assistance
+Hi Stephen,
+Confirmed. IAP is limited to goods that are delivered within the app from which they are purchased
+Most developers redirect to payment engines available on their website.
+-Mark
+iP'hone
+Gn Mov 8. 2010. at 6:35 AM. "Clemente, Stephen" wrote:
+Mark,
+Goodmorningl,work alongside Rebecca at Peterson's and I wanted to delve a little
+
+CGNFII3ENTIAL
+
+PX-1714.2 APL-APPSTGRE 05434991
+
+more deeply into your response if possible. Seeing as though our product simultaneously produces a digital eBook and a printed book for the consumer, it sounds asthough we need tobe using a non-Apple 'in-app purchase' process. If that's the case, can you please confirm and provide possible suggestions as to what other third-party providers we might look at to accomplish this required outcome?
+Thank You, Stephen Clemente Executive Director Peterson's, a Nelnet company
+From: Mark Malone [mailto Sent: Sunday, November 07, 2010 5:14 PM To: Bierbach, Rebecca Subject:Re:Second Request forAssistance
+Hey Rebecca,
+We do not support Apps (like those you' ve mentioned below) using our in app purchase engine for non-digital goods - since we can cannot ensure that our customers will received the product they' ve purchased.
+- Mark
+Technology Evangelism
+Subject: Second Request for Assistance Date: Thu, 04 Nov 2010 12:13:05-0400 From: "Bierbach, Rebecca" ( To:
+Dear Apple,
+We are in the middle of building another app at Peterson's and we have a question aboutin-app purchases. Our app is designed to allow a user to build their own book through the app. Meaning, the person can choose contact from multiple books andjoin that contentinto a book thatis unique to them. After doing so, they have the ability to receive a printed version of the book andlor a digital version of the book (eBook). In both cases the book will be custom to the user, meaning no products will ever be the same. Our question is, do we have to use the Apple in-app purchase process for this or can we use a non-Apple in-app purchaseprocess forthisapp? Please advise as soon as possible.
+The following major retailers do NOT use In-App Purchase for their physical goods:
+Amazon
+
+CONFIDENTIAL
+
+PX-1714.3 APL-APPSTORE 05434992
+
+Target
+Home Depot
+Walgmens
+Macy's
+Any insight or guidance we be most helpful.
+Thank you for your lime,
+Rebecca
+Rebecca L. Sierbach Peterson s, a Nelnet company 2000 Lenox Drive, 3nt Floor Lawrencevf lie, N J 08648
+Phone Fax:
+Email:
+«maiNo
+The information contained in this message is confidential property of Peterson s, a Nelnet company and its aÃliated companies ("Peterson's") and is intended for the mcipient only. Any reproduclion, fonvanting, or copying without the express permission of Peterson sis stricNy pnchibi ted. ff you have received this communication in enor, please notffy us immediately by nsplying to this e-mail and delete the material fitom any computer.
+The information contained in this message is confidential property of Peterson's, a Nelnet company and its
+afliated companies ("Peterson's") and is intended for the recipient only. Any reproduction, forwarding, or
+copying without the express permission of Peterson's is strictly prohibited. If you have received this
+communication in error, please notify us immediately by replying to this e-mail and delete the material from
+
+CONFIDENTIAL
+
+PX-1714.4 APL-APPSTORE 05434993
+
+any computer.
+The information contained in this message is confidential property of Peterson's, a Nelnet company and its affiliated companies ("Peterson's") and is intended for the recipient only. Any reproduction, forwarding, or copying without the express permission of Peterson's is strictly prohibited. If you have received this communication in error, please notify us immediately by replying to this e-mail and delete the material from any computer.
+
+CONFIDENTIAL
+
+PX-1714.5 APL-APPSTORE 05434994
+
+

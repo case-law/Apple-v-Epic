@@ -1,0 +1,1947 @@
+n the discussion © p2p.ruroi:.coin
+
+Wrox P~o,
+
+mer to ProgrammerTMp
+| n<;i,.<:WaC
+
+'I · )'
+,a.
+1 8'
+
+14
+$a.,S
+
+To the Apple's Core
+Jonathan Levin
+
+DX-5562.002
+
+MAC OS® X AND jos INTERNALS
+
+INTRODUCTION.
+
+PART I CHAPTER 1 CHAPTER 2 CHAPTER 3 CHAPTER 4 CHAPTER 5 CHAPTER 6 CHAPTER 7
+
+F O RPOWER USERS
+
+Dar w i nism: The Evolution of OS X
+
+E P l u ribus Unum: Architecture of OS X and iOS
+
+.17
+
+On t h e Shoulders of Giants: OS X and iOS Technologies ..
+
+.. 55
+
+Pa r t s of the Process: Mach-O, Process, and Thread Internals... .. 91
+
+No nS equitur: Process Tracing and Debugging
+
+.147
+
+Alo n e in the Dark: The Boot Process: EFI and iBoot ..
+
+.. 183
+
+Th eA lpha and the Omega -- launchd.
+
+PART II T H E KERNEL CHAPTER 8 So m e Assembly Required: Kernel Architectures CHAPTER 9 Fr o m the Cradle to the Grave -- Kernel Boot and Panics... CHAPTER 10 Th e Medium Is the Message: Mach Primitives . CHAPTER 11 Te mpus Fugit -- Mach Scheduling CHAPTER 12 Co m mit to Memory: Mach Virtual Memory CHAPTER 13 BS " D -- The BSD Layer. CHAPTER 14 So mething Old, Something New: Advanced BSD Aspects .. CHAPTER 15 Fe e, FI-FO, File: File Systems and the VFS CHAPTER 16 To B (-Tree) or Not to Be -- The HFS+ File Systems.. CHAPTER 17 Ad h ere to Protocol: The Networking Stack. CHAPTER 18 Mo d u(lu)s Operandi -- Kernel Extensions. CHAPTER 19 Dr i ving Force -- I/O Kit APPENDIX Welc o m e to the Machine .
+
+261 .. 299
+343 389 . 447 501 .. 539 565 .. 607 .649
+711 737 773
+
+INDEX.
+
+793
+
+DX-5562.003
+
+DX-5562.004
+
+Mac OS® X and iOS Internals
+TO THE APPLE'S CORE
+Jonathan Levin
+WILEY
+John Wiley K Sons, Inc. DX-5562.005
+
+Mac OS® X and IOS Internal
+Published by John Wiley 8c Sons, Inc. 10475 Crosspoint Boulevard Indianapolis, IN 46256 www.wil e y . c orn
+Copyright© 2013 by Jonathan Levin
+Published by John Wiley 8c Sons, Inc., Indianapolis, Indiana
+Published simultaneously in Canada
+ISBN: 978-1-11805765-0 ISBN: 978-1-11822225-6 (ebk) ISBN: 978-1-11823605-5 (ebk) ISBN: 978-1-11826094-4 (ebk)
+Manufactured in the United States of America
+10987 6 5 4 3 2 1
+No part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted under Sections 107 or 108 of the 1976 United States Copyright Act, without either the prior written permission of the Publisher, or authorization through payment of the appropriate per-copy fee to the Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923, (978) 750-8400, fax (978) 646-8600. Requests to the Publisher for permission should be addressed to the Permissions Department, John Wiley gc Sons, Inc., 111 River Street, Hoboken, NJ 07030, (201) 748-6011, fax (201) 748-6008,
+or online at ht tp: //www. wiley. corn/go/permissions.
+Limit of Liability/Disclaimer of Warranty: The publisher and the author make no representations or warranties with respect to the accuracy or completeness of the contents of this work and specifically disclaim all warranties, including without limitation warranties of fitness for a particular purpose. No warranty may be created or extended by sales or promotional materials. The advice and strategies contained herein may not be suitable for every situation. This work is sold with the understanding that the publisher is not engaged in rendering legal, accounting, or other professional services. If professional assistance is required, the services of a competent professional person should be sought. Neither the publisher nor the author shall be liable for damages arising herefrom. The fact that an organization or Web site is referred to in this work as a citation and/or a potential source of further information does not mean that the author or the publisher endorses the information the organization or Web site may provide or recommendations it may make. Further, readers should be aware that Internet Web sites listed in this work may have changed or disappeared between when this work was written and when it is read.
+For general information on our other products and services please contact our Customer Care Department within the United States at (877) 762-2974, outside the United States at (317) 572-3993 or fax (317) 572-4002.
+Wiley publishes in a variety of print and electronic formats and by print-on-demand. Some material included with standard print versions of this book may not be included in e-books or in print-on-demand. If this book refers to media such as a CD or DVD that is not included in the version you purchased, you may download this material at http: //hooksupport .wiley. corn.For more information about Wiley products,visitwww. wiley. corn.
+Library of Congress Control Number: 2011945020
+Trademarks: Wiley, the Wiley logo, Wrox, the Wrox logo, Wrox Programmer to Programmer, and related trade dress are trademarks or registered trademarks of John Wiley 8c Sons, Inc. and/or its affiliates, in the United States and other countries, and may not be used without written permission. Mac OS is a registered trademark of Apple, Inc. All other trademarks are the property of their respective owners. John Wiley 8c Sons, Inc., is not associated with any product or vendor mentioned in this book.
+DX-5562.006
+
+To StevenPaulJobs: From Mac OS's very first
+incarnation, to the present one, wherein the legacy of
+NeXTSTEP still lives, his relationship with Apple is foreverentrenched in OS X (and iO S).People focus on his effect on Apple as a company. No less ofan effect, though hidden to the naked eye, is on its architecture.
+I resisted the pixie dust for 25 years, but he fInally made me love Mac OS... Just as soon as I got
+my shell prompt.
+-- JONATHAN LEVIN
+DX-5562.007
+
+CREDITS
+
+ACQUISITIONS EDITOR
+Mary James
+SENIOR PROJECT EDITOR
+Adaobi Obi Tulton
+DEVELOPMENT EDITOR
+Sydney Argenta
+TECHNICAL EDITORS
+Arie Haenel Dwight Spivey
+PRODUCTION EDITOR
+Christine Mugnolo
+COPY EDITORS
+Paula Lowell Nancy Rapoport
+EDITORIAL MANAGER
+Mary Beth Wakefield
+FREELANCER EDITORIAL MANAGER
+Rosemarie Graham
+ASSOCIATE DIRECTOR OF MARKETING
+David Mayhew
+MARKETING MANAGER
+Ashley Zurcher
+
+BUSINESS MANAGER
+Amy Knies
+PRODUCTION MANAGER
+Tim Tate
+VICE PRESIDENT AND EXECUTIVE GROUP PUBLISHER
+Richard Swadley
+VICE PRESIDENT AND EXECUTIVE PUBLISHER
+Neil Edde
+ASSOCIATE PUBLISHER
+Jim Minatel
+PROJECT COORDINATOR, COVER
+Katie Crocker
+PROOFREADER
+James Saturnio, Word One New York
+INDEXER
+Robert Swanson
+COVER DESIGNER
+Ryan Sneed
+COVERIMAGE
+© Matt Jeacock / iStockPhoto
+
+DX-5562.008
+
+ABOUT THE AUTHOR
+JONATHAN LEVIN is a seasoned technical trainer and consultant focusing on the internals of the "Big Three" (Windows, Linux, and Mac OS) as well as their mobile derivatives (Android and iOS). Jonathan has been spreading the gospel of kernel engineering and hacking for 15 years, and has given technical talks at DefCON as well as other technical conferences. He is the founder and CTO of Technologeeks.corn, a partnership of expert like-minded individuals, devoted to propagating knowledge through technical training, and solving tough technical challenges through consulting. Their areas of expertise cover real-time and other critical aspects of software architectures, system/ kernel-level programming, debugging, reverse engineering, and performance optimizations.
+ABOUT THE TECHNICAL EDITORS
+ARIE HAENELis a security and internals expert at NDS Ltd. (now part of Cisco). Mr. Haenel has vast experience in data and device security across the board. He holds a Bachelor of Science Engineering in Computer Science from the Jerusalem College of Technology, Israel and an MBA from the University of Poitiers, France. His hobbies include learning Talmud, judo, and solving riddles. He lives in Jerusalem, Israel. DWIGHT SPIVEY is the author of several Mac books, including OS X Mountain Lion Portable Genius and OS X Lion Portable Genius. He is also a product manager for Konica Minolta, where he has specialized in working with Mac operating systems, applications, and hardware, as well as color and monochrome laser printers. He teaches classes on Mac usage, writes training and support materials for Konica Minolta, and is a member of the Apple Developer Program. Dwight lives on the Gulf Coast of Alabama with his beautiful wife Cindy and their four amazing children, Victoria, Devyn, Emi, and Reid. He studies theology, draws comic strips, and roots for the Auburn Tigers ("War Eagle!" ) in his ever-decreasing spare time.
+DX-5562.009
+
+DX-5562.010
+
+ACKNOWLEDGM ENTS
+"Y'KNOW, JOHNNY," said my friend Yoav, taking a puff from his cigarette on a warm summer night in Shanghai, "Why don't you write a book?" And that's how it started. It was Yoav (Yobo) Chernitz who planted the seed to write my own book, for a change, after years of reading others'. From that moment, in the Far, Middle, and US East (and the countless flights in between), the idea began to germinate, and this book took form. I had little idea it would turn into the magnum opus it has become, at times taking on a life of its own, and becoming quite the endeavor. With so many unforeseen complications and delays, it's hard to believe it is now done. I tried to illuminate the darkest reaches of this monumental edifice, to delineate them, and leave no stone unturned. Whether or not I have succeeded, you be the judge. But know, I couldn't have done it without the following people:
+Arie Haenel, my longtime friend -- a natural born hacker, and no small genius. Always among my harshest critics, and an obvious choice for a technical reviewer. Moshe Kravchik -- whose insights and challenging questions as the book's first reader hopefully made it a lot more readable for all those who follow. Yuval Navon -- from down under in Melbourne, Australia, who has shown me that friendship knows no geographical bounds. And last, but hardly least, to my darling Amy, who was patient enough to endure my all-too-frequent travels, more than understanding enough to support me to no end, and infinitely wise enough to constantly remind me not only of the important deadlines and obligations. I had with this book, but of the things that are truly the most important in life.
+-- JONATHAN LEVIN
+DX-5562.011
+
+DX-5562.012
+
+CONTENTS
+
+I NTRO D U C T I O N
+
+XXV
+
+·
+
+·
+
+CHAPTER 1: DARWINISM: THE EVOLUTION OF OS X
+
+The Pre-Darwin Era: Mac OS Classic
+
+The Prodigal Son: NeXTSTEP
+
+Enter: OS X
+
+3455
+
+OS X Versions, to Date
+
+10.0 -- Cheetah and the First Foray
+
+10.1 -- Puma -- a Stronger Feline, but.. .
+
+10.2 -- Jaguar -- Getting Better
+
+10.3 -- Panther and Safari
+
+6 7
+
+10.4 -- Tiger and Intel Transition
+
+10.5 -- Leopard and UNIX
+
+10.6 -- Snow Leopard
+
+10.7 -- Lion
+
+8
+
+10.8 -- Mountain Lion
+
+9
+
+iOS -- OS X Goes Mobile
+
+10
+
+1.x -- Heavenly and the First iPhone
+
+11
+
+2.x -- App Store, 3G and Corporate Features
+
+11
+
+3.x -- Farewell, 1" gen, Hello iPad
+
+11
+
+4.x --iPhone 4,Apple TV, and the iPad 2
+
+11
+
+5.x -- To the iPhone 4S and Beyond
+
+12
+
+iOS vs. OS X
+
+12
+
+The Future of OS X
+
+15
+
+Summary
+
+16
+
+References
+
+16
+
+CHAPTER 2: E PLURIBUS UNUM: ARCHITECTURE OF OS X AND IOS
+
+OS X Architectural Overview
+
+17
+
+The User Experience Layer
+
+19
+
+Aqua
+
+19
+
+Quicklook
+
+20
+
+Spotlight
+
+21
+
+DX-5562.013
+
+CONTENTS
+
+Darwin -- The UNIX Core
+
+22
+
+The Shell
+
+22
+
+The File System
+
+23
+
+UNIX System Directories
+
+24
+
+OS X --Specific Directories
+
+25
+
+iOS File System Idiosyncrasies
+
+25
+
+Interlude: Bundles
+
+26
+
+Applications and Apps
+
+26
+
+Info.plist
+
+28
+
+Resources
+
+30
+
+NIB Files
+
+30
+
+Internationalization with .Iproj Files
+
+31
+
+Icons (.icns)
+
+31
+
+Code Resources
+
+31
+
+Frameworks
+
+34
+
+Framework Bundle Format
+
+34
+
+List of OS X and iOS Public Frameworks
+
+37
+
+Libraries
+
+44
+
+Other Application Types
+
+46
+
+System Calls
+
+48
+
+POSIX
+
+48
+
+Mach System Calls
+
+48
+
+A High-Level View of XNU
+
+51
+
+Mach
+
+51
+
+The BSD Layer
+
+51
+
+lib kern
+
+52
+
+I/O Kit
+
+52
+
+Summary
+
+52
+
+References
+
+53
+
+CHAPTER 3: ON THE SHOULDERS OF GIANTS: OS X
+
+AND IOS TECHNO L O G IES
+
+55
+
+BSD Heirlooms
+
+55
+
+sysctl
+
+56
+
+kqueues
+
+57
+
+Auditing (OS X)
+
+59
+
+Mandatory Access Control
+
+62
+
+OS X- and iOS-Specific Technologies
+
+65
+
+User and Group Management (OS X)
+
+65
+
+System Configuration
+
+67
+
+XI I
+DX-5562.014
+
+Logging Apple Events and AppleScript FSEvents Notifications Additional APls of interest OS X and iOS Security Mechanisms Code Signing Compartmentalization (Sandboxing) Entitlements: Making the Sandbox Tighter Still Enforcing the Sandbox Summary References
+CHAPTER 4: PARTS OF THE PROCESS: MACH-O, PROCESS, AND THREAD INTERNALS
+A Nomenclature Refresher Processes and Threads The Process Lifecycle UNIX Signals
+Executables Universal Binaries
+Mach-0 Binaries Load Commands Dynamic Libraries Launch-Time Loading of Libraries Runtime Loading of Libraries dyld Features Process Address Space The Process Entry Point Address Space LayoutRandomization 32-Bit (Intel) 64-Bit 32-Bit (iOS) Experiment: Using vmmap(1) to Peek Inside a Process's Address Space Process Memory Allocation (User Mode) Heap Allocations Virtual Memory -- The sysadmin Perspective Threads Unraveling Threads References
+DX-5562.015
+
+CONTENTS
+69 72 74 78 79 79 80 81 83 89 90 90
+91 91 92 95 98 99 102 106 111 111 122 124 130 130 131 132 132 133
+135 138 139 140 143 143 146
+XIII
+
+CONTENTS
+
+CHAPTER 5: NON SEQUITUR: PROCESS TRACING AND DEBUGGING
+DTrace The D Language
+dtruss How DTrace Works Other Profiling mechanisms The Decline and Fall of CHUD
+AppleProfileFamily: The Heir Apparent Process Information
+sysctl proc info Process and System Snapshots system profiler(8) sysdiagnose(1)
+allmemory(1)
+stackshot(1) The stack snapshot System Call kdebug kdebug-based Utilities kdebug codes Writing kdebug messages Reading kdebug messages Application Crashes
+Application Hangs and Sampling Memory Corruption Bugs Memory Leaks heap(1) leaks(1) malloc history(1) Standard UNIX Tools Process listing with ps(1) System-Wide View with top(1) File Diagnostics with Isof(1) and fuser(1) Using GDB GDB Darwin Extensions GDB on iOS LLDB Summary References and Further Reading
+
+147 147 150 152 154 154
+155 156 156 156 159 159 159 160 160 162 165 165 166 168 169 170
+173 174 176 177 177 178 178 179 179 180 181 181 182 182 182 182
+
+XIV
+DX-5562.016
+
+CHAPTER 6: ALONE IN THE DARK: THE BOOT PROCESS: EFI AND IBOOT
+Traditional Forms of Boot EFI Demystified
+Basic Concepts of EFI The EFI Services NVRAM Variables OS X and boot.efi Flow of boot.efi Booting the Kernel Kernel Callbacks into EFI Boot.efi Changes in Lion Boot Camp Count Your Blessings Experiment: Running EFI Programs on a Mac iOS and iBoot Precursor: The Boot ROM Normal Boot Recovery Mode Device Firmware Update (DFU) Mode Downgrade and Replay Attacks Installation Images OS X Installation Process iOS File System Images (.ipsw) Summary References and Further Reading
+CHAPTER 7: THE ALPHA AND THE OMEGA -- LAUNCHD
+launchd Starting launchd System-Wide Versus Per-User launchd Daemons and Agents The Many Faces of launchd
+Listsof LaunchDaemons GUI Shells
+Finder (OS X) SpringBoard (iOS) XPC (Lion and iOS) Summary References and Further Reading
+DX-5562.017
+
+CONTENTS
+183
+183 185 186 188 192 194 195 201 203 204 204 204 206 210 210 211 212 213 213 214 214 219 225 225
+227 227 228 229 229 241 246 247 248 253 257 258
+
+CONTENTS
+CHAPTER 8: SOME ASSEMBLY REQUIRED: KERNEL ARCHITECTURES
+Kernel Basics Kernel Architectures
+User Mode versus Kernel Mode Intel Architecture -- Rings ARM Architecture: CPSR
+Kernel/User Transition Mechanisms Trap Handlers on Intel Voluntary kernel transition
+System Call Processing POSIX/BSD System calls Mach Traps Machine Dependent Calls Diagnostic calls
+XNU and hardware abstraction Summary References
+CHAPTER 9: FROM THE CRADLE TO THE GRAVEKERNEL BOOT AND PANICS
+The XNU Sources Getting the Sources Making XNU One Kernel, Multiple Architectures The XNU Source Tree
+Booting XNU The Bird's Eye View OS X: vstart iOS: start [i386larm] init i386 init slave() machine startup kernel bootstrap kernel bootstrap thread bsd init bsdinit task Sleeping and Waking Up
+Boot Arguments
+XVI
+DX-5562.018
+
+261 262 266 266 267 268 269 278 283 284 287 292 292 295 297 297
+299 299 300 302 305 308 309 310 310 311 313 314 314 318 320 325 328 329
+
+CONTENTS
+
+Kernel Debugging "Don't Panic" Implementation of Panic Panic Reports
+Summary References
+CHAPTER 10: THE MEDIUM IS THE MESSAGE: MACH PRIMITIVES
+Introducing: Mach The Mach Design Philosophy Mach Design Goals
+Mach Messages Simple Messages Complex messages Sending Messages Ports The Mach Interface Generator (MIG)
+IPC, in Depth Behind theScenes of Message Passing
+Synchronization Primitives Lock Group Objects Mutex Object Read-Write Lock Object Spinlock Object Semaphore Object Lock Set Object
+Machine Primitives Clock Object Processor Object Processor Set Object
+Summary References
+CHAPTER 11: TEMPUS FUGIT -- MACH SCHE D U LING
+Scheduling Primitives Threads Tasks Task and Thread APls Task APls Thread APls
+
+332 333 334 336 340 341
+343
+344 344 345 346 346 347 348 349 351 357 359 360 361 362 363 364 364 366 367 378 380 384 388 388
+389
+389 390 395 399 399 404
+
+XVI I
+DX-5562.019
+
+CONTENTS
+Scheduling The High-Level View Priorities Run Queues
+Mach Scheduler Specifics Asynchronous Software Traps (ASTs) Scheduling Algorithms
+Timer Interrupts Interrupt-Driven Scheduling Timer Interrupt Processing in XNU
+Exceptions The Mach ExceptionModel Implementation Details Experiment: Mach Exception Handling
+Summary References
+C HAPTER 12: COMMIT TO MEMO R Y : MACH VIRTUAL MEMORY
+Virtual Memory Architecture The 30,000-Foot View of Virtual Memory The Bird's Eye View The User Mode View
+PhysicalMemory Management Mach Zones
+The Mach Zone Structure Zone Setup During Boot Zone Garbage Collection Zone Debugging Kernel Memory Allocators kernel memory allocate() kmem alloc() and Friends kalloc OSMalloc Mach Pagers The Mach Pager interface Universal Page Lists Pager Types Paging Policy Management The Pageout Daemon Handling Page Faults The dynamic pager(8) (OS X)
+XVI I I
+DX-5562.020
+
+408 408 409 412 415 423 427 431 431 432 436 436 437 440 446 446
+447 448 449 452 462 467 468 470 471 473 473 473 477 477 479 480 480 484 486 494 495 497 498
+
+Summary References
+CHAPTER 13: BS" D -- THE BSD LAYER
+Introducing BSD One Ring to Bind Them What's in the POSIX Standard? Implementing BSD XNU Is Not Fully BSD
+Processes and Threads BSD Process Structs Process Lists and Groups Threads Mapping toMach
+Process Creation The User Mode Perspective The Kernel Mode Perspective Loading and Executing Binaries Mach-0 Binaries
+Process Control and Tracing ptrace (¹26) proc info (¹336) Policies Process Suspension/Resumption
+Signals The UNIX Exception Handler Hardware-Generated Signals Software-Generated Signals Signal Handling by the Victim
+Summary References
+CHAPTER 14: SOMETHING OLD, SOMETHING NEW : ADVANCED BSD ASPECTS
+Memory Management POSIX Memory and Page Management System Calls BSD Internal Memory Functions Memory Pressure Jetsam (iOS) Kernel Address Space Layout Randomization
+Work Queues
+DX-5562.021
+
+CONTENTS
+499 500
+501
+501 502 503 503 504 504 504 507 508 510 512 512 513 516 522 525 525 527 527 529 529 529 534 535 536 536 537
+539
+539 540 541 545 546 548 550
+xix
+
+CONTENTS
+BSD Heirlooms Revisited Sysctl Kqueues Auditing (OS X) Mandatory Access Control
+Apple's Policy Modules Summary References
+CHAPTER 15: FEE, FI-FO,FILE: FILE SYSTEMS AND THE VFS
+Prelude: Disk Devices and Partitions Partitioning Schemes
+Generic File System Concepts Files Extended Attributes Permissions Timestamps Shortcuts and Links
+File Systems in the Apple Ecosystem Native Apple File Systems DOS/Windows File Systems CD/DVD File Systems Network-Based File Systems Pseudo File Systems
+Mounting File Systems (OS X only) Disk Image Files
+Booting from a Disk Image (Lion) The Virtual File System Switch
+The File System Entry The Mount Entry The vnode Object FUSE -- File Systems in USEr Space File I/O from Processes Summary References and Further Reading
+CHAPTER 16: TO B (-TREE) OR NOT TO BETHE HFS+ FILE SYSTEMS
+HFS+ File System Concepts Timestamps Access Control Lists
+DX-5562.022
+
+552 552 555 556 558 560 563 563
+565
+565 567 577 577 577 577 578 578 579 579 580 581 582 583 587 589 590 591 591 592 595 597 600 605 605
+607
+607 607 608
+
+CONTENTS
+
+Extended Attributes Forks Compression Unicode Support Finder integration Case Sensitivity (HFSX) Journaling Dynamic Resizing Metadata Zone Hot Files Dynamic Defragmentation HFS+ Design Concepts B-Trees: The Basics Components The HFS+Volume Header The Catalog File The Extent Overflow The Attribute B-Tree The Hot File B-Tree The Allocation File HFS Journaling VFS and Kernel Integration fsctl(2) integration sysctl(2) integration File System Status Notifications Summary References
+CHAPTER 17: ADHERE TO PROTOCOL: THE NETWORKING STACK
+User Mode Revisited UNIX Domain Sockets IPv4 Networking Routing Sockets Network Driver Sockets IPSec Key Management Sockets IPv6 Networking System Sockets
+Socket and Protocol Statistics Layer V: Sockets
+Socket Descriptors mbufs Sockets in Kernel Mode
+
+608 611 612 617 617 619 619 620 620 621 622
+624 624 630 631 633 640 640 641 642 642 645 645 646 647 647 648
+650 651 651 652 652 654 654 655 658 660 660 661 667
+
+XXI
+
+DX-5562.023
+
+CONTENTS
+Layer IV: Transport Protocols Domains and Protosws Initializing Domains Layer III: Network Protocols Layer II: Interfaces Interfaces in OS X and iOS The Data Link Interface Layer The ifnet Structure Case Study: utun Putting It All Together: The Stack Receiving Data Sending Data Packet Filtering Socket Filters ipfw(8) The PF Packet Filter (Lion and iOS) IP Filters Interface Filters The Berkeley Packet Filter TrafficShaping and QoS The Integrated Services Model The Differentiated Services Model Implementing dummynet Controlling Parameters from User Mode Summary References and Further Reading
+CHAPTER 18: MODU(LU)S OPERANDI -- KERNEL EXTENSIONS
+Extending the Kernel Securing Modular Architecture
+Kernel Extensions (Kexts) Kext Structure Kext Security Requirements Working with Kernel Extensions Kernelcaches Multi-Kexts A Programmer's View of Kexts Kernel Kext Support
+Summary References
+
+668 669 673 676 678 678 680 680 682 686 686 690 693 694 696 697 698 701 701 705 706 706 706 707 707 708
+711
+711 712 713 717 718 719 719 723 724 725 735 735
+
+XXI I
+DX-5562.024
+
+CHAPTER 19: DRIVING FORCE -- I/O KIT
+Introducing I/O Kit Device Driver Programming Constraints What I/O Kit Is What I/O Kit Isn' t
+LibKern: The I/O Kit Base Classes The I/O Registry I/O Kit from User Mode
+I/O Registry Access Getting/Setting Driver Properties Plug and Play (Notification Ports) I/O Kit Power Management Other I/O Kit Subsystems I/O Kit Diagnostics I/O Kit Kernel Drivers Driver Matching The I/O Kit Families The I/O Kit Driver Model The IOWorkLoop Interrupt Handling I/O Kit Memory Management BSD Integration Summary References and Further Reading
+APPENDIX: WELCOME TO THE MACHINE
+INDEX
+
+CONTENTS
+738 738 738
+741 742 743 746 747 749 750 751 753 753
+755 755 757 761 764 765 769 769 771 771
+793
+
+XXI I I
+DX-5562.025
+
+On the Shoulders of Giants: OS X and iOS Technologies
+By virtue of being a BSD-derived system, OS X inherits most of the kernel features that are endemic to that architecture. This includes the POSIX system calls, some BSD extensions (such as kernel queues), and BSD's Mandatory Access Control (MAC) layer. It would be wrong, however, to classify either OS X or iOS as "yet another BSD system" like FreeBSD and its ilk. Apple builds on the BSD primitive's several elaborate constructs -- first and foremost being the "sandbox" mechanism for application compartmentalization and security. In addition, OS X and iOS enhance or, in some cases, completely replace BSD components. The venerable /etc files, for example, traditionally used for system configuration, are entirely replaced. The standard UN'X sys log mechanism is augmented by the Apple System Log. New technologies such as Apple Events and FSEvents are entirely proprietary. This chapter discusses these features and more, in depth. We first discuss the BSD-inspired APIs, and then turn our attention to the Apple-specific ones. The APIs are discussed from the user-mode perspective, including detailed examples and experiments to illustrate their usage. For the kernel perspective of these APIs, where applicable, see Chapter 14, "Advanced BSD Aspects."
+BSD HEIRLOOMS
+While the core of XNU is undeniably Mach, its main interface to user mode is that of BSD. OS X and iOS both offer the set of POSIX compliant system calls, as well as several BSD-specific ones. In some cases, Apple has gone several extra steps, implementing additional features, some of which have been back-ported into BSD and OpenDarwin.
+DX-5562.026
+
+58 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+
+sysctl
+The sysctl (a) command is somewhat of a standardized way to access the kernel's internal state. Introduced in 4.4BSD, it can also be found on other UN~X systems (notably, Linux, where it is backed by the /proc/sys directories). By using this command, an administrator can directly query the value of kernel variables, providing important run-time diagnostics. In some cases, modifying the value of the variables, thereby altering the kernel's behavior, is possible. Naturally, only a fairly small subset of the kernel's vast variable base is exported in this way. Nonetheless, those variables that are made visible play key roles in recording or determining kernel functionality.
+The sysctl (a) command wraps the sysctl (3) library call, which itself wraps the s y s c t l system call (¹202). The exported kernel variables are accessed by their Management Information Base (MIB) names. This naming convention, borrowed from the Simple Network Management Protocol (SNMP), classifies variables by namespaces.
+XNU supports quite a few hard-coded namespaces, as is shown in Table 3-1.
+
+TABLE 3-1P:redefined sysctlNamespaces
+
+N AMESPACE
+debug
+
+NUMBE R
+
+hw
+
+kern
+
+1
+
+machdep
+
+net
+
+vfs
+
+user
+
+STORES
+Various debugging parameters. Hardware-related settings. Usually all read only.
+Generic kernel-related settings. Machine-dependent settings. Complements the hw namespace with processor-specific features. Network stack settings. Protocols are defined in their own sub-namespaces.
+File system-related settings. The Virtual File system Switch is the kernel's common file system layer.
+Virtual memory settings. Settings for user programs.
+
+As shown in the table, namespaces are translated to an integer representation, and thus the variable canbe represented as an array of integers.The library call sysctlnametomib (3) can translate from the textual to the integer representation, though that is often unnecessary, because sysctlby name (3 ) can be used to look up a variable value by its name.
+Each namespace may have variables defined directly in it (for example, kern. ostype, 1.1), or in sub-namespaces (for example, kern. ipc. somaxconn, 1.32.2). In both cases accessing the variable in question is possible, either by specifying its fully qualified name, or by its numeric MIB specifier. Looking up a MIB number by its name (using sysctlnametomib (3) ) is possible, but not vice versa. Thus, one can walk the MIBs by number, but not retrieve the corresponding names.
+
+DX-5562.027
+
+BSD Heirlooms ( 5 7
+
+Using sysctl (a) you can examine the exported values, and set those that are writable. Due to the preceding limitation, however, you cannot properly "walk" the MIBs -- that is, traverse the namespaces and obtain a listing of their registered variables, as one would with SNMP's getNext () . The command does have an -A switch to list all variables, but this is done by checking a fixed list,
+which is defined in the (sys/ sysctl. )I) header (CTL NAMES and relatedmacros ). This is not a prob-
+lem with the OS X sysctl (a), because Apple does rebuild it to match the kernel version. In iOS, however, Apple does not supply a binary, and the one available from Cydia (as part of the systemcmds package) misses out on iOS-specific variables.
+Kernel components can register additional sysctl values, and even entire namespaces, on the fly. Good examples are the security namespace (used heavily by the sandbox kext, as discussed in this chapter) and the appleprof i le namespace (registered by the AppleProf i l e Family kexts -- as discussed in Chapter 5, "Process Tracing and Debugging" ). The kernel-level perspective of sysctls are discussed in Chapter 14.
+The gamut of sysctl (3) variables ranges from various minor debug variables to other read/write variables that control entire subsystems. For example, the kernel's little-known kdebug functionali ty operates entirely through sysctl (3) calls. Likewise, commands such as Ps (I) and netstat ( I ) rely on sysctl (2) to obtain the list of PIDs and active sockets, respectively, though this could be achieved by other means, as well.
+kqueues
+kqueues are a BSD mechanism for kernel event notifications. A kqueue is a descriptor that blocks until an event of a specific type and category occurs. A user (or kernel) mode process can thus wait on the descriptor, providing a simple but effective method for synchronization of one or more processes.
+kqueues and their kevents form the basis for asynchronous I/O in the kernel (and enable the POSIX poll (2 ) /select (2 ), accordingly). A kqueue can be constructed in user mode by simply calling the kqueue (2 ) system call (¹362), with no arguments. Then, the specific events of interest can be specified using th Ev SET macro, which initializes a struct k e vent. Calling the kevent(2 ) or kevent64 (2) system calls (¹363 or ¹369, respectively) will set the event filters, and return if they have been satisfied. The system supports several "predefined" filters, as shown in Table 3-2:
+
+TABLE3-2: Some of the predefined Event Filters in (sys/event.h)
+
+E VENT FILTER CONSTANT US A G E
+
+EVFILT N ACHPORT
+
+Monitors a Mach port or port set and returns if a message has been received.
+
+EVFILT P ROC
+
+Monitors a specified PID for execve (2), exit ( 2) , f or k (2), wait ( 2), Or signals.
+
+EVFILT R EAD
+
+For files, returns when the file pointer is not at EOF. For sockets, pipes, and FIFOs, returns when there is data to read (such as select (2) ).
+continues
+
+DX-5562.028
+
+58 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+
+TABLE3-2 (conti nttedf
+
+E VENT FILTER CONSTANT US A G E
+
+EVFILT S ESSION
+
+Monitors an audit session (described in the next section).
+
+EVFILT S I G NAL
+
+Monitors a specific signal to the process, even if the signal is currently ignored by the process.
+
+E VFILT T I M E R
+
+A periodic timer with up to nanosecond resolution.
+
+E VFILT WRI T E
+
+For files, unsupported.
+For sockets, pipes, and FIFOs, returns when data may be written. Returns buffer space available in event data.
+
+E VFILT V N
+
+Virtual memory Notifications. Used for memory pressure handling (discussed in Chapter 14).
+
+EVFILT V NODE
+
+Filters file (vnode)-specific system calls such as rename (2), delete (2), unlin k (2), l i n k ( 2) , and OtherS.
+
+Listing 3-1 demonstrates using kevents to track process-level events on a particular PID:
+
+LlsTING 3-1:Using kqueues and kevents to filter process events
+
+void main (int argc, char **argv)
+
+(
+p id t p i d ; // PID to monitor
+
+int kq;
+
+// The kqueue file descriptor
+
+int rc;
+
+// collecting return values
+
+int done;
+
+struct kevent ke ;
+
+pid = atoi(argv[1])
+
+kq = kqueue();
+
+i f ( k q == - 1) ( perror ( "kqueue"); exi t ( 2 ) ; )
+
+// Set process fork/exec notifications
+
+EV SET(&ke, p i d , EV F I L T P ROC, EV ADD, NOTE EXIT I NOTE FORK I NOTE EXEC 0 NUL L )
+
+// Register event
+rc = kevent(kq, &ke, 1 , N ULL, 0 , NULL);
+i f ( r c ( 0) ( perro r ( " k e vent " ) ; e x i t (3) ; )
+done = 0 ;
+while ( ! d one) (
+
+DX-5562.029
+
+BSD Heirlooms i 5 9
+memset(&ke, '~0', sizeof(struct kevent))
+// This blocks until an event matching the filter occurs rc = keven t ( k q , N U LL , 0 , & k e , I , NU L L ) ;
+i f ( r c ( 0) ( perro r ( » k event ») ; e x i t (4) ; )
+if (ke.fflags & NOTE FORK) printf ( »PID td f o r k ( ) eden», ke.i dent)
+if (ke.fflags & NOTE EXEC)
+printf(»pid td has exec()eden» , k e . i d e n t ) ;
+if (ke.fflags & NOTE EXIT)
+(
+printf(»pid td has exitedgn», ke.ident); done++;
+) // end while
+)
+Auditing (OS X)
+OS X contains an implementation of the Basic Security Module, or BSM. This auditing subsystem originated in Solaris, but has since been ported into numerous UN»X implementations (as OpenBSM), among them OS X. This subsystem is useful for tracking user and process actions, though may be costly in terms of disk space and overall performance. It is, therefore, of value in OS X, but less so on a mobile system such as iOS, which is why it is not enabled in the latter. Auditing, as the security-sensitive operation that it is, must be performed at the kernel level. In BSD and other UN'X flavors the kernel component of auditing communicates with user space via a special character pseudo-device (for example, /dev/audit). In OS X, however, auditing is implemented over Mach messages.
+The Administrator's View
+Auditing is a self-contained subsystem in OS X. The main user-mode component is the auditd (8), a daemon that is started on demand by launchd (8), unless disabled (in the corn. apple. auditd . plist file). The daemon does not actually write the audit log records; those are done directly by the kernel itself. The daemon does control the kernel component, however, and so he who controls the daemon controls auditing. To do so, the administrator can use the audit (8) command, which can initialize (-i) or terminate (-t) auditing, start a new log (-n), or expire (-e) old logs. Normally, auditd (8) times out after 60 seconds of inactivity (as specified in its plist TimeOut key). Just because auditd (8) is not running, therefore, implies nothing about the state of auditing. Audit logs, unless otherwise stated, are collected in /var/audit , following a naming convention of start t i m e . stopt i m e , w ith the timestamp accurate to the second. Logs are continuously generated,so (aside from crashes and reboots),the stop time of a log is also a start time of its successor. The latest log can be easily spotted by its stop t i me of not t e r mi nated, or a symbolic link to current, as shown in Output 3-1.
+DX-5562.030
+
+60 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+
+oUTPUT 3-1: Displaying logs in the /var/audit directory
+rooteErgo (/)¹ ls -ld /var/audit drwx- - - - - - 3 247 r oo t whe e l 1103 9 8 N a r 1 9 1 7 : 4 4 /var/audit
+
+root@Ergo (/)¹ ls -1 /var/audit
+
+l rwxr- x r - x
+
+1 root 1 root 1 root 1 root
+
+wh e e l wh e e l wh e e l wh e e l
+
+749 Nar 1 9 1 6 : 3 3 2 0 120319203254.20120319203327 337 Nar' 19 1 7 : 4 4 2 0 1 20319203327.20120319214427
+0 Nar 19 17:44 20120319214427.not terminated 4 0 Nar 1 9 1 7 : 4 4 c u r r e n t
+/var/audi t / 2 0 120319214427.not t e r mi nat ed
+
+The audit logs are in a compact binary format, which can be deciphered using the praudit (1) command. This command can print the records in a variety of human- and machine-readable formats, such as the default CSV or the more elegant XML (using -x). To enable searching through audit records, the auditr educe (1) command may be used with an array of switches to filter records by event type (-m), object access (-o), specific UID (-e), and more.
+
+Because logs are cycled so frequently, a special character device, /dev/audit p i pe, exists to allow user-mode programs to access the audit records in real time. The praudit (1) command can therefore be used directly on /dev/audit p i pe, which makes it especially useful for shell scripts. As a quick experiment, try doing so, then locking your screen saver, and authenticating to unlock it. You should see something like Output 3-2.
+
+oUTPUT 3-2: Using praudit(1) on the audit pipe for real-time events
+root@Ergo (/)¹ praudit /dev/auditpipe header,106,11,user a u t h e n t i c a t i o n , O , Tue Nar 2 0 0 2 : 2 6 : 0 1 2 0 12, + 1 8 0 msec subject, root,morpheus, wheel, root, wheel,38,0,0,0.0.0.0 text, Authentication for user (morpheus) return, success,O trailer ,106
+Auditing must be performed at the time of the action, and can therefore have a noticeable impact on system performance as well as disk space. The administrator can therefore tweak auditing using several files, all in /etc/ secur i t y , listed in Table 3-3.
+
+TABLE 3-3:Files in /etc/security Used to Control Audit Policy
+
+AUDIT CONTROL FILE
+a udit c l as s
+audit control
+
+USED FOR
+Maps eventbitmasks to human-readable names, and to the mnemonic classes used in other files for events.
+Specifies audit policy and log housekeeping.
+
+DX-5562.031
+
+BSD Heirlooms i 8 1
+
+AUDIT CONTROL FILE a udit e v e n t a udit u s e r
+a udit w a r n
+
+USED FOR
+Maps event identifiers to mnemonic class and human-readable name.
+Selectively enables/disables auditing of specific mnemonic event classes on a per-user basis. The record format is:
+rlsernamer classes audi ted: classes not audited
+A shell script to execute on warnings from the audit daemon (for example, "audit space low (( 5% free) on audit log file-system"). Usually passes the mesSage tO logger (l ) .
+
+The Programmer's View
+If auditing is enabled, XNU dedicates system calls ¹350 through ¹359 to enable and control auditing, as shown in Table 3-4 (all return the standard int return value of a system call: o on success, or -l and set erma on error ). On iOS, these calls are merely stubs returning -ENOSYS (0%4E).
+
+TABLE3-4: System Calls Used for Auditing in OS X, BSM-Compliant
+
+SYSTEM CALL
+
+350
+
+audit ( c o nst c h a r * r ec ,
+
+u int length);
+
+359
+
+auditctl(char * pat h ) ;
+
+35]
+
+auditon(int cmd,
+
+v oid * d a t a ,
+
+u int length);
+
+g etaud i t
+
+(auditinfo t *ainfo);
+
+355
+
+s etaud i t
+
+(auditinfo t *ainfo);
+
+USED TO
+Commit an audit record to the log.
+Open a new audit log in file specified by path (similar to
+a udit - n)
+Configure audit parameters. Accepts various A * commands from (hsm/audit .h) .
+G et or set audit session state. The audit i n f o t i s defined as
+struct auditinfo (
+a u id t ai a u i d ; au mask t ai mask; au tid t ai t e rmid; au asid t ai asid; )I These system calls are likely deprecated in Mountain Lion.
+
+continues
+
+DX-5562.032
+
+CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+
+TABLE3-4 (continsed)
+
+SYSTEM CALL
+
+357
+
+g etau di t ad d r
+
+(auditinfo addr t *aa,
+
+u int length);
+
+358
+
+s etau di t ad d r
+
+(auditinfo addr t *aa,
+
+u int length);
+
+353 getauid(au id t *auid);
+
+354
+
+setauid(au id t *auid);
+
+USED TO
+As getaudit or setaudi t , but with support for )32-bit termids, and an additional 64-bit ai f l a g s field.
+Get or set the audit session ID.
+
+Apple deviates from the BSM standard and enhances it with three additional proprietary system calls, tying the subsystem to the underlying Mach system. Unlike the standard calls, these are undocumented save for their open source implementation, as shown in Table 3-5.
+TABLE 3-5:Apple-Specific System Calls Used for Auditing
+
+SYSTEM CALL
+mach~crt name t audit session self(void);
+42g audit session join (mach~crt name t port);
+audit session~c rt(au asid t asid, user addr t por t n a mep) ;
+
+USED FOR
+Returns a Mach port (send) for the current audit session
+Joins the audit session for the given Mach port
+New in Lion and relocates f ileport makeport. Obtains the Mach port (send) for the given audit session asid.
+
+Auditing is revisited from the kernel perspective in Chapter 14.
+Mandatory Access Control
+FreeBSD 5.x was the first to introduce a powerful security feature known as Mandatory Access Control (MAC). This feature, originally part of Trusted BSD'", allows for a much more fine-grained security model, which enhances the rather crude UN'X model by adding support for object-level security: limiting access to certain files or resources (sockets, IPC, and so on) by specific processes, not just by permissions. In this way, for example, a specific app could be limited so as not to access the user's private data, or certain websites.
+A key concept in MAC is that of a label, which corresponds to a predefined classification, which can apply to a set of files or other objects in the system (another way to think of this is as sensitivity tags applied to dossiers in spy movies -- "Unclassified," "Confidential," "Top Secret," etc). MAC denies access to any object which does not comply with the label (Sun's swan song, Trusted Solaris, actually made such objects invisible!). OS X extends this further to encompass security policies (for example "No network") that can then be applied to various operations, not just objects.
+
+DX-5562.033
+
+BSD Heirlooms ( 6 3
+
+MAC is a framework -- not in the OS X sense, but in the architectural one: it provides a solid foundation into which additional components, which do not necessarily have to be part of the kernel proper, may "plug-in" to control system security. By registering with MAC, specialized kernel extensions can assume responsibility for the enforcement of security policies. From the kernel's side, callouts to MAC are inserted into the various system call implementations, so that each system call must first pass MAC validation, prior to actually servicing the user-mode request. These callouts are only invoked if the kernel is compiled with MAC support, which is on by default in both OS X and iOS. Even then, the callouts return 0 (approving the operation) unless a policy module (specialized kernel extension) has registered for them, and provided its own alternate authorization logic. The MAC layer itself makes no decisions -- it calls on the registered policy modules to do so.
+The kernel additionally offers dedicated MAC system calls. These are shown in Table 3-6. Most match those of FreeBSD's, while a few are Apple extensions (as noted by the shaded rows).
+
+TABLE3-6: MAC-Specific System Calls
+
+SYSTEM CALL
+
+380
+
+i n t ma c e x ec v e ( c h a r *f name,
+
+char **argp,
+
+char **envp,
+
+s tr uc t m a c * mac~ ) ;
+
+381
+
+int m a c syscall(char *policy,
+
+i nt cal l ,
+
+u ser a dd r t ar g ) ;
+
+382
+
+int m a c [ get ~ set] flei
+
+383
+
+(char * p a t h ~ ,
+
+s truct mac *mac~ ) ;
+
+384
+
+int m a c [get~set] link
+
+385
+
+(char *path~ , struct mac * mac~ ) ;
+
+386
+
+int m a c [get~set]~roc(struct mac
+
+387
+
+*mac~);
+
+388
+
+int m a c [get~set] fd
+
+389
+
+( int f d,
+
+s truct mac *mac~ ) ;
+
+390
+
+int m a c get~ i d (pid t pid,
+
+s truct mac *mac~ ) ;
+
+391
+
+int m a c get lcid(pid t lcid,
+
+s truct mac *mac~ ) ;
+
+392
+
+int m a c [ get ~ set] lctx
+
+393
+
+( str uc t m a c * mac~ ) ;
+
+USED FOR
+As execve (2), but executes the process under a given MAC label
+MAC-enabled Wrapper for indirect syscall.
+Get or set label associated with a pathname
+Get or set label associated with a link Retrieve or set the label of the current process Get or set label associated with a file descriptor. This can be a file, but also a socket or a FIFO Get the label of another process,specified by PID Get login context ID
+Get or set login context ID
+continues
+
+DX-5562.034
+
+84 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+
+TABLE3-6 (continsed)
+
+SYSTEM CALL
+int mac mo u n t(char * ty p e , char *path, int flags, caddr t dat a , s tr uc t m a c * mac~ ) ;
+
+425
+
+int mac ge t mount(char *path,
+
+s tr uc t m a c * mac~ ) ;
+
+int mac ge t fsstat(user addr t buf, int bufsize, u ser a d d r t ma c , int macsize, int flags);
+
+USED FOR
+MAC enabled mount (2) replacement
+Get Mount point label information MAC enabled getfsstat (2) replacement
+
+The administrator can control enforcement of MAC policies on the various subsystems using sysctl (a ): MAC dynamically registers and exposes the top-level security M IB, which contain enforcement flags, as shown in Output 3-3:
+
+oUTPUT 3-3:The securitysysctlM(Bs exposed by MAC, on Lion
+
+morpheuseNinion (/)$ sysctl security
+
+security.mac.sandbox. sentinel: .sb-4bde45ee
+
+security.mac.qtn.sandbox enforce: 1 s ecuri t y . mac.max sl o t s : 7
+
+security.mac.labelvnodes: 0 security.mac.mmap revocation: 0
+
+¹ Revoke mmap access to files on subject relabel
+
+security.mac.mmap revocation via cow: 0 ¹ Revoke mmap access to files via copy on write
+
+security.mac.device enforce: 1
+
+security.mac.file enforce: 0
+
+security.mac.iokit enforce: 0
+
+security.mac.pipe enforce: 1 security.mac.posixsem enforce: 1 security.mac.posixshm enforce: 1
+
+¹ Posix semaphores ¹ Posix s h ared memory
+
+security.mac.proc enforce: 1
+
+¹ Process operation (including code signing)
+
+security.mac.socket enforce: 1
+
+security.mac.system enforce: 1
+
+security.mac.sysvmsg enforce: 1
+
+security.mac.sysvsem enforce: 1
+
+security.mac.sysvshm enforce: 1
+
+security.mac.vm enforce: 1
+
+security.mac.vnode enforce: 1
+
+¹ VPS Vtrode operations (including code signing)
+
+The proc enforce and vnode enforce MIBS arethe ones which control,among other things, code signing on iOS. A well known workaround for code signing on jailbroken devices was to manually
+set both to 0 (Le. disable their enforcement). Apple made those two settings read only in iOS 4.3 and later, but kernel patching and other methods can still work around this.
+
+DX-5562.035
+
+OS X- and iOS-Specific Technologies j 6 5
+MAC provides the substrate for OS X's Compartmentalization ("Sandboxing") and iOS's entitlements. Both are unique to OS X and iOS, and are described later in this chapter under "OS X and iOS Security Mechanisms." The kernel perspective of MAC (including an in-depth discussion of its use in OS X and iOS) is described in Chapter 14.
+OS X- AND IOS-SPECIFIC TECHNOLOGIES
+Mac OS has, over the years, introduced several avant-garde technologies, some of which still remain proprietary. The next section discusses these technologies, particularly the ones that are of interest from an operating-system perspective.
+User and Group Management (OS X)
+Whereas other UN X tr aditionally relies on the age-old password files (/etc/passwd and, commonly / e t c / s hadow, used for the password hashes), which are still used in single-user mode (and on iOS), with /et c/master . passwd used as the shadow file. In all other cases, however, OS X deprecates them in favor of its own directory service: Direct or yService (8) on Snow Leopard, which has been renamed to opendirect o ryd (8) as of Lion. The daemon's new name reflects its nature: It is an implementation of the OpenLDAP project. Using a standard protocol such as the Lightweight Directory Access Protocol (LDAP) enables integration with non-Apple directory services as well, such as Microsoft's Active Directory. (Despite the "lightweight" moniker, LDAP is a lengthy Internet standard covered by RFCs 4510 through 4519. It is a simplified version of DAP, which is an OSI standard).
+The directory service maintains more than just the users and groups: It holds many other aspects of system configuration, as is discussed under "System Configuration" later in the chapter.
+To interface with the daemon, OS X supplies a command line utility called dscl (8) . You can use this tool, among other things, to display the users and groups on the system. If you try dscl -read /Users/username on yourself(the "." is used to denote the default directory, which is also accessible as /I ocal/Default ), you should see something similar to Output 3-4:
+QUTPUT 3-4:Running dsci(8) to read user details from the local directory
+morpheus@ergo(/)8 decl . -read /Users/ whoami dsAttrTypeNative: writers hint: morpheus dsAttrTypeNative: writers jpegphoto: morpheus dsAttrTypeNative: writers LinkedIdentity: morpheus dsAttrTypeNative: writers~asswd: morpheus dsAttrTypeNative: writers~icture: morpheus dsAttrTypeNative: writers realname: morpheus dsAttrTypeNative: writers UserCertificate: morpheus AppleNetaNodeLocation: /Local/Default AuthenticationAuthority: ;ShadowHash; ; K e r b e r o s v 5 ; ; m o r p h eus@LKDC:SHA1.3023D12469030DE9DB FE2C2621A01C12 1 6 1 5DC8 0 ; L K D C : SHA 1 . 3 0 1 3 D 1 2 4 6 9 0 3 0 DE9DBFD2C2621A07C12 3 6 1 5DC70 ; AuthenticationHint: Generat e d U ID : 1 1 E 1 1 1F7 - 9 1 0C- 24 1 0 - 9BAB-ABB20FE3DF2A JPEGPhoto:
+ffdsffeo 00104a46 49460001 01000001 00010000 ffe20238 4943435f 50524f46 494c4500..
+continues
+DX-5562.036
+
+66 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+OUTPUT 3-4 (conitn!ted)
+User photo in JPEG format NFSHomeDirectory: /Users/morpheus Password * * * * * * * * PasswordPolicyoptions:
+< ?xml v e r s i o n = "1.0 " e n c o d i n g = " U T F - 8 " ? > <!DOCTYPE plist PUBLIC "-//Apple//DTD PLI ST 1 . 0 //EN» "http: //www.apple.corn/DTDs/ PropertyList-l.o.dtd"> < plis t v e r s io n="1. 0 " > < dic t >
+<key>failedLoginCount</key> <integer>0</integer> <key>failedLoginTimestamp</key> <date > 2 0 0 1 - 0 1 - 0 1 TOO:00 :OOZ</ dat e > <key>lastLoginTimestamp</key> <date > 2 0 0 1 - 0 1 - 0 1 TOO:00 :OOZ</ dat e > <key>passwordTimestamp</key> <date>2011-09-24T20:23: 03Z< /date> < /di c t > </plist> P ict u r e : /Library/User Pictures/Fun/Smack.tif PrimaryGroupID: 20 RealName: Ne RecordName: morpheus RecordType: d sRecTypeStandard:Users U niqueID: 5 0 1 UserShell: /bin/zsh
+You can also use the dscl (8) tool to update the directory and create new users. The shell script in Listing 3-2 demonstrates the implementation of a command-line adduser, which OS X does not provide.
+LlsTING 3-2: Ascript to perform the function of adduser (to be run as root)
+¹!/bin/bash ¹ Get username, ID and full name field as arguments from command line USER =$1 ID= $2 FULLNANE =$3 ¹ Create the user node dscl . -create / Users/$USER ¹ Set default shell to zsh d scl . -create /Users/$USER UserShell /bin/zsh ¹ Set GECOS (full name for finger) d scl . -create /Users/$USER RealName "$FULLNANE" d scl . -create /Users/$USER UniqueID $ID ¹ Assign user to gid of localaccounts d scl . -create /Users/$USER PrimaryGroupID 61 ¹ Set home dir ( - $ USER) d scl . -create /Users/$USER NFSHomeDirectory /Users/$USER
+DX-5562.037
+
+OS X- and [OS-Specific Technologies ( 6 7
+
+¹ Make sure home directory is valid, and owned by the user mkdir /Users/$USER chown $USER /Users/$USER ¹ Optional: Set the password. decl . -passwd /Users/$USER "changeme" ¹ Optional: Add to admin group decl . -append /Groups/admin GroupNembership $USER
+One of Lion's early security vulnerabilities was that dscl (8) could be used to change passwords of users without knowing their existing passwords, even as a non-root user. If you keep your OS X constantly updated, chances are this issue has been resolved by a security update.
+The standard UNIX utilities of chfn (1) and chsh (1), which enable the modificationofthefullname and shellfora given user,respectively,areimplemented transparentlyover directory services by launching the default editor to allow root totypein the fields,rather than bother with dscl (8) directly.M ostadministrators, of course, probably use the system configuration GUI -- a much safer option, though not as scalable when one needs to create more than afew users.
+
+System Configuration
+
+Much like it deprecates /etc user database files, OS X does away with most other configuration files, which are traditionally used in UN'X as the system "registry."
+
+To maintain system configuration, OS X and iOS use a specialized daemon: -- conf igd (8) . This daemon can load additional loadable bundles (" plug-ins") located in the /System/Library/ SystemConf iguration/ directory,which include IP and IPv6 configuration,logging, and other bundles. The average user, of course, is blissfully unaware of this, as the System Preferences application can be used as a graphical front-end to all the configuration tasks.
+
+Command line-oriented power users can employ a specialized tool, scuti l (8) in order to navigate
+and query the system configuration. This interactive utility can list and show keys as shown in the following code snippet:
+
+root@padishah ) li st
+subKey [0] subKey [1] subKey [2] subKey [3] subKey [4] subKey [5]
+
+( -) ¹ scuti l
+Plugin:IPConfiguration Plugin:InterfaceNamer Setup: Setup:/ Setup:/Network/Global/IPv4 Setup:/Network/HostNames
+
+s ubKey [ 5 0 ] = corn.apple.NobileBluetooth s ubKey [ 5 1 ] = corn.apple.NobileInternetSharing s ubKey [ 5 2 ] = corn.apple. network. identification
+
+) show corn.apple. network. identification
+(dictionary) ( ActiveIdentifiers : (array) (
+0 : I P v 4 . R o u t e r= 192.168 . 1 . 2 5 4 ; I P v 4 . R o u t e r H a r d wareAddr e s s = 0 0 : 4 3 : a 3 : f 2 : 8 1 : d 9
+
+DX-5562.038
+
+68 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+PrimaryIPv4Identifier : IPv4.Router= 192.168 . 1 . 2 5 4 ; I P v 4 . R o u t e r H a r dwareAddr e s s = 0 0:43:a3:f 2 : 8 1 : d 9
+ServiceIdentifiers : (array) l
+0 : 1 2 C4C9CC-7E42-1D2D-ACF6-AAF7FFAF2BFC
+The public SystemConf igurat ion. f ramework allows programmatic access to the system configuration. Commands such as OS X's pmset (1), which configures power management settings, link with this framework. The framework exists in OS X and iOS, so the program shown in Listing 3-3 can compile and run on both.
+LlsTING 3-3:Using the SystemConfiguration APls to query values
+¹include (Systemconfiguration/SCPreferences.h) // Also implicitly uses CoreFoundation/CoreFoundation.h
+void dumpDict(CFDictionaryRef dict)(
+// Quick and dirty way of dumping a dictionary as XML CFDataRef xml = CFPropertyListCreatex!4LData(kCFAllocatorDefault,
+(CFPropertyListRef)dict)
+if (xml) l
+write(1, CFDataGetBytePtr(xml), CFDataGetLength(xml)) C FRelease(xml) ;
+void main (int argc, char **argv)
+CFStringRef myName = CFSTR("corn.technologeeks.SystemConfigurationTest") CFArrayRef key L i s t ; S CPreferencesRef p r e f s = NULL ; c har * v a l ; C FIndex i ; CFDictionaryRef global;
+// Open a preferences session p ref s = SCPrefer e n cesCreat e ( N ULL, // CFAllocatorRef allocator,
+myName, // CFStringRef name, NULL); // CFStringRef prefsID
+i f ( ! p r e f s ) l fprintf (stderr,"SCPreferencesCreate"); exit(1); l
+// retrieve preference namespaces k eyLi s t = SCPreferencesCopyKeyList (prefs)
+i f ( ! k e y L i s t ) l fprintf (stderr,"CopyKeyList failed!n"); exit(2);)
+// dump 'em
+f or ( i = 0; i ( CFArrayGetCount(keyList); i++) l
+dumpDict(SCPreferencesGetvalue(prefs, CFArrayGetvalueAtlndex(keyList, i)))
+DX-5562.039
+
+OSX-andios-SpecificTechnologies i 6 9
+The dictionaries dumped by this program are naturally maintained in plist files. The default location for these dictionaries is in /li b r a r y / P r e f e r e nces/Systemconfigura t i o n . If y ou compare the outputof this program with that of the preferences. plist file from that directory, you will see it matches.
+Experiment: Using scutil(8) for Network Notifications
+You can also use the scutil (8 ) command to watch for system configuration changes, as demonstratedin the following experiment:
+1. U s i ng scutil (8), set a watch on the state of the Airport interface (if yohuave one, otherwise the primary Ethernet interface will do):
+> n.add State:/Network/Znterface/enO/AirPort > n.watch ¹ verify the notification was added > n.li s t
+notifier key [0] = State:/Network/Znterface/enO/AirPort
+2. Di s able Airport (or unplug your network cable). You should see notification messages break through the scutil p r o mpt:
+notification callback (store address = Ox10010a150) . changed key [0] = State:/Network/Znterface/en0/AirPort
+notification callback (store address = Ox10010a150). changed key [0] = State:/Network/Znterface/en0/AirPort
+notification callback (store address = Ox10010a150). changed key [0] = State:/Network/Znterface/en0/AirPort
+3. Use the "show" subcommand to see the changed keyI.n this case, the power status value has been changed:
+> show State:/Network/Znterface/enO/AirPort
+(dictionary) (
+P ower Statu s : 0 SecureZBSSEnabled : F ALSE BSSZD : ( d a t a ) O x 0 013d37f84ds Busy : F ALSE SSZD STR : A AAA SSZD: ( d a t a ) O x 4 1 4 14141
+C HANNEL: ( d i c t i o n a r y ) (
+C HANNEL: 1 1 C HANNEL FLAGS : 1 0
+In order to watch for changes programmatically, you can use the SCDynamicStore class. Because obtaining the network connectivity status is a common action, Apple provides the far simpler SCNetworkReachabil i t y c lass. Apple Developer also provides sample code demonstrating the usage of the class "'
+Logging
+With the move to a BSD-basedplatform, OS X also inherited support for the traditional UNIX System log. This support (detailed in Apple Technical Article TA26117"') provides the full compatibility with the ages-old mechanism commonly referred to as syslogd (8) .
+DX-5562.040
+
+70 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+The sys log mechanism is well detailed in many other references (including the aforementioned technical article). In a nutshell, it handles textual messages, which are classified by a messagefacility and severity. The facility is the class of the reporting element: essentially, the message source. The various UNIX subsystems (mail, printing, cron, and so on) all have their own facilities, as does the kernel (IDG KERN, or "kern" ). Severities range from LQG DEBUG and LQG INFQ (" About to open file..."), through LOG ERR (" Unable to open fil"), LOG CRIT (" Is that a bad sector?"), IOG ALERT ("Hey, where's the disk?!"), and finally, to LOG ENERG ( Meltdown imminent!"). By using the configuration file /et c / s y s l og. conf, the administrator can decide on actions to take, corresponding to facility/severity combinations. Actions include the following:
+Message certain usernames specified
+Log to files or devices (specified as a full path, starting with "/" so as to disambiguate files from usernames)
+Pipe to commands ( i /path/t o / p r o gram)
+Send to a network host (eloghost)
+Programmers interface with syslog using the syslog (3) API, consisting of a call to openlog () (specifying their name, facility, and other options), through syslog (), which logs the messages with a given priority. The sys log daemon intercepts the messages through a UNIX domain socket (traditionally /dev/l og, though in OS X this has been changed to /var / r u n / sy sl og).
+OS X 10.4 (Tiger) introduced a new model for logging called the Apple System Log, or ASL. This new architecture (which is also used in iOS) aims to provide more flexibility than is provided by syslog. ASL is modeled after syslog, with the same levels and severities, but allows more features, such as filtering and searching not offered by sys log.
+ASL is modular in that it simultaneously offers four logging interfaces: The backward-compatible syslogd:Referred to as BSD logging, ASL can be configured to a ccept syslog messages (using -bsd i n 1), and process them according to /etc / s y s l o g . conf (using -bsd out 1). In OS X, these are enabled by default, but not so on iOS. The messages, as in syslogd, come in through the /var / r u n / s y s l o g socket.
+The network protocol syslogd:On the well-known UDP port 514, this protocol may be enabled by -udp in 1. It is actually enabled by default, but ASL/syslogd relies on launchd (8) for its socket handling, and therefore the socket is not active by default.
+The kernel logging interface:Enabled (the default) by -klog in 1 , this interface accepts kernel messages from /dev/log (a character device, incorrectly specified in the documentation as a UNIX domain socket).
+The new ASL interface: Byusing -asl in 1 , which is naturally enabled by default, ASL messages can be obtained from clients of the asl (3) API using asl l o g (3) and friends. These messages come in through the /var/ r u n / as l i n p u t socket, and are of a different format than the syslogd ones (hence the need for two separate sockets).
+ASL logs are collected in /var/ l o g / a sl . They are managed (rotated/deleted) by the aslmanager (8)
+command, which is automatically run by launchd (from corn. apple. aslmanager . pl i st ). You may
+also run the command manually.
+DX-5562.041
+
+OS X- and IOS-Specific Technologies i 7 1
+
+ASL logs, unlike syslog files, are binary, not text. This makes them somewhat smaller in size, but not as grep (1) -friendly as syslog's. Apple includes the syslog (1) command in OS X to display and view logs, as well as perform searches and filters.
+Experiment: Enabling System Logging on a Jaiibroken iOS
+Apple has intentionally disabled the legacy BSD syslog interface, but re-enabling it is a fairly simple matter for the root user via a few simple steps:
+1. C r e ate a/netc/s ys lo g. conf file.The easiest way to create a valid file is to simply copy a file from an OS X installation. The default syslog. conf looks something like Listing 3-4:
+
+LlsTING 3-4: Adefault /etc/sysiog.conf, from en OS X system
+
+*.notice;authpriv,remoteauth,ftp,install, internal. none kern.*
+
+/var/log/system.log /var/log/kernel.log
+
+¹ Send messages normally sent to the console also to the serial port.
+
+¹ To stop messages from being sent out the serial port, comment out this line.
+
+¹*.err;kern.*;auth.notice;authpriv,remoteauth.none;mail.crit
+
+/ dev/tt y . seri a l
+
+¹ The authpriv log file should be restricted access; these
+
+¹ messages shouldn't go to terminals or publically-readable
+
+¹ fil es.
+
+auth.info;authpriv.*;remoteauth.crit
+
+/var/log/secure.log
+
+l pr. i n f o m ail . * ftp.*
+install.* install.* loca10.* l ocall .*
+
+/var/log/lpr.log /var/log/mail.log /var/log/ftp.log /var/log/install.log e127.0.0 . 1 : 3 2376 /var/log/appfirewall.log /var/log/ipfw.log
+
+*.emerg
+
+*
+
+2. Ena b le the -bsd out switch for syslogd. The syslogd process is started both in iOS and OS X by launchd (3) . To change its startup parameters, you must modify its property list file. This file is aptly named corn. apple. syslogd. pli s t , and you can find it in the standard locationfor alllaunch daemons: /System/Library/LaunchDaemons.
+
+The file, however, like all plists on iOS, is in binary form. Copy the file to /tmp and use p luti l - c o n v er t x m l l t o change it to the more readable XML form. After it is in XM L ,
+just edit it so that the programarguments key contains -bsd out 1 . Because the key expects an array, the arguments have to be written separately, as follows:
+
+<key>programarguments</key>
+<array> < string>/usr/ sbi n / s y sl ogd</st r i n g > <string>-bsd out</string> < string>1</st r i n g >
+</array>
+
+A fter this is done, convert the file back to the binary format (plu t i l - c o n v er t b i n a r y l should dothe trick), and copy itback to /System/Library/LaunchDaemons.
+
+DX-5562.042
+
+CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS XAND IOS TECHNOLOGIES
+
+3. R estarltaunchd, and then syslogd. A kill -HUF l willtake care of launchd, and -- after you find the process ID of syslogd -- a kill -TERN on its PID will cause launchd to restart it, this time with the -bsd out l a r gument, as desired. A ps aux will verify that is indeed the c ase, as will the log files in /var/ l o g .
+Apple Events and AppleScript
+One of OS X's oft-overlooked, though truly powerful features, lies in its scripting capabilities. AppleScript has its origins traced back to OS 7(!) and a language called HyperCard. It has since evolved considerably, and become the all-powerful mechanism behind the osascript (1) command and the friendly (but neglected) Automator.
+In a somewhat similar way to how iPhone's SIRI recognizes English patterns, AppleScript allows a semi-natural language interface to scriptable applications. The "semi" is because commands must follow a given grammar. If the grammar is adhered to, however, it allows for a large range of freedom. The OS X built-in applications can be almost fully automated. For those wary of scripts, the Automator provides a feature-oriented drag-and-drop GUI, as shown in Figure 3-1. Note the rich "Library" composed of actions and definitions in /System/Libr a r y / Automator.
+
+Untitled Workhow)
+
+Hde Lb c> S'ev
+
+Variables
+o Ill)Library
+tW Calendar Canteen
+gg Developer tge F'lese roide s
+Fonw fek Internet
+
+Chaose a temlilate for your workflaim
+
++ Add Att
+· g AddCol jb Add Cn
+gl Add Mo
+mae Add Phi Add sai
+
+Application
+
+gemlce
+
+Folder Action
+
+S lvlsil
+
+SP AddSor
+
+SE Movies
+
+as iiddyhi
+
+IIS MUslc PDFS
+ks Photos
+
+LQ Add toI S AppiyC. SS Applyit
+
+F Feet X Uelibes
+I1ki Mostused Itsi Recendy Added
+
+IQ Apply C
+X Askfor S, Ask for
+· g Ask For mm Ask for fm Ask For
+
+Print Plugln
+
+iieet Alarm
+
+NOFkftogy
+
+ImageCapture
+Plugin
+
+® i Ask for
+F Ask for
+® arowse
+a mal
+
+Workhows can be rvnfrom withm Automator.
+
+® Change
+
+et Chalrge Open an Existing byorkflow... gg Choose
+
+~ Close ~ c h oose
+
+S gamblesMa Messages ta comweepDr pages
+
+Version: LB C'opyright: Copyright D 200e-ZaggApple Inc. All
+rights reserved.
+
+0 Q®Q
+Reco c st ep st op Rc Dmmiee
+
+FIGURE 3-1:Automator and its built-in templates.
+
+DX-5562.043
+
+OS X- and iOS-Specific Technologies l 7 3
+The mechanism allowing AppleScript's magic is called AppleEvents. AppleScript can be extended to remote hosts, either via the (now obsolete) AppleTalk protocol, or over TCP/IP. In the latter case, the protocol is known as "eppc," and is a proprietary, undocumented protocol that uses TCP port 3031. The remote functionality is only enabled if Remote Apple Events are enabled from the Sharing applet of System Preferences. This tells launchd (8) to listen on the eppc port, and -- when requests are received -- start the AppleEvents server, AEserver (found in the support/ d irectory of the AE. framework, which is internal to CoreServices). launchd (8) is responsible for starting many ondemand services from their respective plist files in /System/Li br a r y / L aunchDaemons. AEServer s
+is corn.apple.eppc.plist.
+Though covering it is far beyond the scope of this book, AppleScript is a great mechanism for automating tasks. Outside Apple's own reference, two books devoted to the topic can be found elsewhere."" The simple experiment described next, however, shows you the flurry of events that occurs behind the scenes when you run AppleScript or Automator.
+Experiment: Viewing Apple Events
+You can easily see what goes on in the Apple Events plane via two simple environment variablesAEDebugaends and AEDebugReceives. Then, usingosascript (or, in some cases, Automator), will generate plenty of output. In Output 3-5, note the debug info only pertains to events sent or received by the shell and its children, not events occurring elsewhere in the system.
+QUTPUT 3-5:Output of AppleEvents driving Safari application launch
+morpheus@ergo(/)$ export AEDebugsends=l AEDebugReceives=1 morpheuseergo(/)$ osascript -e 'tell app "Safari" to activate'
+( 1 ) ' a e v t ' : as c r / g d t e ( i 3 8 6 )(
+r etur n i d : -16316 (Oxffffc044) transaction id : 0 (Oxo) interaction level: 64 (Ox40) reply required: 1 (Oxl)
+remote: 0 ( Oxo) for recording: 0 ( Oxo)
+reply port : 0 (O x o) target:
+( 2 ) ' psn ': 8 bytes (
+( Oxo, Ox5af5af ) (Safari )
+)
+fEventsourcePSN: ( Oxl,oxc044 ) ()
+optional attributes: e mpty r e c o r d )
+e vent da t a :
+( 1 ) ' aevt ' : -- 1 items (
+key
+( 1 ) 'l ong': 4 b y t es(
+0 (Oxo)
+
+DX-5562.044
+
+continues
+
+74 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+
+OUTPUT 3-5 (continued)
+
+( 1 ) ' a e v t ' : a ev t / a n s r ( * * * * ) (
+r etur n i d : -16316 (Oxffffc044)
+transaction id : 0 (OxO)
+
+interaction level: 112 (Ox70)
+
+reply required: 0 (OxO)
+
+remote: 0 (OxO)
+
+for recording: 0 (OxO)
+
+reply port: 0 (OxO)
+target:
+( 1 ) ' psn ': 8 bytes (
+( Oxl, Oxc044 ) ( (process ( 1, 49220 ) not )
+)
+fEventsourcePSN: ( OxO,Ox5af5af ) (Safari ) optional attributes:
+( empty r e c or d )
+
+found>
+
+e vent da t a :
+( 1 ) ' aevt ' : -- 1 items (
+key
+( 1 ) ' a c t s ' : 995 2 b y t e s (
+0 00: 0100 0 00 0 00 0 0 0 5 0 0
+
+O a547970
+
+65 2 0 4 e 61
+
+0 01: 6 d6 5 7 3 1 a 4 f 74 68 6 5 7220 6 3 6 c 61 73 73 6 5
+
+// etc, etc, etc...
+
+-Type Na
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+mes.Other classe
+
+FS Events
+All modern operating systems offer their developers APIs for file system notification. These enable quick and easy response by user programs for additions, modifications, and deletions of files. Thus, Windows has its NJ DIREcTQRY coNTRQL, Linux has inoti fy . Mac OS X and iOS (as of version 5.0) both offer FSEvents.
+FSEvents is conceptually somewhat similar to Linux's inoti fy -- in both, a process (or thread) obtains a file descriptor, and attempts to read (2) from it. The system call blocks until some event occurs -- at which time the received buffer contains the event details by which the program can tell what happened, and then act accordingly (for example, display a new icon in the file browser).
+FSEvents is, however, a tad more complicated (and, some would say, more elegant) than inotify. In it, the process proceeds as follows:
+The process (or thread) requests to get a handle to the FSEvents mechanism. This is /dev/ f sevents, a pseudo-device.
+The requestor then issues a special ioct l ( 2 ) , FEEvENTE cl,oNE. This ioct l e n ables the specific filtering of events so that only events of interest -- specific operations on particular files -- are delivered. Table 3-7 lists the types that are currently supported. Supporting these events is possible because FSEvents is plugged into the kernel's file system-handling logic (VFS, the Virtual File system Switch -- see Chapter 15 for more on that topic). Each and every supported event will add a pending notification to the cloned file descriptor.
+
+DX-5562.045
+
+OS X- and iOS-Specific Technologies j 7 5
+
+TABLE3-7: FSEvent Types
+
+FSEVENT CONSTANT F SE CREATE F I L E FSE DELETE FSE STAT CHANGED FSE RENAME FSE CONTENT MODIFIED FSE EXCHANGE FSE FINDER INFO CHANGED F SE CREATE DI R FSE CHOWN FSE XATTR MODIFIED FSE XATTR REMOVED
+
+INDICATES
+File creation. File/directory has been removed. stat (2) of file or directory has been changed. File/directory has been renamed. File has been modified. The exchangedata (2) system call. File finder information attributes have changed. A new directory has been created. File/directory ownership change. File/directory extended attributes have been modified. File/directory extended attributes have been removed.
+
+Using ioctl ( 2), the watcher can modify the exact event details requested in the notification. The control codes defined include FSEvENTS NANT COMPACT EvENTS(to get less information), FSEvENTS NANT EZTENDED INFO (to get even more information), and MEN FSEvENTS DEvICE FI I,TER (to filter on devices the watcher is not interested in watching).
+The requestor (also called the "watcher") then enters a read (2) loop. Each time the system call returns, it populates the user-provided buffer with an array of event records. The read can be tricky, because a single operation might return multiple records of variable size. If events have been dropped (due to kernel buffers being exceeded), a special event (FsE EvENTS DROPPED) will be added to the event records.
+If you check Apple's documentation, the manual pages, or the include files, your search will come out quiteempty handed. (sys/f sevents. h) did make an early cameo appearance when FSEvents was introduced, but has since been thinned and deprecated (and might disappear in Mountain Lion altogether). This is because, even though the API remains public, it only has some three official users:
+coreservi cesd: This is an Apple internal daemon supporting aspects of Core Services, such as launch services and others.
+mds: The Spotlight server. Spotlight is a "heavy" user of FSEvents, relying on notifications to find and index new files.
+f seventsd: A generic user space daemon that is buried inside the CoreServices framework (alongside coreservi cesd ). FSEventsd can be told to not log events by a "no log" file in the . f seventsd directory, which is created on the root of every volume.
+Both Objective-C and C applications can use the CoreServices Framework (Carbon) APIs of FSEventStreamCreate and friends. This framework is a thin layer on top of the actual mechanism,
+
+DX-5562.046
+
+78 I CH A P TER 3 ON THE SHOULDERS OF GIANTS: OS X AND IOS TECHNOLOGIES
+
+which allows integration of the "real" API with the RunLoop model, events, and callbacks. In essence, this involves converting the blocking, synchronous model to an asynchronous, event-driven one. Apple documents this well."' The rest of this section, therefore, concentrates on the lower-level APIs.
+Experiment: A File System Event Monitor
+Listing 3-5 shows a barebones FSEvents client that will listen on a particular path (given as an argument) and display events occurring on the path. Though functionally similar to f s usage (1), the latter does not use FSEvents (it uses the little-documented kdebug API, described in Chapter 5, "Process Tracing and Debugging" ).
+
+LlsTING 3-5: Abare bones FSEvents-based file monitor
+
+¹include ¹include
+¹include ¹include ¹include ¹include
+
+(stdio. h) ( fcnt l . h) ( stdl i b . h) (sys/ioctl.h) ( sys/ t y p e s . h ) ( sys/ f s e v en t s . h )
+
+// for TOW, a macro required by FSEVESTS CLOKE // for uint32 t and friends, on which fsevents.h relies
+
+// The struct definitions are taken from bsd/vfs/vfs events.c // since they are no long public in (sys/fsevents.h)
+
+¹pragma pack(1)
+t ypedef st r uc t k f s e v ent a (
+
+uint16 t type;
+
+uint16 t refcount;
+
+pid t
+
+pi d ;
+
+) kfs event a;
+
+typedef struct kfs event arg (
+uint16 t type;
+uint16 t pathlen; c har dat a [ O] ; ) kfs event arg;
+
+¹pragma pack()
+
+int print event (void *buf, int off)
+(
+// Simple function to print event -- currently a simple printf of "eventl". // The reader is encouraged to improve this, as an exercise. // This book's website has a much better (and longer) implementation p ri n t f ( F Event ! ' ! n " ) ; r eturn (o f f ) ;
+
+void main (int argc, char **argv)
+int feed, cloned feed; i nt i ;
+
+DX-5562.047
+
+OSX-and[OS-SpecificTechnologies ] 7 7
+
+i nt r c ; fsevent clone args clone args; char b u f [ B UFSIZE];
+feed = open ("/dev/fsevents", 0 RDONLY)
+int8 t events[FSE NAX EVENTS]
+i f ( fe e d ( 0)
+(
+p error ( " open") ; e x i t (1 )
+
+// Prepare event mask list. Zn our simple example, we want everything
+
+// (i.e. all events, so we say "PSE REPORT" all). Otherwise, we
+
+// would have to specifically toggle PSE IGNORE for each:
+// // e.g.
+
+//
+
+even ts [F E E XATTR MODIFIED] = PSE ZGNOREi
+
+//
+
+even ts [F E E XATTR REMOVED] = PSE ZGNOREi
+
+// etc..
+
+f o r ( i = 0 ; i ( FSE N A X E V ENTS; i ++ )
+(
+e vents [ i ] = FSE REPORT;
+
+memset(&clone args, ' !,0' , s izeof ( c l o n e a r g s ) ) ; c lone a r g s . f d = &cloned feed; // This is the descriptor we get back clone args.event queue depth = 10 ; clone args.event list = events; clone args.num events = FSE NAX EVENTS;
+
+// Request our own fsevents handle, cloned
+rc = ioctl (feed, FSEVENTS CLONE, &clone args)
+i f ( r c ( 0) ( perro r ( " i o c t l " ) ; e x it (2 ) ; )
+printf (" So f ar , s o g ood!!,n"); close (f eed);
+
+while ((rc = read (cloned feed, buf, BUFSIZE)) ) 0)
+(
+// rc returns the count of bytes for one or more events: i nt o f f I nB u f = 0 ;
+while ( o f f I n B u f ( r c ) (
+struc t k f s e v e n t a * f se = (struct kfs event a *)(buf + offInBuf); struct kfs event arg *fse arg;
+
+struct fse info *fse inf;
+if (offInBuf) ( printf (" Next event: %d!,n", offlnBuf););
+
+continues
+
+DX-5562.048
+
+78 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+LISTING 3-5 (continued)
+o ff I n Bu f + = prin t e v e n t ( b u f , o f fI n B u f ) ; / / def i n e d e l s e where
+) // end while offInBuf.. i f (r c != offInBuf)
+( f p r i n t f (st d e r r , "***Irarning: Some events may be lost!n"); )
+) // end while rc
+) // end main If you compile this example on either OS X or iOS 5 and, in another terminal, make some file modi-
+fications (for example, by creating a temporary file), you should see printouts of file system event occurrences. In fact, even if you don't do anything, the system periodically creates and deletes files, and you will be able to receive notifications. Note this fairly rudimentary example can be improved on in many ways, not the least of which is display event details. Singh's book has an "fslogger" application (which no longer compiles on Snow Leopard due to missing dependencies). One nifty GUI-based app is FernLightning's "fseventer," '" which is conceptually very similar to this example, but whose interface is far richer (yet has not been updated in recent years). The book's companion website offers a tool, filemon, which improves this example and can prove quite useful, especially on iOS 5. Output 3-6 shows a sample output of this tool.
+oUTPUT 3-6: Output of an fsevents-based file monitoring tool
+File /private/tmp/xxxxx has been modified P ID: 174 (/tmp/a) I NODE: 7219206 DEV 40007 UI D 5 0 1 ( m o r p h eus ) G I D 5 0 1
+File /Users/morpheus/Library/PubSub/Database/Database.sqlite3-journal has been created P ID: 43397 (mysql d ) I NODE: 7219232 DEV 40007 UI D 5 0 1 ( m o r p h eus ) G I D 5 0 1
+File /Users/morpheus/Library/PubSub/Database/Database.sqlite3-journal has been modified P ID: 43397 (mysql d ) I NODE: 7219232 DEV 40007 UI D 5 0 1 ( m o r p h eus ) G I D 5 0 1
+File /Users/morpheus/Library/PubSub/Database/Database.sqlite3-journal has been deleted Type: 1 (Deleted ) refcount 0 PID: 43397
+P ID: 43397 (mysql d ) I NODE: 7219232 DEV 40007 UI D 5 0 1 ( m o r p h eus ) G I D 5 0 1
+Notifications
+OS X provides a systemwide notification mechanism. This is a form of distributed IPC, by means of
+which processes can broadcast or listen on events. The heart of this mechanism is the notifyd(8)
+daemon, which is started at boot time: this is the Darwin notification server. An additional daemon,
+distnoted (8), functions as the distributed notification server. Applications may use the notify (3)
+API to pass messages to and from the daemons. The messages are for given names, and Apple recommends the use of reverse DNS namespaces here, as well (for example, corn.my Company.myNotification) to avoid any collisions.
+DX-5562.049
+
+OSXandiOSSecurityMechanisms ) 7 9
+The API is very versatile and allows requesting notifications by one of several methods. The welldocumented (noti fy . h) lists functions to enable the notifications over UNIX signals, Mach ports, and file descriptors. Clients may also manually suspend or resume notifications. The noti fyd (8) handles most notifications, by default using Mach messages and registering the Mach port of corn.
+apple. system. notification center.
+A command line utility, noti fyuti l ( 1 ) , is available for debugging. Using this utility, you can wait for (-w) and post (-p) notifications on arbitrary keys.
+An interesting feature of noti fyd (8) is that it is one of the scant few daemons to use Apple's fileport API. This enables file descriptors to be passed over Mach messages.
+Additional APls of interest
+Additional Apple-specific APIs worth noting, but described elsewhere in this book include: Grand Central Dispatch (Chapter4): A system framework for parallelization using work queue extensions built on top of pthread APIs. The Launch Daemon (Chapter7): Fusing together many of UN'X system daemons (such as init, inetd, at, crond and others), along with the Mach bootstrap server. XPC (Chapter 7): A framework for advanced IPC, enabling privilege separation between processes kdebug (Chapter5): A little-known yet largely-useful facility for kernel-level tracing of system calls and Mach traps. System sockets (Chapter 17): Sockets in the FF sos TzF) namespace, which allow communication with kernel mode components Mach APIs (Chapters 9, 10, and 11):Direct interfaces to the Mach core of XNU, which supply functionality matching the higher level BSD/POSIX interfaces, but in some cases well exceeding them. The IOKit APIs (Chapter 19):APIs to communicate with device drivers, providing a plethora of diagnostics information as well as powerful capabilities for controlling drivers from user mode.
+OS X AND IOS SECURITY MECHANISMS
+Viruses and malware are rare on OS X, which is something Apple has kept boasting for many years as an advantage for Mac, in their commercials of "Mac versus PC." This, however, is largely due to the Windows monoculture. Put yourself in the role of Malware developer, concocting your scheme for the next devious bot. Would you invest time and effort in attacking over 90% of the world, or under 5%?
+Indeed, OS X (and, to an extent, Linux) remain healthy, in part, simply because they do not attract much attention from malware "providers" (another reason is that UN'X has always adhered to the principle of least privilege, in this case not allowing the user root access by default). This, however, is changing, as with OS X's slow but steady increase in market share, so increases its allure for malware. The latest Mac virus, "Flashback" (so called because it is a Trojan masquerading as an Adobe Flash update) infected some 600,000 users in the United States alone. Certain industry experts were quick to pillory Apple for its hubris, chiding their security mechanisms as being woefully inefficient and backdated.
+DX-5562.050
+
+SO j CH A PTER 3 ON THE SHOULDERS OF GIANTS: OS X AND IOS TECHNOLOGIES
+
+In actuality, however, Apple's application security is light years (if not parsecs) ahead of its peers. Windows' User Account Control (UAC) has been long present in OS X. iOS's hardening makes Android seem riddled in comparison. Nearly all so called "viruses" which do exist in Mac are actually Trojans -- which rely on the cooperation (and often utter gullibility) of the unwitting user. Apple is well aware of that, and is determined to combat malware. The arsenal with which to do that has been around since Leopard, and Apple is investing ongoing efforts to upgrade it in OS X and, even more so in iOS.
+Code Signing
+Before software can be secured, its origin must be authenticated. If an app is downloaded from some random site on the Internet, there is a significant risk it is actually malware. The risk is greatly mitigated, however, if the software's origin can be verifiably determined, and it can further be assured that it has not been modified in transit.
+Code signing provides the mechanism to do just that. Using the same X.509v3 certificates that SSL uses to establish the identity of websites (by signing their public key with the private key of the issuer), Apple encourages developers to sign their applications and authenticate their identity. Since the crux of a digital signature is that the signer's public key must be a priori known to the verifier, Apple embeds its certificates into both OS X and iOS's keychains (much like Microsoft does in Windows), and is effectively the only root authority. You can easily verify this using the security (1) utility, which (among its many other functions) can dump the system keychains, as shown in Output 3-7:
+
+ouTr LIT 3-T:Using security(1) to display Apple's built-in certificates on OS X
+
+morpheuseNinion (-)$ security -i
+
+security> list-keychains
+
+"/Users/morpheus/Library/Keychains/login.keychain" ¹ User's passwords, etc
+
+"/Library/Keychains/System.keychain"
+
+¹ Wi-Fi password,s and certificates
+
+¹ Non-Interactive mode
+
+morpheuseNinion (-)$ security dump-keychain /Library/Keychains/System.keychain
+
+grep lahl
+
+¹ Show only l a b el s
+
+" labl"( bl ob)="corn.apple.systemdefault "
+
+"labl"(blob)="corn.apple.kerberos.kdc"
+
+"labl"(blob)="Apple Code Signing Certification Authority"
+
+"labl"(blob)="Software Signing"
+
+"labl"(blob)="Apple Worldwide Developer Relations Certification Authority"
+
+Apple has developed a special language to define code signing requirements, which may be displayed with the csreg (1) command. Apple also provides the codesign (1) command to allow developers to sign their apps (as well as verify/display existing signatures), but codesign (1) won't sign anything without a valid, trusted certificate, which developers can only obtain by registering with Apple's Developer Program. Apple's Code Signing Guide"' covers the code signing process in depth, with Technical Note 2250'9' discussing iOS.
+
+Whereas in OS X code signing is optional, in iOS it is very much mandatory. If, by some miracle, an unsigned application makes its way to the file system, it will be killed by the kernel upon any attempted execution. This is what makes jailbreakers' life so hard: The system simply refuses to run
+
+DX-5562.051
+
+osx and ios security Mechanisms l 81
+unsigned code, and so the only way in is by exploiting vulnerabilities in existing, signed applications (and later the kernel itself). Jailbreakers must therefore seek faults in iOS's system apps and libraries (e.g. MobileSafari, Racoon, and others). Alternatively, they may seek faults in the codesigning mechanism itself, as was done by renowned security researcher Charlie Miller in iOS 5.0."" Disclosing this to Apple, however, proved a Pyrrhic victory. Apple quickly patched the vulnerability in 5.0.1, and another future jailbreak door slammed shut forever. Mr. Miller himself was controversially banned from the iOS Developer Program.
+Code-signed applications may still be malicious. Any applications that violate the terms of service, however, would quickly lead to their developer becoming a persona non grata at Apple, banned from the Mac/iOS App Stores (q.v. Mr. Miller). Since registering with Apple involves disclosing personal details, these malicious developers could also be the target of a lawsuit. This is why you won't find any apps in iOS's App Store attempting to spawn /bin/bash or mimic its functionality. Nobody wants to get on Apple's bad side.
+Compartmentalization (Sandboxing)
+Originally considered a vanguard, nice-to-have feature, compartmentalization is becoming an integral part of the Apple landscape. The idea is a simple, yet principal tenet of application security: Untrusted applications must run in a compartment, effectively a quarantined environment wherein all operations are subject to restriction. Formerly known in Leopard as seatbelt, the mechanism has since been renamed sandbox, and has been greatly improved in Lion, touted as one of its stronger suits. A thorough discussion of the sandbox mechanism (as it was implemented in Snow Leopard) can be found in Dionysus Blazakis's Black Hat DC 2011 presentation"", though the sandbox has undergone significant improvements since.
+iOS -- the Sandbox as a jail
+In iOS, the sandbox has been integrated tightly since inception, and has been enhanced further to create the "jail" which the "jailbreakers" struggle so hard to break. The limitations in an App's "jail" include, but are not limited to:
+Inability to break out of the app's directory. The app effectively sees its own directory (/var/ mobile/Applications/(app-GUID)) as the root, similar to the chroot (2) system call. As a corollary, the app has no knowledge of any other installed apps, and cannot access system files.
+Inability to access any other process on the system, even if that process is owned by the same UID. The app effectively sees itself as the only process executing on the system.
+Inability to directly use any of the hardware devices (camera, GPS, and others) without going through Apple's Frameworks (which, in turn, can impose limitations, such as the familiar user prompts).
+Inability to dynamically generate code. The low-level implementations of the mmap (2) and mprotect (2) system calls (Mach's vm map enter and vm map~rotect, respectively,as discussed in Chapter 13) are intentionally modified to circumvent any attempts to make writable memory pages also executable. This is discussed in Chapter 11.
+Inability to perform any operations but a subset of the ones allowed for the user mobile. Root permissions for an app (aside for Apple's own) are unheard of.
+DX-5562.052
+
+82 I CH A P TER 3ON THE SHOULDERS OF GIANTS: OS X AND IOS TECHNOLOGIES
+
+Entitlements (discussed later) can release some well-behaving apps from solitary confinement, and some of Apple's own applications do possess root privileges.
+Voluntary Imprisonment
+Execution in a sandbox is still voluntary (at least, in OS X). A process must willingly call sandbox init (3) to enter a sandbox, with one of the predefined profiles shown in Table 3-8. (This, however, can also be accomplished by a thin wrapper, which is exactly what the command line sandboxexec (I) is used for, along with the -n switch and a profile name).
+
+TABLE 3-8:Predefined Sandbox Profiles
+
+KSBXPROFILE CONSTANT
+N oInte r n e t N oNet w o r k N oWrit e NoWriteExceptTemporary
+PureComputation
+
+PROFILE NAME
+(FORs andbox-e xec - n ) no-int e r net
+no-network n o-wri t e
+n o-wri t e - e x c ept t empor a r y
+pure-computation
+
+PROHIBITS
+AF INET /AF INET6 sockets socket(2) call File system write operations File system write operations except temporary directories Most system calls
+
+The sandbox i n i t ( 3 ) f unction in turn, calls the mac execve system call(¹380)> and the profile corresponds to a MAC label, as discussed earlier in this chapter. The profile imposes a set of predefined restrictions on the process, and any attempt to bypass these restrictions results in an error at the system-call level (usually a return code of -EPERN). The seatbelt may well have been renamed to "quicksand," instead, because once a sandbox is entered, there is no way out. The benefit of a tight sandbox is that a user can run an untrusted application in a sandbox with no fear of hidden malware succeeding in doing anything insidious (or anything at all, really), outside the confines of the defined profile. The predefined profiles serve only as a point of departure, and profiles can be created on a per-application basis.
+Apple has recently announced a requirement for all Mac Store apps to be sandboxed, so the "voluntary" nature of sandboxing will soon become "mandatory," by the time this book goes to print. Because it still requires a library call in the sandboxed program, averting the sandbox remains a trivial manner -- by either hooking sandbox in i t ( 3 ) prior to executing theprocess( ' ornotcallingit at all. Neither or these are really a weakness, however. From Apple's perspective, the user likely has no incentive to do the former, because the sandbox only serves to enhance his or her security. The developer might very well be tempted to do the latter, yet Apple's review process will likely ensure that all submitted apps willingly accept the shackles in return for a much-coveted spot in the Mac store.
+Controlling the Sandbox
+In addition to the built-in profiles, it is possible to specify custom profiles in . sb files. These files are written in the sandbox's Scheme-like dialect. The files specify which actions to be allowed or denied, and are compiledatload-time by 1ibSandbox. dyl ib,which contains an embedded TinySCHEME library.
+
+DX-5562.053
+
+OS X and iOS Security Mechanisms l 8 3
+
+You can findplenty of examples in/usr/share/sandbox and /System/Library/Sandbox/prof iles (or by searching for *. sb files). A full explanation of the syntax is beyond the scope of this book Listing 3-6, however, serves to demonstrate the key aspects of the syntax by annotating a sample profile.
+
+LlsTING 3-6: Asample custom sandbox profile, annotated
+
+( version 1 ) ( deny defaul t ) (import « s y st em.sb«)
+
+deny by default -- least privilege include another profile as a point of departure
+
+(allow fil e - r e ad*)
+
+Allow all file read operations
+
+(allow network-outbound)
+
+Allow outgoing network connections
+
+(allow sysctl - r e ad)
+
+(allow system-fsctl)
+
+(allow d istr i b u t ed-not i f i ca t i o n - post )
+
+(allow appleevent-send (appleevent-destination «corn.apple.systempreferences«))
+
+(allow ipc-posix-shm system-audit system-sched mach-task-name process-fork process-exec)
+
+(allow iokit - open
+
+Allow the following I/O Kit calls
+
+(iokit-connection « IOAccel e r a t o r « )
+
+(iokit-user-client-class «RootDomainuserClient«)
+
+(iokit-user-client-class «IOAccelerationuserClient«)
+
+(iokit-user-client-class « IOHIDParamuserCl i e n t « )
+
+(iokit-user-client-class «IOFramebufferShareduserClient«)
+
+(iokit-user-client-class «AppleGraphicsControlClient«)
+
+(iokit-user-client-class « AGPNClient « ) )
+
+allow file-write*
+
+Allow write operations, but only to the following path:
+
+(subpath «/ p r i v a t e / t mp«)
+
+( subpath ( p a r am " USER TEMP«))
+
+(allow mach-lookup
+
+Allow access to the following Mach services
+
+(global-name «corn.apple.CoreServices.coreservicesd«)
+
+)
+
+If a trace directive is used, the user-mode daemon sandboxd (8) will generate rules, allowing the operations requested by the sandboxed application. A tool called sandbox-simpli fy (I) may then be used in order to coalesce rules, and simplify the generated profile.
+
+Entitlements: Making the Sandbox Tighter Still
+The sandbox mechanism is undoubtedly a strong one, and far ahead of similar mechanisms in other operating systems. It is not, however, infallible. The "black list" approach of blocking known dangerous operations is only as effective as the list is restrictive. As an example, consider that in November 2011 researchers from Core Labs demonstrated that, while Lion's kssxprof il eNONetwork indeed restricts network access, it does not restrict AppleEvents."" What follows is that a malicious app can trigger AppleScript and connect to the network via a non-sandboxed proxy process.
+
+DX-5562.054
+
+84 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+
+The sandbox, therefore, has been revamped in Lion, and will likely be improved still in Mountain Lion, where it has been rebranded as "GateKeeper" and is a combination of an already-existing mechanism: HFS+'s quarantine, with a "white list" approach (that is, disallowing all but that which is known to be safe) that aims to deprecate the "black list" of the current sandboxing mechanism. Specifically, applications downloaded will have the "quarantine" extended attribute set, which is responsible for the familiar "...is an application downloaded from the Internet" warning box, as before. This time, though, the application's code signature will be checked for the publisher's identity as well as any potential tampering and known reported malware.
+Containers in Lion
+Lion introduces a new command line, asctl (1), which enables finer tuning of the sandbox mechanism. This utility enables you to launch applications and trace their sandbox activity, building a profile according to the application requirements. It also enables to establish a "container" for an application, especially those from the Mac Store. The containers are per-application folders stored in the Librar y / c o n t a i n er s directory. This is shown in the next experiment.
+It is more than likely that Mac Store applications will, sooner or later, only be allowed to execute according to specific entitlements, as is already the case in iOS. Entitlements are very similar in concept to the declarative permission mechanism used in .NET and Java (which also forms the basis for Android's Dalvik security). The entitlements are really nothing more than property lists. In Lion (as the following experiment illustrates) the entitlements are part of the container's plist.
+Experiment: Viewing Application Containers in Lion
+If you have downloaded an app from the Mac Store, you can see that a container for it has likely been createdinyour 1ibrary/Containers/ directory. Even ifyou have not,two apps already thus contained are Apple's own Preview and TextEdit, as shown in Output 3-8:
+
+OUTPUT 3-8: Viewing the container of TextEdit, one of Apple's applications
+
+morpheus@Ninion (-) $ asctl container path Textsdit
+
+-/Library/Containers/corn.apple.TextEdit
+
+morpheus@Minion (-)$ cd Library/Containers
+
+morpheus@Minion (-/Library/Containers)$ ls
+
+c orn.apple. Previ ew
+
+corn.apple.TextEdit
+
+morpheus@Minion (-/Library/Containers)$ cd corn.apple.TextEdit
+
+morpheus@Minion (-/..E.dit)$ find
+
+./Container.plist ./Data
+
+./Data/.CFUserTextEncoding
+
+./Data/Desktop
+
+./Data/Documents
+
+./Data/Downloads
+
+./Data/Library
+
+./Data/Library/Preferences
+
+./Data/Library/Saved Application State ./Data/Library/Saved Application State
+
+DX-5562.055
+
+OS X and iOS Security Mechanisms j 8 5
+./Data/Library/Saved Application State/corn.apple.TextEdit.savedState ./Data/Library/Saved Application State/corn.apple.TextEdit.savedState/data. data ./Data/Library/Saved Application S tate/corn.appl e . T ext Ed i t . s a v edSt at e / w i n dow 1 . d a t a ./Data/Library/Saved Application S tate/corn.appl e . T ext Ed i t . s a v edSt at e / w i n dows.p l i s t ./Data/Library/Sounds ./Data/Library/Spelling ./Data/Movies ./Data/Music ./Data/Pictures
+The Data/ folder of the container forms a jail for the app, in the same way that iOS apps are limited to their own directory. If global files are necessary for the application to function, it is a simple matter to create hard or soft links for them. The various preferences files, for example, are symbolic l inks, and the file in Saved Appl i c a t i o n S t a t e / (which back Lion's Resume feature for apps) are hard linksto files in -/I ibrary/Saved Application State.
+The key file in any container is the Container. pl i s t , T his is a property list file, though in binary format. Using pluti l ( 1 ) to convert it to XML will reveal its contents, as shown in Output 3-9:
+ouyr uys-e: Displaying the container.plist of TextEdit
+morpheuseNinion (-/Library/Containers)$ cp corn.apple.Textsdit/Container.plist /tmp morpheus@Minion (-/Library/Containers)$ cd /tmp morpheuseNinion (/tmp) $ plutil -convert xmll Container.plist morpheus@Ninion (/tmp)$ more !$ < ?xml v e r s i o n = "1.0 " e n c o d i n g = " U T F - 8 " ? > <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http: //www.apple.corn/DTDs/PropertyList-l.o.dtd"> < pli s t v e r s i o n= " 1 . 0 " > < dic t >
+<key>Identity</key> <array>
+<data> +t4NAAAAADAAAAABAAAABgAAAAIAAAASY29tLmFwcGxlL1RleHRFZGIOAAAA AAAD </data> </array> <key>SandboxProfileData</key> <data> AADSAAwA9wD2APIA9wD3APcA9wDxAPEASADkAPEAjgCNAPgAiwDxAPEAfwB /AHsAfwB/ AHSAfwB/AHSAfwB/AHoAeQD3AHgA9wD3AGsAaQD3APcA9wD4APcA9wD3APcA9wD3APgA Base64 encoded compiled profile data AAACAAAALwAAAC8= </data> <key>SandboxProfileDataValidationInfo</key> < dic t > <key>SandboxprofileDatavalidationEntitlementsKey</key> < dic t >
+<key>corn.apple. security.app-protection</key> <true/> <key>corn.apple. security.app-sandbox</key> <true/>
+continues
+DX-5562.056
+
+86 I CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+OUTPUT 3-9 (continued)
+<key>corn.apple. security. documents. user-selected. read-write</key> <true/> <key>corn.apple. security. files.user-selected. read-write</key> <true/> <key>corn.apple. security.print</key> <true/> < /di c t > <key>SandboxProfileDataValidationParametersKey</key> < dic t > <key> HONE</key> <string>/Users/morpheus</string> <key> USER</key> <string>morpheus</string> <key>application bundle</key> < string>/Appli c a t i o n s/ TextEdi t . a pp</st r i n g > <key>application bundle id</key> < string>corn.apple.TextEdit < / s t r i n g >
+< /di c t > <key>SandboxProfileDataValidationSnippetDictionariesKey</key> <array>
+< dic t > <key>AppSandboxProfileSnippetNodificationDateKey</key> <date>2012-02-06T15:50>182< /date> <key>AppSandboxProfileSnippetPathKey</key>
+<string>/System/Library/Sandbox/Profiles/application.sb</string> < /di c t > </array> <key>SandboxProfileDataValidationVersionKey</key> <integer>1</integer> < /di c t > < key>Vers i o n < / k e y > < integer>24</ i n t e g e r > < /di c t > </plist>
+The property list shown above has been edited for readability. It contains two key entries:
+sandboxprof il eData: The compiled profile data. Since the output of the compilation is binary, the data is encoded as Base64.
+Sandboxprof ileDatavalidationEntitlementsKey: Specifyinga dictionary of entitlements this application has been granted. Apple currently lists about 30 entitlements, but this list is only likely to grow as the sandbox containers are adopted by more developers.
+Mountain Lion's version of the asctl (1) command contains a diagnose subcommand, which can be used to trace the sandbox mechanism. This functionality wraps other diagnostic commands-
+/usr/libexec/AppSandnox/container check.rb (a Ruby script), and codesign (1) with the
+--di s p l a y and - -verif y arguments. Although Lion does not contain the subcommand, these commands may be invoked directly, as shown in Output 3-10:
+DX-5562.057
+
+OSXandiOSSecurityMechanisms i 8 7
+
+QUTPUT 3-10:Using codesign(1) -display directly on TextEdit:
+morpheus@Minion (-) 8 codesign -- displa y - -verbose=99 - -entitlements=:/Applications/Textsdit.app E xecutab l e =/Applications/TextEdit.app/Contents/NacOS/TextEdit Identifier=corn.apple.TextEdit Format =bundle with Mach-0 universal (i386 x86 64) C odeDirec t o r y v=20100 size=987 flags=oxo(none) hashes=41+9 location=embedded H ash t y p e = s hel s i z e=20 CDHash =7b9b2669bddf a f 0 1 2 91478baaf d 9 3a72c61eee99 S ignat ur e s i z e=4064 A uthor i t y =Software Signing A uthor i t y =Apple Code Signing Certification Authority A uthor i t y = Apple Roo t C A I nfo. p l i s t ent r i e s=30 S ealed Resources r u l e s=ll files=10
+< ?xml v e r s i o n = "1.0 " e n c o d i n g = " U T F - 8 " ? > <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http: //www.apple.corn/DTDs/PropertyList-l.o.dtd"> < pli s t v e r s i o n= " 1 . 0 " > < dic t >
+<key>corn.apple. security.app-sandbox</key> <true/> <key>corn.apple. security. files.user-selected. read-write</key> <true/> <key>corn.apple. security.print</key> <true/> <key>corn.apple. security.app-protection</key> <true/> <key>corn.apple. security. documents. user-selected. read-write</key> <true/> < /di c t > </plist>
+Entitlements in iOS
+In iOS, the entitlement plists are embedded directly into the application binaries and digitally signed by Apple. Listing 3-7 shows a sample entitlement from iOS's debugserver, which is part of the SDK's Developer Disk Image:
+
+L(sT(Ne 3-7: Asample entitlements.plist for iOS's debugserver
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http: //www.apple.corn/DTDs/PropertyList-l.o.dtd"> < pli s t v e r s i o n= " 1 . 0 " > < dic t >
+<key>corn.apple. springboard.debugapplications</key> <true/> <key>get-task-allow</key> <true/> <key>task for~id-allow</key> <true/>
+
+continues
+
+DX-5562.058
+
+SS i CHAPTER 3 ON THE SHOULDERS OF GIANTS: OS AXND IOS TECHNOLOGIES
+
+LISTING 3-7 (continued)
+< key>run- u n s i g n e d - c o d e < / k e y > <true/> < /di c t > </plist>
+The entitlements shown in the listing are among the most powerful in iOS. The task-related ones allow low-level access to the Mach task, which is the low-level kernel primitive underlying the BSD processes. As Chapter 10 shows, obtaining a task port is equivalent to owning the task, from its virtual memory down to its last descriptor. Another important entitlement is dynamic-codes igning, which enables code generation on the fly (and creating rwx memory pages), currently known to be granted only to MobileSafari.
+Apple doesn't document the iOS entitlements (and isn't likely to do so in the near future, at least those which pertain to their own system services), but fortunately the embedded plists remain unencrypted (at least, until the time of this writing). Using cat (1) on key iOS binaries and apps (like MobileMail, MobileSafari, MobilePhone, and others) will display, towards the end of the output, the entitlements they use. For example, consider Listing 3-8, which shows the embedded plist in MobileSafari:
+
+LlsTING 3-s: using cat(1) to display the embedded entitlement plist in MobileSafari
+
+rootepodicum (/)¹ cat -tv /Applications/Mobilesafari.app/MobileSafari ~ tail -31 ~ more <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http: //www.apple.corn/DTDs/PropertyList-1.0.dtd"> < plis t v e r s io n="1. 0 " > < dic t > "I<key>corn.apple.coreaudio.allow-amr-decode</key>
+I<true/> "I<key>corn.apple.coremedia.allow-protected-content-playback</key>
+I<true/> "I<key>corn.apple.managedconfiguration.profiled-access</key>
+I<true/> "I<key>corn.apple. springboard.opensensitiveurl</key>
+
+I<true/> "I<key>dynamic-codesigning</key>
+I<true/> "I<key>keychain-access-groups</key>
+
+<!- - Required for Safari's Javascript engine I-->
+
+I<array> " I"I <st r i n g>corn.apple.cfnetwork</st r i n g > " I"I <st r i n g>corn.apple.i dent i t i e s < / s t r in g > " I"I <st r i n g>corn.apple.mobilesafar i < / s t r i n g >
+
+I I<string>corn.apple.certificates</string> "I</array> "I<key>platform-application</key>
+I<true/> "I<key>seatbelt-profiles</key>
+
+I<array> " I " I < s t r i n g >Nobi l e s a f a r i < / s t r i n g > <!- - Safari has its own seatbelt/sandbox profile !--> "I</array> "I<key>vm-pressure-level</key>
+I<true/> < /di c t > </plist>
+
+DX-5562.059
+
+OS X and iOS Security Mechanisms j 8 9
+
+iOS developers can only embed entitlements allowed by Apple as part of their developer license. The allowed entitles are themselves, embedded into the developer's own certificate. Applications uploaded to the App Store have the entitlements embedded in them, so verifying application security in this way is a trivial matter for Apple. More than likely, this will be the case going forward for OS X, though at the time of this writing, this remains an educated guess.
+Enforcing the Sandbox
+Behind the scenes, XNU puts a lot of effort into maintaining the sandboxed environment. Enforcement in user mode is hardly an option due to the many hooking and interposing methods possible. The BSD MAC layer (described earlier) is the mechanism by which both sandbox and entitlements work. If a policy applies for the specific process, it is the responsibility of the MAC layer to callout to any one of the policy modules (i.e. specialized kernel extensions). The main kernel extension responsible for the sandbox is sandbox. kext, common to both OS X and iOS. A second kernel extension unique toiOS, AppleNobileFilerntegrity (affectionately known as AMFI), enforces entitlements and code signing (and is a cause for ceaseless headaches to jailbreakers everywhere). As noted, the sandbox also has a dedicated daemon, /usr/ l i b e x e c/ sandboxd, which runs in user mode to provide tracing and helper services to the kernel extension, and is started on demand (as you can verify if you use sandbox-exec (j.) to run a process). In iOS, AMFI also has its own helper daemon, /usr/libexec/amf id.The OS X architecture isdisplayed in Figure 3-2.
+
+sandboxd
+
+Sandboxed process
+
+1.Process makes a system call
+
+10. System call returns to user
+
+2. System call contains MAC callouts
+
+System calls and Mach traps
+
+3. MAC layer checks for any policy to apply for this process
+
+Mandatory access control (MAC) layer
+
+9. Additional policy modules (like ios's I
+
+AMFI) can be registered, in which case
+
+they are also consulted in turn
+
+I
+
+4. If there is a policy, the list of registered policy modules is walked
+
+; Additional policy ,' modules
+
+User mode Kernel mode
+
+S. sandbox.kext either approves the request, or denies it (EPERM)
+
+9. If sandbox.kext registered a callback for this particular operation, it is invoked
+
+sandbox kext
+
+7.sandbox.kextm ayalso send Mach messages to sandboxd, mostly for tracing purposes
+
+a. sandbox.kext calls on AppleMatch.kext AP P l e MatCh
+
+to perform regular expression matching
+
+kext
+
+FIGURE 3-2: The sandbox architecture
+
+DX-5562.060
+
+90 I CH A P TER 3ON THE SHOULDERS OF GIANTS: OS X AND IOS TECHNOLOGIES
+
+Chapter 14 discusses the MAC layer in depth from the kernel perspective, and elaborates more on the enforcement of its policies, by both the sandbox and AMFI.
+
+SUMMARY
+This chapter gave a programmatic tour of the APIs that are idiosyncratic to Apple. These are specific APIs, either at the library or system-call level, providing the extra edge in OS X and iOS. From the features adopted from BSD, like sysctl and kqueue, OpenBSM and MAC, through file-system events and notifications, to the powerful and unparalleled automation of AppleEvents. This chapter finally discussed the security architecture of OS X and iOS from the user's perspective, explaining the importance of code signing, and highlighting the use the BSD MAC layer as the foundation for the Apple-proprietary technologies of sandboxing and entitlements.
+The next chapters delve deeper into the system calls and libraries, and focus on process internals and using specific APIs for debugging.
+
+REFERENCES
+
+[1] "T h e TrustedBSD MAC Framework: Extensible Kernel Access Control for FreeBSD 5.0,"
+http: //www.trustedbsd.org/trustedbsd-usenix2003freenix.pdf
+
+[2] Ap ple Develope"rS.ample Code -- Reachability,"http: //developer. apple. corn/ library/ios/¹samplecode/Reachability/introduction/intro.html
+
+[3] Ap ple TechnicNaolte 26117. "Mac OS X Server -- The System Log," http: //support
+.appl e . c orn/ k b / T A 26117
+
+[4] Sa n derson and Rosenthal. Learn AppleScript: The Comprehensive Guide to Scripting and Automation on Mac OS X (3E), (New York: APress, 2010).
+[5] Munro, Mark Conway. AppleScript (Developer Reference), (New York: Wiley, 2010). 5] Apple Developer."FileSystem EventsProgramming Guide," http: //developer. apple
+.corn/library/mac/¹documentation/Darwin/Conceptual/FSEvents ProgGuide/
+[7] http: //fernlightning.corn/doku.phpzid=software%3afseventer%3astart
+
+[8] Ap ple Develope"rC.ode Signing Guide," https://developer. apple.corn/library/ mac/¹documentation/Security/Conceptual/CodeSigningGuide/
+Technical Note 2250. "iOS Code Signing Setup, Process, and Troubleshooting,"
+http: //developer. apple.corn/library/ios/¹technotes/tn2250/ index. html "Charlie Miller Circumvents Code Signing For iOS Apps," http: / / a pple . slashdot. org/ story/11/11/07/2029219/charlie-miller-circumvents-code-signing-for-ios-apps
+
+[11] Blazakis, Dionysus".The Apple SandBox," http: //www. semantiscope. corn/research/ BHDC2011 /
+
+[12] [13]
+
+ht t ps://github.corn/axelexic/Sanboxlnterposed
+Cor e Labs Security. "CORE-2011-09: Apple OS X Sandbox Predefined Profiles Bypass,"
+http: //corelabs.coresecurity.corn/index.php'?module Wiki&action= vi e w &t y p e = advi s o r y & n ame = CORE-201 1 - 0 9 1 9
+
+DX-5562.061
+
+

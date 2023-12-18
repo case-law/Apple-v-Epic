@@ -1,0 +1,165 @@
+From:
+
+Eric Friedman
+
+To:
+
+Ben Liaw
+
+CC:
+
+Jason Ho
+
+BCC:
+
+Subject :
+
+Re:in-spps from black market stores
+
+Attachments:
+
+Sent:
+
+06/06/2014 02:42:59 PM 0000 (GMTI
+
+Part of the problem is that there are no metrics.
+
+Sent from my iPhone
+
+0 J 5, 2 5 14, 15:56AM, 5 U
+
+PLAINTIFF
+Ua. DtetrtetCourt- NDCAD
+4:2Wv415640-YGR-TSH
+Cploeernes,Irre. v.Jeppre Irro.
+S*. No. WL0255
+Date Snterert
+sr
+
+HiJason,
+By the way - do we monitor how many installs we see on enterprise accounts? Last year when Qihoo 360 got kicked outI believed they were abusing the enterprise install method as well.
+
+M J 6, 21114. 12:45AM. J H
+Thanks Ben. That helped. Jason On Jun 5,2014, st5:53AM, Ben Liswwrote:
+Hi Jason, You csncheck the app bundle forBoom Beach here.... 25pp htt:/Sios.25 .com/a / 1176505/ Tongbu hit://s . ton bu.com/672150402 haidso ibin (b oom.Mml Please also see more comments inline. -Ben
+
+O J 5, 2 5 14 , 3:53AM, 5 ' 5 'M
+
+~
+
+Ben c-> Jason; Jason (-) Ben
+
+MM:
+
+CONFIDENTIAL
+
+Exhibit
+PX 0255
+PX-0255.1 APL-APPSTORE 02069838
+
+On Jun 4, 2014, at 11:17 AM, Jason Ho (
+
+) wrote:
+
+Hey Eric,
+Actually, for Ben to check if it's the enterprise method. With the apps installed. Go to Settings ) General ) and in the "iTunes Wi-Fi Sync" & "VPN" section, there should be a new "Profiles" item.
+And it should show how many and which profiles are installed.
+
+Looks like 1 new profile was created - Ben-7Cc3Aa64Ebb (IMG 1715.PNG)
+
+For the boom beach; is that Ben's account or someone else' s?
+
+Using, if the app is installed via the non-enterprise method; we would just see a blank dialog.
+
+In Ben's case, it looks like he's logged in as
+
+and the IAP is using the account that's is
+
+logged into the device?
+
+For 25ppBoom Beach -my apple ID was prepopulated as per the screenshot. ForTongbu Boom Beach, the login popup was completely blank. (IMG 1713.PNG) (IMG 1714.PNG)
+
+Thanks! Jason On Jun 4, 2014, at 10:58 AM, Eric Friedman wrote:
+for which? On Jun 4, 2014, at 10:53 AM, Jason Ho (
+
+) wrote:
+
+Also,could he send us the app bundle?
+Thanks, Jason
+On Jun 4, 2014, at 9:25 AM, Pierre Betouin wrote:
+Sure Eric, thanks. I believe the example was indeed using "enterprise method" as Ben specified. Let's dig this tomorrow together.
+
+CONFIDENTIAL
+
+PX-0255.2 APL-APPSTORE 02069839
+
+-- Pierre On Jun 4, 2014, at 6:14 PM, Eric Friedman (
+
+wrote:
+
+Guys,
+Ben went through the in-app flow with a 25pp obtained app. His notes below. Hoping we can discuss tomorrow.
+Begin forwarded message:
+
+From: Ben Liaw ( Subject: Re: in-apps from black market stores Date: June 3, 2014 at 8:55:24AM PDT To: Eric Friedman ( Cc: Payam Mirrashidi (
+Hi Eric,
+I finally did more analysis on my end and here are how things work.
+You' re already cc'ed on the other email where I sent the charles log to Lionel about getting significant better performance sometimes (especially during peak hours) on other app marketplaces.
+To answer the first question - these app marketplaces only provide hacked paid apps - they do not provide a way to circumvent IAPs. I downloaded Boom Beach and to buy the IAPs I had to log into my Apple ID account and do purchases via normal transaction.
+Below are some screenshots of notable items
+Surfing their app marketplace - I downloaded their IPA and installed it directly (I assume via enterprise method)
+(IMG 1704.PNG)
+Clicking an app - I download it and it says install via localhost
+(IMG 1708.PNG)
+There can be a snag in installing the apps - first I need to authorise my device - I am not sure what' s going on behind the scenes, so I' ve detailed it here.
+This is giving instructions - basically says sync locally with the iTunes client via wire. Then click a button in the client that authorises the device then apps are ok to install.
+(IMG 1709.PNG)
+Solution 2 where I am more confused how it works is if you have 2 devices on the same LAN both with 25pp installed - it' ll do a search for the other device. Once found, it can 'authorise' and fix the install problem.
+(IMG 1710.PNG)
+
+CONFIDENTIAL
+
+PX-0255.3 APL-APPSTORE 02069840
+
+Result is getting 500k download on my home network which lets me download in 3 minutes an 80MB file. On iTunes sometimes I can get 5-6 mins, but sometimes 20-40 mins during peak times!
+(IMG 1711.PNG) This was downloaded at the same time
+(IN4@II 2014-06-03 11.20.44 PM.png)
+Lastly, once I' ve installed Boom Beach - all the IAP's go thru the normal transaction server and isn' t cracked it seems, but I didn't go thru the entire transaction since I didn't feel 'safe':)
+(IMG 1713.PNG)
+-- e nd of report ---
+fz Apr 17, 2014, 10:13 PM, Eric Friedman (
+Depends on the time window. I'm on the bus now and could speak by phone or (better) IM. the work day is ridiculous and I have plans this evening. Tomorrow is more of the same.
+Let me try to summarize what we' re seeing.
+You' re familiar, I'm sure, with the "Apps Near Me" feature on iOS? In the app store, middle icon on the bottom, shows you apps that are most commonly launched in the area where you are standing at that time.
+Anyway, this data gives us a way to count the applications that were launched or downloaded, with latitude and longitude.
+I searched for bundles that were frequently launched and NOT available for sale in the AppStore. That shows us activity from apps that we do not sell and so includes first party apps (the AppStore itself, for example) and also apps that are provisioned under enterprise profiles, which is one abuse that the pirate stores use.
+I took four days of data and measured the difference between the real AppStore and "some" of the confirmed pirate app stores (25pp, Tongbu, Kuaiyong). At this point, in China, it appears that the Black Market is the market. The legit business is a rounding error:
+(PastedGraphic-1.png)
+Can you look into the in-app angle for me? Please?
+
+On Apr 16, 2014, at 10:28 PM, Ben Liaw (
+
+) wrote:
+
+Uh oh - that's not good. When we mean not pretty...how not pretty? Maybe we should chat quickly on the phone on this? How's your tomorrow looking?
+
+CONFIDENTIAL
+
+PX-0255.4 APL-APPSTORE 02069841
+
+-Ben fz Apr 17, 2014, 12:10 PM, Eric Friedman (
+Hi Ben, I'm kicking up a lot of dust over here about the black market stores, having plotted the amount of usage data for them versus the usage of the real app store. It's not a pretty picture. Have you figured out someone who uses those stores to get content goes about getting in-apps? Our theory is that they have to buy through Taobao etc. because if they interact with Apple directly, FairPlay will disable the pirate apps. That's only true for some exploits, however. Eric Friedman
+Eric Friedman
+Eric Friedman
+
+Eric Friedman CONFIDENTIAL
+
+PX-0255.5 APL-APPSTORE 02069842
+
+Eric Friedman
+
+CONFIDENTIAL
+
+PX-0255.6 APL-APPSTORE 02069843
+
+

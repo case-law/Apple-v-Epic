@@ -1,0 +1,164 @@
+Subject: Ap p le in 2015: The Six Colors report card
+
+From: "Philip Schillern
+
+Received(Date): Sat,,09 Jan 2016 04:27:21 +0000
+
+To: nRon Okamoto"
+Joswiak" Cue" Pardehpoo
+
+nC.K. Haunn P t p Shoem e rn
+Shaan Pruden" Bri an Croll n Matt Ft'scher"
+
+Date: Sa t, 09 Jan 2016 04:27:21+0000
+
+PLAINTIFF
+U.S. Dtatrtnt Cnun- NDCAL
+4t20~%5540 YGR TSH
+Eple Games, Ine.y.Apple lne.
+e.n .elt-2676
+Date Entered By
+"Greg nEddy Pedraum
+
+FYI - year in review by some Apple blog gers. Here is what they had to say about the App Store/Developer situation (probably biased toward feelings about the Mac App Store since the writers have a long history with Mac developers)
+Developer relations
+
+Grade: D (average score: 2.2, median score: 2)
+Our panel's message is clear: Apple has a lot of work to do to repair its relationship with third-party software developers. "Apple's heading towards a crisis point," wrote Andy Ihnatko."In 2014, I said that I'd never seen Apple developers less happy. Things are even worse a year later, with high-profile defections and more developers wondering how they can still make money at this game."
+Our panelists repeatedly cited inconsistent and harmful App Store policies, including lack of developer-requested features like demo versions of apps and paid upgrades. This fafi's security certificate failure at the Mac App Store rubbed salt in an old wound, too. "This latest snafu may have been my last straw," wrote Katie Floyd. "I love the App's storeconvenience,butseveralyearsago gave up buying more expensive Apps due to the lack of free trials or upgrades. Now I'm seriously questioning whether I want to buy anything from the Mac App Store."
+The developers on our panel specifically cited long delays to process approvals and builds, with iTunes Connect being "the least reliable this year than at any time in the last seven years," according to James Thomson. Rob Griffiths wrote that "App Store reviews are still seemingly random; what passes one time gets called out the next. And we' re still at a week for reviews, which is too long."
+Finally, there's the breach of trust that comes from evangelizing app development for a plafform that just wasn't ready. As John Gruber wrote: "Apple put a lot of effort into encouraging developers to create Apple Watch versions of their iPhone apps, but I'm not sure anyone benefitted from this: Apple, the developers, or the users. Eventually Apple Watch should prove to be a useful platform for third-party apps, but it wasn't when the Watch shipped, and it didn't improve that much with WatchOS 2."
+
+CONFIDENTIAL
+
+PX-2076.1 APL-APPSTORE 02828101
+
+https://urldefense.proofpoint.corn/v2/url?u=https3A sixcolors.corn post 2016 01 apples-2Dfinal-2Dreport-2Dcard-2Dfor2D2015 8 d =BQIFaQ8 c=HwE JUFt2 D9PK5csB J29kRV40HqSDXWTLPyZ6W8u848 r= J6RzbpZUrLYt8SkfAf2T6g8 m=ifSlg8RprWlo jN23zgZB1x8v946FopuvUXqxCw8 s=MXWCx08FD93cQ7291323c0735tKJNfZRk OoJsWC2Rs8 e =
+Apple in 2015: The Six Colors report card
+2015 is in the books. As this is a site with Apple as a primary focus, I thought it might be worthwhile to ask a bunch of my colleagues who pay attention to Apple and related markets to take a moment and reflect on Apple's performance in the past year.
+A few months back, designer Khoi Vinh provided the seed of an idea: "an annual Apple report card, as graded by Mac journalists," his email read.
+So in December I emailed a group of writers, editors, podcasters, and developers, and asked them to take a brief survey. They were prompted with 11 different Apple-related subjects, and asked to rate them on a scale from 1 to 5, as well as optionally provide text commentary on their vote. I received 24 replies, with the average results as shown below:
+(By the way, on New Year's Eve I emailed Six Colors subscribers and asked them to take the same survey. While the numbers didn't quite match -- most scores were higher -- the ranking of the 11 topics from best to worst was identical to the rankings from the pundits.)
+Judging by our panel's responses, Apple had a good year when it came to its hardware, but software and cloud services were more of a mixed bag, and developer relations and home-tech initiatives were not so great. Among the key product categories, the panel generally thought it was a good year for iOS, an okay year for the Mac and the new Apple TV, and a rough start for the Apple Watch.
+But enough of this top-level summary. Read on for category-by-category grades and commentary from two dozen different Apple watchers.
+PNant to take the survey yourself? Be my guest.]
+iPhone
+Grade: A (average score: 4.4, median score 4)
+Of all the products in Apple's porffolio, our panel rated the iPhone the highest. That's a good sign, given that it's by far Apple's most important and successful product.
+"Possibly the biggest upgrades over the previous generation yet," wrote The Wirecutter's Dan Frakes about the iPhone 6s and iPhone 6s Plus. "The iPhone 6s is better than
+
+CONFIDENTIAL
+
+PX-2076.2 APL-APPSTORE 02828102
+
+expected," said security expert Rich Mogull, citing practical iOS 9 improvements like Low Power Mode.Mac Power Users co-host David Sparks said we was impressed by image stabilization when shooting video -- "it's crazy good and I think it involves unicorn tears" -- and the speed of Touch ID. iOS 9 was generally praised by the panel. "Seems like one of those 'just enough' upgrades," wrote Sparks. Mogull called it "a win."
+Still, several panelists pointed to Apple's lack of a smaller phone model to appeal to the corner of the market that doesn't want an ever-more-giant handset. Andy Ihnatko offered mixed feelings, praising 3D Touch while saying that he is "ready to see Apple try something new."
+Mac
+Grade: B (average score: 3.7, median score: 4)
+Our panel was mixed on the Mac, with a lot of general praise for the hardware and a bit less enthusiasm for OS X. "If I could split this one between hardware and software, I'd give Mac hardware a 5 and Mac software a 3," wrote Daring Fireball's John Gruber.
+The iMac line got a lot of praise. "The 5K iMac may be the best in the lineup and it's only getting better," wrote TidBITS Managing Editor Josh Centers. "The latest iMacs are an impressive upgrade over last year's original 5K iMac," wrote Gruber.
+The new MacBook was a more divisive issue. Some panelists praised it -- "daringly future-directed," wrote Andy Ihnatko -- while others were less impressed. "The MacBook feels like it's solving the wrong problem to me," wrote Midroll Media EVP (and former Macworld staff writer) Lex Friedman. "I don't think anyone was feeling like 'ugh, all these ports are just way too convenient.'"
+Photos for Mac got a lot of praise from the panel, however. "Photos... is now at the point where I'm recommending that everyone I know just turn it on and leave it on," wrote Fraser Speirs. And Rich Mogull wrote: "Photos is really the right long-term path and advancing quickly enough to avoid concerns of stagnation." (Still, many panelists showed they were gun shy when it came to iCloud Photo Library.) And some were still critical of Photos. Gruber wrote that Photos "doesn't have nearly enough editing capability" and TidBITS Publisher Adam Engst cited disappointment that it couldn' t properly replace Aperture.
+After a lot of high-profile concern about software stability, this year's release of El Capitan this year was generally welcomed by our panelists. iMore's Serenity Caldwell called it "a solid, comfortable release," Friedman called it "a treat," Mogull characterized it as "a good 'recovery' release" after a few years of instability, and Sparks said it was "relatively drama-free." Still, praise wasn't universal. Engst said there were too many "high-profile glitches," and Gruber called it "rough around the edges."
+Some panelists expressed concern about the focus of the Mac product line as a whole, and the lack of updates for some models. "The Mac Pro and the Mac mini are both
+
+CONFIDENTIAL
+
+PX-2076.3 APL-APPSTORE 02828103
+
+products that could use some love," wrote Centers. Mac Power Users co-host Katie Floyd wrote that the Mac line-up "seems more fractured and confusing than ever," with only one system offering USB-C, a lack of Retina displays on some models, and the absence of an external Retina display from Apple.
+Finally, there's the Mac App Store. What can you say? "An unmitigated disaster," wrote Centers. Mogull also called it a disaster, and added, "A weak App Store also hurts security, on multiple levels." Yeah, it was a tough year for the Mac App Store.
+iPad
+Grade: B+ (average score: 3.9, median score: 4)
+This was a big year for the iPad, as iOS 9 added numerous iPad-focused features and the iPad Pro changed people's perceptions about Apple's tablet device -- all in the face of a couple of years of stalled sales growth for the iPad.
+Our panel was generally happy with the progress on the iPad front in 2015. "After a few years of deep pessimism about iPad, the combination of iOS 9 and iPad Pro has turned things around for me," wrote Fraser Spiers. "iOS 9 is so much more stable than previous releases and the introduction of multitasking has been a massive boost to iOS productivity. Add the iPad Pro into that mix and the iPad is the Apple product line that has taken the biggest leap in 2015."
+It seems like Apple is finally getting the idea that the iPad can be more than a bigger iPhone," wrote David Sparks. 'With the arrival of the iPad Pro and the iOS 9 iPad productivity improvements I feel like we' ve been given an appetizer. The trouble is, I want the full meal."
+Designer Khoi Vinh said he was "very encouraged by Apple's renewed interest in making iPad viable for work." Andy lhnatko praised "basic improvements to the OS that make it easier to get notebook-style productivity value out of these devices." Serenity Caldwell praised iPad Pro and the Apple Pencil for being "the iPad I' ve been waiting for since 2010... I love the size the more I get used to it. Pencil is the best digital stylus out there, period."
+Lex Friedman loved the new stuff, but wished that the latest iPhone features, such as faster Touch ID and 3D Touch, were also integrated into the iPad. And Stephen Hackett pointed out that there's more work to do on iOS: "The iPad Pro is an amazing device, but iOS needs to do more to take advantage of it," he wrote.
+Is it all enough to spur growth of iPad sales? John Moltz remains skeptical: "Apple hasn' t really adequately addressed how it's going to substantially improve iPad sales. The Pro will help, but it's not enough."
+Overall, the panel's take on the iPad in 2015 was a mixture of appreciation for what was done and a recognition that there's more work that needs to be done. As John Gruber
+
+CONFIDENTIAL
+
+PX-2076.4 APL-APPSTORE 02828104
+
+put it: "The iPad Pro itself is quite possibly the finest personal computer Apple has ever made -- in the abstract. But in practice, the fact that iOS started as a 'touchscreen phone' OS really shows on the iPad Pro. For iPads, the entire user interface should be navigable by the keyboard, and right now that's not even close to true."
+Apple Watch
+Grade: C (average score: 3, median score: 3)
+Announced in 2014 but shipped in 2015, the Apple Watch was one of Apple's most hyped new products ever. So how did it fare with our panel? There was a remarkable amount of agreement that it was an impressive technological achievement and a fun gadget, but one that lacks polish and practicality. Many panelists said they wear their Apple Watches every day and enjoy them, but still found aspects of the product disappointing.
+Adam Engst may have summed up the mood of most of the panel members: "It' s attractive, functional, and entirely inessential for most people." John Moltz wrote, "I like my Apple Watch and wear it all the time but it's clearly a less critical device to me than my iPhone, Mac and iPad." Katie Floyd said she loves her Apple Watch -- and would buy a replacement if it broke -- but "I really don't do much with it other than wrangle notifications and use it as a conduit for Siri."
+"I love my Apple Watch because it puts certain core tools available on my iPhone onto my body where I can find them easily," wrote Take Control Books editor in chief Tonya Engst, but said it was still "clearly a 1.0 effort." David Sparks wrote, "I like my Apple Watch and wear it every day... it feels like a 'just barely there' bit of technology, which is unusual for Apple."
+It will come as a surprise to nobody who uses an Apple Watch that the slowness of thirdparty apps was a complaint of most panelists. "Battery life isn't good enough... and the OS frequently feels way too slow -- it's almost ridiculous how long it can take for an app to launch," wrote John Gruber. "Third-party apps, and anything that requires communication between the watch and the iPhone, can still be frustratingly slow," wrote Dan Frakes.
+"WatchOS 2 has been a disappointment," wrote Fraser Speirs. "Apple is still shipping an operating system where it's 50/50 as to whether an app will even launch. It's an embarrassment that Apple shipped a product in this state. The only saving grace is the 3rd party complications on the face."
+Lex Friedman's analysis matched the panel's ambivalence pretty well: "I love my watch. But it hasn't really changed a damn thing about how much I use my iPhone... and who the hell is it for? And yet, I wear it every day. This feels like the stone age for the Apple Watch."
+Of course, a few panelists felt it was much easier to grade the Apple Watch -- and
+
+CONFIDENTIAL
+
+PX-2076.5 APL-APPSTORE 02828105
+
+graded it a failure. Khoi Vinh called it "an answer in search of a question." Josh Centers called the Apple Watch "a bad product" and "a dud." Andy Ihnatko didn't consider it a failure, but he did grade it as "a huge letdown" and "a perfectly ordinary gadget watch that doesn't distinguish itself over two or three others."
+Apple TV
+Grade: B (average score: 3.7, median score: 4)
+In 2015 Apple shipped the fourth-generation Apple TV, the product line's first major upgrade in years. It introduced a new interface, remote control, and App Store, all running on the newly branded tvOS.
+Our panel was happy to see the update and appreciates the potential of tvOS and the App Store, but also judged the product and tvOS as feeling rushed or unfinished. As iMore's Rene Ritchie put it, "Late in coming yet still unfinished, it shows tremendous potential. It just needs to be realized."
+"You' ve come so far, but you still have so very far to go," wrote Serenity Caldwell. John Moltz wrote: "I quite like the device, but it does have some flaws, not the least of which is the crazy input scheme for passwords." Dan Frakes offered "big kudos on third-party apps, performance and reliability improvements, and game-controller support."
+"The new Apple TV... is my favorite new Apple plafform since the iPhone," wrote John Gruber. Many Tricks developer (and longtime Mac writer) Rob Griffiths called it "a winner." James Thomson called it a "good first step," although he said it still "feels very 1.0." Josh Centers (author of Take Control of Apple TV) said it "has a lot of potential, but just feels like a half-finished product."
+But how does it rate against the competition? "They' ve caught up with everyone else," wrote Andy Ihnatko, "but have they surpassed the efforts of Roku and Amazon? It's still too early to call." Lex Friedman wrote that "Apple TV is finally catching up to Roku, but I'm still fine with my Roku."
+Cloud Services
+Grade: C-/D+ (average score: 2.6, median score: 2)
+Cloud services is a big topic. It covers iCloud and Apple Music. The general perception out there is that Apple's not very good at cloud stuff, and our panel tended to reflect that perception.
+First, let's talk Apple Music, which launched in 2015. Andy Ihnatko referred to the service as "wrapped in CAUTION tape." David Sparks said it "feels like a bit of a fumble." Serenity Caldwell cited Apple Music "disasters", Dan Moren called it "lackluster," and Adam Engst said "Apple Music has a millstone the size of Australia around its neck in the form of iTunes." John Gruber had praise for iCloud, but "Apple
+
+CONFIDENTIAL
+
+PX-2076.6 APL-APPSTORE 02828106
+
+Music, not so much." Other people didn't have a problem with Apple Music -- or were they damning it with faint praise? "I like the service for discovery and playlist syncing," wrote John Moltz. Dan Frakes said Apple Music has "performed better than I expected."
+This year also brought the new iCloud Photo Library feature, as a part of the new Photos app. "Cloud connected products like iCloud Photos could be so much better (and more reliable) than they are," wrote Khoi Vinh. "I still haven't mustered the courage to test iCloud Photo Library," wrote Dan Frakes.
+But not all feedback about photo syncing was negative. "iCloud Photo Library has worked almost perfectly for me," wrote John Gruber. Rich Mogull praised iCloud Photo Library as one of iCloud's "saving graces." David Sparks said he is "generally impressed" with iCloud Photo Library, which "has been working for me and my family without a hitch." Rich Mogull said it "works well for me," but still felt it was "about 80 percent where it needs to be."
+Overall, the panel seemed to bring a deep distrust of Apple's cloud services based on the company's past track record. There were some signs that Apple might be turning opinions around, but the company still has a lot to overcome. "Whenever I upload my files into Apple's cloud, I come to regret it," wrote Tonya Engst. Rob Griffiths wrote: "Things are getting a bit better with iCloud Drive, but I still don't trust Apple not to mess up my data." Rene Richie said that iCloud "continues to improve but isn't a core strength." And Rich Mogull said, "When I compare to other cloud providers, Apple still isn't there yet."
+HomeKit
+Grade: D (average score: 2.1, median score: 2)
+So, remember HomeKit, Apple's answer to home automation technology? It was announced in 2014 and... nothing really happened. In 2015, HomeKit devices finally started to arrive. A few, at least. But this category received the lowest scores of any in our survey.
+"There's so very far to go," wrote Serenity Caldwell. "The lack of a central Home app is idiotic, and HomeKit relies too much on hardware manufacturers to make apps that don' t suck." Rene Ritchie also pointed to the lack of a Home app as a major pitfall.
+"HomeKit is a great step," wrote Andy Ihnatko. "But it's a bit like AppleScript. Apple needs to promote it like a top-tier feature, or else it' ll get swept under the rug. It's great for folks who know what home automation is and are eager to jump on board."
+"HomeKit has a lot of promise," wrote Dan Frakes. "But despite having a home full of loT/home-automation gear, I don't have a single piece of equipment that supports it." Or as Rich Mogull wrote, damningly: "I have over a hundred automated devices at home, but can't use any of them with HomeKit. Not even ones I purchased last year (like Hue) without buying new hardware. There are not options to integrate on the software side."
+
+CONFIDENTIAL
+
+PX-2076.7 APL-APPSTORE 02828107
+
+Hardware reliability/quality
+Grade: A (average score: 4.4, median score: 4)
+Generally, our panel praised the quality of Apple's hardware design and reliability. As John Moltz wrote, "Apple hardware continues to be one of its great strengths." "Better than ever," wrote Stephen Hackett. "No one else seems close," wrote Rich Mogull.
+David Sparks sums it up: "Despite the fact that my Apple Hardware all looks like it' s defying the laws of physics, it all continues to work, hold a charge, and delight me."
+Software reliability/quality
+Grade: C+ (average score: 3.2, median score: 3)
+If the broad perception is that hardware remains an Apple strength, here's the flip side: the perception that Apple's software efforts lag behind.
+This is not to say that our panel was feeling despair. Generally, our panelists commended Apple for improving software quality in 2015, while going out of their way to suggest that there's still a whole lot of work to be done.
+"Better than it's been in years," wrote Fraser Speirs. Lex Friedman saw "some real steady improvements." Rich Mogull wrote that "the operating systems are solid, as are many of the first party apps."
+One trend among panelist comments was that Apple's apps and new platforms don' t measure up to its mature operating systems. Dan Frakes's comments were fairly representative: "I give OS X and iOS high marks, with lower marks for bundled and sold software." John Moltz wrote, "Music and watchOS and the new Apple TV each exhibited sometimes confusing or even user-hostile design choices." Josh Centers praised Apple's overall "quite good" software quality, but cited iTunes as "perhaps the single worst piece of popular consumer software on the market" and "a disaster." Adam Engst called iTunes "a shambling mess that should be put out of our misery."
+Serenity Caldwell framed the issue as one of focus. "iOS still feels buggy and unfinished. iPad Pro launched without any key Apple iOS apps. Too many software projects for one year." As James Thomson wrote, "iOS and OS X are improved, but it feels that many other things are barely held together with digital string."
+Other panelists were far less generous. "Software quality has really gone downhill," wrote Khoi Vinh. "Apple's software quality continues to drop," wrote Adam Engst. Rob Griffiths praised iOS but had harsh words for OS X: "Longstanding seemingly 'simple' bugs don't get fixed."
+We' ll leave you with this question from David Sparks: "Doesn't it feel that if hardware,
+
+CONFIDENTIAL
+
+PX-2076.8 APL-APPSTORE 02828108
+
+software, and cloud services were Apple's children, software is clearly the middle child?"
+Developer relations
+Grade: D (average score: 2.2, median score: 2)
+Our panel's message is clear: Apple has a lot of work to do to repair its relationship with third-party software developers. "Apple's heading towards a crisis point," wrote Andy Ihnatko. "In 2014, I said that I'd never seen Apple developers less happy. Things are even worse a year later, with high-profile defections and more developers wondering how they can still make money at this game."
+Our panelists repeatedly cited inconsistent and harmful App Store policies, including lack of developer-requested features like demo versions of apps and paid upgrades. This fall's security certificate failure at the Mac App Store rubbed salt in an old wound, too. "This latest snafu may have been my last straw," wrote Katie Floyd. "I love the App's storeconvenience, but severalyears ago gave up buying more expensive Apps due to the lack of free trials or upgrades. Now I'm seriously questioning whether I want to buy anything from the Mac App Store."
+The developers on our panel specifically cited long delays to process approvals and builds, with iTunes Connect being "the least reliable this year than at any time in the last seven years," according to James Thomson. Rob Griffiths wrote that "App Store reviews are still seemingly random; what passes one time gets called out the next. And we' re still at a week for reviews, which is too long."
+Finally, there's the breach of trust that comes from evangelizing app development for a plafform that just wasn't ready. As John Gruber wrote: "Apple put a lot of effort into encouraging developers to create Apple Watch versions of their iPhone apps, but I'm not sure anyone benefitted from this: Apple, the developers, or the users. Eventually Apple Watch should prove to be a useful plafform for third-party apps, but it wasn't when the Watch shipped, and it didn't improve that much with WatchOS 2."
+Environmental and social issues
+Grade: A (average score: 4.3, median score: 5)
+
+CONFIDENTIAL
+
+PX-2076.9 APL-APPSTORE 02828109
+
+

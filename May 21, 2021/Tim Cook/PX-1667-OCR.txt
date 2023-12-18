@@ -1,0 +1,70 @@
+Subject: Re : Vietnam ABEI License for Fortnite From: "Tim Sweeney"
+Received(Date): Wed, 02 Jan 2019 18:23:21 +0000 To: "Mark Grimm" , "arjan brussee" ,"Ed Zobrist"
+Date: We d, 02 Jan 2019 18:23:21 +0000
+
+PLAINTIFF
+U.S. District Court - NDCAL
+4:20-cv-05640-YGR-TSH
+Epic Games, Inc. v. App/e Inc.
+Ex. No. PX-1667
+Date Entered By
+
+Here is some further context on the Vietnam situation that we'd be dragged into if we obtained an ABEI license and hence had a local presence in Vietnam:
+h s : //www.the rd i a n.com/world/2019/'an/02/vietnam-criticised-for-totalitarian-law-banninonline-criticism-of- overnment
+Tlm
+
+On Dec 23, 2018, at 3:47 PM, Tim Sweeney Hi Mark, Thanks for the update, and happy holidays!
+
+wrote:
+
+Tlm On Dec 20, 2018, at 11:46 PM, Mark Grimm
+
+wrote:
+
+Hi Tim, Thanks for the note. I appreciate the thought Epic puts into doing right by its users - Apple shares that goal. After speaking with our executives, this is our response:
+We will continue to ask ABEI to get in touch with developers to resolve licensing issues. Apple follows the law in all countries that it operates in, and Apple may be required to take appropriate action.
+
+On Dec 11, 2018, at 10:49 AM, Tim Sweeney
+
+wrote:
+
+Dear Mark,
+
+We' ve looked into the requirements for obtaining a Vietnam license for Fortnite under Decree 72 and have decided that we can't ethically comply. Obtaining the license would force Epic to take actions violating the basic human rights of our users, and would impose censorship over Epic's own right to creative expression.
+
+Obtaining a license to operate under Decree 72 requires Epic to either establish a Vietnamese subsidiary or to partner with a local Vietnamese entity. Either approach would make Fortnite practically subject both to the server
+
+CONFIDENTIAL
+
+APL-EG 07903118
+
+localization requirements under Decree 72 and the data localization requirement under the Cybersecurity Law (which comes into force in January). These laws allow the Vietnamese government to compel Epic to maintain data about Vietnamese users, including their communications, physically in Vietnam. Vietnamese authorities have broad investigative and enforcement powers, sufficient to force seizure or censorship of such data or, even more troublingly, to force Epic to collaborate with the Vietnamese government in investigating and acting upon outlawed forms of speech. Like many repressive states, Vietnam defines illegal activities so broadly that almost any opposition to the communist government can be considered illegal. For example, Article 5.1 of Decree 72 bans the following activities, each so vaguely defined as to allow Vietnam to target any dissident:
+· Opposing Socialist Republic of Vietnam; threatening the national security, social order and safety; sabotaging the national fraternity; propagating wars and terrorism; arousing animosity among races and religions;
+· Providing false information, slandering or damaging reputation of organizations or dignity of individuals.
+So, we cannot in good conscience obtain the Vietnam ABEI license as Apple asks.
+At the same time, we believe Fortnite is a positive, important creative and social medium, and we intend to continue making Fortnite available to everyone. As was said in Education Week (h s : //www.edweek.or /ew/articles/2018/08/08/no-fortnite-isnt-rottin -kids-brains-it.htmll:
+Fortnite is, in many respects, a classic "third place" -- a place that is neither home nor school, but where kids can socialize and play beyond the watchful eyes of parents or teachers. These are places where kids learn to negotiate conflict, become independent, and explore what kind of person they want to be. They are important experiences that we too often design out of our kids' lives through structured activities and all of the shuffling back and forth we do in today's busy world.
+We therefore ask Apple for help achieve one of the following outcomes:
+1. Apple continues to host Fortnite in the App Store for users in places like Vietnam. If Apple is willing to continue this, but is not comfortable commercially processing payments there, Epic offers to disable iOS payment support in Vietnam and operate Fortnite as a free service for users there.
+2. Apple removes Fortnite from the App Store in Vietnam, and simultaneously allows Epic to distribute Fortnite directly to customers on iOS using an Epic enterprise signing certificate or similar method allowing users to install Fortnite from Epic's web site.
+There are deep perils in Apple operating the only allowed sofhvare distribution facility on iOS, as it allows repressive regimes to demand developer participation in their surveillance and censorship programs, using Apple as a proxy for enforcement. This peril does not exist on other general computing platforms such as Android, Windows, Mac, and Linux, in which users have the freedom to install soflware directly from sources of their own choosing.
+Best Regards,
+Tim Sweeney
+Founder & CEO, Epic Games
+----------Original Message -- -- ----From: Mark Grimm Date: Wed, Sep 26, 2018 at 9:23 AM
+
+CONFIDENTIAL
+
+APL-EG 07903119
+
+Subject: Vietnam ABEI License for Fortnite To Cc:
+Gentlemen,
+Our legal council reached out to me to warn the following: Last Thursday, the Vietnam Authority of Broadcasting and Electronic Information (ABEI) contacted GA to demand that we take down Fortnite from the Vietnam storefront. The demand is based on Decree 72, which requires developers of multiplayer games to obtain a license from ABEI.
+Can you confirm that you' re working with ABEI to obtain a license?
+-Mark
+
+CONFIDENTIAL
+
+APL-EG 07903120
+
+

@@ -1,0 +1,146 @@
+g
+
+Notes con't: [20] I have not fully documented the details of how each of these platforms structures its commissions or how commissions may have changed over time; additionally, I have not fully documented fees which may vary based on product characteristics, e.g., digital goods and physical goods may be treated differently on some platforms but not others
+
+[21] For instance, some PC platforms can also be accessed from mobile devices like tablets. Likewise, some console platforms can also be accessed from handheld consoles, e.g., the Nintendo Switch can access Nintendo eShop.
+
+Sources: Xbox Live Marketplace [1] yon, Ben, "Games for Window -- LIVE Levels Up PC Garners With New In-Game Display, Marketplace and Upcoming Premium Downloadable Content," Microsoft, November 13, 2008
+
+[2] Kastrenakes, Jacob, "Microsoft rebrands Xbox Live Marketplace as Games Store," The Verge, August 30, 2013. [3] Brown, Matt, "Xbox Store rebranding to 'Microsoft Store' on Xbox One," 8'indows Central, September 28, 2017. [4] Phillips, Tom, "Xbox Live Marketplace retitled as Xbox Games Store," E'urogamer, August 30, 2013.
+[5] Borck, Jonathan, Juliette Caminade, and Markus von Wartburg, "Apple's App Store and Other Digital Marketplaces,"Anaiysis &os , July 2020.
+PlayStation Store
+
+[1] Lempel, Eric, "PlayStation Store: Celebrating a Decade of Downloads," PiayStation, November 08, 2016.
+
+os, [2] Borck et al., "Apple's App Store and Other Digital Marketplaces,"Anaiysis &
+
+July 2020.
+
+Nintendo Wii Shop Channel
+
+[1] "Nintendo Support: Wii Shop Channel Discontinuation," Nintendo .
+
+os, [2] Borck et al., "Apple's App Store and Other Digital Marketplaces,"Anaiysis &
+
+July 2020.
+
+Nintendo eShop
+
+[1] Tsukayama, Hayley, "Nintendo eShop to launch June 6," The P~ashington Post, May 12, 2011.
+
+os, [2] Borck et al., "Apple's App Store and Other Digital Marketplaces,"Anaiysis &
+
+July 2020.
+
+Handango InHand
+
+[1] Segan, Sascha, "The 10 Best Symbian Phones Ever," PCMag, January 24, 2013. [2] Hardy, Ed, "Install Software Directly to a Smart Phone with InHand," Brighthand, February 26, 2004. [3] Gohring, Nancy, "PocketGear Buys Handango," PC World, February 23, 2010.
+
+[4] Shoaib, "Handango, Impart Forum and Mobipocket are no more," Di CJiPASSION, June 12, 2017.
+
+[5] Hardy, Ed, "Handango Releases Industry's First Download Client for BlackBerty," Brighthand, February 18, 2005.
+
+&os, [6] Borck et al., "Apple's App Store and Other Digital Marketplaces,"Anaiysis
+
+July 2020.
+
+GetJar
+
+[1] "About GetJar App Store and App Marketplace," CJetJar .
+
+[2] Wortham, Jenna, "Firms Selling Apps for Simple Phones," The New York Times, January 03, 2010. [3] "How to Install Android App," CJetJar . Apple App Store
+
+[1] Ricker, Thomas, "Jobs: App Store launching with 500 iPhone applications, 25% free," Engadget, July 10, 2008.
+
+os, [2] Borck et al., "Apple's App Store and Other Digital Marketplaces,"Analysis &
+
+July 2020.
+
+Google Play
+
+[1] "Android Market: Now available for users," Android Developers Biog, October 22, 2008.
+
+[2] Murphy, David, "Windows Phone Store Pushes Past 300,000 Apps," PCMag, August 08, 2014.
+
+os, [3] Borck et al., "Apple's App Store and Other Digital Marketplaces,"Anaiysis &
+
+July 2020.
+
+BlackBerry World
+
+[1] Mtes, Gmny, B4C lackBerry App World open for busmess, Macworid, Aprtl 01, 2009.
+
+os, [2] Borck et al., "Apple's App Store and Other Digital Marketplaces,"Anaiysis &
+
+July 2020.
+
+Ovi Store
+
+[1] "Form 6-K," Nokia Corporation, August 01, 2006.
+
+[2] "Nokia Ovi Store Launch Is A Complete Disaster," Tech Crunch, May 26, 2009.
+
+[3] "Opera to give new life to classic Nokia phones," Microsoft Devices Team, January 26, 2015.
+
+[4] "Mobile Application Stores," Mobile Monday jtaly, October 07, 2009.
+
+os, [5] Borck et al., "Apple's App Store and Other Digital Marketplaces,"Analysis &
+
+July 2020.
+
+1Initcd States Aistrxt Coact Nurthertt Dilate,'I. of Csliforrti'y
+Case No. 4;20-ev48640.- YGR
+Case Tlt/eI'pre &maes, A~t.'v.Apeak, fnc.
+Exhibit. No.DX-4859 Date. Entered
+Sman Y, Soong, Cterk
+
+DX-4859.001
+
+, Deputy Clark
+
+I
+
+) I· . I
+
+i
+
+'
+
+ii
+
+Sources con't: HP App Catalog [1] Ganapati, Priya, "Palm Pre App Catalog Makes a Slow Start," IVIRED, June 19, 2009. [2] "webOS Cloud Services to end 3-15-2015," HP Community Forum, October 15, 2014. [3] "Developing and Distributing with HP: Developer Program Details," HP Palm Developer Center, December 01, 2010. [4] "App Catalog," webOS Nation . Galaxy Store
+[1] Ganapati, Priya, "Samsung Joins the App Store Party," IVIRED, August 31, 2009. [2] Kerr, Dara, "Samsung rebrands app store as Galaxy Apps, adds new perks," CNET, July 10, 2014. [3] Pelegrin, Williams, "Galaxy Apps is being renamed to Galaxy Store ahead of S10 unveiling,"Android Authority, February19, 2019. [4] "No more bada and TIZEN in 2012," SamMobi le, February 17, 2013.
+[5] Borck et al., "Appel 's App Store and Other Digital Marketplaces," Analysis &oup, July 2020.
+Windows Phone Marketplace [1] Murphy, David, "Windows Phone Store Pushes Past 300,000 Apps,"PCMag, August 08, 2014. [2] Warren, Tom, "Microsoft rebrands Windows Phone Marketplace to Windows Phone Store," The Verge, August 07, 2012. [3] Ridgeley, Sean, "Windows PC and Windows mobile app stores merge," TwealrTown, November 03, 2020. [4] Warren, Tom, "Windows Store rebranded to Microsoft Store in Windows 10," The Verge, September 22, 2017.
+[5] Borck et al., "Appel 's App Store and Other Digital Market places," Analysis &oup, July 2020.
+Aptoide [1] "Aptoide Review- Everything You Need to Know and Downloading Guide," Smartphonetics . [2] "Distribute apps to over 300M users," Aptoide . [3] "The game-changing alternative Android appstore," Aptoide . Opera Mobile Store [1] "Opera launches the Opera Mobile Store, available in over 200 Countries," Opera, March 08, 2011. [2] "Opera Mobile Store Publisher Portal," Opera . [3] "Bemobi Mobile Store," Opera Mobile Store . Amazon App Store [1] "Introducing the Amazon Appstore for Android," Amazon App~ tore, March 23, 2011. [2] Kastrenakes, Jacob, "BlackBerry will bring thousands of apps from Amazon's store to its phones," The Verge, June 18, 201 [3] APL-APPSTORE 10137343-388. LG SmartWorld [1] "LG Smart World to Open Premium App Service," I G, October 19, 2011.
+[2] Borck et al., "Appel 's App Store and Other Digital Market places," Analysis &oup, July 2020.
+Huawei App Gallery [1] "AppGallery is Huawei's alternative to Google's Play Store on Android," XDA, September 22, 2019.
+[2] Borck et al., "Appel 's App Store and Other Digital Market places," Analysis &oup, July 2020.
+OpenStorefor Ubuntu Touch
+[1] "Ubuntu Touch Release Notes for Saucy Salamander," Ubuntu Vitri, August 07, 2015. [2] Spencer, Rick, "Rick's Ubuntu for Phones FAQ," The Raving Rick, October 17, 2013. [3] "Ubuntu Release Notes - Ubuntu for Phones," Ubuntu Vitri, November 15, 2013. [4] "Frequently Asked Questions," UBports . PureOS Software Center [1] Robertson, Donald, "FSF adds PureOS to list of endorsed GNU/Linux distributions,"Free Software Foundation, December21, 2017. [2] Rankin, Kyle, "Mobile App Stores and the Power of Incentives," Purism, July 09, 2020
+
+DX-4859. 002
+
+e e
+
+Sources con't: Battle.net (Blizzard) [1] Statt, Nick, "Blizzard revives Battle.net and admits it made a mistake with rebranding," The Verge, August 14, 2017. [2] "Welcome to the New Battle.net," Blizzard Entertainment, January 14, 2021. [3] "Downloads," Blizzard Entertainment . RealArcade [1] Richman, Dan, "RealNetworks to buy game developer GameHouse," Seattle Post-Intelligencer, March 15, 2011. [2] "PC Publishing Services with Global Scale," GameHouse . [3] "GameHouse operates two different websites - which one do I play on?," GameHouse . Metaboli/Gamesplanet [1] Loveday, Samantha, "News Analysis: Metaboli Introduces Games on Demand," MCV, August 07, 2005. [2] Leyanna, Jason, "A look at GameTap," Realm of Gaming, July 11, 2008. [3] Ward, David, "Paris firm buys into Game Tap," The Hollywood Reporter, September 24, 2008. [4] "Metaboli/Epic Games deal," GamesIndus try.biz, April 06, 2009. [5]"Who are we -andarewe legal?,"Gamesplanet . [6] "Highlights," Gamesplanet . Big Fish Games [1] "About Big Fish," Big Fish . [2] "Support Resources,"Big Fish . [3] "Games," Big Fish Games . Steam [1] "Store," Steam . [2] "Steam Client Released," Steam, September 12, 2003. [3] Sayer, Matt and Tyler Wilde, "The 15-year evolution of Steam,"PC Gamer, September 12, 2018.
+[4] Borck et al., "Appel 's App Store and Other Digital Market places," Analysis &oup, July 2020.
+Game Jolt [1] "Game Jolt - Home," Game Jolt, January 01, 2004. [2] "Games," Game Jolt .
+[3] Borck et al., "Appel 's App Store and Other Digital Market places," Analysis &oup, July 2020. iPlay [1] "Oberon Media Reborn as Iplay," Business Fire, July 17, 2012.
+[2] "Customer Support," i Pin . [3] "Can I Play These Games On My Mac / Phone / Tablet.?" i Fin Affiliates -- Customer Support . Direct2Drive [1] "PC Games,"Direct2Drive . [2] "IGN Entertainment Launches Direct2Drive Digital Retail Store," IGNEntertainment, September 07, 2004. p)tlilbsert5BitiketiiiliINptirt,"Di rect2Drive . [1] "Windows Marketplace Opens for Business; Consumers Can Easily Discover A World of Products That Work With Windows,"lvficrosoft, October 12, 2004. [2] Warren, Tom, "Microsoft planning 'Windows Store' App Store for Windows 8," Neowin, June 28, 2010. [3] "13 New Features in Windows 8 Consumer Preview," PCMag, February 29, 2012. [4] Warren, Tom, "Windows Store rebranded to Microsoft Store in Windows 10," The Verge, September 22, 2017.
+[5] Borck et al., "Appel 's App Store and Other Digital Market places," Analysis &oup, July 2020. GarnersGate [1] "Games,"Garners Gate .
+[2] "Paradox Interactive Launches Large-Scale International Digital Distribution Service," Paradox Interactive, November 20, 2006.
+[3] Borck et al., "Appel 's App Store and Other Digital Market places," Analysis &oup, July 2020.
+DX-4859. 003
+
+Sources con't: Kongregate [1] "Games," Eongregate . [2] Marshall, Matt, "Kongregrate, the online social game hub," VentureBeat, March 21, 2007. [3] "Platform Overview: Introduction," Eongregate, 2020. GameStop PC Downloads [1] "Video Games," GameStop . [2] Yarlen, "Stardock Launches Impulse: The PC's Next-Generation Distribution Platform," TGNForums, June 17, 2008. [3] Wong, Steven, "Can GameStop save itself from sinking," Gaming Street, August 09, 2019. [4] Humphries, Matthew, "GameStop Will Get a Cut of Digital Revenue From Every Xbox It Sells," PCMag, October 16, 2020. GOG.corn [1] "All games," GOG.corn . [2] Thang, Jimmy, "Download PC Classics with GOG," IGN, June 14, 2012. [3] Borck et al., "Apple's App Store and Other Digital Marketplaces," Analysis Group, July 2020. Ubuntu SoftwareCenter [1] "SoftwareCenter," Ubuntu Pilti, August 29, 2005. [2] "Licensing," Ubuntu . Green Man Gaming [1] "PC Games," Green Man Gaming . [2] "Green Man Gaming finally goes live," MCV, May 10, 2010. [3] "Want to sell or publish your game with Green Man Gaming," Green Man Gaming, June 02, 2015. Beamdog [1] "Store," Beamdog . [2] "Games," Beamdog . [3] "Bioware Veterans launch Beamdog, a new PC digital distribution service," Beamdog, July 2010. [4] "Beamdog Client FAQ," Beamdog . Desura [1] Gibson, Geo ff, "Desura, the Indie Digital Distribution Site, is Now Open," DIE' Gamer, December 18, 2010. [2] "Jazz: Trump's Journey," Delisted Games, April 10, 2020. [3] Stahie, Silviu, "Developers Raise Prices to $1000 on Desura So That People Buy from Someplace Else,"Softpedia News, October 23, 2015. [4] Reinhardt, Jana, "Indie Distribution Platforms that are not Steam," Gama~utra, March 20, 2012. Humble Bundle [1] "Store," Humble Bundle . [2] "What is Humble Bundle," Humble Bundle . [3] O' Brien, Terrence, "Humble Store launches, skips the Bundles and flash sales,"Engadget, November 11, 2013. [4] "Humble Bundle Developer Resources," Humble Bundle . DotEmu [1] "Home," DotEmu . [2] "DotEmu's online store is closing," MCV, March 20, 2017. [3] Chalk, Andy, "DotEmu is closing its online store, games will will be gone on June 1," PC Gamer, March 20, 2017. Mac App Store [1] "Apple's Mac App Store Opens for Business,"Apple, January 6, 2011. [2] APL-APPSTORE 10137264-342. [3] APL-APPSTORE 10137343-388. Playism [1] "Products," Playism . [2] Sahdev, Ishaan, "Playism Will Bring Indie Games To Japan, Doujin Games Overseas,"Siliconera, May 12, 2011. [3] "Publishing," Playism .
+DX-4859. 004
+
+Sources con't: Origin [1] "Download Origin Client for PC or Mac," Origin. [2] "Electronic Arts Launches Origin," Electronic Arts, June 03, 2011. [3] Allison Deposition, at 35:5-7. Ubisoft Connect [1] "PC Games," Ubisoft Store . [2] Cox, Kate, "Ubisoft Launches Their Own PC Gaming Client, and Is Selling Some Games for $1 to Get You To Try It,"Eotalru, August 16, 2012. [3] Giles, Amari, "Ubisoft's Uplay App Is Being Rebranded as Ubisoft Connect," Game Rant, October 21, 2020. [4] Allison Deposition, at 35:5-7. Itch.io [1] "Home," itch.io . [2] Ww, Tim, "QkA: itch.io Interview with Leaf Corcoran," Gamasutra, December 01, 2014. [3] "Accepting Payments and Getting Paid - Open Revenue Sharing,"itch.io . Snap Store [1] Shuttleworth, Mark, "Announcing Ubuntu Core, with snappy transactional updates!" December 09, 2014. [2] "Snap Store," Canonical . [3] "Licensing," Ubuntu . Bethesda.net [1] "Home," Bethesda . [2] Machkovech, Sam, "War changes: Fallout 76 is series' first in a decade to skip Steam,"ars Technica, August 06, 2018.
+Kartridge [1] "Games," Eartridge . [2] "Announcing Kartridge, a New Downloadable Gaming Platform," Eongregate Developers Blog, March 06, 2018. [3] "Royalties Addendum," Eongregate, October 31, 2018. Epic Games Store [1] "Store," Epic Games. [2] "The Epic Games store is nowlive," Epic Games, December 06, 2018.
+[3] Borck et al., "Appel 's App Store and Other Digital Marketplaces," Analysis Group, July 2020.
+Virtual Reality [1] "Windows Mixed Reality games,"Microsoft . [2] "PlayStation VR games," PlayStation . [3] "Virtual Reality on Steam," Steam . Oculus [1] "Quest Store: VR Games, Apps, 2 More," Oculus . [2] Grubb, Jeff, "Oculus shows developers how it's making the app store for VR," VentureBeat, March 21, 2016. [3] Sprigg, Sam, "Samsung announces ending of services for its web, mobile and headsetXR applications," Auganix, May 17, 2020. [4] "Samsung Gear VR: How do I install apps from the store?"Samsung, September 22, 2020. [5] "Manage Your Financial Account," Oculus . VIVE PORT [1] "VIVEPORT Turns 3! A VIVEPORT History," VIVE, September 26, 2019. [2] "What is VIVEPORT's business model," VIVEPORTHelp Center, 2020.
+DX-4859. 005
+
+

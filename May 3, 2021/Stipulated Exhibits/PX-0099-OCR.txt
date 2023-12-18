@@ -1,0 +1,214 @@
+1IB/2021
+
+Apple v. Everybody In 2000, Apple released the App Store... I by Phillip Shoemakeri Medium
+
+Get started Ope n in app
+
+PLAINTIFF
+U.a. DlnuintCourt-NDCAL
+41E2p0artanurn4o5n0,In4o0. r-.YpGapRa -ITnnSH
+o,.n .~ XA099
+
+ay
+Phllllp Shoemaker
+
+You have 1 free member-only story left this month.
+Apple v. Everybody
+Phillip Shoemaker Mar 29,2019 - 9 min read *
+In 2008, Apple released the App Store and allowed developers to start submitting apps. Steve was adamant that we review each and every app, but it was clear from the beginning that we had no idea what we were going to see.
+
+Steve Announcing the App Store
+https:I/medium.corne/ tphtlttpshoeamker/apple-v-everybody-5003030e3be
+
+OExhibit PX 0099
+
+1/8
+
+PX-0099.1
+
+1/8/2021
+
+Apple v. Everybody. In 2008, Apple released the App Store... i by Phillip Shoemaker i Medium
+
+Steve and the rest of us, were worried about the following characteristics of an app: legality, malicious in nature, pornography, user privacy, bandwidth, and the unforeseen.
+
+We had no idea how much we were going to have to look for, nor how successful this was
+
+going to become. We just got to work, based on that above slide.
+
+In-App Purchase
+When In-App Purchase (IAP) came out in early 2009, we started drafting rules around purchasing. It was out of this we decided that all digital goods and services, sold within an app, would have to utilize our IAP system, and therefore give 30% of sales to Apple, as the store owner. After all, Apple had to support the App Store, review, and host the apps. In addition, Apple made it very simple to add purchasing capabilities to your app.
+
+Pretty soon though, we started to hear complaints, especially from a select set of industries covering books, magazines, movies, audio/music and newspapers. These industries have such tight margins that 30% was not possible. Either they had to sell their digital goods elsewhere or they had to mark up their items enough to cover the 30%. Additionally, users could only use content that was purchased on the iOS platform, otherwise the apps were in violation of the IAP rules. This simply made them, and us, look bad. So we started to think about alternatives.
+The Dumb Reader Rule (3.1.3(a))
+
+3.1.3(a) "Reader" Apps: Appsmay allow a user to access previously purchased content or content subscriptions (specifically: magazines, newspapers, books, audio, music, video, accesstoprofessional databases, VoIP,cloud storage, and approved servicessuch as classroom management apps), provided that you agree not to directly or indirectly target iOS users to use a purchasing method other than in-app purchase, and your general communications about other purchasing methods are not designed to discourage use of inapp purchase.
+
+In the guideline above (3.1.3(a)), a Reader app may allow you to access previously purchased content, providing that you do not direct iOS users to use a method of purchase other than IAP. What does this mean? It simply means that if you want to make your content available on iOS, you either have to use IAP or provide no information to your users as to how to purchase content. Additionally, it means you cannot email those customers to let them know how to purchase your content or service.
+
+https://medium.corn/@phillipshoemaker/apple-v-everybody-5903039e3be
+
+2/8
+PX-0099.2
+
+1/8/2021
+
+Apple v. Everybody. In 2008, Apple released the App Store... i by Phillip Shoemaker i Medium
+
+Imagine this: if you want to use the Kindle app, you download it, log in using your Amazon credentials, and then you can only see the content you have previously
+
+purchased. Amazon is not allowed to show you titles to purchase nor any explanation on
+
+how to add a book to your Kindle library.
+
+The No Linking Out Rule (3.U)
+To get better clarity, it is important to note that the very first bullet for the payments section states that apps cannot include buttons, links or any type of call to action that directs customers elsewhere for purchase.
+
+Apps may not usetheir own mechanisms to unlock content or functionality, such as license keys,augmented reality markers, QRcodes, etc. Apps and their metadata may not include buttons, external links, or other calls to action that direct customers to purchasing mechanisms other than in-app purchase.
+Why All the Rules' ?
+Apple believes if they bring you the customer, then they are entitled to their share of the purchase. After all, if a user has never heard of Kindle before, and they find the app through the App Store, then Apple should financially benefit from that introduction.
+
+In order to better understand that, let's look at a brick and mortar relationship with their products. Target, for example, is a standard, old-school brick and mortar shop. You go to find specific products and walk up and down aisles. When you find something that interests you, you don't purchase it through that product. Instead you bring it to the Target checkout clerk, and they will charge you for it. And believe me, Target gets their fair share of the purchase of that item. If Target finds that the product has stickers telling you to purchase this item from Amazon or another location for a lesser amount, Target will remove the item from the shelves, and rightfully so. It is their brand that is bringing in the customers, not the products.
+
+Now that we' re all on the same page regarding In-App Purchase, let's look at a few recent news stories.
+Spotify v. Apple
+In the last few weeks, Spotify has been in the news as they feel bullied by Apple with regards to IAP. The relationship between Spotify and Apple has been rocky ever since
+
+https://medium.corn/@phillipshoemaker/apple-v-everybody-5903039e3be
+
+3/8
+PX-0099.3
+
+1/8/2021
+
+Apple v. Everybody. In 2008, Apple released the App Store... i by Phillip Shoemaker i Medium
+
+Apple introduced Apple Music, a competing music subscription service.
+
+hrrps: wsvw.bloomberg~com opinio articles 201 -03-18 n-spotify-vs-apple-thereare-no-heroes-shira-ovide
+
+Spotify is one of those apps that fall into the Reader category, so their customers have to leave the app in order to subscribe to the service. This is one of the key no-no's in user experience:don't make your user leave your app. After all,once you leave the app, you may never come back. The goal is to have your customers spend more time in your app, not less.
+
+Also, it is very confusing when you download an app like Spotify. When you launch it on iOS, you are only introduced to the free Spotify service, and Spotify isn't allowed to tell you about the paid service. This does Spotify a great disservice, while it benefits Apple greatly.
+
+Spotify could rectify this quickly, by simply re-adding In-App Purchase, either eating the 30%, or by increasing the price of their service. Neither of those choices are interesting to Spotify because they lose money or appear greedy. And remember, in this market, margins are extremely thin (I used to work on Rhapsody).
+
+So now Spotify is not in the best position, as they don't have the ability to present the same user experience that people enjoy on the web. They were unhappy enough to have brought this up with European regulators a few weeks back. They are hoping that someone will force Apple to change their guidelines with regards to competition and InApp Purchase.
+
+But this complaint isn't new.
+Netflix v. Apple
+Netflix has been on the App Store for quite some time. When it first came out, it decided to be a Reader app, as they didn't want to pay the 30% 'Apple tax'. So they made it a dumb reader, and realized that their customers were simply confused as to how to proceed with creating an account and subscribing. Netflix wanted to put information in their marketing text or within the app, but were consistently denied and rejected.
+
+https://medium.corn/@phillipshoemaker/apple-v-everybody-5903039e3be
+
+4/8
+PX-0099.4
+
+t/8/2021
+
+Apple v. Everybody. In 2008, Apple re/eased the App Store .. l by Phillip Shoemaker l Medium
+
+After a while, Netflix decided to make it easier for their customers to sign up on the iOS
+
+platform, and they added support for IAP. While this was a boon for their customers on
+
+iOS, it ate significantly into their margins. After a long run being the Top Grossing app in
+
+the App Store, they decided to step back to a dumb reader, despite Apple backing down
+
+to a 15% fee after the first year.
+
+NeNix stops paying the 'Apple tax' on its $8S3M in annual iOS revenue
+Earlier this year, Netflix was seen testing a bypass of iTunes billing across dozens of markets worldwide. As 2018...
+techcrunch.corn
+
+There are numerous reasons why Netflix decided to pull the plug on IAP, and the 30% was just one of the reasons why they chose to do so. The key reason, I believe, was because Apple was becoming a competitor.
+Competition
+While Apple has been a device maker since the beginning, we have seen them entering into other markets where they see a need and have the ability to make money. This includes the sale of movies, music, books, music subscriptions, cloud and soon to be an original content creator and news agency.
+As you can see, Apple is a competitor to many of the companies represented in the App Store, including Spotify and Netflix. If you were either of those, would you want to continue to fund Apple in order to compete harder against you? I know I wouldn' t.
+Over the years, Apple has struggled with using the App Store as a weapon against competitors. Apps like Google Voice and Rhapsody had very difficult times getting through the App Store process, mainly because they were the first of their kind -- and Apple just didn't know how to respond.
+Apple has just announced a whole set of new services including Apple TV+, Apple News+, Apple Arcade and Apple Card. What is Apple going to do with competitors in this space that already have an app in the store? Will the existing competitors on the App
+
+hhpsy/medium corn//itphiapshoemaker/apple-v-eve/ybodyZ003030e3be
+
+3/8
+PX-0099.5
+
+t/8/2021
+
+Apple v. Everybody. In 2008, Apple released the App Store .. l by Phillip Shoemaker l Medium
+
+Store face even more scrutiny? Will Apple reject a few of the higher profile ones in order
+
+to spread the word?Will Apple allow Google Stadia into their App Store?
+
+Fair Competition
+Given my experience, I completely understand the complaints from companies like Tidal, Spotify and Netflix. For each category of the App Store, I am certain that there are hundreds of these types of Apple competitors in the store, and they are all rightfully worried about fair treatment.
+
+With the new Apple Arcade announcement, it is making available a type of app that Apple has consistently disallowed on the store. But now it is OK for them to make this app available, even though it violates the existing guidelines?
+
+Since the Spotify announcement a few weeks back, the competition on the App Store has been on my mind. On one hand, Apple owns the App Store and should be able to handle the apps on that store however they see fit. On the other hand, there is only one way to install apps onto an iphone, and that's through the App Store. With that kind of power, I think it behooves Apple to start thinking about fair competition, especially in the light of regulator scrutiny:
+
+Elizabeth Warren wants to break up Apple, too Sen. Elizabeth Warren (D-MA) proposed breaking up Amazon, Google, and Facebook yesterday inapostpublished on Medium...
+www theverge.corn
+
+How Mega-Corporations are Crippling Democracy Your latest book, The Curse of Bigness: Antitrust in the New Gilded Age, got a ton of press because it criticized big...
+magazine.columbia.edu
+Why breaking up Amazon, Google, Apple, and Facebook could save capitalism
+hhpsy/medium corn/10/phiapshoemaker/apple-v-evetybodyZ003030ezbe
+
+8/8
+PX-0099.6
+
+tlty2021
+
+Apple v. Everybody. In 2008, Apple released the App Store .. i by Phillip Shoemaker i Medium
+
+If you want to get an idea of how quickly sentiment has shifted against U.S. tech giants, just listen to NYU professor...
+venturebeaf.corn
+
+Solution
+Apple needs to update their guidelines to reflect a change in their enforcement of 3.1.1 and 3.1.3(a), to give their direct competitors the ability to communicate what the user needs to do, and allow a simple external link. That way, the user gets a much better (not perfect) user experience on that app and on the device. This isn't a guideline for general consumption, only for a specific subsection of the 3.1.3(a) carve-outs.
+Some may argue that this is generally difficult to police, and that it is a slippery slope. Slippery slopes and policing is what the App Store review team does, and during my time, they did it better than anyone else in the world.
+Guideline Updates
+I believe that 3.1.3(a) is fine as it is, as long as we update 3.1.1 and add specific carveouts in 3.2.1.
+3.1.3(a) "Reader" Apps:Apps may allow a user to access previously purchased content or content subscriptions (specfiically: magasines, newspapers, books, audio, music, video, access to professional databases, Volp, cloud storage, and approved services such as classroom management apps), provided that you agree not to directly or indirectly target iOS users to use a purchasing method other than in-app purchase, and your general
+communications about other purchasing methods are not designed to discourage use of in-
+app purchase.
+3.1.1 In-App Purchase: If you want to unlockfeatures or functionality within your app, (by way of example: subscriptions, in-game currencies, game levels, access to premium content, or unlocking a full version), you must use in-app purchase. Apps may not use their own mechanisms to unlock content orfunctionality, such as license keys, augmented reality markers, QR codes, etc. Apps and their metadata may not include buttons, external links, or other calls to actionthat directcustomers topurchasing mechanisms other than in-app purchase.
+
+hhps2/medium born/@philltpshoemaker/apple-v-evetybodyZ003030esbe
+
+7IB
+PX-0099.7
+
+1/8/2021
+
+Apple v. Everybody. In 2008, Apple released the App Store... i by Phillip Shoemaker i Medium
+
+3.2 Other Business Model Issues The lists below are not exhaustive, and your submission may trigger a change or update to
+
+our policies, but here are some additional do's and don'ts to keep in mind:
+
+3.2.1 Acceptable
+
+(ix) Apps that directly compete with Apple in low margin areas (specifically: news services, books, movies, music and cloud storage) may provide metadata or App functionality that includes an external link to learn more about purchase mechanisms.
+Apple needs to play fair
+With the App Store being the only way to install apps onto your iPhone and iPad, Apple has complete and unprecedented power over their customer's devices. The decisions they make with regards to third party apps needs to be above reproach, and currently are not.
+With great power comes great responsibility, and Apple needs to own up to their irresponsibilities and fix these significant problems. If they don' t, the regulators just might.
+
+Get the Medium app
+~a· ·
+
+·· · ~
+
+r
+
+About Help Legal
+
+https://medium.corn/@phillipshoemaker/apple-v-everybody-5903039e3be
+
+8/8
+PX-0099.8
+
+

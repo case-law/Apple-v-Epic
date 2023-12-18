@@ -1,0 +1,760 @@
+Subject: App Commerce preso From: "Ron Okamoto"
+Received(Date): Thu, 11 Dec 2008 21:08:40+0000 To: "Scott Forstalln "Greg Joswiakn
+Attachment: App Commerce Models 6.key.zip Date: Th u, 11 Dec 2008 21:08:40+0000
+
+Phil Schiller"
+
+All,
+Attached is a keynote preso outlining the various app commerce models used by MS Xbox, Nintendo, Sony Playstation, etc. We' ve included summaries for other models and developer so we can see the current scope ofwhat's offered.
+Let me know iyfou have any questions.
+Thanks.
+Ron
+
+PLAINTIFF
+U.S. District Court - NDCAL
+4i 20-cv-05640-YGR-TSH
+Epic Games, inc. v. App/e Inc.
+E,.No. PX-0888
+Date Entered By
+
+CONFIDENTIAL
+
+Exhibit PX 888
+PX-0888.1 APL-APPSTORE 10080247
+
+ommerce
+December 10, 2008
+
+Current App Commerce Mo els
+
+S ubscri p t i o n
+· Periodic fee for pre-negotiated content and/or service
+· Developers frequently have their own billing service
+
+Download & Install
+· Content
+purchased, delivered, and installed out of the game context
+· Content ranges from additional object to full expansion packs
+· Most common
+
+In-App
+· Content
+purchased, delivered, and
+installed within the
+game context
+· Commerce solutions are custom built
+· Requires the game be
+architected to
+accommodate
+
+Hybrid
+· Combines retail
+distribution,
+subscription, and in-app commerce
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.3 APL-APPSTORE 10080249
+
+Current Game Commerce Models
+Subscription
+-- Periodic fee paid for pre-negotiated content and/or service -- Developers frequently have their own subscription billing service they'd like to use
+with Apps -- Many developers would be happy to use iTunes for billing
+Download and Install
+- Game content purchased, delivered, and installed out of the game context - All types of content ranging from additional object to full expansion packs - Easy to leverage existing e-commerce infrastructure - Minimally invasive to the design of the game architecture - Most common model for games - Least optimal user experience
+In-game Commerce
+-- Game content purchased, delivered, and installed in the game context -- Commerce solutions are custom-built -- Requires the game be architected to accommodate -- Not very common yet -- Provides superior user experience
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.4 APL-APPSTORE 10080250
+
+~ )1 ~ HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+zna
+PX-0888.5 APL-APPSTORE 10080251
+
+u seri io n
+
+Su scription
+Regularly Updated
+· Business Model
+-- New content added every day, month, season, etc
+-- Users need/want the updated content -- Don't want to pay for old content if they are
+subscribing "mid-year" · Medical Products
+-- Epocrates -- $125 -- 150/year
+-- Skyscape -- $15 -- 200/year -- Lexi-Comp -- $75 -- 300/year · Magazines
+-- ESPN The Magazine -- $26 for26 issues annually
+-- Whitepages people search app -- $25/year
+-- Wine Enthusiast Wine Cuide -- weekly content
+updates -- $40-60/year
+-- Bite Size Candy iMag -- $10/year · Real Estate
+-- MLS Listings for realtors -- $500/year
+· Radio/Creative
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+MMI I
+@~WIIIEEIITHISIIIS.T MAGA7<NF I I
+PX-0888.7 APL-APPSTORE 10080253
+
+Su scription
+Per Usage
+· Business Model
+-- New content added every day, month, season, etc
+-- Users need/want the updated content -- Don't want to pay for old content if they are
+subscribing "mid-year"
+· Services
+-- ATILT Phone Attendant -- Hosted PBX Service$15-30/month
+-- Jott -- everv message needs to be transcribed$20/month
+-- Shazam -- $4 -- 11/month
+-- Fore Flight -- Pilot flight planning -- $90/year
+· Weather Alerts -- The Weather Channel -- $6.99/month -- Weather Bug -- $2.99/month
+-- Fore Flight -- Pilot Weather Data -- $20/month · Educational Learning Tools -- Curriculum
+-- Houghton Mifflin Harcourt -- $12 -- 25 per student/year
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+e WeatherBug'
+PX-0888.8 APL-APPSTORE 10080254
+
+Su scription
+Software as a Service
+· Business Model
+-- Mobile version is just another client -- Updates included in monthly fee -- All users are using the same version of the
+application
+· Sales Force.corn
+-- Customer Relationship Management -- $30150 per user/month
+· Bloomberg Anywhere
+-- Complete Financial analysis and management -- $12,000 -- 15,000 per user/year
+· Pearson
+-- Student Information System -- $100,000 -- $1 million/year depending on district size
+· NetSuite -- Customer Relationship Management, eCommerce, and ERP -- $20 -- 200 per user/ month
+· Existing Deployments
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+o lfCe 1 1
+rci fbi '. · i · '« 1
+
+~~ I WIETSU ITE
+
+lk
+
+gl
+
+I ~·
+
+PX-0888.9 APL-APPSTORE 10080255
+
+OWA OB,
+
+Xbox Live
+
+Download 8 Install
+(Console 5 Web)
+
+Business Model
+-- Microsoft Points -- Works for Xbox Live and Zune -- Can buy on-line w/ a credit card, or at retail with cash -- 88 points for $1 (Amazon)
+Available Content
+-- Premium games from $13 to$20 -- Installable game content from $1 to 18 -- Movies from $3.60 (SD) to $5.50 (HD) -- TV Shows from $1.80
+
+ens
+O ,O
+
+t 1 f a ' v s w .w o w + s4 a
+
+M Aa v r ~ S C r Cc AIM S ~ h
+
+Ce le&e ~
+
+0
+
+·
+
+·
+
+Examples of download and install game content
+- Beautiful Katamari accessory sets from $1.30 - Mass Effect,fullexpansion pack for $3.50 - Forza 2,track pacs for $2.70, car packs from $2.70 - Guitar Hero Tracks from $1 to $2
+
+t· ·
+~ vE
+
+I
+
+Wl
+
+tA~n
+
+microosft'
+polllits
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.11 APL-APPSTORE 10080257
+
+PlayStation Store
+Download 8 Install
+
+Business Model
+-- Can buy on-line w/a credit card, or at retail with cash
+-- Point system in Asia markets use "Network Cards" (similar to iTunes gift cards)
+
+r
+
+i
+
+·
+
+4 ·
+
+Available Content
+-- Downloadable games -- Add-on Content -- Themes -- Music -- Movies
+
+IE
+MIBAN
+
+Examples of download and install content
+- Wipeout HD $14.99 - EA -- Burnout $29.99 (Full Game) - Movies: $9.99-14.99 purchase,
+- $2.99-5.99 rent - Guitar Hero Tracks from $1.99 to
+$2.99
+
+PlÃELIIIPIIIK g
+
+In-game Commerce
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.12 APL-APPSTORE 10080258
+
+Nintendo Wii 5 DSi
+Download 8 Install
+
+Business Model
+-- Nintendo Points for Wii or DSi -- Can buy online with your PC/Mac/Wii or Points
+cards at retail -- Convert points to Wii or DSi -- locks them to that
+platform
+-- US$1 = 100 Wii Points
+Available Content
+-- Games -- Applications (ie. Opera Browser, Virtual Console
+Simulator) -- Downloadable game content
+Examples of download and install game content
+-- Wii Ware games: 500-1500 Wii Points -- Virtual Console games: 500-1000 Wii Points -- Wii Channels: 1-500 Wii Points
+In-game Commerce
+-- Some services for billing are provided to developers -- Refer to In-Game commerce section
+
+2000
+~
+
+II+ Wii Points
+ee INTR NQCI~QIO
+Points
+
+Add WIt Pgints
+· sW ettss etsststsCpessssse Ssssssar Ws sssret ee Nsssesed sssstrrs r 'lssss ter. eset * ~ 's r s tssorsrts t'ss s sdresssestt r Ws Prsnes Cmd tres tsrsrd et sr sr tst tssssret err r s t t e svssstrrd S w r
+
+--~ s
+
+Redeem Wr Pdssst · Cod
+
+Bsstt Wr tsdrsst · rth 4 t s · 'it esed
+
+We Iedssste
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.13 APL-APPSTORE 10080259
+
+Microsoft Software Store
+Download 8 Install
+
+Business Model
+-- Credit Card only (no Microsoft points)
+Available Content
+Browser based implementation. Digital download -- Microsoft products only. CD/DVD versions of software. Categories
+-- Windows, ONce, Entertainment -- Harware, Home+Reference, -- Design+Developer, Business Only 1 3rd party software product: -- EPIC, Gears of War (DVD only)
+Examples of download and install content
+- All versions of Vista (Full 8 Upgrade) - All versions of ONce (Full 8 Upgrade) - Microsoft Flight Simulator - All other game titles DVD only
+In-App Commerce
+-- Not supported by platform -- Left to developer to implement on their own
+
+Store
+
+Windows Vista Business with... Pull Cewnload ~
+$299.95
+
+Windows Vista Ultimate with... Pull download ~
+$319.95
+
+· .
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.14 APL-APPSTORE 10080260
+
+Valve -- Steam
+Download 8 Install
+
+Business Model
+-- PayPal -- Credit Card -- Click and Buy (EU equivalent of PayPal)
+
+Available Content
+
+t.
+
+·
+
+· .
+
+.
+
+·
+
+- Sometimes referred to as "iTunes of Games" - 1000+ game titles (EA, Activision, id, Rockstar, EPIC, PopCap, 2K, Atari, - 13 million registered users worldwide. -- Integrated chat between users. -- Automatic game updates 8 server stored game settings
+
+·
+
+1
+
+Examples of download and install game content
+
+- Grand Theft Auto - Fallout 3 - Call of Duty - Left 4 Dead - Bejeweled Twist - FarCry 2
+
+a)gal
+
+In-game Commerce
+-- Not supported by platform -- Left to developer to implement on their own
+
+Okk@LVffNf SCARC.CXN' AIA Afoul~
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.15 APL-APPSTORE 10080261
+
+ommerce
+
+In-Game Commerce
+Nintendo Wii
+MegaMan 9
+-- Developer implemented in-game store for special game functionality
+What You Can Buy
+- Proto Man Mode: 200 Wii Points - Endless Attack: 300 Wii Points - Hero Mode: 200 Wii Points - Superhero Mode: 100 Wii Points - Special Stage: 100 Wii Points
+In-game Commerce
+-- Leverages billing provided by Nintendo
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.17 APL-APPSTORE 10080263
+
+In-Game Commerce
+Xbox 360 8c PS3
+
+Rock Band 2
+-- Developer implemented in-game music store to buy, download 8 install music tracts
+-- Many singles have already gone "gold" -- Over 6 million songs have already
+been purchased
+What You Can Buy
+-- Price is - $2 for a song -- Song Packs from $5
+In-game Commerce
+-- Leverages billing infrastructure of Xbox Live 8 Sony PS3
+
+0 C.
+h-4. ~g~ h.
+Qe®
+
+·
+
+·
+
+'
+
+·
+
+4 ' ~~ S
+
+eeekeeSEESSS
+
+SDrrTrrrG ALPHASETTc sl' rrrArrrTT
+
+t
+e 0
+
+. I
+
+·
+
+·
+
+lAIr Irrrrr ELrrrIE
+
+THE SENDS
+AITyrrrahtr Er ESH
+
+tS ·
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.18 APL-APPSTORE 10080264
+
+In-Game Commerce
+Nokia N-Gage
+
+Credit Card or Operator Billing
+-- Purchase online directly from N-Gage with your CC -- If your operator billing has been integrated, one-click
+billing directly to your operator bill
+What You Can Buy
+-- Full games (lifetime): US$9.49-13.49 -- 7 Day Pass: US$6.99 -- 1 Day Pass: US$2.99 -- Game Extras in the future (none available at this time)
+In-game Commerce
+-- Supported within the N-Gage platform -- In-game purchase and unlock full versions of games or
+daily/wkly passes
+
+A~~
+
+.oi i ~h a s E.
+
+8~~
+
+( ")FIFAO
+
+arr'raVgg LF
+
+r
+
+i1 g
+
+I
+
+SEA'PEeI'
+
+Hrr me
+
+ct This is afimitett trial, irv rial I IP
+g Purchase Now cmpurrhaserhl. eo~
+
+Splpr t
+
+f xit
+
+· '-SBSc
+Svfertpnrrlrasn Ufttiorr:
+' Full Version from U5ft9,49
+
+7 DavPass l UayPass
+Sr lprt
+
+fr o m U506.99 fr o mUSU8.99
+Bar lc
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.19 APL-APPSTORE 10080265
+
+In-Game Commerce
+Second Life
+Mobile, Mac, PC
+Linden Dollars
+-- Currency of Second Life virtual world -- Exchanged between users for good and
+services or for real-world currency -- Linden Labs offer a brokerage service,
+LindeX, for these transactions -- Approx. US$1 = L$270
+
+What You Can Buy
+-- Physical goods and virtual goods from branded shops (ie. American Apparel, Reebok, 1800Flowers)
+-- Other goods (ie. apparel, avatar hair, vehicles, homes) 8 services (ie. build homes, clothes)
+
+gqIBIW% gag ggiIIIIBI'
+
+Second LifeSanctioned Ecosystem
+-- LindeX to buy/sell L$ -- Enterprises, Education, Government,
+Non-profits -- Second Life Grid
+Second Life Grey Market
+*Second Lif has,$6.1M resident total tq-gate vyi)h a total supply of L$5.3B. As of April 2007, economic average averaged over US $I.@Pf%i $88VDIAA4Q N 9 9 9 i h g k QFL/QQIUQ250 a day. Premium subscription fee is US$6 per month.
+the bi ders dictate exchange rate
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.20 APL-APPSTORE 10080266
+
+In-Game Commerce
+Zynga/Face book
+
+Chips
+-- Purchase online directly from Texas Hold'Em game page on Facebook
+-- Players receive 1K chips a day for free -- US$20 = 100K chips
+What You Can Buy
+-- VIP Table Access: 1M Chips -- Min Buyin to Private Tables: 20-2M Chips (set
+by user) -- Tournament Entrance: Starting is 1K Chips -- Drinks: 18-270 chips -- Game Extras in the future (none available at
+this time)
+In-game Commerce
+-- Chips used to buy play time, entrances to tables and tournaments and "drinks"
+-- No opportunity to "cash out"
+
+.a
+
+acatsootc g fchasHotdtso popor
+
+~C ~K I + I f hp p ' I fspps.lsrooooeconlrloe15 holdohll ndo phpspndtosr I
+
+hook tkv+ c o n n ect on a o c e kmhe shpl, co ol· Trevei po llelorrecww hook wrbmelf c m o o - Inlka n r soope h
+
+U9"""=-" %B>
+
+.+ z'plga
+
+· X~
+
+" ..~BC 0 4 6 s B ~
+
+'' melo I tlkse oooo p o ocl 1Jcco tl'cn each'
+
+151st · crew vr th Thar feselsds · Ied owh tive straps ·I · olid np · Acct and patttc In an ntt-ool span adventarcr
+
+R% Oheers charnel l nv h e lrlrnae O s htrl · a n o h e s Sm okersI anv I Chlnsl C o rn Corns'
+
+!%ULKgilLVQ Ws-0l OBK&tttilfflgd foQAthlYJ
+
+gprn gftffft cfstpp,plgoslp for opr poteqr lhotgehgltct ~pos n
+
+close
+
+etREJ
+
+I ·
+
+ll~
+
+S
+
+.I a.$ f I «,<)f 'pM
+
+II
+
+I@I
+
+BLAJA
+
+I race nrn tenn Ihe lnlne Sovonn Penn rolrna.
+'' " . I l p prp? ' col k h OO. Tc 5 Iohan set or 'S. car snhnsoh casedoo. Cbvren-rncere OOCSWn nvenaemw nenlhe Oeeheh lese co I ol Q sand 1 hnhc
+
+ele I h h h 1
+
+Pace cash
+
+1
+
+'io 1
+
+t the screen Is piano. trr clrclonp or tn 5 hnh lo access Itk game
+
+· lrol neroI
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.21 APL-APPSTORE 10080267
+
+I · · ·
+
+Hybrid Model
+Retail, Subscription 8 Other
+World of Warcraft (PC)
+
+Retail
+-- $50 (Original Game) -- $50 (Burning Crusade Expansion Pack) -- $50 (Wrath of the Litch King Expansion
+Pack)
+Subscription
+-- $15 Monthly in North America and Europe
+-- Billed hourly in China (approx. $0.10/ hour)
+-- 1.5 Billion / Year Revenue
+Sanctioned Ecosystem
+-- eBay-like auction house in game for game items
+-- Items are bought and sold for gold -- Blizzard also allows characters to be
+m oved between serverfsora fee
+"Grey Market" Ecosystem
+-- Gold has "gray market" $ value ($5/100G)
+-- Has spawned a cottage industry in China where la ers can actuall make more
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+chck Aeretobur
+
+I4gHf m~ 4 D I L AIM I · L I V t a tl& A l k4% k lT It'l l Ial'IAIDO ~
+
+W9P HKhalriOICI ~T V %
+
+K~ CON% 14Y 4rl 4N I H AI
+
+PX-0888.23 APL-APPSTORE 10080269
+
+8 V8 0 B l' 8 8 iRC
+
+What Developers are Asking
+
+· Subscription
+The Weather Channel, WeatherBug, Accuweather: Users can subscribe to severe weather notification service.
+Kodansha, Shogakukan, IDW Publishing (comic book publishing): Users can subscribe
+to new issues ofcomic books for a limited number of issues, time or lifetime.
+-- Hearts Publications, Bauer Media Co.: Users can subscribe to new issues of wkly, monthly, bimonthly magazines for a limited number of issues, time or a lifetime.
+
+-- MobiPocket, Stanza: Users can subscribe to frequently changed updates to reference materials on a periodic basis (ie. medical texts, equiment service manuals).
+-- Hands-On Mobile: Users can
+subscribe to frequently updated Billboard Top Charts or astrology updates.
+· In-App Commerce
+EA: Players can purchase additional trivia packs for Trivial Pursuit.
+ngmoco: Players can purchase additional pets, "dog-sitting," accessories for Touch Pets or new cars, car parts, special paint jobs, etc. for Cart Finger.
+Zynga: Players can buy more chips to replenish their pot for longer gameplay (rather than install new apps to replenish) for Live Poker.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.25 APL-APPSTORE 10080271
+
+What Developers are Asking For
+
+EA: Purchase additional trivia packs for Trivial Pursuit.
+ngmoco: Touch Pets (additional pets, "dog-sitting," accessories), Cart Finger (new cars, car parts, special paint jobs, etc.).
+Zynga: Players can buy more chips to replenish their pot for longer gameplay (rather than install new apps to replenish).
+Digital Chocolate: Players can buy more AvaChips to purchase virtual goods (ie. apparel, entrances to events 5 clubs, flirts).
+The Weather Channel: Users can buy severe weather alerts.
+Tom Tom, Garmin: Users can buy traNc data, premium POI data, map updates.
+eReader.corn: Users can download one free eReader app, buy many books as they wish from their catalog.
+Marvel: Users can download new editions of comic books.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.26 APL-APPSTORE 10080272
+
+1. Download and install is the widely
+supported model by major consoles.
+2. In-game commerce is just coming to fruition without a clear leader to benchmark against.
+3. Developers believe Apple could vault into a leadership position, and turn iPhone/ iPod touch.
+PX-0888.27 APL-APPSTORE 10080273
+
+Interested Developers
+
+Gaminca
+EA
+Sega
+NAMCO
+Konami Harmonics
+Cameloft
+THQ RealNetworks
+Zynga Digital Chocolate Clu Mobile
+Hands-On Mobile i-Play
+Tapulous
+
+~Ni t i
+Carmin Tele Nav TomTom Dash Xroad Way Finder Ulocate Churchill Navigation
+eReaders eReader Mobipocket Fictionwise
+
+Weather The Weather Channel
+WeatherBug
+My Weather Accuweather
+
+Books Lifest le Kodansha (Voyager)
+Shogakukan (Celsys) Shueisha (Sharp) Marvel Aarden Entertainment
+Antarctic Press
+Ape Entertainment
+BlueWater Productions
+Moonstone Books IDW Publishing Image Comics Creators
+Jim Valentino Mark Andrew Smith Alex Cracian Kid Kong Comics
+Frazetta Comics Steve Rude Comics Creat Big Comics
+Red 5 Comics Hearts Publications Time Inc.
+Sanoma Magazine B.V. Axel Springer AC Bauer Media Co.
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.28 APL-APPSTORE 10080274
+
+What Developers Want
+
+APls
+Scalable Micro (cents) to Macro (dollars) pricepoints Billing Subscription services DRM for items and privileges Secure Cash out? Enable fine grain control of quantity and frequency of transactions Sufficiently abstract to enable various Ul:
+-- HUD Text -- Widget-based GUI's -- Character dialogue based sales -- etc.
+
+I
+C ommerce APls ~ ~
+I
+
+·
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.29 APL-APPSTORE 10080275
+
+Developers' Requests for Commerce
+Subscription
+-- Periodic fee paid for content and/or service -- Mainly driven by content licensing with 3rd party on a per user, per month basis -- Content such as severe weather notification, magazines, comic books, Billboard top
+charts, safety camera locations, traffic info, etc.
+Micro-transactions
+- Small one-time fee to enhance already installed application - Content such as additional game levels, expansion packs, virtual goods, maps, POIs - Delivery mechanism:
+- Download and install - In-app delivery
+Bundling
+-- Tie two or more SKUs either within App Store or SKUs across iTunes stores for a lower bundled price
+-- SKUs can be two games titles or a game and a movie
+Gifting
+-- Gift code for a specific SKU within App Store -- Ability to use codes for promotions and for reviewers
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.30 APL-APPSTORE 10080276
+
+Comics, Magazines, Periodicals and
+
+Reference
+
+Comic Books
+
+Subscription
+
+Dozens ofComic Book publishers have reached out to Apple
+Each comic book hasdozens/hundreds of issues Publishers would like to provide free or paid with subscriptions
+-- A limited number of new issues (e.g. next 12 issues)
+-- Al limited period of time (e.g. next 12 months) -- A lifetime (every new issue ever produced) Comics for sale with all produced issues
+
+Magazines
+-- 100's of magazines publishers worldwide have content for iPhone and iPod touch
+-- Would like to support monthly, bi-monthly, and weekly basis
+-- Would like to support limits on subscription service (1 year, 6 months, etc)
+
+Periodicals and Reference Materials
+-- Dozens of devs, pubs, and institutions create single apps with 100's of referenced resourced
+-- Users choose, pay for, and unlock the content they want (micro-transaction)
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0888.31 APL-APPSTORE 10080277
+
+AvaPeeps: Flirt Nation
+In-game Commerce
+
+Mac & PC
+-- "AvaChips" are used to ask for dates -- Players get a set amount daly for free -- To playmore in a given day you need to
+buy more chips
+Uses of AvaChips
+-- Ask for dates (chat) -- Buy flirts -- Virtual goods (clothes, bling) -- Entrance to virtual events
+
+Lect IlheercI. eben
+51 gLrjs end 52 IIrle wereNiiere,
+
+bsark ~
+
+Club eit~
+
+5@,"
+
+8~
+
+(:
+
+CIQQ
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+'(<0< + m e
+
+C
+
+CIQG
+
+PX-0888.32 APL-APPSTORE 10080278
+
+

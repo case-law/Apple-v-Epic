@@ -1,0 +1,118 @@
+Subject: Re : App Review at Epic Meeting Wednesday (11/7) From: "Bryan Johnsn
+Received(Date): Tue, 06 Nov 2018 19:47:00 40000 To: "Mark Grimm" Cc: "Paul Ramsbottomn
+Date: Tu e , 06 Nov 2018 19:47:00+0000
+
+PLAINTIFF
+U.B. Dislcct Centi - NDCAL
+4:2lhev45540-YGR-TSH
+Eps Dsntee.inc.p.Able inc.
+gtt.ND. PX%446
+Date Snlsted By
+
+I'm in the same three-day meeting with Trystan, snd have had no luck getting him to budge on this.
+I get your point about not wanting iOS to be the bottleneck for x-plat devs, but the reality of the situation is we sometimes are that bottleueck, and given the exchange with Trystan (and others on this topic) there really isn 't anything we can do to change that.
+
+What you should do (and this is brain-dead guidance) is have Epic let you know when they 're submitting an update, and immediately alert the same core folks in App Review we 'd normally contact for escalation. Epic isn 't getting an App Review person assigned to them, but they do haveyou,andyou have ameasure ofinfluence.
+Bryan
+
+Sent Irom my iPhone Xs Max
+
+Bryan Johns
+
+Sr. Manager, Worldwide Developer Relations
+
+Appt I . ~
+
+inn
+
+On Nov 6, 2018, at 10:06 AM, Mark Grimm
+
+wrote:
+
+Just Bryan/Paul.
+
+Sheen asked that I make sure future Fortnite escalations like last week don 't happen again. I 'm doing everything I can, but I 've literally gained no new knowledge and/or direction I'rom App Review in this thread.
+I' ll continue to teII Epic to build more burr into their schedule, but right now we are the slowest and most variable platform - so these escalations will continue to happen as updates come out and iOS is last to be approved. I just want to set expectations within our team. I have no problem taking Mark Rein 's angry phone calls, but something has to give. This is the first of mauy crossplatfonn games trying to launch simultaneously across platforms. We don 't really want iOS to be the bottleneck for cross-platform developers.
+MarkGrimm i Partnership Manager, Games i
+Exhibit
+PX 446
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-0446.1 APL-EG 04963937
+
+On Nov 6, 2018, at 10:01 AM, Trystan Kosmynka
+
+wrote:
+
+I believe they only once and it was escalated in less than 24 hours after submission. They
+should know that 90% of apps get reviewed with 48 hours. We do not assign a specialist to a single app/company. As always we appreciate the feedback so if they have specifics they share I'm happy to hear them.
+
+On Nov 6, 2018, at 9:51 AM, Mark Grimm
+
+wrote:
+
+Understood, I 'll handle the meeting. In an effort to help them out and avoid future escalations (my directive &om Shaan), is there anything they can do to help? For example, should I coach them to submit at exactly the same time each week? Is there any precedent for the same App Reviewer being assigned to future updates (I suspect not, but need to do my due diligence on their behalf)? Thanks for the dialog.
+
+Mark Grimm ~ Partnership Manager, Games )
+
+Ic:
+
+On Nov 6, 2018, at 9:47 AM, Trystan Kosmynka
+
+wrote:
+
+I don't think it makes sense for App Review to participate in this one. This shouldn 't turn into a negotiation about review times and policy.
+
+On Nov 6, 2018, at 9:29 AM, Mark Grimm
+
+wrote:
+
+Thanks, great info. I 'm always happy to be the buffer between the developer and App Review,
+
+but in this case (such a high profile developer with &equent escalations), do you agree that it
+
+would be valuable to have someone meet them in person?
+
+Mark Grimm ~ Partnership Manager, Games
+
+On Nov 5, 2018, at 3:49 PM, Stoney Gamble
+
+wrote:
+
+History for 8/l-present.
+
+(Screen Shot 2018-11-05 at 15.47.09.png)
+
+On Nov 5, 2018, at 14:49, Trystan Kosmynka
+
+wrote:
+
+Stoney, can we take a look at historical review times for Fortnite.
+
+On Nov 5, 2018, at 2:14 PM, Mark Grimm
+
+wrote:
+
+Hi Trystan and Stoney,
+
+Epic will be here at Apple Park on Wednesday &om 2-3:30pm. As you 're aware, they
+
+develop Fortnite, the biggest game on our store. With their &equent submissions and unique
+
+circumstances (i.e. cross-platform simultaneous releases), we 've had a few fire drills lately. I
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0446.2 APL-EG 04963938
+
+think it would be beneficial for someone &om the App Review team to meet with Epic in person.Their head of marketing, Mare Hutcheson and platform partnermanager, Brad Cummings will be in attendance. They 've made several requests of us lately, almost all in the service of more predictable timelines after submission. Trystan, you probably remember this conversation that started with Tim Sweeney 's visit last year.
+To be clear, I know we don 't provide an SLA - we 've made that very clear to Epic. I also know there will always be some level of variability in review times and propagation to our various stores. With that in mind, I 'd like you to hear Epic 's concerns and offer any potential solutions or mitigations you can think of. Also, if you have anything Epic could provide to make reviews more predictable (e.g. always submit on Tuesday at 8am), then please share that with them.
+In the last few weeks, we 've had several executive escalations because Fortnite 's iOS version was about to fall out of sync with their other platforms (and therefore hurt iOS players). It's in all of our best interest to figure out a sustainable solution going forward. Thank you both for your time. Please let me know if anyone can participate in Wednesday 's meeting.
+Mark Grimm ~ Partnership Manager, Games
+
+HIGHLY CONFIDENTIAL -ATTORNEYS' EYES ONLY
+
+PX-0446.3 APL-EG 04963939
+
+

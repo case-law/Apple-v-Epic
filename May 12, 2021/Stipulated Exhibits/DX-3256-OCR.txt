@@ -1,0 +1,1081 @@
+By clicking to agree to this Schedule 2, which is hereby offered to You by Apple, You agree with Apple to amend that certain Apple Developer Program License Agreement currently in effect between You and Apple (the "Agreement" ) to add this Schedule 2 thereto (supplanting any existing Schedule 2). Except as otherwise provided herein, all capitalized terms shall have the meanings set forth in the Agreement.
+Schedule 2
+
+1. Appo i ntment of Agent and Commissionaire
+1.1 Y o uhereby appoint Apple and Apple Subsidiaries (collectively "Apple" ) as: (i) Your agent for the marketing and delivery of the Licensed Applications to End-Users located in those countries listed on Exhibit A, Section 1 to this Schedule 2, subject to change; and (ii) Your commissionaire for the marketing and delivery of the Licensed Applications to End-Users located in those countries listed on Exhibit A, Section 2 to this Schedule 2, subject to change, during the Delivery Period. The most current list of App Store countries among which You may select shall be set forth in the App Store Connect tool and may be updated by Apple from time to time. You hereby acknowledge that Apple will market and make the Licensed Applications available for download by End-Users through one or more App Stores, for You and on Your behalf. For purposes of this Schedule 2, the following definitions apply:
+(a) "You" shall include App Store Connect users authorized by You to submit Licensed Applications and associated metadata on Your behalf; and
+(b) "End-User" includes individual purchasers as well as eligible users associated with their account via Family Sharing. For institutional customers, "End-User" shall mean the individual authorized to use the Licensed Application by the institutional purchaser, the institutional administrator responsible for management of installations on shared devices, as well as authorized institutional purchasers themselves, including educational institutions approved by Apple, which may acquire the Licensed Applications for use by their employees, agents, and affiliates.
+(c) For the purposes of this Schedule 2, the term "Licensed Application" shall include any content, functionality, extensions, stickers, or services offered in the software application.
+1.2 I nf u rtherance of Apple's appointment under Section 1.1 of this Schedule 2, You hereby authorize and instruct Apple to:
+(a) market, solicit, and obtain orders on Your behalf for Licensed Applications from End-Users located in the countries identified by You in the App Store Connect tool;
+(b) provide hosting services to You subject to the terms of the Agreement, in order to allow for the storage of, and End-User access to, the Licensed Applications and to enable third party hosting of such Licensed Applications solely as otherwise licensed or authorized by Apple;
+(c) make copies of, format, and otherwise prepare Licensed Applications for acquisition and download by EndUsers, including adding the Security Solution and other optimizations identified in the Agreement;
+(d) allow or, in the case of cross-border assignments of Volume Content purchases, arrange for End-Users to access and re-access copies of the Licensed Applications, so that End-Users may acquire and electronically download those Licensed Applications developed by You, Licensed Application Information, and associated metadata through one or more App Stores, and You hereby authorize distribution of Your Licensed Applications under this Schedule 2 for use by multiple End-Users when the Licensed Application is purchased by an individual account associated with other family members via Family Sharing, including at Your election as indicated in the App Store Connect tool, purchases made prior to the execution of this Schedule 2, as well as a single institutional customer via the Volume Content Service for use by its End-Users and/or for installation on devices with no associated iTunes Account that are owned or controlled by that institutional customer in accordance with the Volume Content Terms, conditions, and program requirements;
+(e) issue invoices for the purchase price payable by End-Users for the Licensed Applications;
+(f) use (i) screen shots, previews, and/or up to 30 second excerpts of the Licensed Applications; (ii) trademarks
+
+DX-3256. 001
+
+v116 11 September 2020
+
+United States District Court Northern District of California
+
+Case No. 4:20-cv-05640- YGR
+
+Case Tttle EprcGames, Irrc.v.App/r.; Ine.
+
+Exhibit No. DX-3256
+
+Date Entered
+By:
+
+Susan Y. Sooner,,Clerk Deputy Clerk
+
+APL-APPSTORE 10137343
+
+and logos associated with the Licensed Applications; and (iii) Licensed Application Information, for promotional purposes in marketing materials and gift cards and in connection with vehicle displays, excluding those portions of the Licensed Applications, trademarks or logos, or Licensed Application Information which You do not have the right to use for promotional purposes, and which You identify in writing at the time that the Licensed Applications are delivered by You to Apple under Section 2.1 of this Schedule 2, and use images and other materials that You may provide to Apple, at Apple's reasonable request, for promotional purposes in marketing materials and gift cards and in connection with vehicle displays;
+(g) otherwise use Licensed Applications, Licensed Application Information and associated metadata as may be reasonably necessary in the marketing and delivery of the Licensed Applications in accordance with this Schedule 2. You agree that no royalty or other compensation is payable for the rights described above in Section 1.2 of this Schedule 2; and
+(h) facilitate distribution of pre-release versions of Your Licensed Applications (" Beta Testing" ) to End-Users designated by You in accordance with the Agreement, availability, and other program requirements as updated from time to time in the App Store Connect tool. For the purposes of such Beta Testing, You hereby waive any right to collect any purchase price, proceeds or other remuneration for the distribution and download of such pre-release versions of Your Application. You further agree that You shall remain responsible for the payment of any royalties or other payments to third parties relating to the distribution and use of Your pre-release Licensed Applications, as well as compliance with any and all laws for territories in which such Beta Testing takes place. For the sake of clarity, no commission shall be owed to Apple with respect to such distribution.
+1.3 T h eparties acknowledge and agree that their relationship under this Schedule 2 is, and shall be, that of principal and agent, or principal and commissionaire, as the case may be, as described in Exhibit A, Section 1 and Exhibit A, Section 2, respectively, and that You, as principal, are, and shall be, solely responsible for any and all claims and liabilities involving or relating to, the Licensed Applications, as provided in this Schedule 2. The parties acknowledge and agree that Your appointment of Apple as Your agent or commissionaire, as the case may be, under this Schedule 2 is non-exclusive. You hereby represent and warrant that You own or control the necessary rights in order to appoint Apple and Apple Subsidiaries as Your worldwide agent and/or commissionaire for the delivery of Your Licensed Applications, and that the fulfillment of such appointment by Apple and Apple Subsidiaries shall not violate or infringe the rights of any third party.
+1.4 F o rp urposes of this Schedule 2, the "Delivery Period" shall mean the period beginning on the Effective Date of the Agreement, and expiring on the last day of the Agreement or any renewal thereof; provided, however, that Apple's appointment as Your agent and commissionaire shall survive expiration of the Agreement for a reasonable phase-out period not to exceed thirty (30) days and further provided that, solely with respect to Your End-Users, subsections 1.2(b), (c), and (d) of this Schedule 2 shall survive termination or expiration of the Agreement unless You indicate otherwise pursuant to sections 5.1 and 7.2 of this Schedule 2.
+2. De li v ery of the Licensed Applications to Apple
+2.1 Y o uw ill deliver to Apple, at Your sole expense, using the App Store Connect tool or other mechanism provided by Apple, the Licensed Applications, Licensed Application Information and associated metadata, in a format and manner prescribed by Apple, as required for the delivery of the Licensed Applications to End-Users in accordance with this Schedule 2. Metadata You deliver to Apple under this Schedule 2 will include: (i) the title and version number of each of the Licensed Applications; (ii) the countries You designate, in which You wish Apple to allow End-Users to download those Licensed Applications; (iii) any copyright or other intellectual property rights notices; (iv) Your privacy policy; (v) Your End-User license agreement ("EULA"), if any, in accordance with Section 4.2 of this Schedule 2; and (vi) any additional metadata set forth in the Documentation and/or the App Store Connect Tool as may be updated from time to time, including metadata designed to enhance search and discovery of content on Apple-branded hardware.
+2.2 A l lL icensed Applications will be delivered by You to Apple using software tools, a secure FTP site address and/or such other delivery methods as prescribed by Apple.
+2.3 Y o uh ereby certify that all of the Licensed Applications You deliver to Apple under this Schedule 2 are authorized for export from the United States to each of the countries listed on Exhibit A hereto, in accordance with the requirements of all applicable laws, including but not limited to the United States Export Administration Regulations, 15 C.F.R. Parts 730-774 and the international Traffic ln Arms Regulations 22 C.F.R. Parts 120130. Without limiting the generality of this Section 2.3, You certify that (i) none of the Licensed Applications contains, uses or supports any data encryption or cryptographic functions; or (ii) in the event that any Licensed
+v116 11 September 2020
+
+DX-3256. 002
+
+APL-APPSTORE 10137344
+
+Application contains, uses or supports any such data encryption or cryptographic functionality, You certify that You have complied with the United States Export Administration Regulations, and are in possession of, and will upon request provide Apple with, a PDF copy of Your Encryption Registration Number (ERN), or export classification ruling (CCATS) issued by the United States Commerce Department, Bureau of Industry and Security and PDF copies of appropriate authorizations from other countries that mandate import authorizations for that Licensed Application, as required. You acknowledge that Apple is relying upon Your certification in this Section 2.3 in allowing End-Users to access and download the Licensed Applications under this Schedule 2. Except as provided in this Section 2.3, Apple will be responsible for compliance with the requirements of the Export Administration Regulations in allowing End-Users to access and download the Licensed Applications under this Schedule 2.
+2.4 Y o us hall be responsible for determining and implementing any age ratings or parental advisory warnings required by the applicable government regulations, ratings board(s), service(s), or other organizations (each a "Ratings Board" ) for any video, television, gaming or other content offered in Your Licensed Application for each locality in the Territory. Where applicable, You shall also be responsible for providing any content restriction tools or age verification functionality before enabling end-users to access mature or otherwise regulated content within Your Licensed Application.
+3. De li v ery of the Licensed Applications to End-Users
+3.1 Y o ua cknowledge and agree that Apple, in the course of acting as agent and/or commissionaire for You, is hosting, or pursuant to Section 1.2(b) of this Schedule 2 may enable authorized third parties to host, the Licensed Applications, and is allowing the download of those Licensed Applications by End-Users, on Your behalf. However, You are responsible for hosting and delivering content or services sold by You using the InApp Purchase API, except for content that is included within the Licensed Application itself (i.e., the In-App Purchase simply unlocks the content) or content hosted by Apple pursuant to section 3.3 of Attachment 2 to the Agreement. All of the Licensed Applications shall be marketed by Apple, on Your behalf, to End-Users at prices identified in a price tier and designated by You, in Your sole discretion, from the pricing schedule attached to this Schedule 2 as Exhibit C, which may be updated from time to time by Apple on App Store Connect. In addition, You may, at Your election via App Store Connect, instruct Apple to market the Licensed Applications at a discount of 50% of Your established price tier for authorized institutional customers. You may change the price tier for any Licensed Application at any time, at Your discretion, in accordance with the pricing schedule set forth on that Exhibit C as updated from time to time, using tools provided on the App Store Connect tool. As Your agent and/or commissionaire, Apple shall be solely responsible for the collection of all prices payable by End-Users for Licensed Applications acquired by those End-Users under this Schedule 2.
+3.2 I nt he event that the sale or delivery of any of the Licensed Applications to any End-User is subject to any sales, use, goods and services, value added, or other similar tax or levy, under applicable law, responsibility for the collection and remittance of that tax for sales of the Licensed Applications to End-Users will be determined in accordance with Exhibit B to this Schedule 2 as updated from time to time via the App Store Connect site. For the sake of clarity, Apple shall not be responsible for the collection and remittance of telecommunications and similar taxes. You shall indemnify and hold Apple harmless against any and all claims by any tax authority for any underpayment of any sales, use, goods and services, value added or other tax or levy, and any penalties and/or interest thereon.
+3.3 I nf u rtherance of the parties' respective tax compliance obligations, Apple requires that You comply with the requirements listed on Exhibit D to this Schedule 2 or on App Store Connect depending upon, among other things, (i) Your country of residence and (ii) the countries designated by You in which You wish Apple to allow access to the Licensed Applications. In the event that Apple collects any amounts corresponding to the purchase price for any of Your Licensed Applications before You have provided Apple with any tax documentation required under Exhibit D to this Schedule 2, Apple will not remit those amounts to You, but will hold those amounts in trust for You, until such time as You have provided Apple with the required tax documentation. Upon receipt of all required tax documents from You, Apple will remit to You any amounts held in trust by Apple for You, without interest, under this Section 3.3, in accordance with the provisions of this Schedule 2.
+3.4 Ap p l e shall be entitled to the following commissions in consideration for its services as Your agent and/or commissionaire under this Schedule 2:
+(a) For sales of Licensed Applications to End-Users located in those countries listed in Exhibit B, Section 1 of this Schedule 2 as updated from time to time via the App Store Connect site, Apple shall be entitled to a
+v116 11 September 2020
+
+DX-3256. 003
+
+APL-APPSTORE 10137345
+
+commission equal to thirty percent (30%) of all prices payable by each End-User. Solely for auto-renewing subscription purchases made by customers who have accrued greater than one year of paid subscription service within a Subscription Group (as defined below) and notwithstanding any Retention Grace Periods, Apple shall be entitled to a commission equal to fifteen percent (15%) of all prices payable by each End-User for each subsequent renewal. Retention Grace Period refers to the time period between the end of a customer's subscription (e.g. due to cancelation or non-payment) and the beginning of a new subscription within the same Subscription Group, provided that such time period is no greater than 60 days, subject to change. For purposes of determining the commissions to which Apple is entitled under this Section 3.4(a), the prices payable by End-Users shall be net of any and all taxes collected, as provided in Section 3.2 of this Schedule 2.
+(b) For sales of Licensed Applications to End-Users located in those countries listed in Exhibit B, Section 2 of this Schedule 2 as updated from time to time via the App Store Connect site, Apple shall be entitled to a commission equal to thirty percent (30%) of all prices payable by each End-User. Solely for auto-renewing subscription purchases made by customers who have accrued greater than one year of paid subscription service within a Subscription Group (as defined below) and notwithstanding any Retention Grace Periods, Apple shall be entitled to a commission equal to fifteen percent (15%) of all prices payable by each End-User for each subsequent renewal.
+Except as otherwise provided in Section 3.2 of this Schedule 2, Apple shall be entitled to the commissions specified in Sections 3.4(a) and 3.4(b) hereof without reduction for any taxes or other government levies, including any and all taxes or other, similar obligations of You, Apple or any End-User relating to the delivery or use of the Licensed Applications. For sales of Licensed Applications developed by Apple, Apple is not entitled to a commission.
+3.5 Up o n collection of any amounts from any End-User as the price for any Licensed Application delivered to that End-User hereunder, Apple shall deduct the full amount of its commission with respect to that Licensed Application, and any taxes collected by Apple under Section 3.2 and 3.4 hereof, and shall remit to You, or issue a credit in Your favor, as the case may be, the remainder of those prices in accordance with Apple standard business practices, including the following: remittance payments (i) are made by means of wire transfer only; (ii) are subject to minimum monthly remittance amount thresholds; (iii) require You to provide certain remittance-related information on the App Store Connect site; and (iv) subject to the foregoing requirements, will be made no later than forty-five (45) days following the close of the monthly period in which the corresponding amount was received by Apple from the End-User. No later than forty- five (45) days following the end of each monthly period, Apple will make available to You on the App Store Connect site a sales report in sufficient detail to permit You to identify the Licensed Applications sold in that monthly period and the total amount to be remitted to You by Apple. You hereby acknowledge and agree that Apple shall be entitled to a commission, in accordance with this Section 3.5 on the delivery of any Licensed Application to any End-User, even if Apple is unable to collect the price for that Licensed Application from that End-User. In the event that the purchase price received by Apple from any End-User for any Licensed Application is in a currency other than the remittance currency agreed between Apple and You, the purchase price for that Licensed Application shall be converted to the remittance currency, and the amount to be remitted by Apple to You shall be determined, in accordance with an exchange rate fixed for the Delivery Period, as reflected in Exhibit C attached hereto as updated from time to time pursuant to section 3.1 of this Schedule 2. Apple may provide a means on App Store Connect to enable You to designate a primary currency for the bank account designated by You for receiving remittances (" Designated Currency" ). Apple may cause Apple's bank to convert all remittances in any remittance currency other than the Designated Currency into the Designated Currency prior to remittance to You. You agree that any resulting currency exchange differentials or fees charged by Apple's bank may be deducted from such remittances. You remain responsible for any fees (e.g., wire transfer fees) charged by Yourbank or any intermediary banks between Your bank and Apple's bank.
+3.6 I nt he event that any price payable by any End-User for any of the Licensed Applications is subject to (i) any withholding or similar tax; or (ii) any sales, use, goods and services, value added, or other tax or levy not collected by Apple under Section 3.2 hereof; or (iii) any other tax or other government levy of whatever nature, the full amount of that tax or levy shall be solely for Your account, and shall not reduce the commission to which Apple is entitled under this Schedule 2.
+3.7 I nt he event that any remittance made by Apple to You is subject to any withholding or similar tax, the full amount of that withholding or similar tax shall be solely for Your account, and will not reduce the commission to which Apple is entitled on that transaction. If Apple reasonably believes that such tax is due, Apple will deduct the full amount of such withholding or similar tax from the gross amount owed to You, and will pay the full
+v116 11 September 2020
+
+DX-3256. 004
+
+APL-APPSTORE 10137346
+
+amount withheld over to the competent tax authorities. Apple will apply a reduced rate of withholding tax, if any,
+provided for in any applicable income tax treaty only if You furnish Apple with such documentation required under that income tax treaty or otherwise satisfactory to Apple, sufficient to establish Your entitlement to the benefit of that reduced rate of withholding tax. Upon Your timely request to Apple in writing, using means
+reasonably designated by Apple, Apple will use commercially practical efforts to report to You the amount of Apple's payment of withholding or similar taxes to the competent tax authorities on Your behalf. You will
+indemnify and hold Apple harmless against any and all claims by any competent tax authority for any underpayment of any such withholding or similar taxes, and any penalties and/or interest thereon, including, but
+not limited to, underpayments attributable to any erroneous claim or representation by You as to Your entitlement to, or Your disqualification for, the benefit of a reduced rate of withholding tax.
+
+3.8 Y o umay offer auto-renewing subscriptions in select Territories using the ln-App Purchase API subject to the terms of this Schedule 2, provided that:
+
+(a) Auto-renew functionality must be on a weekly, monthly, bi-monthly, tri-monthly, semi-annual or annual basis at prices You select in the App Store Connect tool. You may offer multiple durations and service levels for Your subscription and will have the ability to associate and rank these subscription items within Subscription Groups, to enable customers to easily upgrade, downgrade, and crossgrade amongst the Subscription Group options. You understand and agree that when a subscriber upgrades or crossgrades (except for crossgrades of different durations), such service level will begin immediately and Your proceeds will be adjusted accordingly, and when a subscriber downgrades, the new service will begin at the end of the current subscription period.
+(b) You clearly and conspicuously disclose to users the following information regarding Your auto-renewing subscription:
+� Title of auto-renewing subscription, which may be the same as the in-app product name � Length of subscription � Price of subscription, and price per unit if appropriate
+
+Links to Your Privacy Policy and Terms of Use must be accessible within Your Licensed Application.
+
+(c)
+
+You must fulfill the offer during the entire subscription period, as marketed, including any Billing Grace
+
+Period You authorize, and, in the event You breach this section 3.8(c) of Schedule 2, You hereby authorize and
+
+instruct Apple to refund to the End-User the full amount, or any portion thereof in Apple's sole discretion, of the
+
+price paid by the End-User for that subscription. Billing Grace Period refers to the period during which
+
+Developers agree to provide paid service for free to users who do not recover from a billing error. In the event
+
+that Apple refunds any such price to an End-User, You shall reimburse, or grant Apple a credit for, an amount
+
+equal to the price for that subscription. Apple will have the right to retain its commission on the sale of that
+
+subscription, notwithstanding the refund of the price to the End-User. You acknowledge that Apple may
+
+exercise its rights under section 7.3 of this Schedule 2 for repeated violations of this provision.
+
+3.9 Wh e n You make price changes to an existing subscription item, You may elect to retain current pricing for Your existing customers by indicating Your intent in the App Store Connect tool. When You increase pricing
+for existing subscribers in countries that require end-user consent, they will be prompted to review and agree to the new price, otherwise the auto-renewal feature will be disabled.
+
+3.10 To the extent You promote and offer for sale auto-renewing subscriptions, within or outside of Your Licensed Application, You must do so in compliance with all legal and regulatory requirements.
+3.11 S u bscription services purchased within Licensed Applications must use ln-App Purchase.
+
+In addition to using the In-App Purchase API, a Licensed Application may read or play content (magazines, newspapers, books, audio, music, video) that is offered outside of the Licensed Application (such as, by way of example, through Your website) provided that You do not link to or market external offers for such content within the Licensed Application. You are responsible for authentication access to content acquired outside of the Licensed Application.
+
+3.12 If Your Licensed Application is periodical content-based (e.g. magazines and newspapers), Apple may provide You with the name, email address, and zip code associated with an End-User's account when they purchase an auto-renewing subscription via the In-App Purchase API, provided that such user consents to the
+
+v116 11 September 2020
+
+DX-3256. 005
+
+APL-APPSTORE 10137347
+
+provision of data to You, and further provided that You may only use such data to promote Your own products and do so in strict compliance with Your publicly posted Privacy Policy, a copy of which must be readily viewed and is consented to in Your Licensed Application. You may offer a free incentive to extend the subscription if the user agrees to send this information.
+3.13 You m a y use Subscription Offer Codes to promote your auto-renewing subscriptions in select Territories subject to the terms of the Agreement, this Schedule 2, and the following:
+(a) Subscription Offer Code means a code provided by Apple to You, pursuant to these terms, which allows an End-User to whom You provide one or more Subscription Offer Codes to download or access Your Licensed Application.
+(b) Upon request by You via the App Store Connect tool, Apple shall deliver the Subscription Offer Codes electronically to You. Subscription Offer Codes will become active for use by End-Users upon delivery to You.
+You may not distribute Subscription Offer Codes that are no longer active to End-Users in any Territory in which You are not permitted to sell or distribute Your Licensed Application.
+You shall not export any Subscription Offer Code for use outside the Territories nor represent that You have the right or ability to do so.
+Risk of loss and transfer of title for the Subscription Offer Codes pass to You upon delivery to You.
+You shall comply with all applicable laws in the Territories in which You distribute Subscription Offer Codes.
+(c) Apple shall not be responsible for developing or producing any materials in relation to the Subscription Offer Codes other than the Subscription Offer Codes themselves.
+You shall not sell the Subscription Offer Codes or accept any form of payment, trade-in-kind, or other compensation in connection with the distribution of the Subscription Offer Codes and You shall prohibit third parties from doing so.
+During the period when a Subscription Offer Code allows an End-User to access a subscription in Your Licensed Application for free, You hereby waive any right to collect any royalties, proceeds, or remuneration for such access, regardless of whether any remuneration would otherwise be payable under the Agreement, this Schedule 2, and Schedule 1 thereto, if applicable. The parties acknowledge that, as between Apple and You, the parties' respective responsibilities for the payment of any royalties or other similar payments to third parties with respect to End-Users accessing subscriptions in your Licensed Application via the Subscription Offer Codes shall be as set forth in the Agreement and this Schedule 2.
+You shall be solely responsible for Your use of the Subscription Offer Codes, including any use by other members of Your App Store Connect team, and for any loss or liability to You or Apple therefrom.
+In the event Your Licensed Application is removed from the App Store for any reason, You agree to cease distribution of all Subscription Offer Codes and that Apple may deactivate such Subscription Offer Codes.
+You agree that Apple shall have the right to deactivate the Subscription Offer Codes, even if already delivered to End-Users, in the event You violate any of the terms in the Agreement or this Schedule 2.
+(d) You must include the following Subscription Offer Code End-User terms in any instrument used to distribute the Subscription Offer Codes to End-Users (e.g., certificate, card, e-mail, coupons, online posts): (i) The code expiration date or while supplies last; (ii) The Territory in which the codes can be redeemed; (iii) Apple ID is required, subject to prior acceptance of license and usage terms; (iv) Codes are not for resale, and have no cash value; (v) Full terms apply; see htt s://www.a l e . c om/le al/internet-services/itunes/; and (vi) Offer and content are provided by You.
+3.14 W h ere available, You may offer multiple Licensed Applications offered by You in a single collection (" Bundle" ) to End-Users at a price tier designated by You as set forth in Exhibit C (" Bundle Price" ). Furthermore, You hereby authorize and instruct Apple to enable users who have purchased some but not all Licensed Applications in a Bundle to access and download the remaining items in the Bundle (" Complete My Bundle" or "CMB") for the CMB Price. You will receive proceeds for the CMB Price, which shall equal the
+v116 11 September 2020
+
+DX-3256. 006
+
+APL-APPSTORE 10137348
+
+Bundle Price set by You less the sum of the retail prices paid by the user for previously purchased Licensed Applications. In the event the CMB Price is less than Tier 1 and greater than zero under Exhibit C, You hereby authorize and instruct Apple to set the CMB Price for that user at Tier 1. In the event the CMB Price is less than zero, You hereby authorize and instruct Apple to provide the remaining Licensed Applications in the Bundle to the End-User without charge. Each CMB transaction will be reflected in Your statement as follows: (i) a new sale of the full Bundle at the price paid for the Bundle, identified as a CMB sale; and (ii) a return (i.e. a negative transaction) for each eligible purchased Licensed Application contained in the Bundle in the amount previously paid for the Licensed Application, each identified as a CMB return. Bundles offered at Tier 0 must offer an auto-renewing subscription service pursuant to Section 3.8 of this Schedule 2 in each Licensed Application included in the Bundle, and users who purchase such subscription service from within one app in the Bundle must be able to access that subscription service in each of the other Licensed Applications in the Bundle at no additional cost.
+4. Ow ne r s hip and End-User Licensing
+4.1 T h ep arties acknowledge and agree that Apple shall not acquire any ownership interest in or to any of the Licensed Applications or Licensed Application Information, and title, risk of loss, responsibility for, and control over the Licensed Applications shall, at all times, remain with You. Apple may not use any of the Licensed Applications or Licensed Application Information for any purpose, or in any manner, except as specifically authorized in the Agreement or this Schedule 2.
+4.2 Y o umay deliver to Apple Your own EULA for any Licensed Application at the time that You deliver that Licensed Application to Apple, in accordance with Section 2.1 of this Schedule 2; provided, however, that Your EULA must include and may not be inconsistent with the minimum terms and conditions specified on Exhibit E to this Schedule 2 and must comply with all applicable laws in all countries where You wish Apple to allow EndUsers to download that Licensed Application. Apple shall enable each End-User to review Your EULA (if any) at the time that Apple delivers that Licensed Application to that End-User, and Apple shall notify each End-User that the End-User's use of that Licensed Application is subject to the terms and conditions of Your EULA (if any). In the event that You do not furnish Your own EULA for any Licensed Application to Apple, You acknowledge and agree that each End-User's use of that Licensed Application shall be subject to Apple's standard EULA (which is part of the App Store Terms of Service).
+4.3 Y o uh ereby acknowledge that the EULA for each of the Licensed Applications is solely between You and the End-User and conforms to applicable law, and Apple shall not be responsible for, and shall not have any liability whatsoever under, any EULA or any breach by You or any End-User of any of the terms and conditions of any EULA.
+5. Cont e nt Restrictions and Software Rating
+5.1 Y o urepresent and warrant that: (a) You have the right to enter into this Agreement, to reproduce and distribute each of the Licensed Applications, and to authorize Apple to permit End-Users to download and use each of the Licensed Applications through one or more App Stores; (b) none of the Licensed Applications, or Apple's or End-Users' permitted uses of those Licensed Applications, violate or infringe any patent, copyright, trademark, trade secret or other intellectual property or contractual rights of any other person, firm, corporation or other entity and that You are not submitting the Licensed Applications to Apple on behalf of one or more third parties; (c) each of the Licensed Applications is authorized for distribution, sale and use in, export to, and import into each of the countries designated by You under Section 2.1 of this Schedule 2, in accordance with the laws and regulations of those countries and all applicable export/import regulations; (d) none of the Licensed Applications contains any obscene, offensive or other materials that are prohibited or restricted under the laws or regulations of any of the countries You designated under Section 2.1 of this Schedule 2; (e) all information You provided using the App Store Connect tool, including any information relating to the Licensed Applications, is accurate and that, if any such information ceases to be accurate, You will promptly update it to be accurate using the App Store Connect tool; and (f) in the event a dispute arises over the content of Your Licensed Applications or use of Your intellectual property on the App Store, You agree to permit Apple to share Your contact information with the party filing such dispute and to follow Apple's app dispute process on a nonexclusive basis and without any party waiving its legal rights.
+5.2 Y o us hall use the software rating tool set forth on App Store Connect to supply information regarding each of the Licensed Applications delivered by You for marketing and fulfillment by Apple through the App Store under this Schedule 2 in order to assign a rating to each such Licensed Application. For purposes of assigning a rating to each of the Licensed Applications, You shall use Your best efforts to provide correct and
+v116 11 September 2020
+
+DX-3256. 007
+
+APL-APPSTORE 10137349
+
+complete information about the content of that Licensed Application with the software rating tool. You acknowledge and agree that Apple is relying on: (i) Your good faith and diligence in accurately and completely providing requested information for each Licensed Application; and (ii) Your representations and warranties in Section 5.1 hereof, in making that Licensed Application available for download by End-Users in each of the countries You designated hereunder. Furthermore, You authorize Apple to correct the rating of any Licensed Application of Yours that has been assigned an incorrect rating; and You agree to any such corrected rating.
+5.3 I nt he event that any country You designated hereunder requires the approval of, or rating of, any Licensed Application by any government or industry regulatory agency as a condition for the distribution, sale and/or use of that Licensed Application, You acknowledge and agree that Apple may elect not to make that Licensed Application available for download by End-Users in that country from any App Store.
+5.4 L i censed Applications that are targeted at children or otherwise likely to appeal to children, and which pressure children to make purchases (including, but not limited to, phrases such as "buy now" or "upgrade now") or persuade others to make purchases for them, should not be made available in any Territory that has deemed such marketing practices illegal. You expressly accept and agree to take full responsibility for Your Licensed Applications' compliance with applicable laws pursuant to Section 5.1(c) of this Schedule 2, including without limitation consumer protection, marketing, and gaming laws. For more information on legal requirements of countries in the European Union, seehtt://ec.euro a.eu/ustice/consumer-marketin /unfairtrade/index en.htm
+6. Re sp o n sibility and Liability
+6.1 Ap p l e shall have no responsibility for the installation and/or use of any of the Licensed Applications by any End-User. You shall be solely responsible for any and all product warranties, End-User assistance and product support with respect to each of the Licensed Applications.
+6.2 Y o us hall be solely responsible for, and Apple shall have no responsibility or liability whatsoever with respect to, any and all claims, suits, liabilities, losses, damages, costs and expenses arising from, or attributable to, the Licensed Applications and/or the use of those Licensed Applications by any End-User, including, but not limited to: (i) claims of breach of warranty, whether specified in the EULA or established under applicable law; (ii) product liability claims; and (iii) claims that any of the Licensed Applications and/or the End-User's possession or use of those Licensed Applications infringes the copyright or other intellectual property rights of any third party.
+6.3 I nt h e event that Apple receives any notice or claim from any End-User that: (i) the End-User wishes to cancel its license to any of the Licensed Applications within ninety (90) days of the date of download of that Licensed Application by that End-User or the end of the auto-renewing subscription period offered pursuant to section 3.8, if such period is less than ninety (90) days; or (ii) a Licensed Application fails to conform to Your specifications or Your product warranty or the requirements of any applicable law, Apple may refund to the End-User the full amount of the price paid by the End-User for that Licensed Application. In the event that Apple refunds any such price to an End-User, You shall reimburse, or grant Apple a credit for, an amount equal to the price for that Licensed Application. In the event that Apple receives any notice or claim from a payment provider that an End-User has obtained a refund for a Licensed Application, You shall reimburse, or grant Apple a credit for, an amount equal to the price for that Licensed Application. In such cases, Apple will have the right to retain its commission on the sale of that Licensed Application, notwithstanding the refund of the price to the End-User.
+7. Te rm i n ation
+7.1 Th i s Schedule 2, and all of Apple's obligations hereunder, shall terminate upon the expiration or termination of the Agreement. Notwithstanding any such termination, Apple shall be entitled to: (i) all commissions on all copies of the Licensed Applications downloaded by End-Users prior to the date of termination (including the phase-out period set forth in Section 1.4 hereof); and (ii) reimbursement from You of refunds paid by Apple to End-Users, whether before or after the date of termination, in accordance with Section 6.3 of this Schedule 2.
+7.2 I nt he event that You no longer have the legal right to distribute the Licensed Applications, or to authorize Apple to allow access to those Licensed Applications by End-Users, in accordance with this Schedule 2, You shall promptly notify Apple and withdraw those Licensed Applications from the App Store using the tools
+v116 11 September 2020
+
+DX-3256. 008
+
+APL-APPSTORE 10137350
+
+provided on the App Store Connect site; provided, however, that such withdrawal by You under this Section 7.2 shall not relieve You of any of Your obligations to Apple under this Schedule 2, or any liability to Apple and/or any End-User with respect to those Licensed Applications.
+7.3 Ap p l e reserves the right to cease marketing, offering, and allowing download by End-Users of the Licensed Applications at any time, with or without cause, by providing notice of termination to You. Without limiting the generality of this Section 7.3, You acknowledge that Apple may cease the marketing and allowing download by End-Users of some or all of the Licensed Applications, or take other interim measures in Apple's sole discretion, if Apple reasonably believes that: (i) those Licensed Applications are not authorized for export to one or more of the countries listed on Exhibit A, in accordance with the Export Administration Regulations; (ii) those Licensed Applications and/or any End-User's possession and/or use of those Licensed Applications, infringe patent, copyright, trademark, trade secret or other intellectual property rights of any third party; (iii) the distribution, sale and/or use of those Licensed Applications violates any applicable law in any country You designated under Section 2.1 of this Schedule 2; (iv) You have violated the terms of the Agreement, this Schedule 2, or other documentation including without limitation the App Review Guidelines; or (v) Your Licensed Applications violate Section 5.4 of this Schedule 2, including without limitation upon notice by a regulator of an alleged violation. An election by Apple to cease the marketing and allowing download of any Licensed Applications, pursuant to this Section 7.3, shall not relieve You of Your obligations under this Schedule 2.
+7.4 Y o umay withdraw any or all of the Licensed Applications from the App Store, at any time, and for any reason, by using the tools provided on the App Store Connect site, except that, with respect to Your End-Users, You hereby authorize and instruct Apple to fulfill sections 1.2(b), (c), and (d) of this Schedule 2, which shall survive termination or expiration of the Agreement unless You indicate otherwise pursuant to sections 5.1 and 7.2 of this Schedule 2.
+8. Le g a l Consequences
+The relationship between You and Apple established by this Schedule 2 may have important legal and/or tax consequences for You. You acknowledge and agree that it is Your responsibility to consult with Your own legal and tax advisors with respect to Your legal and tax obligations hereunder.
+
+DX-3256. 009
+
+v116 11 September 2020
+APL-APPSTORE 10137351
+
+1. App l e as Agent
+
+EXHIBIT A
+
+You appoint Apple Canada, Inc. (" Apple Canada" ) as Your agent for the marketing and End-User download of the Licensed Applications by End-Users located in the following country:
+
+Canada
+
+You appoint Apple Pty Limited ("APL") as Your agent for the marketing and End-User download of the Licensed Applications by End-Users located in the following countries:
+
+Australia New Zealand
+
+You appoint Apple Inc. as Your agent pursuant to California Civil Code gg 2295 et seq. for the marketing and End-User download of the Licensed Applications by End-Users located in the following country:
+
+United States
+
+You appoint Apple Services LATAM LLC as Your agent pursuant to California Civil Code Q 2295 et seq. for the marketing and End-User download of the Licensed Applications by End-Users located in the countries identified below, as updated from time to time via the App Store Connect site:
+
+Argentina Anguilla
+Antigua 8 Barbuda Bahamas Barbados
+Belize Bermuda
+Bolivia Brazil
+British Virgin Islands
+
+Cayman Islands Chile
+Colombia Costa Rica Dominica
+Dominican Republic Ecuador
+El Salvador Grenada
+Guyana
+
+Guatemala Honduras
+Jamaica Mexico Montserrat
+Nicaragua Panama
+Paraguay Peru
+St. Kitts 8 Nevis
+
+St. Lucia St. Vincent 8 The
+Grenadines Suriname Trinidad 8 Tobago
+Turks 8 Caicos Uruguay
+Venezuela
+
+You appoint iTunes KK as Your agent pursuant to Article 643 of the Japanese Civil Code for the marketing and End-User download of the Licensed Applications by End-Users located in the following country:
+
+Japan 2. App l e as Commissionaire
+
+You appoint Apple Distribution International Ltd., as Your commissionaire for the marketing and End-User
+download of the Licensed Applications by End-Users located in the following countries, as updated from time to time via the App Store Connect site. For the purposes of this Agreement, "commissionaire" means an agent
+who purports to act on his own behalf and concludes agreements in his own name but acts on behalf of other persons, as generally recognized in many Civil Law legal systems.
+
+Afghanistan Albania Algeria Angola Armenia Austria Azerbaijan Bahrain Belarus Belgium Benin Bhutan Bosnia and Herzegovina
+
+Botswana Brunei Bulgaria Burkina-Faso Cambodia Cameroon Cape Verde Chad China
+Congo (Democratic Republic of) Congo (Republic of) Cote d'Ivoire Croatia
+
+Cyprus Czech Republic Denmark Egypt Estonia Fiji Finland France Gabon Gambia Georgia Germany Ghana Greece
+
+Guinea-Bissau Hong Kong Hungary Iceland India Indonesia Iraq Ireland Israel Italy Jordan Kazakhstan Kenya Korea
+
+v116 11 September 2020
+
+DX-3256. 01 0
+
+APL-APPSTORE 10137352
+
+Kosovo Kuwait Kyrgyzstan Laos Latvia Lebanon Liberia Libya Lithuania Luxembourg Macau Macedonia Madagascar Malawi Malaysia Maldives Mali Malta, Republic of Mauritania Mauritius Micronesia, Fed
+
+States of Moldova Mongolia Montenegro Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands Niger Nigeria Norway Oman Pakistan Palau Papua New Guinea Philippines Poland Portugal
+
+Qatar Romania Russia Rwanda Sao Tome e Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands South Africa Spain Sri Lanka Swaziland Sweden Switzerland
+
+Taiwan Tajikistan Tanzania Thailand Tonga Tunisia Turkey Turkmenistan UAE Uganda Ukraine United Kingdom Uzbekistan Vanuatu Vietnam Yemen Zambia Zimbabwe
+
+v116 11 September 2020
+
+DX-3256. 01 1
+
+APL-APPSTORE 10137353
+
+EXHIBIT B
+
+1. Ap p l e shall collect and remit to the competent tax authorities the taxes described in Section 3.2 of this Schedule 2 for sales of the Licensed Applications to End-Users located in the following countries, as updated from time to time via the App Store Connect site:
+
+Albania Armenia Australia Austria Bahrain Belarus Belgium Bosnia and Herzegovina Bulgaria Canada Chile China" Colombia Croatia Cyprus
+
+Czech Republic Denmark Estonia Finland France Germany Greece Hungary Iceland India Indonesia"" Ireland Italy Korea"" Kosovo Latvia
+
+Lithuania Luxembourg Malaysia Malta, Republic of Mexico Moldova Netherlands New Zealand Norway Poland Portugal Romania Russia"" Saudi Arabia Serbia Singapore""
+
+Slovakia Slovenia South Africa Spain Sweden Switzerland Taiwan Turkey United Arab Emirates United Kingdom United States Uruguay """ Uzbekistan""
+
+2. Ap p l e shall not collect and remit the taxes described in Section 3.2 of this Schedule 2 for sales of the Licensed Applications to End-Users located in the countries listed below as updated from time to time via the
+App Store Connect site. You shall be solely responsible for the collection and remittance of such taxes as may be required by local law.
+
+Afghanistan Algeria Angola Anguilla Antigua 8 Barbuda Argentina
+Azerbaijan Bahamas Barbados Belize Benin Bermuda Bhutan Bolivia
+Botswana Brazil British Virgin Islands Brunei Burkina-Faso Cameroon Cambodia Cape Verde Cayman Islands Chad Congo (Democratic Republic of) Congo (Republic of) Costa Rica Cote d'Ivoire Dominica
+
+Dominican Republic Ecuador Egypt El Salvador Fiji Gabon
+Gambia Georgia Ghana Grenada Guatemala Guinea-Bissau Guyana Honduras
+Hong Kong Iraq Israel Jamaica Japan Jordan Kazakhstan Kenya Kuwait Kyrgyzstan Laos Lebanon Liberia Libya Macau Macedonia
+
+Madagascar Malawi Maldives Mali Mauritania Mauritius
+Micronesia (Fed States of) Mongolia Montenegro Montserrat Morocco Mozambique Myanmar
+Namibia Nauru Nepal Nicaragua Niger Nigeria Oman Pakistan Palau Panama Papua New Guinea Paraguay Peru Philippines Qatar Rwanda
+
+Sao Tome e Principe Senegal Seychelles Sierra Leone Solomon Islands Sri Lanka
+St. Kitts and Nevis St. Lucia St. Vincent 8 The Grenadines
+Surin arne
+Swaziland Tajikistan Tanzania
+Thailand Tonga Trinidad 8 Tobago Tunisia Turkmenistan Turks 8 Caicos Uganda Ukraine Venezuela Vanuatu Vietnam Yemen Zambia Zimbabwe
+
+* Except for certain taxes to be collected as required by the Chinese government, Apple shall not collect or remit additional taxes or levies in China. You understand and agree that You shall be solely responsible for the collection and remittance of any taxes as may be required by local law.
+v116 11 September 2020
+
+DX-3256.012
+
+APL-APPSTORE 10137354
+
+** Solely applicable to non-resident Developers. Apple shall not collect and remit taxes for local Developers,
+and such developers shall be solely responsible for the collection and remittance of such taxes as may be required by local law. *** Except for certain taxes on digital transactions that Apple must collect as required by the Uruguayan
+government, Apple shall not collect or remit additional taxes or levies in Uruguay. You understand and agree that You shall be solely responsible for the collection and remittance of any taxes imposed on Your earnings as
+may be required by local law.
+
+DX-3256. 01 3
+
+v116 11 September 2020
+APL-APPSTORE 10137355
+
+EXHIBIT C
+The list of available price tiers and proceeds is set forth in the App Store Connect tool and may be updated by Apple from time to time.
+Customer Price is the price displayed to the End-User on the App Store. The agreed remittance currencies depend on the currency of the Customer Price, as indicated in this Exhibit C and as may be updated from time to time via the App Store Connect site. Customers are charged the following currencies in the following countries:
+AED: United Arab Emirates AUD: Australia BGN: Bulgaria BRL: Brazil CAD: Canada CHF: Switzerland CLP: Chile CNY: China COP: Colombia CZK: Czech Republic DKK: Denmark EGP: Egypt Euro: Austria, Belgium, Bosnia and Herzegovina, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland,
+Italy, Kosovo, Latvia, Lithuania, Malta (Republic of), Montenegro, Luxembourg, Netherlands, Portugal, Serbia, Slovakia, Slovenia, Spain GBP: United Kingdom HKD: Hong Kong HRK: Croatia HUF: Hungary IDR: Indonesia ILS: Israel INR: India JPY: Japan KRW: Korea KZT: Kazakhstan MXN: Mexico MYR: Malaysia NGN: Nigeria NOK: Norway NZD: New Zealand PEN: Peru PHP: Philippines PKR: Pakistan PLN: Poland QAR: Qatar RON: Romania RUB: Russia SAR: Saudi Arabia SEK: Sweden SGD: Singapore THB: Thailand TRY: Turkey TWD: Taiwan TZS: Tanzania VND: Vietnam USD: Afghanistan, Albania, Algeria, Angola, Anguilla, Antigua 8 Barbuda, Argentina, Armenia, Azerbaijan, Bahamas, Bahrain, Barbados, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Botswana, British Virgin Islands, Brunei, Burkina-Faso, Cambodia, Cameroon, Cape Verde, Cayman Islands, Chad, Congo (Democratic Republic of), Congo (Republic of), Costa Rica, Cote d'Ivoire, Dominica, Dominican Republic, Ecuador, El Salvador, Fiji, Gabon, Gambia, Georgia, Ghana, Grenada, Guatemala, Guinea-Bissau, Guyana, Honduras,
+v116 11 September 2020
+
+DX-3256.014
+
+APL-APPSTORE 10137356
+
+Iceland, Iraq, Jamaica, Jordan, Kenya, Kuwait, Kyrgyzstan, Laos, Lebanon, Liberia, Libya, Macau, Macedonia, Madagascar, Malawi, Maldives, Mali, Mauritania, Mauritius, Micronesia (Fed States of), Moldova, Mongolia, Montserrat, Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, Nicaragua, Niger, Oman, Palau, Panama, Papua New Guinea, Paraguay, Rwanda, Sao Tome e Principe,Senegal, Seychelles, Sierra Leone,
+Solomon Islands, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Swaziland, Tajikistan, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Turks and Caicos, Uganda, Ukraine, Uruguay, United States, Uzbekistan, Venezuela, Vanuatu, Yemen, Zambia, Zimbabwe ZAR: South Africa
+
+DX-3256. 01 5
+
+v116 11 September 2020
+APL-APPSTORE 10137357
+
+EXHIBIT D
+1. De li v ery of Licensed Applications to End-Users in Canada
+Where You designate Apple Canada to allow access to the Licensed Applications to End-Users in Canada:
+1.1 G e neral
+You shall indemnify and hold Apple harmless against any and all claims by the Canada Revenue Agency (the "CRA"), Ministere du Revenu du Quebec (the "MRQ") and the tax authorities of any province that has a provincial retail sales tax ("PST") for any failure to pay, collect or remit any amount(s) of goods and services tax/harmonized sales tax ("GST/HST") imposed under the Excise Tax Act (Canada) (The "ETA"), Quebec Sales Tax ("QST") or PST and any penalties and/or interest thereon in connection with any supplies made by Apple Canada toEnd-Users in Canada on Your behalfand any supplies made by Apple Canada to You.
+1.2 G S T/HST
+(a) This Section 1.2 of Exhibit D applies with respect to supplies made by You, through Apple Canada, as agent to End-Users in Canada. Terms defined in the ETA have the same meaning when used in this Section 1.2. Apple Canada is registered for GST/HST purposes, with GST/HST Registration No. R100236199.
+(b) If You are a resident of Canada or are a non-resident of Canada that is required to register for GST/HST purposes pursuant to the ETA, it is a condition of this Schedule 2, that You are registered for GST/HST or have submitted an application to register for GST/HST to the CRA with an effective GST/HST registration date of no later than the date of this Schedule 2. You shall provide Apple Canada with satisfactory evidence of Your GST/HST registration (e.g., a copy of Your CRA confirmation letter or print-out from the GST/HST Registry on the CRA web site) at Apple Canada's request. You warrant that You will notify Apple Canada if You cease to be registered for GST/HST.
+(c) If You are registered for GST/HST purposes, You, by executing this Schedule 2, (i) agree to enter into the election pursuant to subsection 177(1.1) of the ETA to have Apple Canada collect, account for and remit GST/HST on sales of Licensed Applications made to End-Users in Canada on Your behalf and have completed (including entering its valid GST/HST registration number), signed and returned to Apple Canada Form GST506 (accessible on the App Store Connect site); and (ii) acknowledge that the commission payable by You to Apple Canada includes GST at a rate of 5% (or the GST rate as applicable from time to time).
+(d) If You are not registered for GST/HST purposes, by executing this Schedule 2 and not completing, signing and returning Form GST506 to Apple Canada, You (i) certify that You are not registered for GST/HST purposes; (ii) certify that You are not resident in Canada and do not carry on business in Canada for purposes of the ETA; (iii) acknowledge that Apple Canada will charge, collect and remit GST/HST on sales of Licensed Applications to End-Users in Canada made on Your behalf; (iv) acknowledge that the commission payable by You to Apple Canada is zero-rated for GST/HST purposes (I.e., GST/HST rate is 0%); and (v) agree to indemnify Apple for any GST/HST, interest and penalty assessed against Apple Canada if it is determined that You should have been registered for GST/HST purposes such that the commission fees charged by Apple Canada were subject to GST.
+1.3 Q u e bec Sales Tax
+Terms defined in an Act respecting the Quebec Sales Tax (the "QSTA") have the same meaning when used in this Section 1.3 of Exhibit D.
+(a) If You are a resident of Quebec, it is a condition of this Schedule 2, that You are registered for QST or have submitted an application to register for QST to the MRQ with an effective QST registration date of no later than the date of this Schedule 2. You shall provide Apple Canada with satisfactory evidence of Your QST registration (e.g., a copy of Your MRQ confirmation letter or print-out from the QST Registry on the MRQ web site) at Apple Canada's request. You warrant that You will notify Apple Canada if You cease to be registered for QST.
+(b) If You are a resident of Quebec, You, by executing this Schedule 2, (i) certify that You are registered for
+v116 11 September 2020
+
+DX-3256.016
+
+APL-APPSTORE 10137358
+
+QST; (ii) agree to enter into the election pursuant to section 41.0.1 of the QSTA to have Apple Canada collect, account for and remit QST on sales of Licensed Applications to End-Users in Quebec made on Your behalf and have completed (including entering its valid QST registration number), signed and returned to Apple Canada Form FP2506-V; and (iii) acknowledge that Apple Canada will not charge, collect or remit QST on sales of Licensed Applications made on Your behalf to End-Users located outside Quebec on the assumption that the End-Users are not resident in Quebec and not registered for QST purposes such that the sales are zero-rated for QST purposes.
+(c) If You are not resident in Quebec, by executing this Schedule 2 and not completing, signing and returning Form FP2506-V to Apple Canada, You (i) certify that You are not resident in Quebec; (ii) certify that You do not have a permanent establishment in Quebec; and (iii) acknowledge Apple will charge, collect and remit QST on sales of Licensed Applications to End-Users in Quebec made on Your behalf.
+1 .4 P S T
+This Section 1.4 of Exhibit D applies to supplies of Licensed Applications made by You, through Apple Canada, as agent, to End-Users in the provinces of British Columbia, Saskatchewan, Manitoba, Ontario, Prince Edward Island and any other province that has or that adopts a PST. You acknowledge and agree that Apple Canada will charge, collect and remit applicable PST on sales of Licensed Applications made to End-Users in these provinces by Apple Canada on Your behalf.
+2. De li v ery of Licensed Applications to End-Users in Australia
+Where You designate APL to allow access to the Licensed Applications to End-Users in Australia:
+2.1 Y o us hall indemnify and hold Apple harmless against any and all claims by the Commissioner of Taxation (" Commissioner" ) for nonpayment or underpayment of GST under the A New Tax System (Goocfs and Services Tax) Act 1 999 ("GST Act") and for any penalties andi or interest thereon. In addition, You shall indemnify and hold Apple harmless against any penalties imposed by the Commissioner for failing to register for GST in Australia.
+2.2 G o o d s and Services Tax (GST)
+(a) General
+(i) This Section 2.2 of Exhibit D applies to supplies made by You, through APL, as agent, that are connected with Australia. Terms defined in the GST Act have the same meaning when used in this Section 2.2.
+(ii) Unl e ss expressly stated otherwise, any sum payable or amount used in the calculation of a sum payable under this Schedule 2 has been determined without regard to GST and must be increased on account of any GST payable under this Section 2.2.
+(iii) I fa n y GST is payable on any taxable supply made under this Schedule 2 by a supplier to a recipient, the recipient must pay the GST to the supplier at the same time and in the same manner as providing any monetary consideration. For the avoidance of doubt, this includes any monetary consideration that is deducted by APL as commission in accordance with Section 3.4 of this Schedule 2.
+(iv) T h ea mount recoverable on account of GST under this clause by APL will include any fines, penalties, interest and other charges.
+(v) This Section 2 of Exhibit D survives the termination of the Agreement.
+(b) Resident Developers or Non-resident GST-Registered Developers
+(i) If You are a resident of Australia, it is a condition of this Schedule 2, that You have an Australian Business Number ("ABN") and are registered for GST or have submitted an application to register for GST to the Commissioner with an effective GST registration date of no later than the date of this Schedule 2. You will provide Apple with satisfactory evidence of Your ABN and GST registration (by uploading to Apple, using the App Store Connect site, a copy of Your GST registration or print-out from the Australian Business Register) within 30 days of this Schedule 2. You warrant that You will notify Apple if it ceases to hold a valid ABN or be
+v116 11 September 2020
+
+DX-3256. 01 7
+
+APL-APPSTORE 10137359
+
+registered for GST.
+(ii) If Y o u are a non-resident and are registered for GST, it is a condition of this Schedule 2 that You will provide Apple with satisfactory evidence of Your ABN and GST registration within 30 days of this Schedule 2. You warrant that You will notify Apple if You cease to be registered for GST.
+(iii) Y o uand Apple agree to enter into an arrangement for the purposes of s.153-50 of the GST Act. You and Apple further agree that for taxable supplies made by You, through APL as agent, to any End-User:
+(A) APL will be deemed as making supplies to any End-User;
+(B) You will be deemed as making separate, corresponding supplies to APL;
+(C) APL will issue to any End-User, in APL's own name, all tax invoices and adjustment notes relating to supplies made under section (iii)(a);
+(D) You will not issue to any End-User any tax invoices or adjustment notes relating to taxable supplies made under section (iii)(a);
+(E) APL will issue a recipient created tax invoice to You in respect of any taxable supplies made by You to APL under this Schedule 2, including taxable supplies made under section (iii)(b); and
+(F) You will not issue a tax invoice to Apple in respect of any taxable supplies made by You to Apple under this Schedule 2, including taxable supplies made under section (iii)(b).
+(c) Non-resident, Non-GST-registered Developers
+If You are a non-resident and are not registered for GST, then:
+(i) APL will issue to any End-User, in APL's own name, all tax invoices and adjustment notes relating to taxable supplies made by You through APL as agent; and
+(ii) Yo u w ill not issue to any End-User any tax invoices or adjustment notes relating to taxable suppliesmade by You through APL as agent.
+3. De li v ery of Licensed Applications to End-Users in the United States
+Where You designate Apple Inc. to allow access to the Licensed Applications to End-Users in the United States:
+3.1 I fY o u are not a resident of the United States for U.S. federal income tax purposes, You will complete Internal Revenue Service Form W-8BEN and/or any other required tax forms and provide Apple with a copy of such completed form(s), and any other information necessary for compliance with applicable tax laws and regulations, as instructed on the App Store Connect site.
+3.2 I fA p ple, in its reasonable belief, determines that any state or local sales, use or similar transaction tax may be due from Apple or You in connection with the sale or delivery of any of the Licensed Applications, Apple will collect and remit those taxes to the competent tax authorities. To the extent that the incidence of any such tax, or responsibility for collecting that tax, falls upon You, You authorize Apple to act on Your behalf in collecting and remitting that tax, but to the extent that Apple has not collected any such tax, or has not received reimbursement for that tax, from End-Users, You shall remain primarily liable for the tax, and You will reimburse Apple for any tax payments that Apple is required to make, but is not otherwise able to recover.
+3.3 I nt he event that You incur liability for income tax, franchise tax, business and occupation tax, or any similar taxes based on Your income, You shall be solely responsible for that tax.
+4. De li v ery of Licensed Applications to End-Users in Japan
+Where You designate iTunes KK to allow access to the Licensed Applications to End-Users in Japan:
+v116 11 September 2020
+
+DX-3256. 01 8
+
+APL-APPSTORE 10137360
+
+4.1 Y o ua cknowledge and agree that You have the sole responsibility for: (i) consumption tax output liability, if any, with respect to delivery on Your behalf of Your Licensed Applications to End-Users by iTunes KK; (ii) filing of consumption tax returns and payment of consumption tax to the Japanese government, if applicable; and (iii) determining independently, in consultation with Your own tax advisor, Your taxpayer status and tax payment obligations for consumption tax purposes.
+4.2 Co m m issions charged by iTunes KK to Japan resident developers will include consumption tax.
+5. De li v ery of Licensed Applications to End-Users in countries listed in Exhibit A, Section 2
+Where You designate Apple Distribution International Ltd., located at Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland, to allow access to the Licensed Applications to End-Users in Exhibit A, Section 2:
+You acknowledge that in the event Apple Distribution International Ltd. is subject to any sales, use, goods and services, value added, or other tax or levy with respect to any remittance to You, the full amount of such tax or levy shall be solely for Your account. For the avoidance of doubt, any invoice issued by You to Apple Distribution International Ltd. will be limited to amounts actually due to You, which amounts shall be inclusive of any value added or other tax or levy as set forth above. You will indemnify and hold Apple harmless against any and all claims by any competent tax authorities for any underpayment of any such sales, use, goods and services, value added, or other tax or levy, and any penalties and/or interest thereon.
+6. De li v ery of Licensed Applications to End-Users in New Zealand
+Where You designate APL to allow access to the Licensed Applications to End-Users in New Zealand:
+(A) General
+(i) You shall indemnify and hold APL harmless against any and all claims by the Inland Revenue for nonpayment or underpayment of GST under the Goods and Services Tax Act 1985 ("GST Act 1985") and for any penalties and/or interest thereon.
+(ii) Th i s Section 6 of Exhibit D applies to supplies made by You, through APL as agent, to any EndUser who is resident in New Zealand. Terms defined in the GST Act of 1985 have the same meaning when used in Section 6 of Exhibit D.
+(iii) Th i s Section 6 of Exhibit D survives the termination of the Agreement.
+(iv) Y o uand Apple agree that APL is the operator of the electronic marketplace in respect of supplies made by You, through APL as agent, to any End-User who is resident in New Zealand, and is treated as the supplier of those supplies under s. 60C of the GST Act 1985 for GST purposes.
+(B) Resident Developers
+(i) If You are a resident of New Zealand, You and Apple agree under s.60(1C) of the GST Act 1985 that supplies of services made by You through APL as agent to any End-User resident in New Zealand, are treated as 2 separate supplies for GST purposes, being-
+(a) a supply of services from You to APL; and
+(b) a supply of those services from APL to the End-User resident in New Zealand.
+(ii) Yo u a nd APL acknowledge that the supply of services from You to APL for GST purposes under Section 6(B)(i)(a) of this Exhibit D is not subject to GST under the GST Act 1985.
+(C) Non Resident Developers
+(i) If You are a non resident of New Zealand, You and Apple agree under s. 60(1B) of the GST Act 1985 that supplies of services made by You through APL as agent to any End-User resident in New Zealand, are treated as 2 separate supplies for GST purposes, being-
+v116 11 September 2020
+
+DX-3256. 01 9
+
+APL-APPSTORE 10137361
+
+(a) a supply of services from You to APL; and
+(b) a supply of those services from APL to the End-User resident in New Zealand.
+(ii) Y o u a n d APL acknowledge that the supply of services from You to APL for GST purposes under Section 6(C)(i)(a) of this Exhibit D is not subject to GST under the GST Act 1985.
+(D) APL will issue to any End-User, in APL's own name, the required documentation relating to taxable supplies made under Section 6 of this Exhibit D.
+(E) You will not issue to any End-User any documentation relating to taxable supplies made under Section 6 of this Exhibit D.
+7. De li v ery of Licensed Applications to End-Users in Brazil
+Where You designate Apple Inc. to allow access to the Licensed Applications to End-Users in Brazil:
+(A) General
+7.1 Y o ua cknowledge and agree that You have the sole responsibility for: (i) any indirect taxes liability (including but not limited to goods and services taxes), with respect to delivery on Your behalf of Your Licensed Applications to End-Users by Apple; (ii) filing of indirect tax returns and payment of indirect taxes to the Brazilian government, if applicable; and (iii) determining independently, or in consultation with Your own tax advisor, Your taxpayer status and tax payment obligations for indirect tax purposes.
+7.2 Y o ua uthorize, consent to, and acknowledge that Apple may use a third party in Brazil, an Apple subsidiary and/or a third party vendor (the "Collecting Entity" ), to collect any amounts from End-Users for the Licensed Applications and remit such amounts out of Brazil to Apple to enable the remittance of Your proceeds to You.
+7.3 T ot h e extent withholding taxes are applicable on remittances out of Brazil of the prices payable by EndUsers for the Licensed Applications, the Collecting Entity will deduct the full amount of such withholding tax from the gross amount owed to You by Apple and will pay the amount withheld to the competent Brazilian tax authorities in Your name. The Collecting Entity will use commercially practical efforts to issue the respective withholding tax forms, which will be provided to You by Apple as provided in the Brazilian tax law. You are solely responsible for providing any additional documentation required by the tax authorities in Your country to be able to claim any foreign tax credits, if applicable.
+(B) Non-Resident Developers
+7.4 I fY o u are not a resident of Brazil and to the extent withholding taxes are applicable on the remittances out of Brazil of the gross amount owed to You, You may provide to Apple Your country of residence certificate or equivalent documentation to claim a reduced rate of withholding tax under an applicable income tax treaty between Your country of residence and Brazil. The Collecting Entity will apply a reduced rate of withholding tax, if any, as provided in the applicable income tax treaty between Your country of residence and Brazil, only after You furnish Apple with the documentation as required under that income tax treaty or otherwise satisfactory to Apple, which is sufficient to establish Your entitlement to that reduced rate of withholding tax. You acknowledge that the reduced rate will only take effect after Apple approves and accepts the tax residence certificate or equivalent documentation provided by You. Notwithstanding section 3.3 of Schedule 2, if Your funds will be remitted out of Brazil prior to receipt and approval by Apple of such tax documentation, the Collecting Entity may withhold and remit to the competent tax authorities the full amount of withholding tax unreduced by any tax treaty, and Apple will not refund to You any amount of such taxes withheld and remitted.
+You will indemnify and hold Apple and the Collecting Entity harmless against any and all claims by any competent tax authority for any underpayment of any such withholding or similar taxes, and any penalties and/or interest thereon, including, but not limited to, underpayments attributable to any erroneous claim or representation by You as to Your entitlement to, or Your actual disqualification for, the benefit of a reduced rate of withholding tax.
+v116 11 September 2020
+
+DX-3256. 020
+
+APL-APPSTORE 10137362
+
+(C) Resident Developers
+7.5 I fY o u are a resident of Brazil, You must update Your account with Your respective Brazilian taxpayer number (CNPJ or CPF, as applicable). You acknowledge that by not providing the Your respective Brazilian taxpayer number, Your Licensed Applications may be removed from the Brazilian Store until such time as Your Brazilian taxpayer number is provided.
+8. Australian Developers -- Delivery of Licensed Applications to End-Users Outside Australia
+If You are a resident of Australia and You appoint Apple as Your agent or commissionaire for the marketing and End-User download of the Licensed Applications by End-Users located outside of Australia, it is a condition of this contract that You confirm that You have an Australian Business Number ("ABN") and are registered for GST under the A New Tax System (Goods and Services Tax Act 1999 ("GST Act"). You will provide Apple with satisfactory evidence of Your ABN and GST registration (by uploading to Apple, using the App Store Connect site, a copy of Your GST registration or print-out from the Australian Business Register) within 30 days of this Schedule 2. You warrant that You will notify Apple if You cease to hold a valid ABN or be registered for GST.
+9. New Zealand Developers -- Delivery of Licensed Applications to End-Users Outside New Zealand
+If You are a resident of New Zealand and You appoint Apple as Your agent or commissionaire for the marketing and End-User download of the Licensed Applications by End-Users located outside of New Zealand, You and Apple agree that under s.60C and 60(1C) of the GST Act 1985, supplies of services made by You through Apple as agent to any End-User resident outside of New Zealand are treated as 2 separate supplies for GST purposes under the GST Act 1985, being-
+(i) a supply of services from You to Apple; and (ii) a supply of those services from Apple to the End-User resident outside of New Zealand.
+You and Apple acknowledge that the deemed supply of services from You to Apple under (i) above will not result in a GST cost to Apple under the GST Act 1985.
+10. Japan Developers -- Delivery of Licensed Applications to End-Users Outside Japan
+If Your principal or headquarters' office is located in Japan and You appoint Apple as Your agent or commissionaire for the marketing and End-User download of the Licensed Applications by End-Users located outside of Japan, You shall reverse charge any Japanese consumption tax that is payable on the commissions received by Apple in consideration for its services as Your agent or commissionaire under this Schedule 2.
+11. Korean developers - Delivery of Licensed Applications to End-Users in Korea
+If You are a resident of Korea and You appoint Apple Distribution International Ltd. as Your agent or commissionaire to deliver Licensed Applications to End-Users in Korea, it is a condition of this Schedule 2 that You have a Korean Business Registration Number ("BRN") or a Registration Number with Korean National Tax Service (collectively "Korean Tax ID").
+You must update Your account with Your respective Korean Tax ID when prompted in App Store Connect. You acknowledge that by not providing Your respective Korean Tax ID, Your Licensed Applications may be removed from the Korean Store or Your remittance payment under section 3.5 of Schedule 2 may not be made for Your applicable Licensed Applications until such time as Your Korean Tax ID is provided.
+At Apple Distribution International Ltd.'s request, You will provide Apple with satisfactory evidence of the Your Korean Tax ID (e.g., business registration certificate or print-out from the Korean National Tax Service's Home Tax website). You warrant that You will notify Apple if You cease to hold a valid Korean Tax ID.
+If You do not provide a valid Korean Tax ID to Apple, Apple reserves the right to charge Korean VAT on any services provided to You under this Agreement.
+12. Singapore developers - Delivery of Licensed Applications to End-Users in or outside Singapore
+If You are a resident of Singapore and You appoint Apple as Your agent or commissionaire to deliver Licensed
+v116 11 September 2020
+
+DX-3256. 021
+
+APL-APPSTORE 10137363
+
+Applications to End-Users in the jurisdictions specified in Exhibit A, it is a condition of this Schedule 2 that You confirm to Apple whether You are registered for Singapore GST. If You are registered for GST, You are required to provide Your Singapore GST registration number upon request.
+If You are not registered for Singapore GST or do not provided Your Singapore GST registration number to Apple, pursuant to Singapore tax regulations, Apple will apply Singapore GST on the commission payable by You to Apple to be deducted from Your remittance.
+13. Malaysian developers - Delivery of Licensed Applications to End-Users in or outside Malaysia
+If You are a resident of Malaysia and You appoint Apple as Your agent or commissionaire to deliver Licensed Applications to End-Users in the jurisdictions specified in Exhibit A, pursuant to Malaysian tax regulations, Apple will apply Malaysia Service Tax on the commission payable by You to Apple to be deducted from Your remittance.
+14. Mexican developers - Delivery of Licensed Applications to End-Users in Mexico
+If You are a resident of Mexico, Apple will apply VAT on the commission payable by You to Apple to be deducted from Your remittance, pursuant to Mexican tax regulations. Apple will issue the corresponding invoice for such commission.
+Apple also will apply the withholding income tax rate applicable to individuals on remittances for sales of the Licensed Applications to End-Users located in Mexico, pursuant to Mexican tax regulations. Apple will deduct the full amount of such withholding income tax from the gross amount owed to You by Apple and will pay the amount withheld to the competent Mexican tax authorities. Apple will issue the respective withholding income tax certificate.
+If You are registered and have a valid tax ID in Mexico (known as the R.F.C), You must provide Apple with a copy of Your Mexican tax ID registration by uploading it using the App Store Connect tool. You warrant that You will notify Apple if You cease to hold a valid tax ID. If You do not provide proof to Apple of Your Mexican tax ID, Apple will apply the highest income tax rate in accordance with Mexican tax regulations.
+15. Delivery of Licensed Applications to End-Users in Taiwan
+If You file Income Tax in Taiwan and You appoint Apple Distribution International Ltd. as Your agent or commissionaire to deliver Licensed Applications to End-Users in Taiwan, it is a condition of this Schedule 2 that You provide Apple your unified business number in Taiwan if you are business or your personal identification card number in Taiwan if You are an individual (collectively "Taiwan Tax ID").
+
+DX-3256. 022
+
+v116 11 September 2020
+APL-APPSTORE 10137364
+
+EXHIBIT E
+Instructions for Minimum Terms of Developer's End-User License Agreement
+1. Acknowledgement:You and the End-User must acknowledge that the EULA is concluded between You and the End-User only, and not with Apple, and You, not Apple, are solely responsible for the Licensed Application and the content thereof. The EULA may not provide for usage rules for Licensed Applications that are in conflict with, the Apple Media Services Terms and Conditions as of the Effective Date (which You acknowledge You have had the opportunity to review).
+2. Scope of License: The license granted to the End-User for the Licensed Application must be limited to a non-transferable license to use the Licensed Application on any Apple-branded Products that the End-User owns or controls and as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions, except that such Licensed Application may be accessed and used by other accounts associated with the purchaser via Family Sharing or volume purchasing.
+3. Maintenance and Support: You must be solely responsible for providing any maintenance and support services with respect to the Licensed Application, as specified in the EULA, or as required under applicable law. You and the End-User must acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Licensed Application.
+4. Warranty: You must be solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. The EULA must provide that, in the event of any failure of the Licensed Application to conform to any applicable warranty, the End-User may notify Apple, and Apple will refund the purchase price for the Licensed Application to that End-User; and that, to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Licensed Application, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be Your sole responsibility.
+5. Product Claims: You and the End-User must acknowledge that You, not Apple, are responsible for addressing any claims of the End-User or any third party relating to the Licensed Application or the end- user's possession and/or use of that Licensed Application, including, but not limited to: (i) product liability claims; (ii) any claim that the Licensed Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation, including in connection with Your Licensed Application's use of the HealthKit and HomeKit frameworks. The EULA may not limit Your liability to the End-User beyond what is permitted by applicable law.
+6. Intellectual Property Rights: You and the End-User must acknowledge that, in the event of any third party claim that the Licensed Application or the End-User's possession and use of that Licensed Application infringes that third party's intellectual property rights, You, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+7. Legal Compliance: The End-User must represent and warrant that (i) he/she is not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) he/she is not listed on any U.S. Government list of prohibited or restricted parties.
+8. Developer Name and Address: You must state in the EULA Your name and address, and the contact information (telephone number; E-mail address) to which any End-User questions, complaints or claims with respect to the Licensed Application should be directed.
+9. Third Party Terms of Agreement: You must state in the EULA that the End-User must comply with applicable third party terms of agreement when using Your Application, e.g., if You have a VolP application, then the End-User must not be in violation of their wireless data service agreement when using Your Application.
+10. Third Party Beneficiary: You and the End-User must acknowledge and agree that Apple, and Apple's subsidiaries, are third party beneficiaries of the EULA, and that, upon the End-User's acceptance of the terms and conditions of the EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce the EULA against the End-User as a third party beneficiary thereof.
+v116 11 September 2020
+
+DX-3256. 023
+
+APL-APPSTORE 10137365
+
+EXHIBIT F Additional App Store Terms
+
+1.
+
+Dis co v e r a bility on the App Store:The discoverability of Your Licensed Application in the App
+
+Store depends on several factors, and Apple is under no obligation to display, feature, or rank Your
+
+Licensed Application in any particular manner or order in the App Store.
+
+(a) The main parameters used for app ranking and discoverability are text relevance, such as using an accurate title, adding relevant keywords/metadata, and selecting descriptive categories in the Licensed Application; customer behavior relating to the number and quality of ratings and reviews and application downloads; date of launch in the App Store may also be considered for relevant searches; and whether You have violated any rules promulgated by Apple. These main parameters deliver the most relevant results to customer search queries.
+
+(b) When considering apps to feature in the App Store, our editors look for high-quality apps across all categories, with a particular focus on new apps and apps with significant updates. The main parameters
+that our editors consider are Ul design, user experience, innovation and uniqueness, localizations, accessibility, App Store product page screenshots, app previews, and descriptions; and additionally for
+games, gameplay, graphics and performance, audio, narrative and story depth, ability to replay, and gameplay controls. These main parameters showcase high-quality, well-designed, and innovative apps.
+
+(c) If You use an Apple service for paid promotion of Your app on the App Store, Your app may be presented in a promotional placement on the Search results page and designated as advertising content.
+
+To learn more about app discoverability, visit htt s://develo er.a l e . c om/a -store/discoverabilit /.
+
+2.
+
+A cce s s t o App Store Data
+
+You can access data concerning your Licensed Application's financial performance and user engagement in App Store Connect by using App Analytics, Sales and Trends, and Payments and Financial Reports. Specifically, You can obtain all of Your Licensed Application's financial results for individual app sales and in-app purchases (including subscriptions) in Sales and Trends, or download the data from Financial Reports; and You can view App Analytics for non-personally identifiable data that allows You to understand how consumers engage with your Licensed Applications. More information can be found at htt s://develo er.a l e .com/a -store/measurin -a -- erformance/. App Analytics data is provided only with the consent of our customers. For more information, see htt s://develo er.a l e . c om/a -storeconnect/anal ties/. Apple does not provide You with access to personal or other data provided by or generated through use of the App Store by other developers; nor does Apple provide other developers with access to personal or other data provided by or generated through Your use of the App Store. Such data sharing would conflict with Apple's Privacy Policy, and with our customers' expectations about how Apple treats their data. You can seek to collect information from customers directly, so long as such information is collected in a lawful manner, and You follow the App Store Review Guidelines.
+
+Apple handles personal and non-personal information as outlined in Apple's Privacy Policy. Information about Apple's access to and practices concerning developer and customer data can be found in "App Store 8 Privacy," accessible at https://support. apple.corn/en-us/HT210584. Apple may provide some non-personal information to strategic partners that work with Apple to provide our products and services, help Apple market to customers, and sell ads on Apple's behalf to display in the App Store and Apple News and Stocks. Such partners are obligated to protect that information and may be located wherever Apple operates.
+
+3.
+
+P2B R e gulation Complaints and Mediation for EU
+
+Developers established in, and which offer goods or services to customer located in, the European Union may submit complaints pursuant to the Regulation of the European Parliament and of the Council on promoting fairness and transparency for business users of online intermediation services ("P2B
+v116 11 September 2020
+
+DX-3256. 024
+
+APL-APPSTORE 10137366
+
+Regulation" ) related to the following issues at develo er.a l e . com/contact: (a) Apple's alleged noncompliance with any obligations set forth in the P2B Regulation which affect You in the European Union; (b) technological issues relating directly to distribution of Your Licensed Application on the App Store in the European Union that affect You; or (c) measures taken by or behavior of Apple relating directly to distribution of Your Licensed Application on the App Store in the European Union that affect You. Apple will consider and process such complaints and communicate the outcome to You.
+Pursuant to the P2B Regulation, Apple identifies the following panel of mediators with which Apple is willing to engage to attempt to reach an agreement with developers established in, and which offer goods or services to customer located in, the European Union on the settlement, out of court, of any disputes between Apple and You arising in relation to the provision of the App Store services concerned, including complaints that could not be resolved by means of our complaint-handling system:
+Centre for Effective Dispute Resolution P2B Panel of Mediators 70 Fleet Street London EC4Y 1EU United Kingdom htt s://www.cedr.com/ 2bmediation/
+
+DX-3256. 025
+
+v116 11 September 2020
+APL-APPSTORE 10137367
+
+By clicking to agree to this Schedule 3, which is hereby offered to You by Apple, You agree with Apple to amend that certain Apple Developer Program License Agreement currently in effect between You and Apple (the "Agreement" ) to add this Schedule 3 thereto (supplanting any existing Schedule 3). Except as otherwise provided herein, all capitalized terms shall have the meanings set forth in the Agreement.
+Schedule 3
+1. Appo i ntment of Agent and Commissionaire
+1.1 Y o uhereby appoint Apple and Apple Subsidiaries (collectively "Apple" ) as: (i) Your agent for the marketing, sale and delivery of Custom Applications via Custom App Distribution to Custom App Distribution Customers and applicable End-Users located in those countries listed on Exhibit A, Section 1 to this Schedule 3, subject to change; and (ii) Your commissionaire for the marketing, sale, and delivery of Custom Applications to Custom App Distribution Customers and applicable End-Users located in those countries listed on Exhibit A, Section 2 to this Schedule 3, subject to change, during the Delivery Period. The most current list of App Store countries among which You may select with respect to Your Custom Applications shall be set forth in the App Store Connect tool and may be updated by Apple from time to time. You hereby acknowledge that Apple will market and make the Custom Applications available for purchase by Custom App Distribution Customers through the Custom App Distribution Site, and downloadable by End-Users or, solely in connection with certain Apple licensed software, by Custom App Distribution Customers using a single Apple ID for distribution to multiple End-Users, for You and on Your behalf.
+For purposes of this Schedule 3:
+"Content Code(s)" means alphanumeric content codes generated by Apple and distributed to Custom App Distribution Customers that may be redeemed by an End-User for the download of a licensed copy of the Custom Application.
+"Custom Application" also includes any additional permitted functionality, content, or services sold by You from within a Custom Application using the In-App Purchase API.
+"End-User" includes the individual authorized to use the Custom Application by the institutional purchaser, the institutional administrator responsible for management of installations on shared devices, as well as authorized institutional purchasers themselves, including educational institutions approved by Apple, which may acquire the Custom Applications for use by their employees, agents, and affiliates.
+"Licensed Application" shall include any content, functionality, extensions, stickers, or services offered in the software application.
+"Licensed Application Information" includes Licensed Application Information associated with a Custom Application.
+"Volume Content Service" means an Apple program that offers the ability to obtain Custom Applications and make purchases of Licensed Applications in bulk subject to the Volume Content Terms, conditions, and program requirements.
+"Custom App Distribution Customer" means a third party that is enrolled in Apple's Volume Content Service and/or Custom App Distribution.
+"You" shall include App Store Connect users authorized by You to submit Licensed Applications and associated metadata on Your behalf.
+1.2 I nf u rtherance of Apple's appointment under Section 1.1 of this Schedule 3, You hereby authorize and instruct Apple to:
+(a) market, solicit, and obtain orders on Your behalf for Custom Applications from Custom App Distribution Customers identified by You and their related End-Users in the countries identified in the App Store Connect tool;
+v116 11 September 2020
+
+DX-3256. 026
+
+APL-APPSTORE 10137368
+
+(b) pr o v ide hosting services to You, in order to allow for the storage of, and End-User access to, the Custom Applications and, solely in connection with certain Apple licensed software, permit third party hosting of such Custom Applications;
+(c) make copies of, format, and otherwise prepare Custom Applications for acquisition and download by End-Users, including adding the Security Solution and other optimizations identified in the Agreement;
+(d) allow or, in the case of cross-border assignments of Volume Content purchases, arrange for End-Users to access and re-access copies of the Custom Applications, so that End-Users may acquire and electronically download those Custom Applications developed by You, Licensed Application Information, and associated metadata to End-Users through the Custom App Distribution Site, and You hereby authorize distribution of Your Custom Applications under this Schedule 3 for use by multiple End-Users when the Custom Application is purchased by a single institutional customer via the Volume Content Service for use by its End-Users and/or for installation on devices with no associated iTunes Account that are owned or controlled by that institutional customer in accordance with the Volume Content Terms, conditions, and program requirements;
+(e) issue invoices for the purchase price payable by Custom App Distribution Customers for the Custom Applications;
+(f) use (i) screen shots and/or up to 30 second excerpts of the Custom Applications; (ii) trademarks and logos associated with the Custom Applications; and (iii) Licensed Application Information, for promotional purposes in marketing materials and in connection with vehicle displays, excluding those portions of the Custom Applications, trademarks or logos, or Custom Application Information which You do not have the right to use for promotional purposes, and which You identify in writing at the time that the Custom Applications are delivered by You to Apple under Section 2.1 of this Schedule 3, and use images and other materials that You may provide to Apple, at Apple's reasonable request, for promotional purposes in marketing materials and in connection with vehicle displays; and
+(g) otherwise use Custom Applications, Licensed Application Information and associated metadata as may be reasonably necessary in the marketing and delivery of the Custom Applications in accordance with this Schedule 3. You agree that no royalty or other compensation is payable for the rights described above in Section 1.2 of this Schedule 3.
+1.3 T h eparties acknowledge and agree that their relationship under this Schedule 3 is, and shall be, that of principal and agent, or principal and commissionaire, as the case may be, as described in Exhibit A, Section 1 and Exhibit A, Section 2, respectively, and that You, as principal, are, and shall be, solely responsible for any and all claims and liabilities involving or relating to, the Custom Applications, as provided in this Schedule 3. The parties acknowledge and agree that Your appointment of Apple as Your agent or commissionaire, as the case may be, under this Schedule 3 is non-exclusive. You hereby represent and warrant that You own or control the necessary rights in order to appoint Apple and Apple Subsidiaries as Your worldwide agent and/or commissionaire for the delivery of Your Custom Applications, and that the fulfillment of such appointment by Apple and Apple Subsidiaries shall not violate or infringe the rights of any third party.
+1.4 F o rp urposes of this Schedule 3, the "Delivery Period" shall mean the period beginning on the Effective Date of the Agreement, and expiring on the last day of the Agreement or any renewal thereof; provided, however, that Apple's appointment as Your agent or commissionaire shall survive expiration of the Agreement for a reasonable phase-out period not to exceed thirty (30) days after the final outstanding Content Code for Your Custom Applications has been redeemed and further provided that, solely with respect to Your EndUsers, subsections 1.2(b), (c), and (d) of this Schedule 3 shall survive termination or expiration of the Agreement unless You indicate otherwise pursuant to sections 5.1 and 7.2 of this Schedule 3.
+2. De li v ery of the Custom Applications to Apple
+2.1 Y o uw ill deliver to Apple, at Your sole expense, using the App Store Connect tool, the Custom Applications, Licensed Application Information and associated metadata, in a format and manner prescribed by Apple, as required for the delivery of the Custom Applications to End-Users in accordance with this Schedule 3 and will identify this material as a Custom Application via the App Store Connect site. Metadata You deliver to Apple under this Schedule 3 will include: (i) the title and version number of each of the Custom Applications; (ii) the Custom App Distribution Customers You designate as authorized purchasers of the Custom Application
+v116 11 September 2020
+
+DX-3256. 027
+
+APL-APPSTORE 10137369
+
+and whose End-Users may use the Content Codes; (iii) any copyright or other intellectual property rights notices; (iv) Your privacy policy; (v) Your End-User license agreement ("EULA"), if any, in accordance with Section 4.2 of this Schedule 3; and (vi) any additional metadata set forth in the Documentation and/or the App Store Connect Tool as may be updated from time to time, including metadata designed to enhance search and discovery for content on Apple-branded hardware.
+
+2.2 A l lC ustom Applications will be delivered by You to Apple using software tools, a secure FTP site address and/or such other delivery methods as prescribed by Apple.
+
+2.3 Y o uh ereby certify that all of the Custom Applications You deliver to Apple under this Schedule 3 are authorized for export from the United States to each of the countries listed on Exhibit A hereto, in accordance
+with the requirements of all applicable laws, including but not limited to the United States Export Administration Regulations, 15 C.F.R. Parts 730-774 and the International Traffic ln Arms Regulations 22 C.F.R. Parts 120-
+130. Without limiting the generality of this Section 2.3, You certify that (i) none of the Custom Applications contains, uses or supports any data encryption or cryptographic functions; or (ii) in the event that any Custom
+Application contains, uses or supports any such data encryption or cryptographic functionality, You will upon request provide Apple with a PDF copy of Your Encryption Registration Number (ERN), or export classification ruling (CCATS) issued by the United States Commerce Department, Bureau of Industry and Security and PDF
+copies of appropriate authorizations from other countries that mandate import authorizations for that Licensed Application, as required. You acknowledge that Apple is relying upon Your certification in this Section 2.3 in
+allowing End-Users to access and download the Custom Applications under this Schedule 3. Except as provided in this Section 2.3, Apple will be responsible for compliance with the requirements of the Export Administration Regulations in allowing End-Users to access and download the Custom Applications under this
+Schedule 3.
+
+2.4
+
+Yo u s h a ll be responsible for determining and implementing any age ratings or parental advisory
+
+warnings required by the applicable government regulations, ratings board(s), service(s),
+
+or other organizations (each a "Ratings Board" ) for any video, television, gaming or other content offered in
+
+Your Custom Application for each locality in the Territory. Where applicable, You shall also be responsible for
+
+providing any content restriction tools or age verification functionality before enabling end-users to access
+
+mature or otherwise regulated content within Your Custom Application.
+
+3. De li v ery of the Custom Applications to End-Users
+
+3.1 Y o ua cknowledge and agree that Apple, in the course of acting as agent and/or commissionaire for You, is hosting the Custom Applications, providing Content Codes to Custom App Distribution Customers, and is allowing the download of the Custom Applications by End-Users, on Your behalf. However, You are
+responsible for hosting and delivering content or services sold by You using the In-App Purchase API, except for content that is included within the Custom Application itself (i.e., the In-App Purchase simply unlocks the
+content) or content hosted by Apple pursuant to Section 3.3 of the Program Agreement. All of the Custom Applications shall be marketed by Apple, on Your behalf, to End-User Custom App Distribution Customers at
+prices identified in a price tier and designated by You, in Your sole discretion, from the pricing schedule attached to this Schedule 3 as Exhibit C, which may be updated from time to time by Apple on App Store Connect. You may change the price tier for any Custom Application at any time, at Your discretion, in
+accordance with the pricing schedule set forth on that Exhibit C as updated from time to time, using tools
+provided on the App Store Connect tool. As Your agent and/or commissionaire, Apple shall be solely responsible for the collection of all prices payable by Custom App Distribution Customers for Custom Applications acquired by End-Users under this Schedule 3.
+
+3.2 I nt he event that the sale or delivery of any of the Custom Applications to any End-User is subject to any sales, use, goods and services, value added, or other similar tax or levy, under applicable law, responsibility for
+the collection and remittance of that tax for sales of the Custom Applications to End-Users will be determined in accordance with Exhibit B to this Schedule 3 as updated from time to time via the App Store Connect site. For
+the sake of clarity, Apple shall not be responsible for the collection and remittance of telecommunications and similar taxes. You shall indemnify and hold Apple harmless against any and all claims by any tax authority for
+any underpayment of any sales, use, goods and services, value added or other tax or levy, and any penalties and/or interest thereon.
+
+3.3 I nf u rtherance of the parties' respective tax compliance obligations, Apple requires that You comply with the requirements listed on Exhibit D to this Schedule 3 or on App Store Connect depending upon, among other
+
+v116 11 September 2020
+
+DX-3256. 028
+
+APL-APPSTORE 10137370
+
+things, (i) Your country of residence, and (ii) the countries designated by You in which You wish Apple to allow sale of and access to the Custom Applications. In the event that Apple collects any amounts corresponding to the purchase price for any of Your Custom Applications before You have provided Apple with any tax documentation required under Exhibit D to this Schedule 3, Apple will not remit those amounts to You, but will hold those amounts in trust for You, until such time as You have provided Apple with the required tax documentation. Upon receipt of all required tax documents from You, Apple will remit to You any amounts held in trust by Apple for You, without interest, under this Section 3.3, in accordance with the provisions of this Schedule 3.
+3.4 Ap p l e shall be entitled to the following commissions in consideration for its services as Your agent and/or commissionaire under this Schedule 3:
+(a) For sales of Custom Applications to Custom App Distribution Customers located in those countries listed in Exhibit B, Section 1 of this Schedule 3 as updated from time to time via the App Store Connect site, Apple shall be entitled to a commission equal to thirty percent (30%) of all prices payable by each Custom App Distribution Customer. Solely for auto-renewing subscription purchases made by customers who have accrued greater than one year of paid subscription service within a Subscription Group (as defined below) and notwithstanding any Retention Grace Periods, Apple shall be entitled to a commission equal to fifteen percent (15%) of all prices payable by each End-User for each subsequent renewal. Retention Grace Period refers to the time period between the end of a customer's subscription (e.g. due to cancelation or non-payment) and the beginning of a new subscription within the same Subscription Group, provided that such time period is no greater than 60 days, subject to change. For purposes of determining the commissions to which Apple is entitled under this Section 3.4(a), the prices payable by Custom App Distribution Customers shall be net of any and all taxes collected, as provided in Section 3.2 of this Schedule 3.
+(b) For sales of Custom Applications to Custom App Distribution Customers located in those countries listed in Exhibit B, Section 2 of this Schedule 3 as updated from time to time via the App Store Connect site, Apple shall be entitled to a commission equal to thirty percent (30%) of all prices payable by each Custom App Distribution Customer. Solely for auto-renewing subscription purchases made by customers who have accrued greater than one year of paid subscription service within a Subscription Group (as defined below) and notwithstanding any Retention Grace Periods, Apple shall be entitled to a commission equal to fifteen percent (15%) of all prices payable by each End-User for each subsequent renewal.
+Except as otherwise provided in Section 3.2 of this Schedule 3, Apple shall be entitled to the commissions specified in Sections 3.4(a) and 3.4(b) hereof without reduction for any taxes or other government levies, including any and all taxes or other, similar obligations of You, Apple or any Custom App Distribution Customer relating to the delivery or use of the Custom Applications. For sales of Licensed Applications developed by Apple, Apple is not entitled to a commission.
+3.5 Up o n collection of any amounts from any Custom App Distribution Customer as the price for any Custom Application delivered to that Custom App Distribution Customer's designated End-Users hereunder, Apple shall deduct the full amount of its commission with respect to that Custom Application, and any taxes collected by Apple under Section 3.2 and 3.4 hereof, and shall remit to You, or issue a credit in Your favor, as the case may be, the remainder of those prices in accordance with Apple standard business practices, including the following: remittance payments (i) are made by means of wire transfer only; (ii) are subject to minimum monthly remittance amount thresholds; (iii) require You to provide certain remittance-related information on the App Store Connect site; and (iv) subject to the foregoing requirements, will be made no later than forty-five (45) days following the close of the monthly period in which the corresponding amount was received by Apple from the End-User. No later than forty- five (45) days following the end of each monthly period, Apple will make available to You on the App Store Connect site a sales report in sufficient detail to permit You to identify the Custom Applications sold in that monthly period and the total amount to be remitted to You by Apple. You hereby acknowledge and agree that Apple shall be entitled to a commission, in accordance with this Section 3.5 on the delivery of any Content Codes to any Custom App Distribution Customer, even if Apple is unable to collect the price for that Custom Application from the Custom App Distribution Customer. In the event that the purchase price received by Apple from any Custom App Distribution Customer for any Custom Application is in a currency other than the remittance currency agreed between Apple and You, the purchase price for that Custom Application shall be converted to the remittance currency, and the amount to be remitted by Apple to You shall be determined, in accordance with an exchange rate fixed for the Delivery Period, as reflected in Exhibit C attached hereto as updated from time to time pursuant to section 3.1 of this Schedule 3. Apple may provide a means on App Store Connect to enable You to designate a primary currency for the bank account
+v116 11 September 2020
+
+DX-3256. 029
+
+APL-APPSTORE 10137371
+
+designated by You for receiving remittances (" Designated Currency" ). Apple may cause Apple's bank to convert all remittances in any remittance currency other than the Designated Currency into the Designated Currency prior to remittance to You. You agree that any resulting currency exchange differentials or fees charged by Apple's bank may be deducted from such remittances. You remain responsible for any fees (e.g., wire transfer fees) charged by Your bank or any intermediary banks between Your bank and Apple's bank.
+3.6 I nt he event that any price payable by any Custom App Distribution Customer for any of the Custom Applications is subject to (i) any withholding or similar tax; or (ii) any sales, use, goods and services, value added, or other tax or levy not collected by Apple under Section 3.2 hereof; or (iii) any other tax or other government levy of whatever nature, the full amount of that tax or levy shall be solely for Your account, and shall not reduce the commission to which Apple is entitled under this Schedule 3.
+3.7 I nt he event that any remittance made by Apple to You is subject to any withholding or similar tax, the full amount of that withholding or similar tax shall be solely for Your account, and will not reduce the commission to which Apple is entitled on that transaction. If Apple reasonably believes that such tax is due, Apple will deduct the full amount of such withholding or similar tax from the gross amount owed to You, and will pay the full amount withheld over to the competent tax authorities. Apple will apply a reduced rate of withholding tax, if any, provided for in any applicable income tax treaty only if You furnish Apple with such documentation required under that income tax treaty or otherwise satisfactory to Apple, sufficient to establish Your entitlement to the benefit of that reduced rate of withholding tax. Upon Your timely request to Apple in writing, using means reasonably designated by Apple, Apple will use commercially practical efforts to report to You the amount of Apple's payment of withholding or similar taxes to the competent tax authorities on Your behalf. You will indemnify and hold Apple harmless against any and all claims by any competent tax authority for any underpayment of any such withholding or similar taxes, and any penalties and/or interest thereon, including, but not limited to, underpayments attributable to any erroneous claim or representation by You as to Your entitlement to, or Your disqualification for, the benefit of a reduced rate of withholding tax.
+3.8 Y o umay offer auto-renewing subscriptions in select Territories using the ln-App Purchase API subject to the terms of this Schedule 3, provided that:
+(a) Auto-renew functionality must be on a weekly, monthly, bi-monthly, tri-monthly, semi-annual or annual basis at a price You select based on the pricing matrix attached to this Schedule 3 as Exhibit C. You may, however, offer more than one option.
+(b) You clearly and conspicuously disclose to users the following information regarding Your auto-renewing subscription:
+� Title of auto-renewing subscription, which may be the same as the in-app product name � Length of subscription � Price of subscription, and price per unit if appropriate
+Links to Your Privacy Policy and Terms of Use must be accessible within Your Licensed Application or Custom Application.
+(c) You must fulfill the offer during the entire subscription period, as marketed, including any Billing Grace period You authorize, and, in the event You breach this section 3.8(c) of Schedule 3, You hereby authorize and instruct Apple to refund to the End-User the full amount, or any portion thereof in Apple's sole discretion, of the price paid by the End-User for that subscription. Billing Grace Period refers to the period during which Developers agree to provide paid service for free to users who do not recover from a billing error. In the event that Apple refunds any such price to an End-User, You shall reimburse, or grant Apple a credit for, an amount equal to the price for that subscription. Apple will have the right to retain its commission on the sale of that subscription, notwithstanding the refund of the price to the End-User. You acknowledge that Apple may exercise its rights under section 7.3 of this Schedule 3 for repeated violations of this provision.
+3.9 When You make price changes to an existing subscription item, You may elect to retain current pricing for Your existing customers by indicating Your intent in the App Store Connect tool. When You increase pricing for existing subscribers in countries that require end-user consent, they will be prompted to review and agree to the new price, otherwise the auto-renewal feature will be disabled.
+3.10 To the extent You promote and offer for sale auto-renewing subscriptions within or outside of Your
+v116 11 September 2020
+
+DX-3256. 030
+
+APL-APPSTORE 10137372
+
+Licensed Application, You must do so in compliance with all legal and regulatory requirements.
+3.11 S u bscription services purchased within Custom Applications must use ln-App Purchase, which will be charged to the End-User iTunes account, not the Custom App Distribution Customer account.
+In addition to using the In-App Purchase API, a Custom Application may read or play content (magazines, newspapers, books, audio, music, video) that is offered outside of the Custom Application (such as, by way of example, through Your website) provided that You do not link to or market external offers for such content within the Custom Application. You are responsible for authentication access to content acquired outside of the Custom Application.
+3.12 If Your Custom Application is periodical content-based (e.g. magazines and newspapers), Apple may provide You with the name, email address, and zip code associated with an End-User's account when they purchase an auto-renewing subscription via the In-App Purchase API, provided that such user consents to the provision of data to You, and further provided that You may only use such data to promote Your own products and otherwise in strict compliance with Your publicly posted Privacy Policy, a copy of which must be readily viewed through and is consented to in Your Custom Application. You may offer a free incentive to extend the subscription if the user agrees to send this information.
+4. Ow ne r s hip and End-User Licensing
+4.1 T h ep arties acknowledge and agree that Apple shall not acquire any ownership interest in or to any of the Custom Applications or Licensed Application Information, and title, risk of loss, responsibility for, and control over the Custom Applications shall, at all times, remain with You. Apple may not use any of the Custom Applications or Licensed Application Information for any purpose, or in any manner, except as specifically authorized in this Schedule 3.
+4.2 Y o umay deliver to Apple Your own EULA for any Custom Application at the time that You deliver that Custom Application to Apple, in accordance with Section 2.1 of this Schedule 3; provided, however, that Your EULA must include and may not be inconsistent with the minimum terms and conditions specified on Exhibit E to this Schedule 3 and must comply with all applicable laws in the United States. Apple shall allow each EndUser to which Apple allows access to any such Custom Application to review Your EULA (if any) at the time that Apple delivers that Custom Application to that End-User, and Apple shall notify each End-User that the End-User's use of that Custom Application is subject to the terms and conditions of Your EULA (if any). In the event that You do not furnish Your own EULA for any Custom Application to Apple, You acknowledge and agree that each End-User's use of that Custom Application shall be subject to Apple's standard EULA (which is part of the App Store Terms of Service).
+4.3 Y o uh ereby acknowledge that the EULA for each of the Custom Applications is solely between You and the End-User and conforms to applicable law, and Apple shall not be responsible for, and shall not have any liability whatsoever under, any EULA or any breach by You or any End-User of any of the terms and conditions of any EULA.
+5. Cont e nt Restrictions and Software Rating
+5.1 Y o urepresent and warrant that: (a) You have the right to enter into this Agreement, to reproduce and distribute each of the Custom Applications, and to authorize Apple to permit End-Users to download and use each of the Custom Applications through the Custom App Distribution Site; (b) none of the Custom Applications, or Apple's or End-Users' permitted uses of those Custom Applications, violate or infringe any patent, copyright, trademark, trade secret or other intellectual property or contractual rights of any other person, firm, corporation or other entity and that You are not submitting the Custom Applications to Apple on behalf of one or more third parties other than under license grant from one or more Custom App Distribution Customers;(c) each of the Custom Applications is authorized for distribution, sale and use in, export to, and import into each of the countries designated by You pursuant to Section 2.1 of this Schedule 3, in accordance with the laws and regulations of those countries and all applicable export/import regulations; (d) none of the Custom Applications contains any obscene, offensive or other materials that are prohibited or restricted under the laws or regulations of any of the countries You pursuant to Section 2.1 of this Schedule 3; (e) all information You provided using the App Store Connect tool, including any information relating to the Custom Applications, is accurate and that, if any such information ceases to be accurate, You will promptly update it to be accurate using the App Store Connect tool; and (f) in the event a dispute arises over the content of Your Custom
+v116 11 September 2020
+
+DX-3256. 031
+
+APL-APPSTORE 10137373
+
+Applications or use of Your intellectual property in connection with the Custom App Distribution Site, You agree to permit Apple to share Your contact information with the party filing such dispute and to follow Apple's app dispute process on a non-exclusive basis and without any party waiving its legal rights.
+
+5.2 Y o us hall use the software rating tool set forth on App Store Connect to supply information regarding
+each of the Custom Applications delivered by You for marketing and fulfillment by Apple through the Custom App Distribution Site under this Schedule 3 in order to assign a rating to each such Custom Application. For
+purposes of assigning a rating to each of the Custom Applications, You shall use Your best efforts to provide correct and complete information about the content of that Custom Application with the software rating tool. You acknowledge and agree that Apple is relying on: (i) Your good faith and diligence in accurately and
+completely providing requested information for each Custom Application; and (ii) Your representations and warranties in Section 5.1 hereof, in making that Custom Application available for download by End-Users in
+each of the countries You designated hereunder. Furthermore, You authorize Apple to correct the rating of any Custom Application of Yours that has been assigned an incorrect rating; and You agree to any such corrected rating.
+
+5.3 I nt he event that any country You designated hereunder requires the approval of, or rating of, any Custom Application by any government or industry regulatory agency as a condition for the distribution, sale and/or use of that Custom Application, You acknowledge and agree that Apple may elect not to make that Custom Application available for purchase by Custom App Distribution Customers and/or download by EndUsers in that country from the Custom App Distribution Site.
+
+5.4 C u stom Applications that are targeted at children or otherwise likely to appeal to children, and which
+pressure children to make purchases (including, but not limited to, phrases such as "buy now" or "upgrade now") or persuade others to make purchases for them, should not be made available in any Territory that has
+deemed such marketing practices illegal. You expressly accept and agree to take full responsibility for Your Custom Applications' compliance with applicable laws pursuant to Section 5.1(c) of this Schedule 3, including without limitation consumer protection, marketing, and gaming laws. For more information on legal requirements of countries in the European Union, seehtt://ec.euro a.eu/ustice/consumer-marketin /unfairtrade/index en.htm
+
+6. Re sp o n sibility and Liability
+
+6.1 Ap p l e shall have no responsibility for the installation and/or use of any of the Custom Applications by any End-User. You shall be solely responsible for any and all product warranties, End-User assistance and product support with respect to each of the Custom Applications.
+
+6.2 Y o us hall be solely responsible for, and Apple shall have no responsibility or liability whatsoever with respect to, any and all claims, suits, liabilities, losses, damages, costs and expenses arising from, or attributable to, the Custom Applications and/or the use of those Custom Applications by any End-User, including, but not limited to: (i) claims of breach of warranty, whether specified in the EULA or established under applicable law; (ii) product liability claims; and (iii) claims that any of the Custom Applications and/or the End-User's possession or use of those Custom Applications infringes the copyright or other intellectual property rights of any third party.
+
+6.3 I nt he event that Apple receives any notice or claim from any End-User that: (i) the End-User wishes to
+cancel its license to any of the Custom Applications within ninety (90) days of the date of download of that Custom Application by that End-User or the end of the auto-renewing subscription period offered pursuant to
+section 3.8 if such period is less than ninety (90) days; or (ii) a Custom Application fails to conform to Your specifications or Your product warranty or the requirements of any applicable law, Apple may refund to the Custom App Distribution Customer and/or End-User, as applicable, the full amount of the price paid by the
+Custom App Distribution Customer or End-User for that Custom Application. In the event that Apple refunds any such price to an End-User, You shall reimburse, or grant Apple a credit for, an amount equal to the price
+for that Custom Application. In the event that Apple receives any notice or claim from a payment provider that an End-User has obtained a refund for a Licensed Application, You shall reimburse, or grant Apple a credit for,
+an amount equal to the price for that Licensed Application. In such cases, Apple will have the right to retain its commission on the sale of that Custom Application, notwithstanding the refund of the price to the Custom App Distribution Customer or End-User.
+
+7. Te rm i n ation
+
+v116 11 September 2020
+
+DX-3256. 032
+
+APL-APPSTORE 10137374
+
+7.1 Th i s Schedule 3, and all of Apple's obligations hereunder, shall terminate upon the expiration or termination of the Agreement. Notwithstanding any such termination, Apple shall be entitled to: (i) all commissions on all Content Codes redeemable for copies of the Custom Applications provided to Custom App Distribution Customers prior to the date of termination (including the phase-out period set forth in Section 1.4 hereof); and (ii) reimbursement from You of refunds paid by Apple to Custom App Distribution Customers and/or End-Users, whether before or after the date of termination, in accordance with Section 6.3 of this Schedule 3.
+7.2 I nt he event that You no longer have the legal right to distribute the Custom Applications, or to authorize Apple to allow access to those Custom Applications by End-Users, in accordance with this Schedule 3, You shall promptly notify Apple and withdraw those Custom Applications from the Custom App Distribution Site using the tools provided on the App Store Connect tool; provided, however, that such withdrawal by You under this Section 7.2 shall not relieve You of any of Your obligations to Apple under this Schedule 3, or any liability to Apple and/or any End-User with respect to those Custom Applications.
+7.3 Ap p l e reserves the right to cease marketing, offering, and allowing purchase by Custom App Distribution Customers and download by End-Users of the Custom Applications at any time, with or without cause, by providing notice of termination to You. Without limiting the generality of this Section 7.3, You acknowledge that Apple may cease the marketing and allowing download by End-Users of some or all of the Custom Applications if Apple reasonably believes that: (i) those Custom Applications are not authorized for export to one or more of the countries listed on Exhibit A, in accordance with the Export Administration Regulations; (ii) those Custom Applications and/or any End-User's possession and/or use of those Custom Applications, infringe patent, copyright, trademark, trade secret or other intellectual property rights of any third party; (iii) the distribution, sale and/or use of those Custom Applications violates any applicable law in any country You designated pursuant to Section 2.1 of this Schedule 3; (iv) You have violated the terms of the Agreement, this Schedule 3, or other documentation including without limitation the App Review Guidelines; or (v) Your Custom Applications violate Section 5.4 of this Schedule 3, including without limitation upon notice by a regulator of an alleged violation. An election by Apple to cease the marketing and allowing download of any Custom Applications, pursuant to this Section 7.3, shall not relieve You of Your obligations under this Schedule 3.
+7.4 Y o umay withdraw any or all of the Custom Applications from the Custom App Distribution Site, at any time, and for any reason, by using the tools provided on the App Store Connect site, except that, with respect to Your End-Users, You hereby authorize and instruct Apple to fulfill any outstanding Content Code redemption requests by End-Users and to fulfill sections 1.2(b), (c), and (d) of this Schedule 3, which shall survive termination or expiration of the Agreement unless You indicate otherwise pursuant to sections 5.1 and 7.2 of this Schedule 3.
+8. Le g a l Consequences
+The relationship between You and Apple established by this Schedule 3 may have important legal and/or tax consequences for You. You acknowledge and agree that it is Your responsibility to consult with Your own legal and tax advisors with respect to Your legal and tax obligations hereunder.
+
+DX-3256. 033
+
+v116 11 September 2020
+APL-APPSTORE 10137375
+
+EXHIBIT A
+
+1. App l e as Agent
+You appoint Apple Canada, Inc. (" Apple Canada" ) as Your agent for the marketing and End-User download of the Custom Applications by End-Users located in the following country:
+Canada
+You appoint Apple Pty Limited ("APL") as Your agent for the marketing and End-User download of Custom Applications by End-Users located in the following countries:
+Australia New Zealand
+You appoint Apple Inc. as Your agent pursuant to California Civil Code gg 2295 et seq. for the marketing and End-User download of the Custom Applications by End-Users located in the following country:
+
+United States
+You appoint Apple Services LATAM LLC as Your agent pursuant to California Civil Code Q 2295 et seq. for the marketing and End-User download of the Licensed Applications by End-Users located in the countries identified below, as updated from time to time via the App Store Connect site:
+
+Argentina Bolivia
+Brazil Chile Colombia
+
+Costa Rica Dominican Republic
+Ecuador El Salvador Guatemala
+
+Honduras Mexico
+Nicaragua Panama Paraguay
+
+Peru Venezuela
+
+You appoint iTunes KK as Your agent pursuant to Article 643 of the Japanese Civil Code for the marketing and End-User download of the Custom Applications by End-Users located in the following country:
+
+Japan
+
+2. App l e as Commissionaire
+
+You appoint Apple Distribution International Ltd. as Your commissionaire for the marketing and End-User download of the Custom Applications by End-Users located in the following countries, as updated from time to time via the App Store Connect site. For the purposes of this Agreement, "commissionaire" means an agent
+who purports to act on his own behalf and concludes agreements in his own name but acts on behalf of other
+persons, as generally recognized in many Civil Law legal systems.
+
+Bahrain Belgium
+Bulgaria China
+Cyprus Denmark
+Egypt Estonia
+Finland France Germany
+
+Greece Hong Kong
+Iceland Ireland
+Israel Italy
+Korea Latvia
+Lithuania Luxembourg Malaysia
+
+Malta, Republic of Netherlands
+Norway Philippines
+Qatar Romania
+Russia Saudi Arabia
+Singapore Slovakia Slovenia
+
+Spain Sweden
+Switzerland Taiwan
+Thailand Turkey
+UAE Ukraine
+United Kingdom Vietnam
+
+v116 11 September 2020
+
+DX-3256. 034
+
+APL-APPSTORE 10137376
+
+EXHIBIT B
+
+1. Ap p l e shall collect and remit to the competent tax authorities the taxes described in Section 3.2 of this Schedule 3 for sales of the Custom Applications to Custom App Distribution Customers located in the following countries, as updated from time to time via the App Store Connect tool:
+
+Australia
+Bahrain Belgium Bulgaria
+Canada Chile
+China*
+Cyprus Denmark
+Estonia
+
+Finland
+France Germany Greece
+Iceland Ireland
+Italy Latvia Lithuania
+Luxembourg
+
+Malaysia
+Malta, Republic of Mexico Netherlands New Zealand** Norway
+Romania
+Russia***
+Saudi Arabia
+Singapreo***
+
+Slovakia
+Slovenia Spain Sweden
+Switzerland Turkey
+United Arab Emirates United Kingdom
+United States
+
+* Except for certain taxes to be collected as required by the Chinese government, Apple shall not collect or
+remit additional taxes or levies in China. You understand and agree that You shall be solely responsible for the
+collection and remittance of any taxes as may be required by local law. ** In respect of New Zealand, Apple will not collect any taxes on the basis that sales of Custom Applications to
+Custom App Distribution Customers is not subject to New Zealand GST. *** Solely applicable to non-resident Developers. Apple shall not collect and remit taxes for local Developers, and such developers shall be solely responsible for the collection and remittance of such taxes as may be
+required by local law.
+
+2. Ap p l e shall not collect and remit the taxes described in Section 3.2 of this Schedule 3 for sales of the Custom Applications to Custom App Distribution Customers located in the countries listed below, as updated
+from time to time via the App Store Connect tool. You shall be solely responsible for the collection and remittance of such taxes as may be required by local law.
+
+Argentina Bolivia
+Brazil Colombia Costa Rica
+Dominican Republic Ecuador
+
+Egypt El Salvador
+Guatemala Honduras Hong Kong
+Israel Japan
+
+Korea Nicaragua
+Panama Paraguay Peru
+Philippines Qatar
+
+Taiwan Thailand
+Ukraine Venezuela Vietnam
+
+DX-3256. 035
+
+v116 11 September 2020
+APL-APPSTORE 10137377
+
+EXHIBIT C
+The list of available price tiers and proceeds is set forth in the App Store Connect tool and may be updated by Apple from time to time.
+Customer Price is the price displayed to the Custom App Distribution Customer on the Custom App Distribution Site. The agreed remittance currencies are USD, BRL, CAD, AUD, NZD, JPY, Euro, DKK, NOK, SEK, CHF, GBP, SGD, HKD, TWD, and AED depending on the currency of the Customer Price, as indicated in this Exhibit C and as may be updated from time to time via the App Store Connect site. Customers are charged the following currencies in the following countries:
+AED: United Arab Emirates AUD: Australia BGN: Bulgaria BRL: Brazil CAD: Canada CHF: Switzerland CLP: Chile CNY: China COP: Colombia DKK: Denmark EGP: Egypt Euro: Belgium, Cyprus, Estonia, F inland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta (Republic of), Netherlands, Slovakia, Slovenia, S pain GBP: United Kingdom HKD: Hong Kong ILS: Israel JPY: Japan KRW: Korea MYR: Malaysia MXN: Mexico NOK: Norway NZD: New Zealand QAR: Qatar RON: Romania RUB: Russia PEN: Peru PHP: Philippines SAR: Saudi Arabia SEK: Sweden SGD: Singapore THB: Thailand TRY: Turkey TWD: Taiwan VND: Vietnam USD: Argentina, Bahrain, Bolivia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Iceland, Korea, Nicaragua, Panama, Paraguay, Ukraine, United States, Venezuela
+
+DX-3256. 036
+
+v116 11 September 2020
+APL-APPSTORE 10137378
+
+EXHIBIT D
+1. De li v ery of Custom Applications to End-Users in Canada
+Where You designate Apple Canada to allow access to the Custom Applications to End-Users in Canada:
+1.1 G e neral
+You shall indemnify and hold Apple harmless against any and all claims by the Canada Revenue Agency (the "CRA"), Ministere du Revenu du Quebec (the "MRQ") and the tax authorities of any province that has a provincial retail sales tax ("PST") for any failure to pay, collect or remit any amount(s) of goods and services tax/harmonized sales tax ("GST/HST") imposed under the Excise Tax Act (Canada) (The "ETA"), Quebec Sales Tax ("QST") or PST and any penalties and/or interest thereon in connection with any supplies made by Apple Canada toEnd-Users in Canada on Your behalfand any supplies made by Apple Canada to You.
+1.2 G S T/HST
+(a) This Section 1.2 of Exhibit D applies with respect to supplies made by You, through Apple Canada, as agent to End-Users in Canada. Terms defined in the ETA have the same meaning when used in this Section 1.2. Apple Canada is registered for GST/HST purposes, with GST/HST Registration No. R100236199.
+(b) If You are a resident of Canada or are a non-resident of Canada that is required to register for GST/HST purposes pursuant to the ETA, it is a condition of this Schedule 2, that You are registered for GST/HST or have submitted an application to register for GST/HST to the CRA with an effective GST/HST registration date of no later than the date of this Schedule 3. You shall provide Apple Canada with satisfactory evidence of Your GST/HST registration (e.g., a copy of Your CRA confirmation letter or print-out from the GST/HST Registry on the CRA web site) at Apple Canada's request. You warrant that You will notify Apple Canada if You cease to be registered for GST/HST.
+(c) If You are registered for GST/HST purposes, You, by executing this Schedule 3, (i) agree to enter into the election pursuant to subsection 177(1.1) of the ETA to have Apple Canada collect, account for and remit GST/HST on sales of Custom Applications made to End-Users in Canada on Your behalf and have completed (including entering its valid GST/HST registration number), signed and returned to Apple Canada Form GST506 (accessible on the App Store Connect site); and (ii) acknowledge that the commission payable by You to Apple Canada includes GST at a rate of 5% (or the GST rate as applicable from time to time).
+(d) If You are not registered for GST/HST purposes, by executing this Schedule 3 and not completing, signing and returning Form GST506 to Apple Canada, You (i) certify that You are not registered for GST/HST purposes; (ii) certify that You are not resident in Canada and do not carry on business in Canada for purposes of the ETA; (iii) acknowledge that Apple Canada will charge, collect and remit GST/HST on sales of Custom Applications to End-Users in Canada made on Your behalf; (iv) acknowledge that the commission payable by You to Apple Canada is zero-rated for GST/HST purposes (I.e., GST/HST rate is 0%); and (v) agree to indemnify Apple for any GST/HST, interest and penalty assessed against Apple Canada if it is determined that You should have been registered for GST/HST purposes such that the commission fees charged by Apple Canada were subject to GST.
+1.3 Q u e bec Sales Tax
+Terms defined in an Act respecting the Quebec Sales Tax (the "QSTA") have the same meaning when used in this Section 1.3 of Exhibit D.
+(a) If You are a resident of Quebec, it is a condition of this Schedule 3, that You are registered for QST or have submitted an application to register for QST to the MRQ with an effective QST registration date of no later than the date of this Schedule 3. You shall provide Apple Canada with satisfactory evidence of Your QST registration (e.g., a copy of Your MRQ confirmation letter or print-out from the QST Registry on the MRQ web site) at Apple Canada's request. You warrant that You will notify Apple Canada if You cease to be registered for QST.
+(b) If You are a resident of Quebec, You, by executing this Schedule 3, (i) certify that You are registered for
+v116 11 September 2020
+
+DX-3256. 037
+
+APL-APPSTORE 10137379
+
+QST; (ii) agree to enter into the election pursuant to section 41.0.1 of the QSTA to have Apple Canada collect, account for and remit QST on sales of Custom Applications to End-Users in Quebec made on Your behalf and have completed (including entering its valid QST registration number), signed and returned to Apple Canada Form FP2506-V; and (iii) acknowledge that Apple Canada will not charge, collect or remit QST on sales of Custom Applications made on Your behalf to End-Users located outside Quebec on the assumption that the End-Users are not resident in Quebec and not registered for QST purposes such that the sales are zero-rated for QST purposes.
+(c) If You are not resident in Quebec, by executing this Schedule 3 and not completing, signing and returning Form FP2506-V to Apple Canada, You (i) certify that You are not resident in Quebec; (ii) certify that You do not have a permanent establishment in Quebec; and (iii) acknowledge Apple will charge, collect and remit QST on sales of Custom Applications to End-Users in Quebec made on Your behalf.
+1 .4 P S T
+This Section 1.4 of Exhibit D applies to supplies of Custom Applications made by You, through Apple Canada, as agent, to End-Users in the provinces of British Columbia, Saskatchewan, Manitoba, Ontario, Prince Edward Island and any other province that has or that adopts a PST. You acknowledge and agree that Apple Canada will charge, collect and remit applicable PST on sales of Custom Applications made to End-Users in these provinces by Apple Canada on Your behalf.
+2. De li v ery of Custom Applications to End-Users in Australia
+Where You designate APL to allow access to the Custom Applications to End-Users in Australia:
+2.1 Y o us hall indemnify and hold Apple harmless against any and all claims by the Commissioner of Taxation (" Commissioner" ) for nonpayment or underpayment of GST under the A New Tax System (Goocfs and Services Tax) Act 1 999 ("GST Act") and for any penalties andi or interest thereon. In addition, You shall indemnify and hold Apple harmless against any penalties imposed by the Commissioner for failing to register for GST in Australia.
+2.2 G o o d s and Services Tax (GST)
+(a) General
+(i) This Section 2.2 of Exhibit D applies to supplies made by You, through APL, as agent, that are connected with Australia. Terms defined in the GST Act have the same meaning when used in this Section 2.2.
+(ii) Unl e ss expressly stated otherwise, any sum payable or amount used in the calculation of a sum payable under this Schedule 3 has been determined without regard to GST and must be increased on account of any GST payable under this Section 2.2.
+(iii) I fa n y GST is payable on any taxable supply made under this Schedule 3 by a supplier to a recipient, the recipient must pay the GST to the supplier at the same time and in the same manner as providing any monetary consideration. For the avoidance of doubt, this includes any monetary consideration that is deducted by APL as commission in accordance with Section 3.4 of this Schedule 3.
+(iv) T h ea mount recoverable on account of GST under this clause by APL will include any fines, penalties, interest and other charges.
+(v) This Section 2 of Exhibit D survives the termination of the Agreement.
+(b) Resident Developers or Non-resident GST-Registered Developers
+(i) If You are a resident of Australia, it is a condition of this Schedule 3, that You have an Australian Business Number ("ABN") and are registered for GST or have submitted an application to register for GST to the Commissioner with an effective GST registration date of no later than the date of this Schedule 3. You will provide Apple with satisfactory evidence of Your ABN and GST registration (by uploading to Apple, using the App Store Connect site, a copy of Your GST registration or print-out from the Australian Business Register) within 30 days of this Schedule 3. You warrant that You will notify Apple if it ceases to hold a valid ABN or be
+v116 11 September 2020
+
+DX-3256. 038
+
+APL-APPSTORE 10137380
+
+registered for GST.
+(ii) If Y o u are a non-resident and are registered for GST, it is a condition of this Schedule 3 that You will provide Apple with satisfactory evidence of Your ABN and GST registration within 30 days of this Schedule 3. You warrant that You will notify Apple if You cease to be registered for GST.
+(iii) Y o uand Apple agree to enter into an arrangement for the purposes of s.153-50 of the GST Act. You and Apple further agree that for taxable supplies made by You, through APL as agent, to any End-User:
+(A) APL will be deemed as making supplies to any End-User;
+(B) You will be deemed as making separate, corresponding supplies to APL;
+(C) APL will issue to any End-User, in APL's own name, all tax invoices and adjustment notes relating to supplies made under section (iii)(a);
+(D) You will not issue to any End-User any tax invoices or adjustment notes relating to taxable supplies made under section (iii)(a);
+(E) APL will issue a recipient created tax invoice to You in respect of any taxable supplies made by You to APL under this Schedule 3, including taxable supplies made under section (iii)(b); and
+(F) You will not issue a tax invoice to Apple in respect of any taxable supplies made by You to Apple under this Schedule 3, including taxable supplies made under section (iii)(b).
+(c) Non-resident, Non-GST-registered Developers
+If You are a non-resident and are not registered for GST, then:
+(i) APL will issue to any End-User, in APL's own name, all tax invoices and adjustment notes relating to taxable supplies made by You through APL as agent; and
+(ii) Yo u w ill not issue to any End-User any tax invoices or adjustment notes relating to taxable suppliesmade by You through APL as agent.
+3. De li v ery of Custom Applications to End-Users in the United States
+Where You designate Apple Inc. to allow access to the Custom Applications to End-Users in the United States:
+3.1 I fY o u are not a resident of the United States for U.S. federal income tax purposes, You will complete Internal Revenue Service Form W-8BEN and/or any other required tax forms and provide Apple with a copy of such completed form(s), and any other information necessary for compliance with applicable tax laws and regulations, as instructed on the App Store Connect site.
+3.2 I fA p ple, in its reasonable belief, determines that any state or local sales, use or similar transaction tax may be due from Apple or You in connection with the sale or delivery of any of the Custom Applications, Apple will collect and remit those taxes to the competent tax authorities. To the extent that the incidence of any such tax, or responsibility for collecting that tax, falls upon You, You authorize Apple to act on Your behalf in collecting and remitting that tax, but to the extent that Apple has not collected any such tax, or has not received reimbursement for that tax, from End-Users, You shall remain primarily liable for the tax, and You will reimburse Apple for any tax payments that Apple is required to make, but is not otherwise able to recover.
+3.3 I nt he event that You incur liability for income tax, franchise tax, business and occupation tax, or any similar taxes based on Your income, You shall be solely responsible for that tax.
+4. De li v ery of Custom Applications to End-Users in Japan
+Where You designate iTunes KK to allow access to the Custom Applications to End-Users in Japan:
+v116 11 September 2020
+
+DX-3256. 039
+
+APL-APPSTORE 10137381
+
+4.1 Y o ua cknowledge and agree that You have the sole responsibility for: (i) consumption tax output liability, if any, with respect to delivery on Your behalf of Your Custom Applications to End-Users by iTunes KK; (ii) filing of consumption tax returns and payment of consumption tax to the Japanese government, if applicable; and (iii) determining independently, in consultation with Your own tax advisor, Your taxpayer status and tax payment obligations for consumption tax purposes.
+4.2 Co m m issions charged by iTunes KK to Japan resident developers will include consumption tax.
+5. De li v ery of Custom Applications to End-Users in countries listed in Exhibit A, Section 2
+Where You designate Apple Distribution International Ltd., located at Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland to allow access to the Custom Applications to End-Users in Exhibit A, Section 2:
+You acknowledge that in the event Apple Distribution International Ltd. is subject to any sales, use, goods and services, value added, or other tax or levy with respect to any remittance to You, the full amount of such tax or levy shall be solely for Your account. For the avoidance of doubt, any invoice issued by You to Apple Distribution International Ltd. will be limited to amounts actually due to You, which amounts shall be inclusive of any value added or other tax or levy as set forth above. You will indemnify and hold Apple harmless against any and all claims by any competent tax authorities for any underpayment of any such sales, use, goods and services, value added, or other tax or levy, and any penalties and/or interest thereon.
+6. De li v ery of Custom Applications to Custom App Distribution Customers in New Zealand
+Where You designate APL to allow access to the Custom Applications to Custom App Distribution Customers and their related end-users in New Zealand:
+(A) General
+(i) You shall indemnify and hold APL harmless against any and all claims by the Inland Revenue for nonpayment or underpayment of GST under the Goods and Services Tax Act 1985 ("GST Act 1985") and for any penalties and/or interest thereon.
+(ii) Th i s Section 6 of Exhibit D applies to supplies made by You, through APL as agent, to any Custom App Distribution Customer who is resident in New Zealand. Terms defined in the GST Act 1985 have the same meaning when used in this Section 6 of Exhibit D.
+(iii) Th i s Section 6 of Exhibit D survives the termination of the Agreement.
+(iv) Y o uand Apple agree that APL is the operator of the electronic marketplace in respect of supplies made by You, through APL as agent, to any Custom App Distribution Customer who is resident in New Zealand, and is treated as the supplier of those supplies under s. 60C of the GST Act 1985 for GST purposes.
+(B) Resident Developers
+(i) If You are a resident of New Zealand, You and Apple agree under s.60(1C) of the GST Act 1985 that supplies of services made by You through APL as agent to any Custom App Distribution Customer resident in New Zealand, are treated as 2 separate supplies for GST purposes, being-
+(a) a supply of services from You to APL; and
+(b) a supply of those services from APL to the Custom App Distribution Customer resident in New Zealand.
+(ii) Yo u a nd APL acknowledge that the supply of services from You to APL for GST purposes under Section 6(B)(i)(a) of this Exhibit D is not subject to GST under the GST Act 1985.
+(C) Non Resident Developers
+(i) If You are a non resident of New Zealand, You and Apple agree under section 60(1B) of the GST Act 1985 that supplies of services made by You through APL as agent to any Custom App Distribution
+v116 11 September 2020
+
+DX-3256. 040
+
+APL-APPSTORE 10137382
+
+Customer resident in New Zealand, are treated as 2 separate supplies for GST purposes, being-
+(a) a supply of services from You to APL; and
+(b) a supply of those services from APL to the Custom App Distribution Customer resident in New Zealand.
+(ii) Yo u a nd APL acknowledge that the supply of services from You to APL for GST purposes under Section 6(C)(i)(a) of this Exhibit D is not subject to GST under the GST Act 1985.
+(D) APL will issue to any Custom App Distribution Customer, in APL's own name, the required documentation relating to supplies made under this Section 6 of Exhibit D.
+(E) You will not issue to any Custom App Distribution Customer any documentation relating to supplies made under this Section 6 of Exhibit D.
+7. De li v ery of Custom Applications to Custom App Distribution Customers in Brazil
+Where You designate Apple Inc. to allow access to the Custom Applications to Custom App Distribution Customers in Brazil::
+(A) General
+7.1 Y o ua cknowledge and agree that You have the sole responsibility for: (i) any indirect taxes liability (including but not limited to goods and services taxes), with respect to delivery on Your behalf of Your Custom Applications to Custom App Distribution Customers by Apple; (ii) filing of indirect tax returns and payment of indirect taxes to the Brazilian government, if applicable; and (iii) determining independently, or in consultation with Your own tax advisor, Your taxpayer status and tax payment obligations for indirect tax purposes.
+7.2 Y o ua uthorize consent to, and acknowledge that Apple may use a third party in Brazil, an Apple subsidiary and/or a third party vendor (the "Collecting Entity" ), to collect any amounts from Custom App Distribution Customers for the Custom Applications and remit such amounts out of Brazil to Apple to enable the remittance of Your proceeds to You.
+7.3 T ot h e extent withholding taxes are applicable on remittances out of Brazil of the prices payable by Custom App Distribution Customers for the Custom Applications, the Collecting Entity will deduct the full amount of such withholding tax from the gross amount owed to You by Apple and will pay the amount withheld to the competent Brazilian tax authorities in Your name. The Collecting Entity will use commercially practical efforts to issue the respective withholding tax forms, which will be provided to You by Apple as provided in the Brazilian tax law. You are solely responsible for providing any additional documentation required by the tax authorities in Your country to be able to claim any foreign tax credits, if applicable.
+(B) Non Resident Developers
+7.4 I fY o u are not a resident of Brazil and to the extent withholding taxes are applicable on the remittances out of Brazil of the gross amount owed to You, You may provide to Apple Your country of residence certificate or equivalent documentation to claim a reduced rate of withholding tax under an applicable income tax treaty between Your country of residence and Brazil. The Collecting Entity will apply a reduced rate of withholding tax, if any, as provided in the applicable income tax treaty between Your country of residence and Brazil, only after You furnish Apple with the documentation as required under that income tax treaty or otherwise satisfactory to Apple, which is sufficient to establish Your entitlement to that reduced rate of withholding tax. You acknowledge that the reduced rate will only take effect after Apple approves and accepts the tax residence certificate or equivalent documentation provided by You. Notwithstanding section 3.3 of Schedule 3, if Your funds will be remitted out of Brazil prior to receipt and approval by Apple of such tax documentation, the Collecting Entity may withhold and remit to the competent tax authorities the full amount of withholding tax unreduced by any tax treaty, and Apple will not refund to You any amount of such taxes withheld and remitted.
+You will indemnify and hold Apple and the Collecting Entity harmless against any and all claims by any competent tax authority for any underpayment of any such withholding or similar taxes, and any penalties and/or interest thereon, including, but not limited to, underpayments attributable to any erroneous claim or
+v116 11 September 2020
+
+DX-3256. 041
+
+APL-APPSTORE 10137383
+
+representation by You as to Your entitlement to, or Your actual disqualification for, the benefit of a reduced rate of withholding tax.
+(C) Resident Developers
+7.5 I fY o u are a resident of Brazil, You must update Your account with Your respective Brazilian taxpayer number (CNPJ or CPF, as applicable). You acknowledge that by not providing Your respective Brazilian taxpayer number, Your Custom Applications may be removed from the Brazilian storefront until such time as your Brazilian taxpayer number is provided.
+8. Australian Developers -- Sale of Custom Applications to Custom App Distribution Customers Outside Australia
+If You are a resident of Australia and You appoint Apple as Your agent or commissionaire for the marketing, sale and delivery of the Custom Applications to Custom App Distribution Customers and their related EndUsers outside of Australia, it is a condition of this contract that You confirm that You have an Australian Business Number ("ABN") and are registered for GST under the A New Tax System (Goods and Services Tax Act 1999 ("GST Act"). You will provide Apple with satisfactory evidence of Your ABN and GST registration (by uploading to Apple, using the App Store Connect site, a copy of Your GST registration or print-out from the Australian Business Register) within 30 days of this Schedule 3. You warrant that You will notify Apple if You cease to hold a valid ABN or be registered for GST.
+9. New Zealand Developers -- Sale of Custom Applications to Custom App Distribution Customers Outside New Zealand
+If You are a resident of New Zealand and You appoint Apple as Your agent or commissionaire for the marketing, sale and delivery of the Custom Applications to Custom App Distribution Customers and their related End-Users located outside of New Zealand, You and Apple agree that under s.60C and 60(1C) of the GST Act 1985, supplies of services made by You through Apple as agent to any Custom App Distribution Customer resident outside of New Zealand are treated as 2 separate supplies for GST purposes under the GST Act 1985, being-
+(i) a supply of services from You to Apple; and (ii) a supply of those services from Apple to the Custom App Distribution Customer resident outside of New Zealand.
+You and Apple acknowledge that the deemed supply of services from You to Apple under (i) above will not result in a GST cost to Apple under the GST Act 1985.
+10. Japan Developers -- Sale of Custom Applications to Custom App Distribution Customers Outside Japan
+If Your principal or headquarters' office is located in Japan and You appoint Apple as Your agent or commissionaire for the marketing, sale and delivery of the Custom Applications by Custom App Distribution Customers and their related End-Users located outside of Japan, You shall reverse charge any Japanese consumption tax that is payable on the commissions received by Apple in consideration for its services as Your agent or commissionaire under this Schedule 3.
+11. Korean developers - Delivery of Custom Applications to Custom App Distribution Customers in Korea
+If You are a resident of Korea and You appoint Apple Distribution international Ltd. as Your agent or commissionaire to deliver Custom Applications to Custom App Distribution Customers in Korea, it is a condition of this Schedule 3 that You have a Korean Business Registration Number ("BRN") or a Registration Number with Korean National Tax Service (collectively "Korean Tax ID").
+You must update Your account with Your respective Korean Tax ID when prompted in App Store Connect. You acknowledge that by not providing Your respective Korean Tax ID, Your Custom Applications may be removed from the Korean Store or Your remittance payment under section 3.5 of Schedule 3 may not be made for Your applicable Custom Applications until such time as Your Korean Tax ID is provided.
+v116 11 September 2020
+
+DX-3256. 042
+
+APL-APPSTORE 10137384
+
+At Apple Distribution International Ltd.'s request, You will provide Apple with satisfactory evidence of Your Korean Tax ID (e.g., business registration certificate or print-out from the Korean National Tax Service's Home Tax website). You warrant that You will notify Apple if You cease to hold a valid Korean Tax ID.
+If You do not provide a valid Korean Tax ID to Apple, Apple reserves the right to charge Korean VAT on any services provided to You under this Agreement.
+12. Singapore developers - Delivery of Custom Applications to Custom App Distribution Customers in or outside Singapore
+If You are a resident of Singapore and You appoint Apple as Your agent or commissionaire to deliver Custom Applications to Custom App Distribution Customers in the jurisdictions specified in Exhibit A, it is a condition of this Schedule 3 that You confirm to Apple whether You are registered for Singapore GST. If You are registered for GST, You are required to provide Your Singapore GST registration number upon request.
+If You are not registered for Singapore GST or do not provided Your Singapore GST registration number to Apple, pursuant to Singapore tax regulations, Apple will apply Singapore GST on the commission payable by You to Apple to be deducted from Your remittance.
+13. Malaysian developers - Delivery of Custom Applications to Custom App Distribution Customers in or outside Malaysia
+If You are a resident of Malaysia and You appoint Apple as Your agent or commissionaire to deliver Custom Applications to Custom App Distribution Customers in the jurisdictions specified in Exhibit A, pursuant to Malaysian tax regulations, Apple will apply Malaysia Service Tax on the commission payable by You to Apple to be deducted from Your remittance.
+14. Mexican developers - Delivery of Licensed Applications to End-Users in Mexico
+If You are a resident of Mexico, Apple will apply VAT on the commission payable by You to Apple to be deducted from Your remittance, pursuant to Mexican tax regulations. Apple will issue the corresponding invoice for such commission.
+Apple also will apply the withholding income tax rate applicable to individuals on remittances for sales of the Licensed Applications to End-Users located in Mexico, pursuant to Mexican tax regulations. Apple will deduct the full amount of such withholding income tax from the gross amount owed to You by Apple and will pay the amount withheld to the competent Mexican tax authorities. Apple will issue the respective withholding income tax certificate.
+If You are registered and have a valid tax ID in Mexico (known as the R.F.C), You must provide Apple with a copy of Your Mexican tax ID registration by uploading it using the App Store Connect tool. You warrant that You will notify Apple if You cease to hold a valid tax ID. If You do not provide proof to Apple of Your Mexican tax ID, Apple will apply the highest income tax rate in accordance with Mexican tax regulations.
+
+DX-3256. 043
+
+v116 11 September 2020
+APL-APPSTORE 10137385
+
+EXHIBIT E
+Instructions for Minimum Terms of Developer's End-User License Agreement
+1. Acknowledgement:You and the End-User must acknowledge that the EULA is concluded between You and the End-User only, and not with Apple, and You, not Apple, are solely responsible for the Custom Application and the content thereof. The EULA may not provide for usage rules for Custom Applications that are less restrictive than the Usage Rules set forth for Custom Applications in, or otherwise be in conflict with, the Apple Media Services Terms and Conditions or the Volume Content Terms as of the Effective Date (which You acknowledge You have had the opportunity to review).
+2. Scope of License: The license granted to the End-User for the Custom Application must be limited to a nontransferable license to use the Custom Application on an Apple-branded Product that the End-User owns or controls and as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions. Solely in connection with certain Apple licensed software, The EULA must authorize a Custom App Distribution Customer to distribute a single license of Your free apps to multiple End-Users.
+3. Maintenance and Support: You must be solely responsible for providing any maintenance and support services with respect to the Custom Application, as specified in the EULA, or as required under applicable law. You and the End-User must acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Custom Application.
+4. Warranty: You must be solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. The EULA must provide that, in the event of any failure of the Custom Application to conform to any applicable warranty, the End-User may notify Apple, and Apple will refund the purchase price for the Custom Application to that End-User; and that, to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Custom Application, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be Your sole responsibility.
+5. Product Claims: You and the End-User must acknowledge that You, not Apple, are responsible for addressing any claims of the End-User or any third party relating to the Custom Application or the end- user's possession and/or use of that Custom Application, including, but not limited to: (i) product liability claims; (ii) any claim that the Custom Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation, including in connection with Your Licensed Application's use of the HealthKit and HomeKit frameworks. The EULA may not limit Your liability to the End-User beyond what is permitted by applicable law.
+6. Intellectual Property Rights: You and the End-User must acknowledge that, in the event of any third party claim that the Custom Application or the End-User's possession and use of that Custom Application infringes that third party's intellectual property rights, You, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+7. Legal Compliance: The End-User must represent and warrant that (i) he/she is not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) he/she is not listed on any U.S. Government list of prohibited or restricted parties.
+8. Developer Name and Address: You must state in the EULA Your name and address, and the contact information (telephone number; E-mail address) to which any End-User questions, complaints or claims with respect to the Custom Application should be directed.
+9. Third Party Terms of Agreement: You must state in the EULA that the End-User must comply with applicable third party terms of agreement when using Your Application, e.g., if You have a VolP application, then the End-User must not be in violation of their wireless data service agreement when using Your Application.
+10. Third Party Beneficiary: You and the End-User must acknowledge and agree that Apple, and Apple's subsidiaries, are third party beneficiaries of the EULA, and that, upon the End-User's acceptance of the terms and conditions of the EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce the EULA against the End-User as a third party beneficiary thereof.
+v116 11 September 2020
+
+DX-3256. 044
+
+APL-APPSTORE 10137386
+
+EXHIBIT F Additional App Store Terms
+
+1.
+
+Dis co v e r a bility on the App Store:The discoverability of Your Licensed Application in the App
+
+Store depends on several factors, and Apple is under no obligation to display, feature, or rank Your
+
+Licensed Application in any particular manner or order in the App Store.
+
+(a) The main parameters used for app ranking and discoverability are text relevance, such as using an accurate title, adding relevant keywords/metadata, and selecting descriptive categories in the Licensed Application; customer behavior relating to the number and quality of ratings and reviews and application downloads; date of launch in the App Store may also be considered for relevant searches; and whether You have violated any rules promulgated by Apple. These main parameters deliver the most relevant results to customer search queries.
+
+(b) When considering apps to feature in the App Store, our editors look for high-quality apps across all categories, with a particular focus on new apps and apps with significant updates. The main parameters
+that our editors consider are Ul design, user experience, innovation and uniqueness, localizations, accessibility, App Store product page screenshots, app previews, and descriptions; and additionally for
+games, gameplay, graphics and performance, audio, narrative and story depth, ability to replay, and gameplay controls. These main parameters showcase high-quality, well-designed, and innovative apps.
+
+(c) If You use an Apple service for paid promotion of Your app on the App Store, Your app may be presented in a promotional placement on the Search results page and designated as advertising content.
+
+To learn more about app discoverability, visit htt s://develo er.a l e . c om/a -store/discoverabilit /.
+
+2.
+
+A cce s s t o App Store Data
+
+You can access data concerning your Licensed Application's financial performance and user engagement in App Store Connect by using App Analytics, Sales and Trends, and Payments and Financial Reports. Specifically, You can obtain all of Your Licensed Application's financial results for individual app sales and in-app purchases (including subscriptions) in Sales and Trends, or download the data from Financial Reports; and You can view App Analytics for non-personally identifiable data that allows You to understand how consumers engage with your Licensed Applications. More information can be found at htt s://develo er.a l e .com/a -store/measurin -a -- erformance/. App Analytics data is provided only with the consent of our customers. For more information, see htt s://develo er.a l e . c om/a -storeconnect/anal ties/. Apple does not provide You with access to personal or other data provided by or generated through use of the App Store by other developers; nor does Apple provide other developers with access to personal or other data provided by or generated through Your use of the App Store. Such data sharing would conflict with Apple's Privacy Policy, and with our customers' expectations about how Apple treats their data. You can seek to collect information from customers directly, so long as such information is collected in a lawful manner, and You follow the App Store Review Guidelines.
+
+Apple handles personal and non-personal information as outlined in Apple's Privacy Policy. Information about Apple's access to and practices concerning developer and customer data can be found in "App Store 8 Privacy," accessible at https://support. apple.corn/en-us/HT210584. Apple may provide some non-personal information to strategic partners that work with Apple to provide our products and services, help Apple market to customers, and sell ads on Apple's behalf to display in the App Store and Apple News and Stocks. Such partners are obligated to protect that information and may be located wherever Apple operates.
+
+3.
+
+P2B R e gulation Complaints and Mediation for EU
+
+Developers established in, and which offer goods or services to customer located in, the European Union may submit complaints pursuant to the Regulation of the European Parliament and of the Council on promoting fairness and transparency for business users of online intermediation services ("P2B
+v116 11 September 2020
+
+DX-3256. 045
+
+APL-APPSTORE 10137387
+
+Regulation" ) related to the following issues at develo er.a l e . com/contact: (a) Apple's alleged noncompliance with any obligations set forth in the P2B Regulation which affect You in the European Union; (b) technological issues relating directly to distribution of Your Licensed Application on the App Store in the European Union that affect You; or (c) measures taken by or behavior of Apple relating directly to distribution of Your Licensed Application on the App Store in the European Union that affect You. Apple will consider and process such complaints and communicate the outcome to You.
+Pursuant to the P2B Regulation, Apple identifies the following panel of mediators with which Apple is willing to engage to attempt to reach an agreement with developers established in, and which offer goods or services to customer located in, the European Union on the settlement, out of court, of any disputes between Apple and You arising in relation to the provision of the App Store services concerned, including complaints that could not be resolved by means of our complaint-handling system:
+Centre for Effective Dispute Resolution P2B Panel of Mediators 70 Fleet Street London EC4Y 1EU United Kingdom htt s://www.cedr.com/ 2bmediation/
+
+DX-3256. 046
+
+v116 11 September 2020
+APL-APPSTORE 10137388
+
+

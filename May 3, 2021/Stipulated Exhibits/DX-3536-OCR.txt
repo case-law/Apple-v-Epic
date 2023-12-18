@@ -1,0 +1,50 @@
+From: Ti m S weeney
+
+Sent: Sat , 11 May 2019 23:52:48 +0000 (UTC)
+
+To: Joe K reiner
+
+Steven Allison
+
+Subject: Fwd; Apology -- Epic Games store woes
+
+- - - - - F o rwarded messa e-- - - -
+From: Tim Sweeney Date: Sat, May 11, 2019 at 7:48 PM Subject: Apology - E ic Games store woes To: Yves Guillefnot
+
+UnitesStatesDistrict Coun Nonttern District of Caiifornia
+
+Case No. 4:20.ev-05640-YGR
+
+Case Title E ie Ganesa,Iae r.. f e ,lae
+
+Exhibit No.DX-3536
+
+Date Entered
+
+shhhhY. shhho Clan
+
+at.
+
+. Dhahlr ulna
+
+Dear Yves,
+
+I'm writing to apologize for the shortcomings in our Epic Games store implementation and our Uplay integration.
+
+In the past 48 hours, the rate of fraudulent transactions on Division 2 surpassed 70%o, and was approaching 90%. Sophisticated hackers were creating Epic accounts, buying Ubisoft games with stolen credit cards, and then selling the linked Uplay accounts faster than we were disabling linked Uplay purchases for fraud.
+
+Fraud rates for other Epic Games store titles are under 2% and Fortnite is under 1%. So 70% fraud was an extraordinary situation.
+
+To stop the fraud, we disabled purchasing of Ubisoit games. We will make our best efforts to restore service as
+quickly as we can. This depends on (I) a real-time system for disabling refunded and fraudulent purchases on Uplay, and (2) anti-fraud itnprovernents in Epic's service. This work will likely take at least 2 weeks to complete.
+
+The fault in this situagon is entirely Epic's, and all of the tninimum revenue guarantees remain in place to ensure our performance.
+I'm sorry for the trouble,
+
+Tim Sweeney Epic Games
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY DX-3536.001
+
+EPIC 00000387
+
+

@@ -1,0 +1,118 @@
+From: Sent: To: Cc:
+
+St e ve Smith ( Tue, 12 May Juli e Truong R ober t Partin o n
+
+Nick Penwarden (
+
+; Thomas Convard
+
+Seb sienMi lio
+
+ic
+
+ng
+
+Subject: Re: New iPad Pro with LiDAR scanner and ARKit 3.5
+
+Hey Robert! The work to integrate the latest ARKit is well underway - I' ll check in with the engineer working on that today to get an update but I imagine we' ll have that integrated and in testing by the end of this week, ready for the 4.26 release later this year. Fll let Sebastien answer on thoughts on the Lidar/enterprise side - I' ve had some general discussion with folks
+on that side but nothing concrete yet,
+
+On Tue,May 12, 2020 at2:49 PM Julie Truong (
+
+wrote:
+
+yes and he asked us to follow up with you to get the ball rolling: )
+
+On Tue, May 12, 2020 at 5:41 PM Robert Partington (
+
+wrote:
+
+Shaan Pruden, Sr, Director WWDR, contacted Kiin today to discuss and start to get the ball rolling. --Rob
+
+On May 12, 2020, at 1:57 PM, Julie Truong Seband +Thomas Convard do you have any feedback forRobert? Robert, what are the next steps to set up a briefing on WWDC?
+Julie On Tue, May 12, 2020 at 2:37 PM Robert Partington
+
+wrote:
+
+United StatesDistriot Court Nonttem District of California
+
+Case No. 4:20-ev-05640-YGR
+
+Case Title E ie fr'nares, lae r.. f e , Inc
+
+Exhibit No.DX-4011
+
+Date Entered
+
+Soull Y. Sooha. Clellr
+
+at.
+
+. Deans clos
+
+wrote:
+
+Hello, Checking in to see how things are going with ARKit 3.5 and if there are any use cases that emerged for the LiDAR scanner in enterprise or virtual sets.
+
+We are ramping up for Virtual WWDC and I want to get UE in the best position for any opportunities that start to pop up:-)
+Thanks,
+
+- Rob
+
+On Mar 27, 2020, at 9:57 AM, Robert Partington wrote:
+
+CONFIDENTIAL
+
+DX-4011.001
+
+EPIC 00433405
+
+Great! I sent an iCal invite for next Tuesday 3/31 at 2:30PM
+UE/Apple Update: New iPad Pro/LiDAR Scanner Scheduled:Mar 31,2020 at2:30 PM to 3:00 PM Location: Virtual Conference Invitees: Nick Whiting, Sebastien Miglio, Julie Truong, Nick Penwarden, Adarsh Pavani, Robert Partington, Steve Smith (iCa!-20200327-09553l.ics) Thanks,
+
+ulie Truong wrote:
+
+Hi Robert, Steve,
+Can you include Sebastien as well? This is really exciting! Thanks, Julie
+
+On Wed, Mar 25, 2020 at 8:22 PM Steve Smith
+
+wrote:
+
+Hi Robert! Yes, we'd definitely be super interested. Nick and I both have openings at the following times over the next week or so (all
+times are Pacific Standard Time):
+Thursday3/26/2020, 2-3pm, 4-Spm Friday 3/27/2020, 3-4pm
+Monday 3/30/2020 3:30pm onwards
+Tuesday3/31/2020 2:30-3:30pm or 4-5pm, Wednesday 4/1/2020 3-4pm Thursday 4/2/2020 4-Spm Friday 4/3/2020 4-Spm
+
+Super excited to find out more - those devices look amazing, Let me know if any of those time slots work!
+
+Steve
+
+On Wed, Mar 25, 2020 at 2:51 PM Robert Partington (
+
+wrote:
+
+Hi Steve, Nick W, Following up on our announcement of the new iPad Pro with LiDAR Scanner
+
+h s //www a l e com/i ad- ro/
+
+h s ://www.insta ram.com/ /B95cf mHXvK/
+
+h s //devel e r le com/au mented-reali / k i t /
+
+CONFIDENTIAL
+
+DX-4011.002
+
+EPIC 0043349e
+
+Would you like to get on the horn with some of the ARKit team to discuss in detail? --Rob
+
+CONFIDENTIAL
+
+DX-4011.003
+
+EPIC 00433497
+
+

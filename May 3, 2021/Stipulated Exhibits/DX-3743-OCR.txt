@@ -1,0 +1,1638 @@
+From: Sent: TQ: Subject: Attachments:
+
+Haseeb Mal ik Thu, 12 Mar 2020 15:58:17+0000 (UTC) Devin Winterbottom Please Print Mobile Business Update - March 2020.pdf
+
+Haseeb Malik Director i Mobile Publishing i Epic Games
+
+ttaitcri States Oistriot Court
+
+es
+
+NorthernDistrcitofCalifornia
+
+CaseNo. 4:20-cv-05640-YGR CaseTitleEicoaraas,Iac. a d ic, Iac. b E vttibit NoDX-3743
+
+Date Entered
+
+Sueuer. Seeeg.CIek
+
+Btr
+
+Dearly Clerk
+
+CONFIDENTIAL
+
+DX-3743.001
+
+Exhibit 0508
+Malik
+EPIC 00385888
+
+Mobile Business Update - March 2020
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.002
+
+EPIC 00385869
+
+o te ear n Ic
+Multiple teams across development and publishing are responsible for maintaining or growing mobile DAU
+
+Product Management
+Team Leads:
+· Br ian C (Director of Product) · Jocelyn L (Sr Producer - Game) · Ja y C (Producer - Tech)
+Initiatives:
+· Li ft early retention via Guided Tutorial and Smart Tips
+· Speed Up Patching Process · In crease count of compatible FN
+devices on Android · Mobile Optimized Ul/UX · Im proved Mobile Analytics
+
+OEM + Android Partnerships
+Team Leads:
+· Haseeb M (Marketing Director) · Hans S (Sr Marketing Manager)
+Initiatives:
+· Ma rketing of Epic Games App · Direct Carrier Billing · OEM 8 Carrier Distribution · Android Portal Optimization · Partner Marketing Opportunities
+
+Product Marketing + Apple Partnership
+Team Leads:
+· Haseeb M (Marketing Director) · Alee S (Marketing Manager)
+Initiatives:
+· Orchestrate GTM plans on mobile
+· Partner with Apple on acquisition and reacquisition co-marketing opportunities - ex. featuring, CRM, UA
+· In ternal Apple escalation for patch delays and other dev issues
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.003
+
+EPIC 00385870
+
+o I e ac roun
+· C urrent Product & Player Context: o M obile drives new accounts: · 3 8%of daily new accounts in FN came in on mobile -(2019 Average) o Mobile retention is low compared to other platforms: · iO S (6% D30) and Android (4% D30) run below PS4 (16%), XB(111%), SW(21%) o E xisting console players are more likely to cross-play: · 4 0%of mobile players have also played on non-mobile platforms · Ap proximatel1y5%of mobile players go from mobile first to console
+· i OS:Launched March 16, 201 8 o 88M Downloads, 67M Accounts New to Fortnite, $631M in Revenue
+· A ndroid: Launched August 13, 2018 o E pic Games App: 80M downloads of EGA o Fortnite: 21MDownloads, 13MAccounts New to Fortnite, $47M in Revenue
+All metrics as of 2/11ti20. All revenue figures are measuradin gross revenue
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.004
+
+EPIC 00385871
+
+tc' I eoa PIow
+
+· 16 stepsfrom Epic Games website to Fortnite Mobile Play screen (20 steps for new device, first time install, 4 additional OS level steps)
+· 6. 67GBFortnite dient package size
+
+2
+
+~
+
+4
+
+4 0
+
+4 0
+
+TF
+
+FIW
+2ll2 2
+
+eFF 2
+
+· FBI
+0
+
+4 FHK4
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.005
+
+EPIC 00385872
+
+o o eP a n s Fl ow Ca ofo u M o l e
+· 7 stepsfrom Google Play Store page to CoD Mobile sign-in screen · 1. 38GBpackage download size
+
+®Call of Duty . Moaito
+
+I -Call of Dilly . Moallo
+
+'tijt jj j
+
+0
+
+iCQQ
+
+jf
+
+DTR
+
+l -.8
+
+Qy
+
+I
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.008
+
+EPIC 00385873
+
+o nI e P a f orm: e e n Ionan P a e r en Mobile retention is similar to PC. Android CRPI is lowest for all platforms and CPI is negative at 0180.
+
+IPlatfarm DI~
+
+Df
+
+D30 D120 AR PDAU ARPPU C RPI (D1$0) I C P I
+
++ + 4+ + IIQS
+Android
+
+~
+
+41%
+350Z D
+
+~
+·
+
+13%~ ~
+11Z. T
+
+6% JP 3%Q Z. · 2 Z. ·
+
+PC · 35+% g 11+% · +4 % + 4% ~
+
+lr S4
+
+49%
+
+26%
+
+16%
+
+13%
+
++ $ 0 3P $ 19 7P g+ $3 59
+
++ $0.02 $20.1 0
+
+$1.13
+
+$0.33 I $18.08g $1 1.6 2
+
+$0.4 2 $18. 94 + $ 25. 26
+
+$2 98
+$2.78
+$3.0 2 $20 . 00
+
+IXe1
+
+44% 21%
+
+11%
+
+9%
+
+$0.51 I $17~$2 $25 .4 3
+
+$20. 0
+
+I Switc h
+
+53%
+
+28%
+
+21%
+
+16% $0.3 9 $19 .3 8 $15 . 10
+
+N/A
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.007
+
+EPIC 00385874
+
+2 o Ie n e earn niianfes oasand a e
+
+1. Optimize Mobile Performance
+
+t t'o
+
+s 0
+
+· Reduce Hitches/min on IOS/Android to less than5 hitches/minute
+
+· Reduce Missed V-Sync to«144
+
+· Reduce total install/patching time by20%on IOS and Android
+
+· Optimize memory use on 3GB devices to support Xcode 11 transition - on track for 3/31
+
+o'I r
+
+0 i
+
+· Guided Tutorial (Uve)
+
+2. ImProve UI Interface · Additional Metagame Tutorials (13.0)
+
+· Lobby Ul Refactor with 3rd Party Agency (14.0+)
+
+· Mobile HUD LayoutTool (13.0)
+
+0 s'
+
+tao
+
+3. Increase Compatible
+
+I
+
+ice
+
+Android Devices
+
+· Add device graylist to allow more Android devices to play Fortnite
+
+4. Improve Funnel Conversion
+
+· Test of diferent web and button howe to improve install conversion of wab trafhc
+
+N/A
+Target 4/30 and
+later
+Live 3/3
+Live 3/3
+
+· Pre-install Opportunity: -260million Android devices
+5. Mobile Partnerships · Direct Canier Billing / Post-install Opportunity1: 21 million Android devices · Negohate extension to keep Fortnite playable on 3GB devices - completed(10% of iOS revenue secured)
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.008
+
+EPIC 00385875
+
+. 0 imtze "o i e e rformance
+
+Key Initiatives
+
+Initiative
+
+Details
+
+KPllm act
+
+Satus
+
+Patching Analytics Improvements
+
+Adding stats to allow us to better understand total patch times and assess patching issues.
+
+Reduce response time of LiveOps Re leased on 2/20.
+
+to patching issues during release Blo cked due to bugs
+
+days.
+
+in tracking.
+
+Prioritized / Selective PSO Cache
+
+Change caching priority of PSOs to reduce time Reduce install time by 3 minutes
+
+player spends installing game.
+
+(-20% overall reduction)
+
+Prioritized PSO
+released on 2/20. Selective PSO unscheduled
+
+Xcode 11 Transition
+
+Ensure that we comply with Apple timelines to migrate to XCode 11 & retain stability on ke y
+devices (original deadline of April 1 extended to Sept - team still attempting 12.30 regardless)
+
+Pr event memo/y crashes on
+
+Scheduled for 3/31
+
+dev ices that equal -19% of all IOS
+
+r evenue
+
+Pre-Patching
+
+Begindownloading updates when a new patch Reduce download time by 20% on In Tech Review
+
+is available without user input.
+
+updates.
+
+Reduce Hitches
+and Missed V<yncs
+
+Optimizing Game Thread and Render Thread that bottleneck CPU as well as additional render related optimizations
+
+Re d uce Hitches/min on IOS/Android to less than 5 hitches/minute Reduce Missed V-Sync to «1%
+
+Unscheduled due to lack of resources
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.009
+
+EPIC 00385876
+
+m rove n erface
+We have scheduled a number of initiatives to improve mobile usability and retention
+In Development
+· Ne w Item Pickup System (Target: 3/17) · Ga meplay Guided Tutorial System (Target: 4/30) · Up dated HUD Layout Tool (Target: 4/30)
+On Roadmap for Future Development
+· Me tagame Guided Tutorial System (Target: 5/12) · Gu ided Battle Royale Mode (Target: 5/26) · Co ntrol Improvements (Default Auto Open Doors/Auto
+Build, etc.) (Date TBD) · Lo bby UI Refactor - 3rd party agency analysis (Date TBD)
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.010
+
+EPIC 00385877
+
+ncrease Com a i e n r o i D evices
+
+To partially close the addressable installed base gap between FN Android and competitors, we are adding a "gray list" of devices that are not officially supported but can play Fortnite.
+
+Fortnite Mobile C a ll of Duty Mobile
+
+PUBG Mobile
+
+Android Minapec
+
+Android 8.0+, 64 Bit, 3GB RAM, Adreno
+530+, Mali G71-MP20, Mali
+G72 MP12+
+
+Android 5.0+, 2GB RAM (Uno(riclally: Snapdragon 625+, At(tone 506+GPU)
+
+Android 5.0+, 2GB RAM
+
+Total Android Devices
+
+2. i4B
+
+Incremental COD Mobileand PUBG Mobile compatible devices
+
+Estimated WW Device Coverage
+
+260M Devices
+
+2.6B Devices
+
+2.6B Devices
+
+2001i
+280M
+
+Potential FN compatible devices
+Current FN compatible devices
+
+Source: IDC Mobile Tiscker
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.011
+
+EPIC 00385878
+
+m rove unne Conversion
+
+Install Funnel on Web suffers from dropmffs from possible side loading friction and high min-spec check on Android
+
+A n ro' nn el d - ff
+
+Clicked Download on Web
+
+Opened Epic Games App
+
+Passed FN Min Spec Check
+
+Party Hub Installed
+
+FN Installed
+
+1WTQI
+lPIC
+
+37o/o drop-off
+
+40o/o drop-off
+
+2o/o
+drop-off
+
+Key Initiatives for 2020
+· Imp rove tracking oifnstallfunnel on web
+· Ena ble graylist devices to install Fortnite on Galaxy Store · Opt imize web flow to reduce drop-off points
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.012
+
+6o/o
+drop-off
+EPIC 00385879
+
+obile Qrtnerships: Android & Apple
+Strategic partnerships on Android help supplement acquisition as a result of sideloading andmin spec challenges, while Apple focuses on amplif'ying key beats and continuing to support existing devices
+
+Android Acquisition
+Increase Epic Games app availability and improve install flow w/ OEM partners
+· Tes t launchin w ith OnePlus ~M 2 02 0
+· Bac kground install on all eligible devices in addition to pre-installs on new flagships, optimized install flow removing prohibitive prompts (Unknown Sources) Pre-install Opportunity: -260 million Android devices
+Establish additional strategic partnershi ps
+· Cur rent coverage with Samsung, Huawei, Sony, LG: 84.8%
+· Add Xiaomi, OnePIus, Vivo, Lenovo and Oppo for -95%.
+
+Android Expansion & Nlonetization
+Add Carrier Partnerships · Di r ect Carrier Billing pilot program currently scheduled to launch April 2020 with Fortumo as official Merchant of Record o C arrier Billing at 95/5 R/S = Co-Marketing rights / Fortnite IP usage o P ost-installs / Software updates = In-game content+ discounted currency promotions
+· La u nch partners indude Hutchison, Telefonica 8 Verizon. Estimated post-install opportunity -121 million Android devices
+
+Apple Publishing
+Distribution · Ne gotiate exceptions and support that allow Fortnite to continue serving existing iOS players(iOS Dec Rev: 47% 2GB devices, 194/ select 3GB devices)
+Co-Marketing · Dr i ve re/acquisition by amplifying key beats (ex: Season launch, RMTs, IP integrations, new mobile features)
+· Pr o mote regional initiatives to drive engagement (ex: Carnaval, Ramadan)
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.013
+
+EPIC 00385880
+
+APPENDIX
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.014
+
+EPIC 00385881
+
+2 o I e e v enue an a r lng or e cas
+
+2020 Revenue Forecast IOS Android Total Mobile Total Revenue Forecast % of Total Revenue
+2020 Marketing Budget Forecast
+Android Total Mobile Total Marketing Budget % of Total Marketing Budget
+
+2019 $254M $25M $279M $ 3,705 M
+8%
+2019
+$36M $3.6M $ 39.6M $529M
+7'/o
+
+2020 $183M $26M $209M $3, 072M
+7%o%u
+2020 $22M $3.1M $25. 1 M $309M
+8%
+
++I28% +4o/o 25% -17o/o NIA
++I-41 /o -14% -36.6o/o -42%
+NIA
+
+2020 YTD $29M $4M $33M $484M
+7o/o
+
+Vs. Forecast +9 +9% +9% +9%
+N/A
+
+2020 YTD
+$702K $258K $960K $14M
+
+Vs. Forecast
++50% +11% +37% +11%
+
+6.8%
+
+N/A
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.015
+
+EPIC 00385882
+
+tmlze o I e Performance
+Download and Patching Process remains a challenge on mobile due to Fortnite Download Size relative to competitors
+
+Initial IPA Download Size Initial IPA Download Time' Final Download Size First Load/Patch Time" Days Between Patch: Last 80 Days' Sign In Time'"
+
+Fortnite PUBG COD: Mobile
+
+199MB 2.4GB
+
+1.8GB
+
+228 3m 50s
+
+3m
+
+8.23GB 2.53GB 1.83GB
+
+14m 24s 6s
+
+338
+
+7.5
+
+15
+
+228
+
+10s
+
+58
+
+Key Insights:
+· Co m petitor IPAs are substantially bigger, reducing the size of additional downloads after players get in game
+· FN ' s final download size is much bigger, causing first load to take longer than any download step of any competitor
+
+1: All games wwe tested once as freshinstalls on 12/1 1/2019 on iPhone X over the EPICSECURE
+networkin CRI V. 2: CCD: Mobile was released 10/1,
+3: tm 30s induding BP video for FTUE 4: Ooes not indude 'optfmizatfon' step.
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.018
+
+EPIC 00385883
+
+2 o i e n e e arn niia wee verwew
+
+I
+
+·
+
+·
+
+·
+
+Optimize Mobile Performance
+Improve Ul Interface
+Increasing Compatible Android Devices Increase Funnel Conversion
+Mobile Partnerships
+
+· Improved patching analytics
+
+· Limited engineering resouroes prevent us from
+
+· Priodtized Pipeline State Object Caching
+
+makinga headway on high impact work
+
+· Pre-patching updates when available without · Mu ltiple high priority SH randomize team and
+
+player initiated actions
+
+delay work currently in flight
+
+· In-Game Performance Improvements
+
+· Addopt out / opt in flow for High Res MIPs
+
+· Reduces Hitches/min on IOS/Android to less then 5
+· Reduce Missed V-Sync to «1 % · Reduce total install/patching time
+by 20% on IOS end Android · Increase D1 4to DSOretention by
+200 basis points
+
+· Enhancements to Guided Tutodial for Mobile · Ul work olten gets depriorazed due to higher
+
+· Front End Tutorial fior Mobile
+
+priority work
+
+· Build Custom HUD Layout Tool for Mobile · No dedicated Ul resources to assist with design
+
+· Mobile Centric Ul/UX o ptimizations
+
+· Incmase mobile retention by S00 basis points on DI and 200 basis points on DT
+
+· Set up "gray list" of devices that will be
+allowed to irwtall FN, even if they are not oflicially supported
+
+· Loss of IOS 2GB memory entitlement would
+
+· Incmase addressable market share
+
+cause us to lose -50% of IOS device compatibilily by 150 million devices
+
+· Limited opportunities to reduce min-spec further
+
+without signigcantly degradinggameperformance
+
+· Improve tracking of install funnel on web · Enable graylisl devices to install Fortnite on
+Galaxy Stow · Optimize web flow to reduce dropog points
+
+· Funnel data for Samsung flow has been
+unreliable. Ungl we can fully resolve this issue, Samsung funnel data cannot be relied on.
+
+· End to end tracking of installs from web traac through Samsung and Epic install liow.
+· Incmase Android installs by 50%
+
+· Launch optimized insmg flow and new distribution mechanic with OnePlus on 4/I 5
+· Once OP test is complete, measure resugs
+and package installation work to be implemented by all other partnem · Launch pilot Gamer Billing program with Hutch snd Telefonica in select EU markets · Apple GDC meeting on reacquiraion tactics
+and competitive dale
+
+· Dev work by EGS & Installer team not prloritized
+above other tasks
+· Potential DCB partners have required gnancial revenue information to proceed with required commercial terms, which Epic can't provide
+
+· DCB Opportunity (total Android
+users on Hutch, Telefonica or
+Verizon networks in pilot markets):
+121 million · Pre/post«nstall Opportunity:
+(total supported Andmid devices
+currently in use per FOTA updates from existing OEM partners): -250
+million
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.017
+
+EPIC 00385884
+
+obil ech and ature Roadma
+
+I
+
+Initiative
+PrioritizedlSelective PSO Cache Xcode 11 Transition Patching Analytics Improvements
+
+Details
+
+KPI Impact
+
+Status
+
+ChangecachingpriorilyofPgos tonuluoetime phyer spendsinslaging game.
+Ensumthat we complywith Appletimelines to migrate to Xcode1 1&retainstabilityon keydsvioes
+Addingamiatoallowusto bauer undemtandtotal patch timesandassess patchirlgissues.
+
+Reduceinslagtimeby2 minutes{-30%overallreduraton) Baheduledfor 12.10
+
+Pnwant memorycrashesondevicesthatequal-10%of ah Bcheduledfor
+
+100 mvenue
+
+12.20
+
+Reduceresponsefimeof Ltveopstopatchingissues duringreleasedays.
+
+Releasedwith 12.0
+
+Pre4hatc hing Guided Tutorial Improvements
+
+Begindownloadingupdateswhenanew patchis availablewithoutuser inpub
+Congnuefoenhanceguuedtutorial lo impmw onbasngngesperiencsend D1-DTAelsnhon
+
+Reduoedownloadtimeby25% anupdates.
+Impmw D1 nt.enganby200basispoints Impmw Dy nrlenhonby180basispoinw
+
+InTech Review In Dedgn*
+
+Smart Tips Updates Guided BR Mode
+dvd Bots
+UUUX Hit List of Player Facing Improvements
+* Pamgngmetr wend sppmwffmmArson PAst
+
+Addloeviumggmerf Tatesfutsmta fmprow fdefwr conrperhensfanofgsm eplsym echanics
+
+hupmw D14relangw by150healspole& lmprow D30 mlenganby100 basispain&
+
+flew genwmmmaat Sstsndsbeyondtutarfs(and hwchss BRsperydcmaohanias lo nsw pmyws
+
+fmfuow Dt mawlaw by by150beatspafnls Impmw Dynrlenuanby100basispaine
+IncmaseBR gamespfefucrdhyby5%
+
+N8worrbo8nfirrggellis modeortrrrabffs shrasr loCDD: ha btumatrdhnwprayema mnuihnze msmsahasrdti glrrrmplslr IsNrultmlscshrsehfrlg
+
+fmpmw Df mhwbonby by100nesSpaints lnyrrow Dr mlangonby 50basispofnts hnprowplayerkgwffsnwargoby 10%
+
+Asana ol10155~t
+
+sba sedon UmrResearch
+
+gratWNhrlprolo meolmag u880INtrof Ihemotdhrgalas
+
+lrnprowDI Ialsrrambl'200 basispalIlls impnrveDtd rutenamby150heelspaine leyew D30 relantbn by100healspoinls
+
+irr Dssfgn* InDemgn* In Dssfgn In Design*
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.018
+
+EPIC 00385885
+
+pi a mes App Oyerviettt
+What it is: The Fortnite Installer adapted and rebranded as the Epic Games App, with the goal of becoming the Epic Games Store on Mobile and hosting multiple third-party mobile games
+Distribution: App is currently available for download via APK at EpicGames.corn and preinstalls on select mobile devices through OEM partnership agreements
+Challenges: Awareness, availability, install flow, understanding of what it is, limited content otfering, differing game package sizes, product ownership, existing OEM agreements and established terms
+
+Fortnite Installer
+
+Epic Games App
+
+Installer phase
+
+EPIC
+GAatas
+· e
+
+Used to download...
+
+Fortnite (201 8)
+
+ZQQ
+
+Fortnite Battle Breakers Spyjinx
+
+(2010)
+
+(2019)
+
+(2020)
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.019
+
+EPIC 00385886
+
+o nl e P a form: ns al s U eve nue
+
+t
+
+Mobile (IOS in particular) is a big source of new players but DAU and revenue trails all other platforms
+
+04 Downloads,Average DAU and Revenue byPlatform
+
+5M
+
+10.0M
+
+9.6M
+
+3400.0M
+
+7.5M 50M 25M 0.0M
+
+R
+
+f
+
+I
+
+I 6.8M
+
+I
+
+I 5.8M
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+25M
+
+I
+
+r2 7M ·
+
+I
+9-:", , M ,
+
+5212.9M
+
+4.2M
+
+31M
+
+2.9M 2 4M2'203 4M 2 5M
+".SgrOM
+
+iOS Andr oi d PS4 J
+
+XB1
+
+Switc h
+
+PC
+
+· Downloada IQ4) · Av erage DAU (Q4)· Revenue lQ4)
+
+3300.0M 3200.0M 3100.0M
+
+In Q4 Mobile accounted for: · 40 .3%of new to network downloads of Fortnite · 13 v8%of MAU
+· 9. 9 %o9f DAU · 7. 1%oo%fuRevenue
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.020
+
+EPIC 00385887
+
+o nI e P a f orm: 02 o o a e n s s Ad R evenue
+
+I
+
+Mobile continues to drive 40% of New to Network installs in 2020, while contributing 7% of revenue
+
+Downloads and Avg. DAU (2020To Date)
+12,000.000 10,000,000 $,000,000 6,000,000
+
+· ·
+
+I ··
+
+Andro d
+
+PS4
+
+Xoor
+
+· Downoald · Ard DAU
+
+Gross Revenue (2020 to Date)
+
+S200,000,000 5150,000,000 5100.000.000 550,000,000
+IDS And rord P54
+
+Is
+
+Xodr Swnr n
+
+PC
+
+· Mo bile revenue currently tracking at 10% ahead of plan fo2r020
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.021
+
+EPIC 00385888
+
+o nl e o t e ' erformanceOvervlew
+
+Ptaffor m
+
+Down loads (LTD)
+
+Gross Revenue (LTD)
+
+Mobile
+
+105M
+
+$859M
+
+iOS
+
+85M
+
+$614M
+
+Android
+
+20M
+
+$45M
+
+Console (XBOX, PS4, Switch)
+
+140M
+
+$8.29B
+
+PC
+
+77M
+
+$1.07B
+
+Totals
+
+322M
+
+$10.02B
+
+· Mob ile represents the following of the totals o 33 %of downloads o 13. 8 0%of MAU o 9.9 2 %of DAU o 6.5 8%of revenue
+
+DAU (Q4 Avg) 2.6M 2.2M
+400K 20.7M 2.9M 25.2M
+
+MAU (Q4 Avg) 9.8M
+7.7M 2.1M 52.2M 9M
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.022
+
+EPIC 00385889
+
+o nl e o l e ' erformanceOvervlew
+
+Plafform
+
+Downloads (Q4)
+
+Mobile iOS Android
+Console (XBOX, PS4, Switch) PC Totals
+
+9.3M 6.8M 2.5M
+2.5M 23.1N
+
+Gross Revenue (Q4)
+$61.5M $52.7M $8.6M
+$717M
+$85M $853.5N
+
+DAU (Q4 Avg) 2.6M 2.2M
+400K 20.7M 2.9M
+
+MAU (Q4 Avg) 9.8M
+7.7M 2.1M 52.2M 9M 71N
+
+· In Q 4 Mobile accounted for: c 4 0.34kof new to network downloads of Fortnite 0 13. 8%o%f uMoAU
+o 9. 9%o%ofuDAU o 7 . 1o%o%f Ruevenue
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.023
+
+EPIC 00385890
+
+obiie.Partnerships; Androi Current OEM Partnerships Scorecard
+
+Manufacturer
+
+Samsung
+
+Huawel
+
+Sony
+
+LG
+
+Totals
+
+Stan dais
+
+August 9, 201 8
+
+January22,2019
+
+March 1, 201 9
+
+Aprfi 1, 2019
+
+Contract Lenlgh
+
+Three years
+
+One year (contract expired)
+
+Twoyearn
+
+One year
+
+Preinslafi Agreements
+
+- App stub in Game Launcher on Galaxy Note 9, S10, Note 10, linking to Galaxy Store inslafi flow
+Europe - Preinstafi on designated Unlocked Galaxy S1 0 Series in
+
+Preinslsfi on +1 screen and in spp tray on HONOR
+View20and HONOR 20 /20 Pro devices
+
+Preinslsg on+1 screen, in app tray and available
+within Game Enhanoer on afiXperis I 8 5 devices
+
+Preinstafi on +1 screen andin app bay on LG
+V50 Dual Screen (Korea + Global)) devices
+
+Preinslafi Commitments
+
+No contractual commitment from Samsung
+
+Contractual obligation: 5M Preinslafis
+
+Verbal Target: SM Preinslafis
+
+Verbal Target: IM Pminslafis
+
+9M
+
+Preinstafi Results to date
+
+19,095,546 "App Stub Inslafis" (in Game Launcher) 10M "Preinstafis" (Galaxy S10 EU)
+
+IM
+
+App Portal Agreements
+
+Fortnite Installer available within Galaxy Store on afi supported devices
+
+Fortnite Installer available within Huawei App Gallery
+
+N/A
+
+App Portal Install Resufsito date
+
+16M
+
+2M
+
+N/A
+
+18M
+
+Outfit Redemption Results
+Revenue Split
+
+4M
+FN: 88/12 hfon-PNr gm
+
+108K FN: 100/0
+
+FN: 100/0
+
+N/A FN: 100/0
+
+4.1M
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.024
+
+EPIC 00385891
+
+obiie Partnerships: Androi
+Partnership Terms
+Technical Requirements to work with Epic Games moving forward...
+
+Preinstall Placement OTA updates Deep linking WhitelistingI System Privilege DCB Integration (Carriers)
+
+Epic Games app availability on all new devices
+Capacity to reach all "legacy" devices with post-install via over the air software updates
+Ability to deep link to optimized flow, not sideload flow
+Removal of: APK damaging device prompt Sources unknown
+API integration under Epic approved DCB merchant of record
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.025
+
+EPIC 00385892
+
+obile Partnerships; Androi Additional strategic OEIN partnerships (if technical requirements are met)
+
+Targeted 2020 OEM Partners
+
+Samsung Huawei Sony
+
+Xiaomi OnePlus
+
+LG
+
+Vive
+
+Lenovo
+
+OPPO
+
+Status Terms
+
+In Contract
+
+On Hold
+
+In
+Contract
+
+Made Con(ad
+
+3Yeem
+(Endhnghnng0, 2021)
+
+I Year
+(Ended Dee21.
+201 0)
+
+2 Years
+(Ending Feh20, 202I)
+
+In Dralt Phase
+
+In
+
+In
+
+Contract Conversation
+
+Made contact
+
+In Conversation
+
+1 Year
+
+(Ending hrehnh
+
+N/A
+
+N/A
+
+N/A
+
+00, 2020)
+
+Meets required technical terms
+
+Yes
+
+Total Supported
+
+(Fortnite) Device Market Share
+
+56%
+
+(excl. China)"
+
+No
+
+No
+
+Yes
+
+No
+
+TBD
+
+TBD
+
+TBD
+
+3.1%
+
+2.6%
+
+1.4%
+
+1.1%
+
+TBD
+
+Based on IDC sales data fiom Q3/2915-Q2/261 9
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.028
+
+EPIC 00385893
+
+obile.Partnerships; Androi DCB + Carrier Partnerships Pilot Program
+
+Telecom Group Carriers
+Countries
+Opportunity (total Android users on networks in established DCB markets)
+
+Hutchison
+- Three -(Nind Tre
+Phase 1 UK Italy Phase 2: Sweden, Denmark, Ireland,
+Austria
+
+Commercial Terms
+
+95/5 (ovp to 3%ebeddebt)
+
+Co-Marketing (IP usage, events, promodions)
+
+YES
+
+Target PartnershipAnnouncement Date
+
+Q2 Timeframe
+
+Telefonica
+- 02 - Movistar Phase 1: Spain, Phase 2: Germany, UK
+40M
+95/5 (oup to 3%in beddebs
+YES
+Q2 Timeframe
+
+Venzon
+Verizon USA
+47M 95/5
+(+opto 3% inbod debt)
+YES September Timeframe
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.027
+
+EPIC 00385894
+
+obile Partnerships; Androi
+Current status of Huawei partnership
+Standing Huawei restrictions have not changed. Huawei remains subject to export restrictions. In 2019, Epic Sled an application with the US Department of Commerce requesbng permission to resume certain collaboration with Huawei relating to Android-OS mobile phones. Commerce has not yet responded with a decision regarding whether to grant or deny Epic's application. There is no current timeline for this for this response.
+Current business terms:
+
+Discuss or provide access to technical info, technical support, or technical instructions
+
+0
+
+performance metrics; product specifications; hardware/sofiwam testing feedback; fraud prevention soflware
+
+solubons
+
+o ~i
+
+: Ep ic can repeat technical info that is already publidy available on the internet free-of-charge (e.g., facts posted on Epic's public FN FAQ site)
+
+Provide versions of software that are not publicly downloadable free of charge
+
+o
+
+eo '
+
+' 0 0 o ' e :sending Huaweai version ofthe InstafierAPKthat isnot identicalto a version available online for free downloadby
+
+the public
+
+o
+
+'
+
+' : Installer APK version downloadable for free from Epic's websile; Unreal Engine version downloadable for free from
+
+GitHub
+
+Provide other electronic materials that contain non-public technical info, technical suppori, or technical instructions (similar to first bullet above)
+
+Provide or return physical materials to Huawei
+
+o
+
+'
+'
+
+0
+
+' : Huawei tssl handsets; flash drives
+
+ic CAN unless the discussions cross into one of the cate pries above
+
+Discuss general business terms of promotions
+
+o
+
+'
+
+'
+
+' : desired prerinslall numbers; device-exclusive FN skins
+
+Discuss promotional materials
+
+o
+
+'
+
+'
+
+'
+
+.art ada
+
+Repeat or direct Huawei to the location of technical info that is already publirfiy available on the internet freewfwharge
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.028
+
+EPIC 00385895
+
+evenue irs e e n l a orm /o
+
+Revenueby FirstSeen Platform%
+Lapsed: 'Ill
+From Ad:All
+FirstSeen Platform: PS4,XBOXONE. SWITCH and 3 more Platform Purchased:PS4,XBOXONE. SWITCH and 3 m ore
+
+First Seen Pla...P54 XSOXONE SWITCH 105 PC ANDROID Grand Total
+
+Platform Purchased
+
+P54 X 8 0XONESWITCH PC
+
+IOS AND RO ID
+
+0.9% 0.5% 2.0 9 6 2.1 9 6 0.4 %
+
+1.696
+
+0.5% 1.8 9 6 2.1 9 6 0.3 %
+
+4 .49 6 24.1% 1 0.396 3 44 g
+
+4 .2 9 6 16 .496
+6.8 96 18 . 9%
+
+1 .696 1.8 9 6
+
++ I 3.896 6 .896
+
+2.1% ~
+
+$ 5 .296
+
+4.8% 14 .69 6 5.3 9 6
+
+O.Z % 0.596 1.4 % Z1 .696l
+
+4 7.4% 25 . 9 % 10.3% 9.0% 6.6% 0.7%
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.029
+
+EPIC 00385898
+
+Android Discoverability
+Despite lower rninwpec, Epic Garnes App distribution is still significantly lower than competitors
+Android Installs LTD
+BOO OM
+
+OO.OM
+
+100 OM
+
+OOM
+Epic Games App Fortnite
+
+PUB GM
+
+COOM
+
+Roblox Bra wl Stars
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.030
+
+EPIC 00385897
+
+o ie o m e i ors- 0 R e venue
+Fortnite revenue vs. the competition 2019 Revenue
+$400.0M
+0300.0M
+0200.0M
+0100.0M
+SO.OM Forlnile P UBGM C O OM Brawl Slare Roblox Mineoraft Free Fire
+iOS and Android
+SOURCE: Fortnita aotuals; Comps fromAppAnnie, exotixrng regional SKUs (exi PUBGtirtJapan) and any data from China in non-regional SKUs
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.031
+
+EPIC 00385898
+
+o l e o m e l o rs - 0 Re venue
+Despite best in class iOS revenue, Fortnite's Android revenue trails key comps
+
+Revenue byPlafform
+$300.0M
+
+I
+
+I
+
+$200.0M I
+
+I I
+
+I
+
+I
+
+$100.0M I
+
+I
+
+)
+
+I
+
+I
+
+$0.0M
+I Fortnlte PU BG M COD M B r awl Stars Roblox M l necraft F ree Fire
+I
+· An droid Revenue· iOS Revenue
+
+Caveat: CODM launched late Sept 2019
+SOURCE: Fortnite actuals; Comps from App Annie, exoturrng regional SKUs (exr PUBGtlrl Japan) and any data from China in non-regional SKUs
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.032
+
+EPIC 00385899
+
+o i e o m e i o rs - 0 MA
+
+Fortnite's I@AU is lower than the competition primarily due to Android
+
+e
+
+I
+
+l Fortnite PUBGIN CODN Brawl Stars Roblox Minecraf t ,Free Fire
+
+iOS
+11.1M 10.7M 20.8M 10.8M 14.0M 8.6M
+
+Android
+86.3M 48.3M 27.1M 19.3M 23.1M 8.2M
+
+Total
+97.1M 69.1M 37.9M 33.3M 31.7M
+
+% Android
+I 89 70
+58% 73%
+9+0
+
+SOURCE: Fortnite aotuals; Comps from App Annie, exalting regional SKUs (exr PUBGtirt Japan) and any data from China in non-regional SKUs
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.033
+
+EPIC 00385900
+
+o i e o m e i o rs - 0 MA
+Fortnite's lower Android revenue is a function of FN Android MAU beingsignificantly below comps
+
+Monthly Active Users: iOS + Android Total 125.0M 100.0M 75.0M 50.0M 25.0M
+
+I Fo rlnitIa PUBGM COOM Brawl Stars Roblox
+- Minacrafl -- Free Fire
+
+0.0M Jan Feb M a r Apr May Jun July Aug Sept Oct Nov D ec
+
+Dec U I o
+
+Fortnite 1 PUBGM CODM Brawl Stars Roblox Minecrnft Free Fire
+
+ioS An droid T otal % Android l
+
+11.1M
+
+10.7M 86.3M 97 . 1M
+
+Sg
+
+20.8M 48.3M 6 9.1M
+
+70%
+
+10.8M 27.1M 3 7.9M
+
+72%
+
+14.0M 19.3M 3 3.3M
+
+58%
+
+8.6M 23.1M 3 1.7M
+
+73%
+
+18.2M ~ I 9 .6M
+
+93o/o
+
+· Fo r tnite has leveled off to around 14M MAU in 2019 · Ro b lox and Minecraft increased their MAU trends in Q3 and Q4
+· CO OM launch saw high engagement, closing the year 6at9.1M MAU · PU BGM anCdOOMMAU was significantly higher than comps due to Android (89% and 70% respectively)
+
+SOURCE: Forlnile acluals; Comps from App Annie, exdurgng regional SKUs (exr PUBGllri Japan) and any dsla from China in non-regional SKUs
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.034
+
+EPIC 00385901
+
+o le om el ore- 0 5e c MAU R e ion
+
+I
+
+84% of PUBGM's Android MAU comes from emerging markets, while still outperforming FN in established geos like the US
+
+o il
+
+4 ~
+
+r olr or l
+
+PllBG jlghih
+
+M
+EU NA SA
+OCE AF
+
+b Co ti e n t
+
+rdiri ~pU$8M
+
+30o k
+
+10% "
+
+50%
+
+4%'
+
+4%
+
+24k '
+
+71% '
+
+3ok
+
+0% i
+
+1%o ' 13o k'
+
+A~ odroid 44A
+
+F NM PUB G M
+
+i US
+
+0 .6 M
+
+1.3M
+
+India
+
+0.1M 32.0M
+
+Pakistan
+
+OO.M
+
+14.5M
+
+Egypt I 0 O M 10.7M
+
+Indonesia O. OM 7.0M
+
+Russia
+
+0.1M
+
+1.6M
+
+German y 0.2M
+
+0.2M
+
+SOURCE: For(nits actuate; Comps from App Annie, exotudfng regional SKUs (exr PUBGtyt Japan) and any data from China in non-regional SKUs
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+DX-3743.035
+
+EPIC 00385902
+
+

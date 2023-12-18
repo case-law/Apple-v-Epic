@@ -1,0 +1,5266 @@
+a App Store
+
+s. ·
+
+·
+
+I
+
+·
+
+·
+
+o ·I
+F'
+
+e veo er u r v e esu s i na, n i a , a an, an
+App Store Developer Marketing and Apple Market Research and Analysis Fielded July 2018
+
+Purpose of Survey
+Indicative of current developer experience Facilitate actions
+Business and Marketing App Store developer portal Developer tools and support International markets
+
+APL-APPSTORE 09584334
+
+Invited
+
+9% 5% 7%
+
+44%
+
+35%
+· US · China · Japan · India · UK
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 003
+
+A PPLE CONFIDENTIAL 3
+APL-APPSTORE 09584335
+
+Completed
+
+11% 5%
+
+14%
+
+0
+
+0
+
+48'/
+
+7829 Respondents
+
+23%
+· US · Chin a · Japa n ® Indi a · UK
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 004
+
+A PPLE CONFIDENTIAL 4
+APL-APPSTORE 09584336
+
+Response Rate
+
+FY17
+1.0 %
+
+1.6%
+4256 Respondents
+
+· us
+
+0.5 %
+
+· China
+
+· Japan
+
+FY'l8
+1.3%
+
+2.3%
+6624 Respondents
+
+0.7 to
+
+· us
+
+· China
+
+· Japan
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 005
+
+A PPLE CONFIDENTIAL 5
+APL-APPSTORE 09584337
+
+Decision making involvement
+
+Product development Apple Developer account Analytics Business Marketing None of the above
+n=
+
+US
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+0%
+
+358 7
+
+UK
+· I
+
+China
+
+·
+
+·
+
+Ja an
+
+·
+
+·
+
+·
+
+·
+
+India
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+' ·
+·
+
+J ·
+
+46%
+
+50%
+
+· I' ·
+
+· ·
+
+33%
+
+· '·
+
+50/0
+
+'i
+
+35%
+
+' ' ·
+
+40%
+
+0%
+
+0%
+
+0%
+
+0'/0
+
+794
+
+1616
+
+1026
+
+354
+
+10 20 30 4 0 50 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Base: Developers with decision influence QB: Are you involved in decision making for any of the following areas? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 006
+
+A PPLE CONFIDENTIAL 6
+APL-APPSTORE 09584338
+
+Number of employees involved in the development, marketing and publishing of apps
+
+100% 7% 5/o
+· \
+80%
+60%
+40%
+20%
+
+6/o
+
+·
+
+·
+
+e· e
+
+13%o 10%
+
+9%o
+
+·
+
+·
+
+I
+
+'l1/o
+· \
+
+·
+
+·
+
+·
+
+·
+
+US 3587
+
+UK
+
+China
+
+Japan
+
+India
+
+1616
+
+1026
+
+354
+
+Base: Developers with decision influence QC: How many employees in your company are involved in the development, marketing and publishing of apps on Apple platforms?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 007
+
+· Do n't know Over 50
+· 21-50 · 11-20 · 1-10
+A PPLE CONFIDENTIAL 7
+APL-APPSTORE 09584339
+
+Why this report?
+The purpose of this study is to better understand marketing, business and product development issues of App Store developers. Major areas of analysis include:
+· Developer Profile · Business Profile · Marketing Profile · Analytics
+· International Expansion
+· Developer Tools and Support (Latika/Adi) · Developer Website (Emma)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+APL-APPSTORE 09584340
+
+0 ·
+
+"
+
+"0
+
+I I ~
+
+APPLE::4'gMF)pE5Tl e:.:,:'::,,::.."9 '
+
+///// /////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ."'
+
+J 0
+
+J0 0
+
+0
+
+I· I J J
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Business model
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+No monetization model Freemium Paid Subscription Ad supported E-Commerce Paymium Other Don't know
+
+US 3590 31%
+19% 18 % 10% 6'k 9% 2% 358 7
+
+UK 339 6
+
+China 25 /0
+
+Ja an 22%
+
+India 30%
+
+33 %
+
+43%
+
+37 k
+
+3796
+
+280/0
+
+110/ 0
+
+24 %
+
+15%
+
+17 %
+
+5/0
+
+11%
+
+21%
+
+16%
+
+180/o
+
+38o k
+
+220k
+
+12%
+
+23 /0
+
+7%
+
+21o k
+
+7%
+
+1190
+
+5%
+
+7%
+
+8'/o
+
+2'/0
+
+6%
+
+1%
+
+3'/0
+
+1%
+
+4%
+
+794
+
+161 6
+
+1026
+
+354
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence Q1: What is the business model for your apps on Apple platforms? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 010
+
+APPLE CONFIDENTIAL 10
+APL-APPSTORE 09584342
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Expected business growth drivers
+
+Tools and Support
+
+Developer Website
+
+Increasing user base through organic growth New apps Increasing engagement/monetization of existing users New business models Increasing user base through paid app installs International markets Other Don't know
+n=
+
+US
+
+UK
+
+China Ja an India
+
+· O'I
+
+· ·
+
+4 69 0
+
+4 4 0/o
+
+38 k 37 %
+
+45 lo 34'lo
+
+3890 ' ·
+
+43 /0
+
+47 /0
+
+359 6
+
+42%
+
+20%
+
+219 0
+
+32%
+
+18%
+
+32%
+
+20 /0
+
+22%
+
+'l2%
+
+13 %
+
+18%
+
+17 %
+
+25 lo
+
+1796
+
+19%
+
+34%
+
+5%
+
+4%
+
+1%
+
+2%
+
+1%
+
+8'/0
+
+6%
+
+6%
+
+9%
+
+6'/0
+
+358 7
+
+794
+
+1616
+
+1026
+
+354
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence Q2: In which of the following areas does your company expect to drive the most growth for its app business on Apple platforms in the next 12 months? (Select all that apply)
+APPLE CONFIDENTIAL 11
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 01 1
+
+APL-APPSTORE 09584343
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Measures usedto evaluate success
+
+Tools and Support
+
+Developer Website
+
+Downloads Revenue Ratings and reviews Customer engagement Performance on App Store charts App Store featuring Benchmarking against competitors Other Don't know
+n=
+
+US
+
+UK
+
+Chi na Ja an Indi a
+
+·
+
+·
+
+· Iee
+
+e ·
+
+·
+
+·
+
+·
+
+· ' ·
+
+479o
+
+· '
+
+49%
+
+'· e
+O48%
+
+20'/o
+
+25%
+
+3 2%
+
+34'Y o
+
+· t ' e
+
+·
+
+·
+
+'
+
+·
+
+32%
+
+·
+
+·
+
+329 6
+
+24%
+
+36o/o
+
+16%
+
+19o/o
+
+31 o/o 18%
+
+27%
+
+14 %
+
+13%
+
+24%
+
+14%
+
+16%
+
+6'/o
+
+6%
+
+1%
+
+3'/o
+
+2'/o
+
+3'/o
+
+3%
+
+2%
+
+4'Yo
+
+3'/o
+
+358 7
+
+794
+
+1616
+
+1026
+
+354
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence Q3: How does your company measure your apps success? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 012
+
+APPLE CONFIDENTIAL 12
+APL-APPSTORE 09584344
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Most important measures used to evaluate success
+
+100% ~
+
+py
+
+5%
+
+· 80% 60%
+
+10 % 17/0
+
+40%
+
+27%
+
+20%
+
+3YO
+4% 3%
+'Yo 8%
+19/0
+22/
+
+4% 3Y0 4%
+4YD
+'I 8%
+36%
+
+4/ 3Y
+20% 14%
+
+US 3587
+
+UK
+
+China
+
+Japan
+
+1616
+
+1026
+
+Base: Developers with decision influence Q4: And which of these is most important in measuring your apps success? (select one)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 01 3
+
+4Y
+4YO
+13%
+17%
+
+33%
+India 354
+
+· Do n't know · Other · Be n c hmarking against competitors · Pe r formance on App Store charts · Ap p Store featuring · Ra t ings and reviews · Do wnloads · Customer engagement · Revenue
+
+APPLE CONFIDENTIAL 13
+APL-APPSTORE 09584345
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Satisfaction with the tools and services Apple provides as a development platform
+
+100% 80% 60%
+
+649' 24% 8%
+16%o
+12%o
+
+62% 24% 8%
+16o
+14%
+
+619' 19o
+13%
+
+55% 22% 17%
+23%
+
+769o 15%
+9% 9%o
+
+Satisfied (net) Dissatisfied (net)
+
+40%
+
+20%
+US 3587
+
+·
+
+·
+
+I
+
+0 ·
+
+UK
+
+China
+
+Japan
+
+1616
+
+1026
+
+Base: Developers with decision influence Q5: How satisfied are you with the tools and services Apple provides as a development platform? (select one)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 014
+
+India 354
+
+· Ve ry dissatisfied · So m ewhat dissatisfied gl Neither · So m ewhat satisfied · Ve ry satisfied
+A PPLE CONFIDENTIAL 1 4
+APL-APPSTORE 09584346
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Satisfaction with the App Store
+
+Tools and Support
+
+Developer Website
+
+100% 80% 60% 40% 20%
+
+649' 20% 7%
+12%
+16%o
+
+64% 20%
+'12%
+16%o
+
+689o 14o 18%
+> · ' ·
+
+58% 17%
+0/ 119o
+25%o
+
+US
+
+UK
+
+3587
+
+Base: Developers with decision influence Q7: How satisfied are you with the App Store? (select one)
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+China 1616
+
+Japan 1026
+DX-351 3. 01 5
+
+799o 12%
+7% 99o
+
+Satisfied (net) Dissatisfied (net)
+
+·
+
+·
+
+i
+
+·
+
+India 354
+
+· Ve ry dissatisfied · So m ewhat dissatisfied gl Neither · So m ewhat satisfied · Ve ry satisfied
+APPLE CONFIDENTIAL 15
+APL-APPSTORE 09584347
+
+0 ·
+
+"
+
+"0
+
+'APPLE::4';OMF)pENTl e:.::':,,':.$6
+
+"'////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ."'
+J 0
+
+J0 0
+
+I ·
+
+0
+
+g· · g g ·
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Offers subscriptions in any of the apps on Apple platform
+
+Developer Website
+
+100%
+210
+80%
+
+60% 40%
+
+79%
+
+79%
+
+52%
+
+75%
+
+20%
+
+19 0
+US 2543
+
+27% 19%
+
+UK
+
+China
+
+565
+
+670
+
+Base: Developers with decision influence within business or marketing Q9: Do you offer subscriptions in any of your apps on Apple platforms?
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+14Y Japan
+657
+DX-351 3. 01 7
+
+5'Yo 75%
+
+20% India 190
+
+· Do n't know · No · Yes
+APPLE CONFIDENTIAL 17
+APL-APPSTORE 09584349
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Factors that influence decision to offer subscriptions in apps
+
+Recurring revenue opportunity
+
+US
+
+UK
+
+China Ja an India
+
+·
+
+·
+
+e
+
+4 5o/o
+
+' I
+
+·
+
+·
+
+·
+
+Popularity of the subscription business with customers
+
+31 '/o
+
+25%
+
+36%
+
+69o
+
+85% revenue share after 1 year
+
+309 o
+
+34'k
+
+2696
+
+2196
+
+Popularity of the subscription business with other developers
+
+149 o
+
+179o
+
+25%
+
+9%
+
+Expanded price tiers
+
+13%
+
+9/o
+
+21%
+
+1%
+
+Subscriptions available in all categories
+
+139 o
+
+159o
+
+17%
+
+10%
+
+Multi-app subscription
+
+6%
+
+7%
+
+14ok
+
+6'/o
+
+Territory pricing
+
+5%
+
+7 k
+
+16o/ o
+
+6%
+
+Other
+
+15o/ o
+
+14 %
+
+1%
+
+9o/o
+
+Don't know 2 0 30 4 0 5 0 · ·
+
+4'/o
+
+49o
+
+479
+
+107
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+9%
+
+13'/o
+
+small
+
+180
+
+base
+
+Base: Developers with decision influence within business or marketing who offer subscriptions Q10: What influenced the decision to offer subscriptions in your apps on Apple platforms? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 01 8
+
+APPLE CONFIDENTIAL 18
+APL-APPSTORE 09584350
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Awareness of App Store subscription features
+
+Developer Website
+
+85% revenue share after 1 year Subscription data in Sales 8 Trends Introductory pricing Territory pricing Subscriptions available in all categories Upgrades, Downgrades, Crossgrades Price preservation during price increases Expanding price tiers Improved customer communication of price increases Multi-app subscription Enhanced receipts Iam notaware ofany ofthe subscription features listed above
+n=
+2 0 30 4 0 5 0 · · ·
+
+US
+
+·
+
+·
+
+·
+
+UK ' ·
+
+·
+
+·
+
+' ·
+
+·
+
+' ·
+M 48%
+45o/o ~ 4 3 %
+
+43/o
+
+36%
+
+38%
+
+40%
+
+34%
+
+29%
+
+24
+
+25%
+
+23 %
+
+21%
+
+19'/o
+
+18 %
+
+16%
+
+14%
+
+479
+
+107
+
+China 29o/o
+
+Ja an
+
+32%
+
+42%
+
+M 20%
+
+O 31%
+
+49%
+
+23o/ o
+
+36%
+
+21%
+
+23%
+
+20%
+
+31%
+
+27 /o
+
+43%
+
+15%
+
+13%
+
+18%
+
+19'/o
+
+14%
+
+12%
+
+1 8%
+
+11o/ o
+
+180
+
+India
+small base
+
+:
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Base: Developers with decision influence within business or marketing who offer subscriptions Q11: Which of the following App Store subscription features are you aware of? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 01 9
+
+APPLE CONFIDENTIAL 19
+APL-APPSTORE 09584351
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+How heard about App Store subscription features
+
+Developer Website
+
+Developer. apple.corn
+
+US 44%
+
+UK 43%
+
+China 30 %
+
+Ja an 26%
+
+India
+
+ITunes Connect
+
+37%
+
+36 /o
+
+37 /o
+
+36%
+
+Apple events
+
+37 %
+
+39oo/
+
+179o
+
+19%
+
+Tech publications or industry forums
+
+31%
+
+32%
+
+16 %
+
+18'/o
+
+Word of mouth from other developers I know
+
+31 9o 369o
+
+21%
+
+20%
+
+Internet searches
+
+27 /o 2 7%
+
+32 /o
+
+49%
+
+Apple email announcements
+
+24/ o
+
+22%
+
+249o
+
+10%
+
+Social media
+
+14/ o
+
+15%
+
+25%
+
+19%
+
+App Store team
+
+12%
+
+17%
+
+209 o
+
+11%
+
+Other
+
+5'/o
+
+Don't know
+
+4%
+
+400
+
+2 0 30 4 0 5 0 · · ·
+
+2%
+
+1'/o
+
+09o
+
+7'/o
+
+3%
+
+9%
+
+92
+
+148
+
+:
+
+·
+
+·
+
+·
+
+·
+
+·
+
+small base
+
+Base: Developers with decision influence within business or marketing who offer subscriptions and are aware of App store subscription features Q12: How did you hear about the App Store subscription features? (Select all that apply)
+A PPLE CONFIDENTIAL 20
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 020
+
+APL-APPSTORE 09584352
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Areas seen as the most growth for subscription business
+
+New user acquisition Subscriber retention Free-to-paying conversion rate Subscriber lifetime value Customer engagement Subscription upgrades Subscriber reactivation Other Don't know
+
+US
+
+UK
+
+China Ja an India
+
+34%
+
+41%
+
+] 509o
+3 7%
+
+46% 42o/ o
+
+23 % 26%
+
+40'/o 37%
+
+37 %
+
+30%
+
+16%
+
+26%
+
+329 6
+
+24%
+
+33%
+
+34 /o
+
+14%
+
+13 %
+
+11%
+
+10%
+
+13 %
+
+13%
+
+12%
+
+14%
+
+396
+
+4%
+
+1'/o
+
+0%
+
+11 /o
+
+8%
+
+24%
+
+16o/ o
+
+small
+
+479
+
+107
+
+180
+
+90
+
+base
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within business or marketing who offer subscriptions Q13: In which of the following areas does your company see the most growth for its subscription business on Apple platforms? (Select all that apply)
+APPLE CONFIDENTIAL 21
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 021
+
+APL-APPSTORE 09584353
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Most effective activities thought to win-back lapsed
+subscribers
+
+Email outreach Push notifications In-app messaging Advertising Social media community outreach Pricing strategies Cross promotion in other apps Other Don't know
+
+US 379 6
+
+UK 28'/0
+
+China 1190
+
+Ja an 14%
+
+India
+
+27 %
+
+2790
+
+29 lo
+
+24 l o
+
+230/0
+
+19 %
+
+30 /0
+
+2490
+
+20%
+
+13 %
+
+26%
+
+21%
+
+19%
+
+21 0/o
+
+33 lo
+
+19 /0
+
+18 %
+
+23%
+
+23 /0
+
+140/0
+
+7%
+
+9%
+
+10'lo
+
+6%
+
+6 lo
+
+2%
+
+796
+
+34%
+
+31 /0
+
+19%
+
+30%
+
+479
+
+107
+
+180
+
+small base
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within business or marketing who offer subscriptions Q14: Which are the most effective activities to win-back lapsed subscribers for your Apple apps? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 022
+
+A PPLE CONFIDENTIAL 22
+APL-APPSTORE 09584354
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Impact of redesigned App Store that launched with iOS 1'1
+
+100% 80% 60%
+
+32% 11%
+
+29%
+
+24% 170/
+
+28% 16%
+
+35% 10%
+
+40%
+0 ·
+
+·
+
+·
+
+20%
+
+·
+
+·
+
+US
+
+UK
+
+China
+
+Japan
+
+India
+
+2543
+
+565
+
+670
+
+657
+
+190
+
+Base: Developers with decision influence within business or marketing Q15: Has the redesigned App Store that launched with iOS11 had any impact on your app business on Apple platforms? (select one)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 023
+
+· Do n't know 8 Ne gative impact · No impact · Po s itive impact
+A PPLE CONFIDENTIAL 23
+APL-APPSTORE 09584355
+
+0 ·
+
+"
+
+"0
+
+APPLE::4';OMF)pENTl e:.::':,,"24
+
+/////
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ."'
+
+J 0
+
+J0 0
+
+0
+
+g· ·
+
+Marke in r o f i le
+Rdd d
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 025
+
+APL-APPSTORE 09584357
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Use push notification to engage users
+
+Tools and Support
+
+Developer Website
+
+100% 80% 60% 40% 20%
+
+55% 42%
+
+57% 41o/
+
+0/
+39%
+55%
+
+57% 38%o
+
+US
+
+UK
+
+China
+
+2543
+
+565
+
+670
+
+Base: Developers with decision influence within business or marketing Q40: Do you use push notifications to engage users?
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+Japan 657
+DX-351 3. 026
+
+4/o 26oo
+
+71/o
+India 190
+
+· Do n't know · No · Yes
+A PPLE CONFIDENTIAL 26
+APL-APPSTORE 09584358
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Reasons why push notifications are not used to engage users
+
+Push not effective as a channel to engage users Would like best practices from Apple Would like delivery and/or campaign management tools from Apple Would like ability to measure push performance Would like App Review Guidelines to allow push notifications for marketing Would like granular opt-in Segmenting audience is challenging Other Don't know
+
+US 22% 14% 10 % 9% 8'/o 8% 6% 36% 20/ o 1401
+
+UK
+
+China Ja an India
+
+20%
+
+38 %
+
+30%
+
+17'/o
+
+28'/o
+
+16%
+
+12%
+
+'l2o/o
+
+19%
+
+8%
+
+17'Y o
+
+11%
+
+9%
+
+13 /o
+
+4%
+
+10%
+
+'I5o/o
+
+11 %
+
+6%
+
+14'Y o
+
+13%
+
+32%
+
+6%
+
+15%
+
+21%
+
+16%
+
+20%
+
+322
+
+260
+
+small 374
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within business or marketing whose company does not use push notifications Q41: Why don't you use push notifications to engage users? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 027
+
+APPLE CONFIDENTIAL 27
+APL-APPSTORE 09584359
+
+Marketing Profile
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 028
+
+APL-APPSTORE 09584360
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Awareness of search ads on app store
+
+Tools and Support
+
+Developer Website
+
+Search Ads Basic Search Ads Advanced Neither
+n=
+
+US
+
+UK
+
+China Ja an India
+
+25%
+· I ·
+
+26'/o
+
+·
+
+·
+
+small base
+
+small base
+
+small base
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within business or marketing Q43: Which of the following Search Ads on the App Store are you aware of? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 029
+
+A PPLE CONFIDENTIAL 29
+APL-APPSTORE 09584361
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Current status regarding Search Ads
+
+Tools and Support
+
+Developer Website
+
+100% 80%
+
+8% 23%
+
+60%
+
+16oFo
+
+40%
+
+0 0
+22%
+
+17o/
+
+·
+
+·
+
+I
+
+20%
+J ·
+
+US
+
+UK
+
+China
+
+Japan
+
+India
+
+1074
+
+267
+
+small base
+
+small base
+
+small base
+
+Base: Developers with decision influence within business or marketing who are aware of Search Ads Q44: Which of the following best describes your current status regarding Search Ads?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 030
+
+· Do n't know Haven't set up account and don't plan to
+R Haven't set up account, but plan to · Have set uapccount, but no campaigns yet · Ha v e campaigns, but not active ig Have activecampaigns
+A PPLE CONFIDENTIAL 30
+APL-APPSTORE 09584362
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Reasons why Search Ads account aren't set up
+
+Developer Website
+
+Don't have budget Will wait and see I use another ad network Don't know how to get started Other Don't know
+n=
+
+US 47% 29% 5% 3% 24'/ 0 4'/0 247
+
+UK
+
+China Ja an India
+
+·
+
+·
+
+240/0
+
+7%
+
+2%
+
+20 '/ 0
+
+3%
+
+small
+
+small
+
+small
+
+59
+
+base
+
+base
+
+base
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within business or marketing who are aware of Search Ads, but haven't set up a Search Ad account and don't plan to Q45: Why don't you plan to set up a Search Ads account? (Select all that apply)
+APPLE CONFIDENTIAL 31
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 031
+
+APL-APPSTORE 09584363
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Offer App Previews on one or more app product pages
+
+100% 80% 60%
+
+16%o 46/'
+
+'I 4%o 43%
+
+12o 24%
+
+a
+0
+62%
+
+40% 20%
+
+39%
+
+43%o
+
+64%
+
+32%
+
+US
+
+UK
+
+China
+
+Japan
+
+2543
+
+565
+
+670
+
+657
+
+Base: Developers with decision influence within business or marketing Q46: Do you offer App Previews on one or more of your app product pages?
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 032
+
+'I 3o/a 44%
+
+43%
+India 190
+
+· Do n't know · No · Yes
+A PPLE CONFIDENTIAL 32
+APL-APPSTORE 09584364
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Reasons why App Previews are not offered
+
+Developer Website
+
+Design/resource constraints Preview creation is challenging Didn't know about them Don't know how it will perform Preview guidelines are too restrictive Removed due to poor performance Other Don't know
+n=
+
+US 34o/o 29% 22o/o 'I5o/o 6% 2% 'l2o/o 14% 1161
+
+UK
+
+China
+
+U41%
+
+24%
+
+17 %
+
+Ja an 40 /a
+44'/ o
+
+India 24%
+30%
+
+27o/o
+
+26 /a
+
+13 /o
+
+25 /o
+
+16 %
+
+27ao/
+
+8%
+
+11%
+
+7%
+
+18 /o
+
+6%
+
+19%
+
+2%
+
+16 %
+
+3 /o
+
+8'/o
+
+9%
+
+4%
+
+8%
+
+6%
+
+13 %
+
+8%
+
+7%
+
+17%
+
+245
+
+164
+
+408
+
+83
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within business or marketing who do not offer App Previews Q47: Why don't you offer App Previews on your app product pages? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 033
+
+A PPLE CONFIDENTIAL 33
+APL-APPSTORE 09584365
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Offer promoted in-app purchases for any apps
+
+Developer Website
+
+100%
+
+8%
+
+8%
+
+80%
+
+60%
+
+78%
+
+76/
+
+40%
+
+15% 46/
+
+9% 80%
+
+20%
+
+39%
+
+14 0
+
+US
+
+UK
+
+China
+
+2543
+
+565
+
+670
+
+Base: Developers with decision influence within business or marketing Q48: Do you offer promoted in-app purchases for any of your apps?
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+11% Japan
+657
+DX-351 3. 034
+
+9%
+710
+
+19 0
+India 190
+
+· Do n't know · No · Yes
+A PPLE CONFIDENTIAL 3 4
+APL-APPSTORE 09584366
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Reasons why promoted in-app purchases are not offered
+
+Do not offer in-app purchase My app would not benefit from using promoted in-app purchases as a sales tool Resource constraints Didn't know about them In-app purchases on the product page lack context for purchase Lack ofperformance data Other Don't know
+n=
+
+US 38%
+
+UK 36'Y o
+
+China 36 /o
+
+Ja an 36%
+
+India 36%
+
+29'Yo 29%
+
+17%
+
+14%
+
+21%
+
+12%
+
+11'/o
+
+27%
+
+22'/o
+
+11 /0
+
+11%
+
+14%
+
+19 %
+
+24 /o
+
+23o/o
+
+6%
+
+6%
+
+20%
+
+59o
+
+6%
+
+4%
+
+4%
+
+19/ o
+
+7%
+
+9%
+
+8%
+
+7%
+
+2%
+
+4%
+
+2%
+
+9%
+
+7'/o
+
+8%
+
+8%
+
+1296
+
+199 6
+
+4 31
+
+308
+
+527
+
+135
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within business or marketing who do not offer promoted in-app purchases Q49: Why don't you offer promoted in-app purchases for any of your apps? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 035
+
+APPLE CONFIDENTIAL 35
+APL-APPSTORE 09584367
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Think that a variety of apps and games are featured on the App Store
+
+100% 80% 60% 40% 20%
+
+24% 76%
+
+25 0
+75%
+
+49%
+510
+
+40% 60%
+
+US
+
+UK
+
+China
+
+Japan
+
+2543
+
+565
+
+670
+
+657
+
+Base: Developers with decision influence within business or marketing Q50: Do you think that a variety of apps and games are featured on the App Store?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 036
+
+22%
+
+78%
+
+India 190
+
+· No · Yes
+A PPLE CONFIDENTIAL 36
+APL-APPSTORE 09584368
+
+0 ·
+
+"
+
+"0
+
+APPLE::4';OMF)pENTl e:.::::,':,.37
+
+///// /// / / // /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ."'
+
+J 0
+
+J0 0
+
+0
+
+I» I J
+
+·
+
+~
+
+I
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Satisfaction with App Store analytics and data reporting
+
+100% 80% 60% 40% 20%
+
+50% 17% 13%
+33%
+
+49% 18%
+1 3 Yo
+
+55%
+10
+9%
+34%o
+
+31 Yo 18%
+13%
+
+US 3587
+
+UK
+
+China
+
+Japan
+
+1616
+
+1026
+
+Base: Developers with decision influence Q28: How satisfied are you with App Store analytics and data reporting tools?
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 038
+
+64% 15% 'I O'Yo
+21oo
+
+Satisfied (net) Dissatisfied (net)
+
+·
+
+·
+
+·
+
+·
+
+India 354
+
+· Ve ry dissatisfied · So m ewhat dissatisfied · Neither · So m ewhat satisfied · Ve ry satisfied
+A PPLE CONFIDENTIAL 38
+APL-APPSTORE 09584370
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Features developers would like to see included in Apple's analytics tools
+
+App diagnosticdsata App Store search keywords Additional engagement metrics Custom in-app events Benchmarks against similar app(s) Demographic data Analytics for customer ratings and reviews API accessto App Analyticsdata View data by cohorts Insights into emerging trends across the App Store Lifetime value metrics Accessto App Analyticsdata in a mobile app Recurring emails with insights about your apps Other Don't know
+n=
+
+US 30o/o 309o
+22'/o 21%
+17o/o 15ofo 13% 12ok 11% 10% 7% 4% 13% 358 7
+
+UK 29% 3496
+22o/o 23% 17% 20'/o 13% 14% 13o/o 11% 10'k 9% 3% 1396 794
+
+China
+33% 109o
+19% 15'/o 15% 17ok 12'/o
+18% 15% 7%
+1 /0
+10% 161 6
+
+Ja an
+36o/o 15% 10o/o 'l8% 25'/o 21 'k 12% 14o/o 20'/o 11 ofo 8% 10% 2% 11% 1026
+
+India 30% 3296 17o/o 17o/o
+18'/o 219o
+13% 12% 13% 11% 1% 'l2% 354
+
+2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence Q29: What features would you like to see included in Apple's analytics tools? (Select 3)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 039
+
+A PPLE CONFIDENTIAL 39
+APL-APPSTORE 09584371
+
+0 ·
+
+"
+
+"0
+
+I · I
+
+'APPLE::4';OMF)pENTl e:.::':,,'4g
+
+/////
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ."'
+
+J 0
+
+J0 0
+
+0
+
+g· ·
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Has Apple app business outside of the US
+
+Developer Website
+
+100%
+80% 46/
+60%
+
+5/0
+47%
+
+12% 55%
+
+52%
+
+39%
+
+40%
+
+47%
+
+48/'
+
+20%
+
+34%
+
+41/0
+
+51/o
+
+US 3576
+
+UK
+
+China
+
+Japan
+
+India
+
+1603
+
+1020
+
+353
+
+Base: Developers with decision influence within business, marketing, product development, or Apple Developer account Q36: Does yourcompany have Apple app business outside ofthe US?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 041
+
+· Do n't know · No · Yes
+APPLE CONFIDENTIAL 41
+APL-APPSTORE 09584373
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Resources used to determine which international
+markets
+
+Developer Website
+
+Apple Third party research reports and services Google Play Amazon Microsoft Other published guidance Other Don't know
+n=
+
+US
+
+UK Chin a Japan India
+
+32%
+
+33%
+
+0 ·
+
+28%
+
+39%
+
+2 6%
+
+17%
+
+39%
+
+21 o/o
+
+23'lo
+
+'
+
+'
+
+·
+
+' ·
+
+49'lo
+
+8%
+
+10%
+
+13%
+
+16%
+
+'I8%
+
+5%
+
+5%
+
+8%
+
+9%
+
+12%
+
+3'lo
+
+2%
+
+1%
+
+0%
+
+0%
+
+'l5o/o
+
+14 %
+
+1%
+
+2%
+
+1%
+
+349 o
+
+28%
+
+8%
+
+T6%
+
+16%
+
+167 7
+
+379
+
+539
+
+420
+
+181
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within business, marketing, product development, or Apple Developer account whose company has international business Q37: What resources does your company use to determine which international markets to enter? (Select all that apply)
+A PPLE CONFIDENTIAL 42
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 042
+
+APL-APPSTORE 09584374
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Tools or guidance wanted to help expand internationally
+
+Localization service
+
+US 34%
+
+UK 35o/o
+
+China 45 fo
+
+Ja an 44 /o
+
+India 339o
+
+Regulatory guidance
+
+26%
+
+43%
+
+30 fo
+
+Guidance on cultural and market differences Market research
+
+26%
+
+33% 30%
+
+34 % 359 6
+
+36%
+
+34%
+
+I ·
+
+35'/ o
+
+42%
+
+Tax and legal advice
+
+299 6
+
+39%
+
+30%
+
+Guidance on user acquisition channels for each market
+
+21 /o
+
+27 /o
+
+29 /o
+
+25%
+
+31/ o
+
+Mobile adoption rates
+
+20%
+
+24/ o
+
+28oo/
+
+21%
+
+31%
+
+Third-party localization service recommendations
+
+20%
+
+22 %
+
+35%
+
+18%
+
+22%
+
+ATL (Above the line) agencies
+
+3%
+
+39o
+
+9%
+
+8%
+
+9%
+
+Other Don't know
+
+3%
+
+4'/o
+
+0%
+
+1'/o
+
+0%
+
+34 %
+
+28%
+
+2196
+
+21%
+
+27%
+
+n=
+
+357 6
+
+793
+
+1603
+
+1020
+
+353
+
+2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within business, marketing, product development, or Apple Developer account Q38: What tools or guidance would your company like the App Store to provide to help you expand internationally? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 043
+
+A PPLE CONFIDENTIAL 43
+APL-APPSTORE 09584375
+
+0 ·
+
+"
+
+"0
+
+'APPLE::4';OMF)pE'lT lAk:.::::, ': 44
+
+/////
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ."'
+
+J 0
+
+J0 0
+
+0
+
+g· ·
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Apple platforms developing apps for
+
+Tools and Support
+
+Developer Website
+
+iPhone iPad macOS watch OS tvOS iMessage Don't know
+n=
+
+US
+
+UK
+
+Chin a Ja an
+
+·
+
+·
+
+·
+
+·
+
+W 46%
+
+·
+
+·
+
+·
+
+·
+
+18 %
+
+16%
+
+6/0
+
+10%
+
+India
+
+·
+
+·
+
+·
+
+·
+
+8%
+
+13 %
+
+12%
+
+4 /0
+
+8%
+
+10%
+
+8%
+
+1%
+
+3%
+
+4%
+
+9%
+
+7%
+
+4/0
+
+5%
+
+6%
+
+1%
+
+0%
+
+1'/0
+
+0%
+
+1%
+
+348 9
+
+770
+
+1548
+
+943
+
+340
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within product development or Apple Developer account Q17: What Apple platforms does your company develop apps for? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 045
+
+APPLE CONFIDENTIAL 45
+APL-APPSTORE 09584377
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Other operating systems and platforms developing apps for
+
+Android Web apps
+
+US
+
+·
+
+·
+
+UK
+
+·
+
+·
+
+·
+
+·
+
+47%
+
+China
+
+·
+
+·
+
+·
+
+·
+
+Ja a n
+
+India
+
+·
+
+·
+
+35%
+
+41 /o
+
+"
+
+·
+
+Windows HTML 5
+
+22o/o
+
+23 %
+
+27%
+
+23 /o
+
+24%
+
+18%
+
+"
+
+·
+
+'l5%
+
+30%
+
+Amazon
+
+13%
+
+16 %
+
+3%
+
+12 %
+
+16%
+
+Virtual reality
+
+4%
+
+3%
+
+1'/o
+
+3%
+
+3%
+
+Augmented reality Roku TV
+
+4%
+
+4%
+
+1%
+
+2%
+
+3%
+
+3%
+
+1 '/o
+
+Oo/o
+
+0'/o
+
+1%
+
+Game consoles
+
+2%
+
+3%
+
+1%
+
+4%
+
+2%
+
+Other Don't know
+
+11 %
+
+10%
+
+2'/o
+
+4%
+
+4%
+
+8'/o
+
+7%
+
+6%
+
+'ll '/o
+
+7'/o
+
+n=
+
+348 9
+
+770
+
+1548
+
+943
+
+340
+
+2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within product development or Apple Developer account Q18: What other operating systems and platforms does your company develop apps for? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 046
+
+A PPLE CONFIDENTIAL 46
+APL-APPSTORE 09584378
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Plans for augmented reality using ARKit in next 6 months
+
+100% 80%
+
+21%
+
+20%
+
+36%
+
+31%
+
+60%
+
+65/0
+
+65/
+
+40%
+
+43%
+
+54/
+
+34%
+
+20%
+
+35%
+
+14 0
+
+17 0 100
+
+US
+
+UK
+
+China
+
+Japan
+
+India
+
+3362
+
+740
+
+1528
+
+924
+
+329
+
+· Do n't know · No · Yes
+
+Base: Developers with decision influence within product development or Apple Developer account whose company does not develop AR Q19: Do you plan to incorporate augmented reality using ARKit in any of your apps in the next 6 months?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 047
+
+APPLE CONFIDENTIAL 47
+APL-APPSTORE 09584379
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+Reason to not integrate ARKit
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+My app/game would not benefit from ARKit Limited development resources Lack ofmonetization strategy Creating content for ARKit is challenging Need more functionality and capabilities Other Don't know
+n=
+
+US
+25o/o 12% 8o/o 5%
+5'/o 219 5
+
+UK
+
+C hina Ja an India
+
+' ·
+
+39 %
+
+50%
+
+·
+
+·
+
+239 o
+
+45 /o
+
+40%
+
+24%
+
+'l2%
+
+29 %
+
+22%
+
+14%
+
+8%
+
+12%
+
+1 6'/o
+
+16o/ o
+
+4%
+
+8%
+
+2%
+
+8%
+
+11%
+
+6%
+
+6%
+
+4%
+
+4%
+
+7'/o
+
+8%
+
+9'/o
+
+479
+
+655
+
+497
+
+112
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within product development or Apple Developer account whose company does not develop AR and does not plan to in the next 6 months Q20: Why are you not planning to integrate ARKit in your apps? (Select all that apply)
+A PPLE CONFIDENTIAL 48
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 048
+
+APL-APPSTORE 09584380
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Plan for machine learning capabilities using CoreML
+
+100% 80%
+
+32%
+
+45%
+
+45%
+
+60%
+46F 40%
+
+20%
+
+21%
+US 3489
+
+47%
+21% UK 770
+
+33%
+22% China 1548
+
+42%
+12 0
+Japan 943
+
+Base: Developers with decision influence within product development or Apple Developer account Q21: Do you plan to incorporate machine learning capabilities using CoreML in any of your apps?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 049
+
+32% 28%
+
+40%
+India 340
+
+· Do n't know · No · Yes
+A PPLE CONFIDENTIAL 49
+APL-APPSTORE 09584381
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Reason to not integrate
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+My app/game would not benefit from machine learning Limited develo pment resources Challenging to create machine learning models Other Don't know
+n=
+
+US 31%
+15 % 8% 161 6
+
+UK · ·
+26%
+
+China 4 3/ 0
+
+Ja an 43%
+
+' ·
+
+42%
+
+India 44%
+34%
+
+15 %
+
+22 /0
+
+2896
+
+1996
+
+13%
+
+5%
+
+8%
+
+10%
+
+6%
+
+70/0
+
+109 6
+
+18%
+
+365
+
+511
+
+398
+
+94
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within product development or Apple Developer account whose company is not planning to incorporate machine learning using CoreML Q22: Why are you not planning to integrate CoreML in your apps? (Select all that apply)
+A PPLE CONFIDENTIAL 50
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 050
+
+APL-APPSTORE 09584382
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Satisfaction with Developer tools and tasks
+
+Developer Website
+
+Very or somewhat satisfied
+
+Apple Developer Program registration Team and usermanagement Xcode App binary upload Code signing Device provisioning Crash reporting
+n=
+
+US
+
+UK
+
+Ch ina Ja an Ind ia
+
+·
+
+·
+
+·
+
+·
+
+'e
+
+46%
+
+· t ·
+
+·
+
+! ·
+
+41%
+
+·
+
+·
+
+· ·
+
+48%
+
+'
+
+'
+
+·
+
+'i
+
+'e
+
+44%
+
+·
+
+·
+
+46%
+
+46'/ 0
+
+i
+
+30%
+
+] 45%
+
+4596
+
+· ·
+
+30%
+
+· I·
+
+38 %
+
+36%
+
+50 /0
+
+2890
+
+5096
+
+348 9
+
+770
+
+1548
+
+943
+
+340
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within product development or Apple Developer account Q23: How satisfied are you with the following Developer tools and tasks?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 051
+
+APPLE CONFIDENTIAL 51
+APL-APPSTORE 09584383
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Satisfaction with workflows using iTunes connect
+
+Developer Website
+
+Very or somewhat satisfied
+
+Uploading apps to iTunes Connect TestFlightbeta testing App Review App Metadata management Agreements, Tax, and Banking Paymentsand FinancialReports In-app purchase setup In-app purchase testing Automation (Transporter, XML feed)
+n=
+
+US
+
+UK
+
+Chin a J a an Indi a
+
+·
+
+·
+
+42%
+
+·
+
+·
+
+' ·
+
+49%
+
+40o/o
+
+· I' ·
+
+49%
+
+49'/o
+
+'
+
+·
+
+34o/a
+
+·
+
+·
+
+4 7/o
+
+46%
+
+· ·
+
+37%
+
+·
+
+·
+
+37 %
+
+39%
+
+36o/ o
+
+41%
+
+i · ·
+
+24%
+
+'
+
+'
+
+·
+
+26%
+
+48%
+
+23 %
+
+26%
+
+'
+
+·
+
+18/ o 15o/ o
+
+20 /o
+
+' e
+
+15o / o 47%
+
+23%
+
+40%
+
+18o/o
+
+36'/o
+
+12o/o
+
+348 9
+
+770
+
+154 8
+
+943
+
+340
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+·
+
+·
+
+Base: Developers with decision influence within product development or Apple Developer account Q24: How satisfied are you with the following workflows using iTunes Connect?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 052
+
+A PPLE CONFIDENTIAL 52
+APL-APPSTORE 09584384
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Satisfaction with Apple developer resources
+
+Developer Website
+
+Very or somewhat satisfied
+
+Developer Documentation on Web (API references, articles, sample code) Developer Videos App Store Review Guidelines Documentation Window in Xcode iTunes Connect Resources and Help Developer Forums Xcode Help Developer Support (phone, email, web)
+n=
+
+US
+
+UK
+
+Chin a J apan Indi a
+
+·
+
+·
+
+32%
+
+·
+
+·
+
+4 3%
+
+44 /0
+
+'
+
+·
+
+21%
+
+4W. ~ r. ~ W
+
+260/0
+
+· I
+
+38V. 3e s
+
+22'/0
+
+·
+
+·
+
+35 %
+
+36%
+
+'
+
+·
+
+24%
+
+~ I ·
+
+33 %
+
+32%
+
+44%
+
+20'/o
+
+33 %
+
+320/0
+
+'
+
+·
+
+17%
+
+·
+
+·
+
+32'/0
+
+29%
+
+47%
+
+24'/ o
+
+47%
+
+348 9
+
+770
+
+1548
+
+943
+
+340
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within product development or Apple Developer account Q25: How satisfied are you with the following Apple developer resources?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 053
+
+A PPLE CONFIDENTIAL 53
+APL-APPSTORE 09584385
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+When non-Apple support resources are used
+
+Developer Website
+
+Every time we have a question After we' ve reviewed Apple developer support resources We do not use any non-Apple developer support resources Don't know
+n=
+
+US
+27% 3% 7% 348 9
+
+UK
+
+Chin a J a an India
+
+J ·
+
+·
+
+·
+
+24 %
+
+2690
+
+15%
+
+28%
+
+3%
+
+6%
+
+13%
+
+2%
+
+6%
+
+l2%
+
+16 %
+
+6%
+
+770
+
+1548
+
+943
+
+340
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within product development or Apple Developer account Q26: When does your company use non-Apple developer support resources? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 054
+
+A PPLE CONFIDENTIAL 5 4
+APL-APPSTORE 09584386
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Reasons why non-Apple developer support resources are used
+
+Non-Apple developer resources are better Could not find information in Apple resources Non-Apple resources are localized Other Don't know
+n=
+
+US
+
+UK
+
+China Ja an India
+
+· ' i
+
+3 69o
+
+36o/ a
+
+' ·
+
+48o/o
+
+'
+
+·
+
+' I
+
+'
+
+·
+
+3%
+
+2%
+
+289o
+
+23%
+
+16 /o
+
+22%
+
+19 %
+
+5%
+
+8%
+
+10%
+
+8%
+
+7%
+
+16/ o
+
+21%
+
+8%
+
+336 8
+
+747
+
+146 1
+
+824
+
+333
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence within product development or Apple Developer account whose company uses non-Apple developer support resources Q27: What is the main reason your company uses non-Apple developer support resources? (Select all that apply)
+APPLE CONFIDENTIAL 55
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 055
+
+APL-APPSTORE 09584387
+
+0 ·
+
+"
+
+"0
+
+I ·
+
+///// ///
+
+APPLE::4';OMF)pENTl e:.::::,':,:":56"
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ."'
+J 0
+
+J0 0
+
+0
+
+g· · g · ·
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Aware of business and marketing resources available at developer. apple.corn/app-store/
+
+100%
+
+80% 60%
+
+62%
+
+64%
+
+66%
+
+81%
+
+40%
+
+20%
+
+38%
+
+US 3587
+
+36% UK
+
+34%
+China 1616
+
+190
+Japan 1026
+
+Base: Developers with decision influence Q30: Are you aware of the business and marketing resources available at developer. apple.corn/app-store/?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 057
+
+66%
+34% India 354
+
+· No · Yes
+APPLE CONFIDENTIAL 57
+APL-APPSTORE 09584389
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Last time visited resources at developer. apple.corn/appstore/
+
+100% 80% 60% 40% 20%
+
+30%
+· \
+
+29%o
+
+24%o
+
+34%o
+
+· I
+
+US
+
+UK
+
+China
+
+Japan
+
+India
+
+1355
+
+283
+
+542
+
+193
+
+122
+
+Base: Developers with decision influence aware of business and marketing resources at developer. apple.corn/app-store/ Q31: When was the last time you visited the business and marketing resources at developer. apple.corn/app-store/?
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 058
+
+· I don't remember · 1 y ear or more ago · Le s s than 1 year ago
+A PPLE CONFIDENTIAL 58
+APL-APPSTORE 09584390
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+How heard about resources at developer. apple.corn/ a pp-store/
+
+Developer. apple.corn Internet searches Apple events Word of mouth from other developers I know App Store team Tech publications or industry forums Social media Other Don't know
+n=
+
+US 45'/o
+14% 12 % 9'/o 5% 5/o 2'/o 18o/o 135 5
+
+UK
+
+China Ja an India
+
+34%
+
+30'/o
+
+35%
+
+47%
+
+48 /o
+
+11%
+
+14%
+
+6%
+
+'l6%
+
+10%
+
+21%
+
+13o/o
+
+16%
+
+10 %
+
+23o/o
+
+9o/o
+
+9'/o
+
+4%
+
+12%
+
+3%
+
+7%
+
+4%
+
+15 %
+
+6%
+
+16%
+
+0%
+
+2'/o
+
+15%
+
+6o/o
+
+10 %
+
+6 /o
+
+283
+
+542
+
+193
+
+122
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence aware of business and marketing resources at developer. apple.corn/app-store/ Q32: How did you hear about the business and marketing resources at developer. apple.corn/app-store/? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 059
+
+A PPLE CONFIDENTIAL 59
+APL-APPSTORE 09584391
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+Satisfaction with resources at developer. apple.corn/appstore/
+
+Availability of content in my preferred language Quantity of videos Quality of guidance Ease of navigating and discovering content Quantity of articles Range of topics Relevanceofinsights and tacticsto my business
+
+US
+
+·
+
+·
+
+49'/o 48% 48'/o
+] 48'/o
+
+UK Chin a J a an India
+
+·
+
+·
+
+"·
+
+42%
+
+· ·
+
+·
+
+·
+
+28'/ o
+
+·
+
+·
+
+·
+
+·
+
+·
+
+' ·
+·
+
+41 '/o
+
+·
+
+·
+
+32%
+
+·
+
+·
+
+·
+
+·
+
+·
+
+' ·
+
+33%
+
+·
+
+·
+
+' I
+
+' I
+
+36%
+
+·
+
+·
+
+·
+
+· ·
+
+32%
+
+·
+
+·
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence aware of business and marketing resources at developer. apple.corn/app-store/ and specified for each resource Q33: How satisfied are you with the business and marketing resources at developer. apple.corn/app-store/ on the following? Note: Sample size varies.
+A PPLE CONFIDENTIAL 60
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 060
+
+APL-APPSTORE 09584392
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Developer Website
+
+App business and marketing resources interested in learning more about from Apple
+
+App Store optimization App Store promotion
+
+US 48%
+
+UK
+
+China Ja an India
+
+· I
+
+· ·
+
+47%
+
+·
+
+·
+
+'i
+
+· ·
+
+37%
+
+· I'I
+
+User acquisition Engagement and retention Launch strategies
+
+45%
+
+50%
+
+l 40/0
+
+45%
+
+33%
+
+·
+14%
+
+·
+39 % 19 %
+
+47% 47% 41%
+
+Pricing/monetization strategies
+
+30'/0
+
+3?%
+
+21 'k
+
+290 k
+
+37%
+
+Business models
+
+24o k
+
+2 80/ 0
+
+24%
+
+29%
+
+35%
+
+Inclusion of relevant benchmarks
+
+17'/0
+
+18 %
+
+13 k
+
+15%
+
+22%
+
+International expansion strategies
+
+15%
+
+23%
+
+19 %
+
+23%
+
+28%
+
+Other None of these
+
+2'/0
+
+1%
+
+0'/0
+
+'l9%
+
+14%
+
+7%
+
+1%
+
+10k
+
+10 %
+
+12%
+
+358 7
+
+794
+
+161 6
+
+1026
+
+354
+
+2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence Q34: What app business and marketing resources are you interested in learning more about from Apple? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 061
+
+APPLE CONFIDENTIAL 61
+APL-APPSTORE 09584393
+
+Developer Profile
+
+Business Profile
+
+Marketing Profile
+
+Analytics
+
+International Expansion
+
+Tools and Support
+
+Formats found to be most effective to learn about
+resources from Apple
+
+Developer Website
+
+Articles Videos Email newsletters Interactive modules Podcasts Other Don't know
+n=
+
+US
+· J ·
+48'/o
+
+UK ' ·
+·
+
+China 49%
+
+Ja an
+
+India
+
+· I
+
+·
+
+·
+
+' o
+
+37o/a
+
+37%
+
+·
+
+·
+
+·
+
+· ·
+
+24%
+
+26%
+
+31%
+
+16%
+
+30%
+
+23o/ o
+
+22%
+
+39ok
+
+20o/o
+
+33%
+
+16 %
+
+15%
+
+10%
+
+8%
+
+13%
+
+2'k
+
+1%
+
+1 /0
+
+1%
+
+1%
+
+13%
+
+13%
+
+13 %
+
+16%
+
+12%
+
+358 7
+
+794
+
+161 6
+
+1026
+
+354
+
+1 0 2 0 30 4 0 5 0 · ·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+:
+
+·
+
+Base: Developers with decision influence Q35: What format do you find most effective to learn about business and marketing resources from Apple? (Select all that apply)
+
+HIGHLY CONFIDENTIAL - ATTORNEYS' EYES ONLY
+
+DX-351 3. 062
+
+A PPLE CONFIDENTIAL 62
+APL-APPSTORE 09584394
+
+

@@ -1,0 +1,429 @@
+Epic Games, Inc. v. Apple lnc.
+Testimony of Craig Federighi
+
+Threat Model Considerations
+Number of devices Number of opportunities a ue o access
+
+reat Model Conns'iderations
+umber of devices CQ Num er of opportunities
+Value of access
+
+How Attacks Work: the What
+Ig
+Seams
+
+Vandalism & Sabotage
+
+Ransomware
+
+Surveillanceware
+
+Info Stealing
+
+How Attacks Work: the How
+
+Develop
+
+Distribute
+
+Harm
+
+Distribute
+
+·
+
+·
+
+·
+
+Sandboxing Signed Code Malware Scan
+
+· ·
+
+· ·
+
+· ·
+
+«Q Qa · a
+
+: «1Q · 'C · s
+cmg
+
+«Q · c · 's
+
+·,·a . - -U
+
+\ Q
+· I·
+
+."«Q · C ·
+v 1«tc
+
+· Q c ·
+stgc
+
+· C· I Qc
+
+«Q · a·a
+-- I«lt .
+
+: «IQ~ Q'C · s
+
+· Q · s
+
+· cc. , Qg
+
+\ Q · s
+I Q.
+
+s Q · 'C
+
+· Q
+
+'I
+
+· c
+
+, l«g
+
+· ®lh ®
+· · ro ·
+
+a,l
+
+I
+
+«Q · a · i,
+
+· -- ai
+
+: «1Q Q'C · s
+
+· Q
+· I
+,QIQC
+
+·,cQc
+
+·
+
+·
+
+·
+
+·
+
+·
+
+· Q+IPSL · 0 · ·
+
+· ·
+
+Sandboxing
+Signed Code
+Malware Scan
+· ·
+·
+
+Human Policy Review
+
+Reliability Check f
+
+Sandboxing
+
+Signed Code
+
+· Malware Scan
+
+·
+
+·
+
+·
+
+·
+
+·
+
+ii ·
+
+· e$ s$
+
+il
+
+a
+
+Human Policy Review
+App Store ReviewsGuidelines
+
+Marketing Description Functionality
+Entitlements
+Physical Safety
+
+Sandboxing
+Signed Code
+Malware Scan
+· ·
+·
+
+Human Policy Review
+
+Reliability Check f
+
+Sandboxing
+
+Signed Code
+
+· Malware Scan
+
+·
+
+·
+
+·
+
+·
+
+·
+
+ii ·
+
+· e$ s$
+
+il
+
+a
+
+Privacy
+o Security o Data Minimization
+- Enti tlements
+- Incenti vized Access o Transparency
+- Nutrition Label
+o Control
+- Transparency Consent and Control (TCC) - App Tracking Transparency (ATT)
+
+Privacy
+o Security o Data Minimization
+- Enti tlements
+- Incenti vized Access o Transparency
+- Nutrition Label
+o Control
+- Transparency Consent and Control (TCC) - App Tracking Transparency (ATT)
+
+3:14 4
+Earn 1 GB of storage per invite sent.
+No Thanks
+ouid Like to Access our Contacts
+'llhisellllowsyou to choose which friends to invite.
+
+Privacy
+o Security o Data Minimization
+- Enti tlements
+- Incenti vized Access o Transparency
+- Nutrition Label
+o Control
+- Transparency Consent and Control (TCC) - App Tracking Transparency (ATT)
+
+3:14 4
+
+·Ill 9' l< I '
+
+Youwould» rrrl«l~ out on thefollowing features o
+Unlimited Fulll Aesolution Photo IBeokup UnlifYIIted Ho' Video Beckulp Priority Customer Support
+Not Now
+
+Privacy
+o Security o Data Minimization
+- Enti tlements
+- Incenti vized Access o Transparency
+- Nutrition Label
+o Control
+- Transparency Consent and Control (TCC) - App Tracking Transparency (ATT)
+
+You wo featur
+Unl IBffcku
+Unliifnlt
+Pr'
+
+Privacy
+o Security o Data Minimization
+- Enti tlements
+- Incenti vized Access o Transparency
+- Nutrition Label
+o Control
+- Transparency Consent and Control (TCC) - App Tracking Transparency (ATT)
+
+ta, 'Search
+
+·ali ale S3
+CCRC
+
+App Privaoy
+
+See Detalila
+
+The developer, Apple, indicated that the app's privacy practices may include handling of data as described below. For more information, see the developer's privacy policy.
+
+t
+
++iokad to Yoo
+
+The fofroeyrrrcroatamay be collected but it
+
+is not linked to your identity:
+
+O Health 5 Fitness + Location
+
+O Search History Ig/ Usage Deits
+
+Diagnostics
+
+Privacy practices may vary, for example,,based
+on the features you use or your age. Learn More
+
+informational
+Seller Category
+
+Apple ilec. htavigiation
+
+Today
+
+Games
+
+ape s
+
+arcade Search
+
+Privacy
+o Security o Data Minimization
+- Enti tlements
+- Incenti vized Access o Transparency
+- Nutrition Label
+o Control
+- Trans arenc Consent and Control TCC - App Tracking Transparency (ATT)
+
+3 17
+
+Atop StoN'
+
+teao"
+
+-oraa(
+22(el 9
+
+aa so(((
+Koreans
+Pl*ra Marka(
+
+Ior 19( Sr o
+sr
+
+S
+
+Taco SellO
+
+22ads(
+
+2(r(4(
+
+20((t e
+
+Allow"Maps" to usa
+y>tir laoation7
+Ycur llQcstion IsUsed tc' she((v yeUlr position cn themsp,Set directiens, estimate trevei times,,snd improve
+search results,
+
+take g(ta
+
+1" precise: Orl
+
+9(
+9(os
+
+'"sr
+
+oro
+
+~4s,
+
+2(4 44
+
+ld
+'sr (49
+
+ultll I ott
+
+'
+
+9
+
+rd(4 4(r
+
+atk
+
+t
+
+4
+
+d(4 9
+rt
+
+eI
+
+oe
+oe
+
+S ( tandoog Re e (au(so(
+
+3
+
+5/
+
+4((4
+
+e
+
+er
+
+I
+
+Allow Once
+
+Favor
+
+Allow While Using App
+
+ee All
+
+Don't Allow
+
+Home INork
+
+Add
+
+(((ees City
+
+My Guides
+
+Privacy
+o Security o Data Minimization
+- Enti tlements
+- Incenti vized Access o Transparency
+- Nutrition Label
+o Control
+- Transparency Consent and Control (TCC) - A Trackin Trans arenc ATT
+
+Allow "Pal Abotjt"to track yoLtr activity across other
+cotrtpiBrtics' apps artful WebSiaeS'P
+Yeer data will be rtsed te deliver ,persenakaed ads te yett.
+Ask App Not to Track
+Allow
+
+Human Policy Review
+App Store ReviewsGuidelines
+
+Marketing Description Functionality
+Entitlements
+Physical Safety Incentivized Access Nutrition Label
+
+

@@ -1,0 +1,44 @@
+European Commission - Press release
+PLAINTIFF
+U L Dleelel Coun- NDCAL
+eahov45840-Yea-TSH
+&peSaws, to m ~ I n r.
+sx.ao. PX-1916
+Antitrust: Commission opens investigations into Apple's App Store rules
+Brussels, 16 3une 2020
+The European Commission has opened formal antitrust investigations to assess whether Apple's rules for app developers on the distribution of apps via the App Store violate EU competition rules. The investigations concern in particular the mandatory use of Apple's own proprietary in-app purchase system and restrictions on the ability of developers to inform iPhone and iPad users of alternative cheaper purchasing possibilities outside of apps.
+The investigations concern the application of these rules to all apps, which compete with Apple's own apps and services in the European Economic Area (EEA). The investigations follow-up on separate complaints by Spotify and by an e-book/audiobook distributor on the impact of the App Store rules on competition in music streaming and e-books/audiobooks.
+Executive Vice-President Margrethe Vestager, in charge of competition policy, said: "Nlobile applications have fundamentally changed the way we access content. Apple sets the rules for the distribution of apps to users of iPhones and i Pads. It appears that Apple obtained a "gatekeeper" role when it comes to Che distribution of apps and content to users of Apple's popular devices. are need to ensure that Apple's rules do not distort competition in markets where Apple is competing with other app developers, for example with its music streaming service Apple Music or with Apple Books. I have therefore decided to take a close look at Apple's App Store rules and their compliance with EU competition rules.
+iPhone and iPad users can only download native (non web-based) apps via the App Store.
+The Commission will investigate in particular two restrictions imposed by Apple in its agreements with companies that wish to distribute apps to users of Apple devices:
+(i) T he mandatory use of Apple's own proprietaryin-app purchase system "IAP" for the distribution of paid digital content. Apple charges app developers a 30% commission on all subscription fees through IAP.
+(ii) Restrictions on the ability of developers to inform users of alternative purchasing possibilities outside ofapps. While Apple allows users to consume content such as music, e-books and audiobooks purchased elsewhere (e.g. on the website of the app developer) also in the app, its rules prevent developers from informing users about such purchasing possibilities, which are usually cheaper.
+The complaints
+On 11 March 2019, music streaming provider and competitor of Apple Music, Spotify, filed a complaint about the two rules in Apple's license agreements with developers and the associated App Store Review Guidelines, and their impact on competition for music streaming services.
+Following a preliminary investigation the Commission has concerns that Apple's restrictions may distort competition for music streaming services on Apple's devices. Apple's competitors have either decided to disable the in-app subscription possibility altogether or have raised their subscription pricesin the app and passed on Apple's fee to consumers. In both cases, they were not allowed to inform users about alternative subscription possibilities outside of the app. The IAP obligation also appears to give Apple full control over the relationship with customers of its competitors subscribing in the app, thus dis-intermediating its competitors from important customer data while Apple may obtain valuable data about the activities and offers of its competitors.
+On 5 March 2020, an e-book and audiobook distributor, also filed a complaint against Apple, which competes with the complainant through its Apple Books app. This complaint raises similar concerns to those under investigation in the Spotify case but with regard to the distribution of cbooks and audiobooks.
+In parallel, today the European Commission has opened a formal antitrust investigation to assess PX-1916.1
+
+whether Apple's conduct in connection with Apple Pay violates EU competition rules.
+Next steps
+The Commission will investigate the possible impact of Apple's App Store practices in particular on competition in music streaming and e-books/audiobooks. These practices may ultimately harm consumers by preventing them from benefiting from greater choice and lower prices.
+If proven, the practices under investigation may breach EU competition rules on anticompetitive agreements between companies (Article 101 of the Treaty on the Functioning of the European Union (TFEU)) and/or on the abuse of a dominant position (Articles 102 TFEU).
+The Commission will carry out its in-depth investigations as a matter of priority. The opening of a formal investigation does not prejudge its outcome.
+Background on antitrust investigations
+~Ar i<lml~l of t he TFEU prohibits anticompetitive agreements and decisions of associations of undertakings that prevent, restrict or distort competition within the EU's Single Market. ArrAili~12 o f the TFEU prohibits the abuse of a dominant position. The implementation of these provisions is defined in the Antitrust Regulation ( n il R I i n N 1 2 ), which can also be applied by the national corn petition authorities.
+Article 11(6) of the Antitrust Regulation provides that the opening of proceedings by the Commission relieves the competition authorities of the Member States of their competence to apply EU competition rules to the practices concerned. Article 16(1) further provides that national courts must avoid adopting decisions that would conflict with a decision contemplated by the Commission in proceedings it has initiated.
+The Commission has informed Apple and the competition authorities of the Member States that it has opened proceedings in these cases.
+There is no legal deadline for bringing an antitrust investigation to an end. The duration of an antitrust investigation depends on a number of factors, including the complexity of the case, the extent to which the companies concerned cooperate with the Commission and the exercise of the rights of defence.
+More information on the investigations will be available on the Commission's com etition website, in
+»(*» -*»
+streaming) and AT.40652 (Apple -- App Store Practices -- e-books/audiobooks).
+I P/20/1073
+
+Press contacts:
+Ari nn P DESTA (+32 2 298 70 24) Maria TSONI (+32 2 299 05 26) Genera pub ic inquiries: ~E ~ D i c f b y phone
+
+7 1 11 or b y ~ i
+
+PX-1 91 6.2
+
+

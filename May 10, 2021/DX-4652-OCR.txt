@@ -1,0 +1,184 @@
+Liberty Console Partner Communications (Speculative / Hypothetical)
+
+Phase I
+
+Inform IP console partners (Sony, MSFT, Nintendo) about 20'k pricing change (July 30 or later)
+
+Phase II
+Inform all partners about overall pricing efforts (August 13}:
+1. Consoles 2. Samsung 3. GEMs
+4. Apples Google
+
+United States District Court
+
+CI
+
+Northern District of California
+
+Case No. 4:20-cv-05640- YGR
+
+Case TitleEpicGames, Irtc.v.Apple, Iree.
+
+Exhibit No. DX-4652
+
+Date Entered
+Susan Y. Soong, Clerk
+
+By:
+
+, Deputy Clerk
+
+This document intends to capture and answer possible questions we might receive from our various partners. It is broken into. two phases. Timeline here.
+
+CONFIDENTIAL
+
+DX-4652. 001
+
+EPIC 04048291
+
+Key Messaging (For Legal Review)
+Phase 1 {July 30 - August 12)
+REDACTED FOR PRIVILEGE
+
+CONFIDENTIAL
+
+DX-4652. 002
+
+EPIC 04048292
+
+Phase I Execs Response: Phil Spencer, Phil Rosenberg, Steve Singer - this will be reactive
+Key Points:
+· Wh at is the price drop'P o The Fortnite Mega drop is a permanent price cut of up to 20'/0 on V-Buck/RMT purchases starting August 13.
+Why are you doing itV o [More Content] We are asking our players t0 purchase more, higher quality cosmetics during Season 4 (Marvel) arid Season 5 (Warriors). o [ W o rld Economy] We want monetization to. continue to feel great despite the faster content cadence, especially in light of the world economic situation. c [ C o mpetitive Advantage] We view lower prices as a longer term strategic play againstcornpetitive F2P titles (they won't be able to deliver our quantity and value at oui' price). o [Sony only] [Let's Connect] I'd love to connect with you after the price drop, let's set some time on the calendar for August 13.
+e The price cut is beneficial because it is: o A n accelerator for purchase velocity/frequency o A n import lock-in tactic for Season 14 Battle Pass. conversion o Beneficial t0 the Iong term health of the Fortnite economy o A positive message in a difficult time for many players
+The price cut should not impact forecasts for 2020 because: 0 We have. ahuge IP pipeline for Season 4 and 5 c S u bscription is still 811.99, and arrives in Season 5 o W e have the flexibility to create higher priced bundles and new "Mythic" rarities if needed
+Here's the long form version as a primer:
+We have decided to cut prices. by up to 20 k on all Fortnite purchases starting August 13. This. includes V-Bucks and RMTs. We plan for this to be a permanent change to the Fortnite economy. We believe this pricing move is a significant benefit to Fortnite players, and is important for the long term health of the overall Fortnite ecosystem.
+We are working on a significant global marketing campaign to highlight the newly reduced prices that we will be launching on August 13 along with the price changes. Our marketing team will be ~orking with your global marketing teams. to make the most of this moment. Please treat the pricing change. as confidential, as we will not announce it. publicly until it happens on August13.
+We think the price change will be great for Fortnite players and received positively by the community, and this campaign should drive significant attention to Fortnite globally. We also believe that with the addition of the upcoming Subscription plan (which will still sell at 81 "l.99) and our increased focus on IP collaborations in both Battle Royale and Party Royale, that we will actually have higher revenues this year than you may currently have forecast.
+
+CONFIDENTIAL
+
+DX-4652. 003
+
+EPIC 04048293
+
+Phase 1 Questions 8 Reactive (Pricing Update)
+Reactive messaging contacts:
+Sony, Xbox, Nintendo: MattW, Cameron, Shaw Apple and Google:EdZ, MattW, AlecS, HansS Carriers: NateN, Hans
+For questions from console/carrier partners regarding price changes, Epic direct payment or Apple/Google actions:
+Sorry, I don't know many of the details beyond the actual price cut amounts and timing. You should talk to...[see list above].
+For questions from Apple/Google:
+Unfortunately this is an exec level discussion. I understand there have been conversations between Tim and [Hiroshi/Cook], and that [Hiroshi/Cook] should reach out to Tim or Adam Sussman to discuss.
+ln case the payment systems on mobile are leaked prior to launch, and console first party reaches out:
+We' re not necessarily going to lower prices on mobile, but on Xbox/PlayStation/Nintendo we will continue to have the best prices for this coming generation.
+What's the thinking behind this?
+We believe this pricing move is important for the long term health of the Fortnite ecosystem and will strategically position Fortnite prices to be more competitive for the new console generation. We believe the price cut will be very well received by our players given current world events, and will be a big marketing moment for Fortnite globally.
+Help us understand what the goals are here?
+We are always looking to provide players value, and as we begin to increase our cadence around IP integrations and add new monetization systems (including Subscription), we believe we can provide our existing line of cosmetics at a lower price to players while increasing the quality and quantity of our offerings. This will put us in a position of competitive strength heading into the next generation of consoles and will be good for the long term future of our player base.
+Has Epic done modelling on the projected impacts of this change?
+We' ve tested and analyzed price elasticity in regional pricing tests over recent weeks. We believe that with the addition of the upcoming Subscription plan (which will still sell at $11.99) and our increased focus on IP collaborations in both Battle Royale and Party Royale, that we will actually have higher revenues this year than you may currently have forecast.
+
+CONFIDENTIAL
+
+DX-4652. 004
+
+EPIC 04048294
+
+Can we have someone from Epic walk us through the model? We can walk you through our full year forecast, which factors in these pricing changes. Is this a permanent change? Or are you thinking about rolling this back at some point? Yes, this is a permanent price change, barring any foreign exchange rebalances. Is Epic open to pumping the brakes on this change and discussing other options? No, we' ve been working on this idea for a while and believe it is in the best interest of our players in the long term. What about the POSA cards? This is worth a separate conversation, but these changes will carry over to POSA cards as well.
+
+CONFIDENTIAL
+
+DX-4652. 005
+
+EPIC 04048295
+
+Mobile onl
+Are mobile prices changing?
+We can't talk about pricing on other platforms, but we can confirm that your players will be getting the best price available.
+
+CONFIDENTIAL
+
+DX-4652. 006
+
+EPIC 04048296
+
+Phase 2 (Aug 13) Massaging [FOR LEGAL REVIEW]
+1I.-
+REDACTED FOR PRIYILEGE
+
+CONFIDENTIAL
+
+DX-4652. 007
+
+EPIC 04048297
+
+REDACTED FOR PRIVILEGE
+
+CONFIDENTIAL
+
+DX-4652. 008
+
+EPIC 04048298
+
+Executive Communications -- Phase I I
+o What is going on with mobile? o T oday we added Epic direct payment on mobile, a new payment alternative to the Apple App Store and Google Play Store. Using Epic direct payment, players can receive the same permanent 20% discount that they are now enjoying on console and PC.
+· Wh y are you doing it? o [ M obile Should be Open] The addition of Epic direct pay on mobile reinforces our overall desire to open mobile platforms. o [ C urrent Practices are Unfair] Epic believes that Apple and Google have imposed unfair practices on the industry, restricting competition, with a significant negative impact on game developers,app developers, and consumers worldwide.
+· Wh y is mobile different from console?: o [ M obile is different] Epic believes consoles are very different from the mobile platforms. Mobile devices are essential computing devices upon which we conduct our social and professional lives and engage in commerce and entertainment. There's no reason why smartphone app stores and payment processing should function any differently than a pel sonal computer. 0 [Apple and Google] Apple and Google together control 99% of the mobile operating system market cannot rightly control the terms of physical anci digital commerce and use their monopoly power over devices to prevent competition in payment processing, stores, and app curation. Apple and Google have artificially restricted iQS and Android so that there is no competition, so that creators earn less, and so that consumers are forced to pay higher prices.
+
+CONFIDENTIAL
+
+DX-4652. 009
+
+EPIC 04048299
+
+Phase 2 Questions (Epic Payment Update)
+Sony, Xbox,Nintendo: MattVV,Cameron, Shaw Apple and Google: EdZ, MattW, Aiec8, HansS Carriers.: NateN, Hans
+
+For questions fmm console/carrier partners regarding price changes, Epic direct payment or Apple/Google act:ions:
+
+Sorry, I don't know many of the details beyond the actual price. cut arriounts and timing. You should talk to... [see list above].
+
+For questions from Apple/Google:
+
+Unfortunately this is an exec level discussion. I understand there have beeri conversations between Tim and [Hiroshi/Cook], and that [Hiroshi/Cook] should reach out to Tim or Adam Sussman to discuss.
+
+It looks like the price changes you made were in response to Apple and Google app store revenue distribution. Is that the case?
+
+We believe this move is in the best interest of our players and the long term health of Fortnite, and strategically positions us to be more competitive for the new console generation. The addition of Epic direct pay on mobile reinforces our overall desire to open mobile platforms.
+
+Our business takes the same cut as the Apple and Google stores do. Are we next on your list?
+
+No,
+
+we believe that consoles are very different from the
+
+mobile platforms. We don't have the same concerns with consoles that we do with the mobile platforms.
+
+Reddit is theorizing that Epic submitted hidden payment code through Apple and Google cert and turned it on atter the tact. Is that accurate? How do we know Epic won't do the same to us. at some point?
+
+No from the mobile platforms. platferrna-.
+
+we believe that consoles are very different
+
+[Hypothetical, depends on what ApplelGoogle do] It looks like Apple and/or Google have already blocked the Fortnite app on their platform
+
+We can only refer folks to our public statements on this topic, the best source of information is our public FAQ available here <link>.
+
+GEMs / Carriers:
+
+CONFIDENTIAL
+
+DX-4652. 01 0
+
+EPIC 04048300
+
+Individual Mobile Partner Communication Drafts
+
+CONFIDENTIAL
+
+DX-4652. 01 1
+
+EPIC 04048301
+
+

@@ -1,0 +1,11842 @@
+Subject: Fw d: App Store Developer Study report From: oTrystan Kosmynkan
+Received(Date):Wed, 06 Dec 2017 21:25:39 +0000
+Tol
+Attachment: Ap p S tore Developer Final Report.key Date: We d, 06 Dec 2017 21:25:39+0000
+
+PLAINTIFF
+UN. Dlulrlot Court - NDCAC
+4:20m415040-YGR-TSH
+Epic comus,Inc. u.Apply inc.
+o, u,,~ 4 4 1
+By
+
+Anything in here for us?
+Begin forwarded message:
+) From: Trystan Kosmynka > Date: December 6, 2017 at 1:17:38 PM PST > To: AR SR Managment ) Subject: Fwd: App Store Developer Study report
+> fyi
+) Begin fotwarded message:
+
+» F rom: Steve McGuigan
+
+» Date: December 6, 2017 at 1:14:19 PM PST
+
+» To: Monika Gromek
+
+Matt Fischer
+
+Stephanie Saffer
+
+Tom Neumayr
+
+Alex
+
+Rofman
+
+Shaan Pruden
+
+Tanya Washburn
+
+Carmina Calderon
+
+Latika
+
+Kirtane
+
+Emily Blumsack
+
+Smokey
+
+Fontaine
+
+Sean Cameron
+
+Oliver Schusser
+
+Julian Murphy
+
+Daniel Erlewine
+
+Pedraum Pardehpoosh
+
+Erika Mobley
+
+Kayla Wilson
+
+Todd Teresi
+
+Eric Gray
+
+Sam Gharaball
+
+Ayman Khalil
+
+Elizabeth D'Errico
+
+Trystan
+
+Kosmynka
+
+» Subject: Fwd: App Store Developer Study report
+
+» " * Confidential **
+
+» Per Matt's staff meeting, here are the results from our annual developer survey.
+» Please let me know if you have any further questions.
+» Steve... »
+
+HIGHLY CONFIDENTIAL--ATTORNEYS' EYES ONLY
+
+Exhibit 0041
+PX-0041.1 APL-APPSTORE 09637019
+
+»> Begin forwarded message:
+
+»> From: James imahiro
+
+»> Subject: App Store Developer Study report
+
+»> Date: December 4, 2017 at 8:22251 PM PST
+
+»> To: Philip Schiller
+
+Greg Joswiak
+
+, Kevan
+
+Parekh
+
+»> Cc: Matt Fischer
+
+Ron Okamoto
+
+Steve McGuigan
+
+Alex Rofman
+
+Ryan Olson
+
+, Seema Vora
+
+Melinda Sammons
+
+»> Attached is a study we conducted on App Store developers. The purpose of this
+study was to better understand marketing and business development issues faced by these developers.
+
+» > The studwyas conducted in the US, China, and Japan among app developers for
+iOS, macOS, watchOS, or tvOS who were involved in business or marketing decisions of their company and had at least one app published on the App Store within the past two years. A two year range was used in an effort to ensure a large enough sample of respondents. For analysis purposes, developers were segmented into small, mid and large tiers based on the number of downloads over the two year range.
+
+»> This is a summary of results. Also included are actions Matt Fischer's team plans to
+take in FY18 to address the findings from this survey. »> The study was conducted in May 2017. For FY18, we plan to survey developers earlier in the year and distribute results more expediently and follow up with recommended actions from stakeholders once they come together.
+
+»> Please see the report for full details.
+
+»> Developer profiles
+
+»> Almost all developers surveyed develop apps for iPhone »> A low percentage develop for iMessage, macOS, watchOS and tvOS
+
+»> US
+»> China »> Japan
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.2
+APL-APPSTORE 09637020
+
+»> iOS »> 99% ») 100% »> 99%
+))0
+»> iPhone »> 96% ))> 100% »> 97%
+»o iPad ))0 82% ))0 56% ») 70%
+»> iMessage »o 9% »o 5% »o 7%
+»> macOS »> 16% »o 6% ))0 11%
+))0
+») watchOS »> 12% ») 6% »o 9%
+))0
+))0 tvos »> 10% ))> 1% »> 4%
+))0 ))0
+»o Over two-thirds of Apple developers also develop for other operating systems and platforms. Of those who do, topmentions include:
+))0 ))0 ))0
+»> IJS »> China
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.3 APL-APPSTORE 09637021
+
+»> Japan
+») Android Mobile ))> 86% »> 95% ))> 84%
+))> HTML 5 »> 49% »> 53% »> 37%
+))0
+»> Windows
+) )) 3 1%
+»> 28% »> 38%
+))0 ))0
+»> The primary business model for Apple apps varies by country
+»o US »> China »o Japan
+»> No monetization mode ») 29% ))> 21% ))> 20%
+))0
+»> Paid »> 24% »> 7% ))> 18%
+))0
+»> Freemium ))> 18% ») 30%
+) )) 22 %
+»o Ad supported »o 9%
+))> 12% »> 27%
+»> Subscription
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.4 APL-APPSTORE 09637022
+
+»> 7%
+) )) 1% ») 3% ))0
+»> E-Commerce »o 5% »> 19% »> 3%
+»> Paymium »o 3% »o 7% »o 3%
+»> Other »> 5%
+))0 2 %
+»o 3%
+))0
+»> Don't know ))> 1% ))> 1%
+))0 1% ))0
+»> About 60% use Sales 8 Trends reports ») A large majority of developers (81% to 90%) have at least some budget for apps marketing ») W o rd-of-mouth is the most effective marketing activity to keep existing users coming back to their company's apps, especially in China (43% vs. 29% in US and Japan) »> ln the US, about 50% say word-of-mouth is the most effective marketing activity for driving downloads on the App Store, whereas in China and Japan, 45% say App Store featuring is the most effective »> Social media is the most important channel in driving word-of mouth marketing in the US, and App Store chart ranking is the most important in China and Japan
+))0
+»> Satisfaction (satisfied = total very and somewhat satisfied)
+))0
+») 5 1% to 65% of developers are satisfied with the App Store »> Top reasons for not being satisfied * include the inability to update metadata without binary submission, the perceived lack of functions other platforms have, having no way to customize the product page, finding the algorithm updates unpredictable, and lack of personalized recommendations »> Satisfaction with elements of the App Store is mixed:
+»> IJS
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.5 APL-APPSTORE 09637023
+
+»> China ») Japan
+»> Provides tools I need to successfully develop apps
+))> 68% »> 75% »> 61%
+»> Enables profitability of my apps »> 38% ))> 46% ))> 32%
+))0
+») Enablesdiscovery ofmy apps »> 37% »> 47%
+))> 24%
+))0
+»> Provides the tools I need to successfully market apps »> 34% »> 40%
+») 27%
+))0
+»> Matt Fischer's team's next steps:
+))0
+»> Satisfaction with the App Store
+»> FY17 Survey Findings (Reason not satisfied): »o FY18 Actions:
+))0
+»> Inability to update metadata without binary submission »> Exploring Metadata only submission
+»> No way to customize product page »> Exploring A/B testing tool
+))0 ))0
+») D eveloper website »> Awareness of the business and marketing resources at developer. apple.corn/appstore is low (27% to 46%). »> Satisfaction with the website's resources is low (39% to 58%). The main reasons for not being satisfied' among US developers include the information is too broad and not actionable, and it lacks relevant recommendations. »> The resources developers are interested in learning more about are App Store promotion, App Store optimization, user acquisition, and engagement and retention. »> Matt Fischer's team's next steps:
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.6 APL-APPSTORE 09637024
+
+»> Developer Website
+»> FY17 Survey Findings: »o FY18 Actions:
+))0
+»> Low awareness of business and marketing resources »> Increase discovery through marketing, SEO and UX improvements »> Localize more content to support international developers
+»> Information too broad, not actionable and lacks relevant recommendations»> Publish content more frequently to encourage habitual usage »> Create more specific guidance on multiple topics
+») Learn more about: App Store Optimization App Store Promotion User Acquisition Engagement and Retention
+»> Facilitate discovery of existing content through UX improvements »> Publish new content on user acquisition, engagement and retention
+))0
+»o App Analytics »> Over half (52% to 70%) of developers use App Analytics ») Satisfaction with App Analytics is low (49% to 63%). The main reasons for not being satlsfIed include the data are not granular enough, it lacks uninstalls/deletions, and the data is not real-time »> Requested features for App Analytics include' search keyword insights, demographic data for app users, benchmarks against similar apps, and diagnostic data »> App Analytics Product team's next steps:
+»> App Analytics
+))0
+»> FY17 Survey Findings (Reason not satisfied): »o FY18 Actions:
+))0
+») L ack of uninstalls/deletions »> Exploring adding Deletions data
+»> Not real time data »> No plans to address
+))0
+»> Data not granular enough »> Add In-App Purchase Data
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.7 APL-APPSTORE 09637025
+
+») ' Respondents'comments toopen ended questions were manuallycodedinto
+categories. Some of these categories are predetermined, others are added as new themes receive a sufficient number of mentions. The percentages reported are calculated based on the number of mentions provided (a respondent may not provide a comment or may have provided more than one comment) divided by the number of
+respondents who were shown the question.
+
+Anything in here for us? Begin forwarded message: From: Trystan Kosmynka Date: December 6, 2017 at 1:17:38 PM PST To: AR SR Managment Subject:Fwd: App Store Developer Study report
+
+Begin forwarded message:
+
+From: Steve McGuigan
+
+Date: December 6, 2017 at 1:14:19 PM PST
+
+To: Monika Gromek
+
+Matt Fischer
+
+Ste hanieSaffer
+
+TQm Neumayr
+
+Alex Ro5nan
+
+, Sheen Pruden Carmina Calderon
+
+, Tanya Washburn Lanka Kirtane
+
+Emily Blumsack
+
+Smokey Fontaine
+
+Sean Cameron
+
+Oliver Schusser
+
+Julum Murphy
+
+Daniel Erlewine
+
+Pedraum Pardehpoosh
+
+Erika Mobley
+
+, Kayla Wilson
+
+Todd Teresi
+
+Ayman Khalil Kosmynka
+
+Eric Gray
+
+, Sam Gharabeily , Elizabeth DErrico
+
+Trystan
+
+Subject:Fwd: App Store Developer Study report
+
+ee Confrdential "e
+
+HIGHLY CONFIDENTIAL--ATTORNEYS' EYES ONLY
+
+PX-0041.8 APL-APPSTORE 09637026
+
+Per Matt's staff meeting, here are the results &om our annual developer survey.
+
+Please let me know if you have any further questions.
+
+Steve...
+
+Begin forwarded message:
+
+From: James lmahiro
+
+Subject: App Store Developer Study report
+
+Date: December 4, 2017 at 8:22151 PM PST
+
+To: Philip Schiller
+
+, Greg Joswiak
+
+Pare kh
+
+Cc: Matt Fischer
+
+, Ron Okamoto (
+
+),Steve McGuigan
+
+, Alex Rofman
+
+Ryan Olson
+
+, Seema Vora
+
+Sammons
+
+, Kevan
+'I
+, Melinda
+
+Attached is a study we conducted on App Store developers. The purpose of this study was to better understand marketing and business development issues faced by these developers.
+
+The studywas conducted in the US, China, and Japan among app developers foriO S,m acOS,
+watchOS, or tvOS who were involved in business or marketing decisions of their company and had at least one app published on the App Store within the past two years. A two year range was used in an effort to ensure a large enough sample of respondents. For analysis purposes, developers were segmented into small, mid and large tiers based on the number of downloads over the two year range.
+
+This is a summary of results. Also included are actions Matt FischeFs team plans to take in FY18 to address the fmdings &om this survey.
+
+The study was conducted in May 2017. For FY18, we plan to survey developers earlier in the year and distribute results more expediently and follow up with recommended actions &om stakeholders once they come together.
+
+Please see the report for full details.
+
+Developer profiles
+
+· Almost all developers surveyed develop apps for iPhone
+
+·A low percentage develop for iM essage,m acOS, watchOS and tvOS
+
+HIGHLY CONFIDENTIAL--ATTORNEYS' EYES ONLY
+
+PX-0041.9 APL-APPSTORE 09637027
+
+US Ch in a J apan
+
+iOS
+
+9 9% 100% 9 9 %
+
+iP hone 96% 10 0 % 97%
+
+iPad
+
+82% 56 % 70%
+
+i Mes sage 9% 5% 7%
+
+macOS 16% 6 % 11%
+
+watchOS 1 2 % 6 % 9%
+
+tvOS
+
+10% 1%
+
+4%
+
+· Over two-thirds of Apple developers also develop for other operating systems and platforms. Of those who do, top mentions include:
+
+US Chi n a J a p an
+
+A ndroid Mobile 8 6 % 9 5% 84%
+
+HTML 5
+
+49% 5 3 % 3 7%
+
+Windows
+
+3 1% 2 8 % 3 8%
+
+rimary · The p
+
+business model for Apple apps varies by country
+
+US Ch ina J apan
+
+N o monetization model 29 % 2 1 % 20%
+
+Paid
+
+24% 7 %
+
+18%
+
+Freemium
+
+18% 30 % 22%
+
+Ad supported
+
+9% 1 2% 27%
+
+Subscription
+
+7% 1% 3%
+
+E-Commerce
+
+5% 1 9% 3%
+
+Paymium
+
+3% 7% 3%
+
+Other
+
+5% 2% 3%
+
+Don't know
+
+1 % 1 % 1%
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.10 APL-APPSTORE 09637028
+
+· About 60% use Sales 4, Trends reports · A large majority of developers (81% to 90%) have at least some budget for apps marketing
+· Word-of-mouth is the most effective marketing activity to keep existing users coming back to their company's apps, especially in China (43% vs. 29% in US and Japan)
+· In the US, about 50% say word-of-mouth is the most effective marketing activity for driving downloads on the App Store, whereas in China and Japan, 45% say App Store featuring is the most effective
+· Social media is the most important channel in driving word-of mouth marketing in the US, and App Store chart ranking is the most important in China and Japan
+Satisfaction (satisfied = total very and somewhat satisfied)
+· 51% to 65% of developers are satisfied with the App Store
+· Top reasons for not being satisfied* include the inability to update metadata without binary submission,the perceived lack of functions otherplatforms have, having no way
+to customize the product page, finding the algoirthmupdates unpredictable, and lack of
+personalizedrecommendations
+· Satisfaction with elements of the App Store is mixed:
+
+US Chi n a J a p an
+
+Provides tools I need to successfully develop apps 68% 75% 61%
+
+Enables profitability of my apps
+
+38% 46 % 32%
+
+Enables discovery of my apps
+
+37% 47 % 24%
+
+Provides the tools I need to successfully market apps 34 % 4 0 % 27%
+
+· Matt Fischer's team's next steps:
+
+Satisfaction with the App Store
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.11 APL-APPSTORE 09637029
+
+FY17 Survey Findings (Reason not satisfied): FY18 Actions:
+
+Inability to update metadata without binary submission
+
+Expl o ring Metadata only submission
+
+No way to customize product page
+
+Developer website · Awareness of the business and marketing resources at develo er.a l e . c om/a -store is low (27% to 46%).
+· Satisfaction with the website's resources is low (39% to 58%). The main reasons for not being satisfied~ among US developers include the information is too broad and not actionable, and it lacks relevant recommendations.
+· The resources developers are interested in learning more about are App Store promotion, App Store optimization, user acquisition, and engagement and retention.
+· Matt I'ischer's team's next steps:
+Developer Website FY17 Survey Findings: F Y 1 8 Actions: Low awareness of business and marketing resources
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.12 APL-APPSTORE 09637030
+
+Information too broad, not actionable and lacks relevant
+recommendations
+
+· Publish content more frequently to encourage habitual usage
+· Create more specific guidance on multiple topics
+
+Learn more about:
+App Store Optimization
+App Store Promotion
+User Acquisition
+Engagement and Retention
+
+· Facilitate discovery of existing content through UX improvements
+· Publish new content on user acquisition, engagement and retention
+
+App Analytics · Over half (52% to 70%) of developers use App Analytics
+
+· Satisfaction with App Analytics is low (49% to 63%). The main reasons for not being satisfied~ include the data are not granular enough, it lacks uninstalls/deletions, and the data is not real-time
+
+· Requested features for App Analytics include* search keyword insights, demographic data for app users, benchmarks against similar apps, and diagnostic data
+
+· App Analytics Product team's next steps:
+
+App Analytics
+
+FY17 Survey Findings (Reason not satisfied): FY18 Actions:
+
+Lack of uninstalls/deletions
+
+Exploring adding Deletions data
+
+Not real time data
+
+Data not granular enough
+
+Add In-App Purchase Data
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.13 APL-APPSTORE 09637031
+
+manualy ~ Respondents' cornrnents to open ended questions were
+
+coded into categories. Some
+
+of these categories are predetermined, others are added as new themes receive a sufficient
+
+number ofmentions. The percentages reported are calculated based on the number of mentions
+
+provided (a respondent may not provide a comment or may have provided more than one comment) divided by the number of respondents who were shown the question.
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.14 APL-APPSTORE 09637032
+
+App Store Developer Study
+US, China, Japan
+Apple Market Research and Analysis Fielded May 2017
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.15 APL-APPSTORE 09637033
+
+Why This Report? Purpose: To understand marketing and business development issues
+of iOS, macOS, watchOS, and tvOS app developers
+Key areas include: Company developer profile Business profile Marketing profile App Store Guidance, tools and services International expansion
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.16 APL-APPSTORE 09637034
+
+MethOdOIOgy
+App Store Developer Study
+Who did we survey? App developers for iOS, macOS, watchOS, or tvOS who were involved in business or marketing decisions of their company andhad atleastoneapp published on the App Store within the past two years. A two year range was used in an effort to ensure a large enough sample of respondents. For analysis purposes, developers were segmented into small, mid and large tiers. The App Store analytics team defined the tiers based on app downloads. The downloads were segmented into three tiers since the top developers contribute a large proportion of downloads The buckets were scaled in size -- 93rd and above percentile for large, 71-93 tor mid and 70th and below for small. The team
+ted tr) understand if there were differences in results %)opera vnth different levels of downloads.
+US, China, Japan
+How did we reach them? Developers were randomly selected from the App Store Analytics team's database and invited to partimpate in a15minute web survey.
+
+Notes Statistical testing was conducted at a p<0.05 significance level.
+If data reported for large and mid tier groups is higher/lower than the corresponding value for the small tier tier group, it is indicated with a upward/downward arrow (1 t). To simplify reporting, results of statistical testing may not be shown tor values under 5%.
+To simplify reporting, chart labels for values under 3% may not be shown The term "Top-2 box" refers to the total of the top 2 results in a 5-point scale. Totals, sub-totals, and neh may be off by a point or two due to rounding.
+Respondentsc'omments to open ended questions were manually coded into categones. Some of these categories are predetermined, others are added as new themes receive a sufficient number of mentions. The percentages reported are calculated based on the number of mentions provided (a respondent may not provide a comment or may have provided more than one comment) dwided by the number of respondents who were shown the question.
+
+APPlE 3 ONROENTIAL 3
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.17 APL-APPSTORE 09637035
+
+·
+
+· e
+
+·
+
+·
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.18 APL-APPSTORE 09637036
+
+Developer tier mix
+
+US
+
+China
+
+Japan
+
+21
+
+303
+
+313
+
+n=t 903
+
+nwoo
+
+· Bmad
+
+a Mtd
+
+· targe
+
+Base AS respondents Development tier - sample data N ote Development tier defined by the App Store Analytics team based on number of apps downfoaded within the past two years. and tiered by percentite A P P L E
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.19 APL-APPSTORE 09637037
+
+Number of apps published on the App Store in the past 2 years
+
+Base All respondents Sa How many apps has your company puhltshed on the App Store m the last two years>
+
+Japan
+
+11 or tftofe Ilel 6-10 I· I 2-5 I· I 1
+APPLE C OfIFIDEhrrIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.20 APL-APPSTORE 09637038
+
+Number of apps published on the App Store in the past 2 years
+
+7/
+
+~ Sss SMT 15'/1
+
+11'/1
+
+I 12S
+
+6, /
+
+761 11 / 21%7
+
+17 /1
+
+10/. SSS I stet
+
+i 8'/'
+
+2IPAt 101'J'
+
+17117
+
+40%
+
+Total S m al l M id VS
+
+l arge
+
+n= 1903 913 566 424
+
+I
+T otal S m al l Mid China
+588 273 182
+
+Larg e 133
+
+Base Allrespondents S4: How manyapps has yourcompany puhhshed on the App Store in the lastIw o years> Note Arrows denote compansons to small tier wahin each country
+
+I
+Total S m al l Md Japan
+500 236 159
+
+I
+Larg e 105
+
+11 or wtola I· I 6-10 I· I 2-5 %1
+APPLE CI7NFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.21 APL-APPSTORE 09637039
+
+Number of employees
+
+· = ' -- 3y ·=r
+
+~
+
+'4 'A~
+
+90%
+
+1424 60 4
+
+20'4
+UB 1 903
+Base Allrespondents 35 How manypeoplework atyourcompany?
+
+Clone
+
+15y I
+
+Japan 500
+
+· Bans know 10,000 or more 1,000-9,999
+m 100-999 · 51-99 · 21-50 · 6-20 · 1-5
+APPLE COrtFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.22 APL-APPSTORE 09637040
+
+Number of employees
+
+totPA
+7'/
+l 4 44
+607.
+
+I 4%J
+
+6'4 1 847
+
+47
+
+·
+
+~
+
+t9M
+
+20 ; 12'/t
+
+40/
+
+Total S m al l M id US
+
+l arge
+
+n= 1903 913 566 424
+
+Total 588
+
+Sma ll Mid China
+273 182
+
+Base Allrespondents 85 How manypeoplework alyourcompany> Note. Arrows denote compansons to small tier wehin each country
+
+T otal S mall M d Jaime
+500 236 159
+
+Larg e 105
+
+· Bent know 10,000 ar more 1,000-9,999 100-999
+· 51-99 · 21 %0 · 6-20 · 1-5
+APPLE CONFIDENTIAL 7
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.23 APL-APPSTORE 09637041
+
+Primary business model for Apple apps
+
+60% 18
+60 k
+29"
+20re
+
+12'% 21'.s
+
+UB 1 903
+
+Cluna
+
+Base AS respondents A3 N 1 What is the pnmary business model for your company's Apple eppes
+
+276 22 A 20s
+Japan 500
+
+· Cons Snow · Other · E-Commeme · Bubscripson · Ad supportmt · Freemium · No moneiizalion madel I Paymium · Paid
+APPLE COriFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.24 APL-APPSTORE 09637042
+
+Primary business model for Apple apps
+
+Ituys 5/4,
+5
+
+6'/a Ã /
+
+807. 9 '
+
+7e 13/
+
+16'/
+
+18,
+
+30" 40%
+
+3/
+
+: 4'
+
+4'/
+
+16
+IM 304
+39/t 2(P/ 28.
+
+Total S m al l M id US
+
+l arge
+
+n= 1903 913 566 424
+
+Total S m al l Mid China
+588 273 162 133
+
+Base AS respondents A3 II 1 What Is the pnmary business madel for your company's Apple appar Note Arrows denote compansons to small t ter wahin each country
+
+4aS
+
+31
+
+4' .
+
+41
+
+27'9
+
+22n
+
+3056
+
+18'4
+
+19
+
+404
+
+T otal S m al l hgd Japan
+500 236 159
+
+Lar g e 105
+
+· Conn imow I: Other · E-Commeme
+· Subacrip6on · Ad supported
+· Freemium · No monenzatianmodel · Paymium
+· Paid
+
+APPLE COIIFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.25 APL-APPSTORE 09637043
+
+Primary app development categories
+
+Buwness Emertaiamant lÃliTies Genres Educaeon
+Produclivily Lifestyle Health 6 Fences Social Networking
+Photo 8 Video fyksficaf Travel Reference
+Felanrsr Shopping Food 8 Barer
+MUSIC
+Sports
+Navigation Nds Books
+News we amer Magazines 6 Newspapers Catalogs Gther
+
+US
+224 2t'/ 21'lk 2 1' / 21 4
+19 4 15' / 11 / 9% 8'/
+7% 7'/
+7% 61' 6'/
+Sy 5/ 5% 4/ Sk 3'/ 3'/ 2K 1% 1% 6'/
+teK
+
+Chi n a
+15 / 13'y 28 4 22% 15%
+12% 17% 5% 16% 3 4
+4V 5% 3 '/ 13'/ 10' r 2% 2% 3'A 3% 3'A 5'/
+7% 2'/ 14 2y 34
+
+J an
+18% 23/ 21% 29% 21/
+17% 19% 10% 7% 11'/
+4'/ ' 5A 3'/ ' 4'/ ' 3'/ 4'/ 5/ 3'/ 6/ 6'/ ' 6%
+5% 2% 34 37 34
+
+oss 51N
+
+10 20 30
+
+50
+
+Base Allrespondents At What are the pnmary categones your company develops apps fort lselect all that apply)
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.26 APL-APPSTORE 09637044
+
+Primary app development categories
+
+Bumn ass Eldertainmant ttSliTies Genres Educaacn
+Produclivily Lifestyle HeaSh8 Fsness Social Networking
+Photo 8 Video Mraficaf Travel Reference
+Fnlanrai Shopping Food 8 Bdrar
+MUSIC
+Sports
+Navigation Nds Books
+News we amer Magazines 5 Newspa Catalogs Gttmr
+
+08
+
+T oa a 22% 21'A
+21 A 21'/ 2 1%
+1 SS 15' / 11 4
+9' / 8'/
+
+Sm a l 23'/ 2 2'A
+21/ 21% 20 /
+19% 15% 12'A
+9%% u SY
+
+kad
+
+23% 194 2SY
+
+23'A
+
+18'Y
+
+2SY
+
+22'/
+
+20%%u 16%
+
+15%
+
+14%
+
+12'/ o
+
+3
+
+9%
+
+8'/
+
+10'Y
+
+7%%u 7% T%%d 6'/ 6'%%d
+54 5'/ 44
+
+SY
+
+8%
+
+7/
+
+6'/
+
+SY
+
+91f t
+
+5'/
+
+5'/
+
+5%
+
+6'%%d
+
+5%%d 6/
+
+5'/
+
+5%
+
+3%
+
+4/
+
+B%! %u 59 !
+5% 5% 4%%d
+
+3'A 3'/
+14 1% 6'4
+1' 0
+
+3'%%u 3%
+
+FS
+
+2'!
+
+1%
+
+2'/ t
+
+SY
+
+2'/ t
+
+7/
+
+6'/
+
+3'/
+44 3% F Y ot 10 ! 44 3
+
+T ota l 16 % 13% 28' /
+22% 16' / 12' /
+17% 5'/ 16 %
+34
+4%%u 5A
+3%%u
+13 / 10% 2'/ 2/ 3/ 3/ 3'/'
+5%
+7/ 2% 1/ 20/ 34
+
+China
+
+Jsialh
+
+Sma l 22% '!4'/ 34%
+13' / 18% 13 4
+18% 6% 16%
+3%% u
+4% 5%% u
+3%
+7% t4% 2% 1 'l l 4% 4'4
+Si k 2%
+6% 1% 1% 2% 4%
+
+Nid
+12/
+10% 23/ 1 28%%ut
+
+11!
+18%
+2F Y 34' / .t
+
+Total
+
+amaa Md
+
+18'%%d 22%
+
+184
+
+tp%%3d
+
+K P/ 19 '%%u 2 8 / 1 2 4 ' /
+
+21% 20/ gip%%d 21%
+
+27%%u 13% 33%%t u 41% t
+
+10%
+
+11% 21 '
+
+17% 25/
+
+23%
+
+13A
+
+10% 17% 19% 16%
+
+15%
+
+15©'
+
+17% 19'/
+
+16% 23%
+
+34
+
+5/
+
+1lp%%d S Y
+
+11'/
+
+10%
+
+170/
+
+14% T%%d 9/
+
+SY
+
+F% % d
+3% 3'/
+3% 15% t 74 1 3'/
+
+5A
+8'A 5/ 21% t 8 '%%d
+
+11 4 4'/
+3'A 4% 3 %%d 4%
+
+10'Y 5%
+4% B%%u/ 1/ S%%u
+
+124 S% % u
+SY SY 4% SY
+
+1FY
+5A 1'/
+7% t 3'/
+
+1%%d 1% 2%
+4'A 5'/
+54 1'/ Q% % d 3'A F% % d
+
+4/ 3% 5/
+1Sft, t 13% 1 SY t 3'/
+2'A
+
+5%
+
+6%
+
+3%
+
+3%
+
+6 %%d 6/
+
+6'/ 3%
+
+6%
+
+5'/
+
+5%%d 3 % F %%d 1 ' /
+
+3%%d 1/
+
+3'/
+
+2%
+
+3 %%d 3%
+
+0% 3% 5'/
+7% % u SY
+Stl 4% 3%%u SY 4%
+
+g%%td 5A
+t
+
+1oz
+
+i l33
+
+SQQ
+
+33
+
+59
+
+10:
+
+10 20
+Base All respondents Al What are the pnmary categones your company develops apps for'I lselect ah that appiyt Note Arrows denote compansons to small tier wnhin each country
+
+APPLE COYJFIDENTfAL 9
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.27 APL-APPSTORE 09637045
+
+App platforms
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.28 APL-APPSTORE 09637046
+
+Apple platforms developed for
+
+iOS IPhorle 0 ad
+watchOS
+
+US Chi n a 4
+
+9'/
+
+5 /o
+
+7/
+
+16 "
+
+6'/
+
+11V
+
+12% 6 %% d 9'%%d
+
+10'%%d 1' /
+
+4%
+
+1903 588
+
+500
+
+10 20 30
+
+50
+
+Base An respondents (excluCrng those who selected don't knowl A3 N 2 What Apple platforms does your company develop apps for> (select all thai apply)
+
+APPLE CONFIDENTlAL 11
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.29 APL-APPSTORE 09637047
+
+Apple platforms developed for
+
+iOS IPhorle 8 ad
+watchOS
+
+T erat
+
+US ams l l Mid
+
+targe
+
+Tota l
+
+Catha
+
+Smel l
+
+Mid
+
+l arge
+
+Tor s i
+
+Jaimh Small tad
+
+49!
+
+ga%%d 9 4
+
+84'
+
+10 %d
+
+3/
+
+4 I'
+
+17%%7d
+
+ttr%%d 15 % 16'/
+
+18fh
+
+10/.
+
+12%
+
+9%% d 137 1 17 %%1 d
+
+3SS
+
+64
+
+12%%1d
+
+16/ 1
+
+1 06
+
+7'/
+
+ttyh 7 15' / . 1
+
+1S S
+
+Ofh
+
+34
+
+4/
+
+1903
+
+913
+
+566
+
+424
+
+58 8
+
+273
+
+182
+
+133
+
+500
+
+236
+
+159
+
+105
+
+10 20 30 40 50
+Base Ag respondents (excluding those who selected don't know) A3 II 2. What Apple platforms does your company develop apps for'I (select ag that apply) Note Arrows denote compansons to small tier wahin each country
+
+APPLE C ONFIOENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.30 APL-APPSTORE 09637048
+
+Plan to develop for iMessage within next 12 months
+
+60% 60 A
+5t'
+
+20'A
+
+15' UB 1 003
+
+175 China
+
+Base Allrespondents Q60. Does your company plan to develop for fMessage in the next 12 months>
+
+37"
+55'
+Japan 500
+
+a Dont tmora · No · Vhs
+APPLE COriFIDENTIAL 12
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.31 APL-APPSTORE 09637049
+
+Plan to develop for iMessage within next 12 months
+
+Zi
+
+% t 22'
+
+3
+
+26'3 31'
+373
+
+1M 37ss
+
+64' 40%
+
+51 53
+
+47'r
+
+Total Sm a ll M di US
+
+l arge
+
+n= 1903 913 566 424
+
+23 161
+Total S m al l Mid China
+586 273 162
+
+Base Allrespondents
+080 Does yourcompany plan to develop for i Messagein the next 12 months? Note Arrows denote compansons to small tier wahin each country
+
+55'
+
+50
+
+8'
+
+M 8'
+
+T otal Small s a d La r g e Jaime
+
+500 236 159 105
+
+· Dont Lmow · No · ves
+
+APPLE COrlFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.32 APL-APPSTORE 09637050
+
+Reasons company does notplan to develop for iMessage
+
+Low customer awareness
+
+Challenges related to disunrsy of App Store for IMessage 14% 37M
+
+Limited abilily to memhandse
+
+6'/
+
+17'/ '
+
+Umited categories
+
+tPA 17 4
+
+Inabilily to deep-tnk Lack of aaalygrw
+
+54
+
+9/
+
+4' /
+
+20'/ '
+
+Otiwr<rwtt
+
+47 r
+
+8'/
+
+Olhen Nol applicable or appropriate for Ihe app/ business 134
+
+I '7
+
+Olhec Nol useful or inelevant Other: Not intenmled
+
+6'/
+
+0'y
+
+Olhen There's no market
+
+Oon't know
+
+17% 6 / 3v'
+
+755 10'/ 16'/ 3'/ 4PI : 14'/ I /
+I ss
+147
+
+Base Co~
+
+10 20 , . 3 0 ,
+
+ogl pletstgIftis nny yuv . vrrtri vr/TP .. f
+
+9'yl
+
+Note Categorws under 5LNare not displayed under 'Other (net) Respondentsc'omments to open ended questions were manually coded mtocategones. Some ofthese
+
+categories are predetemsned others are added as new themesreceive a suifiweni number of menbons. The percentages reported are calculated based on the number of
+
+menbons
+
+APPLE COI'IFIDENTIAL 13
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.33 APL-APPSTORE 09637051
+
+Reasons company does notplan to develop for iMessage
+
+Low customer awareness
+Challenges related to dmcovery of App Shire for tillassaga
+Umited abilily to memhandlse
+
+Tota l 34% t 47
+
+Limited calegories
+
+Inabilily to deep-Snk
+
+lack of analy6cs
+
+td8
+
+Sm ds
+
+Md
+
+34%
+
+32'/
+
+13%
+
+14'/
+
+9%
+
+3% 3%
+
+i a e Te al 35 %%d
+
+17%
+
+374
+
+11%
+
+\ 7'/
+
+4% 7% 1 20/
+
+Oon't know
+
+17/
+
+1tp/
+
+16'%%d 15%
+
+6%
+
+118 6
+
+567
+
+365
+
+254
+
+302
+
+China
+
+depart
+
+eman
+
+Mid
+
+tm a
+
+Toad Sm a l l SM
+
+e
+
+399
+
+39'Y
+
+28' %%d T !
+
+4'/
+
+13% 7 6'/
+
+15% 21/
+
+16Y
+
+10%%d 6 4
+
+11%% d tgy 1
+
+l ay
+
+9%
+
+16' /
+
+12Y
+
+103
+
+21%
+
+9%
+
+3'/
+
+3 %%d 2 %
+
+20%
+
+24%% d 13%
+
+44 !
+
+45/
+
+45%
+
+401!
+
+8' Y
+
+13% 14% 15/
+
+11'/
+
+12%
+
+44
+
+14%%d 1TI
+
+6% 4 1T/
+
+145
+
+89
+
+68
+
+27 3
+
+141
+
+80
+
+52
+
+i o 20 30 40 50 . t
+Base Company does not plan to develop for iMessage in the next 12 months 081 Please tell us why your company is not planning to develop for iMessage (select au that apply) Note Arrows denote compansonsto small tier wdhin each country
+
+a
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.34 APL-APPSTORE 09637052
+
+Develops apps for operating systems and platforms other than Apple
+
+Base All respondents Aa Do you develop apps for mobile operaang systems and platforms other than Apple?
+
+a Dont tmow · No · ybs
+APPLE
+C ONFIDENTIAL t s
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.35 APL-APPSTORE 09637053
+
+Develops apps for operating systems and platforms other than Apple
+
+i6; 21
+
+31'
+
+32.
+
+807
+
+40% 68'
+
+89
+
+76'
+
+78
+
+69%
+
+Total S m al l M id US
+
+l arge
+
+n= 1903 913 566 424
+
+T otal S m al l Mid China
+586 273 182
+
+Larg e 133
+
+Base Allrespondents A5 Do you develop apps for mobile operaung systems and platforms other than Apple> Note Arrows denote compansons to small tier wahin each country
+
+Total S m al l M d Jafmn
+500 236 159
+
+Larg e 105
+
+· Dont Lmow · No · ves
+APPLE COflFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.36 APL-APPSTORE 09637054
+
+Other operating systems and platforms apps are developed for
+
+Andraid (nel) Andmid Mobile Andmid Wear Andmid TV
+HTML5 Windmva Amazon (net)
+Fire OS Anlazoli FIIB TV Mirlual reality Ail gmenled nmlay Roku TV Game consoles Other Dont tmow
+
+US Chi n e 4 an
+
+5/
+
+54
+
+4/
+
+8%
+
+. IRK 37%
+
+3t 4 28 / 11% 1 4
+
+38" 10'%
+
+10 4
+
+1%
+
+4/
+
+I P/
+
+34
+
+7/
+
+8%
+
+10'%
+
+7'/
+
+44
+
+3%
+
+0%
+
+3%
+
+0%
+
+8'/
+
+IP/
+
+I /
+
+2%
+
+10 20 30
+
+50
+
+· I
+
+I
+
+Base Develops apps for non-Apple 03 and platforms Aa What other operating systems and platforms does your company develop apps lors lseiect all that apply)
+
+APPLE COIIFIDENTIAL 15
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.37 APL-APPSTORE 09637055
+
+Other operating systems and platforms apps are developed for
+
+Android (nel) Andmid Moble Andmid Wear Andmid TV
+HTML5 Wiridowa Amazon (net)
+Fire OB Aniazoli Fire TV Mirlual reality Ailgmenled nuil87 Roim TV Gems consoles Other Dont Imow
+
+Total
+
+Smal l
+
+am
+
+China
+
+a
+
+Tota l
+
+Small
+
+had
+
+Tee d
+
+Sma l l
+
+Nd
+
+4'%%d 4/
+
+3%
+
+4 9. '
+
+49'%%d 5 0 5
+
+31% 33/
+
+31%
+
+11% 10'/
+
+9%
+
+'10'y
+
+9A
+
+Sy
+
+4'/
+
+3/
+
+3%
+
+6/
+
+7%
+
+7/
+
+6/
+
+9'IS
+
+3/
+
+2/
+
+2%
+
+3/
+
+1/
+
+3'/o
+
+8/
+
+8/
+
+7%
+
+0%
+
+13016 " 55
+
+Sao
+
+5% 49" 30 A 17 / 1 14% 1 6% 8/ 6% 4/ 5'y 1 9% 1/ S~
+
+5%
+
+4/
+
+8/
+
+Pf a
+
+I~
+
+287 29%
+
+5'/
+
+6%
+
+mk 12%
+
+30 %%d K P/
+
+I /
+
+2%% d 0/
+
+2%
+
+1%
+
+2%
+
+0/
+
+2%
+
+0'/
+
+I /
+
+0'/
+
+0%
+
+6/
+
+4%%d 5 /
+
+97
+
+4/
+
+6%
+
+2%
+
+4%
+
+0%
+
+IP%% d 0/
+
+0%
+
+IP%% d 0%
+
+2% 1
+
+0'/
+
+IP /
+
+1%
+
+1%
+
+2'I
+
+1%
+
+4/
+
+&9
+
+22.
+
+f 54
+
+19
+
+6'k
+37 t 38% flPA 9k 3k flPA, 8/ 1 k 3k 3 %%d 1 k Sa t
+
+6'%%d 2%
+
+10'y
+
+38'/
+
+32"
+
+40/
+
+36 ,i
+
+4'/
+
+11% t
+
+4%%d 11/ 1
+
+0'/
+
+3'/ 7
+
+20'7 1 17 7 1 7%
+
+5/
+
+11% 19% t
+
+7%
+
+6'/
+
+12%
+
+0'/
+
+1%
+
+3'/
+
+5/
+
+3'/
+
+IP/
+
+1/
+
+1 od
+
+12 4
+
+10 20 30 40
+Base Develops apps for non-Apple OS and platforms A6 What olher operating systems and piafforms does your company develop apps forv (select all that apply) Note. Arrows denote compansons to small tier wdhin each country
+
+·
+
+·
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.38 APL-APPSTORE 09637056
+
+App business growth
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.39 APL-APPSTORE 09637057
+
+Expected growth areas for Apple app business in next 12 months
+
+Increasing user base through organic growth
+Nsw apps IncreasingengagemenSnonedzadon ofexlsgng users New businmm models Increasing userbase throughpaid appinstalls Nsw plelfoirri 5Upport Inlemagonal markets Don't know
+
+0 8 Chin a
+
+n
+
+42s
+
+I,
+
+44'
+
+424
+
+45"
+
+20% 44
+
+25'/
+
+18' /
+
+I 5%
+
+18/
+
+16/
+
+125
+
+14 4
+
+1PK 2015 20'/
+
+ttss
+
+34
+
+9%
+
+1903 553
+
+500
+
+10 20 30 40
+Base Allrespondsnts AT In which of the loaowmg areas does Vour company expect to dnve the most qrowth for Ss Apple app business in the next 12 months> (select all thai applylAppLE
+CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.40 APL-APPSTORE 09637058
+
+Expected growth areas for Apple app business in next 12 months
+
+Increasmg user base through organic gfovrth
+Nsw apps
+
+Tea l
+ggi
+44/
+
+Ug
+
+Smal
+
+tdd
+
+la e
+
+i do% gliig Q
+
+44' ./ 454 42'8
+
+Increasing engagement/moneazation of
+
+exisling users
+
+32 /
+
+26'/
+
+32'4 I 45
+
+New business models
+
+2IP/ '
+
+20%
+
+f TA 24%
+
+Increasing user base through paid app inslals
+
+18 %
+
+19'/
+
+f IPA 20 /
+
+Nsw plalfoiiii 5Upport
+
+t oy 15% 1TA 16 /
+
+China
+
+Tmal
+
+amah
+
+Mid
+
+tm s
+
+g iI
+
+42,
+
+rL9% 'gf /
+
+40%
+
+QWW
+
+Toa d
+
+datum Sma l l lysi
+
+2 1' /
+
+f5/
+
+l t % 17/ 1 22% 1 13 4 19/
+
+20%
+
+f2% 15 4 10/
+
+9%
+
+14% 14'/
+
+17 %
+
+Inlemaaonal markets Oon't know
+
+15' /
+
+14'/
+
+13'/
+
+20'Y t 2 IPA 1 5 %
+
+22%
+
+i 26% 7 20Y/. I 6%
+
+20y/
+
+f 1'7
+
+147
+
+11/
+
+8 / 4 3%
+
+3%
+
+4%
+
+44
+
+9%
+
+12'/
+
+97
+
+La e
+23% 13% 1t % 31% t 34
+
+1 90 3
+
+913
+
+566
+
+424
+
+588
+
+273
+
+182
+
+133
+
+500
+
+236
+
+159
+
+105
+
+1O 20 30 40 5O
+
+Base All respondents
+
+A7. In which of the foaowmg areas does your company expect to drwe the most growth for as Apple app business in the next 12 months> (select al that apply)
+
+Note Arrows denote compansons to small tier wahin each country
+
+APPLE COI'lFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.41 APL-APPSTORE 09637059
+
+Method to measure apps'success
+
+Oownloads
+
+US Chi n a 4 an
+
+Customer engagementrgme spent with app Rahngs and mrdsws Perfonnance on App Blare charts App Sloln fnnalfur9 Media interest Benchmadring agaimt competeors Awanls and accolades Invaslmenls and funding Odwr Oon't know
+
+43"
+tea
+14' / 12' / 10 % 9'/ 7% By 2'/ 'I90
+
+29 /
+35rn 20'/ 24 / 13 A 22% 1% 2% cse
+
+30'/ 311 5
+19% tgyc 12% 5/ 4% 3'/ 2S 500I
+
+10 20 30
+
+50
+
+Base All respondents Ae ll I I -low does your company measure Its apps' success'> iselsct all that apply)
+
+APPLE COIIFIOENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.42 APL-APPSTORE 09637060
+
+Method to measure apps'success
+
+Oownloads
+Customerengagemenb8me spentwith spp Rabilgs and reviews Perfonnance on App Blare charts App Blain faahifili9 Media interest
+
+Tod d
+45'i' 431'
+
+UB
+
+' M ars sil md
+
+s
+
+4 1% 39'IS
+
+45'/ . 43'/
+
+Tors i
+
+Chins
+
+a men
+
+Wid
+
+Im
+
+29 /
+
+23% 30,4
+
+Toad S m a d Snd
+
+s
+
+3 0'/ 294
+
+2T/
+
+45" t
+
+3ti 2 4' / 38% 1 3T / t
+
+18/
+
+15'/
+
+1TA 24%
+
+34'i 2 4%
+
+39/ t 4 8' t 2T%%d 19 %
+
+335 t 36% t
+
+14%%u 11 %
+
+14'/
+
+22% t 35%
+
+26%
+
+36"
+
+19' /
+
+12Y 254 1 24% t
+
+12%%u I I YY
+
+12'i
+
+15'/ t 20'/
+
+21'/
+
+1 8% % u
+
+19' /
+
+17'/
+
+22'i
+
+2IP/
+
+Benchmadring agaimt compmitors Awanls and accolades Invaslmenls and funding Otfmr Oon't know
+
+I IP/
+
+7%
+
+l i p/
+
+17% 1 24% 21% 2614 26% 12% 9 %% d 12% 18% t
+
+9%
+
+7%
+
+11% 1 12'Y 7 13'/
+
+l lp%%d 14/
+
+17% t 5%%d 5/
+
+4'/
+
+T %%d
+
+7%
+
+8'%%u
+
+2 5% 25 %%ui 1 4 %4 411
+
+48/
+
+6%
+
+3%
+
+6'/
+
+5'/
+
+38
+
+3'/
+
+4%
+
+1'/
+
+2%
+
+3%
+
+1%
+
+2%
+
+Us
+
+913
+
+5 6
+
+42'
+
+55c
+
+273
+
+152
+
+l eal
+
+oao
+
+dsc
+
+I 59
+
+I ai '
+
+Base AS respondents AB N 1 Row does your company measure its apps' success> (select sll that apply) Note Arrows denote compansons to small tier wdhin each counby
+
+i o 20 30 40 50
+
+APPLE C ONFIOENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.43 APL-APPSTORE 09637061
+
+Most important method to measure apps' success
+
+Customer engagemenhgme Rrsnt with app Oownloads Rahngs and mrdsws App Store featuring Inveslmenls and funding Perfonnance on App Store charts Media interest Benchnwdring against competitors Awanls andaccoiades
+Oon't know
+
+10 20 30
+
+50
+
+US 37% 24'/
+
+Chi n a 4 an 26'/
+
+32%
+
+13%
+
+19% 17'/
+
+17%
+
+7%
+
+2%
+
+4/
+
+3%
+
+8%
+
+3/
+
+29
+
+5'/
+
+1%
+
+2'/
+
+4%
+
+3%
+
+1%
+
+14
+
+24
+
+3%
+
+2/
+
+0'/
+
+1%
+
+1%
+
+3%
+
+2'/
+
+'igo
+
+o66
+
+500
+
+Base Ail respondents Ag N 2 And which of these is mostrmportant remeasunngyour epps success>
+
+APPLE CONFIDENTIAL lg
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.44 APL-APPSTORE 09637062
+
+Most important method to measure apps' success
+
+Customer engagementlbme spent with spp Oownlosds
+Rebngo snd reviews
+App Store featuring Inveslmenls and funding
+Perfonnance on App Store charts
+
+US
+
+Tout
+
+S ma l
+
+Md
+
+a
+
+To tal
+
+3T/
+
+35l l
+
+Sfp%%d 445'
+
+28%
+
+24% 22k
+
+24'/
+
+27% 32%
+
+t 9 % 2 3% 19'/
+
+10'Y 4 17%
+
+Chins
+
+Smsf
+
+Wid
+
+Total
+
+Smaa slid
+
+23o
+
+30%
+
+27'/
+
+50" . 47o
+
+34"
+
+30'/
+
+32% 13% 11'/
+
+10'/
+
+18'/
+
+157
+
+15% 1T/
+
+21%
+
+15%
+
+4/
+
+4%
+
+6%
+
+11% 3%
+
+2/
+
+5'/
+
+1%
+
+1'/
+
+3%
+
+5'/ 1 8 '/ 1 39
+
+2'/
+
+8%
+
+21% 1 1FY 2% 4%%d 0% 1'/
+
+Media interest Benchnwdring against competitors Awanls andaccolades
+
+1%
+
+1%
+
+I %%d l %%d 1%
+
+0'/
+
+IPA
+
+FY
+
+3%%d 17
+
+2 %%d 2 /
+
+0'/
+
+1%
+
+1'/
+
+0%
+
+IP4 3'%%d 1'/
+
+Oon't know
+
+4'%%u 5'4
+
+1' /
+
+0'/
+
+39
+
+3'/
+
+4%
+
+1'/
+
+1%
+
+FY
+
+3%
+
+03
+
+915
+
+5 5
+
+42'
+
+58o
+
+273
+
+t cgo
+
+133
+
+SSO 25o
+
+I 59
+
+l ci f
+
+Base AS respondents A8 II 2. And which ol these is most important in measunng your apps success> Note Arrows denote compsnsons to small tier wdhtn each country
+
+i o 20 30 40 50
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.45 APL-APPSTORE 09637063
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.46 APL-APPSTORE 09637064
+
+Uses Sales 8 Trends Reports
+
+60%
+
+2?s
+
+60'A
+
+13'/ 311 ·
+
+20'A
+
+US 1040
+
+Stuns
+
+Base Bustness respondents Qol Does your company use the Sales & Trends Reports?
+
+34
+
+58'
+Japan 262
+
+a Dont tmow · No · Ves
+APPLE COttFIDENTIAL 21
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.47 APL-APPSTORE 09637065
+
+Uses Sales 8 Trends Reports
+
+96 26' ; l
+
+g%%d
+
+6
+
+16%,
+
+26
+
+35
+
+40%
+62' Ik1s
+
+563 51
+
+Total Sm a ll M di US
+
+l arge
+
+n= 1040 4B2 303 255
+
+Total S m all Mid China
+
+305 156 65
+
+62
+
+Base Business respondents Q91: Doesyour company use the Sales 4,Trends Reporter Note. Arrows denote compensons to small tier wuhin each country
+
+67 60'.
+
+T otal S mall Md Jaime
+262 121 61
+
+Larg e 60
+
+· Dont Lmow · No · res
+APPLE COrlFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.48 APL-APPSTORE 09637066
+
+Reasons not using Sales 8 Trends Reports
+
+Oid not know uf reports Sales and Trends dele ingested into a third parly tool Rapeds not granutw enough Other Oon't imow
+
+I IS Cre n a Ja p a n gg%%u 2S A 2g %%u
+
+t tyg 4 9' A 29%%u
+
+12%%u 227
+
+1 T%%u
+
+19%o%u l l P A 17k
+
+27 7
+
+94
+
+89
+
+19 2 9 SS 49 Sg . ·
+
+s
+
+Base Businessrespondents who do not use the Sales S,Trends Reports Q92. Why doesn' t your company use Sales and Trends Reports'> lselect au that apply)
+
+APPLE COrJFIOENTlAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.49 APL-APPSTORE 09637067
+
+Reasons not using Sales 8 Trends Reports
+
+Oid not know or reports Sales and Trends dale ingested into a third parly tool Repods not granuhr enough
+Other
+Oon't imow
+
+Total 252 4 18'/' 12/
+
+08 amae Sad 3015 23'/
+
+t 2'4
+
+t TA
+
+t osk 1176
+
+China
+
+o
+
+To rsi
+
+Small
+
+Mid
+
+14'7
+
+359 t 46"' i 40"
+
+2 2 4 t 2T/
+
+15%
+
+Total amaa
+
+slid
+
+o
+
+264
+
+33'/'
+
+35'4 3414 26'/
+
+T SS 141 6
+
+t tPA 1 6'/
+
+277
+
+147
+
+23A 22 4
+
+79
+
+51
+
+tots 175
+
+94
+
+52
+
+s mall sm a ll
+
+s mall sma l l smal l Ossa O s s a base
+
+Base Businessrespondents who do not use the Sales & Trends Reports Q92: Why doesn't your company use Safes and Trends Raporlso (select au that apply) Note. Arrows denotecompsn sonstosmalltier w shin each country
+
+1 O 20 30 40 50
+
+APPLE C ONFIOENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.50 APL-APPSTORE 09637068
+
+Offers country-specific pricing
+
+5r
+60%
+60 A 62'
+
+20'A
+
+US
+
+China
+
+259
+
+small base
+
+Base Bustnessrespondents whose company has a pastbusiness model Qgt Does your company oyer country speofic pricing>
+
+small base
+
+a Dont know · No · yha
+APPLE CONFIDENTIAL 23
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.51 APL-APPSTORE 09637069
+
+App Store subscription
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.52 APL-APPSTORE 09637070
+
+New to subscription on the App Store in past 12 months
+
+10; 00%
+
+60'A
+
+56'
+
+20'A
+
+US
+
+China
+
+73
+
+small base
+
+Base Businessrespondents who use a subscnption model 0102 Is your company's business new to subscriptmn on the App Store in the past 12 months7
+
+Japan
+small base
+
+a Cont know · No · Ves
+APPLE CONFIDENTIAL 25
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.53 APL-APPSTORE 09637071
+
+Awareness of App Store subscription features
+
+Temlory pricing
+
+US Chl o e Ja
+
+Subscrip6on data in Sans 0 Trends
+
+85'/ revenue ager 1 year
+
+41'/
+
+Expanding price gers
+
+Price preserve?ion dunng pnce inwesses Upgrades, Downgrades, Crossgrades
+
+Subscnp6onsavahable lo categories
+
+Mulb-app subscnp?ion
+
+26'/
+
+Improved customer ownmunicafion of price incmases
+
+21%
+
+I am nol aware of any of ihe subscnplron featums listed above 10 20 30 40
+
+small oase small base
+
+Base Businessrespondents who use a subscnption model Q95 Which af the fallowing App Store subscription features are you aware of? tselect as that apply)
+
+APPLE COfJFIDENTIAL 2il
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.54 APL-APPSTORE 09637072
+
+Use of App Store subscription features
+
+Subswipbon dale in Sales & Trends 655& revenue after I year Upgrad85,Dowrigmdes, Cfossgmdes Temlory pricing Expanding pilrw gers Subsclipbolis available Io categoll85 Price preservafion dunng price increases improved customer cnmmunicafion of price inmnases Mulb-app subsaipgon Don't know None of these
+fd 20 20
+
+US DM na 76 s m all ossa srcsll osre
+
+Base Businessrespondents who use a subscnption model Q96: And which of the touowing Apo Store subscripkon features does your company currently use'i Iseiect ab that apply)
+
+APPLE CONFIDENTIAL 27
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.55 APL-APPSTORE 09637073
+
+How heard about App Store subscription features
+
+iTunes Connma Tech publications or indushy forums Oeveloper.apple.conuapp-store Word of mouth from other developersI lmow Internet searches Sncial media Omar Oon't know
+
+US Chi ne J
+14! 17'! 2'!
+s mall sm a l l b ase bas e
+
+10 20 30
+
+00
+
+Base Awareofatleastone App Storesubscnphon feature and use a subscnphon model Q97. How drd you hear about the Acp Store subscriptron featuresc lseiect aa that apply)
+
+APPLE COlIFIOENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.56 APL-APPSTORE 09637074
+
+Subscriptions features plan to implement in the next 12 months
+
+Expandingptinm gers
+Upgrades, Downgrades, Crossgrades Tendory prming Mud-app subscnpaon Price preservation dudng price increases
+Subscnplicns available lo categories Don't know Awan:of subscdplion features, no plans to implement Not aware of any subsmtption features
+
+US Ch i n e J an
+3% 15%
+smaa s m a ll c ase c a s e
+
+10 20 30
+
+50
+
+Base Businessrespondents who use a subscnption model Qga Which ct the fallowing subscnption features is your company plannmg to implement in the next t2 monthsc Iseiect all that apply)
+
+APPLE CONFIDENTIAL 20
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.57 APL-APPSTORE 09637075
+
+Platforms company offers to subscribe to products
+
+Apple plaffofrrts iOS macos tuOS
+
+US Chi n a J an 0'I
+
+Andmfd mobile Game console Omar Oon't know
+
+smsa s m a ll c ase o s s a
+
+10 20 30
+
+00
+
+Base Busrnessrespondents who use a subscnptron model Q99. On which platforms does your company offer the opportunay to subscnne to its productss (select all that appfyi
+
+APPLE COffFIDEhrrlAL 30
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.58 APL-APPSTORE 09637076
+
+Areas where company sees the most growth for subscription business on Apple platforms
+
+New user acquisibon Bubscffber I818n'bon Bubacrltnrr lifetime value Customerengagement Bubscffber laacbvalloll Checkout conversion rate None of the above Con't know
+
+US Ch i n a J an
+
+36% 13A
+
+s mall sm a l l
+
+66
+
+b ase bas e
+
+10 20 30
+
+60
+
+Base Business respondents who offer opportunity to subscribe to Appfe platforms
+
+Qt 00: In which of the foaowmg areas does your company see the most growth tor its subscnpbon busrness on Apple plafforms? (select ail that apply )
+
+APP LE
+
+CONFIDENTIAL 31
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.59 APL-APPSTORE 09637077
+
+Areas where company sees the most growth for subscription business on platforms other than Apple
+
+New user acquisibon Subscnsmr relenbion Subscnber lifetime value Customerengagement Subscriber reacbvalfon Checkout conversion rate Cori't krrow
+
+tfS Chi n e 4 an
+
+41 4 24%
+
+sms;I m II
+
+54
+
+base base
+
+10 20 30
+
+50 .
+
+t
+
+Base Busrness respondents who offer opportunity to subscribe to platforms other than Apple
+
+Qfof In whrch of the loaowmg areas does your company see the most growth for fts subscnption business on other platforms> (select ab that apply)
+
+APPLE
+
+COftFIDEhrr)AL 32
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.60 APL-APPSTORE 09637078
+
+·
+
+·
+
+·
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.61 APL-APPSTORE 09637079
+
+US: Annual marketing budget for apps
+
+Tean B ma l l Mid
+
+Ueoa
+
+More than 80 brn tmm man 810,000 810,000 - 899,999 8100,000 - 8999,999 81,000,000 or more Oon't Imow Prefer not to respond
+
+15'/ 1
+
+4/
+
+2'/
+
+5 /o yts
+
+1%
+
+tat
+
+1M
+
+4M T
+
+3%
+
+2'/
+
+5 %%d
+
+11' /
+
+10% 13%
+
+863
+
+431
+
+263
+
+169
+
+10 20 30
+Base Marke6ng respondents in the US and reached this point in the survey F1 USA What m your company's annual markeang budget for appsv Note. Arrows denote compansons to small tier wahin each country
+
+APPLE CONFIDENTIAL 34
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.62 APL-APPSTORE 09637080
+
+China: Annual marketing budget for apps
+
+0 RMB More than DRMB but lessthan 5D,OOORhlB 50,000 -- 199,999 RMB 200,0DO- 1,999,999 RMB 2,00D,OOORMB or more Don't know Prefer not to nwpond
+
+Chine
+
+Toad Sm e l l aM
+
+i aree
+
+1 0'7 13th
+
+Dh
+
+4/
+
+28'7
+
+2 7%
+
+3 24
+
+23ts
+
+1 8'/
+
+25 8
+
+15M
+
+10'/
+
+1 5r0 f2%
+
+1 4M
+
+21 /
+
+9%.
+
+S V,
+
+84
+
+24M 1
+
+4/
+
+Sf k
+
+55'
+
+3%
+
+17 5
+
+17%
+
+18'/
+
+15'/ '
+
+28 3
+
+115
+
+97
+
+71
+
+10 20 30 40
+Base Markehng respondents in China and reached this point m the survey rf f 24 CHN What is your company's annual marketing budget for appar Note Arrows denote compansons to small tier wahm each country
+
+APPLE CONFIDENTIAL 35
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.63 APL-APPSTORE 09637061
+
+Japan: Annual marketing budget for apps
+
+More than80 but lem than 6249,999 V250,000 - V999.999 rf?,000,000 - 69,999,999 Vt 0,000,000 or more Dont know Prefer not to respond
+
+Tes a 18'/
+
+Bm e a Mid
+
+224
+
+14 /
+
+tw e
+
+7'/
+
+8 4
+
+9'/
+
+4/
+
+8%
+
+6' /
+
+0'/
+
+1'/
+
+?OT
+
+1 64
+
+19%
+
+11 /
+
+813
+
+15 /
+
+238
+
+115
+
+78
+
+10 20 30
+
+50
+
+e
+
+Base Markebng respondents in Japan and reached this pomt in Ihe survey 0125 JPN What is your company's annual markebng budget for apps? Note Arrows denote compansons to small tier wohin each country
+
+APPLE CONFIDENTIAL 36
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.64 APL-APPSTORE 09637082
+
+Percentage of app marketing budget allocated to user acquisition marketing for Apple apps
+
+1-24%
+50-74'/
+1003 Oon't know Prefer not fo respond
+
+US 11 /
+23'/
+
+Chi n e 4
+
+2/
+
+6'/
+
+20'./
+
+21%
+
+7%
+
+18 /
+
+10%
+
+8%
+
+18%
+
+9%
+
+6'/
+
+5%
+
+54
+
+12 %
+
+8%
+
+7/
+
+15' /
+
+8'/
+
+3I P/
+
+18% 21 4
+
+12%
+
+605
+
+256
+
+134
+
+10 20 30
+
+50
+
+Base Markebng budget n more than 0 and reached this point in the survey Q126 About what percentage of your company's app marketinq budget is allocated to user acquisition marketmg for Apple eppes
+
+APPLE COffFIDENTIAL 37
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.65 APL-APPSTORE 09637083
+
+Percentage of app marketing budget allocated to user acquisition marketing for Apple apps
+
+1-24%
+50-74'/
+t 00ti Oon't know Prefer not fo respond
+
+Total smsl
+
+Mid
+
+1 1' /
+
+10'/
+
+10%
+
+23'y 258 / ' 21%
+
+7'll 9 %%d 5%
+
+8%
+
+7%
+
+9'/
+
+6%
+
+54
+
+7%
+
+12'/ 14% 12%
+
+1 5' /
+
+148'/ 15%
+
+19'/
+
+16% 21%
+
+695
+
+341
+
+213
+
+China
+
+lm
+
+Tots l
+
+Bma l l
+
+SM
+
+13%
+
+2%%u 04'
+
+JnPMI
+
+la e
+
+Total Bms n
+
+Mid
+
+lm
+
+4%
+
+6%
+
+6 %%d 6%
+
+21'/ .
+
+20'/ 2 37
+
+23%% u 13/
+
+21% 24'/
+
+18'/
+
+7%
+
+18%%d 18' /
+
+19%
+
+18'/
+
+10%
+
+8%
+
+18% ttp %%d 1 6 % 24%%u
+
+6%
+
+5%
+
+2'y
+
+5'%% d 12%
+
+Fl
+
+8 %%d
+
+7%
+
+168
+
+B %%d 7%
+
+149/
+
+3'7
+
+10 %%d 12%
+
+7%
+
+4/
+
+4 %% d 12 /
+
+21%%d 21% 27% 17%% d 19% 12% 7%
+
+141
+
+256
+
+100
+
+58
+
+68
+
+90
+
+16%
+
+smwi
+
+67
+
+base
+
+10 20 30 40
+Base Marketing budget is more than 0 and reached this point in the survey 0126. About what percentage of your company's app marketing budget is anocated to user acquisition marketing for Apple appsv Note Arrows denote compansons to small tier wdhin each country
+
+APPLE COfJFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.66 APL-APPSTORE 09637084
+
+Percentage of app marketing budget allocated to retention marketing for Apple apps
+
+f -24SC
+50-74'/
+t OPti Oon't know Prefer not fo respond
+
+US 2 9b k
+
+Chi n a 4
+
+4%
+
+tOSS
+
+2 6' /
+
+313
+
+tgtk
+
+4/
+
+16'y
+
+py
+
+1' /
+
+9'/
+
+1%
+
+2%
+
+24
+
+2'!
+
+tk
+
+3A
+
+1 7'/
+
+15'y
+
+42 4
+
+2IPA 22 4
+
+155k
+
+695
+
+256
+
+194
+
+10 20 30
+
+50
+
+Base Markebng budget n more than 0 and reached this point inthe survey Q126 About what percentage of your company's app marketinq budget is allocated to retenbcn marketing for Apple appac
+
+APPLE COftFIDENTtAL 36
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.67 APL-APPSTORE 09637085
+
+Percentage of app marketing budget allocated to retention marketing for Apple apps
+
+1-24SS
+50-74'/
+t gtp%%d Oon't know Prefer not fo respond
+
+Total ama t i Mid
+
+tm
+
+29'/
+
+28 /
+
+29'5
+
+29'/
+
+28Y
+
+28'/ '
+
+25SS 225
+
+Totsl 4r8
+3t'/
+
+China
+
+S mal l
+
+SM
+
+4SS
+
+2%
+
+29 Y 339
+
+la e 4r8 35'/
+
+Jefmn Total am se Mid l m
+
+107o 9%
+
+t 2%
+
+19' /
+
+21'/.
+
+15'/
+
+47o
+
+4 %% d 5%
+
+3%
+
+10 5
+
+19'/
+
+1319
+
+15 /
+
+1 V
+
+1 '/
+
+2'/
+
+2M
+
+9M
+
+8%
+
+9'/
+
+t0%
+
+2'/
+
+3M
+
+17
+
+14
+
+2SS
+
+3/
+
+1745 18' / '
+
+695
+
+341
+
+O%% d 1%
+
+2Y
+
+2'Y
+
+2%
+
+1 %d 1 %%d 2' Y
+
+15SS 185
+
+f 5% 13 Y
+
+225
+
+26%
+
+213
+
+141
+
+256
+
+100
+
+2'%% d 3'Y
+
+2/
+
+F Yo
+
+3/
+
+ty%
+
+1'Y
+
+2fn%%d 12 7
+
+20%% d 19r8
+
+68
+
+68
+
+ad% aI
+15M 9%
+194
+
+22 / 1 smdi oass
+
+10 20 30 40
+Base Marketing budget is more than 0 and reached this point in the survey 0126. About what percentage of your company's app marketing budget is anocated to retenbon marketing for Apple eppes Note Arrows denote compansons to small tier wdhin each country
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.68 APL-APPSTORE 09637086
+
+Top three most effective marketing activities for driving downloads on the App Store
+
+Wordfrt-mougr marketing Social mediacommunity outreach Socisa meda advertising App Store faaturtng Elna'll ouheech Search engine referrals App Store product page opgmizafion influencer martlegng PR outreach Other community outreach Cross pmmouoninmycompany'sotherapps Adnetwork advertising
+TV/p/lla/mdlo/outdoor advertisin
+Posit nohylcahons In-app massaging Cross pmmohon or advergsing in other developers' spps frtner Oon't know
+id 29 39
+
+ug
+29 4 28'/ ig/. 18 % 17% IFY 11 %
+1(P / 8'/ 8'4 44 4' / 24 1' / FS FS
+303
+
+Cfd n a 38 4 23 /
+
+FY 28 / 14 / 11% i8% 10'/ 13'/ ' 11% FY 2% 4'/ 13Y 1% 3%
+233
+
+2 9% 18% 12% 11% 12% 13%
+233
+
+Base. Markehng respondents
+
+CI: Which are the toc three most effectrve marketing acfivihes for dnving downloacs of your company's apus on the App Store> iselect up to three)
+
+APPLE
+
+COIJFIDEhlrIAL 39
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.69 APL-APPSTORE 09637087
+
+Top three most effective marketing activities for driving downloads on the App Store
+
+Wortsaf-mouht marketing Social mediacommunity outreach Sociyd meda advertising App Store faatunng Elna'll ouhesch Search engine referrals App Store product page opSmization InSuencer madtehng PR outreach Other community outreach Crass pnmotion in my company's other
+Ad network advenising TV/p/sd/mdlo/outdoor adveltlshlg Push ItohTmshona In-app massaging Crass pnmotion or advergsing in other
+inner Oon't imow
+
+Toa d
+29 4 26% 19% 18' / 172 124 11% 11' / 10% 8'4 6k 4k 4'/ 2'/ 1% Sk 8 4
+So s
+
+US
+
+Sma l l
+
+Md
+
+· ho/ .
+
+a 45a 4
+
+Tot al 38%
+
+3 1'I
+
+28k 23% 4 2 3%
+
+28% 24'/
+
+25'%%u 22Y
+
+16% l fpk 335
+
+45'j
+
+16%
+
+11P/
+
+3%
+
+17% 17%
+
+tg%%u 11I
+
+9%
+
+11I
+
+9'Y
+
+11%
+
+10% 11%
+
+17% 15'Y 15% t 15% t
+
+28'4 14% i lk 18% 11P I
+
+5'%%u 8%
+
+7%
+
+Sf'
+
+15ak
+
+1 3% 11 k
+
+4%
+
+SY
+
+3'Y
+
+3%%u
+
+2%u 2'/
+
+4%
+
+I 'Y
+
+2'/
+
+13%
+
+8%
+
+9%
+
+8/
+
+1%
+
+I o%uo 8 %
+
+5% 4 3%
+
+a31
+
+283
+
+168
+
+293 t
+
+China
+
+Small
+
+Wid
+
+3'PS 47"
+
+27'Y
+
+T ota l
+
+26k
+
+302
+
+10'/ 4
+
+2fP/
+
+12% 4 2 8%
+
+38%
+
+RK
+
+4'Y
+
+1' /
+
+1%
+
+6'I
+
+24 k
+
+34% 27'/
+
+1 82 t 21' I t
+
+164
+
+122
+
+26%
+
+14% 4 10% 4 12'4
+
+I IPd
+
+13%
+
+11%
+
+1IP d 149/' 7%
+
+14% 24%%tu 10'/o 13 k
+
+4'4
+
+10'4
+
+SY
+
+2 1% t 3'/
+
+1 4
+
+O'I
+
+34
+
+II 5
+
+87
+
+I
+
+238
+
+Smad
+
+Slid
+
+29'/ 19% 359 79I 19'4 1P/ 10' / 11% 17%
+
+23/ 24'2 5~I P ' 4% % u 24/ \5/ \ 5% 13% S%%u
+
+T%%u/ 9%
+
+6/
+
+12%
+
+8/
+
+21% t
+
+4%
+
+l%%u
+
+1%
+
+0%
+
+3%
+
+S% % u
+
+3/
+
+S% % u
+
+7/
+
+4%
+
+11
+
+base
+
+i O 20 30 40 50
+
+Base Markesng respondents
+
+Cl: Which are the top three most effectwe markettng activities for dnvlng downlosds of your company's spps on the App Stare? jselectup to three)
+
+Note Arraws denote compansons to small tier wdhin each country
+
+APPLE COI'JFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.70 APL-APPSTORE 09637088
+
+Top three most effective marketing activities to keep existing users coming back
+
+Word-of-meum marketing Push nogficabons Erfinii outreach Social media community outreach
+Social media adverbsing Relargeting users In-app massaging App Store featunng Other community outreach Ifigunnoef rliarkelirig
+Search engine referrah Cross pnsnobon in myother apps PR outreach App Store product page opgmizaeren Ad network advedising Tvfprbunadio/outdoor adverbsing tuner Oon't know
+
+10 20 30
+
+50
+
+US 2 9% 22% 19' / 18' / 15' / 11 / 10 % 8'/ SY SY
+
+Ch i n a 4 an
+
+43 % I 20%
+
+17%
+
+28'/
+
+3%
+
+7'/
+
+21'/
+
+24%
+
+15%
+
+8%
+
+27 /
+
+8th
+
+15 4
+
+11%
+
+30 /
+
+22%
+
+6'/
+
+11%
+
+16'/
+
+6%/ '
+
+6%
+
+17 % 14%
+
+6/
+
+8%
+
+7%
+
+64
+
+12 4
+
+tS Y
+
+4%
+
+13'Y
+
+8"
+
+2Y
+
+9%
+
+5"
+
+2Y
+
+4'/
+
+6%/ '
+
+10' 4
+
+1 /
+
+24%
+
+6/
+
+363
+
+283
+
+235
+
+Base fuarkebng respondents
+
+Cl N 1 Which are the top three most effective marketinq activities to keep existing users coming back to your company's appar iselect up to three)
+
+APP LE
+
+COriFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.71 APL-APPSTORE 09637089
+
+Top three most effective marketing activities to keep existing users coming back
+
+War(std-mougf marketing Push nogficabons Elflall cut(each Social media community outreach
+Social media adverbsing Relargeting users In-app massaging App Store featunng Other community outreach Iflguanoef nlalkahng
+Search engine referrah Cross pnnnobon in myother apps pR outreach App Store product page opgmizatron Ad network advedising TV/printasdio/outdoor adverbsing (nner Oon't know
+
+Toa d 29 4 224 1 9% 18% 15/ 11% 1 (P/ 84 8% S%%d
+4'/ 2'/ 2'/ 10 / 24% Bo 3
+
+US
+
+Sme l l 31'/
+
+Id d 30%
+
+a 21 /
+
+19V
+
+21%%d 304 t
+
+I T %%d 19' / 24'Y
+
+18% 18% 18'/
+
+I 5% 16'/
+
+13%
+
+I F I'
+
+1(p%%d
+
+8%
+
+1(p%%d 17 % t
+
+7%
+
+14% t
+
+9'Y
+
+7%
+
+e V . S%%d
+
+10
+
+4'Y 3'/ FY 8% 27lo
+mel
+
+3V
+
+I'/
+
+2'/
+
+12'%% d 11%
+
+234
+
+19/
+
+253
+
+169'
+
+Tor si 43'4 17 % FY 21% 15 % 2 7% 15 % 30% SY 'ISY 17% 8% 12% IFY
+253
+
+China
+
+Small
+
+Wid
+
+44/ d 42V
+
+12% 214
+
+4%
+
+FY
+
+28a
+
+16% 4
+
+21% \ '/ (7%
+
+Total Smad 29%%d 32 %
+
+28'%%d 18'4
+
+T/
+
+7%
+
+24% 23%
+
+arid 23/ 33 ' 1 6V 2 T% % d
+
+19'/
+
+I F'/ '
+
+3( p%%d 3 2 %
+
+15% ( 6%
+
+264
+
+28%
+
+8%
+
+Sk
+
+20'/
+
+14%
+
+13% 169 14'/ 39'Y
+11%
+
+8'/
+
+79/
+
+6V
+
+8%
+
+64
+
+SV
+
+11 4 10'/
+
+I FYo
+
+22'%%d 18'%%d 32% t 1 1'/ I IP %%d 1 4 ' /
+
+6'/
+
+4%
+
+5V
+
+18% 178/
+
+64
+
+3%
+
+164
+
+13%
+
+14% 16%
+
+T %%d 7 %
+
+4%
+
+4'Y
+
+0%
+
+44
+
+9%
+
+1T %%d 14% 15%
+
+14'/
+
+17Vo t
+
+10' /
+
+3%
+
+6'/
+
+16'%%d 20'%%d IFS
+
+(0%
+
+8'/
+
+10 4
+
+4V
+
+14% 5'/
+
+4%
+
+5V
+
+6%
+
+5o
+
+1(P/
+
+8%
+
+7/
+
+I FS
+
+4%
+
+9%
+
+11/
+
+BV
+
+1 5
+
+9
+
+I
+
+115
+
+tmss
+
+10 20 30 40 50
+
+Base Markesng respondents
+
+Cl N I Which are the top three most effective marketing acbvitles to keep existing users coming back to your company's appso (select up to three)
+
+Note Arrows denote compansons to small tier wdhln each country
+
+APPLE
+COI'JFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.72 APL-APPSTORE 09637090
+
+Channels most important in driving word-of-mouth marketing
+
+Organic sociat media App Blarecustomer reviews Company anryor pnxluct webske Inbuencer marbabng
+
+App Store chartranldng App Eaore banding Public telabons Phlfslcat Innltars Omar Oon't know
+
+10 20 30
+
+50
+
+US Ch i n a 4 an
+
+463/1 I 47%
+
+46%
+
+32% 21 /
+
+20'/
+
+2 7'/
+
+329
+
+297
+
+24%
+
+6'/
+
+9'/
+
+24/ ~
+
+190%
+
+19 %
+
+9'/
+
+10%
+
+2'/
+
+1%
+
+4/
+
+5%
+
+0'/
+
+2%
+
+o63
+
+' 3
+
+23c
+
+Base fdarkebng respondents 0122 What channels are most important to d/ivmg word-of-mouth marketrngc tselect all that apply)
+
+APPLE COIIFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.73 APL-APPSTORE 09637093
+
+Channels most important in driving word-of-mouth marketing
+
+Organic sociat media App Blore customer reviews Company antyorpnnluctw ebsae
+
+Tors i
+
+Smau
+
+Isd
+
+China
+
+Tos s
+
+Sma l l
+
+IN d
+
+Japan
+
+a
+
+Tot al
+
+Sma ll
+
+Md
+
+48;
+
+48"
+
+47% 471
+
+47'/
+
+4615 47'
+
+47"
+
+46' v 40% 45%
+
+-- mINIV -", 41'/
+
+385
+
+42'/
+
+45"
+
+S~
+
+R
+
+49a'
+
+18
+
+32t'
+
+34% 29% 32% 21'Y
+
+30%
+
+16 / 1 13% 4 20'/
+
+24%
+
+22/
+
+InSuencer maibaSng
+
+25% 25% 33% 1
+
+24'/
+
+2P.'
+
+24'/
+
+26%
+
+237
+
+21%
+
+8'/'
+
+10 %
+
+4%
+
+I'/ 4 9%
+
+9%
+
+12%
+
+App 8tore chart ranldng App Esore banding
+
+244
+
+21% 22% 35 ' 1
+
+22'/'
+
+247
+
+26%
+
+I 4'.
+
+29'Y 41'/
+
+Public telabons
+
+19%
+
+2I P'
+
+f SY
+
+2011
+
+9'/
+
+12 4
+
+8%
+
+3'Y 4 10% 10Y
+
+9%
+
+Phlfslcai Inalteis
+
+2'Y
+
+3%
+
+1%
+
+2%
+
+1%
+
+2'Y
+
+O'Y
+
+4%
+
+4/
+
+5/
+
+cesar
+
+BY
+
+8Y
+
+4%
+
+12'/
+
+11% 14 '
+
+11%
+
+25 3
+
+160
+
+id
+Base Markedng respondents 0122: What channels are most important to dnving word-of-mouth markelrngv Iselect sll thai apply) Note Arrows denote compansons to small tier wdhin each country
+
+30 40
+
+3%
+
+1%
+
+10' Y
+
+8'/
+
+23 5
+
+f 15
+
+: ri' sl.
+
+78
+
+bass
+
+APPLE COIJFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.74 APL-APPSTORE 09637092
+
+Is company able to effectively drive download of iMessage app
+
+60%
+
+36e
+
+60 4 46"
+
+20'4 tg'
+UB 70
+
+Ctuna
+
+Base Markebngrespondentswho deuelopforiM essage Q104: Is your company able to effectnrely dnue downloads of its iMessage app through its marketing>
+
+a Oont know · No · ybs
+APPLE CONFIDENTIAL 42
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.75 APL-APPSTORE 09637093
+
+r
+
+·
+
+a L· ·
+
+· a
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.76 APL-APPSTORE 09637094
+
+Satisfaction with the App Store
+
+80% 80 4
+
+ss
+22 I
+13 14ra
+
+21%
+
+51 20 5" 14e
+2984
+
+Top-2 box Botlool.2 box
+
+20'4
+US I 903
+Base All respondents Q89. How satIsfIed are you with ihe App Store>
+
+Ciuha 588
+
+Japeo
+
+· Very dissstistied · Somewhat dimatisfied · 1 steimer · Somewhat satisfied a Very satisfied
+APPLE COIJFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.77 APL-APPSTORE 09637095
+
+Reasons not satisfied with the App Store
+
+US
+
+Inabilily toupdate metadata without binary submimion
+
+44%
+
+lack of funchons which other platforms have
+
+32%
+
+No waytocustom izepnxlud page
+
+36"
+
+Unpredictable algorithm updates
+
+3 2'/
+
+Lack of real-time monitonng fnr slability
+
+2 IP /
+
+No personalized reonmmendafions
+
+26'/
+
+lack of pmducn page testing
+
+2 4'/
+
+No introductory pricing
+
+2 1' /
+
+Behavtorat data is opt-in
+
+14'/
+
+Resources and toow are not fully localized
+
+0%
+
+cesar<neq
+
+Olhen Search and Ciscoverabilrly issues
+
+19%
+
+Olhen Other specific complalnl
+
+10'4
+
+Olhen tssues with publishing, deployment or review process 6%
+
+C h i n a 4 an
+
+32 /
+
+47 '
+
+23 /
+
+34%
+
+2 4% 24 4
+
+26'/
+
+315/
+
+26'/
+
+2I PA
+
+22'/
+
+39 /
+
+13'/
+
+2I PA
+
+6'/ '
+
+14'/
+
+15% 21%
+
+23% BB%
+
+461i stp
+
+5%
+
+14'/
+
+5/
+
+10%
+
+4/
+
+5%
+
+423
+
+62
+
+102
+
+Base Not ~
+
+10 20 30
+
+r
+
+090: Why ~
+
+y v uu s v i · i seiniwuqfilb
+
+Note Categcnes under 5e. are not Cispiayed under 'Other (nst). Respondents' comments to open ended questions were manually coded mto categones. Some of these
+
+categories are predetemsned others are added as new themes receive a suifiwent number of menbons. The percentages reported are calculated based on the number of
+
+menhons
+
+APPLE COI'IFIDENTIAL 45
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.78 APL-APPSTORE 09637096
+
+Reasons not satisfied with the App Store
+
+Inabilily to update metadata wdhoul binary submission
+Lack of Iuncbons which other platforms have
+No way Io cllstornlze plodran page
+
+Toa d
+37'/ 36 '
+
+Ug S m al l rad
+
+a
+
+Tor si
+
+29I L 423 1 47 , t
+
+33sk 3 6/
+
+37 4
+
+2414
+
+unpredictable algorithm updates
+
+3 2i' 29%
+
+35'/ 35 ./
+
+Lack of real-time monitonng for slabilily 2 3'/
+
+19 4
+
+35'/ 1 3 67 t
+
+Chins
+
+Small
+
+Mid
+
+Toad ama d Snd
+
+471
+
+44'/
+
+3t'/ .
+
+297
+
+No personalzied reoommendabons Lack of product page teabng No Introduclory pricing
+
+26 5
+
+25'/
+
+244 29 4
+
+24'/
+
+2fy r k 2fp/
+
+25'r
+
+2 1' /
+
+21% 21'/
+
+22%
+
+39 /
+
+31'4
+
+14aa I 5'4
+
+Behavrordl dabr is opt-in
+Resoonsm arid loots afa flot fully Iocallzed
+Inner
+
+14 /
+
+9/
+
+164 1 22 / 'I f5/
+
+21 /
+
+2PI
+
+23aa 26%
+
+46" 4b 4
+
+4 3
+
+'la e
+
+133
+
+'teil
+
+rn;al ariel
+
+v ail
+
+Oz
+
+b ass b a s s oss a 162
+
+. III& b ase
+
+r ir'a l . bas e
+
+Base tint satisfied with App Store Q90 Why do you say you are not satmfmd wdh ine App Store> lselacl all that apply) Note. Arrows denote compansons to small tier wdhin each country
+
+i b 26 SI I 49 59
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.79 APL-APPSTORE 09637097
+
+Satisfaction with elements of the App Store Very or somewhat satisfied
+
+provides the tools I need to successfully develop apps
+
+U S Chin e
+
+Errebles pmhtabffay of Iny epps
+
+38% 48"
+
+32%
+
+Enablesdiscoveryofm yapps
+
+37% 4T r'
+
+24 '
+
+Provides the tools I need to successfully madrel apps 34% 40% 27 '
+
+190 3
+
+588
+
+500
+
+10 20 30
+Base All respondents AIO Hcw satished are Vou wiin the App Store on the foifowrng>
+
+APPLE COfJFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.80 APL-APPSTORE 09637098
+
+Satisfaction with elements of the App Store Very or somewhat satisfied
+
+Ub
+
+Chins
+
+Japall
+
+Taug Bm s l l Md Large
+
+Tmsl
+
+Bmsll
+
+Mid
+
+Imgs Toad Sm a l l MM
+
+Prow'des the tools I need to suocessfugy develop appu
+
+%SEWR
+
+Enablespmydabggy ofIuy appa
+
+33"
+
+371L 3 T/ . 407
+
+46" . 39"
+
+32 4
+
+245L 36". 7 43'/ 7
+
+Enablesdiscoveryofm yapps
+
+3T /
+
+3853 34 » $8 »
+
+47 e
+
+47g
+
+50w
+
+42"
+
+244 20/ 29% 31 / t
+
+Provides the tools I need to successfully 34'»
+
+3 6'/
+
+31/ 1 $5 /
+
+market apps
+
+4 0'/
+
+42»L 40'/
+
+357
+
+274 29'/
+
+27%
+
+25/
+
+1 90 3
+
+913
+
+566
+
+424
+
+585
+
+273
+
+182
+
+133
+
+500
+
+236
+
+159
+
+105
+
+Base All respondents AIO How sauslied are you with Ihe App Store on the following> Note Arrows denote compansons to small tier wghin each country
+
+i d 20 $0 40 50
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.81 APL-APPSTORE 09637099
+
+Satisfaction with elements of the App Store
+
+Provides the tools I need to successfully develop apps
+
+Top-2 box
+
+7'
+
+Botlonl.2 box
+
+4/
+
+10n
+
+15'y
+
+806
+
+2186
+
+60S
+
+2012
+
+US I 203
+
+Brune 588
+
+Base As respondents Ato How satisned are you with the App Store on the foflowingo
+
+Japan 500
+
+tB Don'i know tB Very dissatisfied tB Somewhat dimatisfied Bt ttetbier · Somewhat sabsrmd · Very satis6ed
+APPLE COIIFIDENTIAL 48
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.82 APL-APPSTORE 09637100
+
+Satisfaction with elements of the App Store
+
+Provides the tools I need to successfully develop apps
+
+68N s e. ee . 71 ttbPA
+7 '
+tbtg
+
+7 5'I
+
+72.
+
+79
+
+7
+
+77W 6'I
+
+4" . 4 as 4'/
+
+t5M 18/
+
+61%
+
+64 *
+
+59
+
+56" Top- 2 box
+
+16 '
+
+18 '
+
+111 Bot l ool.2 box
+
+4'
+
+Sy
+
+96/
+
+Sei
+
+10
+
+191 19'/
+
+40%
+
+Total Sn r ee M di US
+
+l arg e
+
+n= 1903 913 566 424
+
+Total S m al l Mid China
+588 273 182
+
+Base AS respondents AIO How sabslied are you with Ihe App Store on the following> Note. Arrows denote compensons to small tier wahin each country
+
+Total S mall bgd Japan
+500 236 159
+
+L arg e 105
+
+· Don'I know · Vary disasbsbed e Somesnat aimabseert rl Neimer · Somewhat satisbed · Very satisbed
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.83 APL-APPSTORE 09637101
+
+Satisfaction with elements of the App Store
+
+Enables profitability of my apps
+
+28 r
+
+13r
+
+5'
+
+12'
+
+458
+
+935
+
+80%
+
+14'
+
+SOS
+
+32'.
+
+Top-2 Oox
+
+Botloln.2 Oox
+
+7'I
+
+12'
+
+182
+
+2019
+
+US I 903
+
+China 588
+
+Base AS respondents AIO How satisfied are you with the App Store on the foilowing>
+
+e Don'I know e Very dissslislied % Somewhat dimatisfied · 1 tsetfiier · Somenhatsafsirmd · Very satisfied
+500
+APPLE COIJFIDENTIAL 47
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.84 APL-APPSTORE 09637102
+
+Satisfaction with elements of the App Store
+
+Enables profitability of my apps
+
+38
+
+37
+
+3 m'
+
+40 '
+
+46'i
+
+ttapA
+
+24'I 26r
+
+26 '
+
+13
+
+12'
+
+807 125 11 " 124
+
+3 914 5 1
+
+1 4'
+
+12 ·
+
+55" 124v
+
+6
+
+4.
+
+I 5'
+7
+
+,
+
+10
+
+3'c' 30M
+
+25 .
+
+26M 24
+
+25'/
+
+40M
+
+Total Sm a ll M di US
+
+l arge
+
+n= 1903 913 566 424
+
+Total S m al l Mid China
+566 273 162
+
+Base Allrespondents AIO How sauslisd are you with Ihe App Store on the following> Note. Arrows denote compensons to small tier wahin each country
+
+32m 24 D 36
+
+43'
+
+294 30' 31 ' 26"
+
+5'
+
+12'
+
+21 /
+191i 151v
+
+TOP - 2 Oox Bott om-2 Oos
+
+32'
+
+2856
+
+T otal S mall 6 0d Jaime
+500 236 159
+
+Lar g e 105
+
+· Don'I know
+· Vary drsesgslied a Somevmat aimags3ert gt Neimer · Somevmat satis0ed · Very satis0ed
+
+APPLE CONFIDENTIAL 3
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.85 APL-APPSTORE 09637103
+
+Satisfaction with elements of the App Store
+
+Enablesdiscovery ofmy apps
+
+37 '
+
+47
+
+404r
+
+25r
+
+433
+
+10"
+
+22
+
+80%
+
+t5'7
+
+60'4 19"
+
+20'4
+
+US I 903
+
+China 588
+
+Base All respondents Ato How satisfied are you with the App Store on the foilowingo
+
+Top-2 box Botlonl.2 box
+24
+20'r
+
+Japan
+
+e Don'i know e Very dissslislied % Somewhat dimatisfied · 1 tsetfiier · Somenhatsafsirmd · Very satisfied
+APPLE COIJFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.86 APL-APPSTORE 09637104
+
+Satisfaction with elements of the App Store
+
+Enables discovery ofmy apps
+
+37 '
+
+3 3'
+
+3 43
+
+38
+
+tbfyh
+
+40N 4'
+
+39
+
+4M 4'
+
+39 '
+
+47
+
+47.
+
+50
+
+42"
+
+25r 22'
+
+28, 27ss
+
+82
+
+13
+
+26' 80%
+
+151 15 4 18'
+
+14tfr
+
+17 40M
+·
+
+171
+21'7 19
+
+27'% 21"
+
+Total S m a 6 M id US
+
+l arg e
+
+n= 1903 913 566 424
+
+Total S m al l Mid China
+588 273 182
+
+Base Allrespondents AIO How sabslied are you with Ihe App Store on the following> Note. Arrows denote compansons to small tier wehin each country
+
+2 4b,
+
+20 *
+
+25
+
+31
+
+44
+
+45 ' 4M
+
+Tcp- 2 boX Botlor i i-2 bcx
+
+24'
+
+22
+
+20xg
+
+2938 31r,a 2BK
+
+Total S m al l M d Jaime
+500 236 159
+
+Larg e 105
+
+· Bon'I know · very disssbslied e Somermat dfma03930 rl Neimer · Somewhat satisfied · very satisbed
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.87 APL-APPSTORE 09637105
+
+Satisfaction with elements of the App Store
+
+Provides the tools I need to successfully market apps
+34' 32 'I 8"
+
+15"'
+
+,,
+
+804
+
+14"
+
+60 4 25 J'
+
+20'4
+
+US I 203
+
+China 588
+
+Base Allrespondsnts Ato How satisfied are yoo with the App Store on the farrowing>
+
+14'
+18 ia
+33 4
+Japan 500
+
+Top-2 box Botlonl.2 box
+e Don'i know e Very dissslislied % Somewhat dimatisfied · 1 tsetfiier · Somewhatsafsirmd · Very satisfied
+APPLE
+COIJFIDENTIAL sg
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.88 APL-APPSTORE 09637106
+
+Satisfaction with elements of the App Store
+
+Provides the tools I need to successfully market apps
+
+34% 36' I 31 '
+
+35
+
+32h 31s v i 36!
+
+31 '
+
+'!'
+
+8'
+
+40 "
+
+42.
+
+40
+
+35"
+
+22,
+
+19'
+
+24
+
+28m
+
+5'
+
+8'
+
+6
+
+'1
+
+13
+
+20'16.
+
+178 15 '
+
+20%7
+
+40M ·
+
+27/
+·
+
+3439 31M
+
+Total S n ra g M di US
+
+l arge
+
+n= 1903 913 566 424
+
+Total S m al l Mid China
+588 273 182
+
+Base AS respondents AIO How sabslisd are you with Ihe App Store on the following> Note. Arrows denote compensons to small tier wahin each country
+
+2 7%
+
+29 *
+
+27
+
+25
+
+Top- 2 boX
+
+331 31'
+
+29 ' 44rvt Botl o nl-2 box
+
+74
+
+,
+
+6"
+
+14'
+
+14
+
+18'6: 1 7 ' >. 28
+
+T otal S m al l bgd Japan
+500 236 159
+
+Lar g e 105
+
+· Don'I know
+· Vary disaebsbed e Somevmat aimags8ert rl Neimer · Somevmat satisbed · Very satis9ed
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.89 APL-APPSTORE 09637107
+
+· r
+
+· ·
+
+r ·
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.90 APL-APPSTORE 09637108
+
+Satisfaction with support, services, and tools Apple provides
+
+so 28sv
+80%
+12 80 4
+
+ter 4 12;8
+21m
+
+205 2188
+
+Top-2 box Botlonl.2 box
+
+20'5
+
+US I 803
+
+Brune 588
+
+Japan 500
+
+Base AS respondents Q82: Overau. how satistied are you with the support, services, and tools Apple provides to you as a developerr
+
+· Very dissstistied · Somewhat dimatisfied ·1 steimer · Somewhat satisfied a Very satisfied
+APPLE COIJFIDENTtAL 51
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.91 APL-APPSTORE 09637109
+
+Satisfaction with support, services, and tools Apple provides
+
+60 i
+
+61
+
+61'
+
+58
+
+2IP' 27'i
+
+27r
+
+29 '
+
+807, 16'6 1 5'
+
+16 4
+
+fg /
+
+12
+
+126 12 6 I gy
+
+40M
+
+62
+
+66m 62
+
+16'
+
+'
+
+14
+
+12%
+
+19'4 21 Ig
+
+55" 23m l
+15
+22
+
+5 0m 4 7"
+
+55
+
+5th Top - 2 box
+
+2 99 311 29 ' 2 5' 9 Bot t om -2 bos
+
+9'
+
+20'4 206 2096
+
+1 6'/ 25' . /.
+
+Total Sm a ll M di trg
+
+l arg e
+
+n= 1903 913 566 424
+
+Total S m all M rd China
+588 273 182
+
+I a lga 133
+
+T otal S m al l hf l d Lar g e Japan
+500 236 159 105
+
+Base AB respondents 082: Overall, how satisiied are you with the support, services. and tools Apple provides to you as a developer? Note Arrows denote compansons to small tier wshin each country
+
+· Very disssgsged I Somevmat dissagsged · Neither · Soeleivhat saflsged · va n/ SstlSflsd
+APPLE CONFIDENTIAL 2
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.92 APL-APPSTORE 09637110
+
+Reasons very and somewhat satisfied with support, services, and tools Apple provides
+
+Great/Complete set of tools, continuous impnwement
+
+u s Ctd n a 11'%%u 8'%%u
+
+Efimfivie communhmfion with suppod and problem-solving
+
+10' 4
+
+12%%uo
+
+Issues with publishing. deployment or review process Issues and changes lo Xcode
+
+6%
+
+1%
+
+Want more options for maraeling and ads, difficult to be seen
+
+tfhe Xcode Easy lo use, inluiTive, convenient (generag
+
+5%
+
+12%
+
+Cuslomer servinw iswres
+
+Good publishing, deployment and review process experience
+
+No response provided
+
+22% 41%
+
+1146 366
+
+NA
+
+BaseVer%a~ '10 20 0 30,,
+083AB Whtt(yyfifysat I'un 4 .,wyi=u u&% x.
+
+provides to you as a developer> (open-end(
+
+Note Categorws under 5'. are not displayed under 'Other (nett Respondentsc'omments to open ended questions were manually coded mtocategones. Some ofthese
+
+categories are predetermined others are added as new themesreceive a suffiwent number of menbons. The percentages reported are cakulated based on the number of
+
+menbons
+
+APPLE COI'IFIOENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.93 APL-APPSTORE 09637111
+
+Reason very and somewhat dissatisfied with support, services and tools Apple provides
+
+US
+
+Issues with publishing, deployment or review process
+
+30%
+
+Issues and changes to %code
+
+14 %
+
+Cuslomer selvhm issues
+
+14Y
+
+Want more aplions for marheling and ads, digicult to be seen
+
+14' /
+
+Not easy to use ar inluibve (general)
+
+13 %
+
+OthBI tools Isslias
+
+12 %
+
+Mgning, cerbTrcates and pngiles imues
+
+11 %
+
+Issuesand changes to ITunes Connect
+
+9/
+
+Pricing issues
+
+9'/
+
+ISSUBS Wlhl OS-IOS
+
+9%
+
+Issues with dislribulion, payments and fee
+
+8/
+
+CompsbOIbfy Issues (soltwsro arid hardware)
+
+8%
+
+tsures and changes to TeslRight and overall tesfing
+
+7'/
+
+Issues arid changes lo Swift
+
+6%
+
+Few opportuniTies for smalldevelopers
+
+5%
+
+M any updateasnd unannounoad changes inAppletaols and services
+
+Issues and changes to analylics
+
+5'7
+
+Search and discoverabilily issues
+
+5'Y
+
+Guidelines and policies issues
+
+5%
+
+Issues to update an app
+
+5'Y
+
+Documenbibon auues
+
+5%
+
+52 5
+
+Chi n a J n 3IPA 9% 24'/ 6 4
+74 2Y 2% 44 0% 1% 10'4 4% 1% 3% 0%
+
+4/ 3'/ 4% 0% 2%
+
+9=
+
+NA
+
+Base. Very sna sa~
+
+10 ' 20 . , 3 0 , 40
+
+083DE Why do yoifgg(P)5u aiv very»oilda i.i d a s v
+
+vides to you as s developer> (open-end)
+
+Note Categorws under 5% are not Cisplaysd under 'Other inst) Respondentsc'omments to open andes questions were manually coded mtocategones. Some ofthese
+
+categories are predetermined others are added as new themesreceive s suffimeni number of mentions. The percentages reported are calculated based on the number of
+
+menbons
+
+APPLE COI'IFIDENTIAL 52
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.94 APL-APPSTORE 09637112
+
+Developer. apple.corn/app-store
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.95 APL-APPSTORE 09637113
+
+Awareness of developer business and marketing resources at developer. apple.corn/app-store
+
+27s Japan
+Base AS respondents Q107 Are Vou aware of the business and marketmg resources available at developer apple.condapp-store'i
+
+· No · Ves
+APPLE COrfFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.96 APL-APPSTORE 09637114
+
+Awareness of developer business and marketing resources at developer. apple.corn/app-store
+
+56
+
+73'
+
+75
+
+40%
+
+49667 31.
+
+33s
+
+27'
+
+25
+
+Total Sm a ll M di US
+
+l arge
+
+n= 1903 913 566 424
+
+T otal S mall Mid China
+588 273 182
+
+Lar g e 133
+
+Total S mall M d Jatmn
+500 236 159
+
+Larg e 105
+
+Base Ad respondents 01 07: Are you aware of the business and marketmg resources available at developer apple conuapp-stores Note. Arrows denote compansons to ema0 tier wdhin each country
+
+· No M ybs
+APPLE COffFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.97 APL-APPSTORE 09637115
+
+Source of awareness of business and marketing resources at developer. apple.corn/app-store
+
+Oeveloper.apple.comrapp-store Internet searches Word of mouth from other developers I Imow Tech publications or indushy forums Social media tuner Oon't know
+
+US Chi n e 4
+
+21 /
+
+24 /
+
+35'/
+
+2 0'4 24'/
+
+IPY
+
+I Iyh 20'Y
+
+I 056
+
+SY
+
+14'Y tP Y
+
+4/
+
+I P/
+
+101 4
+
+4'/
+
+2 f'
+
+867
+
+205
+
+135
+
+10 20 30
+
+50
+
+Base Aware of busmsss and marketing resources 0108 How Cid you hear about the business and markstmg resources at developer apple.corn/app-storsv jselect at that apply)
+
+APPLE corIFIBENTIAL 55
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.98 APL-APPSTORE 09637116
+
+Source of awareness of business and marketing resources at developer. apple.corn/app-store
+
+Oeveloper.apple.comlapp-store
+
+Uh
+
+Chlrm
+
+Japan
+
+small
+
+I rsl
+
+Large
+
+Tea l
+
+Sma l l Mid
+
+tmee
+
+Total
+
+Smal l
+
+kM
+
+Large
+
+l e ' 5& N I i
+
+Internet searches
+
+2 1 .%%d 22%%u 2 0'%%d 13rd
+
+24%
+
+28%
+
+16/
+
+2519
+
+Word of mauth from other developers I mmw
+
+208/'
+
+18%
+
+21'/
+
+21'/
+
+24%%d 25' /
+
+36"
+
+I OIL 1 124
+
+S%%u
+
+Tech publications or indushy forums
+
+22%%u I T%%d 16 /
+
+204 IBX, 18/ . 22%u. I g%%d 5 /
+
+Social media
+
+T%%u m %%d 7%
+
+1459 13' %%d 1 2 5
+
+10 5
+
+I 2'%%d I 3IL
+
+Inner Oon't know
+
+4 %%d 4 %%d d%% u 4 /
+
+8'%%u I IP/. 1\ '4
+
+86 7
+
+368
+
+250
+
+219
+
+o%%u I P A
+
+4%
+
+4'/
+
+20 5
+
+35
+
+Iyh
+
+0'!
+
+S%% u 0%
+
+61
+
+59
+
+25
+
+0/
+
+2 %%d 2 8/
+
+135
+
+s mall sm a l l b ase bas e
+
+I O 20 Sit 40 5O
+Base Aware of business and marketing resources 0108: How did you hear about the business and marketmg resources at developer apple.corn/app-stores (select all that apply) Note. Arrows denote compansons to small tier wdhin each country
+
+APPLE L or(FIOENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.99 APL-APPSTORE 09637117
+
+When last visited business and marketing resources at developer. apple.corn/app-store
+
+Wdhin thefast week Betweenone week and up to one month ago Between 1month and up to 6 mo rdhs ago Between 6months and up to one yearago One year or more ago I don'1 remember
+
+UB Chi n e 4 an
+
+10'4 20 4
+
+27'/
+
+12 5
+
+117% 5%
+
+t gtt
+
+Bh
+
+24'/
+
+25'/
+
+067
+
+205
+
+18% 24SS 94 64 35'/ 135
+
+10 20 30
+
+50
+
+Base Aware of busmess and marketing resources Q109 When was the last trme you visited the business and marketing resources at developer apple.comlapp-stores
+
+APPLE COlJFIOENT1AL 56
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.100 APL-APPSTORE 09637118
+
+When last visited business and marketing resources at developer. apple.corn/app-store
+
+Wdhln thelast week
+Betweenone week and up to one month ago Between 1month and up to 6 m onths ago Between 6months and up lo one year ago
+One year or more ago
+
+Toed 8'/
+
+Bg Smell tad
+
+10%
+
+tPA
+
+10 /
+
+9%
+
+9%
+
+27%i %u 29 % 2/P/
+
+19/
+
+1 PTo 19'A
+
+12%
+
+14'4
+
+11P/
+
+e 6% 14% 24% 21% 12%
+
+Tot al 27%
+
+Ohtna
+
+a mes
+
+Mid
+
+27% 28%
+
+20'/ 244
+
+t 8%
+
+17 %
+
+14%
+
+159/ '
+
+5%
+
+54
+
+5%
+
+5%
+
+tAP
+
+2%u
+
+I don'1 remember
+
+24'/ 2 1 % 3/PA 7 23 '%%u 25A 25'/
+
+33"
+
+86 7
+
+368
+
+280
+
+219
+
+20 5
+
+85
+
+61
+
+27'/ 19'/o 22% 5/ 8'/ 19% 59
+
+T ota l 9'/ 18'A 24'4 9% 6%
+135
+
+a mes 2% 16% 25% 7% 10'/
+61
+
+hlid
+smas s m a ll b ase bas e
+
+10 20 30 40 50
+Base Aware of business and marketing resources 0109. When was the last trme you waited the business and markelmg resources at developer apple corn/app store> Note. Arrows denote compansons to small tier wdhtn each country
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.101 APL-APPSTORE 09637119
+
+Satisfaction with business and marketing resources at developer. apple.corn/app-store
+
+10'Iv 42
+60%
+60 A
+
+33
+
+Tcp-2 box
+
+Its
+
+Botlonl.2 box
+
+20'A
+
+US
+
+China
+
+Japan
+
+550
+
+142
+
+80
+
+Base Awareofbusmess and markebng resources and visited up to one year ago Qt to How satisfied are you with the busmess and markehng resources at developer apple comrapp-storec
+
+· Very dissatistied · Somewhat dimatisfied ·1 etaimer · Someumat satisfied tS Very satisfied
+APPLE COIJFIDENTtAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.102 APL-APPSTORE 09637120
+
+Satisfaction with business and marketing resources at developer. apple.corn/app-store
+
+49% 52
+
+4 69
+
+49
+
+59 .
+
+5 9S
+
+395
+
+I ON 11 I 1tn
+
+11rs
+
+5% Os
+
+IIN
+
+4
+
+4'
+
+7'
+
+714 69
+
+44 4 41"
+
+31 '4
+I k
+
+Top-2 box Botlonl.2 box
+
+40%
+
+Total 550
+
+S n m g M id US
+238 170
+
+l arge 142
+
+T otal S m al l Mid Larg e
+Ctdna
+smaa her small bsr b ase b a s e
+
+Total S mall S d d Lar g e Japan
+
+80
+
+smail ser smad tis small ver b ase b a s e bas e
+
+Base Aware of busmess and marketing resources and visited up to one year ago ttt to How satisfied are you with the business and markehng resources at developer apple corn/app-stores Note Arrows denote compansons to small tier wehin each country
+
+· Very dissa295ed I Somevmat dissa5s2ed · Neither · Sonteivhat aarialled · Very sstlsflad
+APPLE CI7NFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.103 APL-APPSTORE 09637121
+
+Reasons dissatisfied with business and marketing resources at developer. apple.corn/app-store
+
+Informsdon ton broad, not actionable lack of relevant recommendations G uidancenotndevant tom y app Lack of benchmadr dale Sheurrde search by topic does not work Would like to see more arlides vs videos Would like lo see more videos vs anides Lack of locnlrrnborl omar
+
+US Chi n e J an 12%
+smsa s m a ll b ase bas e
+
+10 20 30
+
+50
+
+Base Somewhat or very Crssatrsfred with business and marketing resources
+
+Qr tt Why do you say you are not satisfied with the business and markebng resources at developer.apple comrapp-stores jselsct au that applyl
+
+APPLE
+
+COIIFIDENTIAL 58
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.104 APL-APPSTORE 09637122
+
+Satisfaction with elements of business and marketing Very or somewhat satisfied
+
+E558 Of Use Quatky of gUidalice AO5855 to Isleted I85OUI585 Helps imprmre mybusiness andmarketing decisions
+
+QS 43/ 305/.
+
+Chi n e 4 n
+
+. '
+
+30'/
+
+. 33 4
+
+I gtPA 43 / 30'/
+
+307
+
+205
+
+135
+
+10 20 30
+
+00
+
+I
+
+Base Aware of busmess and markebng resources Q112 How satiated are you with the business and markehng resources at developer apple corn/app-store on the tosowing
+
+APPLE COflFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.105 APL-APPSTORE 09637123
+
+Satisfaction with elements of business/marketing Very or somewhat satisfied
+
+Ease of use
+Qumay ofgcldarlca
+Access to related resources Helps imprmre mybusiness and marketing decisions
+
+UB
+
+Chins
+
+Japall
+
+Tes f
+
+Bmsf
+
+fad Large
+
+Te al
+
+Bmsn
+
+Mid
+
+tmss
+
+T oss Sm al l Sys l
+
+43'
+
+43'v
+
+43'/
+
+42 '
+
+39"
+
+4 014 37'/ . 37w
+
+Swig 3IPA 30'/
+
+37'/
+
+39'v
+
+3T /
+
+36 /
+
+3 lpk 33"
+
+29'/
+
+28'7
+
+4816 '~
+
+86 7
+
+368
+
+260
+
+219
+
+20 5
+
+85
+
+41' i
+
+47ka
+
+3IPA 25/
+
+61
+
+59
+
+s mall b ass
+
+sma l l Ca s a
+
+i d 20 30 40 50
+Base Aware of busmess and marketing resources Q112. How satisfied are you with the business and markebng resources at developer apple corn/app-store on the tonowing Note Arrows denote compansons to small tier wahin each counby
+
+APPLE COflFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.106 APL-APPSTORE 09637124
+
+Satisfaction with elements of business and marketing
+
+Ease of Use
+
+43
+
+I ctv
+
+I cv
+
+8"
+
+21'
+
+83%
+
+273
+
+33
+
+Top-2 box
+
+17
+
+Botlonl.2 box
+
+7'I
+
+4
+
+13'4
+
+47'I
+
+28'4
+
+US
+
+Cluna
+
+Japan
+
+857
+
+205
+
+135
+
+Base Aware of busmess and markebng resources Qt 12 I-low satiated are you with the business and markehng resources at developer apple corn/app-store on the tofiowing
+
+e Don'I know e Very dissatislied % Somewhat dimatisfied 31ttetmer · Somevmat safisfmd · Very satisfied
+APPLE COIIFIDENTIAL 5g
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.107 APL-APPSTORE 09637125
+
+Satisfaction with elements of business and marketing
+
+Ease of Use
+
+43 4 4 3 '
+
+ION
+
+104
+
+74
+
+21
+
+20'.
+
+5
+
+s
+
+44
+
+2 7'4 275 6 2 6 I gtn s
+
+40%
+
+10 '
+
+T
+
+51
+
+10 ,
+
+1444
+
+23M
+
+·
+
+·
+
+3 0"
+
+30 '
+
+17'i
+
+2 5'
+
+74
+
+131
+
+47M 3856
+
+Top-2 bos Botlool.2 bos
+
+T otal S m all M di US
+
+l arg e
+
+n=
+
+867 368 280 219
+
+T otal S mall Mid China
+
+205
+
+85
+
+61
+
+Lar g e 59
+
+T otal S mall 6 00 Lar g e Japan
+smalltis smasosr base b a ss.
+
+Base Aware of busmess and marketing resources QII 2. How satisfied are you with the business end markebng resources at developer apple corn/app-store on the tooowing Note Arrows denote compansons to small tier wahin each country
+
+· Don'I know · Vary disae0sked e Somevmat aima6soert gt Neimer · Somevmat satis0ed · Very satis5ed
+APPLE CONFIDENTIAL 3
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.108 APL-APPSTORE 09637126
+
+Satisfaction with elements of business and marketing
+
+Quality of guidance
+
+3et
+
+5si
+
+13m
+
+41
+
+81
+
+21'
+
+4'8
+
+80%
+
+83.
+
+60 4
+
+33
+
+Tcp-2 box
+
+Its
+
+Botlonl.2 box
+
+48 4
+
+20'4
+
+US
+
+Ciuna
+
+Japan
+
+867
+
+205
+
+135
+
+Base Aware of busmess and markebng resources Qt 12 I-low satiated are you with the business and markehng resources at developer apple corn/app-store on the toaowing
+
+a Don'I know a Very dissatisfied % Somewhat dimatisfied 8t ttetmer · Somevmat sabsfmd · Very satisaed
+APPLE COIIFIDENTIAL Cd
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.109 APL-APPSTORE 09637127
+
+Satisfaction with elements of business and marketing
+
+Quality of guidance
+
+39
+
+40
+
+3 m'
+
+37
+
+I eh 1 4'I
+
+15r
+
+11r'
+
+21
+
+20'.
+
+80% 5
+
+27/ 40%
+
+gg4 2IP
+
+59
+
+61.
+
+56
+
+5 6"
+
+4,
+
+2' v
+
+5'
+
+7
+
+11
+
+T/
+
+· g' I
+
+2g I
+
+2639
+
+32N,
+
+30 6
+
+33m 26 ' 111' 16'
+
+Top-2 box Botlonl.2 box
+
+Total Sn m g M di US
+
+l arge
+
+n=
+
+867 368 280 219
+
+T otal S mall Mid China
+
+205
+
+85
+
+61
+
+Lar g e 59
+
+T otal S mall Mid Lar g e Japan
+smalltis smasssr b ase b a s e
+
+Base Aware of busmess and marketing resources rttt 2. How satisfied are you with the business and markebng resources at developer apple corn/app-store on the toaowing Note Arrows denote compansons to small tier wahin each country
+
+· Don'I know · Vary disasgsked a Somevmat dimagsged gl Neimer · Somevmat satisged · Very satisged
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.110 APL-APPSTORE 09637128
+
+Satisfaction with elements of business and marketing
+
+Access to related resources
+37 '
+I csv
+22' 60%
+60'A 30'I'
+
+33
+
+Tcp-2 box
+
+I IP
+
+Botlonl.2 box
+
+48 fg
+
+20'A
+
+US
+
+Ciuna
+
+Japan
+
+667
+
+205
+
+135
+
+Base Aware of busmess and markebng resources Qt 12 I-low satiated are you with the business and markehng resources at developer apple corn/app-store on the tofiowing
+
+e Don'I know e Very dissatisfied % Somewhat dimatisfied ·1 ttetmer · Somevmat safisfmd · Very satisfied
+APPLE COIIFIBENTIAL 61
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.111 APL-APPSTORE 09637129
+
+Satisfaction with elements of business and marketing
+
+Access to related resources
+
+37% 39
+
+3 76
+
+36
+
+t~
+
+10% 9
+
+1M
+
+10 '
+
+20l
+
+80% 5
+
+77 55
+
+327 31M
+
+56'I
+
+61.
+
+8 '
+
+56
+
+11
+
+64
+
+55
+
+I 24'
+
+285
+
+48
+
+56 '
+
+11'
+
+!P
+
+5
+
+3256 3i-:.
+
+40%
+
+3 3% 10
+
+33 " 13
+
+Top-2 box Botlonl.2 box
+
+Total Sm a ll M di US
+
+l arge
+
+n=
+
+867 368 280 219
+
+T otal S mall Mid China
+
+205
+
+85
+
+61
+
+Lar g e 59
+
+T otal S mall Mid Lar g e Japan
+small tie small sar ossa b ase.
+
+Base Aware of busmess and marketing resources itt 1 2. How satisfied are you wdh the business and markebng resources at developer apple corn/app-store on the tonowing Note Arrows denote compansons to small tier wehin each country
+
+· Don'I know · Very diseseeked e Somevmat eimags6ert rl Neimer · Somevmat satisked · Very satis6ed
+APPLE CI7NFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.112 APL-APPSTORE 09637130
+
+Satisfaction with elements of business and marketing
+
+Helps improve my business
+
+30
+
+1st
+
+7'
+
+Ss
+
+80%
+
+60'A
+
+30
+
+Tcp-2 box
+
+Botlonl.2 box
+
+8",
+
+20'A
+
+US
+
+Ciuna
+
+Japan
+
+867
+
+205
+
+135
+
+Base Aware of busmess and markebng resources Qt 12 I-low satiated are you with the business and markehng resources at developer apple corn/app-store on the tofiowing
+
+e Don'I know e Very dissatisfied % Somewhat dimatisfied St ttetmer · Somevmat safisfmd · Very satisfied
+APPLE COIIFIDENTIAL 62
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.113 APL-APPSTORE 09637131
+
+Satisfaction with elements of business and marketing
+
+Helps improve my business
+
+30v 33
+
+29v
+
+28
+
+14% 14' I t or 14 '
+
+7' 7".
+
+aa .. 7
+/
+ti%
+
+0 4% 2'v 1
+g,
+
+4 1% 11 '
+
+471 10 v
+
+39%
+
+40%
+
+33%
+·
+
+3411
+
+30% 25
+
+10
+
+16
+
+49%
+
+Top-2 box Botlonl.2 box
+
+Total S m al l M id US
+
+l arge
+
+n=
+
+867 368 280 219
+
+T otal S m al l Mid China
+
+205
+
+85
+
+61
+
+Larg e 59
+
+T otal S m al l bad Lar g e
+Japan
+smalltie smasser ossa b ase.
+
+Base Aware of busmess and marketing resources QII 2. How satisfied are you with the business and markebng resources at developer apple corn/app-store on the tonowing Note Arrows denote compansons to small tier wahin each country
+
+· Don'I know · Vary disas9sksd e Somevmat aima9s6ert gt Neimer · Somevmat satisked · Very satis6ed
+APPLE CI7NFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.114 APL-APPSTORE 09637132
+
+App business and marketing resources interested in learning more about from Apple
+
+App Blare promotion App Store opbmizafion user aequi+Tine Engagement and retention launch strategies Pricingbnonetization shatsgres Business models Identifying user segments CompehTive benchmarking Intemabonalexpansion strategies Dbmr None of the these
+
+US Chi n e 4 an 45%
+
+50%
+
+ft3%
+
+30i
+
+30 4
+
+33% 23% 34%
+
+20% 33 4
+
+24%
+
+15' i
+
+23%
+
+10 %
+
+84
+
+10 20 30
+
+50
+
+Base Allrespondsnts Dll N 1 What app Ousrness and marketing resources are you interested m looming more about from Apple'> leered all that apply)
+
+APPLE CONFIDENT1AL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.115 APL-APPSTORE 09637133
+
+App business and marketing resources interested in learning more about from Apple
+
+App Blurs promotion App 8lore opbmizafion user acquid0on Engagement and retention launch strategies Pricinganonetization shatsgles Business models
+
+Total
+I
+
+461 40/ 36% 33/
+
+44" 388 34/ 33'/' 2 IPA
+
+tnd
+
+a
+
+Toa d
+
+50'/
+
+46"
+
+501
+
+361!
+
+49 ' 1
+
+37w 30%
+
+404 1 38'/ .
+
+22' / ' j 27'/ .
+
+26'/
+
+13tina
+
+Sma l l
+
+a rd
+
+2 77
+
+2$a
+
+Tota l 451a
+
+Japan
+
+Sma ll
+
+lad
+
+3 9%
+
+504
+
+wmmI 40'/ 32/ 4 3'1/ gilt
+
+32!
+
+25% 23%
+
+22/
+
+32%
+
+3 4% 3 1% 37% 354
+
+23% 29% 29 ' / 3I P / 31%
+
+Identifying user segments DompebTive benchmarking Intemabonalexpansion strategies Ddmr
+
+244
+
+22% 24% 27" 1 45% 421
+
+44 a
+
+292 24% 29'/
+
+39'/ 1
+
+19/
+
+27% 1 33% 27'4
+
+35%
+
+423 t 24'/
+
+16%
+
+26/ 1 38% t
+
+14 %
+
+137
+
+18%
+
+23%
+
+19 4
+
+28% 1 25%
+
+23% 1$'Y
+
+2 5% 33% 1
+
+1%
+
+0%
+
+1%
+
+I '/
+
+2Y
+
+2Y
+
+1'/
+
+1'/
+
+None of the these
+
+21% 20/
+
+13% 4 IYY
+
+12'4
+
+3'Y 4 6'Y
+
+gi d
+
+5o6
+
+42
+
+o60
+
+2
+
+18
+
+1o3
+
+500
+
+236
+
+153
+
+oo
+
+10 20 30 40
+Base AS respondents Dlt li I Wh at app business and markebng resources are you interested in teaming more about trom Appteo (select aa that apply) Nota. Arrows denote compansons to small tier wdhin each country
+
+APPLE C ONFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.116 APL-APPSTORE 09637134
+
+App Analytics
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.117 APL-APPSTORE 09637135
+
+Use of App Analytics on iTUnes Connect
+
+00%
+
+23'
+
+60'k
+
+16 S 321
+
+yos 20'A
+
+UB 1 003
+
+Ctuna
+
+Base All respondents D11 N 3 Has your company used App Analyses on 1Dunes Connect>
+
+25'
+665
+a Dont know · No · Ves
+APPLE COtJFIDENT1AL 65
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.118 APL-APPSTORE 09637136
+
+Use of App Analytics on iTUnes Connect
+
+tgtPS 7'
+
+7/,
+
+6'
+
+7/
+
+21
+
+16'/
+
+1899 191
+
+11
+
+9'
+
+ttP/, 8'/
+
+'/
+
+40% 731 42
+
+Small M id VS
+n= 1903 913 566 424
+
+yolal S m al l Mrd China
+588 273 182
+
+Base Allrespondents Dli l i 3 Has your companyusedAppAnalylics onrwunes Connect? Note. Arrows denote compansons to small tier wnhin each country
+
+00" 72
+
+S mall M d Larg e Japan
+500 236 159 105
+
+· Dont know · No · yes
+APPLE CO?lFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.119 APL-APPSTORE 09637137
+
+Satisfaction with App Analytics
+
+63
+
+15'u
+
+Isr
+
+12te 112
+
+60% 21m
+
+60 A
+
+42
+
+Top-2 box
+
+20
+
+Botlonl.2 box
+
+5"
+
+15 '
+
+31'4
+
+20'A
+US 1336
+Base Has usedApp AnalyticsoniTunes Connect Q114 How satistied are you with App Analyses?
+
+China 304
+
+Japan
+
+· Very dissatistied · Somewhat dimatisfied ·1 Heimer · Somewhat satisfied a Very satisfied
+APPLE COIJFIDENTtAL 66
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.120 APL-APPSTORE 09637138
+
+Satisfaction with App Analytics
+
+63 4 6 5 '
+
+6 54
+
+56
+
+tbtyw t oN 12 r t 164
+
+21 '
+
+55
+
+tl'
+
+gr
+
+2116
+
+195I 21M
+·
+
+61
+
+55"
+
+13
+
+6'i 1 161
+
+1644
+
+12'" 66
+
+304
+·
+
+29%
+
+40%
+
+491I, 5 0 '
+
+53
+
+44. Tcp- 2 bos
+
+srP 161 17 ' 3fr st Bot t o m-2 box
+
+15
+
+M 13
+
+304f 31 /
+
+Total Sm a ll M di US
+
+l arge
+
+n= 1333 594 413 331
+
+Total S m al l Mid Ctuna
+
+304
+
+116
+
+97
+
+91
+
+Base Has used App Analytics on iTunes Connect f7114 How satisfied are you with App Analylicsr Note Arrows denote compensons to small tier wnhin each country
+
+T otal S mall M d Jaime
+330 131 115
+
+Larg e 34
+
+· Very aissegsgea I Somevmat aissagsgea · Neither · So rltalrhat Bafislled · Vary satisfied
+APPLE COriFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.121 APL-APPSTORE 09637139
+
+Reasons not satisfied with App Analytics
+
+Oats not granular enough Lack of uninslafisrdeletions Oats is not real-time No way to look at user flow funnel dale Usage data is opt-in No way to look at data by unique user No API te capon dale Inabilily to cahulate LTV No wrbecllpbclls Irlelrws IAP metricsare nnt by SKU inner
+
+10 20 30
+
+50
+
+US Chi n a J an
+
+tgo
+
+I 6'4
+
+2iytl
+
+24'/
+
+trna I
+
+20
+
+bass
+
+c6
+
+Base Somewhat or very drssabsfred with App Analytics Q115 Why do you say you are not sabsfied with App Analftrcsv iselect afi that ecplyl
+
+APPLE i OflFIOENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.122 APL-APPSTORE 09637140
+
+Reasons not satisfied with App Analytics
+
+Oats not granular enough
+
+Ug
+
+Tee l
+
+Sme l l Sed
+
+Chins
+
+e
+
+Tor si
+
+Small
+
+Uid
+
+T ota l
+
+Smad
+
+slid
+
+Lack of uninslalls/deletions Oats is not reef-time No way to look at user flow funnel dale
+
+45te
+1RI- WW
+~I
+
+Usage data is opt-in
+
+41"
+
+No way to look at data by unique user
+
+44'
+
+42ss 4 4 s s I .445
+
+No API ta capon dale
+
+37 "
+
+255 4IPA 43 5 t
+
+Lggt=
+44 4
+
+Inabilily to cahulate LTV
+
+23 5
+
+17% 32'/ t 21%
+
+No mlbecnpbcne nlekns
+
+tgy
+
+I Rt s 24A 19 /
+
+IAP metrics are not by SKU
+
+16'/'
+
+IUIS 15'/
+
+18%
+
+inner
+
+245
+
+24S S 31". 1
+
+6'7
+
+s mul t n: a l . a I'l b ase bas e base
+
+Base Somewhat or very dlssabsf lac with App Analytics 0115. Why do you say you are not satisfied with App Analyhcsv (select an that apply) Note Arrows denote compansons to small tier wdhin each country
+
+19 26 Str
+
+Tlab base
+
+16aa
+
+trna I . clat
+
+66
+
+base b ase bas e
+
+APPLE C ONFIOENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.123 APL-APPSTORE 09637141
+
+Satisfaction with elements of App Analytics Very or somewhat satisfied
+
+user interface Qualay of dele Helps imprmre mybusinemdecisions Ahtiay to capon data at scale
+
+QS Chi n a J
+
+ass
+
+474 ' 474
+
+40e
+
+21%
+
+1338 304
+
+330
+
+10 20 30
+
+50
+
+Base Has used App Analytics on imunes Connect Dl 1 N 4 How would you rate App Analylics on the following>
+
+APPLE COflFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.124 APL-APPSTORE 09637142
+
+Satisfaction with elements of App Analytics Very or somewhat satisfied
+
+user interface Quality of dele Helps imprmre mybusinemdecisions
+
+Tmsl
+
+MB Bms a Md
+
+cmna
+
+s Tar s i emsg
+
+Mid
+
+mwimmI
+
+Ahimy to capon data at scale
+
+35/
+
+378
+
+3514
+
+31 4
+
+1338 594
+
+413
+
+331,
+
+304
+
+116
+
+97
+
+tmgs
+
+Toe d
+
+Japall Sm a l l Mid
+
+Lsigs
+
+45,' ~
+
+42 4 39/
+
+47t ~
+
+50"
+
+37"
+
+4 6 4 449
+
+4 64
+
+48T
+
+21% 22' I
+
+1 78 23 ,4
+
+91
+
+33 0
+
+131
+
+115
+
+84
+
+Base Has used App Analytics on iTunes Connect Dlt N 4 Howwould yourateAppAnalybcs on thefogowingc Note. Arrows denote compansons to small tier wdhin each country
+
+10 20 30
+
+50
+
+APPLE COflFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.125 APL-APPSTORE 09637143
+
+Satisfaction with elements of App Analytics
+
+User interface
+
+53. I Prr
+
+45
+
+Tcp-2 box
+
+Botlonl.s box
+
+74
+
+55
+
+12'r
+
+15"
+
+60%
+
+216
+
+60S
+
+32S
+
+20S
+
+US 1338
+
+Brune 304
+
+Base Has used App Analytics on ITunes Connect Dl I N 4 How would you rate App Analylics on the followingc
+
+Japan
+
+e Don'1 know e Very dissatisfied % Somewhat dimatisfied ·1 Banner · Somenhat sabsfmd · Very satisaed
+APPLE COtlFIDENTIAL 63
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.126 APL-APPSTORE 09637144
+
+Satisfaction with elements of App Analytics
+
+User interface
+
+59% 5 9 .
+
+ser
+
+56
+
+17% 16
+
+1'P
+
+17 '
+
+5 12tr 12M 12'I
+
+21'4 21M 22'4
+
+62,
+
+7 0.
+
+60
+
+55"
+
+ttr
+
+ss
+
+9'
+
+r 3'lo
+
+4 7 r
+
+1 06'7
+
+32 47
+
+40%
+
+Total S n m g M id US
+
+l arg e
+
+n= 1338 594 413 331
+
+Total S m al l Mid China
+
+304
+
+116
+
+97
+
+91
+
+Base. Has used App Analytics on iTunes Connect Dll N 4 Howwould youreteAppAnelybcs on theforlowrngs Note. Arrows denote comp*nanna to small tier wehin each country
+
+45" 52 ' 42
+
+srp
+
+15'
+
+*'
+
+5"
+
+1 5'Jr 1 1 2 4 18
+
+3 9'
+
+Top- 2b o s
+
+24 1 Bot t orri-2 bos
+
+2M
+
+3ea
+
+Total S m al l Md Jatmn
+330 131 115
+
+Larg e 84
+
+· Don'1 know · Very drseeaslled e Somevmat aima0s6ert rl Neimer · Somevmat satisbed · Very satis6ed
+APPLE COliFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.127 APL-APPSTORE 09637145
+
+Satisfaction with elements of App Analytics
+
+Quality of data
+57. 17 4"
+606
+60'A
+
+ss.
+14r 3tk
+1144
+
+47
+
+Tcp-2 box
+
+16 '
+
+Botlolrl.2 box
+
+5 '
+
+124
+
+306
+
+20'A
+
+US 1335
+
+China 304
+
+Base Has used App Analytics on iTunes Connect Dl 1 N 4 How would you rate App Analylics on the following c
+
+a Don'i know a Very dissatisfied % Somewhat dimatisfied ·1 Nefiner · SommXhat safisfmd · Very satisfied
+APPLE COtJFIDENTIAL eg
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.128 APL-APPSTORE 09637146
+
+Satisfaction with elements of App Analytics
+
+Quality of data
+
+57 v 60'
+
+5 4v
+
+54
+
+1 7% 14 ml 20r
+
+21 '
+
+4'
+
+6'
+
+1344t
+
+21"
+
+55 .
+
+6 5% 5 5
+
+53m
+
+14 i
+
+94
+
+131
+
+22 v
+
+3
+
+11 ".
+
+101
+
+19
+
+25
+
+27/
+
+312
+
+25
+
+40%
+
+T otal S n m g M i d l arg e US
+n= 1338 594 413 331
+
+Total S m all Mrd China
+
+304
+
+116
+
+97
+
+91
+
+Base. Has used App Analytics on iTunes Connect Dll N 4 Howwould youreteAppAnelybcs on thefollowingv Note. Arrows denote comp*nanna to small tier wehin each country
+
+47% 51
+
+16
+
+tv
+
+5'
+
+5
+
+5ip 371 17W 25N
+
+Top- 2 box Botto r s-2 bos
+
+13eb 15 '
+
+29 · 3~ 4
+
+Total S mall bgi d Jatmn
+330 131 115
+
+L ar g e 84
+
+· Don'1 know
+· Very drseeaslled
+a Somevmat aima5sbert tl Neimer · Somevmat satisbed · Very satiseed
+
+APPLE COliFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.129 APL-APPSTORE 09637147
+
+Satisfaction with elements of App Analytics
+
+Helps improve my business decisions
+
+47
+
+4m
+
+144r
+
+13r
+
+7X
+
+4'5
+
+9'!
+
+60%
+
+60'4
+
+46 16' 5" 3 7"
+104S
+
+Top-2 box Botlonl.2 box
+
+20'4
+
+US 1338
+
+Brune 304
+
+Base Has used App Analytics on iTunes Connect Dl I N 4 How would you rate App Analylics on the following c
+
+Japan
+
+tS Don'i know tS Very dissatisfied tS Somewhat dimatisfied ·1 Nefiner · Somenhat sasffimd · Very satisfied
+APPLE CotlFIDENTIAL 70
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.130 APL-APPSTORE 09637148
+
+Satisfaction with elements of App Analytics
+
+Helps improve my business decisions
+
+47% 48
+
+4 PI'
+
+47
+
+14% 1 0v t 1'P
+
+18 '
+
+7'
+
+4'
+
+7
+
+51
+
+48"
+
+13'
+
+94
+
+11'
+
+19 l'o
+
+I
+
+3
+
+5'
+
+gjl
+
+7/
+
+I I
+
+32S 60%
+
+32;6 3118
+
+316
+
+40%
+
+T otal S ma g M di US
+
+l arg e
+
+n= 1338 594 413 331
+
+Total S m all Mid China
+
+304
+
+116
+
+97
+
+91
+
+Base. Has used App Analytics on iTunes Connect Dli N 4 Howwould yourateAppAnelybcs on thefollowings Note. Arrows denote comp*nanna to small tier wehin each country
+
+46w 44 ' 46 '
+
+16
+
+114v
+
+:Atm
+
+48' Top -2 box 25m B o t tors-2 bos
+
+10
+
+10'6
+
+14
+
+371s
+I
+
+T otal S mall Md Jatmn
+330 131 115
+
+Larg e 84
+
+· Don'1 know · Very drseegslled e Somevmat aimagsgert gl Neimer · Somevmat satisged · Very satisged
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.131 APL-APPSTORE 09637149
+
+Satisfaction with elements of App Analytics
+
+Ability to export data at scale
+
+35'
+
+52I
+
+11N
+
+Isr
+
+4"
+
+60%
+31'0 60'A
+30'I'
+
+20'A
+
+US 1338
+
+Brune 304
+
+Base Has used App Analytics on iTunes Connect Dl I N 4 How would you rate App Analylics on the following c
+
+21
+
+Tcp-2 box
+
+13
+
+Botlonl.2 box
+
+16"
+
+52
+
+516 Japan
+
+tB Don'1 know tB Very dissatisfied tB Somewhat dimatisfied Bi Nefiner · Somevhat sasffimd · Very satisfied
+APPLE COtlFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.132 APL-APPSTORE 09637150
+
+Satisfaction with elements of App Analytics
+Ability to export data at scale
+
+Ability to export data at scale
+
+35 v 3 7
+
+s sr
+
+31
+
+t tape
+
+9
+
+11
+
+16'
+
+24
+
+26 · 231
+
+52r
+
+574 47
+
+13
+
+11
+
+9
+
+52 '
+191v 4"
+
+75
+
+I
+
+g,
+
+1659
+
+79
+
+55
+
+3119
+
+41'7 25'5
+
+2 1"
+
+22
+
+Isw 7
+
+16'
+
+17 ' 231 Top - 2 bos 13 ' 21 1 1 Botl o re.2 bos
+17
+
+1059
+
+29'l 31 31
+40M
+
+Total S n ra8 Mid US
+
+l arg e
+
+n= 1338 594 413 331
+
+Total S m al l Mid China
+
+304
+
+116
+
+97
+
+91
+
+Base. Has used App Analytics on iTunes Connect Dll N 4 Howwould yourateAppAnelybcs on theforlowrngv Note. Arrows denote comp*nanna to small tier wehin each country
+
+T otal S mall Md Japan
+330 131 115
+
+Larg e 84
+
+· Don'I know · Vary drsee3sbed e Someveat aima2s2ert rl Neimer · Somewhat satis3ed · Very satis3ed
+APPLE COIIFIDENTIAL 2
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.133 APL-APPSTORE 09637151
+
+Requested features for App Analytics
+
+App Store march keywonl insights Demographic data for app users Faster amass to data (less Ihan 24 hours) Benchnmks agairmt similar apps
+
+UB Ch i n a J sn
+I
+
+46'/ [~
+
+d9V
+
+I~
+
+43'/
+
+4511
+
+48e
+
+Olngfrcsko dain
+
+42%
+
+X P4
+
+36%
+
+Custom in-app events
+
+4 9% 46e
+
+28%
+
+Organic app refewer daleas asoume
+
+API accessfoAppAnalysesdale
+
+31%
+
+4 4"
+
+33 I
+
+More detailed informagon on in-app purchase (IAP) behavior
+
+More opkorw for niter campaigns. such as ad network, sile IDand creative variations 19'/
+
+3 9% 22%
+
+More parameters in campaign links
+
+1 5' /
+
+35% 'I2%
+
+Omar
+
+6'/
+
+I /
+
+4'/
+
+Oon't know
+
+11 /
+
+3%
+
+6'4
+
+333 384
+
+330
+
+i b 28 38
+
+59
+
+Base Has used App Analytics on rmunes Connect Dl I N 5: What features would ycu like to see in App Analyncsv (select aa that apply)
+
+APPLE CONFIDENTIAL 72
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.134 APL-APPSTORE 09637152
+
+Requested features for App Analytics
+
+App Store march keywont insights
+
+US
+
+China
+
+Torsi sma l l Wid
+
+Total Smab
+
+slid
+
+Demographic data for app users Faster accem to data peas than 24 hours} Benchnmks agairmtsimilar apps
+Olsgltosho data
+
+' aeka
+
+43 '
+
+3!BI
+
+42'i'
+
+41 .
+
+4br
+
+mmmm · RRM ' TL497a~ I
+'RR 43"
+
+49% 46A
+
+40'/
+
+45%
+
+33 %
+
+36%
+
+30'/
+
+32'i
+
+36'A 3I %
+
+Custom in-app events
+
+40%
+
+Organic app refewer dale as a soume 37 i'
+
+API accesstoApp Analybcsdale
+
+31/
+
+More detailed mformabon on in-app purchase (IAP) behavior
+
+2'PA
+
+M ore opbonfsorhbercampaigns,such as ad netwodr, site ID and creative
+
+I 9%
+
+More parameters in campaign links
+
+15'i'
+
+Omar Oon't know
+
+11%
+
+31'y, 45 ' t 5 0 / t 46%
+
+33'/
+
+36/
+
+44% t 39b
+
+29%
+
+32'/
+
+36 4 t
+
+25V
+
+2 P/
+
+31 ,
+
+34%
+
+19'/
+
+16% 21'/
+
+M%
+
+15% 15'/
+
+15%
+
+35%
+
+7%
+
+5/
+
+1%
+
+127
+
+124
+
+9%
+
+431 4 31%
+30'A 22'/ 29% I '/
+
+4 5'i
+
+50' ",
+
+44" f 44'/
+
+284 2 1' / 46'll ' 41%
+
+3 3'/ 2 1/
+
+399/ 3 4% 27% 21%
+
+30% 41% 1 2 2% 197
+
+33"
+
+43b t 12'/.
+
+6'/
+
+4%
+
+5'/
+
+6%
+
+6%
+
+33% t 3 2' !
+
+4~) ,' 40% 1 44 ' t
+
+2IPA
+
+35'i
+
+21%
+
+32'i ' t
+
+1 0' /
+
+25V
+
+4%
+
+1'/
+
+331
+
+304
+
+I 6
+
+9
+
+91
+
+'30
+
+131
+
+rl5
+
+3
+
+Base: Has used App Analyses on rTunas Connect Dll N 5. What features would you bke to sea m App Analybcsv (select an that applyl Note. Arrows denote compansons to small tier wdhln each country
+
+10 20 30 40 50
+
+APPLE COIJFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.135 APL-APPSTORE 09637153
+
+Third-party analytics tools or services Use
+
+lrvepp analydrn sennces Push no9ficaaon senrices user acquiddon analylics tools user feedbacksendces In-app moneszalton services App Bfore optimizabon services
+Dont know We dcn'I use cunt-party analyticstools or services
+
+UB Chi n a Ja 2IPA
+
+227o 27% 167o 337
+
+24 4 22 4
+
+1 6' /
+
+25'/
+
+7 18
+
+6%
+
+Pa
+
+9%
+
+5sc 17'I
+
+67
+
+7rd 3%
+
+4'4,
+
+10/
+
+I 2% 20 /
+
+35'4
+
+21'4
+
+29%
+
+1903 588
+
+500
+
+10 20 30 40
+Base Allrespcndsnts DI I N 7 Which third-pady ahalyhcs tools or services does your company uses (samer ail Ihst apolyl
+
+APPLE CONFIDENTIAL 73
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.136 APL-APPSTORE 09637154
+
+Third-party analytics tools or services Use
+
+Ill-Bpp Bile))rbiw sofwcos
+
+Tord 36"
+
+U8 amst fed
+
+26%
+
+38tl t
+
+Chins
+
+s
+
+Ta rsi
+
+Small
+
+Mid
+
+33% 25% 31'/
+
+Total 2$%
+
+JBPBII
+
+ar not SM
+
+a
+
+20% 298 7 4T/ 7
+
+Push noBfication sendces
+
+15% 22% 1 34 / t 27%
+
+24%
+
+28.4
+
+31'lb 2 44 16/
+
+21%
+
+45% t
+
+Usaf BO9ulsTlkln Bfiat/ltcs tools user feedbackservices In-app moneBzalion services
+
+IIP/
+
+1 27
+
+I T A t 22 i t 33'i 2 8%
+
+35%
+
+40'i t 228 1 3'/ o 23% t 4 2% t
+
+16' i
+
+11'/
+
+16'/ t 25'y t 25%
+
+21' / 28' / 27%
+
+T/
+
+4%
+
+$%
+
+12% t
+
+Th
+
+6%
+
+6%
+
+10% 9%
+
+6'/
+
+10'/
+
+15% t
+
+App Blurs opbmization servrces
+
+5%
+
+3'/
+
+T/ 1 By t 17%
+
+14%
+
+17%
+
+23%
+
+6'/
+
+4%
+
+6%
+
+11'/
+
+Inner
+
+TA
+
+54
+
+9% t 7i
+
+3%
+
+34
+
+3%
+
+Don't know
+
+I ivy 12% 8'/ 4 9'/
+
+12% 14%
+
+9'7
+
+Wo don'I Uso Bdfd-party Blialytlos tools of 35"
+
+46'i
+
+32'5 1 17%
+
+21% 26%
+
+217
+
+2'/
+
+4%
+
+4%
+
+5%
+
+44
+
+12%
+
+MP /
+
+10%
+
+12% 2 9% 36% 28% 147 1
+
+1 90 3
+
+913
+
+566
+
+424
+
+588
+
+273
+
+182
+
+133
+
+500
+
+23 6
+
+159
+
+105
+
+10 20
+Base All respondents Dl 1 ll 7 Which ihird-party analytics tools or services does your company uset (select all that apply) Note. Arrows denote compansons Io small tier wdhin each counby
+
+30 40 50
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.137 APL-APPSTORE 09637155
+
+Other tools and resources
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.138 APL-APPSTORE 09637156
+
+Other tools would like the App Store to provide to help with app business and marketing
+
+More and betteranalybcs-dale (e.g.demographics. usertracking) Improvements to discoverabilily,seamh and keywords Noming, don't know Changes lo featumd apps/Help lo be featured More opkons for teskng and TestRight Improvementstopublishisng, deployment andmviewing pnxass Mora opbons forads OpportuniTies for small developers Improvements to customer service No response provldrnl
+
+U S Chi n a Ja a n
+
+5%
+
+5/
+
+4'/
+
+9'/
+
+4'7
+
+3'/
+
+2%
+
+I %%d
+
+2T
+
+\/
+
+I %%d 0 ' 4
+
+1803
+
+588
+
+NA
+
+10 20 30 Base Allrespon58lfiy
+
+D28 What other tools would you ilke the App Store to provme to help your company with app business and marketmgc
+
+Note Respondents' comments to open ended quesuons were manually coded into categones Some of these categones are predetermined, others are added as new
+
+themes receive a sumcmnt number oi mentions. lhe percentages reported are calculated based on the number of mentions
+
+APPLE COI'IFIDENTIAL 75
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.139 APL-APPSTORE 09637157
+
+Use TestFlight
+
+135"
+
+60%
+
+30'
+
+60'A
+
+67s'
+51ts 20'A
+
+US 1 003
+
+Stuns
+
+Base Au respondents Qt16 Does your company use TestFSgnt lo beta test rDS eppes
+
+56
+42',
+53s a Dont know · No · Ves
+APPLE CONFIDENTIAL 76
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.140 APL-APPSTORE 09637158
+
+Use TestFlight
+
+48
+
+80
+
+311
+
+5
+
+6 4 48
+
+29
+
+42'
+
+40
+
+40% 67
+
+80'
+
+66
+
+58'l9
+
+11i
+
+,
+
+1"
+
+Total Sm a ll M di US
+
+l arge
+
+n= 1903 913 566 424
+
+Total S m al l Mid China
+588 273 182
+
+Base AS respondents
+0116: Does your company use TestFlight lo beta test iOSappar
+Note Arrows denote compansons to small tier wahin each country
+
+56 18
+
+T otal S mall M d Japan
+500 236 159
+
+Larg e 105
+
+· Dont Lmow · No · res
+APPLE COrlFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.141 APL-APPSTORE 09637159
+
+Reasons for not using TestFlight
+
+I use another service I didn't know about it Itn not cross-plafform Test group size limilasons thher Don't know
+
+08 2IPS
+
+Chi n a 4 an
+
+28'/
+
+1$ Y
+
+14 4 28% 245S
+
+14' /
+
+12% 145S
+
+8'/
+
+21 /
+
+15 /
+
+2t'/
+
+12'/
+
+tSY
+
+565
+
+217
+
+212
+
+10 20 30
+
+50
+
+Base Does not use TestFlrght to beta test iDS epps Qtt7 Why doesns your company use Testplrghtc Iselect ad that applyl
+
+APPLE COIIFIDEIITIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.142 APL-APPSTORE 09637160
+
+Reasons for not using TestFlight
+
+I use another service I didn't know about it Itu not cross-plafform Test group size limilasons tkher Don't know
+
+Tors i
+
+Sma ll
+
+M id
+
+China
+
+depart
+
+Toad Smaa
+
+Snd
+
+e
+
+Tota l
+
+Sma a
+
+M id
+
+a
+
+2IPA I T/
+
+22% 26'/
+
+28'/
+
+23'A 25'A
+
+I IYIS 146 4
+
+?4 %
+
+1T A
+
+9% 4 111(
+
+28%
+
+381(
+
+19 m 1
+
+14?S 12 6
+
+I TY
+
+I TA
+
+12Y
+
+9'/'
+
+15'/
+
+247 14%
+
+2 3A t t ?S
+
+29% 24'/ 't
+
+5%
+
+?4/
+
+21% 20'/
+
+2T A
+
+33'/ 29%
+
+38' /1 34 /
+
+7%
+
+64
+
+5?S
+
+?5?S ?1% 14%
+
+25'7 24 /
+
+?9%
+
+21aA
+
+22'/
+
+19'/ ' 21'/
+
+? 2Y
+
+11'4
+
+13'A
+
+? 6% 19a A
+
+smas
+
+siriall
+
+565
+
+322
+
+173
+
+70
+
+217
+
+111
+
+67
+
+base 212
+
+12 6
+
+63
+
+base
+
+Base Does not use TestFlight to beta test iDB apps 0117 V/hy doesn't your company uae TestFlight? (select all that apply) Note. Arrows denote compansons to small tier wdhin each country
+
+10 20 30
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.143 APL-APPSTORE 09637163
+
+Other services used to beta test iOS apps
+
+Hocks'7 An in-house servikw Crashlylics Fahnc Diawi Testpwry
+Don't know
+
+US Chi ne J
+
+2 4' / ?3 7 8'! 13' / 6'/ 11 0
+
+5'/ t PA tPA 17'/ 17% 60
+
+small
+
+10 20 30
+
+50
+
+Base Does not use TestFlight, mstead another service, to Octa test iOS apps Q118 What other services does your company use to Octa test iOS apps? l select an that apply)
+
+APPLE COrlFIDENTIAL 78
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.144 APL-APPSTORE 09637162
+
+Other services used to beta test iOS apps
+
+Hocke'y An in-houseservime Crashlylics Fabnc Diawi Tswpwry
+Don't know
+
+Tota l
+
+Sma l
+
+Mid
+
+la
+
+Toad Sm s a Md
+
+la e
+
+Tma l
+
+Japan
+
+Smaa
+
+Mid
+
+tm e
+
+23 4
+
+30'/
+
+24'/
+
+20%
+
+tSSS 7%
+
+8'/
+
+44
+
+13'/
+
+t yy
+
+s mall sm a ll
+
+11 0
+
+54
+
+b ase bas e 0
+
+s mall sm a l l smal l smaa s mall sm a l l sma l l base ba se base base base ba s e base
+
+ib 20 30
+Base Does not use TeslFlight, mstead anolher service, to beta test iQS apps 0113 What other services does your company use to beta test iDS appsv lselect an that appfyt Note. Arrows denote compansons to small tier wdhin each country
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.145 APL-APPSTORE 09637163
+
+Frequency of using non-Apple developer support resources
+
+Every 6me we have a question Only a9erwe' vereviewed Apple documentakon and forums We do notuse any non-Appledevelopersupped resnunms Oon't know
+
+US China Ja
+
+17% 20%
+
+6%
+
+1 2% 13A
+
+9%
+
+192
+
+12%
+
+190 3
+
+588
+
+500
+
+1 0 20 30 eo
+Base AS respondents Q119: How often does your company use non-Apple developer support resources> (select all that applyf
+
+APPLE corJFIDEhirlAL rg
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.146 APL-APPSTORE 09637164
+
+Frequency of using non-Apple developer support resources
+
+Tms l qn Only agerwe'vereviewed Apple documentation and forums We do notuse any non-Appledeveloper suppon Iesounma Oon't know
+1 90 3
+
+UB
+
+Bm as
+
+tlag Large
+
+Tmsl
+
+17ts
+
+9/
+
+44 4 3 4 4 12%
+
+8/
+
+WY
+
+84
+
+194
+
+913
+
+566
+
+424
+
+586
+
+Chins
+
+Bmsa
+
+Mid
+
+1918 13'/
+
+t 2% 12/
+
+1 9e
+
+2 14
+
+273
+
+182
+
+Japrm
+
+tmgs
+
+Total Sma l l MM
+
+20 ts
+
+20'/.
+
+18 7
+
+20'/
+
+247
+
+14'/
+
+134
+
+13'/o
+
+t1%d t 4'%
+
+17'll
+
+t y %%d 16'/
+
+2tp%%d 14/
+
+133
+
+500
+
+236
+
+159
+
+105
+
+i O 20
+Base All respondents 0119 How often does your company use non-Apple developer support resources> (select all that apply) Note. Arrows denote compensons to small tier wdhin each country
+
+30 40 50
+
+APPLE C ONFIOENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.147 APL-APPSTORE 09637165
+
+Reasons for using non-Apple developer support resources
+
+I camt nnd what IneedImm Apple Non-Apple developer resources are nader Apple does not oner the contact method I prefer Norvdpple resources are localtzed thher Oon't know
+
+U B Chl r m Je e n
+
++43ts
+
+49"
+
+9'/
+
+I pt t
+
+15'/
+
+21 3
+
+97
+
+11v
+
+97
+
+17'/
+
+20'/ .
+
+1790
+
+516
+
+437
+
+10 20 30 40
+
+t
+
+Base Respondentswho use non-Apple developer supportresources Qt 20: What is the man reason your company uses non-Appte deveioper support resources> Iseiect all that apply)
+
+APPLE CONFIDENTIAL 30
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.148 APL-APPSTORE 09637166
+
+Reasons for using non-Apple developer support resources
+
+Tese
+
+I can't Snd what I needImm Apple
+
+Non-Apple developer resourcesSIB tmSer
+Apple does nol oSer the contact method I prefer
+
+~II
+9'/
+
+US
+
+Smell Iad
+
+e
+
+II, .I
+7'%%u 1IP/ 10'/
+
+Noivkppla resources Bla locahzed
+
+4k
+
+5%
+
+4k
+
+3%
+
+Oon't know
+
+21 k
+
+21'/o 23'/
+
+19 /
+
+9'/
+
+?0%
+
+1IP/ .
+
+8/
+
+I 790
+
+835
+
+544
+
+411
+
+dhlna
+
+To rsi
+
+Smell
+
+Mid
+
+Japan Tous a ma c Sne
+
+49 " . 499
+
+4IP/
+
+501!
+
+32SI 33%
+
+34%
+
+29'/
+
+29 k
+
+314
+
+26%
+
+2IPk
+
+19% 1 5% 2 3'/ 1 20% 1 5'/ 19Y 21'/ 7 12%u
+
+2 9% 30%
+
+24k
+
+32% 24 k 24'/
+
+25% 24%
+
+5%
+
+5%
+
+4'Y
+
+9%
+
+1 1 4 12'/
+
+1l k
+
+It k
+
+17' /
+
+18'/
+
+176/
+
+?6%
+
+20'/.
+
+19%
+
+18'/
+
+24%
+
+516
+
+241
+
+160
+
+115
+
+437
+
+206
+
+141
+
+90
+
+10 20 30 40 50
+Base Respondentswho use non-Appledeveloper supportresources 0120. What m the mam reason your company uses non-Apple developer support resources? tselect all that apply) Note Arrows denote compansons to small tier wnhin each country
+
+APPLE COIIFIDENTIAL 2
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.149 APL-APPSTORE 09637167
+
+Reasons for using non-Apple developer support resources
+
+US
+
+Tese Smell Iad
+
+e
+
+I can't Snd what I needImm Apple
+
+Non-Apple developer resourcesSIB tmSer
+
+~ II
+
+II, '.I
+
+Apple does nol oSer the contact method I prefer
+
+9'/
+
+7'/
+
+10'/
+
+10'/
+
+Non Apple resources Bla locahzed
+
+Oon't know
+
+214
+
+21'/o 234
+
+19 /
+
+9'/
+
+t t yr s 1IP/ .
+
+8/
+
+I 790
+
+835
+
+544
+
+411
+
+dhlna
+
+To rsi
+
+Smell
+
+Mid
+
+325I 33%
+
+34'/
+
+? 955 15% 23'/
+
+29 / 5?5
+
+3IYY o 244
+
+5'5
+
+4'Y
+
+?T /
+
+18'/
+
+17'/
+
+516
+
+241
+
+160
+
+Japan Tous a ma c Sne
+
+49 " . 499
+
+4IP/
+
+50'/
+
+29'/
+
+295
+
+314
+
+20Yo
+
+297
+
+20% 15'/
+
+19Y 21'/
+
+I PY
+
+32N 24 4 24'/
+
+29% 24'4
+
+9'4
+
+114
+
+12/
+
+114
+
+It /
+
+?SSS
+
+20 /
+
+194
+
+184
+
+24Y
+
+115
+
+437
+
+206
+
+141
+
+90
+
+10 20 30 40 50
+Base Respondentswho use non-Appledeveloper supportresources 0120. What m the mam reason your company uses non-Apple developer support resources? tselect all that apply) Note Arrows denote compansons to small tier wnhin each country
+
+APPLE COIIFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.150 APL-APPSTORE 09637168
+
+Best way for Apple to inform about updates to developer tools
+
+Email Massagingon the ITunes Conned home page
+
+U S Chin a
+
+2 6' /
+
+29'/ '
+
+2755
+
+Addnotes conlextuagywithin the iTunes Connect Ufwhere the new features exist 254
+
+1 8M
+
+22 15
+
+Push nolÃcason from iTunes Connectfor iOS
+
+23'/
+
+35'/
+
+EPA
+
+Postnews updates on developer.apple.corn
+
+22% 23/
+
+14'/
+
+SMS Cmer
+
+67
+
+17 4
+
+6/
+
+31 5
+
+0'7
+
+S ts
+
+Oon't know
+
+1903 588
+
+500
+
+10 20 30
+Base All respondents Q121 How can Apple best inform your company of updates to developer tools like i Tunes Connect and TestFlrght> l select ss Inst apply)
+
+APPLE COlJFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.151 APL-APPSTORE 09637169
+
+Best way for Apple to inform about updates to developer tools
+
+US
+
+Tea l
+
+Smsf
+
+Md l a a Te al
+
+China
+
+l ar a
+
+Tri a l
+
+Japall Small Sm
+
+Email
+
+Massagingon the ITunes Conned home 2 67 23% page Add noise conlexlua0y within lhe iTunes Connect Ul where me new features exist 2 5% 24'/
+
+28'i 318 t 29 ' / 24%
+
+24k 27 /
+
+18'r
+
+15k
+
+I 328 '4' T 2~/
+( 9%
+
+2gk
+
+29/
+
+35%
+
+19'4
+
+22%
+
+28%
+
+Push nodficadon from r runes Connect for iDS
+
+237
+
+23% 21'/
+
+25% 35% 33% 38"
+
+37%
+
+Post news updates on developer. apple.corn
+
+22% 22'i
+
+24 /
+
+23% 22% 18/
+
+32% t 14% 1 5% t1k
+
+17%
+
+SMS
+
+17% 18/
+
+14'I
+
+7/
+
+47
+
+Bk
+
+tuner
+
+3%
+
+2%
+
+4%
+
+5' /
+
+Don't know
+
+9%
+
+7%%d 5% 4
+
+6'/
+
+7%
+
+4k
+
+1 90 3
+
+913
+
+566
+
+424
+
+588
+
+273
+
+182
+
+133
+
+500
+
+236
+
+159
+
+105
+
+10 20 Sg 40 50
+Base Af respondents 0121 How can Apple best inform your company of updates to developer tools She iTunes Connect and TestFlighP (select ad that apply) Note Arrows denote compansons to small tier wahin each country
+
+APPLE COf(FIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.152 APL-APPSTORE 09637170
+
+r· e
+
+· e
+
+·
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.153 APL-APPSTORE 09637171
+
+Does majorityof company's Apple app business come from customers in local country
+
+Base An respondents Ef Does the malonty of your company's Apple app business come from customers m your local countryr
+
+a Dont snore · No · yhs
+APPLE CONFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.154 APL-APPSTORE 09637172
+
+Does majorityof company's Apple app business come from customers in local country
+
+14'
+
+16'
+
+8'i'
+
+10
+
+11
+
+16 r
+
+16'
+
+40% 79
+
+80'
+
+87
+
+4
+
+81
+
+73'
+
+61 te
+
+T otal S mall M id US
+
+l arg e
+
+n= 1903 913 566 424
+
+T otal S mall Mid China
+588 273 182
+
+Lar g e 133
+
+Total S mall M d Jaime
+500 236 159
+
+Lar g e 105
+
+Base AS respondents El Does the maionty of your company's Apple app business comefrom customers m your localcountryc Note Arrows denotecompansons to small tier wahin each country
+
+· Dont Lmow · No · res
+APPLE COflFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.155 APL-APPSTORE 09637173
+
+Has company expanded Apple app business internationally
+
+Base All respondents E2: Has your company expaneee tts Apple app Oustness tnlematronatlyo
+
+Japan
+
+a Oont snore · No · yns
+APPLE CONFIDENTIAL BS
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.156 APL-APPSTORE 09637174
+
+Has company expanded Apple app business internationally
+
+10tya
+
+8/,
+
+5'/ 4 5/
+
+8'/
+
+39' 49
+70
+
+40%
+
+52'
+
+56"
+
+23
+
+Total S m al l M id US
+
+l arge
+
+n= 1903 913 566 424
+
+Total S m al l Mid China
+588 273 182
+
+Base Allrespondents E2: Hesyour company expanded itsApple app business intemahonenyc Note. Arrows denote compansons to ema6 tier wdhin each country
+
+6/.
+
+59.
+
+52'
+
+M,
+
+52
+
+Total S m al l Md Japan
+500 236 159
+
+Larg e 105
+
+· Cont Lmow · No · res
+APPLE C17NFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.157 APL-APPSTORE 09637175
+
+Resources use to determine which international markets to enter
+
+GuldarioQhoni Bpp platlonlls (nat) Apple
+
+US Ch i n e 4 an
+
+3t%
+
+· '
+
+Google Play Amazon
+
+12% 37 4
+
+27%
+
+Inlernahonal sales reports
+
+3/
+
+8/
+
+4/
+
+Thint-path/ IBSQBIoh IQpottS Slid Seiwoas Laker Oon't know
+
+20'/
+
+34'I
+
+17%
+
+21%
+
+34
+
+7/
+
+21P/ 12% 24%
+
+985
+
+179
+
+259
+
+10 20 30
+
+50
+
+Base Has expanded Apple app business nitrenationally
+E2: Has your company expanded its Apple app business inlemationasyt
+
+APPLE COItFIDENTtAL 85
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.158 APL-APPSTORE 09637176
+
+Resources use to determine which international markets to enter
+
+Guidance from app platforms (nat) Apple
+
+Tate 31" 28 /
+
+VB
+
+Srnaf
+
+rad
+
+34'3
+
+29'/
+
+3 1'i
+
+26'4
+
+a 30% 27 /
+
+Te r ai
+
+Chtna
+
+Small
+
+Mid
+
+Toad ama a Sne
+
+a
+
+Google Play Amazon
+
+12/
+
+137
+
+5'/
+
+7'/
+
+9Yo
+
+14%
+
+37 5
+
+4'/
+
+224
+
+36,'
+
+' . 1 2 74 1I P / 27%
+
+5'/
+
+4'/
+
+5V
+
+44" t 8' /
+
+34
+
+34
+
+we
+
+24
+
+6 'l t
+
+8'5
+
+3/
+
+7%
+
+47o
+
+3/
+
+459
+
+54
+
+Inlernaaonal sales reports
+
+22' /
+
+17% 22'/
+
+30'Y 1 2 7% 30' / 24' / 2fP A 2 5'i 23 4
+
+Thief-path/ research fepoas arid satanas 20'/'
+
+twh
+
+194 26'/ t 34'/
+
+25'/
+
+·
+
+~
+
+33"
+
+43'a 1 1 7'/
+
+11 /
+
+S~
+
+Laker
+
+2 1 4 20'/o 21i
+
+22 i
+
+359
+
+54
+
+19'4 13'4 759
+
+37'/ t 36'i ' t 5' %
+
+Oon't know
+
+289
+
+3fytc 29'/
+
+25% f298 16' /
+
+12'/ '
+
+9 ts
+
+2414 3ta k 2 PL
+
+139
+
+98 5
+
+88
+
+3
+
+Base Has expanded Apple app business internationally E2: Hasyour company expanded itaApple app business intemahonasya
+Note. Arrows denotecornpansons tosmalltier w shin each country
+
+281
+
+1 9
+
+83
+
+58
+
+58
+
+859
+
+114
+
+83
+
+o2
+
+10 20 30 40 50
+
+APPLE C ONFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.159 APL-APPSTORE 09637177
+
+Services Use to market internationally
+
+Local user acrtuisiTion channels Creative localizadon service Third-party publisher Local App Stare teams Local PR agency Local ATL marketing agency i?mar Con't know
+
+08 Chi n a J an
+
+15' /
+
+25%
+
+20%
+
+?4% 39 /
+
+12%
+
+8'/
+
+23/
+
+74
+
+7%
+
+26'/
+
+9'/
+
+6'/
+
+15 %
+
+6%
+
+5%
+
+13'/
+
+5'/ '
+
+1% 2 1' / 43'/.
+
+8%
+
+3'/
+
+9%
+
+22% L PA
+
+985
+
+179
+
+259
+
+10 20 30
+
+50
+
+Base Has expandedapp business intemationavy E4 What sensces do you use to market internationaaV? iselect all that apply)
+
+APPLE COitFIDENTIAL
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.160 APL-APPSTORE 09637178
+
+Services Use to market internationally
+
+Local user aoquisiTion channels Creative localizason service Third-party publisher Local App Sere teams Local PR agency Local ATL marketing agency inner Con't know
+
+Torsi S mall
+
+Mid
+
+China
+
+a
+
+Terai
+
+Small
+
+Md
+
+15'Y 12% 16% 17%
+
+14 /
+
+14/
+
+11 /
+
+16'I
+
+39% 32 /
+
+8/
+
+5'/
+
+6/
+
+14'I 1 23% 18 /
+
+7%
+
+8%
+
+6'I
+
+8'/
+
+26% 19'/
+
+6/
+
+5%
+
+44
+
+8'Y
+
+154
+
+18/
+
+5"
+
+5%
+
+5'/
+
+5'/
+
+13' /
+
+14'/
+
+1'A
+
+1%
+
+1%
+
+1%
+
+8'I
+
+61 '
+
+21 'Y 25% 21% 16%
+
+3' /
+
+3'/
+
+36'/ 21I 22% 7/ 11P/ 7% 0%
+
+43% 40% 45% 46%
+
+22% 24% 22%
+
+985
+
+387
+
+317
+
+281
+
+17 9
+
+63
+
+58
+
+Talal 20'I'
+
+505 1 '12/
+
+311'
+
+38" 1 9'Y
+
+21%
+
+6%
+
+Japan
+
+Smal l
+
+Mid
+
+18% 17 5
+
+7%
+
+13%
+
+4%
+
+8%
+
+4'/
+
+8%
+
+44
+
+7%
+
+14%
+
+5'Y
+
+4%.
+
+2/
+
+10%
+
+2%
+
+1/
+
+0%
+
+5'/
+
+9'Y
+
+11% 11%
+
+19%
+
+58
+
+25 9
+
+114
+
+83
+
+e 27% 18'Y 7 15'Y 1 18'/ 1 8/ 1 1/ 7 8% 7 2'/
+62
+
+Base Has expanded app business internationally E4: What services do you use to market internationaayv (select all that apply) Note. Arrows denote compansons to small tier wdhin each counby
+
+10 20 30 40.
+
+APPLE C17NFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.161 APL-APPSTORE 09637179
+
+Barriers to entering new markets
+
+Capmity to translate apps No expo/bee of market Hrgh cost of locnllzabrsl High cost of marketing Capacity to provide cuslomer support Capacky to market locagy Tax and legal consideragons Mobile adop5on mtes No presence of publishing plagorm Local billing options are limited Local cunency not accepted by storefront ffmer Con't know
+
+US Chi n a 4 an
+33/. 30% I'Pt ..
+
+2 6' /
+
+366
+
+44'
+
+25"
+
+20'/
+
+I IP/ 25'/
+
+31e
+
+18% 2 I % 29%
+
+18% 35 r
+
+33'/
+
+16% 20'7
+
+28%
+
+I IPA 114
+
+8/
+
+5%
+
+11'/
+
+6'/ '
+
+4%
+
+16%
+
+9'/ '
+
+3%
+
+5'/
+
+4%
+
+9%
+
+I '/
+
+27/
+
+17% 12 4
+
+'leeg c05 500
+
+10 20 30
+
+50 · r
+
+r
+
+Base All respondents E5 What barriers does your company face when entenng new markets'> (select af that apply)
+
+APPLE CONFIDENTIAL 07
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.162 APL-APPSTORE 09637180
+
+Barriers to entering new markets
+
+Tom
+
+Capmity to translate apps
+
+33%
+
+No expo/bee of marksl
+
+267
+
+High cost of looehzablsl
+
+25%
+
+High cost af marketing
+
+18%
+
+Capacity to provide cuslomer support
+
+18'i'
+
+Capachytomarket mcabi
+
+18%
+
+Tax and legal consideragons
+
+15/
+
+Mobile adopgon rdes
+
+10 /
+
+No presence of publishing plalform
+
+5'A
+
+Local billing options are limited
+
+4'i
+
+Local cunency not accepted by storefront 3%
+
+Inner
+
+9'/
+
+Oon't know
+
+27%
+
+I Us
+
+Ud
+
+Brna f
+
+md
+
+33'/
+
+33/
+
+25 5
+
+26'i
+
+23% 24'/
+
+20% 16'/
+
+16% 18'/
+
+I '7% 184
+
+I TY
+
+134
+
+8/
+
+1IPA
+
+5'Y
+
+4'/
+
+4'Y
+
+4'/
+
+3'Y
+
+2'/
+
+9'Y
+
+27% 3lpi
+
+913
+
+5 6
+
+a 34 4
+
+Tor si 30'/
+
+30% 361
+
+32% 1 20%
+
+18'/
+
+25%
+
+21%
+
+19/
+
+35' /
+
+15% 20'4
+
+13'Y t 11 i
+
+11 /
+
+f 6%
+
+4/
+
+9'/
+
+1%
+
+42
+
+58o
+
+China
+
+s mall
+
+u id
+
+26A 35Y 1
+
+34%
+
+3(PA 41% 1 40%
+
+T ota l 41'5
+44%
+
+Bmad 3T/
+39'i
+
+Slid
+
+e
+
+41%
+
+49' " t
+
+·
+
+~
+
+47r
+
+m 18'/ 20% 24% Sa&mm%km~ a 50y
+
+25'A 25% 27'/
+
+31%
+
+2I P / 33'A
+
+35' /
+
+23%
+
+17'i '
+
+22% 2 9'/ 2 9 % 24'/
+
+36' /
+
+33% 31% 44% t 33'i 2 8 ' / 35%
+
+44 t
+
+20% 20/
+
+28 4
+
+28'/
+
+26A
+
+33 4
+
+10%
+
+9/
+
+14Y
+
+8 A
+
+6'/
+
+8Y
+
+11%
+
+11'/
+
+l l 'Y
+
+6'/
+
+8%
+
+5%
+
+5'A
+
+14'/
+
+20%
+
+12'A 9'/
+
+I IPA
+
+7V
+
+I IP/
+
+I'/
+
+27
+
+411
+
+6/
+
+3%
+
+4/
+
+3V
+
+2'A
+
+3V
+
+2'A
+
+19% 15/
+
+14'/
+
+12% 13'/
+
+tl A
+
+12/
+
+73
+
+1 Bog
+
+fagl
+
+Ogi'I
+
+23O
+
+l 59
+
+10l f
+
+10 20
+Base An respondents E5 What barners does your company tace when entenng new markets> (select all that apply) Note. Arrows denote ccmpansons to small tier wdhln each country
+
+APPLE CONFIDENTIAL X
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.163 APL-APPSTORE 09637181
+
+Requested tools or guidance from App Store to expand internationally
+
+tl8 Chi n a 4 n
+
+Localizabo/i service Guidanceon cuhurel and market diherences
+
+415
+
+309,
+
+L·
+
+I [
+
+501.
+
+Guidance on user acquisihon channels for each market 26th 49'/
+
+39"
+
+Third-party localization service recommendations
+
+26 /
+
+43," 283
+
+thher Oon't know
+
+ah
+
+14
+
+37'/
+
+I 94
+
+15th
+
+1903 585
+
+500
+
+10 20 30 40
+Base Allrespcndents E6 Whattools or guidance would your company like the App Store to providetohelp it expand intemationatly? Iselect atl thatapplyl
+
+APPLE COIJFIDENTIAL 38
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.164 APL-APPSTORE 09637182
+
+Requested tools or guidance from App Store to expand internationally
+
+Locehzsbofl salvtcQ
+Guidance on cultural and market diSsrenoss Guidanceon user acquisibon channels for each market Thtm-party locehzsbofl sQIvtcQ recommendayions
+Laker
+Oon't know
+
+Tomi 4 11
+
+179
+
+Smell Iad
+
+s
+
+40ss 4(p %%d4 7 o
+
+3(P%%d 30'7
+
+28%%d 32 /
+
+26y
+
+29 5
+
+EP%% d 32V 1
+
+dhtna
+
+Tot a l amon
+
+Mid
+
+-- Nm
+
+43'g%%d 39%%d
+
+407
+
+43
+
+'
+
+' 'i
+
+,
+
+.
+
+T ota l
+
+Japan
+
+Smsd
+
+slid
+
+II ,,., II I
+
+2 6/ 25%
+
+25%% d 30 /
+
+43"
+
+41," 446
+
+44"
+
+28% 2 4/
+
+3(P%d 3 51 9 t
+
+ttk
+
+25
+
+1/
+
+t %d 4 /
+
+2 %% d 6%
+
+4'5
+
+37 "
+
+3!P/
+
+39'/
+
+311'
+
+1958 22'% %d 1 8 ' /
+
+17'/
+
+15' /
+
+209
+
+15'/
+
+1 90 3
+
+913
+
+566
+
+424
+
+588
+
+273
+
+182
+
+133
+
+500
+
+236
+
+159
+
+105
+
+i o 20 30 40 50
+Base An respondents E6 What loots or guidance would your company like the App Store to provide lo help lt expand lntemationauyo (select au that apply( Note. Arrows denote compansons to small tier wdhln each counby
+
+APPLE
+t Gi(FIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.165 APL-APPSTORE 09637183
+
+Does company Use App Store's lower price tiers (where available)
+
+22 i 806
+60 k 68,
+
+21 6 71s
+
+2016
+
+11 x'
+
+UB
+
+Cluna
+
+985
+
+179
+
+259
+
+Base Has expandedapp business intemationayy E6 N 1 Does your company use the App gtore's lower pnce uers tAltemate Tier A and Anernate Tier Bl where available internationally?
+
+a Dont know · No · yas
+APPLE CONFIDENTIAL gg
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.166 APL-APPSTORE 09637184
+
+Does company Use App Store's lower price tiers (where available)
+
+22'
+
+238, 21'1
+
+27
+
+22
+
+21,
+
+20'
+
+22
+
+Si
+
+681
+
+714
+
+407
+
+45
+
+71'
+
+69
+
+Total S m al l M id US
+
+l arge
+
+n=
+
+985 387 3 17 281
+
+33
+
+T otal S m al l Mid China
+
+17 9
+
+63
+
+58
+
+Larg e 58
+
+85
+
+Ss 10
+
+T otal S m al l Sgd Jaime
+
+259 114
+
+83
+
+Lar g e 62
+
+Base Has expanded app business internationally E6 N 1 Does your company use the App Store's lower pnce hers tAltemate Tier A and Alternate Ter 8) where available intemationanyv Note Arrows denote compansons to small tier wahin each country
+
+· Dont tmow · No · res
+APPLE COrlFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.167 APL-APPSTORE 09637185
+
+Are price tiers successful in driving app downloads
+
+$04
+
+36e
+
+15'
+
+60 4 24
+
+20'4
+
+40'
+
+UB
+
+Ctuna
+
+52
+
+Base Uses App Btore's lower price trers
+E6 N 2 Are these pnceiesrsuccessfulindnwngdownloadsofyour companys'appinthese markets?
+
+a Bun?know · No · yhs
+APPLE CONFIDENTIAL 90
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.168 APL-APPSTORE 09637186
+
+Top countries in which company would like to expand business
+
+Unged Kingdom Canada China AustlRIIR GRRORny JRpan FIRnce Unhed Bream Mexico I alfie BIRZI I
+italy Hong Kong Koine
+
+US Ch i n a J an
+
+46 4 32 /
+
+42ss
+
+38'4 22 4
+
+27%
+
+34/
+
+35 4
+
+507
+
+32'/
+
+26% 27'/
+
+30K
+
+19'/
+
+25'/
+
+2T/
+
+367
+
+ss 26'/
+
+18% 23?k
+
+23-/ gp
+
+2IPA
+
+87
+
+137
+
+tlyh
+
+18% 24 /
+
+1T /
+
+13'/
+
+17?k
+
+16 "
+
+11'/
+
+17?S
+
+15' /
+
+10'/
+
+1$ 5
+
+15' /
+
+33%
+
+29'4
+
+15 4 23 4
+
+3218
+
+t t?k 32 4
+
+40'/
+
+16 4
+
+9%
+
+td'8
+
+'l906 o66
+
+600i
+
+10 20 30
+
+50
+
+Base Ah respondents E7. What are the top countrws in which your company would like to expand business internationally? I select ag that apply)
+
+APPLE CGIIFIDENTIAL 91
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.169 APL-APPSTORE 09637187
+
+Top countries in which company would like to expand business
+
+UnSBd Kingdom Canada China Australia Geffnalfy Japan Flalice Unhed Bream Mexico Intfla Bfaxi I
+italy Hong Kong Koles
+
+VB
+
+Tabs Sma ll
+
+M id
+
+46'%%d 47%%u' 45 /
+
+e 43"
+
+Tor si 32'4
+
+China
+
+Bman
+
+tdd
+
+29 /
+
+34S'
+
+37%
+
+Tors i 42/
+
+Sma l l 42'I
+
+BM
+
+e
+
+41 ' ' 43%%u
+
+38% 40'/
+
+36 /
+
+36'/
+
+20%%u 2V/
+
+27 /
+
+29'I
+
+23 %% d 28 4
+
+32% 30% 2 7' /
+
+33' / 29% 27%
+
+42r t 32' / . 31% 29% 32"' 26'/
+
+35% 2 69 / 1 9'/ 364
+
+46"
+
+2164 4
+
+24%%u 2IPr '
+
+32B I 4111 t
+
+50/. ~ 45% ~
+
+16"
+SM '
+
+27'/
+I 25%. %u
+
+3I P / 23;I 23%%u 24 8
+
+30' J 30'J
+
+26'7 26%
+
+24'/
+
+28% 184
+
+21% 17% 15'/
+
+2 3% 20% 23% 316/ ' t
+
+23 4 25%%u 22 5 22'/
+
+20/ 21%
+
+20 %%d 20'/
+
+8%
+
+8%
+
+9 '%%d 6 /
+
+13 4
+
+1 1'/
+
+13% 18 4
+
+19/
+
+19'/
+
+18% 23'/
+
+18 %%d 16 4
+
+22'7
+
+16'4 2 4/
+
+22'I
+
+1 7% 15'I
+
+15'I
+
+227 1 132/
+
+12'/ '
+
+15% 15% 17'/
+
+15'/
+
+1 6%
+
+15a %%d 1 6 ' J
+
+1 1' /
+
+12%%u 12% 8'4
+
+17%%u 14 %
+
+15% 16% 14'/
+
+154
+
+1 IP /
+
+12%
+
+10 %
+
+8'I
+
+18'%%u 18'/
+
+15% 15%
+
+15'/
+
+15%
+
+33'"
+
+332/' 36'4
+
+31'/
+
+25% 162/ 16'/ 16%
+24'/
+
+27 4 226/ ' 23 % % u 21%
+4 4 %%u t
+
+15% 13%
+
+1b %%d 17% 1 23%
+
+22%%d 25%
+
+23 /
+
+32% 31'I
+
+11'y
+
+11 /
+
+11%
+
+13%%d 32% 29 '
+
+35%
+
+32 4 40 /
+
+38'/
+
+16/
+
+17'/
+
+16% I B/
+
+9%
+
+8'%%d 1 0'/
+
+1l I
+
+10 %%d 11'/
+
+25%%d 48%%u t
+
+36% 11 %
+
+502 10%%u%%d
+
+&13
+
+oe 424
+
+2 3
+
+152
+
+133
+
+ogiir 236
+
+152
+
+1v'
+
+10 20 30
+Base AS respondents E7 What are the top countnes in which your company would like to expand business inta rnatfonshyc (select all that applyj Note: Arrows denote compansons to small tier wnhin each counby
+
+APPLE C ONFIDENTIAL x
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+PX-0041.170 APL-APPSTORE 09637188
+
+App Store Developer Study
+US, China, Japan
+The information in this and related documents is strictly
+Apple Conndentlat · Imemal Use Only. Needto Know Basis For further information on this presentation, contact
+Airpir-Mlark r Assent i ardri Analysis Fielded May 2017
+
+HIGHLY CONFIDENTIAL-ATTORNEYS' EYES ONLY
+
+PX-0041.171 APL-APPSTORE 09637189
+
+

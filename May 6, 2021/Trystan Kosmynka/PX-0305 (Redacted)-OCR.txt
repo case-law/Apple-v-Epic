@@ -1,0 +1,71 @@
+From: To: CC:
+
+Stoney Gamble Trystan Kosmynka Anders Baecklund
+
+PULINTIFF
+U.S. Dlslrlm Court - NDCAL
+4:20«w45640-YGR-TSH
+EnloGenes Ino. u.Arrrne me.
+e ,u ~ dr 3 55
+Dele Entered
+sr
+
+BCC:
+
+Subject:
+
+Re: Business Insider. A video game youVe never heard of has tumed three teens into mummifiioneires -- and
+
+it's just getting started
+
+Attachments:
+
+Sent:
+
+07/27/2017 04:07:59 PM 0000 (GMT)
+
+12/12/14: App was ERB-Rejected for streaming games. The app is streaming games which we don't like, since these games don't come into review. The app was rejected for PLA 3.3.2 which is the guideline we use for apps with this functionality. If they can resolve the issue by having these games embedded in the app, this would sagsfy the PLA 3.3.2 issue.
+Dev's response (12/12/14): Since the app sheams about 5-6 million games/year from their doud servers, they don't believe it' ll be feasible to embed that many games into the app's binary. Would this solufiion make sense?
+- Reducing the number of games available (select the top 10K, or 50K, etc.) and then "locking them in" so that no new games are streamed to the app between binaries. That way, App Review will always have access to any new games added, since nothing will be streamed in between epp reviews.
+1/13I15: While the app was slated to go to the ERB, the note below signifies that there waseither no quorum or no actual meeting, and the process back then (for those instances where there wasn't a meeting) was that Phillip would circulate the deck vie email to the ERB members, and if no response from anyone, then he'd make the call.
+
+Best, Stoney
+On Jul 25, 2017, at 15:51, Trystan Kosmynka «
+Iem surprised thiswas approved by ERB. Adding Stoney incase he hes some more backgmund
+On Jul25, 2017, at3:03 PM, Anders Baecklund «
+Hi Trystan, Eran looked into this one and it appears that the app went to ERB for the potential "store within a store" issue. See ERB notesbelow. The epp also have the necessary UGC blocking mechanism.
+Red text: PLA 3.3.2: Universal. Update (added social features). This social network has a catalog of free block-style games created by other users. Games are added/changed server side. Afi games ere free, but the epp has a marketplace with paid game assets like characters and weapons (uses Consumable IAP). Users can also host challenges with a premium account(Non-Renewing Subscription).
+
+CONFIDENTIAL
+
+Exhibit
+PX 305
+PX-0305.1 APL-APPSTORE 02912017
+
+On jan 13, 2015 02:50:31 PM, mnayyrngs (Apple) wrote: ERB Approved 01/13/2015
+
+Thanks Anders
+On Jul25, 2017, at8:54AM, Anders Baecklund (
+
+wrote:
+
+Good Morning Trystan We will investigate. Anders
+On Jul25, 2017, at7:52AM, Trystan Kosmynka (
+
+wrote:
+
+Does roboblox follow our guidelines?
+A video game you' ve never heard of has turned three teens into multimillionaires -- and it's just getting started Business Insider
+Left: Alex Balfanz, co-creator of "Jailbreak." Right: Andrew Bereza, creator of "Miner's Haven." This past February, Alex Balfanz spent much of his 18th birthday on an important phone call discussing the future of his video game business. About three weeks earlier, Balfanz and his business partner had published a cops-and-robbers video game called "Jailbreak" on Roblox. Although Balfanz and his partner had created Roblox games before, "Jailbreak" was their first overnight success, hitting about Read the full sto
+
+Shared from A~le News
+
+ERB Review
+Oct 24, 203 5 6:25 PM by System Adrnin
+1/1 3/2015 2:37:49 PM Mary Ann Brunson: ERB Approved -- QK, per PB
+
+CONFIDENTIAL
+
+PX-0305.2 APL-APPSTORE 02912018
+
+

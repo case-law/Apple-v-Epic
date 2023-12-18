@@ -1,0 +1,1190 @@
+THEODORE J. BOUTROUS JR., SBN 132099 MA R K A . PERRY, SBN 212532
+
+tboutrous@gibsondunn.corn
+
+mperry@gibsondunn.corn
+
+RICHARD J. DOREN, SBN 124666
+
+CYNTHIA E. RICHMAN (pro hac vice)
+
+rdoren@gibsondunn.corn
+
+crichman@gibsondunn.corn
+
+DANIEL G. SWANSON, SBN 116556
+
+GIBSON, DUNN X CRUTCHER LLP
+
+dswans on@gib sondunn.corn
+
+1050 Connecticut Avenue, N.W.
+
+JAY P. SRINIVASAN, SBN 181471
+
+Washington, DC 20036
+
+j srinivasan@gibsondunn.corn
+
+Telephone: 202.955.8500
+
+JASON C. LO, SBN 219030
+
+Facsimile: 202.467.0539
+
+j Io@gibsondunn.corn
+
+GIBSON, DUNN X CRUTCHER LLP
+
+ETHAN D. DETTMER, SBN 196046
+
+333 South Grand Avenue
+
+edettmer@gibsondunn. corn
+
+Los Angeles, CA 90071
+
+GIBSON, DUNN X CRUTCHER LLP
+
+Telephone: 213.229.7000
+
+555 Mission Street, Suite 3000
+
+Facsimile: 213.229.7520
+
+San Francisco, CA 94105
+
+Telephone: 415.393.8200
+
+VERONICA S. MOYE (pro hac vice)
+
+Facsimile: 415.986.5309
+
+vlewis@gibsondunn. corn 10 GIBSON, DUNN X CRUTCHER LLP
+
+Attorneys for Defendant and Counterclaimant
+
+2100 McKinney Avenue, Suite 1100 Dallas, TX 75201
+
+APPLE INC.
+
+United States District Court Northern District of California
+
+Telephone: 214.698.3100 12 Facsimile: 214.571.2900
+
+Case No. 4:20-cv-05640- YGR Case Title Epic Games, Inc.v.Apple, Inc.
+
+13
+
+Exhibit No. DX-3S22 Date Entered
+
+Susan Y. Soong, Clerk
+
+14
+
+By:
+
+, Deputy Clerk
+
+UNITED STATES DISTRICT COURT
+
+15 NORTHERN DISTRICT OF CALIFORNIA
+
+16 OAKLAND DIVISION
+
+17
+
+18 EPIC GAMES, INC.,
+19
+
+CASE NO. 4:20-cv-05640- YGR
+
+20 21 22 23 APPLE INC. 24 25
+
+Plaintiff, Defendant.
+
+DEFENDANT AND COUNTERCLAIMANT APPLE INC.'S NOTICE OF DEPOSITION OF PLAINTIFF AND COUNTERDEFEND A N T EPIC GAM E S, INC.
+The Honorable Yvonne Gonzalez Rogers
+
+26
+
+27
+
+Exhibit
+
+0301
+28 Weissinger
+
+APPLE INC.'S RULE 30(B)(6) NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR DX-3822. 001
+
+APPLE INC.,
+
+Counterclaimant,
+
+EPIC GAMES, INC. Counter-defendant.
+
+10
+
+12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Gibson, Dunn 8 Crutcher LLP
+
+APPLE INC.'S RULE 30(B)(6) NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 002
+
+T O ALL PARTIES AND THEIR COUNSEL OF RECOR D :
+
+PLEASE TAKE NOTICE that pursuant to Rule 30 (b)(6) of the Federal Rules of Civil
+
+Procedure, Defendant and Counterclaim Plaintiff Apple Inc. (" Apple" ), by and through its undersigned
+
+attorneys, will take the deposition of Plaintiff and Counterclaim Defendant Epic Games, Inc. (" Epic" ).
+
+The deposition will commence at a time and date to be determined by mutual convenience of the
+
+parties. The deposition shall be conducted using remote video conference and deposition technology,
+
+before a notary public or some other officer authorized by law to administer oaths for use at the trial
+
+herein. The deposition shall be conducted using a secure web-based deposition video teleconferencing
+
+service, or telephonically, to provide remote/virtual access for those parties wishing to participate in
+
+10 the deposition via the internet and/or telephone. All parties and the deposition witness shall be provided
+
+via email link with the necessary credentials, call-in numbers, and other information to access and
+
+12 participate in the deposition remotely.
+
+13
+
+The deposition, if not completed on the date specified, will continue day to day, excluding
+
+14 Sundays and holidays, until completed.
+
+15
+
+The courtreporter and videographer willbe remote forthe purposes ofreporting and recording
+
+16 the proceeding, and will not be in the presence of the deponent. The deposition will be recorded
+
+17 stenographically and by videotape, and may be recorded through the instant visual display of testimony
+
+18 using "Live Note" or a similar software.
+
+19
+
+Pursuant to Federal Rule of Civil Procedure 30(b)(6), Plaintiff shall designate one or more of
+
+20 its officers, directors, or managing agents, or other persons who consent to testify on its behalf, as to
+
+21 the matters set forth in Exhibit A attached hereto and incorporated by reference.
+
+22
+
+Any recording, videotape, and transcript of this deposition may be used for any legally
+
+23 permissible purpose, including admission at trial.
+
+24
+
+A list of all parties or attorneys for parties on whom this Notice of Deposition is being served
+
+25 is shown on the accompanying Proof of Service.
+
+26
+
+27
+
+28
+
+Gibson, Dorm & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 003
+
+EXHIBIT A
+
+DEFINITIONS AND INSTRUCTIONS
+
+1. The f o l l owing definitions apply to each of the topics herein.
+
+2. "YOU," "YOUR," and/or "PLAINTIFF" refer to Epic Games, Inc., its predecessors,
+
+successors, subsidiaries, departments, divisions, joint ventures, and/or affiliates, INCLUD IN G Tencent
+
+Holdings Limited, Epic Games International S.a r.l, and Life on Air, Inc., as well as any PERSON or
+
+PERSONS which YOU manage or control,together with allpresent and former directors,officers,
+
+employees, agents, representatives, or any PERSONS acting or purporting to act on YOUR behalf.
+
+3. "ACTION" means and refers to the action entitled Epic Games,Inc. v. Apple Inc., Case
+
+10 No. 4:20-CV-05640-YGR, proceeding in the United States District Court for the Northern District of
+
+California,and assigned tothe Honorable Yvonne Gonzalez Rogers.
+
+12
+
+4. "APPLE" or "DEFENDANT" means Apple Inc. and its employees, officers, directors,
+
+13 agents, attorneys, affiliates, subsidiaries, joint ventures, successors, predecessors, or any PERSON
+
+14 acting on their behalf.
+
+15
+
+5. "APP" or "APPS" means a software application for a HANDHELD DEVICE or NON-
+
+16 HANDHELD DEVICE. For the avoidance of doubt, the term APP does not include WEB APPS.
+
+17
+
+6. "APP DEVELOPER" or "APPS DEVELOPER" or "DEVELOPER" shall mean any
+
+18 PERSON who developed one or more APP or APPS, WEB APPS, or SOFTWARE.
+
+19
+
+7. "APP MARKETPLACE" or "DIGITAL P RODUCT STORE" means any online
+
+20 storefront where APPS OR DIGITAL PRODUCTS are offered for download AND/OR purchase. For
+
+21 the avoidance of doubt, this term shall include, without limitation, Apple's App Store, as well as the
+
+22 Epic Games Store, Google Play, the Samsung Galaxy Store, Steam, the Amazon Appstore, the
+
+23 Microsoft Store, and online storefronts distributing games and digital content for Xbox, PlayStation,
+
+24 and Nintendo. The phrase "YOUR DIGITAL PRODUCT STORE" refers to the Epic Games Store.
+
+25
+
+8. "AND" and "OR" shall be construed conjunctively or disjunctively as necessary to
+
+26 make the topic inclusive rather than exclusive.
+
+27
+
+9. "ANY" and "EACH" shall be construed to include and encompass "all."
+
+28
+
+10. "COALITION" shall refer to The Coalition for App Fairness.
+
+Gibson, Dorm & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 004
+
+11. "COMMUNICATION(S)" shall include, without limitation, any transmission or
+
+transfer of information of any kind, whether orally, electronically, in writing, or in any other manner,
+
+at anytime or place, and under any circumstances whatsoever. 12. "COMMISSION" shall mean any charge, transaction fee, or commission charged by
+
+an APP MARKETPLACE or DIGITAL PRODUCT STORE when a user purchases any DIGITAL
+
+PRODUCT. 13. "COMPLAINT" shall mean the Plaintiff's Complaint, Dkt. 1, filed on August 13, 2020
+
+in Epic Games, Inc. v. Apple Inc., Case No. 4:20-CV-05640- YGR. 14. "CONCERNING" a g iven subject shall mean: directly or i ndirectly comprising,
+10 concerning, constituting, containing, discussing, embodying, evidencing, exhibiting, identifying,
+
+mentioning, negating, pertaining to, recording, regarding, reflecting, relating to, showing, or supporting
+
+12 a given subject matter.
+
+13
+
+15. "CONSUMER COMPLAINT" shall mean any threatened or filed lawsuits, demand
+
+14 letters, grievance letters, refund requests, and/or any other COMMUNICATION of dissatisfaction
+
+15 made by a consumer.
+
+16
+
+16. "CORRESPONDENCE" shall mean, but shall not be limited to, any letter, facsimile,
+
+17 e-mail, notice, memorandum, or other wr itten CO M M U N I C A T I O N o r t r anscription of n otes of a
+
+18 COM M U N I C A TION.
+
+19
+
+17. "DATE" shall mean the exact day, month, and year, if ascertainable, or if not, the best
+
+20 approximation thereof.
+
+21
+
+18. "DEVELOPER COMPLAINT" shall mean any threatened or filed lawsuits, demand
+
+22 letters, grievance letters, refund requests, and/or any other COMMUNICATION of dissatisfaction
+
+23 made by an APP DEVELOPER.
+
+24
+
+19. "DIGITAL PRODUCT" or "DIGITAL P RODUCTS" means any digital product,
+
+25 service, or other item sold via or in a DIGITAL PRODUCT STORE (INCLUDING but not limited to
+
+26 APPS, web apps, AND software), OR any such digital product, including (but not limited to )
+
+27 applications, IN-APP PRODUCTS (including consumables) purchased/sold by i n -application
+
+28 purchase, and subscriptions.
+
+Gibson, Dorm & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 005
+
+20. "DOCUMENT(S)" shall have the full meaning ascribed to those terms under Rule 34
+
+of the Federal Rules of Civil Procedure and include, without limitation, any and all drafts;
+
+COMMUNICATIONS; CORRESPONDENCE; memoranda; records; reports; books; records, reports,
+
+and/or summaries of personal conversations or interviews; diaries; graphs; charts; diagrams; tables;
+
+photographs; recordings; tapes; microfilms; minutes; records, reports, and/or summaries of meetings
+
+or conferences; press releases; stenographic, handwritten or any other notes; work papers; checks, front
+
+and back; check vouchers, check stubs or receipts; tape data sheets or data processing cards or discs or
+
+any otherwritten,recorded, transcribed, punched, taped, filmed or graphic matter,however produced
+
+or reproduced; and any paper or writing of whatever description, including any information contained
+
+10 in any computer although not yet printed out. Any production of electronically stored information shall
+
+include the information needed to understand such information. T h e t erm " DOCUMENT" or
+
+12 "DOCUMENTS" further includes all copies where the copy is not identical to the original.
+
+13
+
+21. "EPIC DIRECT PAYMENT" shall mean the payment option enabled in Fortnite for
+
+14 iOS on August 13, 2020, and allowing users to pay Epic directly (i.e., without using IAP) for purchases
+
+15 of IN-APP PRODUCTS.
+
+16
+
+22. "HANDHELD D E V I CE" or "M O B I LE D E V I C E" shall mean any smartphone,
+
+17 tablet, or portable MP3 music player (such as an iPod).
+
+18
+
+23. "IAP" means DEFENDANT's In-App Purchase technology used to facilitate the sale
+
+19 and purchase of IN-APP PRODUCTS, including all Application Programming Interfaces provided by
+
+20 DEFENDANT that enable additional content, functionality or services to be delivered or made
+
+21 available for use within an APP with or without an additional fee.
+
+22
+
+24. "IN-APP PRODUCT" or "IN-APP PRODUCTS" means any feature, service, or
+
+23 functionality that can be enabled or unlocked within an APP in exchange for a fee, including
+
+24 subscriptions, in-game currencies, game levels, access to premium content, or unlocking a full version
+
+25 of anAPP regardless ofwhether such feature,service, or functionality was purchased within an APP,
+
+26 at a "brick and mortar" retail location, or through online stores such as Amazon.corn.
+
+27
+
+25. "INCLUDING" shall not be construed as limiting any request, and shall mean the same
+
+28 as "including, but not limited to."
+
+Gibson, Dorm & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 006
+
+26. "NON-HANDHELD DEVIC E" shall mean laptop computers, desktop computers, or
+
+video game consoles.
+
+27. "PERSON" shall include, without limitation, natural persons, corporations, firms,
+
+partnerships, joint stock companies, associations, business trusts, associations, business or other
+
+entities, and other organizations of persons, and any officer, director, employee, partner, corporate
+
+parent, subsidiary, affiliate, agent, representative, attorney, or principal thereof.
+
+28. "PERSONAL INFORMAT I ON" shall mean unique personal information about the
+
+user of YOUR APPS or DIGITAL PRODUCT STORE, INCLUDING such user's physical location,
+
+contact information, APP usage, purchase activity, electronic communications, and payment or other
+
+10 financial information.
+
+29. "PLATFORM" shall mean any mobile, computing, and gaming platforms on which
+
+12 Fortnite and any other APP or SOFTWARE developed by YOU is available to be played, and shall
+
+13 INCLUDE DEFENDANT's i OS, D EFENDANT's macOS, Google's Android, Windows PC,
+
+14 Microsoft Xbox, Sony PlayStation, and Nintendo Switch.
+
+15
+
+30. " RELATING T O , " " RELATED T O , " " RELATE T O ," "PERTAINING TO ,"
+
+16 "PERTAINS TO," or "CONCERNING" a given subject shall mean directly or indirectly concerning,
+
+17 constituting, containing, embodying, evidencing, showing, comprising, reflecting, identifying,
+
+18 illustrating, stating, referring to, dealing with, commenting on, responding to, describing, involving,
+
+19 mentioning, discussing, recording, supporting, or negating a given subject matter.
+
+20
+
+31. "SOFTWARE" shall refer to any computer program, other than an APP or WEB APP,
+
+21 including patches, updates and bug fixes, for use on any HANDHELD DEVICE or NON-HANDHELD
+
+22 DEVICE, including, without limitation, desktop computers, laptop computers, and video game
+
+23 consoles.
+
+24
+
+32. "STUDIES" and/or "ANALYSES" mean all research, reports, memoranda, statistical
+
+25 compilations, slide presentations, reviews, audits, and other types of written, printed, or electronic
+
+26 compilations or submissions of information.
+
+27
+
+33. "UPDATE" shall mean any change or modification to or new version of any APP or
+
+28 DIGITAL PRODUCT, including bug fixes, upgrades, enhancements, supplements, and new releases.
+
+Gibson, Dorm & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 007
+
+34. "WEB APP" shall refer to any application that is developed using Web technologies (such as, without limitation, HTML, CSS, and JavaScript ) and operates via a Web browser on HANDHELD DEVICES or NON-HANDHELD DEVICES. For the avoidance of doubt, the term "WEB APP" shall include, without limitation, applications that may also be referred to as "progressive web apps" or "responsive web apps."
+35. "The" shall not be construed as limiting the scope of any topic. 36. Unl e ss otherwise stated, the time period for the topics is 2007 to the present.
+
+TOPICS FOR EXAMINATION
+
+10
+
+1. The h i story, corporate structure, organization, ownership, executive leadership, and
+
+management structure of YOUR company.
+
+12
+
+2. The r e lationship between Epic Games Inc. and its affiliate(sINCLUDING Epic
+
+13 Games International S.a r.l), including ownership, overlap in executive leadership, and the extent to 14 which Epic Games Inc. and/or its management can direct the activities of any such affiliates.
+
+15
+
+3. Th e businemsosdel as well asYOUR consideration of any other business model for
+
+16 each of YOUR APPS, WEB APPS, IN-APP PRODUCTS, and SOFTWARE, INCLUDING YOUR
+
+17 method of monetizing each such product.
+
+18
+
+4. Pri c e s (INCLUDING suggested and minimum pricin)g, costs (INCLUDING
+
+19 distribution costs and expenses), revenues, margins, and profits for each of YOUR APPS, WEB
+
+20 APPS, IN-APP PRODUCTS, and SOFTWARE, INCLUDING ANALYSES relating thereto.
+
+21
+
+5. A NA LY S E S and facts known to YOU RELATING TO consumers' price sensitivity
+
+22 and spending patterns for purchases of APPS, WEB APPS, SOFTWARE, and IN-APP PRODUCTS.
+
+23
+
+6. Pay m ent processing activity RELATING TO any of YOUR APPS, IN-APP
+
+24 PRODUCTS, WEB APPS, and/or SOFTWARE, INCLUDING the effective rate or fee charged by
+
+25 any PERSON that performs payment processing activity on YOUR behalf, and the fees actually paid
+
+26 by YOU to any such PERSON.
+
+27
+
+7. Mark e t ing of and promotions for each of YOUR APPS, WEB APPS, SOFTWARE,
+
+28 and IN-APP PRODUCTS.
+
+Gibson, Dunn & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 008
+
+8. Dist r i bution(whether online, through brick and mortar stores, or through online stores
+
+such as Amazon.corn) of each of YOUR APPS, WEB APPS, IN-APP PRODUCTS, and
+
+SOFTWARE, the COMMISSIONS, fees, costs, and expenses paid in connection with each such
+
+distribution channel, and the margins and net profits received by YOU relative to prices charged.
+
+9. A NA LY S E S and facts known to YOU RELATING TO competition between and
+
+among different distribution channels or PLATFORMS for APPS, WEB APPS, IN-APP
+
+PRODUCTS, and SOFTWARE, INCLUDING ANALYSES and facts known to YOU RELATING
+
+TO competition between YOU and APPLE.
+
+10. Y O U Rdecisions RELATING TO whether or not to distribute any of YOUR APP(S),
+
+10 IN-APP PRODUCT(S), WEB APP(S), and/or SOFTWARE through any means (such as a website,
+
+through onlinestores such as Amazon.corn, or in "brick and mortar" stores) other than an APP
+
+12 MARKETPLACE, INCLUDING all ANALYSES and facts known to YOU upon which such
+
+13 decisions are based.
+
+14
+
+11. Y O U Rdistribution of APPS, WEB APPS, IN-APP PRODUCTS, or SOFTWARE by
+
+15 physical means or through tangible media, INCLUDING the channels of distribution, the physical
+
+16 items that are redeemable for APPS, WEB APPS, IN-APP PRODUCTS, or SOFTWARE, the
+
+17 COMMISSIONS, fees, costs, and expenses paid in connection with each such distribution channel,
+
+18 and the margins and net amounts received by YOU relative to retail prices charged.
+
+19
+
+12. Y O U Rcosts to create products for distribution by physical means or through tangible
+
+20 media, as opposed to products for distribution through electronic means.
+
+21
+
+13. Y O U Rdistribution of gift cards and/or other physical items that are redeemable for
+
+22 APPS, WEB APPS, IN-APP PRODUCTS, or SOFTWARE, the COMMISSIONS, fees, costs, and
+
+23 expenses paid in connection with each such distribution channel, and the margins and net profits
+
+24 received by YOU relative to retail prices charged.
+
+25
+
+14. Re j e ction and/or removal of any of YOUR APPS, IN-APP PRODUCTS, WEB APPS,
+
+26 and/or SOFTWARE for download or purchase from any APP MARKETPLACE, website, or physical
+
+27 location, INCLUDING the reasons for each rejection and/or removal.
+
+28
+
+Gibson, Dorm & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 009
+
+15. Dis t r ibution through DEFENDANT'S APP MARKETPLACE of APPS built using
+
+YOUR Unreal Engine.
+
+16. A NA L Y S ES or facts known to YOU RELATING TO the different PLATFORMS on
+
+which YOUR APPS, WEB APPS, SOFTWARE, and IN-APP PRODUCTS are available,
+
+INCLUDING those RELATING TO:
+
+a.
+
+consumer preferences as between PLATFORMS and the reasons therefor;
+
+b. competition between and among different PLATFORMS;
+
+c.
+
+the re v enue YOU generate from each PLATFORM;
+
+d. Y OUR c o sts and efforts to make and offer products on each PLATFORM;
+
+10
+
+e. t he incidencoefsbreaches, hacks, unauthorized modifications,bans, cheating,
+
+c rashes, or outages on each PLATFORM ;
+
+12
+
+f.
+
+usage of YOUR APPS, WEB APPS, IN-APP PRODUCTS, and SOFTWARE
+
+13
+
+on each PLATFORM;
+
+14
+
+g. adaptation and/or development of YOUR APPS, WEB APPS, IN-APP
+
+15
+
+PRODUCTS, and SOFTWARE for each PLATFORM;
+
+16
+
+h. inst a l lation of YOUR APPS, WEB APPS, IN-APP PRODUCTS, and
+
+17
+
+SOFTWARE on each PLATFORM;
+
+18
+
+i.
+
+u ser data and metrics YOU collect on each PLATFORM ;
+
+19
+
+the extent to which users access YOUR APPS, WEB APPS, IN-APP
+
+20
+
+PRODUCTS, and SOFTWARE on more than one PLATFORM; and
+
+21
+
+k. the e x tent to which users make purchases for YOUR APPS, WEB APPS, IN-
+
+22
+
+APP PRODUCTS, and SOFTWARE for more than one PLATFORM.
+
+23
+
+17. Th eability and/or manner in which each of YOUR APPS, WEB APPS, IN-APP
+
+24 PRODUCTS, and SOFTWARE can be accessed or played across more than one PLATFORM,
+
+25 INCLUDING YOUR communications with users and potential users regarding the same.
+
+26
+
+18. A n y r estrictions, conditions, or rules imposed or demanded by the operator of any
+
+27 PLATFORM on the ability of users of YOUR APPS to engage in cross-PLATFORM play.
+
+28
+
+Gibson, Dorm & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 01 0
+
+19. A n y r estrictions, conditions, or rules imposed or demanded by the operator of any
+
+PLATFORM on YOUR ability to distribute YOUR APPS.
+
+20. A N A L Y S E S or facts known to YOU RELATING TO the relevant markets or sub-
+
+markets YOU contend are at issue in this case, INCLUDING those RELATING TO: why each is a
+
+relevantmarket or sub-market,the geographic scope or dimension of each market or sub-market, and
+
+the geographic location of the relevant consumers in each such market.
+
+21. Y OU R business model for YOUR DIGITAL PRODUCT STORE, INCLUDING how
+
+YOU set YOUR COMMISSIONS; how YOU attempt to attract APP DEVELOPERS (INCLUDING
+
+all exclusivity deals with game developers and minimum guarantees); the products, services, or other 10 value delivered by or to be delivered by YOUR DIGITAL PRODUCT STORE to consumers and
+
+APP DEVELOPERS; the cost of operating YOUR APP MARKETPLACE; and YOUR profits from
+
+12 YOUR APP MARKETPLACE.
+
+13
+
+22. Y OU R p olicies, practices, and procedures RELATING TO operation of YOUR
+
+14 DIGITAL PRODUCT STORE, INCLUDING those RELATING TO:
+
+15
+
+a. collection and distribution of proceeds from the sale of APPS and IN-APP
+
+16
+
+PRODUCTS;
+
+17
+
+b. paym e nt processing;
+
+18
+
+c.
+
+YOUR efforts to curate content on YOUR DIGITAL PRODUCT STORE;
+
+19
+
+YOUR efforts to maintain the security of YOUR DIGITAL PRODUCT
+
+20
+
+STORE;
+
+21
+
+YOUR collection, use, and sharing of PERSONAL INFORMATION of users
+
+22
+
+of YOUR DIGITAL PRODUCT STORE, INCLUDING the extent to which
+
+23
+
+YOU share users' PERSONAL INFORMATION with APP DEVELOPERS;
+
+24
+
+and
+
+25
+
+f.
+
+Y OUR r e view and approval of DIGITAL PRODUCTS submitted for
+
+26
+
+distribution through YOUR DIGITAL PRODUCT STORE.
+
+27
+
+23. A ny s ervices or support you provide to third-party DEVELOPERS that distribute on
+
+28 your DIGITAL PRODUCT STORE.
+
+Gibson, Dorm & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 01 1
+
+24. COM P L A I NTS about YOU, INCLUDING those received by YOU RELATING TO
+
+YOUR DIGITAL PRODUCT STORE and those made to local, state, or federal regulators, better
+
+business bureaus, consumer protection agencies, or consumer rights groups.
+
+25. Y OU R a g reements or contracts with any DEVELOPER that distributes on YOUR
+
+DIGITAL PRODUCT STORE.
+
+26. Y OU R agreements or contracts with any maker of HANDHELD DEVICES, maker of
+
+NON-HANDHELD DEVICES, wireless carrier, or APP MARKETPLACE.
+
+27. Y OU R r elationship with Nvidia RELATING TO GeForce Now, INCLUDING YOUR
+
+contracts or drafts of contracts with Nvidia; YOUR contemplated or actual distribution of any of
+
+10 YOUR APPS through Nvidia's GeForce Now on any PLATFORM; and YOUR contemplated or
+
+actual distribution of any of YOUR APPS to iOS customers through GeForce Now.
+
+12
+
+28. A gr e ements or contracts RELATING TO providing or distributing YOUR APPS,
+
+13 WEB APPS, IN-APP PRODUCTS, SOFTWARE, or APP MARKETPLACE, INCLUDING any
+
+14 RELATING TO distribution on an exclusive basis.
+
+15
+
+29. Com m u nications between YOU and PLATFORM, APP MARKETPLACE, OR
+
+16 DEVELOPER, in which any of the following subjects was referred to or discussed:
+
+17
+
+a. pr ic i n g, fees, charges, or COMMISSIONS RELATING TO APPS, IN-APP
+
+18
+
+PRODUCTS, WEB APPS, and/or SOFTWARE;
+
+19
+
+b. dist r i bution fees, charges, or COMMISSIONS; the method used to facilitate
+
+20
+
+payments for DIGITAL PRODUCTS; COMMUNICATIONS RELATING TO
+
+21
+
+placement of YOUR APPS, IN-APP PRODUCTS, WEB APPS, and/or
+
+22
+
+SOFTWARE, or payment processing; and
+
+23
+
+c. prov i d ing or distributing YOUR APPS, WEB APPS, IN-APP PRODUCTS,
+
+24
+
+and SOFTWARE on an exclusive basis.
+
+25
+
+30. Y OU R contemplation, discussion, planning, development, and implementation of
+
+26 EPIC DIRECT PAYMENT in Fortnite, INCLUDING:
+
+27
+
+a. t he anticipatoerdactual effect on YOU of Fortnite's removal from the App
+
+28
+
+Store and/or Google Play Store;
+
+Gibson, Dorm & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822.012
+
+b. Y OUR d e cision to offer iOSFortnite users "a 20% reduction in in-app prices"
+
+for IN-APP PRODUCTS sold through EPIC DIRECT PAYMENT, how YOU
+
+set that "20% reduction," and ANA L Y SES or facts known to YOU upon
+
+which YOUR decision was based;
+
+c. the i n v olvement and/or participation in, or knowledge of any of YOUR
+
+affiliates, INCLUDING Tencent Holdings Limited and/or Epic Games
+
+International S.a r.l, in the development and/or submission of Version 13.40 of
+
+Fortnite, and/or the planning, development, and implementation of EPIC
+
+DIRECT PAYMENT;
+
+10
+
+d. Y OUR ¹ F r eeFortnite campaign, INCLUDING any ANALYSES of the
+
+potentialor actualpress coverage of that campaign, and ANALYSES of the
+
+12
+
+potential or actual results of such campaign on Fortnite's revenues, downloads,
+
+13
+
+or number of users; and
+
+14
+
+e. Y OUR C O M M U NICATIONS and all ANALYSES conducted by YOU or on
+
+15
+
+YOUR behalf about ceasing distribution of YOUR APPS through APPLE'S
+
+16
+
+APP MARKETPLACE.
+
+17
+
+31. Th edevelopment and operation of Version 13.40 oFf ortnite for iOS; and YOUR
+
+18 submission of Version 13.40 of Fortnite for review by APPLE.
+
+19
+
+32. Y OU R e f f o rts to avoid, reduce, or negotiate, the restrictions, fees, COMMISSIONS,
+
+20 or expenses imposed by any distribution channel, PLATFORM, or APP MARKETPLACE on which
+
+21 YOUR APPS, IN-APP PRODUCTS, WEB APPS, and/or SOFTWARE are available.
+
+22
+
+33. Y OU R e f f o rts to avoid, reduce, or negotiate, the review procedures or installation
+
+23 process imposed by any distribution channel, PLATFORM, or APP MARKETPLACE on YOUR
+
+24 APPS, IN-APP PRODUCTS, WEB APPS, and/or SOFTWARE.
+
+25
+
+34. Y OU R p lans for a competing APP MARKETPLACE for iOS devices, INCLUDING
+
+26 any processes that would be implemented, and all opportunities APPLE would be afforded, to ensure
+
+27 reliability, safety, security, and privacy, and any financial compensation YOU contend would be
+
+28 owed to APPLE for YOUR competing APP MARKETPLACE.
+
+Gibson, Dorm & Crutcher LLP
+
+10
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 01 3
+
+35. W hat a c t ions YOU contend APPLE has taken, or failed to take, to restrict, limit, or
+
+prevent YOUR ability to develop an APP and/or IN-APP PRODUCT for any website or APP
+
+MARKETPLACE other than the App Store.
+
+36. A ny c r ashes, outages, privacy breaches, cybersecurity breaches, hacks, exploits,
+
+malware, cheating, seams, criminal behavior, and violations of Epic Games Community Rules
+
+RELATING TO any of YOUR DIGITAL PRODUCTS, APP, WEB APPS, SOFTWARE, IN-APP
+
+PRODUCTS, YOUR DIGITAL PRODUCT STORE, YOUR website, and/or EPIC DIRECT
+
+PAYMENT, INCLUDING data on the platform on which such activity occurred.
+
+37. A NA L Y S ES or facts known to YOU RELATING TO the importance of security,
+
+10 safety, stability, and privacy safeguards to YOUR users.
+
+38. Y OU R efforts to distribute YOUR DIGITAL PRODUCTS, APPS, WEB APPS,
+
+12 SOFTWARE, IN-APP PRODUCTS on macOS after August 2020.
+
+13
+
+39. Y OU R e fforts to work with other entities or persons to challenge or disrupt any
+
+14 APPLE or Google practices YOU believe to be unlawful.
+
+15
+
+40. Y OU R effort to bundle YOUR DIGITAL PRODUCTS, APP, WEB APPS,
+
+16 SOFTWARE, IN-APP PRODUCTS with any hardware devices.
+
+17
+
+41. Y OU R decision to launchFortnite on Android in 2018 through any means other than
+
+18 Google Play, INCLUDING YOUR reasons for not making Fortnite available in Google Play until
+
+19 April 2020.
+
+20
+
+42. The C OALITION, INCLUDING its formation, membership, and objectives, and the
+
+21 paid or unpaid participation of YOU or any of YOUR employees, officers, or directors in the
+
+22 COALITION.
+
+23
+
+43. The r elief YOU seek(injunctive, equitable, or otherwise), INCLUDING any technical,
+
+24 contractual, or financial measures APPLE must undertake or provide (INCLUDING whether Apple
+
+25 must eliminate or decrease the COMMISSION it charges for in-app purchases), whether such relief
+
+26 would be applicable to parties other than YOU, and "all necessary steps" that YOU contend APPLE
+
+27 must undertake "to cease unlawful conduct and to restore competition." Any steps or actions that
+
+28
+
+Gibson, Dorm & Crutcher LLP
+
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822.014
+
+YOU have taken to mitigate the harm or damages YOU claim, including the costs and benefits of taking such steps.
+
+DATED: January 15, 2021
+
+GIBSON, DUNN X CRUTCHER LLP:
+
+By: /s/ Ja P. Srinivasan Jay P. Srinivasan
+Attorneys for Plaintiff APPLE INC.
+
+10
+
+12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Gibson, Dorm & Crutcher LLP
+
+12
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822. 01 5
+
+CERTIFICATE OF SERVICE I, Betty X. Yang, hereby certify that I am a citizen of the United States, over the age of eighteen, and not a party to this action. I hereby certify that on January 15, 2021, I delivered the foregoing DEFENDANT APPLE INC.'S NOTICE OF DEPOSITION OF EPIC GAMES, INC., via electronic mail, pursuant to an agreement among the parties for electronic service, to the following counsel in this action and the related actions:
+
+PAUL R. RIEHLE
+
+STEVE W. BERMAN
+
+paul.riehle@faegredrinker.corn
+
+steve@hbsslaw.corn
+
+FAEGRE DRINKER BIDDLE &
+
+ROBERT F. LOPEZ
+
+REATH LLP
+
+10
+
+CHRISTINE A. VARNEY
+
+robl@hbsslaw.corn SHANA E. SCARLETT
+
+cvarney@cravath.corn
+
+shanas@hbsslaw. corn
+
+KATHERINE B. FORREST
+
+BENJAMIN J. SIEGEL
+
+12
+
+kforrest@cravarth. corn
+
+GARY A. BORNSTEIN
+
+bens@hbsslaw. corn HAGENS BERMAN SOBOL SHAPIRO LLP
+
+13
+
+gbornstein@cravarth.corn
+
+YONATAN EVEN
+
+14
+
+yeven@cravath.corn
+
+Interim Class Counselfor the Developer Plaintiffs
+
+LAUREN A. MOSKOW ITZ
+
+15
+
+Imoskowitz @cravath. corn
+
+MARK C. RIFKIN rifkin@whafh. corn
+
+16
+
+M. BRENT BYARS
+
+mbyars@cravath. corn
+
+RACHELE R. BYRD byrd@whafh.corn
+
+17
+
+CRAVATH, SWAINE & MOORE LLP MATTHEW M. GUINEY
+
+18
+
+Counsel to Epic Games, Inc.
+
+guiney@whafh. corn BRITTANY N. DEJONG
+
+dej ong@whafh. corn
+
+19
+
+W OLF HALDENSTEIN ADLER FREEM A N
+
+20
+
+& HERZ LLP
+
+21
+
+Interim Class Counselfor the Consumer Plaintiffs
+
+22 I declare under penalty of perjury under the laws of the United States of America that the
+
+23 foregoing is true and correct. Executed this 15'" day of January, 2021, at Dallas, Texas.
+
+24
+
+i siBet X Y a n
+
+25
+
+Betty X. Yang
+
+26
+
+27
+
+28
+
+Gibson, Dorm & Crutcher LLP
+
+13
+APPLE INC.'S RULE 30(B1(61 NOTICE OF DEPOSITION OF EPIC GAMES, INC. / CASE NO. 4:20-CV-05640- YGR
+
+DX-3822.016
+
+

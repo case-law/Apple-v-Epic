@@ -1,0 +1,2905 @@
+Epic Games, Inc.
+Opening Presentation
+
+Apple Develops a Plan
+
+soeioor: Ro;Yohoo mdsow From:
+Nocoroostbotoi 8'loc.21Joc 20cii I,s:+Bee-0800
+To i
+flair Moc, 21Joc2008 I8;+kcy %800
+Wespokeabout thisiieetweek and I sgillthinkit iis0 humbleidea.
+There are manyAPIsoutthere for apps. Bythe samelogicwhynol1st Sun have Java on the iphoney yyhy not Adobe's Aikg Why inst Microsoft's SilverlightyWhy notQuelccmm'sBrewsstcetc
+WithoneAPil (ours) we can manage whatis on our productsandwhat is not if we cpsn it upthen wed'on'tsignall apps.wedon'idislribute all apps,eto. Whichis the same as thmwing oui the wholeplan we havein place.
+And in the grand scheme of APis we could choose tc support bcyondoi ur own,if we ever did supportanother (which Idon't mcommend). Yahoo's Widget API is notevenclose to the most important one we wouldpick, someof theones illistedabove tiike Flash) are way more impcnantl valuable tous.
+Besides, wehave 0wey to dc Widgels that competes with theirs, sc who caress Thissounds(ikearelagonshipissuenotwcnhconsmlenng.
+Qn Jan 21, 2t)QS, at 5:33 PM, Scott Forslailwrote:
+> Merce wants tomeewt ith ycu end meto talk aboutwhywe should oallowYahoo to buildtheir widget engineon the iPhone,
+o They rttmriywent to push theirwidgetAPI as a ~platform wey o lo buildwidgels. WhileIwould preferdevelopers to useweb o slandards like HTMLandiAJAX, cr go nafive if they want mare, 'I'm > not swe we should'n'ttake the high groundand Iet them build itand o compete.
+oThoguhted'
+
+NAINTIFF ososso~vcs~sol-vHeono- 4
+t.o*~
+so.ua
+w
+
+CONFIDENTIAL
+
+Exhibit PX 882
+
+Subject: R e V@ 4OOTVidgetS F1'6m: Pkll l l p SClllllC1'
+ReeeNe(l(Bated): Mom, 21 3'm 2008 18:44:49 -0800
+To: ",ScottFor staH" Bate: Mo ny 21 3am 2008 18:44:49 -0300
+
+We spoke about this last week and I still think it is a horrible idea.
+
+There are many AP
+
+Sun have Java on t SilverlightT Why not
+
+whole
+
+plan
+
+we
+
+have
+
+in
+
+place
+
+Withone APl (oursII we canmanage what is on our products and what is not. lf we open It up then we don t sign all apps, we cion t distribute all a s, etc. Which is the same as throwing out thewhole plan we have in place
+
+EIesides, we have a way tc do Widgets that competes with theirs, so who cares7
+PX-o882
+
+GAMES
+
+Building the Walled Garden
+
+Building the Walled Garden
+
+Cc: Phil Sculler
+From: St e ve Jobs
+
+PLAIMllFF
+4:20ev4!N40 VCR VIH
+%PA 6etwl. AK v. AAAt AK.
+e.saxZKdI%9
+
+Subject: Re: Google Friendl FilI,dier Received(Bate):MolI., 30 Jul> 2008 07:42:54 -0700
+9ate: Mon, 30 Jun 2008 07:42:54 -0700
+When they have contacts in their app, these are only the contacts on
+the iPhone and not a merge of contacts from Google, right'7 I think it
+would be a really bad idea forsomethingthat looks like contacts to
+have contacts not on that iPhone and could lead to eo le not using our contacts app at all. VVe may want to limit this in the license.
+
+'kg
+
+PX-0899.1 *PL-EG M147530
+PX-0890
+
+Building the Walled Garden
+
+PLAIHTlFF
+V IE ~ ~ 4t Kk h
+
+From: Ph i lip Schillex
+
+Subject: 8' bone OS tciea
+
+Received(Bate):Sun, G3 Jan 20lIG 08:48:GG -080G
+
+Cc: G reg Josxvaak
+
+Eddy Cue
+
+To: S teve Jobs
+
+Scott PorstalIl.
+
+Bate: Sum, G3Jan 20lIG 08:48:GG -080G
+
+Steve, Scott,
+Just a thaught:
+Gne of our greatest advantages over Android is our online stores (iTunes Store, App Store, and soon tahe Book Store,
+i k thatitwould be smart o build these three stores as far into the iPhone OS xperience as possible to push our advantage - er apsin a u ure version o e i - ione ~e s e storeswouldn't I'aok andworkjust like all other apps (icons that you launch) but they were permanent screens theat you flick to in the UIV They would aliways be there, running and at a different level than regular apps.
+Phil
+
+CONFIDENTI'AL
+
+PX44M.1 APl.EQ 6012N02
+PX =o4o3
+
+Building the Walled Garden
+
+Subject: Back to School next year... From' '"Eddy Cue"
+
+Received(Bate):Fri, lll5 Feb 2613 01:5 f:57+QQQQ
+
+To "Tirn Cook'
+
+"Phil Schiller"
+
+Attachtnent: Screen Shot 2013=02 =07 at 4.56.47 PM.png
+
+Attachment: P astcdGraphtc-36.png
+
+Bate' Fri, ll5 Feb 2013 01:5llI:57+QQQQ
+
+ll understand tlhat we have tentatively decided for a discount of $1QW$5W$5Q for Mac/iPmViPhone. Did we think that customers would buy significantly more if we gave them a
+straight discount instead of an iTunes card) lf this isn't a huge difference, f t4iM we aremaking a
+mistake. Wc arc discounting ouf product tnstead of adding value to thctn. Getting customers App and iBookstore) is one of the best tlhings we can do to get people
+hooked to tlI>c ccosyste~ The more people use our stores the more lilkely they are to buy a t Iona p p e pro uc s aBd upgrade to the latest versions. Who s going to buy a S¹sung phone if they lhave apps,,movies, etc already purchased'~ They new need to spend hundreds more to get to 'kvhere they afe today.
+On a related. note, our apple stores (onlline and retail) are the only distributors around the worldl that decreased year over year in iTunes card sales. We are starting to make progress again v ith retail but it is always an uphill battle. Our teems just don't get the ecosystetm. %'e (Val and teem) 'ust heard fmtm Jennifer that iTunes cards are not a riorit for her. This is ridiculous. %'ho leaves Apple products once they' ve bouglht apps music movies etc J
+
+Euilding the Walled Garden
+Hl
+
+Subject: Re: Back to School next yew... Frorm: HPhiIlip Schiller'
+Received(Bate):Fri, 15 Felb 2013 04:38:05 +0000 To: "Eddy Cue" Cc: "Tim Cook"
+Bate: Fr i , 15 Felh 2013 04:38:05 +0000
+
+I reiterated to the team that this is just a proposal to be evaluated against repeating the iTunes card we did last year and nothing is approved until all the decision makers meet and discuss the proposals
+I do think the new proposal may be better than the iTunes card. It is about the fact that our life is better when ou have man of our devices (Mac, iPad, iPhone, etc all working together with tlhe a s and iCloud ecos stem (sorry this isn't crisp, we just talked about it today). The hope is to not only sell Macs and iPads to kids going to college but also increase the appeal of iPhone to young peopleaswell.Tlhe 5 offon each could be stacked (ex get $150 ifyou purchase aMac and iPhone).
+
+t we t e ntanve y or a osnt o
+
+> , or
+
+blue/iPadlgtuare.Did wtehink that ~
+
+wou hblnf sigtntlcaugynuncifwegavethema
+
+skaiigbt dismuut instead of an iTmus cardV Tgf us iisn'I a huge ~
+
+e.l t hnrk we ate raahutg
+
+arnisndw. We wediscountingowproducItnsteadofaddurgvalve tothen. Gettingoustonues
+
+ow slmes(ITuues.App aud Igookuose) isoueofthebestdingewe candotogetpeople
+
+Exhibit PX 465
+
+HIGHLYCONFIDENTIAL-ATTORNEYS' EYESONLY
+
+pX-0405.>
+
+Building the Walled Garden
+
+smi«u«osarsurnn«rnu
+r«s«s««««s««ss««s«
+
+On Feb 14, 2013, at 6;45 PM, Eddy Cue
+GreatsI was told that BTS was decided and I just wanted to make sure you guys were invohfed. And yes BTS is unrelated but I wanted to make the point because our sales teams (don't like the card margin and therefore don't see the ecosystem) and so they don't push it.
+Let me know if you need any data t help make the case for the ecosystem.
+
+c rear, 1wastoldthai BTS ««s drridrd aud 1just warned tomakesureyou guyswereun»is»dl.
+And um BTK isumelaiedbut 1wantedtomakethe.Pointbecamemu salesteams(danii like ihr card msrfm amlthereintodon't smtheecossutmu)aadsnthey dna'tymhit.
+
+Sent gaanmviyhone ««F «H. «11«. t«57«M ««Sl ««S~
+
+gonadsRkeyou harnissues«0th tbecant salesinretail, whish isumelatul to what «» door don't do for BTS
+
+We hadlourvmy thd ~ bmi m huming BTS idun today and that is m ktm ihst is
+
+~
+
+(f mabunch of utem behindpat me ynnr whichnemltobe ~ h enn a anyone
+
+jmuys the pm andre, acts to a ~
+
+dut b mn'bteaumade y»t). The team is pung to mmiel
+
+the idea audcome backtodiscussX
+
+a ««>«.«|U. · ««>«M «««C
+
+I mderstandthatwchavetnniativelydecidedforadirconatof $100.000%0 for Mac'iyat(iyhone Did wethinkdmtctutnmelsn»nMbnysigtdtscanttymomif n»gavethema suaighi ~ in s tead of aniTutanredsyKthisimh a huge ddfereace.1think«» memaking aouttake We arediscounthsgour yrothanhuteadofai4Sngvahu tothemGettingctntnmets uung omsexes(iTuaes,Ayy and ~ore) is oneofthebestthings«» candoto getyeoyte
+
+Exhibit P)( 495
+
+PX4tt)6 ti «SPk-EG ~
+
+PX-ogo5.1
+
+Building the Walled Garden
+
+Subject: Re: Rumor has Google close to buying WhatsApp for $18
+
+From: "Craig Federighi"
+
+Receivedg)ate): Mon, 08 Apr 2013 14:04:22+0000
+
+I'0: "Eddy Cue"
+
+Cc: "Philip SchillerH
+
+"Tim Cook"
+
+Bate: Mo n, 08 Apr 2013 14'04 22+0000
+
+13o ou have any thoughts o how we would make switching to iMessage (from WhatsAppIW
+compleling omasses ofAndro~ users w o ont ave a unc o j. rIen s. essage ~as
+nice app service, but to get users to switch socialj networks we'd need more than a marginally
+better app. (This is why Google is willing to pay $18 -- for the network, not for the appII.
+
+In the n f r users I am concerned the iMessage on Android would simply see e to remove and obstacle to
+one familiies giving their kids Android phone
+
+- craig
+
+HIGHLY CQNFIQENllAL - AYIQNNEYP EYES QNLY
+
+PX-o4o7.z
+
+Building the Walled Garden
+
+Subject: Fwd: The Android test Fronn "Tim Cook"
+
+lReceived(Date): Fri, 04 Mar 2016 00:28:16+0000
+
+To: "Eddy Cue"
+
+' Craig Federighi
+
+Date: Fri, 04 Mar 2016 00:28:16 +0000
+
+Begin forwarded message:
+
+From: Philip Schiller
+
+Bate: March 3, 2016 at 10:09:26 AM PS'1'
+
+To: Tim Cook
+
+Subject: Fwd: The Android test
+
+FYl - note Joz and I think moving iMessage to Andmid will hurt us more tlhan help us, this email. illustrates why
+
+From: Greg Joswiak
+
+Date: March 3, 2016 at 10;03:23 AM P T
+
+To:Edd Cue
+
+Craig Federighi
+
+, Phil Schiller
+
+Snhject: Fwd: The Android test
+
+Daric Adler
+
+FYI - we hear this a lot. Joz
+
+There's one interesting point in the email below pertaining to iMessage. He refers to the laclk of iMessage on Android as a desi-breaker to moving to Android. See below in red...
+
+Subject: The Android teat
+
+Date:March 3 2016 at3:49:38AM PST
+
+To: Eddy Cue
+
+Steve Gedikian
+
+Cassanova
+
+Frank
+
+And tlhe 41 most difficult to leave the Apple universe appiisiMessage. Moving to Android my
+
+amt y was orce to move to ace oo to message me, us e t, Wha tsApp and Slack
+
+for work, but I missed a ton ofmessa es from friends and famil who all use iMessage and kept
+
+messaging me at my old address. iMessage amounts to serious lock-in.
+
+PX-043.6
+
+Building the Walled Garden
+From: Steve Jobs 8 ubject: Top100- A
+Date: October 24, 2010 6:12:41 PM PDT To: ET
+Here's my current cut.
+1. 2011 Strategy - SJ -w - headcount, average age, ... - VP count, senior promotlons in last year --percent new membership at this meeting - what do we do? - pie chart of unitsJ'product line and reven~roduct line - same charts with tablets+ phones merged together - Post PC era - Apple is theerst company to get here - Post PC products now 66% of our revenues - iPad outsold Mac within 6 months - Post PC era = more mobile {smaller, thinner, lighter) + communications+ apps + cloud services - 2011: Holy War with Google - all the ways we will compete with them - primary reason for this Top 100 meeting - you will hearabout what wer'e doing in each presentation - 2011: Year of the Cloud - we mvented D~g4al Hub concept - PCashub for ail your digital
+- digital hub {center of our universe) Ij{X'k CUStQAl8jf'8 )AtO OUI' CC98$8t8fA - PC now just another client alo - Apple is in danger of hanging on to o para >gm o n g mnova o s ~ emma - Google and Microsoft are further alongon the technol b ut haven't uite figured it out yet
+- tieall of our products together, so we furthe lock customers into our ecosystem -2015: new campus
+PX-o892
+
+Building the Walled Gar den
+On Dec l, 2019, at 9:25 PM, Craig Federighi
+
+PLAINTIFF fels sstlss ae. sans as 8 n a.~l 842
+wrote:
+
+n~ r'
+
+As for rovidin a ion t erm com etitive advantage, while use of these features is likely to make our platform more "sticky" the capabilities themselves are unlikely to be protectable r erentrators: cavy users o ome and the Google ecosystem, for instance, are likely to use the Google Password Manager. In addition, there are standards efforts underway I,'in which we are a participant) to develop new web site methods that are more secure than passwords. On our devices, access to these logins will be protected by FaceID / TouchID, but Google will offer some analogous capability.
+
+smg '
+
+--kg
+
+Qn Dec 1, 2019, at 1:31 Phl, Phg Schiller
+
+wrote.
+
+A huge partofthe ymblem is emaits thatarea 'tfium who thef pretendtobeSom,that gum tamil the userto a webstte to hmecst dmr acnumt nfiasusfion
+
+For ~ eeeueniCloud we olbm get phishug emagsdnt ymtendIhefam fiomApple, achingto go to awetetmtologintoycmr iCloudam@mtbut thef mm 't reafiy Snn Ayple.
+
+Sme fimnncf iPhcne
+
+QnDec1,2019, at 9 &>PM Cmig Federigtu
+
+wmte
+
+Ton,, Qer yrimarfsbategf hase S to elanmotethe meof urer enteredpurnsorstr. 1 e. if the user duesnet tnam ayassnstrdt oamerinto a ~ n m th e f am 'the~ i n It.
+Exhibit PX ast2
+
+PX-0842.I APLONGJNI 86148
+
+PX-o84z.2
+
+'
+
+·
+
+. Iiwm'-
+
+» 7
+»~
+
+Enilding the Walled Garden
+
+PLAINTIFF 4:ca»a»o~»O»~| »»»»»TS»»n»
+Fr nm: t . u c a Maestri Sulbjeet: Re: CIRP says 181M iphones in active use in US but starting to level off-
+9to5Mac Reee1ved(Bate): Fri, 09 Nov 2018 08:35:19 -0800
+Tim Cook To: K evan Parekh Date: F r i , 09 Nov 2018 08:35:19 -0800
+1 think AirPods and Beats to a certain extent) are important give s heer size andI stickiness eAect on the ecosystem.
+
+»
+
+'n
+
+I M ' ,I »
+
+1 wonder if dtev also btctode iPhonesneedeachtsicn)F Streabsandbmssaind (which we cadndc). 1 ~ i ti s not a smaS ~ W e s h mdd Snd mn bow the TthSeeirt ~.
+Lsea
+»» » . F»l»,»7:59»M.X
+
+Ki Tits
+
+Gnr lated US iPbone ~ b m e tmmher Snm Fgd '1S (so ~ b t e to dtek CQ) ' fd
+
+mmmm) is 22bbf This indodcs the addback of the Sand I thnned accotmt as wehad
+
+whb )aro pmw»nwtf (this wm -1M ~
+
+f er t he US). Addh(neera,tdteSrowdt
+
+tmewe~ is2 s kga/QndltssYlYc~tothe)»A»()T(and Id'/» Y/Ycitedinthe
+
+est(etc below.
+
+HIGHLV CONFIGENTIAL-ATTORNEVS' EVES ONLV
+
+Exhibit PX 843
+PX4$G.t AFLWG MSS7354
+
+GAMES
+
+ioS Built From macoS
+
+APPLE INC.
+
+iPhone SDK Launch
+
+MARCH 6, 2008
+
+Steve Jobs
+
+S P B
+
+Phil Schiffer
+
+Bob Borchers
+
+SF
+
+Scott Forestall
+
+T
+
+Travis Boatman
+
+C R
+
+Chuck Detdlck Rizwan Sattar
+
+G E
+
+Glen Keithley Ethan Einhorn
+
+J
+
+John Doerr
+
+Question from audience
+
+Unknown speaker
+
+PLAINTIFF vs.aulac a-vocal 4:Zeav44440-YGR-TSH
+apf G ~ l . a a l I
+ax. No. EX4889
+Scott Forstall
+Former Apple Senior Vice President of iOS Softw are
+
+Q Ci
+
+S We l come. [applause] Th We are really excited to
+
+We' ll start with the core OS. There are a
+
+software roadmap. We'v
+
+really cool stuff to annou Before we get into the d
+
+lot of pieces that make u the core OS. I'm ust oin to hi hli ht a few. We' ll
+
+we' ve come with the iPh
+
+If you look at the U.S. s
+garnereda28aw market
+
+start with the kernel. This is the same OS kernel built out of the same ro ect with
+
+dra and aff the others, so
+
+quarter data here, so th The second thing, thoug
+
+the same source files that we use on Mac OS X It's the same one. We' ve
+
+Internet to a mobile devi
+
+your pocket and that's b browser usage. Look at
+
+op imize i in cer ain ways so i per orms grea in low memory situations and for
+
+because for the first firn
+
+the iPhone but it is the same kernel. areveryexcitingstatisti
+today in terms of the iPh
+
+Now, I have asked two o
+Schiller, our Senior Vice Forestall, our Vice Presi to talk about is iPhone in
+Phil. iapplause]
+
+PX-o88o.8
+
+Apple Cchsdsnusl
+
+Exhibit PX 880
+
+SDK Launch Speech (March 6, 2oo8)
+
+PX-0880.1 APL-APPSTORE 00000055
+
+GAMES
+
+Policy Drove Distribution Decision
+
+PLAINTIFF
+
+Third Party Applications on Mac OS X Embedded
+
+Signing does not imply a specific distribution method and it's left as a olic decision as to whether Apple signed applications are posted to the online store, or we allow developers to distribute on their own.This policy is easy to enforce for applications which are protected by encryption (probably Fairplay), but for applications not participating in Apple DRM we will not be able
+to use techriology to prevent thircl parties from distributing software they get signed by Apple, only contraictual limitations
+would stand in the way.
+
+Exhibit PX 877
+PX-II817.1 APL-EG 01025133
+
+PX-o8yy.g
+
+GAMES
+
+Safety of Macs/macOS "In Their Own Words"
+
+Because of this, Apple provides layers of protection to ensure that apps are free of known malware and haven't been tampered with. Additional protections enforce that access from apps to user data is carefully mediated. These security controls provide a stable, secure platform for apps enabling t housands of developers to deliver hundreds of thousands of apps for iOS, iPadOS, and macOS a l l without impacting system integrity. And users can access these apps on their Apple devices without
+undue fear of viruses, malware, or unauthorized attacks.
+PX-0461
+
+Download epps safely from the Mac App Store. And the internet.
+lNow apps from lmth the App Store andi the internet can be installed worry-free.
+PX-0741
+We design Mac hardware and software with advanced technologies that work together to run apps more securely,,protect your data, and help keep you safe on the web.
+PXO741
+
+Ron Okamoto
+VP, Deueloper Relations Q. Okay. And Apple doesn't think its unsafe to use a Mac, does it? A. N o . We don't think it's unsafe to use a Mac.
+Okamoto Dep. Tr. at 27g:15-18
+Q. Okay. So it's fair to say that using a Mac is not insecure, right. A. Yes, I believe so.
+Okamoto Dep. Tr. at 274:2-4
+
+macQS Is No Less Secure Than iQS
+Ron Okamoto
+Vice President, Developer Relations
+Q. Have you ever heard anybody at Apple say that the macOS is a less secure platform than iOS?
+A. No, I haven' t.
+Okamoto DeP. Tr. at 279:7-9
+
+GAMES
+
+Additional MacOS Security Mechanisms Are Replicable on iOS
+
+Craig Federighi
+Apple Senior Vice President of Softw are Engineering
+Q. You could implement all the mechanisms that are current -- all the
+layers that are currently in macOS [on iOS]; correct?
+A. Yes.
+Federighi Dep. Tr. at 80:2-5
+
+Malware Removal Tool (MRT) XProtect Notarization Gatekeeper
+
+iO.
+replicable replicable replicable replicable
+
+GAMES
+
+Value to Apple of Free Apps
+
+c,s,PnLurAuIwNmNFffFscfL k DBCJTMahYBS-TSH
+
+Fram:
+
+To
+
+CC:
+
+SCCI
+
+Subject Rn The micr«ebon: Rear Stwre Jcbh st he Bann cfAypDiem. Pradka Be Fuhre of Mobae
+
+Age ehmenls
+
+Sank
+
+DTIJTI2DIS Nk4RDI AM DDDD(OISTj
+
+Aclawna Iosdl TllscksIunul
+
+fifa asia it tolawlds, but I wg ccsmluc le xicfcnd aus paisk
+
+Asau45rectorlcvofl atm s(45ifscisay s lou fig kfafrmcdm 4flfl cclsfilvnlostics j,agoes Pnlhfig Pfoss m llfl«cot w gqfOas.
+That's ow emhiionary track.
+
+Sent fromlny iPhane
+
+Steve Jobs
+Former Ante CEO
+
+I don't know off the top of my head, but the majority, clearly, which is reat. Our ur ose in the App Store is to add value to the iPhone. Free apps do that just as well as paid apps sometimes We love free apps.
+Begin
+
+SubjeaL The ~
+
+enl H e ar Steve Jobs, Bl.lbe Sawn of App Stere, Pmdtet the Ffdum ol Mohga
+
+Bale July25,2DIBate IIIL4SAM POT
+
+The nffumathn end The Wsa Sheet Jaumsl have jakaly published an auran msanang of a August 2DDSntenrlew wgs
+Sl«e, discussing Ihe suacess oil he AIW giww one mwah ager launching. Rcpfvtm Nick yheahkl says Ihe recwdiea iauslrshs 'lww aheactthar-mes Mr.Jobs really was, eshe viewed Ihe opyorlunities snmml mcbaa soawsm years boauo as succasa becsnls clclvcntionsl wl5dlvlx
+
+Somekeyquohs isdmh:
+e 'We Wdn't expect 4 lo be ttusOM. Themah le industry' · never seem anylh'ma like aus.Tobe bin eel nedhsr hss Ihe campul« indusby.
+· I askndty thhk IhL IPhms scd tha IPod touch ceal Onlslgs S5IesgyCICMOdsvtcs5 ln Dcs Russia gfunclg slwkal Ibis hoaday seasan
+8 I wolkt uot uust sfly SI oluuf gcalvw bscmsa marty kss 58Iitf axcccdsd ItlBSI Iry5uch 8 gfesl degree gist wl'.vs heist mdusud lo spsclsbus jlrsl lllaa pnl 2
+· on the plsenlhl sf the App glare: 'we' ll be deneb g an Ik» cwangawe areas 8hag8 bi%unNoaarsjl Maybe · Iuhwlsyws S gain l shg lm
+· 'sac alocgklial4l dw inpfd wcvlM ate nlto stuff down fnusdarwopws, ha 45 ~
+
+Ths Sunudwa Hew StaveJabs. af me 0ann elApp Shee.Pmacl alaFutum of Mabas
+
+PX-2o6o.5
+
+iHIGHLY QONFIQENTIAL A-TTORNEYLF EYES ONLY
+
+APLJapPSTONE Dggtgggy
+
+Steve Jobs in 2008
+
+APPLE INC.
+
+iPhone SDK Launch
+
+MARCH 6, 2008
+
+Steve Jobs
+
+S P B
+
+Phil Schiffer
+
+Bob Borchers
+
+SF
+
+Scott Forestall
+
+T
+
+Travis Boatman
+
+C R
+
+Chuck Detdlck Rizwan Sattar
+
+G E
+
+Glen Keithley Ethan Einhorn
+
+J
+
+John Doerr
+
+Question from audience
+
+Unknown speaker
+
+PLAINTIFF vs.curve a-aoaac 4:fieav44440-Yoa-TSH
+apf G ~ l . e rr I
+ax. No. E jLjjijjQ
+Steve Jobs
+Former Apple CEO
+
+S W e l come. [applausej Thanksforjoinin We are really excited to share some gr software roadmap. We'vebeenworkin really cool stuff to announce so let's ge
+Before we get into the details, I just w we' ve come with the iPhone in just the If you look at the U.S. smart phone ma
+garnereda 28aw market share, second
+4ra and afftheothers, so weare preny quarter data here, so that's the ffrst thin
+The secondthing,though,is,asyou kn Internet to a mobile device for the ffrst your pocket and that's being home out browser usage. Look at this. IPhone tf because for the first time you really do are very exciting statistics and so let' s today in terms of the iPhone software
+Now, I have asked two of my colleague Schiller, our Senior Vice President of Forestall, our Vice President of iPhone to talk about is iPhone in the enterprise Phil. iapplausei
+
+And B.lso iust to rnajke it 8 little cleajrer, e don't intend to make mone oIIf the
+A S tore. l mean, we don't make a lot of money off iTunes and the split with the
+music companies is about the same, so in the case of the iTunes Music Store,
+we give all themoney to the content owners and we are basically giving all the money to the developers here and if that 30o/. of it pays for running the store, well that will be great, but we just want to create a very efficient channel for these developers to reach every single iphone user.
+
+Apple Cchfi
+
+Exhibit PX 880
+
+PX-0880.27
+
+PX-0880.1 APL-APPSTORE 00000055
+
+25
+
+Steve Jobs 2oo8 Interview
+
+Fnnar
+Te: cut Quest
+p uhjeeL
+
+Imorhposse Maa Femnc
+
+Ira sPeLrAe ImMmTInFwFJIL ddd~m I c OlwbyedAll S,fm.JBL29$9
+or
+
+Am Th e InfaeneoeHmcmslcca Joan et theQnnn cIApp swm. prewrsde Forum el masse
+
+sans.
+
+STPJTQpld udeCSI AMfuhm(GMTI
+
+Anloplld rmutl Tickled newt
+
+Steve Jebs
+Former App/e CEO
+
+nresold itlr tkkonds, aulI e acanunue m salamiaakprwm
+
+As alr oo euljuf iaswlauas t ~ Thsf s om ecalulcmmy traeL
+
+Iunw r d ~
+
+Sontfrraemy iPlmne QnJul 2d. 2plp, et 2S2 PM. Matt Flscherc
+
+MR. JOBS. I don't know off the top of my head, but the majority, clearly, which is great. Our purpose in the App Store is to add value to the iPhone. Free apps dc that just as well as paid apps sometimes. We love free apps.
+
+Fram: Tsm Meumayr
+SubjectThe fnfmmadon: Wear SMrm JabotatSm Q · Isle: July25,2dtsstd.lllsdAblpsT
+
+The fldwmafhm and The Well Sheet J'sum el hare jai
+
+Stere.Pncssdnd dw suceess etdm App Slum ene
+
+aluslnaes 'lmn a n~ a
+
+s Mr.Jahsnmay was.
+
+behne hs macem bemme~ f
+
+wsi dw n
+
+Same has duotes Mdu de:
+· "We adn't mpecl 2 le he IMshid. The mobile ind Se Inmputar hnbrsby.
+· 2 a deadlyrhinotherooneandthe iPod tauoh m Ihts lwddoy oaeweL
+o 1 tmuM notbust wm cfear~ wctm bocareduced m speotowm iml fha ycu.
+· Qn Se palenlialef ths App Shaw 'Well he da ssmcdop we·'detIs etdhm .
+· nlfe S am armde InmdwrwmWodWoo
+
+MR. WINGFIELI3: OK. The 70-39 split are the economics of this working out the way that you had said wheri we last
+spoke, which is that you might make some money, but you don't expect it to be a big source of profits'
+
+MR. JOBS: Yeah. It's just like iTunes.
+
+MR. VVINGFIELI3: Even wijth the huge popularityof this, you don' t...
+
+MR. JOBS: ¹. It costs morley to run It. Those free apps cos
+
+-
+
+-- '
+
+I Id apps
+
+cost money, ioo. They have to pay for some of ihe free apps We don't expeci this io be a big profit generato We
+
+expect it to add value to the iPhone. We' ll sell more iPhones ecause
+
+iiiiGPILY CQMFIUEMTIAL - ATTQPSIEYS' EYES QMLY
+
+PX-2o6o.5-6
+
+GAMES
+
+Non-Negotiable Agreements
+
+Ron Okamoto
+Vice President, Developer Relations
+Q. Does Apple routinely negotiate the terms of the developer program license agreement with developers?
+A. No, they do not. Q. I n fact, Apple presents the same developer program license agreement
+to all developers who wish to distribute through the App Store, right?
+
+A. To my knowledge, yes.
+
+Okamoto Dep. Tr. at 284:7-15
+
+GAMES
+
+SteveJobs on the Value ofIreeApps
+
+clc"PemlAsINmTn IIFvFmst 0: hoodggbbyGR-TSH y .Ha. JBERQISIII
+
+RCCI S utgeeb
+
+Re:li h e ~lnhnnariwcHmr Steve Jahs, el Ihs IDswn sf App Slue. IPredhSGe Future ef MeNe
+
+Seat
+
+DTGylgglg gg00 Sl Ahl gGMIGHTj
+
+Antaculg rcadl Thclrto botel
+
+'I' ve said it m themis hrt I will caolinas m defsndi Ihts ipamk
+
+Ascnras majsr invcngam Iespesiagy wound mfcrmsgcn Imdmrnmanleshmj. h peasInrbwng Press -sIrawmst-v iPlwne. That' · am
+
+I don't know off the top of my head but the rnajonty clearly which ~s great. Our ur ose ~n the App Store ~s to add value Teem. to the iPhone. Free apps do that just as well as paid apps sometimes. We love free apps
+
+Fneal 1lml Hwrmcyr Svhfteb Ttlo hlfonachluc Heel" Slelm Johtk at de' Dawncf App SUUU Pledmt Gw FLJOJISo'f ItoNC Pale;Jdb gg.2gtgOld II SCAM PDT
+1he Infmmnmn snd The Wall Sheet Jeucnsl have jniraly puMshed an audin tecangng af a August 2MU nlenriew whh Reve. Gscusskm Ge sucsess of dm App Smm onerrardk ager lhenohhm. Rcpcsm tgck IARGCSMsaysthemccngrm
+gluslrstes haw stwmSH the hmcs Idr. Jobs reallywss7 as he Umnm me eppartua ives anmndl mahlle sshvwre y earn
+atfcrccs succmw,bmtrat mn rclowawuestern.
+
+· 'Rle ddn'I aspect it la Iba dts hig. The meMe Induary's never seen snythirm like Wis. To he lmnest neidler bm
+
+Iho csrapalcr Illnklmy 7
+
+0 1 cchmgy drlrdl tbo i phonocndpw Ipod Ismch mm cree lbo cs mslh Uhhhr dewcm Irl gris lrlolulc gnnrag Inmbot
+
+Wb hslidsy sesscn
+
+0 1 wmldl nut hvsl mysf oar plwfwgans because maRy has so Ifsrexceededgwm by such a drest degree that wova bess Iedaacd ar 5pentvam IUst hkc FUL
+
+· Dn ths pntangdat theAppslsrw well be dacnng an the esilcw if we mess a Ihsif a bgfon Idcgslsj. Clayla somedaywa' · get ma Hgwn 7
+
+· vbe UveGmmmme inpn acute sbta el sam esca fern ~ h
+
+m n's s cewsamng.
+
+The InAmnslien Hear SteveJobs,m gbsQa en sfA pp Shne, PleGm Ihe Fubae CIIISOMs
+
+PX-2o6o.5
+
+PX-202D. I APL JtPPSTIJRE 02D72227
+
+GAMES
+
+ReceicedtBate):Bred, 30Jas20N 13:30 04-01100
+r- I o u r~ ~
+
+Subject: Fwdi Fohsdial~ m
+r: r
+
+sttcm atioe
+
+CG Bob ~
+
+Itsh tJRaraete
+
+Bare: Wry 30 Jsa 200$ 15:30i04 -OIIIB
+
+FLNNIBFF
+aa,so, PXu0097
+iaur~
+
+If tteeie accltrale, lt souadsidle'we11basete rackstare Oilsrehtsdort'tattowttas.
+
+Hedie Shuutded steerage.
+
+Bate: Jahuecf 3D,2000264.11PMPST
+
+Bo: C.K. Haah Subieeb Ftty: Pelstlhsl dlsthbuttph a~ Guys, Check out CK's email below. It leoks like he's identified a possible leek inthe system. The uphtsy eon.
+
+Fmirl'l C.K. ttaun Outer teledr 30 Jan ZOOS ter39r St -OSM Tor lion Qkaraeto Subject: potential clistribution alternathie
+
+IExhibit Px 897
+
+The Birth of IAP
+-- ----Forwarded Message From: UC.K. Hau nU Diate: Wed 3 0 3an 2008 14:39:36 -080 i0 To: Ron Okamoto Subject: potential distribution alternative
+Many games have a healthy after-market in additional game levels, enhanced graphics for in-game activities,,and other datai up to and including completely new garnes that can be cfeated from a installed base garne engine. Many for a fee . > o m e a eveiopers wiII want this
+- Game 'then uses thiBt datiB to CI cate iBnenhanced expel lence, up to and including an entirely new (to thie user) gamic As long as we allow network access and local file storage 7 cannot see a way totechnologically stop that from happening. We can and will stop apps from downloading and running code.
+
+Keceiredalam): Weg30Jan200$1390.04-0$00
+a' : Gar ~
+Subject: Twd. potmlial isaibulion Itemxlim Ts: Scou Folsbdt Crl Bob ~
+Date. Weg 30 Jan 200$13.30 04-0$00
+
+PLAINTIFF
+s .n, PX-0$07
+
+Jf ibisis accmate, 0 sooadsEkewell have to make arneoarhamsdon'tallow this.
+
+ttegtn ~ m e ssage:
+
+From:Ron Okanmlo
+
+Date:Januartr $0, 2000 2:Sd.t 1 PM PST
+
+To: anti' aofchnln
+
+Greg Jtmntak
+
+Co: 'C.K. Haun Subjeoh FW: potunuat distribution alternative
+
+Ouya, Check out CK's email below. R looks like he's idenuaed a possible leak in the system. Thoughts?
+
+-- Fo n aardad Message Frown C.K. ttsun aster eyed, 30 Jan Zotm 14tag:36 -nano yot non Okamoto Suluactr potential distribubon altematnm
+
+Exhibit PX 897
+PX-tkt07.1 AFL-EOJ$341acg
+
+The Eirth of IAP
+
+ReceivettD(ate):Wed, 30 Jan2008 15:30:04 -0800
+
+Fram: Gr eg Joswiak
+
+Subject: Fw d: potential distribution alternative
+
+To: Scott Forstall
+
+Cc: Bo b Borchers
+
+Ron Okamoto
+
+Date: Wed, 30 Jan 2008 15:30:04 -0800
+
+If this is accurate, it sounds like we' ll hav to make sure our terms don't allow this. Thoughts' ?
+
+Begin forwarded message:
+
+From: Ron Okamoto
+
+Date: January 30, 2008 2:54:11 PM PST
+
+To: Bob Borchers Cc: uc K. Haun n
+
+Greg Joswiak
+
+Subject: FW: potential distribution alternative
+
+Guys,
+
+Check out CK's email below, It looks like he's identified a possible "leak" in the system.
+
+Thoughts?
+
+Ron.
+
+PX-o897.z
+
+Contractual Provisions
+
+App Store
+
+tuelsn
+
+Onnelnp
+
+meeenee
+
+SUPNtllt
+
+neeetnllt
+
+lPLAjNTIFF mxua,eo,vomhmahtmnnbyNeelbeTnnSH
+App Store Review Guidelines gx,uo, PX4055
+
+Apps are changing the world, enriching people'n lives, and enabling devel opmslike you to
+inrmvste like navar before. As s result,, the App Store has grown mto an exd ting and vibrant
+ecosystem for millions of developerssnd mare than s hilhon users. Whether you ara s first
+time developer or a I'ergo team of experienced pmgrammera, we are excited that you are
+cresting appa for the App Store and want to help you umlerstand our guidelines so you can
+be confident your app will get through the mvfew p
+
+y y
+
+ge
+
+e
+
+e
+
+i e
+
+e
+
+8
+
+8
+
+5 5
+
+8
+
+·I I I
+
+8
+
+58
+
+8 i 58
+
+I
+
+I
+
+8
+
+5 5
+
+'
+r
+
+I
+
+I'
+
+r 'III
+
+II '
+
+I ·
+
+8
+
+·
+
+8
+
+I I
+
+·
+
+8
+
+·
+
+r I I
+
+3. I PaplYlents
+
+actors nw Sn emu 'I. Safety X. verfennnnne e. Oehen S. legal NNerYnnsaws
+ExitibBI 0056
+
+IntrOdUCtiofT
+The guiding principle of ths App Store b ample · we to getapps and a gmst op~ f or s a dsmle highly curated App Stow wham every spp is mview Users dleoevShI SWSPPNevery deil Flu everything el A pp Qnrersodsland guldefniesare nothastforyeur pnnrideSafarifor a greet webrepsrlence too.
+Qn the fegnhlng pages youwll find nur latest guble Safety, P~ ,, a u slnsm, Desaingdn,LsgaL improving te keep up with ths needs ef our customs Change arid hlhplhvs etlwngkl Ofdsf to Slee hhthe
+A tsw other paine to keep in mindi
+We have lom of kids dowolosding lots of spps. but yoU lines to do youf psfr too. So know em't ws
+The AppStareisagmatwaytom achhundreds of butd sn spp filst yoUiUst vmflt to shoNIttl fsullly to dothsl Consider using Xcods to lnsmg yeurap dletribuben available te Apple Developer Program leam mars slmut the Apple Developer Program.
+We strengly support ag points of view being rep spps anl mspsclful to Usus alai trtfisfylg opkl greek We will reject spps for sny content orbe arw,ynu Nekl Wsk,as a Suprsrse Court Jusgce o think that you will akm know lt wlten yeu cross it.
+If you attempt to cheat ewsyste(mforexample,b
+ussr data, copy anelhsr developer's werk, msnlpu spps wal bn lsrhovsd fhetl fils stole shd you will be
+
+3.'I.'I In-App PUrchase: · lf you want to unlock features or functionality within your app, (by way of example:
+subscriptions, in-game currencies, game levels, access to premium content, or unlocking a full version), you must use in-app purchase. Apps may not use their own mechanisms to unlock content or functionality, such as license keys, augmented reality markers, QR codes, etc. Apps and their metadata may not include buttons, external links, or other calls to action that direct customers to purchasing mechanisms other than in-app purchase.
+
+PX-OD56.f
+
+PX-0056 (0 $.1.1)
+
+PX-oo56
+
+No One Would Use IAP if It Were Optional
+
+PRBIB
+
+Mdt Pafonm
+
+Td: CD:
+BCCI
+
+Ltadssydlumsnthal Careen Qlisar
+
+BBBtIKB Re : PTI - Lylt 4 liber fdfrhte AtBKIBRIKlttr1
+
+RBB L
+
+ta~ a~ tb by rbSBT PM 6666 (BMT)
+
+T lmdra ~
+
+. IAP bma b apbanal meanthsat na rme will afar uas a.
+
+As wn fBrmfmad, ws wfmt yfm bf omrra rdf wrlh tile treat ~
+
+t lls l wr b wofh
+
+) Qn Qea IB 601 6. at 16:4" AM. Lindaey Blwnenthal wrets:
+
+) 14 Mall,
+
+) Trpdsrl oofdlrrsrsftthat IAP afar opdohsl iol tile rsfffbsrahpsllboodptiofw, ao I Lyll bamrhed the 4mtrnsam 'all saaeas' modeludfeas IAP, and laaunenby
+fear yew sad SIA waffled to Ird yea Ianna n ossa Ladsrr rasohod old. Ipl
+
+) ILfa me kmw it yau hase any ataeatiwm
+
+) lbaat, ) lindaay
+
+PLAINTIFF 4:ABSSBABBLTBR.TBR
+O s ~ f . r fm l
+
+From:
+
+Matt Fischer
+
+To:
+
+Lindsey Blumenthal
+
+CG:
+
+Carson Oliver
+
+BCC:
+
+Subject: Re: F Y I - Lyft 8 Uber update
+
+Attachments:
+
+Sent:
+
+12/12/2018 07:54:27 PM 0000 (GMT)
+
+Thanks. Unfortunately, IAP being "optional" means that no one will ever use it.
+
+As we discussed, we want you to come up with the next approach that will work for us and our developers.
+
+> On Dec 12, 2018, at 10:42 AM, Lindsey Blumenthal wrote:
+
+> Hi Matt,
+
+> Trystan confirmed that IAP was optional for the membership subscriptions, so I communicated this message to Lyft today, Lyft launched the $300/month Ball access" model without IAP, and is currently testing the $5-10/month subscription. No action
+required on your end but wanted to let you know in case Logan reached out, I plan to speak with Uber next week,
+
+Etthlbit
+ex 02a2
+PX-Q2tt2.4 APL-APPBTQRE 66163546
+
+PX-o2o2
+
+GAMES
+
+Matt Fischer
+Vice President, App Store at Apple
+Studies Regarding Security Issues With Alternative Payment
+Processing
+
+No Known Security Issues
+
+Fischer Dep. Tr. at 109:5-9, 109:11-12 37
+
+No KnowT1 Security Issues with Epic's Payment System
+Matt Fischer
+Vice President, App Store at Apple Epic Alternative Payment Processing
+System
+Fischer Dep. Tr. at 112:4-9
+
+GAMES
+
+Costs Played No Role in Choosing 30%
+Carson Oliver
+Director of Business ManagTM ~ t . App Store at Apple
+Q. Now, during that entire period of time you' ve just described, when you were involved in discussions about changes to the commission structure for IAP on the App Store, do you ever recall an d i scussion about the costs associated with running the App Store, the costs associated with processing IAP or anything like that, any cost component in those discussions that you just described for us?
+A. Not that I can think of.
+Oliver 272:8-17
+
+GAMES
+
+PIJtptiTIPnFe m
+
+FrWrn Trr. CCr NCC= N rlbtoat
+
+mtm Nemm mra Fnnhm
+Wn Ti r e ~
+
+4 I faar mo ueJuhh OI We barm sf AFF Nmm. Frnww Sie Future ef4lsbte
+
+Sant
+
+STWTFJINS SS.44rel ASIMM tGIIT)
+
+AfemmpiwweTheism host!
+
+il'seSWN eblSrwels, hul Ii wit awNIIws te eetmreWssImwt
+
+As term mswr enlrmunt Iatptwsspsnmnt Inbnrohrm wnt ~ h Tlun'a em tuaanatt ene,
+
+4 sees Faelms Fiatsr hnorrm m whose
+
+Semfmm mp iNlmna
+
+uw
+
+Cn JW SN.SNIS,mNM Fat. Slue Fnwrm
+
+It says he App Store is much larger than we ever imagined iTun~ehsas been orcutfor over five yea~rs.In 30days, users
+downloa e oa s many apps as every o y inetwor own l oaded songs frorniTunes.
+
+Fnaa: Tmn Neumetr
+NMjeet Tbe Meewreew Went Nle're Satin,A me WeM Jntp25, hem ale.l'I'IOSIM FWT
+
+We didn't expect it to be this big. The mobile industry's never seen anything like this. To be honest, neither has the
+
+computerindustry. Ilaughs] Sixty milliondownloaded a, Iicatlons in the first 30 days. Thirty percent as big as iTunes
+
+o ttf · NNnloryamembslhlsbrb Thamehae am Oampuanr inrhnep,
+
+ong downloads during the last 30 days
+
+o 'I etmsap thr4en iwlwne en4 AerpeNWuah
+
+SIN iINMOS aoownl.
+
+o 1 banal riel eum wit 4t oaftnoeNllom Imowme
+
+were been foltnoml ftr spsttnam FIWlbt. Nm
+
+O Qrr SmpemrlSWof SmApp Sane; ONOSOsNsmwrs onOio ombis If we trott e Iwlf 4 amon
+
+wmroaepwe I Nw Io4 hltbn,
+
+o Ts» Smml4Ihslwe hwm weulai owl lowearNree ewn Noraloeare. Owh's~
+
+The ilfeenrmbw Itosr SteveAbn m Ihe Cern 44 Aee Stern F reeolws Ftwna of Wsbee
+
+this Is off the charts,
+
+P PX-NO6O.
+
+The App Store Was Already Profitable In 2009
+
+Silk]ect: Rs: Agp Stets Flsatchd Mode
+: >hha "~
+Rrcehvdglsreh Wcd, H hd 2lKO tftr4:52e0060 h'. ~ hh h ~ ~
+Date: Wc4 ty htt 2000 tfrt4.M e0000
+We me defmltelymakingrmmeysaweare Sneaadmant caasendyau the data
+Sent fresh myIPhane
+0 J 115 hhhh hh hhhhh hhhhhdhl
+> fhlarkh
+> Steve hasaskedifwecauldsendhimihe datafarIheAppSlee > Snarxlal madel. He wants ta umterstand the prafils aml casts ghe > assumpgan isthat it is athestslighgy pasikve given agihe > free apps. which isfmeh
+> TMnks,
+> Phil
+
+PLAINIIPg 4 eScehwe,h. hhmhea>evhehahlhtau · hh.ue, ~NU i
+
+lExhlblt PX 406
+PX-0406. I ttpc-Ea 002tefts
+
+5%lbject: Rc : AIpp Store F1IMllci81 Model FroRl: ~EIMy Cllc
+ReeelvedI(Date):Wed, 15 Jill 2009 17 14:52 +OOOO
+le: "Philip Schillcr"
+i."e: "Mal1 Doliliellyn Bate: Wc d,15 Jill 2009 17:14:52 +OOOO
+
+We Bl'8 definltelItf Friaklng mone/ o w e BF'8 fliA8Bnd FAark cBA send Qou ie B a.
+
+Sent fl'oFArnid IPhone On Jul 15, 2009, at 5:'i 6 PM, Philip Schiller
+
+wrote:
+
+> Mark,
+
+> Steve has asked if we could send him the data for the App Store > financial model He wants to understand the profits Bnd costs lIthe > assumptionl Isthat lt Is at best, slightly positive given all the > fF'eeBpps, which Is fine).
+
+> Thanks,, > Phil
+
+PX-o4o6
+
+"Do we think our 70/3o split will last forever'?"
+
+r : Pur r R brl
+
+Subjert: HTjvjl 5 lions Thmat te Bashandithe Apjt8tm&
+
+ltdselsedfDafe ji Thu,,28 jgl 2011 00;27;10dj700
+
+'r: BviCB ~r
+
+Jw
+
+Date: llm,287&j 2011 00.27.10-0700
+
+PLAINTIFF Oaus.vu, nOvlreicai aCdvvbryBgiiCtvCyCSH
+su curve ivr. Ccivvru &BSO, ~
+
+Do we Obtr ms fm&0 split WS hsd forevsrfWhile I am a staunch ~ o
+
+fgw 7 &I50 spit and kespmg
+
+it sinple imd ~
+
+acms s our Bases, I duthrsintk gmt 70lsg will last&mt ~
+
+Quave r . I think
+
+RomedW we will see enough chsgsnge fram mwther phdlium ar web based soluaons to want lu adjust ow
+
+madel talresdy Coogle has mlled out a web w app purchase modal at ssf&j.
+
+If somedayrknm Sw riwd we will tw ~ 7 0i&0 , Oenil Oink Sw uucstkmnswssfmin SPto"wlwn
+
+Bird "houl'. Itu not suggBstiig iue do ~
+
+ralfe m nW lodsy, isifli Swt wIIBtiiu wB snake ii chiBigB IRB
+
+do il fmm a posisrmosflriwglh ramer Om ~
+
+. sha t we use asnuyet change io ow ~e
+
+if
+
+posabh. And tiwdmg aboul Ihis long madwwce mw only hiap to look at an eventum ctwnge ason
+
+tuilh dwrdopsnt piessi, ~
+
+sl cj .
+
+dust ss oneguaagd ones we wemskkrgouwSl 0 ayear inpret&framthe App&lcm.Is gudeneughlo then iihink sbmd a model where we mtdwt doun fiom 7&ia& fo 7&lgs er even&fy20 if we can msmlam a
+
+St & eyear' rivi WBB7II kimw that is ~ r
+
+a, I fu s t uie it iip Bs Bnogiei wali Io look Rt Sis iuzB of Sle
+
+business, whsi WBwwit 'Io Bchisvc, Bull how BB Rtaf lwmpegavu
+
+Again, just feed fw Oought
+h yAIO ' coaktechem l2 & jl0772ahtmj5- scs-ibrtwt-to-flash-ssd-thcstuteffmod -- e mews hlo
+
+HTML5 Poses Threat to Flashl artd the App Store
+
+Throughout a large propojtion of Tech auirope postings there is an underlying thread or, more accurately, a common languag~ T M LS.
+
+Just this weejf, it underpinsMmilla's challen e to Android and the rest;the website-buildin service of BaseKitand, perhaps, Adobe's decision to close its a s t o res.
+Few outside the techie world were perhaps aware of HTMIL5 before April 2010 when Appile CEO Steve Jobs declared iPhonesandi iPads would never support Adobe Flash.
+Exhibit PX 41i7
+
+CsjkiRDENtjAL
+
+PXvgdt 7. I
+
+From: Ph ilip Schilller
+
+Stlbjeet: H T M1.5 Poses Threat to Flash md the App Store
+
+Received(Bate): Thu, 28 Jul 2011 09:27:10 -0700
+
+To: Eddy Cue
+
+Steve Jobs
+
+Bate: Th u, 283ttl2011 09:27:10 -0700
+
+Food for thought:
+Do we think our 70/30 split will last forever? While I am a staunch supporter of the 70/30 split and keeping l simp e an consis en across ours ores, don't think that 70/30 will last that unchanged forever. I think someday we will see enough challenge from another platform or web based solutions to want to adjust our model (already Google has rolled out a web in app purchase model at 95/5).
+If someday down the road we will be changing 70/30, then I think the question moves from "if' tonwhen n and nhow". I'rn not suggesting we do anything differently today, only that whenever we make a change we do lt from a position of strength rather than weakness. That we use any suchi change to our advantage if possible. And thinking about this long in advance can only help to look at an eventual change as an opportunity (wl'th d8V8lop8rs, press, customers, etc).
+Just as one thou ht once we are making over $1B a year in profit from the App Store, is that enough to t en t in a out a model where we ratchet down from 70/30 to 75/25 or even 80/20 if we can maintain a $1Bayearrunrate? n o w a i sc o n r oversia, Ius ee l up a s a no e r w ay o oo a e size o e
+usiness, w a we want to achieve, and how we stay competitive.
+Again, just food for thought.
+
+PX-o4x7
+
+GAMES
+
+OperatingMargin Percentage
+
+8o.o%
+
+70.0%
+6o.o%
+50.0%
+
+'
+
+·
+
+·
+
+40.0%
+
+30.0%
+
+20.0%
+
+10.0%
+· ' i
+0.0%
+
+-10.0%
+
+App Store
+
+FY 2018
+
+20.7'%
+
+12.4%
+
+29.9%
+
+-4.8%
+
+14.3%
+
+eBay
+
+Etsy
+
+Alibaba Mercado Libre
+(Core Commerce segment)
+
+Rakuten
+(Internet Services segment)
+
+8o.o%
+
+FY 2019
+
+70.0%
+6o.o%
+50.0%
+
+'
+
+·
+
+·
+
+40.0%
+
+30.0%
+
+20.0%
+
+10.0% 0.0%
+
+· I
+
+21.5%
+
+10 8%
+
+29 4%
+
+10.1%
+
+-10.0%
+
+App Store
+
+eBay
+
+Etsy
+
+Alibaba Mercado Libre
+(Core Commerce segment)
+
+Rakuten
+(Internet Services segment)
+
+Ned Barnes Expert Written Direct Testimony, Exhibit Expert 2
+46
+
+GAMES
+
+Apple's Termination Provisions
+
+Case 4 20-cv-066r(0YGR oucument 61-11 Filed09/04/20 Page
+
+PLAINTIFF 4 ~ g g gPyog mn
+u,,u PX-2518
+
+yy · g · · g y ·
+
+A ·
+
+·
+
+·
+
+·
+
+THIS IS A LEGAL AGREEMENII BEIWEEN 'YOU AND APPLE INC. [ APPLE" ) STATING T)IE TERMS THAT GOVERN YDUR PART)CIPATION AS AN APPLE DEVELOPER. PLEASE READ THIS APPLE DEVELOPER AGREEMENT ("AGREE6IENT") BEFORE PRESSING THE
+AGREE BUTTON AND CHECKING THE BOX AT THE BDTTOM OF THIS PAGE. BY PRESSIING "AGREE," YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, PRESS CANCEL .
+Apple DeVelt(yper IN)greerneint
+1. Rel a gonnhip With Apple; Apph ID sad Passwerd. You understaanadd agree Nst by registering with Apple te become an Apple Developer ( Apple Developer'), no legal psrlnsrubip or agency mlakonship is crested between you and Apple. Yau agnm net to repmsanl alherwixe. You also oerkfy gud yoe are st least Ihktenn years of sge and you represent thai you are legsgy pennieed lu register as se Apple Developer. This Agmement is veld where pruhibged bylsw and the ngkt to reghter ss an Apple Developer is not granted in such jurhdlctions. Urdess alhensim agreed or permidsd by Apple in wribng, ynu cermet share or Sarmhr any bsmNs you receive fmm Appleinca nneckon wgb beingan A ppleD eveloper. Tha Apple IDand passwmd you use toh g intoyourApple Oevehper accountcannot be nhsred in an y wsy orwile mr yone. You sre responeiblfsorm smtdmng the canndenfNMY ofyo urAp pleID and password sndforany acgvily ia rmnermbon with your accnonL
+2. De veloper BeneyrAts.an AppleD eveloper,you may have the opparlunkyto agend certain Apple developer confemnces,technical talks, snd alber events (induding online or eledraaic broadcasts of such events) (' Apple Events ). In addNon, Apple may ofter to pmvide you wilk certain services ('Services ), ssdescrfbed mare fully herein and on the Apple Developer web pages (' Site ), uolely far your own uee in connec5on with your psrtidpa6on su an Apple Developer. Services may include. but not be lireited N, sny services Apple elhrs at Apple Evnrds or ontbe Site as wey ss tbe olh dng ofanycordantarm ateriah dhphyed on gm Ske (C ontent'L A pple maychange, suspend ordhmagnue providieg gm Services,Ske and Contentto you staey Sme. aed may impose 6mite on oerlnh feslums and materials ogemd or mshict your access to parle or sb of such matsdsh without ne6ee orliability.
+
+e
+·
+
+·
+
+·
+
+·
+
+e ·e
+
+e · ·e
+
+·
+
+·
+
+·
+
+·
+
+·
+
+2.
+
+Deve l o per Benefits. As an Apple Developer, you may have the opportunity to attend
+
+certain Apple developer conferences, technical talks, and other events (including online or electronic broadcasts of such events) (uApple Events" ). In addition, Apple may offer to provide you with certain services ( HServices w), as described more fully herein and on the Apple Developer web pages (eSite w), solely for your own use in connection with your participation as an Apple
+
+Developer. Services may include, but not be limited to, any services Apple offers at Apple Events
+or on the Site as well as the offering of any content or materials displayed on the Site (uContent w).
+
+Apple may change, suspend or discontinue providing the Services, Site and Content to you at any
+
+time, and may impose limits on certain features and materials offered or restrict your access to
+
+parts or all of such materials without notice or liability.
+
+th Res u i cbona. You agree not to exploit the She, or any Servimx, Apple Events or Caeterui providedtoyoubyApple asan Apple Developer,inanyunsugmnzsd way, indudingbutrmtlimgml to, by bwspass, bunlening nehvork cspacky or usmgthe Smvices,Site or Content other ikonfor aulkorized purposes. Copyrightandother intakedual property laws pndect Ihe Sile snd Content providedtoyou,and you agree to abide byand m aintainsy notices,6csnseinfou nagon,and reshictions cnatained Iherem. Unless expressly peaniged herein ar rdhmwlse peanigad in s separate ugremnantwith Apple, you msy not amdiTY,publish, nehvork, rent, lease, loan, barmrniL sell, participate inthe tmnsNr ornate af, reproduce, wants derivs5ve works bmmd on, mdiedbute, perform, display, or in sny wsy exploit any of theSite, Cordent or Services. You may eot decompile, reveme engheer. dissxuemble, or atterept to dumre the source code of sny sukwsre or security componsrrleof gm Sencces. Sge, or Content (except as and only to the extent soir foregoing msbhyon h prebkdmd by spplicabh Isw nr to gm extent sn may be penn kted by aey deans'mg tenne accurepenymg the fnrsgoing). Use of the She, Content or Smvimm to violsla, tamper wilh, or circumvent the security of any computer network, segwara, paxawmds, nncrypgon cmfes, technolagical pmtecgon measures, or to othenehe engage ie sny kind of ieegsl srliviiy, ar to enable ethem to do so, is expressly prohibitsri. Apple retains ownershipof all kx ngms ie the Site, Cenlisnt, Apple Eventsand Smvices, aad exceptas expmssly sst forth herein, no other rights or licenses are gmnted ar to be implied under sny Apple intellechal pmpnriy.
+4. ConN z enVality. Except as otherwise set ferlh hernia, you agree inst aay Apple pmreleasesofbmm, services, andlor hsrdwam (inclurliag related documentabon and mxtedals) prmrided to you ae sn Apple Developer ('Pre-Release klaterials ) snd any information disclosed
+PX-251e.2
+
+10. Ter m and Termination. Apple may terminate or suspend you as a registered Apple Developer at any time in Apple's sole discretion. If Apple terminates you as a registered Apple
+Developer, Apple reserves the right to deny your reapplication at any time in Apple's sole discretion. You may terminate your participation as a registered Apple Developer at any time, for any reason, by notifying Apple in writing of your intent to do so. Upon any termination or, at Apple's discretion, suspension, all rights and licenses granted to you by Apple will cease, including
+your right to access the Site, and you agree to destroy any and all Apple Confidential Information that is in your possession or control. At Apple's request, you agree to provide certification of such
+destruction to Apple. No refund or partial refund of any fees paid hereunder or any other fees will be made for any reason. Following termination of this Agreement, Sections 1, 3-5, 7 (but only for so long as the duration specified by Apple for such usage), 10-19 shall continue to bind the parties.
+
+PX-2618 at gg 2, 10
+
+GAMES
+
+New DPLA Language
+
+FUUNTIFF
+
+By dhslng toepee to ltusschsdute2.wlsch Ishweby othred toYoubyApph,You agree wimAtgssto snlend that csflntnApple Developer lcgl8nl Llcsfwl gssnwlt cislsngy In effect between Yau slut Apple
+
+(tlxl '~
+
+)bl s d d Olh SchadUIs 2 msllvlo (Wpplnidld nny Ulasallg Sctlwtunl 2). Except 8aUISINwlwl
+
+plovtilsd hendn8,5wlplnhxsdtonneshaghaveOwnnwlulgv sat fmlhhi he AgnwnwnL
+
+Schedule 2
+
+1.'I Ynu hanrbyappointApph
+menwuld snddefvsry of Ihe Ssc5cn I lo this Sdlsdule 2. Sub ths UosnlxldApplhs5urwulEnf Sctuniuls 2, wtgsct lo ch8ngs, If whhh You nwy adscl shag bs
+lb Onw. You hereby schumf Clonrucsd byEnd-Umra Ouough
+Sdwduts2 theOdcwlngd
+
+(a) 'You stwf indudsAppStore
+
+nlxmclsted ~
+
+ml Y U UI
+
+Ib) Endnlse"indudss lndlvid Shwing. For ~
+Aetf tmdmi bythetws'bdoIW trwtsdsunnsonshanvl devices, trwbhdow sppmvsf by Apple, nymld srd alhlshm.
+
+(c) For the puqmsw omf is Sch axlsnvicsls, Qllclwa, of wldcw
+
+12 Infurtherance ofApple'8 s tmdrucAt ppel tw (n) wadwLsoedLandotdfinmd countrieIsdentded byYoulnme
+
+(b) pvnddstmsdngswvlcsstn Y snf End-Ussr access h, Ow AppgcslkulsWddyss
+
+7. 1I T h is Sciled iLII6 2, and all Of Apple 8 GII3lligl8tlons hefBiLlndelr, shall ternlinate UpQAthe Bxpllrati'on GI'
+tel'AllAa'tloA Gf tllle AgreenlBrIt. NG'Mt(hstancllng any soclll t&rmlnatIaGA, Apple Shall l38 entitled to 4IiII alii
+Gomnll !SSions QAall copIBs Qf thB LicBrISed ApplicatlOAS clo(II'AIOad6d by End;Users pl'lol' to tile elate Qf
+ternliAatioAcllni dudilng tlhe pha86-Qut peIiod Set tortLh irl Sectiion 1.4 hereof); aAd IIillII reimbursement frelrn You of
+refunds paid lay Apple to End-UsBrs, whethelr before Gr after the date Gf ternlination, in accordance with Section
+6.3 of this Schediuie 2. When the Aglreernent ternlilnates, Applemay mithhoId ali payments due to You for a BriOd that Ai le deternlines is I Basonable in GrdeI to CalcUIate and offset 8ny ErId-USer refundS. kf at any time
+A I e detel nlInes Gl' 808 Bets hat YQU Qv any clevBIGpers wi(ht 'IilhiCh YQU8I'6 afrIIiated havB BAgage In, GI'
+9rI iQOuragedQI'partI!cipated 'My'ithGth9r deveiopers to engage 4il, alIly SUSpicious, rnisi99dilng, fr80duient,
+Inlplt'oper, Unllavff)LII Or dishonest act GI'Gnllsslon s pp 6 fnay vllt Q pay m e n ts U e to QU GsI uc Qt el
+
+BVB Gpel's.
+
+(d) aihw or, in Ihe wive of amass am! Iwmxwse wplss of donruoadOmveUcsnssd
+
+Iusadnln Slicugh Une Or Ulwa
+Abpyspnlhinsddiovnidsuuandl werxnlhuhnStcahsesdoudlsets2dfnwr guhsosgbwyr hmmugily(pmieEenmdb-UesmwsviawFhaemnsItywShLwicelnnsge,,idnAdpupdlicinagfaiot nYoisuprusrlecehta'msendas
+tlldlcnlad nlOlaAppStoreCUIUmcttcol, pufdxmw Sleds pdof tume oxscuitlnl of thhl Schedule 2, ns weg88 9
+
+single ~
+
+cush msr vh ths VolumeContentSsnrheforuveilsbEynd.UswsanelbrIbrinsudh5on an
+
+dsvloss wgh Im ~
+
+ITln l w AcclNSNSist sfe owlwf of xxdndad by that hutuusolW NNImnsf hl
+
+accanlsrmewithme VocunsContentTerms,condiTions, end pmgramwnuhanwlbn
+
+PX-294g
+
+(s) hsus involvesfw Ow purdmve pace twyshs by End-Uvsm 5wOwUcsnsad Applicssons:
+
+Ill Il XWWXWI
+PX-2883. I
+
+50
+
+GAMES
+
+App Review Process "In Their Ow~ Words"
+
+more like the pretty lady who greets you with a Iei at the Hawaiian air port than the drug sniffing dog
+
+I s DQ QIlc rcv l c w l I l I 3; thcsc Rpps7 Is Ilo Qilc H1111cl1Ilg lac stor'cP
+
+ThiS iS 111SmilCII!IIII
+
+App RBvIBvI' Is brlnglng 8 plBstlc buttBI knlfB to 8 gun fight.
+
+Our 24 hour SLA is not xneeting expectations.
+
+Yes, they sometimes catch things, bUt you shoUld regarcl them as little more than the eqUivalent of the TSA at. the airport.
+We are building fire sprinklers but we I'ITI dUITlbfoUnded with how this could be slimmed.
+also need to pick up e hose
+
+shocking...dozens of complaints
+
+PX-0060; PX-0116; PX-0131; PX-0250; PX-0251; PX-0252; PX-0280; PX-0347; PX-2029; PX-2017
+
+52
+
+Fraudulent Apps From Beginning To Now
+
+Tile, 06 Jill 2010 SG b j c c t: Rc : Ap p S tGI'6hack IMw'8 BiQ@pJQPGscB statcHlcQt
+Mon, 21 Nov 2011 Subject: Re: fake negative ratings k reviews for paid app - pissible creditcard fraudplease help!!
+
+F1I,. 10 I'eb 2012 Sll b j C Ct: RC : Ap pStol'e&MMI gCIIS l1QbeBIabIC'
+
+01/I 8/2018 Su b ject: Fwd: Scam in App Store
+
+07/27/20)8 Subject:
+
+Epkilernlc of Fraudulent Apps
+
+08/07/2019 Subject: Fw d: Scam heartrate app is back in the App Store, taking $85/year - 9to5Mac
+
+10/24/2019 Su bject: Re: New iPhone Threat: These 17 Malicious Apps May Be On Your Device -- Delete Them Now
+
+PX-0436; PX-2053; PX-0063; PX-0367; PX-0065; PX-0373; PX-2084
+
+53
+
+Scam and Copycat Apps
+
+PtAINIIFF
+· ctaooesenLTRR-TaN omsoooIo rIooro
+a .Ro. JBLjjfj60
+
+Robjecc: Urdeat; Temple Imnp!ttl
+
+Rceetcnd(Dare): Fri 01 Feb 2012 10M? II?-dtt00
+
+C'c: EddyCae
+
+Hemi ~
+
+Josnik pondy
+
+Tec Phidip ~ Kecsn dmd
+Anarhmrnt: drmen dhot 20INlW6 at ld I?35~
+Dace: Fsi 01 Feb 2012 IOMII? Zttdp
+
+faa Fisohm
+
+Prtctteded md~
+
+?phot theheEisthism??
+
+Rememlm oar adhinp shmrEt ndind had Ipps mdh low Iahnps?
+
+~
+
+oar t alk ahem ~ the" N ~
+
+" of s tmm in cpoddyofsersioe?
+
+Cso anyonseeescip oiy ofatepsallieddame'?Aoy npnnemoea appdmtis rhesttnd dm system? Is no one moienmd dane spps? Is eo aee ~ th esane'I
+This m Innemc IIIII I
+
+CCINFI0 ENTIAI.
+
+Exhijbid QQ66
+FX-0000.1 APL-APPRTOREeast I 000
+
+Fh'ohhh: Ptuhp Sctllller
+
+,Subject: Ur gent: Temple Jumy ! t!!
+
+Received(9@fe): Fhi, 03 Fcb 2012 10:23:15 -0860
+
+Cc: Ed d C l l c okamoto
+
+Greg Joswiak Henri Lamiraux
+Emily Blumsack
+
+"C.K. Haun" on
+
+To: Ph illip Shoemaker
+
+Matt Fischer
+
+Atfachhnehhf: Screen Shot 2012-02-03 at 10.17.35 AM png Bate: Fr i, 03 Feb 2012 10:23:15-0800
+
+What the hell is this"p'.f'.j'7
+Remember our talking about fmding bad ayps with lowratings'
+Remember our talk aIbout bccommg the "Nordstroms" of stores in quality of service.p
+Bow does an obvious rip off f the super yo ular Tem le Run with no screen shots, garbage maf c hng cx, an 8 o s 8 I -st ail latmgs c colnc the 41 &cc 8pp on thc stol&
+Can anyone see a rhp off of 8 toy selhng game7 Any anyone see an app that hs cheatmg the system".
+Is no onc 1cvicwing these appsP Is no onc mmdmg thc store~
+This is msane!!Ij!!!' I
+
+PX-oo6o
+
+Scam and Copycat Apps
+
+On Jun 5, 2012, at 10:19 AM, Philip Schiller wrote:
+
+Sat jeet: Re: ItKW- App Saae cad Met App Saae Weetdp itedtteawk Weak etOi'M2912
+
+Te: 'PtadpSdxiReP
+
+Ce: %ddpCee"
+
+'T
+
+Jeeemk'
+
+Il ate: Twa15 Iaa 2912 17;21;BI+OOOO
+
+oa Iaa $, 2Ol2,at lO" l9 AM, Philip Seailiee twete
+OaIaa 5, 2912, at 10:12AMLMea F' iOddy, Taa,
+Ptwae ake a leek ewl let we teeewwhat watOmk.
+APP Stere Glelbal 812SimeOSOOmma2>e--VVeekOf 05/28/2012
+Ytw App StewSeeeeaedSSO.1McadSad33911ddeaedaak Iaa week
+
+Note you have a scam app, "Pam Reading Booth", on the top charts that should not be on the store.
+An you have "Hide My Fart" that should never have been approvedk.
+
+On Jun 5, 2012, at 10:13 AM, Matt Fischer
+Eddy, Tim, Phil and Joz,
+
+wrote:
+
+VVe've updated the weekly App Store and Mac App Store dashboard to be more informative and visually appealing. In addition to the data shared in the past version,,we've included forecasts cn units, bijllings and customers, through the end of'the year. For those interested, at
+the bottom, we' ve also included the top free, top paid and top grossing apps from the past
+week, along with their ranks and wt'w movement.
+
+Please take a look and let me know what you think.
+
+Scam and Copycat Apps
+
+u n rPu lhsgl ojjsto}TSFeFa s
+
+gn,go, PX-0174
+
+Subjectl Fwdl Frauduknt App ou App Store
+
+I ronu
+
+Reel'I'ledlD&te) Fri, 27 Mar 201$ I 0:00: II 0+INOO
+
+Tol Pbdltiip Shoemaker"
+
+euu 'Bimly Btumme
+
+goalDkanmm" "Mnn Fimher"
+
+Ccl Do u g spc
+
+y hue
+
+oby peterson"
+
+Attachment: Screen Shot21113-03-27at 0,$03 3 AM,png
+Atieebnlsut: bmeea Shot2tt1$-03-27 at 0.$OS4 Ant,png Anarhment: Scrmn Sho2t011-03-27etg$003 AM ,pug *nachment: Ssvcen Shot201$-03-27 at 0 s7.12 AM.png Attachment: Scntun S'hot2013-03-27 st 0,$0,11 Aht,png Atmehmcnt: ScrluoShot20 IS-03-27 ata s$29 Anhpag
+Dater Fri, 27 Mar 20 II 3 Iddtr I 0+INOO
+
+Piil ileged snd Confidential
+Tim received a complaint about dns app being a scam ldeesaitdowhat it says. Premiers bonus fcamrcs fm $ star mvicwl, creates fake marketing videos. etc).It is s giant example of the stutT wc should have mnomatie Ioob Io gad and kick oat of tbc lyme. I caa't belicvc wc stigl don' t. ManyI star redmrs, many mention "scam" and "fake". Then Ilook at tbe developem other apps eud sm the mmu usus repm&l.
+Pleaselookintothis.Icxpeetwcacedtom mavethedevelaperfm m ourprogram.landplSASS develop a systenl tosutoamtimgy foal lew mted apps aad purge themi Il
+Example af rcvicuu of'his apps:
+
+Begin fonvarded loesssge-. CQNFIDSNTIAL
+
+Exihibij px 0174
+PXdtt 70.1 APt-APPSTOAS 002003tg
+
+Subject: F w d: Fraudulent App on App Store From. " "Philip SchiHeru
+
+Received(Date): Fri, 27 Mar 2015 16:00.10+0000
+To: "Philli Shoemaker"
+"C.K. Haun" "Emily Blumsackw
+
+ORon Okamoto" Matt Flscher
+
+Cc: "Dou Vetterw
+
+"Toby Paterson"
+
+"Eddy Cue"
+
+"Greg Joswiak"
+
+Attachment: Screen Shot2015-03-27 at8.56.53 AIM.png Attachment: Screen Shot 2015-03-27 at 8 56 34 AM png Attachment: Screen Shot2015-03-27 at8.58.03 AIM.png Attachment: Screen Shot2015-03-27 at8.57.12 AIM.png Attachment: Screen Shot 2015-03-27 at 8.56.11 AM.png Attachment: Screen Shot2015-03-27 at8.55.29 AIM.png
+Date: Fri, 27 Mar 2015 16:00:10+0000
+Privileged and Confidential
+Tiirj received a complaint abou this app being a scam doesn't do what it says, promises bonus features for 5 star reviews, crea es a e mar etmg vi eos, etc). It is a great example of the stuff we should have automatic tools to find and kick out of the store. I can't believe we still don' t. Many 1 starreviews, many mention "scam" and "fake".Then Ilook atthe developers other apps andI see the same issue repeated.
+Please look into this. I expect we need to remove the developer from our program. (and PLEASE develop a system to automaticaliy find low rated apps and purge them!! )
+Example of reviews of his apps:
+
+PX-ox74.z
+
+Scam and Copycat Apps
+
+ymm Te.
+
+Yfydan N oewrata aran SereYd
+
+Ssyfeff aonlsu
+
+CC:
+
+SCC
+
+Ooeieat yed . Scam m App Slam Allaanmanla- SaamAyp yde
+
+Sent
+
+OuISISOIOOSSSSIl%II · Ieyytssrft
+
+md, yopmanodfafs. msmnem.
+
+-eee nwd memodmfo eowe»isenil Asm rdppenmy,
+-We osofdml lo Osduy ooooiuf nowIo eo oymdafaee Intr of elefe orans elm ollf oelolf
+
+prone Arman Anaol
+easiest Iywfl. Sawn la Ayy Snwe lulef Jaalwry IS, 261O el ISISOOI Au ySY
+
+Sl ainfofwafdml Ieelaeyw
+Firemf Yam eeylr Ssejeet Fnd'SIears m App Syne b aler I Ie,ts ' l y eSl OZSSAM yer Te:
+
+· O'POIaIAfmIOSaTmIFIaFdaf eedeayseAYSISTSS
+sa,snL!LRgglI
+
+Fmm:
+
+Trystan Kosmynka
+
+To:
+
+Eran BenwZvi
+
+Stoney Gamble
+
+CC:-
+
+BCC:
+
+8v l j e c jt :
+
+Fwd: S cam in App Store
+
+A@achrnents: earn pp.p
+
+8enf,:-
+
+0111 8/2018 05:50:51 PM 0000 (GMT)
+
+This PDFis shocking, lots in here.
+
+TIIlpa Yaom Yayy! Sll . Iamm ly OOIwOedefo Ool yffr Ylf lalyd: hmm yl l am
+
+l3ear Taru.
+
+I amslatinglo alert Tim lo a serious sepal lhot an app ~
+
+i
+
+App gtofe. The attachedslidedeck ~ hom efe app
+
+FX S Alano Fdga, ard Ss sistm appsinitha Holy Gril' gest F
+
+iprdgolyt are resp'Yfgrs hurskeds of ~ o
+
+fdel a nt a nfsrdh
+
+throw+ hsuduleni ard rsedeadlngprackoes.Theskdedeck
+
+eceptiveplacsces. It akyoprmtsoutduress of ~ b
+
+y
+
+gla App Stole
+
+I sae 'lrfsl. Islyat ut Helll 61SII s apps. Irdksfkag Ihe app lelsfled
+
+Sore htl ~
+
+gita I retugsfkeo el the treed,buttheapps'
+
+I am writing to alert you to a serious scam that an app developer is perpetrating hrough the Apple App Store.Theattached slle ec escn es ow e app lng ones remlum: Music,Sound FX RAlarmEd e" and its sister a s in the "Hol Grail. Best Free A Game Bible 5 Horoscope"
+ortfolio, are reaping in Hundreds of thousands of dollars a month from unwitting consumers
+through fraudulent and misleading practices. The slide deck includes screenmshots that depict the
+deceptive practices. It also prints out dozens of complaints by users in reviews they have posted in the App Store.
+
+PX.SSOS
+
+PX-2o29.x
+
+Fram: Tor CCr SCCI subject
+Sant
+
+RLAINTI 4d Ea, Ne.
+Fmf l I cant cedarstmd why opph' is hlalÃlgy foveeng Iprprlr4at of amohnQ Ilmrley hme IphlalfllQ apptom'wns. hgt2$2QIQ 53r4lt43 Ahl M M (Mt t )
+
+Date:August25,231Q etf.'gggg PhlPDT Ter Tryslsn wesmysm
+Snarl Crerrvrrre Subject Fwdr cIant nndemland mhy ap applicagons.
+
+Senl hammy Iphene
+Seglrl hllwmded rrlasaaQw
+
+Fram:IOTech Dev DalaiAugust 25. 25IQ al Trhgdg PN PDT
+Toraggrewfewal aagfe.cem
+Ce:Jade Nauisela
+Subjeah Icsn'tomlemhmd why apple ishhdangy mnrevingup the aatolsleamrg money hom phishing appgaagorm
+
+I aaa'Iundwslaml wiry applem dalanhycnraring up Ihe eat of shmlhg meneyfiem phishicg aplgmtans.
+
+ESIEWDENCY - Erasure endless ag of me fatowing phhlfing sppaaayMw I· wa rs n t i 5 5 $
+
+3 5 . S f wnt N tdi fg f tgfVVima
+
+3-
+
+aamtfgr 5 534555543v4vmm ~t f g r 5 4 345535455th
+asmtigr t m y fgf tyftp=gca
+
+v b r w a ' 'idl 35 7
+
+h "
+
+swatISI OOI435554554vhaa
+
+aemtm '81454tayfgf vmm
+
+HIGHLY CONFIDENI3AL- ATTONNEYD EYES ONLY
+
+Exitibi PX 374
+pjjdjg7 APL-APPSTO
+
+Phishing Apps
+
+From: Philip Schiller
+
+Date: August25, 2019 at7;53:29 PM PDT To: T stan Kosrn nka
+
+uC K Haun"
+
+Sean Cameronl
+
+Sub ect: Fwd I can't understand why apple is blatantly covering up the act of stealing money from phishlng
+
+appllca'tlons
+
+Begin forwarded message:
+
+From: HiTech Dev Date: August 25, 2019 at 7:30:46 PM POT To: a I 'eview a le . c o m Cc: Jade AiquIisola
+Subject: I can't understand vi/hy apple is blatantly covering up the act of stealing money from phishing applications.
+
+I can't understand why apple ls blatantly covering up the act of stealingmoney from phishing applications.
+
+EMERGENCY - Evaluate and remove ail of the following phishing applications:
+
+s : a s . a e.c o jl h i s 1
+
+.
+
+. Meu
+
+4 s: l la s. a l e . c ouV S /a / i d 1 166804523M7eIla
+
+4 s: / la s. a l e . c om%JS/a /id1455980324M'?eIul
+
+4 s ://a s . a l e .conj/US/a / i d1469326772M7lel n 4 s ://a s. a l e . conj/UJS/a /id1370329520a7sellu 4 s:l/a s.a le.conjlUS/a / i d 1372547331'?leaeo 4 s : l/a s , a i e ,cooi/US/a / i d l 439924524e7eIel e h s ://a s . a l e .comIUS/a / id145610902571Men
+
+h s //a s a l ecom/US/a / id1428238634>MIen
+
+htt s://a s. a l e .com/US/a / id1451175502M/Ien
+
+htt s:lla s. a le . corn/us/a / mirror-remote-for-firestick-tv/id1462846747
+
+PX-og74.z
+
+Fram: Tor
+ECCI guhjesk Sent
+
+Wmg Morm
+
+Xhag Ben Usw Carol Wa
+TeeWee Wlnn Epw
+
+R e i [AIERPBkcabdcPldeskChRuCERT mgmst iwmagcausosib ef nm-algciclXCOOE
+
+BBOBOBIB Itic?22 PWMI ]ESO]
+
+u.s.)uPwEwAc)))n7)·FF
+
+dig ~
+
+OR
+
+Ex. Ro, uo F~
+
+Balew is the versian phil ilumjust given ts'sgmen skpml. ilf you agme. we cauld delste fho Wst sanlance in the gkh ysnagrap
+
+Weshynewt to BBiw Wamissingdea jtdghggblsd ill red beknr) Ia thetiesl we calM.
+
+I, Apple'5 mcncgemsnt hcs coached greal Cnpoiwnce ln Xcadeehast usua. --Intesnsey,wehovemarshalled s lel of resoumesamassalii Apple toanalSse the situalian. check everyapp on the app stars. nsnove Mfeuted apps from Ayp Bhne. Contact the relevant impacted devehpwsa. ssist dcvdofn» with st»cking Ih softwareandigetgng chwn apps hack anthe slue guickly, lcock any aau submissions of apps wim ihe infeciien. -- OnSCIX 22. phiSl chylsr. Apple s Ssnior Vice president in chargeuf pnxlvct Idarkehng.ecceyiediSins 7~5 lateniiais ori xcodeslwst icsiieardiailvaofud Iiey uiiesgons atxiirtx Apple always rccaiciiaendc 4evalepais usethu oul. SeSWe WWSApym preudes mein -- mdu dog Xeede -- Ie SnSVmdmy'm eruibngBm momCamus Cope lbr Ayp Smm customers Apple inceryarates technowgies eke octekeepm esp»»ly m prevent mm App wore andfor unsigned version fnruywnu inclmfing Xcode. Oum bewg instsled. Those protecgunsIiad tohave been defberalely iysablsd by dm dev Ibr srsneygw like Xcudeehosl to successfully Metall goruecm» devekipem searnhimram tcub. such» Xcade. Ca athe non Apple silasin an effart lo gnd fashv ifaimloads af dovakxmr taals. Appleis wsrkwg lo make il team ier developers in Chwa lo downkmd Xwnfe bates.
+2 Apple has putgsheda Xcodeabssl OXAat its afccial wcbdm, explaminy chant lhe hackgreuml of me issue. why il
+happened.how the cons»ac» could dicgnase iftheirilsvb eshave been hrbmed and whattheyshouldda and APMe's
+measures agahmlthefnfwdnd apps. Iilcre ia Ihe Bnk X A iw i r o cs ml i m lrcod
+
+2 AppleIles pvblished a list iif Ihehip 25 iviost poptilw ayfx impscMBatria idgcial iiicbsrle.IWor Iha tall 2B ifayasled ap
+thenumber climpactcd »em drays wgnigcsngf.If ussmhave ana of these spps. they should update the ageaicd appw wll forlhc M»e an the user's device. Ilfthe app M avmlable on App Slwe, it lms been updated. i7 it isn t available h shauld
+uydaied vwy suan. Mere isthe Imk yhv a wo .Cu m fcrx cad hosp
+
+4.Axm XcixlaWloct wsae happerwd,Apple did aSwecnmgof lg gle xppsaii AppElan. anil look re all gie iiimclwl apfi5.
+
+We found Stm 4745 opycwere imsctedand must
+
+users wme sflemedfochwlnumbemay beless
+
+becauseusersmay am have keptthese apus onWeir clevaes ).Ofthe4 742 cops.E242 alm s 4on 'Chave a cgcnulrsion
+
+App Wore Tac with 22 755 [Iu imnlirv vergv] cushiirisrs. Wo also blocked appc iiiliich i»no iiifacladfiaili Ikmng siitmiklert
+
+B. Apple is working on further measures that mmmmend lu tha users lo update ymir krfmcad oops with dean veolons an deism Ihenl wilhoiil dean veFfioiis. Tire hest wali hi iiesoiva Ibis sgiiagmiM xsi irsefs giaiiti! Metwatg iipdicm theif comprsnc»d apps wchnewspps iyosled by Ihedeveloper. Tt45remavesmernaiwwe hem use» ssvlces.Ttmt ts whytm fseushasbeenontatamidaw n cum yromiseapysand getgngdeveleyem 55yutbask up nsn comp renusedi verd rmslo
+itpdxle usmc itaviccc.
+
+S. Wa behave that Ihe malwam cannel «cce» nmch user data due lo aur system ssndbuning and ether hue In
+
+Phishing Apps
+
+BCC:
+
+Subject:
+
+Re [ALERT:Possible Phishing] NCERT request on malicious code of non-official XCODE
+
+Attachments
+
+Sent:
+
+On Sep 29, 2015, at 12:58 PM, Ayman Khalil <
+
+WI ote:
+
+Here are some details we are able to share right now.
+
+App Review has provided us with a list of infected apps. his list represents versions scanned in the date range
+
+e The list is 4,955 infected apps e , o ese apps on ave a cleanversion on the store
+Given these 1.9K apps, we are looking at 30.6M customers. he two main countries impacted:
+e China 22.6M (74%) e USA 2.7M (9ok)
+
+CNCERT Qihu 360 and Antian Technoio iesshared their research 5ndin s about
+1. Over 20miilion users have been intected 2. Xcodeohost initIlator is based in Shandong China, but has rented 3 servers from Amazon's cloud service in the U.s, which are still active in gettiIng consumer data 3.Though there is not yet intormation about the misuse of the collected consumer data, the data could be used to remote control the devices infected to open webpages, make phone calls and send messages. It could also be used to create pop-ups to seduce consumers to install certain
+ro rams. The im actiswide andlon term. Itisthefirstcaseinitstype. 4. About 4000 apps of different versions have been infected.
+
+Italic
+Apps and Dangerous Situations
+
+Sabjem: Re: Fraudulentsmll.ife ThreuleningAyp
+
+Pron: 'Tiysem ttonrtyohs"
+
+Rrmivril{tlstr)i Wwl, lth Fch 2019 I e.chII6 ttihh
+
+Toi "Phili Schillcrv
+
+"Scen Csmcnmv
+
+em PmLoAo IwNoTI-FliFscli
+
+·r ~
+
+YGRle w
+
+cm Wvo, iio r Stsv t»
+
+En. aoJ.PXAKS
+
+Ostc. ttcd,06Fcb 2019 )9ay" 16t0009
+
+Privileged snd f ooIidcntisl
+
+rspp»nsremovedfiiwnrule There is nocvidenm offmuduient)Ap, the IAl' wnr seeptc removeads,sndwssclear ta custOnmrewhn theyweregettingT,heaypisstill nonsenseand twouldhotbeoh thcstore.wc um loohmg intowhetherthis»ashuman nror during rmicwora bait and switch.
+
+On I'eb 6. 2019. at ge14Aha Philip Schigcr
+
+»mte:
+
+Privilcgnl snd Caolidential
+
+FYI
+
+Regin Iora sided message'
+Fr~
+Sslbjaet:Freslidelas)tahcl Lifo Thfan tuttihaApp
+Cata: Fabmary 6. 20{6 at 7.54:3y Au PST Tot
+II Ir w : OV e w C EO ~ II -'I: tv s
+
+Hl Eihtv, Tlril iintt Ksthcttttc,
+Jmt as oymhec. I'ra sending tideemailin goodifsidt inordertoyrotecrApplesad its users.
+I bod ouserofone ofmy spps tegincabout.anoypcsllcdBP I)load rcssurcmonitor a {opp id: 143943y4361 thaist blsumdylying undstmling moseyfmm uoss. Tbo sypa{aimsIo detect blood prm arc ming thc camera fiom s Sneer tip. This is oot possihb at thc moment Itowcvcc, thou ands f users love been deed vcd ml Ihiohtog tlmi itIi (scc sm»hcd mv cws). It is corrcatly ranked 13th in the Medical Category, rncwong tlwi it'" slrmdy dane Saulimnt bann.
+This is shighlythmyemusRtpthatranleal users withhtyhblmxlprcssmeto belimdngturnthe blood ptmsurereodiata fromnc spp areaceumtc.Theaypslvayshusbloodpresmrereadings of mughly lhtygd, 1'to attm bedseine photosof tbc oppsadsomenegadie mviews,mgrating
+
+QQNFIPENTIAL
+
+Extultsit Pj{ N'T
+PX-Qsy{.1 APL.APPuTQRE ouymtea
+
+Subject: Ite: Fraudulent andi Life Threatening App
+
+Fr{pm: oTrystsn If osntynkao
+
+Recei> cdt Date): We{L 96 Feb 2{) I9 ) 9:5)t:16+0000
+
+TV: philipSebilief
+
+"Sean Cameronn
+
+CC: oROn Ukantutuo
+
+nC.K. Hauno
+
+tyate: Nfed,06 Feb 2{)19 19:58:16+0000
+
+On Feb 6, 2019,,at It:34 AM,,Philip Schiller
+
+Begin forwarded messagt:.'
+
+Firiare
+
+Cahrtdartael
+
+Subject: Fraudulent aind Life Threatening App
+
+Oete: February 6, 2019 at 7:54:37 AM PST
+
+Ta:
+
+Resent-Fram". GNce of the CEG Resent-Ta: Phil Schiller
+
+Hi Eddy, Tifn and Katherine,
+
+3ust as a pret'acc, I'nl sending this email in good faith in order to protect Apple andits users.
+
+I had a user of one ofmy apps tell me about an app calllcdI)p lI)lood rcssure imoniitor a lapp id: 1439437436) that is blatantly lying and stealing money from users. The app claims, to detect blood pressure using the camera from a tmger tip. Thisls not possible at the moment. 1 lowcyer,
+thousands of users have been deceived into thinking tihat it is lscc auached reviews), lt is currently mnked 12th inthe Medical Category, meaning that it's already done significant harm.
+
+This is a highly dangerous app that can lead usep with high blood pressure to believing that the
+
+blood pressure rcadinigs fl'omthc a afc accurate. 1e app a ways ias oo p ressure rea lngs
+
+o roug y ,
+
+'Ticattae e some p otuso 1 eltppandsumcncgatiscreviews,rcI)ecting
+.
+
+Iflothr lnclccafatc aud M1ISIcading thc app 1s. T111s1slife thrcstcnugg.
+
+PX-0$71. 1
+
+Apps that Had Offensive Content: School Shootings
+
+Fram: 10:
+CDI BCGI B tmtggt l R~ Bsmt
+
+Tryatan Pssrnynka Dsn Msrlinsa duslin IMn
+Re: tmBkshasl almnllng
+gktgtttmtg Ql:14:s3 AM
+
+1. Tms is spam andnut a tsrraistedlmsl
+
+3. I'rn ~ u
+
+gh hear t his saul d he
+
+3.1thinkwe mg aes espy snhrsnd shsuld ' calidliisna.
+
+Is Trydan.
+
+Dulck Ilprkde while I wait iar Blurs IRsa
+
+The app waa ~
+
+seai g csd ln Armi
+
+unstuck Bn
+
+reject Brass stew far 1.1. nr at IheInert
+
+ackmnn, lhe deadiaat mess stnstlng in Ba II assume learn urer a Iheishlanadaw
+
+sw share af psnpla apprsdng sng'ne
+
+Alas,ylchars 1 sppsmsnyatthe mslsda
+
+0 J mein,, it sppews dminia assisting in
+
+Inallplale raa aafaakgattral. Gn e sids
+
+Ielcg Isa ~
+
+I hack In Melan. Thk
+
+Dstalad raped and~ qusstiwre
+
+gwwte
+
+· DBwganemgwyrgnglhySgstlhrsycmt Bnga PX%131
+
+FI'om:
+
+Trystan Kosmynka
+
+To:
+
+Dan Martinez
+
+CC:
+
+Justin Morgan
+
+eCC
+
+Subject: Re: hot: School shooting game on the App Store
+
+Attachments:
+
+Sent:
+
+05f30f201 8 0), 1 4.43 AM OOOO(GMT)
+
+3. This is Spam and not a template developer, should never have been flagged as template
+
+2. I'm dumbfounded with how this could be missed.
+
+3.1 think we will see copy cats and should include school shooting and terrorist related terms in our objectionable content
+validtaions.
+
+PX-ot3+P
+
+Px<131.1
+
+APL~
+
+RE 886 1 4538
+
+4oo,ooo+ Apps Removed
+
+X
+Ws start -Outdat -Apps th -Apps th -Many m Many of Apps ora Tasks for Pay for s Keywonf Coupons Weh Co Poor-Qu Re-ukmn Name &
+
+We started the process of removing: -Outdated apps -Apps that no longer functioned as intended -Apps that didn't follow current review guidelines -Many misleading / program abusive Dev's and apps removed
+Many of the apps violated guidelines such as: Apps crashing on launch (2.1) Tasks for cash apps (3.2.2) Pay for social likes / followers (5.2.2) Keyword stuffing (2.3.7) Coupons (PLA 1.2) Web Content Aggregators (4.2.2) Poor-Quality Websites bundled as Apps (4.2) Re-skinned Game Guides(4.2.2) Name 8 Icon Mismatch (4.1)
+
+·
+
+e 0 e·
+
+DX-4399
+
+to date as part of the cleanup program.
+
+DX-4399
+
+GAMES
+
+Tim Cook
+Apple CEO
+Sir,we treat every developer the same. We have open and transparentrules.It'sa rigorous process because we care so deeply about privacy, and security, and quality. We do look at every app before it goes on. But those rules apply evenly to e veryone . . .
+Big Tech Antitrust Hearing Full Tr. at ol:15:46
+
+Khitelisted Developers
+
+Tor
+
+Pebe tgstsd
+
+CCr
+
+vr
+
+Suhteob Be:H ulu
+
+A etuuwrlr-
+
+Seat
+
+'IWIW201S rsmldg Abt mmg (Wmry
+
+Yes.0's the smar Issue.Astmr krma. 88 rmfllnd aml Hrrlrr bvTrxIhe hrua Ste day we wsr8 frrsde aursr8 rrli IL IHrmev8r, I
+
+Hulu is part of the set of whitelisted develo ers with access to subscription cancel/refund API.
+
+Cab:r ttvtubw 'I 2, 2018 at ydareg PNI PCT
+
+Te Nlstt Fwdtm
+
+Erie thay
+
+Car Tryvbvn Kosmyntm
+
+Pmbuum P~
+
+rrbttvobIge Hrrln
+
+PX-oo64.z
+
+Hvl« m inst al aw sut et alitel Ised ~
+
+«i th astern bt ~
+
+esnss y mmnd API
+
+gmk in 201 0 gay awa using ISis mmypwt imlanl upgrruH uang a 2 fsnily sel vp. betvre we had vsbvvdygon
+
+upgrade
+
+s ~
+
+bumin.
+
+Eris - did anyone Sam yum leam work wbh them ss pwt af gwm launvhlng gw live servivey
+
+See below.What isgesabouty ltae can Hulusvvlvhpeopleeum IAP loHutuWan g'rThm doesn'tseem right
+Exhibit 0064
+
+GAMES
+
+From the Developer Surveys
+
+, 01
+
+·
+
+·
+
+A
+
+·
+
+A
+
+A
+
+·
+
+· A
+
+·
+
+·
+
+·
+
+·
+
+Apple Market Research jk Analysis March, 2010
+
+o jective or to ay-wor ing session to --share initial prese of findings, get reaction to the results and the format -- decide on any needed tweaks before sharing with Ron and Phil, others
+
+More specifically, developers complain about the time it takes to hear back and the quality of feedback
+
+to hear back, inconsistencies in response times
+42 Feedback from app review team is not clear, use of boilerplate responses
+@ 3 Rejection criteria is inconsistent n d / o r not transparent
+@4 Would like more visibility in the process, and an ETA
+45 ome have not et hearbdack from App review earn
+46 Some complain that not all feedback is given at once
+Reasons for dissatisfaction: App Review Process (in decreasing order of mentions)
+
+Q27/28/29. What is the main reason yotr are dissatisjjed with [AREA]?
+
+DX-4626.25
+
+From the Developer Surveys
+
+APP REVIEW
+
+The biggest frustration with developing on the Apple platform is the
+
+" Your devicesare lovely, but the way you manage your App Store has a very material
+
+turnaround time for apps being approved. Evensmall updates or emergency
+
+negative eifect on developers especially small ones and as a result I believe
+
+b ug fixecsan take more tha
+
+revenueand customer satisf
+
+process speedier,I believe all
+
+Pleasefixyourappreleasep FY16 App Store deveIoper survey open responses
+site to get one ap p publish your app using a MACIt.'s ju
+
+o%ce instead of email.It just
+
+takes 7 --10 days for an app t
+
+from approval to published. development for the app
+If I make four releases a ye
+
+I am to the pcint where I don't even want
+
+The review process isone of
+
+could ever go through. Peo
+
+App Store review process is used I just had an app in rev
+
+Co update my apps more Chan once a year because I don't want to deal with
+
+saying one thing was wrong
+
+to look at it again. The next
+Che review process and th arbitrary enfiorcement of rules. thatIfixed,insteadtheywo
+kick it back tome for anothe
+
+to update my apps more
+
+the review process and th
+
+DX-g56g
+
+HIGHLY CONFIDENTIAL --ATTORNEYS' EYES ONLY
+
+APL-APPSTORE 06134338
+
+From the Developer Surveys
+
+Flam:
+To:
+CCi SCCi Sub(sa c
+
+ulatt Ifixaka" Slma mmlllnxx
+Sum mmy sf nswncpar Wruwlrfc fiom Fyta Sunny
+
+P(A(hhyp
+cp cwm a
+ms no. mx ca~
+
+Sent Hi Iuatl,
+
+Otul$2SISIm'.17:25AM SSXI(MM77
+
+Thought yau might fmd i Crestings selection of verbatim ~ r
+
+elat e d to the App Store from Ihe FY18
+
+survey.
+
+0ue lolaniled fim e we csn onlyinclude a handfulquotesw hen we shme the msugs wdh yae on T uesday. Rya
+
+and I gmught you woitld be interested m eading add@anal verbsgm responses Ihst represenis the developer
+
+ssaomenl tmmats the App Stare.
+
+Heeds up - Ibis emeglstong, hopktgeven ifyouskknthrough sashthemeyouwiil gnddMsighgul:i Eec'hqunte exacuy as thed'eveloper wrote il.
+
+Cx What canwe do m m ake theApp Shireb atter? Total number or rsspandsnts: 3387 (Balms a sstsckon fncm the 3387 rnsponcss orgsnixadbymsmsi Rwjion: US
+· Apple store needs tohave 'smart search abiyty. Having to requirecustamars to speg names cxscgycone M thh, age h rkgculnus for a nmgi-mluon dolor companyI.llca same goes for I?uncs music
+· Search in ths App Stare is (stigimally raugh around Ihe edges. Apple's ddfemnlial pmracy voodon should leveraged hem to prowde better search results in a wsy similar to Guugle (wtuch hsa an uuer lack of pnva bot wmenorsearclv resuusi.
+· arganic discovery is vuluauy impossmle now Them needs to be a better wsy to perform ASO or generate dowwosdsfloursearchtragic.
+· Auhough I gave ilhe App Shee a Ihlghmbng,, thias ai» tsw pd legs wtuch Apple can address: o li The App Stere isplaguedwithoutdated, lowqusgtyappswhich makes k harder for higher qusgiy apps to get Ihe expasccn grey need. Ifs Sme Apple nues Itha bar agan. axd us standard af what into the app atom It seems that nowadays, some low quaNy apps make the nit when they shouldn' o 2j Apple neath to be moreindiafriendly andi provide mom ways far Mdies tn get ikeir spps and g
+exposed oii tha App Stain imlhoiil ths need Io cpaiii! big SSS oii iiiailiauiig. o 31 am search algonthmu temble. It w a ra'Cng based aigonlhm rslhw than a name seamh I caa
+searchformysppsandtypetheirEXACT name and theysglwon'1com eup.Imsyeven needto scrogdown 10gsofpagesbeforemysppshows up.Thiscyclesbacklogivmgus,indiesmm e exposure an the app store as we do not posses massivebudgets ha markabng and sdvertismnerrts.
+
+Subject:
+
+Summa r y of Developer Write-Ini's from FY18 Survey
+
+Attachments:
+
+Sent:
+
+G9/16I2918 GG:17:25 AM GGGG(GMTII
+
+App Review
+· We release every week. When our app is rejected by review for something entirely unrelated to the changes we have made, it's extremely disruptive and throws us ofif our cadence. Please figure out how to let us proceed with the release and address the issue in the next week's release. I.e., give us a warning that something is wrong instead of bein a brick wall for us to run intoheadlong.
+e The app reviewers are sometime arbitrary and unpredictable. The app reviewers ar not consistent amongst competingapps
+a The review time has improved a lot, But developers could have a better mechanism in case of major bugs found in app that would need to be fixed and replace in the App Store in a timely manner. My suggestion would allow developers to bypass the review process in special cases and perhaps limit the number of times per year a developer can have these special cases. In this cases, when developers choose to bypass the review process, the app would still be reviewed after and if the review process finds that the app should be rejected the App Store would automatically ievert back to the last version. This way developers would be penalized if they abuse the bypass for example by publishing a version of the app that has features against the Apple's guidelines.
+e The review process i arjbitrary. pplying guidelines consistently makes it easier tor developers to publish
+apps. I recently had an app rejected when I only changed the license key for some third party software. The app has already been on the app store for several years, but it was rejected for the user experience (whichi didn't change at all in the update). So it took me about a week to rewrite the app and get it approved. In the meantime the existing license expired so our app stopped working. This caused a lot of frustration for our (Iand Apple s) Users.
+
+PX-2002
+
+APLVBVST(7RE 02012841
+
+PX-2o62.z, 2o62.3
+
+"Arbitrary" and "Inconsistent"
+
+Sebjeetr RaAyyleeeeeiemeewnbfwegeyredau Fram: "Ptetbp ~
+ReeetvedlDete): Weg 04 Mar Rrt5 Iyr45rt3 e0000
+: e a
+hrtvdegedeadeeagdeteed
+
+4:rmvee,eyevtbeetaeett~u~nbh' vertrnreencr rVteau serac,~LT L
+rve f ~
+As the CEO of Intego I have several serious issues with this situation.
+
+I dtdab emitely epee, bet beeadTehywae alawuu.
+
+Let me lutew if ne dteetd do ~ dtf f ewta here
+
+On Mad, 3015, et 11.04AM, RaaOtaetem
+
+Pttvgeged em~l
+
+WhereS n ~ e adm v
+
+Sett Sammy iPbeae
+
+Regia ~
+
+taee t ege.
+
+Beret March 45015et lt toJS5 AM ygy Ttn Subject: Ayybt were hmet mtb rntege ynvlaet
+
+This seems like a ver ar'bitrary decisio~ on Applle's part to delete without warning a popular product that no on y so ves a very real issue created by the popularity of the Apple mobile devices but has enjoyed great success for the last four years as a member of the Apple App Store. Gur Enterprise customers love the fact that our
+product closes this threat vector.
+
+Yourname was given Io mebyJeremyLevineal Bessemer Parinemomw Intego. Inn
+I have a problemthatI amhnpieg ynuamhelp enewfih oneseengApples mrbbm
+rema@ ofouprmdunt,wilhaut warningfin, m OwAppBtmsallerbmngOwmfar fear
+years.
+
+PX-o117.3
+
+By way of intrnthefion. Inlsgo a a ~ oan pnny Owl hns, forleSaml 16years, fontmdonwriringetourilysngwsmfnr OmAppleMsemmfieLOverSessyears
+
+"Arbitrary" and "Inconsistent"
+
+*4 M
+
+-- Reviews: Simple pUt reviews take too long, the process is still too inconsistent
+
+CH
+
+PX-2o28.z
+
+OLjr panelists repeatedlycited inconsistent and harmful App Store policies
+PX-2oy6.z
+
+%~ow, you guys are almost >ing to piss off developers. From making a splashy intro fox iOS extensions atAVW'DC to now where tlhey 're being arb~itrarilv rejected (even after 4eing approved!). None of this appears to make any sense.
+
+Words of Developers
+
+Srlb]set' Rs.' ybeaaseS}r}Kprtsarertyf asasey
+ErrctsrdiSISIS):Sal, t1 bfay2019 01:}y9} UtOO TS: Stereo%ra 'SQII Rork Ue !4dewse iEswfa har b h .Sam}bbdb ~
+.Irtrohbmhoe 9ate: Sal,
++ Fm lost for words aud houestllyfeel like ctyiug that au o1 gauizatiou has so umch poxvet to
+destroy a business like mime.
+
+SOIScrUICOSCCJCCIASSCU, rolvoIUCForlt, SOIVOIUCFOOUOacc
+
+Barrett, tbebtsektsSis sss}ty~ d bet otbepreseraeof jastoss ofSam (SCIUscrrtSSM:t)o tbeItpp aeslew esratsdb}sdrSSSTbe otbraattbc sdd1ratoK ate ~ pttrsae bydsSsOKE}S, bat tsedaa'I MeektbeappSrrdsareasoo aleae.
+Utda 4SNSSddisdare(~ Ye }jotrstoaweEejdsa't barea Soodwayto stport Saba
+
+ChUUth20h.h h h h hh h U ~ 1 seal tbc radabr lade la is beeaore of AppRersew blsrk}lss Sissca
+
+~:
+
+PX-2358.q
+
+GAMES
+
+Apple Does Not Know or Estimate Consumers' Lifecycle Spend
+
+EMy Cue
+
+Apple's Senior Vice President of Internet Software and Services
+
+X
+
+Q. And if I remove the word "iPhone" and just ask you, are you aware of any information, which indicates how much the average consumer spends over the life cycle of a phone, does that change your answer?
+A. No. Again, I mean, it may have been. I just don't recall anything like that.
+
+Cue at 188: 15-22
+
+Apple Does Not Know or Estimate Consumers' Lifecycle Spend
+Matt Fischer
+Vice President, App Store at Apple
+Q. Are you familiar with any work that's done within Apple to determine the amount that a consumer
+spends on apps over the life cycle of an iPhone? A. No. Not over the life cycle of an iPhone.
+Q. Are you familiar with any work that's done within Apple that looks at how much the average consumer spends on apps on an annual basis? A. No, not on an annual basis.
+Q. Are there any -- are you aware of any information that Apple provides to customers, estimating for
+them what they are likely to spend on apps on any kind of periodic basis? A. I believe I answered that before, but again. No. We don't publish forward looking
+things, we don't -- we don't read people's minds.
+Fischer at rgb:2-5; 8-11, lg6:9-17 75
+
+GAMES
+
+Rossi Survey Results Overview
+
+[3] Share of Switchers
+
+(3o of 2,338 Deciders)
+
+· y
+
+4
+
+4
+
+95% Con6dence Interval
+
+[1] Number of Deciders
+[2] Share of Stickers
+[3] Share of Switchers [4] Overall Spending Reduction [5] Overall Elasticity
+
+2~338 80.6%
+(1,884 Deciders)
+(30 Deciders) -11.0%
+-2.19
+
+79.0% 0.9%
+-2.85
+
+82.2%
+1.8%
+-1.65
+
+GAMES
+
+©APP80N '
+
+Q+ SPOttfy Listening is everything
+Music and podcast in one place
+Listen to the music you love snd discover new podcasts
+
+<o(ye
+orts
+cry ea/rc,
+
+OCrrtg
+
+yeste~e,,
+
+/ctf FF'Sft
+"a Sf,,
+
+~a
+
+~ co~
+. ·
+y,'i
+
+iHeaI't
+
+KEN SHAPE
+
+Spotify Music Spotlfy Technology S.A.
+Free
+
+itch.io itch.io I itch.io
+Free
+
+i Heart: Radio, Music, Podc,,, Ke n S h a p e
+
+iHeartMedia
+
+Kenin ey
+
+Free
+
+- pW<. + The fastest bfawser fiGr
+'I/6 0 f' 9 a Ale In 9
+needs
+
+grove strips away trcckers
+
+S actsthat hocJ clown
+
+raini'd ICriita i its ll,
+
+perlorrnance, making it 3x laster inan Chi arne
+
+~g~ a t i tr'aeFtaadarrLt
+
+Krita Kiita Team I Krita Project
+
+Brave Brave Software, Inc.
+Free
+
+Music
+App
+
+Digital Storefront
+
+Radio
+App
+
+3D Model
+App
+
+Painting
+App
+
+Web Browser
+
+Epic Business Overview
+
+Gaming Apps Non-Gaming Apps
+
+I
+
+I I
+
+Gaming Apps
+
+Non-Gaming Apps
+
+' II I
+
+I
+
+I
+
+Gaming Apps
+
+Non-Gaming Apps
+8o
+
+Fortnite Modes
+Battle Royale competitive gameplay
+Party Royale social gathering
+Creative
+user content creation
+
+Fortnite Concerts
+
+Fortnite
+Films
+
+Fortnite Events
+
+!
+Q
+
+L
+
+84
+
+GAMES
+
+Apple Executives Aren't Aware of Customer Switching to Android Due to Prices
+Eddy Cue
+Apple's Senior Vice President of Internet Software and Services
+AR
+
+Cue Dep. Tr. at 248:1$-20
+
+e e
+
+I
+
+Apple Executives Aren't Aware of Customer Switching to Android Due to Prices
+Matt Fischer
+Vice President, App Store at Apple
+Fischer Dep. Tr. at lgo:g-6, 8-9, >4->9~
+
+GAMES
+
+Latency Is Problematic
+EMy Cue
+Apple's Senior Vice President of Internet Software and Services
+On Latency:
+Q. [W]hat's your understanding of that term? A. It's basically the -- to put it in layman's terms, if I click a button, how long does it take for the response to
+come back from the server. Usually measured in milliseconds. And so for things like gaming, it s really important because obviously if you' re moving around in a game, if it's delayed, it can signi6cantly impact the experience of the game. Q. And are you aware of any studies within Apple that have looked at latency issues in connection with streamed apps particularly with regard to game play? A. Again, I don't recall any. Q. Are you aware of any studies within Apple that have looked at any functional -- functionality differences between streamed appsand native apps? A. Again, I don't recall.
+Cue Dep. Tr. at 18o:15-181:7
+
+NativeApps Provide a Better Experience than Web Apps
+Scott Forstall
+Former Apple Senior Vice President
+of iOS Software
+I L
+Forstall Dep. Tr. at
+81:2-10, 81:17-82:1 90
+
+GAMES
+
+What Our Case Is About
+
+~gO
+e
+I
+
+~gO
+s
+
+92
+
+What Our Case Is About
+
+~gO
+e
+I
+
+~gO
+s
+
+· s
+
+· s
+
+93
+
+GAMES
+
+Value to Apple of Free Apps
+
+PLAIIITIFF
+tl,s,I uet, mm HNIIL
+
+Fmm: Te
+
+blare Snsan bleu Fmdter
+
+Sggt
+
+S ubject He The Inlbrmatksr Hear Steve Jabs. atht e tgmm clfApp hm. Hncdistdu Irrdmeef Mehye
+
+AH5CIBICBI5:
+
+Sank
+
+IFA27I2015 IN:OCIW AM gggg (GMII
+
+ABSISNg Iaalg Thanks bc55!
+
+Hre saidia mfriesnls, hut I williccngnuetn defend Ibis paint
+
+As brt cc Illcjcr evctnohs (cmseegt' cnncfll lfcanaemarly celnfnurf'wacetfi. sscmf tisfsngIphmc v Ihlelrlef w ipbche.
+ThBI'5 tau nllcblbcwny tluck.
+
+Team
+I don't know oÃthe top of my head, but the majority, clearly, which is great. Our pur ose in the Ap Store is to add value
+to the iPhone. Free apps do that just as well as paid apps sometimes. We love free apps.
+
+Fluhlt 5 Elate Juty 25. EWS si St IIISCAN IPST
+The Infarma&n and The Was SheafJournal have jlutgy puhsshed an surya recanliny cf a Angum 22W mlehftew wsh Nave. ffscuscmy the ucttB55 of the App Stela Inta BSNSI BN'I Isllhclllllg. Napmtw Igfw WBWgcbl snfs em famhfaW dasemm "heWCneatsrdannatnm Mr, debs reasyWaeJ CShe VieWCCtheeppmhnihm S rearm NOhilsSaeuam 'yean heinie ds cnccc5B bccRhat ccavtwfltrmluwdctm
+
+berneksyoumas ettktdn
+
+· Wa lblh t NIPBctSIN hethlc hlg. Tba mnhim tukubkfs BRINr sech Baygcag Stn gcs. Tlt hn hcnrwkhalthw has
+
+me esm putsr Indmayf · R ecluagy Ihink Sw iphnwaedthe iTed leech may emerge ss rangy Nable dancesinew moNe yawing market
+
+Sds heliday seasan.
+
+I weuld ma aust sny cl' our ~
+
+becau s e rsawy has sn far escewled thun hy such a great degree Nat
+
+wc'veecchfedtwtd lc 5 ptcmmmj ewCitetoe'
+
+· Qn the patenlidafgm App Smret 'Wary be dmuag on the ceifny if we cmss aIhay a SWanMeyarsj. Maybe
+
+· cmadw we'I gmma eileen
+
+olfe Iheugnl last ew Inpvi wtwkl sftrtN skrw dawn bem developers, tsdlfs eccelermng J
+
+The Itdcrmagon Hear Steve Join,et me geon at App Stere. PrcmetmeFulwe CIMCNN
+
+PX-2o6o.5
+
+HISHLY EyyNFISKNTIJL-ATHQNNKYS' SYSS fyNLY
+
+APLJkiNSSTQNS 0201022T
+
+95
+
+GAMES
+
+Building Linutations into the License
+
+C ': IM R M k ~ F : R Kb ~
+T'. S Sebjerti Re: Gaaete Friend Fmder Receired(I7ste): Mce, 30 tsn 2008 07:42:34-0700
+here: Man, 307VS 2IOS 07:42:$4-0?N
+Vlrhen aley have contacLsIIII Ulelr app, these are onsf018cantscLsoil the iPhone and not a merge of contsds fiom Google, right? I think it WOUldtie 8 really bsd idea for somethmgsmtlooKSske cantscls Io have mntacts mrt onthatiPhone, andcouldlead topeoplenotusing aur ~ app at all We may want to limit this inthe license
+On JIUn 29, 2000, at 626 PM, Scalt Famtst wrate
+I just had a good mnversation wilh Vie.
+I let IhimImowStattheycankeepcontactsearchinganddisplay in their iphaneapp. He was veryhappyta hearstsL
+I also told film wBSfauideddBSBB'tVIBWlo Maps by e Bnd of thB
+year, with a Swgel of November He would liKe this to be in the map tiles mntract with "mmmerclally reasanable edarls" language.
+I ibid him we nile open to dlsceaslng what It nleails to sdd IFrielid Finder. He wants ta schedule 8 meegng inthe nexl week BSIhPhil and ine to discuss SIBexact featUre sBL He says they have atloUt Inme weeks to decidewhether tolaunchit onotherphonesthisyear, or push back to next year
+Vic, Lany, Sergey, Eitc, and others are meeting tmmnow at 11am lo discuss this topic.
+
+PLAINTIFF
+jt c: Phil Schiller
+From: To:
+Sm¹jeet: Re: Google Friend Finder
+Received(Date): Mon, 30 Jttn 200jj 07:42:54 -0700
+Ioate: Mon, 30 Ju 2008 0742 54 -0700
+
+When they have contacts in their app, these are only the contacts on the iPhone and not a merge of contacts from Google, rightT I think it wouIcl l3e a I'cally l3ad idea fol something that looks like contacts to have contacts not on that iPhone and could lead to eo l e not using our contacts app at all. VVe may want to limit this in the license.
+
+Steve
+Exhjitrjt PX 890
+PX-0090.1 APL-66 O0147SSO
+
+PX-o89o
+
+GAMES
+
+
